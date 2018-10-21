@@ -1,6 +1,9 @@
 import torch
 import torch.nn as nn
 from torch.autograd import Variable
+import numpy as np
+
+from submodel import SoftDotAttention, EncoderLayer
 
 
 # without attention
@@ -48,40 +51,6 @@ class Network(nn.Module):
         return output
 
 
-class SoftDotAttention(nn.Module):
-
-    def __init__(self, dim):
-        '''Initialize layer.'''
-        super(SoftDotAttention, self).__init__()
-        self.linear_in = nn.Linear(dim, dim, bias=False)
-        self.sm = nn.Softmax(dim=1)
-        self.linear_out = nn.Linear(dim * 2, dim, bias=False)
-        self.tanh = nn.Tanh()
-
-    def forward(self, h, context, mask=None):
-        '''Propagate h through the network.
-
-        h: batch x dim
-        context: batch x seq_len x dim
-        mask: batch x seq_len indices to be masked
-        '''
-        target = self.linear_in(h).unsqueeze(2)  # batch x dim x 1
-
-        # Get attention
-        attn = torch.bmm(context, target).squeeze(2)  # batch x seq_len
-        if mask is not None:
-            # -Inf masking prior to the softmax
-            attn.data.masked_fill_(mask, -float('inf'))
-        attn = self.sm(attn)
-        attn3 = attn.view(attn.size(0), 1, attn.size(1))  # batch x 1 x seq_len
-
-        weighted_context = torch.bmm(attn3, context).squeeze(1)  # batch x dim
-        h_tilde = torch.cat((weighted_context, h), 1)
-
-        h_tilde = self.tanh(self.linear_out(h_tilde))
-        return h_tilde, attn
-
-
 class AttnNet(nn.Module):
     def __init__(self, pretrained_embed, embedding_size, hidden_size, output_size, dropout_ratio=0.5, num_layers=1,
                  bidirectional=True):
@@ -121,6 +90,7 @@ class AttnNet(nn.Module):
 
         ctx, (h_t, c_t) = self.lstm(embeds, (h0, c0))
         '''
+        # last h attention
         if self.num_directions == 2:
             h_t = torch.cat((h_t[-1], h_t[-2]), 1)
             c_t = torch.cat((c_t[-1], c_t[-2]), 1)
@@ -147,3 +117,80 @@ class AttnNet(nn.Module):
         output = self.BN(ctx_out)
         # output = self.softmax(ctx_out)
         return output
+
+
+class TransformerNet(nn.Module):
+    def __init__(self, pretrained_embed, len_max_seq, embedding_size, inner_hid_size, output_size, d_k, d_v,
+                 dropout_ratio=0.1, num_layers=6, num_head=8):
+        super(TransformerNet, self).__init__()
+        self.n_position = len_max_seq + 1
+
+        self.w_embedding = nn.Embedding.from_pretrained(pretrained_embed)
+        self.pos_encode = nn.Embedding.from_pretrained(
+            self.get_sinusoid_encoding_table(self.n_position, embedding_size, padding_idx=0),
+            freeze=True)
+
+        self.layer_stack = nn.ModuleList([
+            EncoderLayer(embedding_size, inner_hid_size, num_head, d_k, d_v, dropout=dropout_ratio)
+            for _ in range(num_layers)])
+
+        self.out = nn.Linear(embedding_size, output_size)
+        self.BN = nn.BatchNorm1d(output_size)
+
+    def forward(self, seq, seq_pos):
+
+        enc_slf_attn_list = []
+
+        # -- Prepare masks
+        slf_attn_mask = self.get_attn_key_pad_mask(seq_k=seq, seq_q=seq)
+        non_pad_mask = self.get_non_pad_mask(seq)
+
+        # -- Forward
+        enc_output = self.w_embedding(seq) + self.pos_encode(seq_pos)
+
+        for enc_layer in self.layer_stack:
+            enc_output, enc_slf_attn = enc_layer(
+                enc_output,
+                non_pad_mask=non_pad_mask,
+                slf_attn_mask=slf_attn_mask)
+
+        ctx = torch.mean(enc_output, 1)
+
+        ctx = nn.Tanh()(self.out(ctx))
+        output = self.BN(ctx)
+
+        return output
+
+    def get_sinusoid_encoding_table(self, n_position, d_hid, padding_idx=None):
+        ''' Sinusoid position encoding table '''
+
+        def cal_angle(position, hid_idx):
+            return position / np.power(10000, 2 * (hid_idx // 2) / d_hid)
+
+        def get_posi_angle_vec(position):
+            return [cal_angle(position, hid_j) for hid_j in range(d_hid)]
+
+        sinusoid_table = np.array([get_posi_angle_vec(pos_i) for pos_i in range(n_position)])
+
+        sinusoid_table[:, 0::2] = np.sin(sinusoid_table[:, 0::2])  # dim 2i
+        sinusoid_table[:, 1::2] = np.cos(sinusoid_table[:, 1::2])  # dim 2i+1
+
+        if padding_idx is not None:
+            # zero vector for padding dimension
+            sinusoid_table[padding_idx] = 0.
+
+        return torch.FloatTensor(sinusoid_table).cuda()
+
+    def get_non_pad_mask(self, seq):
+        assert seq.dim() == 2
+        return seq.ne(0).type(torch.float).unsqueeze(-1).cuda()
+
+    def get_attn_key_pad_mask(self, seq_k, seq_q):
+        ''' For masking out the padding part of key sequence. '''
+
+        # Expand to fit the shape of key query attention matrix.
+        len_q = seq_q.size(1)
+        padding_mask = seq_k.eq(0)
+        padding_mask = padding_mask.unsqueeze(1).expand(-1, len_q, -1)  # b x lq x lk
+
+        return padding_mask.cuda()

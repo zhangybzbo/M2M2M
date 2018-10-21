@@ -82,8 +82,11 @@ class tokenizer(object):
                     if not word.strip() == '':
                         wordtok.append(wordls[word.strip()])
                 new_data['phrase'] = wordtok
+                new_data['position'] = [i + 1 for i in range(len(wordtok))]
                 new_data['code'] = codels[code]
                 self.data.append(new_data)
+
+        self.max_length = max([len(l['phrase']) for l in self.data])
 
         self.epoch_finish = False
         self.position = 0
@@ -97,11 +100,15 @@ class tokenizer(object):
         seq = []
         seq_length = [len(element['phrase']) for element in batch]
         mask = []
+        posi = []
         for element in batch:
             encode = element['phrase']
             l = len(encode)
             encode += [0] * (max(seq_length) - l)
+            seq_position = element['position']
+            seq_position += [0] * (max(seq_length) - l)
             seq.append(encode)
+            posi.append(seq_position)
             mask.append([0] * l + [1] * (max(seq_length) - l))
 
         label = [element['code'] for element in batch]
@@ -109,12 +116,13 @@ class tokenizer(object):
         seq = torch.tensor(seq, requires_grad=False).cuda()
         label = torch.tensor(label, requires_grad=False).cuda()
         mask = torch.tensor(mask, requires_grad=False).byte().cuda()
+        posi = torch.tensor(posi, requires_grad=False).cuda()
 
         self.position += batch_size
         if (self.position + batch_size) > len(self.data):
             self.epoch_finish = True
 
-        return seq, label, seq_length, mask
+        return seq, label, seq_length, mask, posi
 
 
 def read_embed(path):
