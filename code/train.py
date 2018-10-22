@@ -15,15 +15,15 @@ pretrained = 'Health_2.5mreviews.s200.w10.n5.v15.cbow.txt'
 Max_seq_len = 35
 Embedding_size = 200
 Hidden_size = 200
-Inner_hid_size = 2048
+Inner_hid_size = 1024
 D_k = 64
 D_v = 64
 
-Learning_rate = 0.0005
+Learning_rate = 0.0001
 Weight_decay = 0.0015
 LR_decay = 0.5
-Epoch = 150
-LR_decay_epoch = 75
+Epoch = 500
+LR_decay_epoch = 200
 Batch_size = 128
 
 
@@ -59,9 +59,9 @@ if __name__ == "__main__":
 
     Acc = 0.
     for fold in range(5):
-        '''Net = TransformerNet(torch.tensor(pretrain), Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
-                             D_v).cuda()'''
-        Net = HiddenNet(torch.tensor(pretrain), Embedding_size, Hidden_size, len(code_id)).cuda()
+        Net = TransformerNet(torch.tensor(pretrain), Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
+                             D_v).cuda()
+        # Net = HiddenNet(torch.tensor(pretrain), Embedding_size, Hidden_size, len(code_id)).cuda()
         optimizer = optim.Adam(Net.parameters(), lr=Learning_rate, weight_decay=Weight_decay)
 
         train_file = DATA_path + 'train_' + str(fold) + '.csv'
@@ -77,8 +77,8 @@ if __name__ == "__main__":
                 Net.train()
                 optimizer.zero_grad()
                 seq, label, seq_length, mask, seq_pos = train_data.get_batch(Batch_size)
-                # results = Net(seq, seq_pos)
-                results = Net(seq, mask)
+                results = Net(seq, seq_pos)
+                # results = Net(seq, mask)
                 loss = criterion(results, label)
                 loss.backward()
                 optimizer.step()
@@ -86,8 +86,8 @@ if __name__ == "__main__":
             test_data.reset_epoch()
             Net.eval()
             seq, label, seq_length, mask, seq_pos = test_data.get_batch(len(test_data.data))
-            # results = Net(seq, seq_pos)
-            results = Net(seq, mask)
+            results = Net(seq, seq_pos)
+            # results = Net(seq, mask)
             _, idx = results.max(1)
             correct = len((idx == label).nonzero())
             accuracy = float(correct) / float(len(test_data.data))
