@@ -60,7 +60,7 @@ class AttnNet(nn.Module):
         self.hidden_size = hidden_size
         self.output_size = output_size
 
-        self.embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=False)
+        self.embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
         self.drop = nn.Dropout(p=dropout_ratio)
         self.lstm = nn.LSTM(embedding_size, hidden_size, num_layers=num_layers, batch_first=True,
                             bidirectional=bidirectional)
@@ -111,7 +111,7 @@ class HiddenNet(nn.Module):
         self.hidden_size = hidden_size
         self.output_size = output_size
 
-        self.embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=False)
+        self.embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
         self.drop = nn.Dropout(p=dropout_ratio)
         self.lstm = nn.LSTM(embedding_size, hidden_size, num_layers=num_layers, batch_first=True,
                             bidirectional=bidirectional)

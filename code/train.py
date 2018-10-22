@@ -19,11 +19,11 @@ Inner_hid_size = 2048
 D_k = 64
 D_v = 64
 
-Learning_rate = 0.0001
+Learning_rate = 0.0005
 Weight_decay = 0.0015
 LR_decay = 0.5
-Epoch = 500
-LR_decay_epoch = 200
+Epoch = 150
+LR_decay_epoch = 75
 Batch_size = 128
 
 
@@ -61,7 +61,7 @@ if __name__ == "__main__":
     for fold in range(5):
         '''Net = TransformerNet(torch.tensor(pretrain), Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
                              D_v).cuda()'''
-        Net = AttnNet(torch.tensor(pretrain), Embedding_size, Hidden_size, len(code_id)).cuda()
+        Net = HiddenNet(torch.tensor(pretrain), Embedding_size, Hidden_size, len(code_id)).cuda()
         optimizer = optim.Adam(Net.parameters(), lr=Learning_rate, weight_decay=Weight_decay)
 
         train_file = DATA_path + 'train_' + str(fold) + '.csv'
