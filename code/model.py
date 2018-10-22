@@ -169,7 +169,7 @@ class TransformerNet(nn.Module):
         super(TransformerNet, self).__init__()
         self.n_position = len_max_seq + 1
 
-        self.embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=False)
+        self.w_embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=False)
         self.pos_encode = nn.Embedding.from_pretrained(
             self.get_sinusoid_encoding_table(self.n_position, embedding_size, padding_idx=0),
             freeze=True)
