@@ -169,10 +169,12 @@ class TransformerNet(nn.Module):
         super(TransformerNet, self).__init__()
         self.n_position = len_max_seq + 1
 
-        self.w_embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=False)
+        self.w_embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
         self.pos_encode = nn.Embedding.from_pretrained(
             self.get_sinusoid_encoding_table(self.n_position, embedding_size, padding_idx=0),
             freeze=True)
+
+        self.drop = nn.Dropout(p=dropout_ratio)
 
         self.layer_stack = nn.ModuleList([
             EncoderLayer(embedding_size, inner_hid_size, num_head, d_k, d_v, dropout=dropout_ratio)
@@ -190,7 +192,8 @@ class TransformerNet(nn.Module):
         non_pad_mask = self.get_non_pad_mask(seq)
 
         # -- Forward
-        enc_output = self.w_embedding(seq) + self.pos_encode(seq_pos)
+        enc_output = self.w_embedding(seq) + self.pos_encode(seq_pos)        
+        enc_output = self.drop(enc_output)
 
         for enc_layer in self.layer_stack:
             enc_output, enc_slf_attn = enc_layer(

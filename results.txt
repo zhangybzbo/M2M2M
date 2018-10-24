@@ -275,7 +275,8 @@ learning rate decay!
 finial accuracy: 0.6256
 
 
-Transformer
+Transformer, fixed pretrain
+unfixed pretrain: 0.6679
 Max_seq_len = 35
 Embedding_size = 200
 Hidden_size = 200
