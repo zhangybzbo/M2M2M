@@ -24,7 +24,7 @@ Num_head = 5
 Learning_rate = 0.0001
 Weight_decay = 0.0015
 LR_decay = 0.5
-Epoch = 500
+Epoch = 600
 LR_decay_epoch = 200
 Batch_size = 128
 
