@@ -283,6 +283,8 @@ Hidden_size = 200
 Inner_hid_size = 1024
 D_k = 64
 D_v = 64
+Num_layers = 6
+Num_head = 8
 Learning_rate = 0.0001
 Weight_decay = 0.0015
 LR_decay = 0.5
@@ -557,3 +559,271 @@ learning rate decay!
 [fold 4 epoch 499] training loss: 0.7897, testing: 254 correct, 0.6773 accuracy
 finial accuracy: 0.6905
 
+with embedding dropout
+1266 different words, 181 different codes
+Fold 0: 1655 training data, 504 testing data
+[fold 0 epoch 9] training loss: 3.9826, testing: 129 correct, 0.2560 accuracy
+[fold 0 epoch 19] training loss: 3.3981, testing: 174 correct, 0.3452 accuracy
+[fold 0 epoch 29] training loss: 3.0421, testing: 196 correct, 0.3889 accuracy
+[fold 0 epoch 39] training loss: 2.8026, testing: 207 correct, 0.4107 accuracy
+[fold 0 epoch 49] training loss: 2.5874, testing: 224 correct, 0.4444 accuracy
+[fold 0 epoch 59] training loss: 2.4268, testing: 232 correct, 0.4603 accuracy
+[fold 0 epoch 69] training loss: 2.3402, testing: 243 correct, 0.4821 accuracy
+[fold 0 epoch 79] training loss: 2.2002, testing: 249 correct, 0.4940 accuracy
+[fold 0 epoch 89] training loss: 2.0751, testing: 260 correct, 0.5159 accuracy
+[fold 0 epoch 99] training loss: 1.9840, testing: 264 correct, 0.5238 accuracy
+[fold 0 epoch 109] training loss: 1.8917, testing: 274 correct, 0.5437 accuracy
+[fold 0 epoch 119] training loss: 1.8319, testing: 274 correct, 0.5437 accuracy
+[fold 0 epoch 129] training loss: 1.7377, testing: 274 correct, 0.5437 accuracy
+[fold 0 epoch 139] training loss: 1.6722, testing: 277 correct, 0.5496 accuracy
+[fold 0 epoch 149] training loss: 1.6196, testing: 284 correct, 0.5635 accuracy
+[fold 0 epoch 159] training loss: 1.5567, testing: 284 correct, 0.5635 accuracy
+[fold 0 epoch 169] training loss: 1.4876, testing: 294 correct, 0.5833 accuracy
+[fold 0 epoch 179] training loss: 1.4459, testing: 289 correct, 0.5734 accuracy
+[fold 0 epoch 189] training loss: 1.3803, testing: 293 correct, 0.5813 accuracy
+[fold 0 epoch 199] training loss: 1.3280, testing: 296 correct, 0.5873 accuracy
+learning rate decay!
+[fold 0 epoch 209] training loss: 1.2743, testing: 299 correct, 0.5933 accuracy
+[fold 0 epoch 219] training loss: 1.2362, testing: 303 correct, 0.6012 accuracy
+[fold 0 epoch 229] training loss: 1.2327, testing: 303 correct, 0.6012 accuracy
+[fold 0 epoch 239] training loss: 1.2079, testing: 311 correct, 0.6171 accuracy
+[fold 0 epoch 249] training loss: 1.1792, testing: 306 correct, 0.6071 accuracy
+[fold 0 epoch 259] training loss: 1.1829, testing: 307 correct, 0.6091 accuracy
+[fold 0 epoch 269] training loss: 1.1329, testing: 309 correct, 0.6131 accuracy
+[fold 0 epoch 279] training loss: 1.1187, testing: 310 correct, 0.6151 accuracy
+[fold 0 epoch 289] training loss: 1.1063, testing: 314 correct, 0.6230 accuracy
+[fold 0 epoch 299] training loss: 1.0755, testing: 313 correct, 0.6210 accuracy
+[fold 0 epoch 309] training loss: 1.0620, testing: 313 correct, 0.6210 accuracy
+[fold 0 epoch 319] training loss: 1.0461, testing: 312 correct, 0.6190 accuracy
+[fold 0 epoch 329] training loss: 1.0234, testing: 313 correct, 0.6210 accuracy
+[fold 0 epoch 339] training loss: 0.9970, testing: 313 correct, 0.6210 accuracy
+[fold 0 epoch 349] training loss: 1.0017, testing: 320 correct, 0.6349 accuracy
+[fold 0 epoch 359] training loss: 0.9711, testing: 321 correct, 0.6369 accuracy
+[fold 0 epoch 369] training loss: 0.9440, testing: 325 correct, 0.6448 accuracy
+[fold 0 epoch 379] training loss: 0.9216, testing: 325 correct, 0.6448 accuracy
+[fold 0 epoch 389] training loss: 0.9237, testing: 324 correct, 0.6429 accuracy
+[fold 0 epoch 399] training loss: 0.8936, testing: 327 correct, 0.6488 accuracy
+learning rate decay!
+[fold 0 epoch 409] training loss: 0.8836, testing: 324 correct, 0.6429 accuracy
+[fold 0 epoch 419] training loss: 0.8688, testing: 327 correct, 0.6488 accuracy
+[fold 0 epoch 429] training loss: 0.8576, testing: 325 correct, 0.6448 accuracy
+[fold 0 epoch 439] training loss: 0.8562, testing: 328 correct, 0.6508 accuracy
+[fold 0 epoch 449] training loss: 0.8633, testing: 327 correct, 0.6488 accuracy
+[fold 0 epoch 459] training loss: 0.8514, testing: 326 correct, 0.6468 accuracy
+[fold 0 epoch 469] training loss: 0.8355, testing: 329 correct, 0.6528 accuracy
+[fold 0 epoch 479] training loss: 0.8350, testing: 327 correct, 0.6488 accuracy
+[fold 0 epoch 489] training loss: 0.8150, testing: 328 correct, 0.6508 accuracy
+[fold 0 epoch 499] training loss: 0.8068, testing: 333 correct, 0.6607 accuracy
+Fold 1: 1700 training data, 459 testing data
+[fold 1 epoch 9] training loss: 3.8076, testing: 122 correct, 0.2658 accuracy
+[fold 1 epoch 19] training loss: 3.2022, testing: 165 correct, 0.3595 accuracy
+[fold 1 epoch 29] training loss: 2.8307, testing: 198 correct, 0.4314 accuracy
+[fold 1 epoch 39] training loss: 2.5547, testing: 214 correct, 0.4662 accuracy
+[fold 1 epoch 49] training loss: 2.3481, testing: 224 correct, 0.4880 accuracy
+[fold 1 epoch 59] training loss: 2.1315, testing: 240 correct, 0.5229 accuracy
+[fold 1 epoch 69] training loss: 2.0267, testing: 247 correct, 0.5381 accuracy
+[fold 1 epoch 79] training loss: 1.8918, testing: 257 correct, 0.5599 accuracy
+[fold 1 epoch 89] training loss: 1.7944, testing: 256 correct, 0.5577 accuracy
+[fold 1 epoch 99] training loss: 1.7526, testing: 267 correct, 0.5817 accuracy
+[fold 1 epoch 109] training loss: 1.6458, testing: 273 correct, 0.5948 accuracy
+[fold 1 epoch 119] training loss: 1.5403, testing: 280 correct, 0.6100 accuracy
+[fold 1 epoch 129] training loss: 1.4443, testing: 289 correct, 0.6296 accuracy
+[fold 1 epoch 139] training loss: 1.4047, testing: 292 correct, 0.6362 accuracy
+[fold 1 epoch 149] training loss: 1.3481, testing: 292 correct, 0.6362 accuracy
+[fold 1 epoch 159] training loss: 1.2744, testing: 301 correct, 0.6558 accuracy
+[fold 1 epoch 169] training loss: 1.1932, testing: 296 correct, 0.6449 accuracy
+[fold 1 epoch 179] training loss: 1.1574, testing: 307 correct, 0.6688 accuracy
+[fold 1 epoch 189] training loss: 1.1209, testing: 303 correct, 0.6601 accuracy
+[fold 1 epoch 199] training loss: 1.0691, testing: 309 correct, 0.6732 accuracy
+learning rate decay!
+[fold 1 epoch 209] training loss: 1.0281, testing: 314 correct, 0.6841 accuracy
+[fold 1 epoch 219] training loss: 0.9958, testing: 318 correct, 0.6928 accuracy
+[fold 1 epoch 229] training loss: 0.9684, testing: 311 correct, 0.6776 accuracy
+[fold 1 epoch 239] training loss: 0.9518, testing: 318 correct, 0.6928 accuracy
+[fold 1 epoch 249] training loss: 0.9347, testing: 320 correct, 0.6972 accuracy
+[fold 1 epoch 259] training loss: 0.9129, testing: 324 correct, 0.7059 accuracy
+[fold 1 epoch 269] training loss: 0.8847, testing: 318 correct, 0.6928 accuracy
+[fold 1 epoch 279] training loss: 0.8788, testing: 321 correct, 0.6993 accuracy
+[fold 1 epoch 289] training loss: 0.8517, testing: 320 correct, 0.6972 accuracy
+[fold 1 epoch 299] training loss: 0.8478, testing: 320 correct, 0.6972 accuracy
+[fold 1 epoch 309] training loss: 0.8184, testing: 323 correct, 0.7037 accuracy
+[fold 1 epoch 319] training loss: 0.8020, testing: 321 correct, 0.6993 accuracy
+[fold 1 epoch 329] training loss: 0.7877, testing: 323 correct, 0.7037 accuracy
+[fold 1 epoch 339] training loss: 0.7680, testing: 323 correct, 0.7037 accuracy
+[fold 1 epoch 349] training loss: 0.7755, testing: 322 correct, 0.7015 accuracy
+[fold 1 epoch 359] training loss: 0.7580, testing: 325 correct, 0.7081 accuracy
+[fold 1 epoch 369] training loss: 0.7267, testing: 327 correct, 0.7124 accuracy
+[fold 1 epoch 379] training loss: 0.7103, testing: 325 correct, 0.7081 accuracy
+[fold 1 epoch 389] training loss: 0.7047, testing: 327 correct, 0.7124 accuracy
+[fold 1 epoch 399] training loss: 0.6886, testing: 325 correct, 0.7081 accuracy
+learning rate decay!
+[fold 1 epoch 409] training loss: 0.6948, testing: 328 correct, 0.7146 accuracy
+[fold 1 epoch 419] training loss: 0.6703, testing: 328 correct, 0.7146 accuracy
+[fold 1 epoch 429] training loss: 0.6672, testing: 327 correct, 0.7124 accuracy
+[fold 1 epoch 439] training loss: 0.6559, testing: 326 correct, 0.7102 accuracy
+[fold 1 epoch 449] training loss: 0.6593, testing: 325 correct, 0.7081 accuracy
+[fold 1 epoch 459] training loss: 0.6420, testing: 328 correct, 0.7146 accuracy
+[fold 1 epoch 469] training loss: 0.6299, testing: 328 correct, 0.7146 accuracy
+[fold 1 epoch 479] training loss: 0.6249, testing: 327 correct, 0.7124 accuracy
+[fold 1 epoch 489] training loss: 0.6215, testing: 329 correct, 0.7168 accuracy
+[fold 1 epoch 499] training loss: 0.6266, testing: 331 correct, 0.7211 accuracy
+Fold 2: 1735 training data, 424 testing data
+[fold 2 epoch 9] training loss: 4.1292, testing: 119 correct, 0.2807 accuracy
+[fold 2 epoch 19] training loss: 3.6124, testing: 159 correct, 0.3750 accuracy
+[fold 2 epoch 29] training loss: 3.2612, testing: 193 correct, 0.4552 accuracy
+[fold 2 epoch 39] training loss: 2.9655, testing: 212 correct, 0.5000 accuracy
+[fold 2 epoch 49] training loss: 2.7904, testing: 227 correct, 0.5354 accuracy
+[fold 2 epoch 59] training loss: 2.6047, testing: 235 correct, 0.5542 accuracy
+[fold 2 epoch 69] training loss: 2.4809, testing: 240 correct, 0.5660 accuracy
+[fold 2 epoch 79] training loss: 2.3276, testing: 241 correct, 0.5684 accuracy
+[fold 2 epoch 89] training loss: 2.2343, testing: 246 correct, 0.5802 accuracy
+[fold 2 epoch 99] training loss: 2.0904, testing: 246 correct, 0.5802 accuracy
+[fold 2 epoch 109] training loss: 2.0138, testing: 260 correct, 0.6132 accuracy
+[fold 2 epoch 119] training loss: 1.9637, testing: 264 correct, 0.6226 accuracy
+[fold 2 epoch 129] training loss: 1.8966, testing: 269 correct, 0.6344 accuracy
+[fold 2 epoch 139] training loss: 1.7526, testing: 270 correct, 0.6368 accuracy
+[fold 2 epoch 149] training loss: 1.7149, testing: 273 correct, 0.6439 accuracy
+[fold 2 epoch 159] training loss: 1.6369, testing: 280 correct, 0.6604 accuracy
+[fold 2 epoch 169] training loss: 1.5527, testing: 283 correct, 0.6675 accuracy
+[fold 2 epoch 179] training loss: 1.4889, testing: 282 correct, 0.6651 accuracy
+[fold 2 epoch 189] training loss: 1.4423, testing: 283 correct, 0.6675 accuracy
+[fold 2 epoch 199] training loss: 1.3703, testing: 291 correct, 0.6863 accuracy
+learning rate decay!
+[fold 2 epoch 209] training loss: 1.3467, testing: 287 correct, 0.6769 accuracy
+[fold 2 epoch 219] training loss: 1.3040, testing: 292 correct, 0.6887 accuracy
+[fold 2 epoch 229] training loss: 1.2895, testing: 289 correct, 0.6816 accuracy
+[fold 2 epoch 239] training loss: 1.2732, testing: 289 correct, 0.6816 accuracy
+[fold 2 epoch 249] training loss: 1.2184, testing: 290 correct, 0.6840 accuracy
+[fold 2 epoch 259] training loss: 1.2209, testing: 292 correct, 0.6887 accuracy
+[fold 2 epoch 269] training loss: 1.1874, testing: 292 correct, 0.6887 accuracy
+[fold 2 epoch 279] training loss: 1.1622, testing: 294 correct, 0.6934 accuracy
+[fold 2 epoch 289] training loss: 1.1421, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 299] training loss: 1.1170, testing: 295 correct, 0.6958 accuracy
+[fold 2 epoch 309] training loss: 1.0940, testing: 296 correct, 0.6981 accuracy
+[fold 2 epoch 319] training loss: 1.1079, testing: 295 correct, 0.6958 accuracy
+[fold 2 epoch 329] training loss: 1.0960, testing: 295 correct, 0.6958 accuracy
+[fold 2 epoch 339] training loss: 1.0370, testing: 299 correct, 0.7052 accuracy
+[fold 2 epoch 349] training loss: 1.0173, testing: 300 correct, 0.7075 accuracy
+[fold 2 epoch 359] training loss: 0.9889, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 369] training loss: 0.9835, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 379] training loss: 0.9811, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 389] training loss: 0.9446, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 399] training loss: 0.9405, testing: 295 correct, 0.6958 accuracy
+learning rate decay!
+[fold 2 epoch 409] training loss: 0.9239, testing: 302 correct, 0.7123 accuracy
+[fold 2 epoch 419] training loss: 0.9153, testing: 299 correct, 0.7052 accuracy
+[fold 2 epoch 429] training loss: 0.9050, testing: 301 correct, 0.7099 accuracy
+[fold 2 epoch 439] training loss: 0.8941, testing: 301 correct, 0.7099 accuracy
+[fold 2 epoch 449] training loss: 0.8957, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 459] training loss: 0.8813, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 469] training loss: 0.8580, testing: 301 correct, 0.7099 accuracy
+[fold 2 epoch 479] training loss: 0.8716, testing: 300 correct, 0.7075 accuracy
+[fold 2 epoch 489] training loss: 0.8563, testing: 298 correct, 0.7028 accuracy
+[fold 2 epoch 499] training loss: 0.8469, testing: 299 correct, 0.7052 accuracy
+Fold 3: 1762 training data, 397 testing data
+[fold 3 epoch 9] training loss: 3.9537, testing: 106 correct, 0.2670 accuracy
+[fold 3 epoch 19] training loss: 3.4960, testing: 149 correct, 0.3753 accuracy
+[fold 3 epoch 29] training loss: 3.2274, testing: 174 correct, 0.4383 accuracy
+[fold 3 epoch 39] training loss: 3.0009, testing: 186 correct, 0.4685 accuracy
+[fold 3 epoch 49] training loss: 2.7749, testing: 203 correct, 0.5113 accuracy
+[fold 3 epoch 59] training loss: 2.6542, testing: 219 correct, 0.5516 accuracy
+[fold 3 epoch 69] training loss: 2.4936, testing: 233 correct, 0.5869 accuracy
+[fold 3 epoch 79] training loss: 2.3865, testing: 238 correct, 0.5995 accuracy
+[fold 3 epoch 89] training loss: 2.2639, testing: 242 correct, 0.6096 accuracy
+[fold 3 epoch 99] training loss: 2.1840, testing: 247 correct, 0.6222 accuracy
+[fold 3 epoch 109] training loss: 2.1173, testing: 256 correct, 0.6448 accuracy
+[fold 3 epoch 119] training loss: 1.9963, testing: 257 correct, 0.6474 accuracy
+[fold 3 epoch 129] training loss: 1.9136, testing: 263 correct, 0.6625 accuracy
+[fold 3 epoch 139] training loss: 1.8091, testing: 264 correct, 0.6650 accuracy
+[fold 3 epoch 149] training loss: 1.7404, testing: 266 correct, 0.6700 accuracy
+[fold 3 epoch 159] training loss: 1.6676, testing: 273 correct, 0.6877 accuracy
+[fold 3 epoch 169] training loss: 1.5945, testing: 278 correct, 0.7003 accuracy
+[fold 3 epoch 179] training loss: 1.5162, testing: 278 correct, 0.7003 accuracy
+[fold 3 epoch 189] training loss: 1.4709, testing: 282 correct, 0.7103 accuracy
+[fold 3 epoch 199] training loss: 1.3913, testing: 279 correct, 0.7028 accuracy
+learning rate decay!
+[fold 3 epoch 209] training loss: 1.3344, testing: 288 correct, 0.7254 accuracy
+[fold 3 epoch 219] training loss: 1.3350, testing: 283 correct, 0.7128 accuracy
+[fold 3 epoch 229] training loss: 1.2681, testing: 286 correct, 0.7204 accuracy
+[fold 3 epoch 239] training loss: 1.2477, testing: 287 correct, 0.7229 accuracy
+[fold 3 epoch 249] training loss: 1.2486, testing: 287 correct, 0.7229 accuracy
+[fold 3 epoch 259] training loss: 1.2327, testing: 288 correct, 0.7254 accuracy
+[fold 3 epoch 269] training loss: 1.2143, testing: 288 correct, 0.7254 accuracy
+[fold 3 epoch 279] training loss: 1.1686, testing: 290 correct, 0.7305 accuracy
+[fold 3 epoch 289] training loss: 1.1388, testing: 291 correct, 0.7330 accuracy
+[fold 3 epoch 299] training loss: 1.1187, testing: 293 correct, 0.7380 accuracy
+[fold 3 epoch 309] training loss: 1.0973, testing: 294 correct, 0.7406 accuracy
+[fold 3 epoch 319] training loss: 1.0746, testing: 290 correct, 0.7305 accuracy
+[fold 3 epoch 329] training loss: 1.0752, testing: 292 correct, 0.7355 accuracy
+[fold 3 epoch 339] training loss: 1.0268, testing: 294 correct, 0.7406 accuracy
+[fold 3 epoch 349] training loss: 1.0231, testing: 292 correct, 0.7355 accuracy
+[fold 3 epoch 359] training loss: 1.0016, testing: 293 correct, 0.7380 accuracy
+[fold 3 epoch 369] training loss: 0.9862, testing: 291 correct, 0.7330 accuracy
+[fold 3 epoch 379] training loss: 0.9480, testing: 292 correct, 0.7355 accuracy
+[fold 3 epoch 389] training loss: 0.9370, testing: 295 correct, 0.7431 accuracy
+[fold 3 epoch 399] training loss: 0.9132, testing: 296 correct, 0.7456 accuracy
+learning rate decay!
+[fold 3 epoch 409] training loss: 0.9057, testing: 294 correct, 0.7406 accuracy
+[fold 3 epoch 419] training loss: 0.8984, testing: 296 correct, 0.7456 accuracy
+[fold 3 epoch 429] training loss: 0.8944, testing: 296 correct, 0.7456 accuracy
+[fold 3 epoch 439] training loss: 0.8758, testing: 296 correct, 0.7456 accuracy
+[fold 3 epoch 449] training loss: 0.8746, testing: 294 correct, 0.7406 accuracy
+[fold 3 epoch 459] training loss: 0.8722, testing: 295 correct, 0.7431 accuracy
+[fold 3 epoch 469] training loss: 0.8502, testing: 293 correct, 0.7380 accuracy
+[fold 3 epoch 479] training loss: 0.8472, testing: 294 correct, 0.7406 accuracy
+[fold 3 epoch 489] training loss: 0.8382, testing: 295 correct, 0.7431 accuracy
+[fold 3 epoch 499] training loss: 0.8547, testing: 297 correct, 0.7481 accuracy
+Fold 4: 1784 training data, 375 testing data
+[fold 4 epoch 9] training loss: 3.9327, testing: 63 correct, 0.1680 accuracy
+[fold 4 epoch 19] training loss: 3.3635, testing: 103 correct, 0.2747 accuracy
+[fold 4 epoch 29] training loss: 3.0428, testing: 138 correct, 0.3680 accuracy
+[fold 4 epoch 39] training loss: 2.7450, testing: 164 correct, 0.4373 accuracy
+[fold 4 epoch 49] training loss: 2.5500, testing: 181 correct, 0.4827 accuracy
+[fold 4 epoch 59] training loss: 2.3870, testing: 197 correct, 0.5253 accuracy
+[fold 4 epoch 69] training loss: 2.2087, testing: 201 correct, 0.5360 accuracy
+[fold 4 epoch 79] training loss: 2.0583, testing: 207 correct, 0.5520 accuracy
+[fold 4 epoch 89] training loss: 1.9583, testing: 213 correct, 0.5680 accuracy
+[fold 4 epoch 99] training loss: 1.8182, testing: 220 correct, 0.5867 accuracy
+[fold 4 epoch 109] training loss: 1.7597, testing: 225 correct, 0.6000 accuracy
+[fold 4 epoch 119] training loss: 1.7013, testing: 227 correct, 0.6053 accuracy
+[fold 4 epoch 129] training loss: 1.5860, testing: 232 correct, 0.6187 accuracy
+[fold 4 epoch 139] training loss: 1.5346, testing: 228 correct, 0.6080 accuracy
+[fold 4 epoch 149] training loss: 1.4550, testing: 235 correct, 0.6267 accuracy
+[fold 4 epoch 159] training loss: 1.4279, testing: 234 correct, 0.6240 accuracy
+[fold 4 epoch 169] training loss: 1.3421, testing: 234 correct, 0.6240 accuracy
+[fold 4 epoch 179] training loss: 1.3070, testing: 234 correct, 0.6240 accuracy
+[fold 4 epoch 189] training loss: 1.2295, testing: 241 correct, 0.6427 accuracy
+[fold 4 epoch 199] training loss: 1.1975, testing: 236 correct, 0.6293 accuracy
+learning rate decay!
+[fold 4 epoch 209] training loss: 1.1153, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 219] training loss: 1.0939, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 229] training loss: 1.1001, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 239] training loss: 1.0838, testing: 236 correct, 0.6293 accuracy
+[fold 4 epoch 249] training loss: 1.0419, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 259] training loss: 1.0131, testing: 241 correct, 0.6427 accuracy
+[fold 4 epoch 269] training loss: 1.0053, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 279] training loss: 1.0612, testing: 245 correct, 0.6533 accuracy
+[fold 4 epoch 289] training loss: 0.9674, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 299] training loss: 0.9478, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 309] training loss: 0.9306, testing: 241 correct, 0.6427 accuracy
+[fold 4 epoch 319] training loss: 0.9322, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 329] training loss: 0.9063, testing: 238 correct, 0.6347 accuracy
+[fold 4 epoch 339] training loss: 0.8744, testing: 239 correct, 0.6373 accuracy
+[fold 4 epoch 349] training loss: 0.8625, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 359] training loss: 0.8559, testing: 239 correct, 0.6373 accuracy
+[fold 4 epoch 369] training loss: 0.8347, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 379] training loss: 0.8102, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 389] training loss: 0.7998, testing: 241 correct, 0.6427 accuracy
+[fold 4 epoch 399] training loss: 0.7916, testing: 241 correct, 0.6427 accuracy
+learning rate decay!
+[fold 4 epoch 409] training loss: 0.7712, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 419] training loss: 0.7492, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 429] training loss: 0.7532, testing: 242 correct, 0.6453 accuracy
+[fold 4 epoch 439] training loss: 0.7518, testing: 241 correct, 0.6427 accuracy
+[fold 4 epoch 449] training loss: 0.7295, testing: 241 correct, 0.6427 accuracy
+[fold 4 epoch 459] training loss: 0.7311, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 469] training loss: 0.7062, testing: 244 correct, 0.6507 accuracy
+[fold 4 epoch 479] training loss: 0.7106, testing: 240 correct, 0.6400 accuracy
+[fold 4 epoch 489] training loss: 0.7207, testing: 243 correct, 0.6480 accuracy
+[fold 4 epoch 499] training loss: 0.6920, testing: 241 correct, 0.6427 accuracy
+finial accuracy: 0.6956
