@@ -60,7 +60,7 @@ class AttnNet(nn.Module):
         self.hidden_size = hidden_size
         self.output_size = output_size
 
-        self.embedding = nn.Embedding.from_pretrained(pretrained_embed)
+        self.embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
         self.drop = nn.Dropout(p=dropout_ratio)
         self.lstm = nn.LSTM(embedding_size, hidden_size, num_layers=num_layers, batch_first=True,
                             bidirectional=bidirectional)
@@ -89,23 +89,7 @@ class AttnNet(nn.Module):
         h0, c0 = self.init_state(inputs)
 
         ctx, (h_t, c_t) = self.lstm(embeds, (h0, c0))
-        '''
-        # last h attention
-        if self.num_directions == 2:
-            h_t = torch.cat((h_t[-1], h_t[-2]), 1)
-            c_t = torch.cat((c_t[-1], c_t[-2]), 1)
-        else:
-            h_t = h_t[-1]
-            c_t = c_t[-1]  # (batch, hidden_size)
-        attn_weight = self.attn(h_t).unsqueeze(2)   # b x h x 1
-        attn_apply = torch.bmm(ctx, attn_weight).squeeze(2)
-        if mask is not None:
-            # -Inf masking prior to the softmax
-            attn_apply.data.masked_fill_(mask, -float('inf'))
-        attn_apply = self.attn_sm(attn_apply)
-        attn_apply = attn_apply.view(attn_apply.size(0), 1, attn_apply.size(1))  # batch x 1 x s
-        attn_combine = torch.bmm(attn_apply, ctx).squeeze(1)  # batch x h
-        weight_ctx = torch.cat((attn_combine, h_t), 1) # batch x 2h'''
+
         ctx_out = Variable(torch.zeros(0)).cuda()
         for s in range(ctx.size(1)):
             h_attn, _ = self.attn(ctx[:, s, :], ctx, mask)
@@ -114,6 +98,68 @@ class AttnNet(nn.Module):
         ctx_out = torch.mean(ctx_out, 1)
 
         ctx_out = nn.Tanh()(self.out(ctx_out))
+        output = self.BN(ctx_out)
+        # output = self.softmax(ctx_out)
+        return output
+
+
+class HiddenNet(nn.Module):
+    def __init__(self, pretrained_embed, embedding_size, hidden_size, output_size, dropout_ratio=0.5, num_layers=1,
+                 bidirectional=True):
+        super(HiddenNet, self).__init__()
+        self.num_layers = num_layers
+        self.num_directions = 2 if bidirectional else 1
+        self.hidden_size = hidden_size
+        self.output_size = output_size
+
+        self.embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
+        self.drop = nn.Dropout(p=dropout_ratio)
+        self.lstm = nn.LSTM(embedding_size, hidden_size, num_layers=num_layers, batch_first=True,
+                            bidirectional=bidirectional)
+        self.attn = nn.Linear(hidden_size * self.num_directions, hidden_size * self.num_directions, bias=False)
+        self.attn_sm = nn.Softmax(dim=1)
+        self.out = nn.Linear(hidden_size * self.num_directions * 2, output_size)
+        self.BN = nn.BatchNorm1d(output_size)  # size?
+        # self.softmax = nn.LogSoftmax(dim=1)
+
+    def init_state(self, inputs):
+        batch_size = inputs.size(0)
+        h0 = Variable(torch.zeros(
+            self.num_layers * self.num_directions,
+            batch_size,
+            self.hidden_size
+        ), requires_grad=False)
+        c0 = Variable(torch.zeros(
+            self.num_layers * self.num_directions,
+            batch_size,
+            self.hidden_size
+        ), requires_grad=False)
+        return h0.cuda(), c0.cuda()
+
+    def forward(self, inputs, mask=None):
+        embeds = self.embedding(inputs)
+        embeds = self.drop(embeds)
+        h0, c0 = self.init_state(inputs)
+
+        ctx, (h_t, c_t) = self.lstm(embeds, (h0, c0))
+        # last h attention
+        if self.num_directions == 2:
+            h_t = torch.cat((h_t[-1], h_t[-2]), 1)
+            c_t = torch.cat((c_t[-1], c_t[-2]), 1)
+        else:
+            h_t = h_t[-1]
+            c_t = c_t[-1]  # (batch, hidden_size)
+        attn_weight = self.attn(h_t).unsqueeze(2)  # b x h x 1
+        attn_apply = torch.bmm(ctx, attn_weight).squeeze(2)
+        if mask is not None:
+            # -Inf masking prior to the softmax
+            attn_apply.data.masked_fill_(mask, -float('inf'))
+        attn_apply = self.attn_sm(attn_apply)
+        attn_apply = attn_apply.view(attn_apply.size(0), 1, attn_apply.size(1))  # batch x 1 x s
+        attn_combine = torch.bmm(attn_apply, ctx).squeeze(1)  # batch x h
+        weight_ctx = torch.cat((attn_combine, h_t), 1)  # batch x 2h
+
+        ctx_out = nn.Tanh()(self.out(weight_ctx))
         output = self.BN(ctx_out)
         # output = self.softmax(ctx_out)
         return output
