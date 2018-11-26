@@ -1,12 +1,15 @@
 import numpy as np
 import re
 import torch
+from allennlp.modules.elmo import Elmo, batch_to_ids
 
 file_list = ['test_0.csv', 'test_1.csv', 'test_2.csv', 'test_3.csv', 'test_4.csv',
              'train_0.csv', 'train_1.csv', 'train_2.csv', 'train_3.csv', 'train_4.csv']
 file_dir = 'data/'
 save_code = 'codels.txt'
 save_word = 'wordls.txt'
+elmo_options = 'models/elmo_2x4096_512_2048cnn_2xhighway_options.json'
+elmo_weights = 'models/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5'
 
 
 def read_file():
@@ -148,6 +151,7 @@ def read_embed(path):
 
 def pre_embed(raw_embedding, word_vocab, max_e, min_e, embedding_size):
     # permute embedding to word id
+    # first 0 for padding
     # [n * embedding_size]
     embedding = []
     embedding.append([0.] * embedding_size)
@@ -162,5 +166,26 @@ def pre_embed(raw_embedding, word_vocab, max_e, min_e, embedding_size):
     return embedding
 
 
+def get_elmo(word_vocab):
+    # get elmo embedding
+    # first 0 for padding
+    # [n * embedding_size]
+    elmo = Elmo(elmo_options, elmo_weights, 2, dropout=0)
+    character_ids = batch_to_ids([word_vocab])
+    embeddings = elmo(character_ids)
+    emb_low = embeddings['elmo_representations'][0].squeeze(0)
+    emb_high = embeddings['elmo_representations'][1].squeeze(0)
+
+    embedding_size = embeddings['elmo_representations'][0].size(-1)
+    padding = [0.] * embedding_size
+    emb_low = torch.cat((torch.tensor(padding).unsqueeze(0), emb_low), dim=0)
+    emb_high = torch.cat((torch.tensor(padding).unsqueeze(0), emb_high), dim=0)
+
+    return emb_low, emb_high
+
+
 if __name__ == "__main__":
-    read_file()
+    # read_file()
+    word_vocab = read_vocab('data/wordls.txt')
+    print(len(word_vocab))
+    get_elmo(word_vocab)
