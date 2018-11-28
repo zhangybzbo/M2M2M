@@ -1,3 +1,6 @@
+import os
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import torch
 import torch.nn as nn
 from torch import optim
@@ -29,6 +32,9 @@ Epoch = 600
 LR_decay_epoch = 200
 Batch_size = 128
 
+torch.manual_seed(1)
+torch.cuda.manual_seed(1)
+
 
 def source_prepare():
     code_vocab = read_vocab(DATA_path + code_list)
@@ -37,9 +43,9 @@ def source_prepare():
     word_id = word_to_index(word_vocab)
 
     raw_embedding, max_e, min_e = read_embed(MODEL_path + pretrained)
-    embeddings = pre_embed(raw_embedding, word_vocab, max_e, min_e, HealthVec_size)
+    embeddings, vocab_correction = pre_embed(raw_embedding, word_vocab, max_e, min_e, HealthVec_size)
     embeddings = torch.tensor(embeddings)
-    elmo_l, elmo_h = get_elmo(word_vocab)
+    elmo_l, elmo_h = get_elmo(vocab_correction)
     all_emb = torch.cat((embeddings, elmo_l + elmo_h), dim=1).cuda()
 
     return all_emb, code_id, word_id

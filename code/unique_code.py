@@ -2,6 +2,7 @@ import numpy as np
 import re
 import torch
 from allennlp.modules.elmo import Elmo, batch_to_ids
+import collections
 
 file_list = ['test_0.csv', 'test_1.csv', 'test_2.csv', 'test_3.csv', 'test_4.csv',
              'train_0.csv', 'train_1.csv', 'train_2.csv', 'train_3.csv', 'train_4.csv']
@@ -155,15 +156,25 @@ def pre_embed(raw_embedding, word_vocab, max_e, min_e, embedding_size):
     # [n * embedding_size]
     embedding = []
     embedding.append([0.] * embedding_size)
+    spell_checker = SpellChecker(raw_embedding.keys(), word_vocab)
+    vocab_correction = []
     for i, word in enumerate(word_vocab):
         if word in raw_embedding.keys():
+            vocab_correction.append(word)
             embedding.append(raw_embedding[word])
         else:
-            # print("%s not in embedding" % word)
-            rand = list(np.random.uniform(min_e, max_e, embedding_size))
-            embedding.append(rand)
+            word_correct = spell_checker.correct_word(word)
+            if word_correct in raw_embedding.keys():
+                # print('Change %s to %s' % (word, word_correct))
+                vocab_correction.append(word_correct)
+                embedding.append(raw_embedding[word_correct])
+            else:
+                # print(word, 'not in HealthVec')
+                vocab_correction.append(word)
+                rand = list(np.random.uniform(min_e, max_e, embedding_size))
+                embedding.append(rand)
 
-    return embedding
+    return embedding, vocab_correction
 
 
 def get_elmo(word_vocab):
@@ -182,6 +193,43 @@ def get_elmo(word_vocab):
     emb_high = torch.cat((torch.tensor(padding).unsqueeze(0), emb_high), dim=0)
 
     return emb_low, emb_high
+
+
+class SpellChecker(object):
+
+    def __init__(self, spell_checker_vocab, origin_vocab):
+        self.alphabet = 'abcdefghijklmnopqrstuvwxyz'
+        self.model = collections.defaultdict(int)
+        for word in spell_checker_vocab:
+            token, occurrence = word, 1
+            if word in origin_vocab:
+                occurrence += 1
+            self.model[token] = occurrence
+
+    def edits1(self, word):
+        s = [(word[:i], word[i:]) for i in range(len(word) + 1)]
+        deletes = [a + b[1:] for a, b in s if b]
+        transposes = [a + b[1] + b[0] + b[2:] for a, b in s if len(b) > 1]
+        replaces = [a + c + b[1:] for a, b in s for c in self.alphabet if b]
+        inserts = [a + c + b for a, b in s for c in self.alphabet]
+        return set(deletes + transposes + replaces + inserts)
+
+    def known_edits2(self, word):
+        return set(e2 for e1 in self.edits1(word) for e2 in self.edits1(e1) if e2 in self.model)
+
+    def known(self, words):
+        return set(w for w in words if w in self.model)
+
+    def correct_word(self, word):
+        word = word.lower()
+        candidates = self.known([word]) or \
+                     self.known(self.edits1(word)) or \
+                     self.known_edits2(word) or \
+                     [word] if word.isalpha() else [word]
+        return max(candidates, key=self.model.get)
+
+    def correct_sequence(self, text):
+        return [self.correct_word(token) for token in text]
 
 
 if __name__ == "__main__":
