@@ -3,11 +3,12 @@ import torch.nn as nn
 from torch.autograd import Variable
 import numpy as np
 
-from submodel import SoftDotAttention, EncoderLayer
+from submodel import SoftDotAttention, EncoderLayer, Highway
 
 
-# without attention
 class Network(nn.Module):
+    '''baseline without attention'''
+
     def __init__(self, pretrained_embed, embedding_size, hidden_size, output_size, dropout_ratio=0.5, num_layers=1,
                  bidirectional=True):
         super(Network, self).__init__()
@@ -52,6 +53,8 @@ class Network(nn.Module):
 
 
 class AttnNet(nn.Module):
+    '''baseline with attention'''
+
     def __init__(self, pretrained_embed, embedding_size, hidden_size, output_size, dropout_ratio=0.5, num_layers=1,
                  bidirectional=True):
         super(AttnNet, self).__init__()
@@ -104,6 +107,8 @@ class AttnNet(nn.Module):
 
 
 class HiddenNet(nn.Module):
+    '''attention applied on last hidden state'''
+
     def __init__(self, pretrained_embed, embedding_size, hidden_size, output_size, dropout_ratio=0.5, num_layers=1,
                  bidirectional=True):
         super(HiddenNet, self).__init__()
@@ -166,15 +171,24 @@ class HiddenNet(nn.Module):
 
 
 class TransformerNet(nn.Module):
-    def __init__(self, pretrained_embed, len_max_seq, embedding_size, inner_hid_size, output_size, d_k, d_v,
+    '''transformer'''
+
+    def __init__(self, pretrain_type, pretrained_embed, len_max_seq, embedding_size, inner_hid_size, output_size, d_k,
+                 d_v,
                  dropout_ratio=0.1, num_layers=6, num_head=8):
         super(TransformerNet, self).__init__()
         self.n_position = len_max_seq + 1
+        self.pretrain_type = pretrain_type
 
-        self.w_embedding = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
+        self.HealthVec = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
         self.pos_encode = nn.Embedding.from_pretrained(
-            self.get_sinusoid_encoding_table(self.n_position, embedding_size, padding_idx=0),
-            freeze=True)
+            self.get_sinusoid_encoding_table(self.n_position, embedding_size, padding_idx=0), freeze=True)
+        if pretrain_type == 'elmo_layer':
+            self.emb_weights = nn.Parameter(torch.ones(1, 3, 1, 1), requires_grad=True).cuda()
+            self.emb_scale = nn.Parameter(torch.ones(1), requires_grad=True).cuda()
+        elif pretrain_type == 'bert':
+            self.emb_weights = nn.Parameter(torch.ones(1, 12, 1, 1), requires_grad=True).cuda()
+            self.emb_scale = nn.Parameter(torch.ones(1), requires_grad=True).cuda()
 
         self.drop = nn.Dropout(p=dropout_ratio)
 
@@ -185,16 +199,23 @@ class TransformerNet(nn.Module):
         self.out = nn.Linear(embedding_size, output_size)
         self.BN = nn.BatchNorm1d(output_size)
 
-    def forward(self, seq, seq_pos):
-
-        enc_slf_attn_list = []
+    def forward(self, seq, seq_pos, pre_emb=None):
 
         # -- Prepare masks
         slf_attn_mask = self.get_attn_key_pad_mask(seq_k=seq, seq_q=seq)
         non_pad_mask = self.get_non_pad_mask(seq)
 
         # -- Forward
-        enc_output = self.w_embedding(seq) + self.pos_encode(seq_pos)
+        if self.pretrain_type == 'elmo_layer' or self.pretrain_type == 'bert':
+            standard_emb = torch.mul(self.emb_weights, pre_emb)
+            standard_emb = torch.sum(standard_emb, 1)
+            standard_emb = torch.mul(standard_emb, self.emb_scale)
+            w_embed = torch.cat((self.HealthVec(seq), standard_emb), dim=-1)
+        elif self.pretrain_type == 'elmo_repre':
+            w_embed = torch.cat((self.HealthVec(seq), pre_emb), dim=-1)
+        else:
+            w_embed = self.HealthVec(seq)
+        enc_output = w_embed + self.pos_encode(seq_pos)
         enc_output = self.drop(enc_output)
 
         for enc_layer in self.layer_stack:
@@ -240,3 +261,68 @@ class TransformerNet(nn.Module):
         padding_mask = padding_mask.unsqueeze(1).expand(-1, len_q, -1)  # b x lq x lk
 
         return padding_mask.cuda()
+
+
+class Char_embed(nn.Module):
+    '''character level embedding'''
+
+    # TODO: unfinished
+    def __init__(self, char_embed_size, num_char):
+        super(Char_embed, self).__init__()
+
+        self.char_embed_size = char_embed_size
+        self.char_embed = nn.Embedding(num_char, char_embed_size, padding_idx=0)
+
+        # convolutions of filters with different sizes
+        self.convolutions = []
+        # list of tuples: (the number of filter, width)
+        self.filter_num_width = [(25, 1), (50, 2), (75, 3), (100, 4), (125, 5), (150, 6)]
+        for out_channel, filter_width in self.filter_num_width:
+            self.convolutions.append(
+                nn.Conv2d(
+                    1,  # in_channel
+                    out_channel,  # out_channel
+                    kernel_size=(char_embed_size, filter_width),  # (height, width)
+                    bias=True
+                )
+            )
+
+        self.highway_input_dim = sum([x for x, y in self.filter_num_width])
+
+        self.batch_norm = nn.BatchNorm1d(self.highway_input_dim, affine=False)
+
+        # highway net
+        self.highway1 = Highway(self.highway_input_dim)
+        self.highway2 = Highway(self.highway_input_dim)
+
+    def conv_layers(self, x):
+        chosen_list = list()
+        for conv in self.convolutions:
+            feature_map = nn.Tanh()(conv(x))  # (batch_size, out_channel, 1, max_word_len-width+1)
+            chosen = torch.max(feature_map, 3)[0]  # (batch_size, out_channel, 1)
+            chosen = chosen.squeeze()  # (batch_size, out_channel)
+            chosen_list.append(chosen)
+
+        return torch.cat(chosen_list, 1)  # (batch_size, total_num_filers)
+
+    def forward(self, x):
+        # input: (batch, s, l)
+        # output: (batch, s, total_num_filters)
+        batch_size = x.size()[0]
+        seq_len = x.size()[1]
+
+        x = x.contiguous().view(-1, x.size()[2])
+        c_embed = self.char_embed(x)  # (batch * s, l, embed)
+
+        c_embed = torch.transpose(c_embed.view(c_embed.size()[0], 1, c_embed.size()[1], -1), 2, 3)
+        # (batch * s, 1, embed, l)
+
+        conv_w = self.conv_layers(c_embed)  # (batch * s, total_num_filters)
+        conv_w = self.batch_norm(conv_w)
+
+        y = self.highway1(conv_w)
+        y = self.highway2(y)
+
+        y = y.contiguous().view(batch_size, seq_len, -1)
+
+        return y

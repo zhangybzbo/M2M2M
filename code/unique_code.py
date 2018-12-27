@@ -2,6 +2,8 @@ import numpy as np
 import re
 import torch
 from allennlp.modules.elmo import Elmo, batch_to_ids
+from allennlp.commands.elmo import ElmoEmbedder
+from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
 import collections
 
 file_list = ['test_0.csv', 'test_1.csv', 'test_2.csv', 'test_3.csv', 'test_4.csv',
@@ -9,13 +11,13 @@ file_list = ['test_0.csv', 'test_1.csv', 'test_2.csv', 'test_3.csv', 'test_4.csv
 file_dir = 'data/'
 save_code = 'codels.txt'
 save_word = 'wordls.txt'
+save_char = 'charls.txt'
 elmo_options = 'models/elmo_2x4096_512_2048cnn_2xhighway_options.json'
 elmo_weights = 'models/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5'
 
 
 def read_file():
-    # get code & word list
-    # dump into two files
+    '''get code & word list, dump into two files'''
     fw = open(file_dir + save_code, "w")
     fw_2 = open(file_dir + save_word, 'w')
     code_list = []
@@ -40,9 +42,23 @@ def read_file():
     print(len(word_list))
 
 
+def get_character(wls):
+    '''get character list from word list'''
+    fw = open(file_dir + save_char, "w")
+    char_ls = []
+    for word in wls:
+        for c in word.strip():
+            if c not in char_ls:
+                char_ls.append(c)
+                fw.write(c + '\n')
+
+    print(char_ls)
+    fw.close()
+
+
 def word_to_index(vocab):
-    # word list to index
-    # {'word': index}
+    ''' word list to index
+        {'word': index}'''
     list_to_index = {}
     for i, word in enumerate(vocab):
         list_to_index[word] = i + 1
@@ -52,8 +68,8 @@ def word_to_index(vocab):
 
 
 def code_to_index(vocab):
-    # word list to index
-    # {'word': index}
+    ''' code list to index
+        {'code': index}'''
     list_to_index = {}
     for i, word in enumerate(vocab):
         list_to_index[word] = i
@@ -61,33 +77,73 @@ def code_to_index(vocab):
     return list_to_index
 
 
+def char_to_index(vocab):
+    ''' character list to index
+        {'character': index}'''
+    list_to_index = {}
+    for i, word in enumerate(vocab):
+        list_to_index[word] = i + 1
+        # for character list, 0=padding
+
+    return list_to_index
+
+
 def read_vocab(path):
-    # read list from file
-    # [n * 'word']
-    vocab = []
+    ''' read list from file
+        [n * 'word']'''
     with open(path) as f:
         vocab = [word.strip() for word in f.readlines()]
     return vocab
 
 
 class tokenizer(object):
-    # token data 
-    # data: [n * {'phrase': [word_id_list], 'code': code_id}
-    def __init__(self, wordls, codels, datafile):
+    ''' token data
+        data: [ n * {'phrase': [word_id_list], 'length': int, 'position': [word position in a sentence],
+                    'code': code_id, 'emb': tensor(standard word embeddings)} ]'''
+
+    def __init__(self, wordls, codels, datafile, pretrain_type=None):
         self.data = []
+        self.pretrain = pretrain_type
+        if pretrain_type == 'elmo_repre':
+            self.pre_model = Elmo(elmo_options, elmo_weights, 2, dropout=0).cuda()
+        elif pretrain_type == 'elmo_layer':
+            self.pre_model = ElmoEmbedder(elmo_options, elmo_weights, cuda_device=0)
+        elif pretrain_type == 'bert':
+            tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+            self.pre_model = BertModel.from_pretrained('bert-base-uncased')
+            self.pre_model.eval()
+
         with open(datafile) as f:
             for line in f.readlines():
                 new_data = dict()
-                wordtok = []
                 code = line.strip().split('\t')[1]
                 phrase = line.strip().split('\t')[0]
                 words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
-                for word in words:
-                    if not word.strip() == '':
-                        wordtok.append(wordls[word.strip()])
+                words = [word.strip() for word in words if not word.strip() == '']
+                wordtok = [wordls[word] for word in words]
+
                 new_data['phrase'] = wordtok
+                new_data['length'] = len(wordtok)
                 new_data['position'] = [i + 1 for i in range(len(wordtok))]
                 new_data['code'] = codels[code]
+
+                if pretrain_type == 'elmo_repre':
+                    elmo_id = batch_to_ids([words]).cuda()
+                    pre_embed = self.pre_model(elmo_id)
+                    new_data['emb'] = pre_embed['elmo_representations'][1].squeeze(0)
+                elif pretrain_type == 'elmo_layer':
+                    pre_embed = self.pre_model.embed_sentence(words)
+                    new_data['emb'] = torch.zeros((3, len(wordtok), 1024), requires_grad=False)
+                    for i in range(3):
+                        new_data['emb'][i, :, :] = torch.from_numpy(pre_embed[i])
+                elif pretrain_type == 'bert':
+                    bert_token = tokenizer.convert_tokens_to_ids(words)
+                    bert_tensor = torch.tensor([bert_token])
+                    pre_embed, _ = self.pre_model(bert_tensor)
+                    new_data['emb'] = torch.zeros((12, len(wordtok), 768), requires_grad=False)
+                    for i in range(12):
+                        new_data['emb'][i, :, :] = pre_embed[i]
+
                 self.data.append(new_data)
 
         self.max_length = max([len(l['phrase']) for l in self.data])
@@ -105,15 +161,24 @@ class tokenizer(object):
         seq_length = [len(element['phrase']) for element in batch]
         mask = []
         posi = []
-        for element in batch:
-            encode = element['phrase']
-            l = len(encode)
-            encode += [0] * (max(seq_length) - l)
-            seq_position = element['position']
-            seq_position += [0] * (max(seq_length) - l)
-            seq.append(encode)
-            posi.append(seq_position)
-            mask.append([0] * l + [1] * (max(seq_length) - l))
+
+        if self.pretrain == 'elmo_repre':
+            pre_model = torch.zeros((batch_size, max(seq_length), 1024), requires_grad=False).cuda()
+        elif self.pretrain == 'elmo_layer':
+            pre_model = torch.zeros((batch_size, 3, max(seq_length), 1024), requires_grad=False).cuda()
+        elif self.pretrain == 'bert':
+            pre_model = torch.zeros((batch_size, 12, max(seq_length), 768), requires_grad=False).cuda()
+        else:
+            pre_model = None
+
+        for i, element in enumerate(batch):
+            if self.pretrain == 'elmo_repre':
+                pre_model[i, :element['length'], :] = element['emb'].detach()
+            elif self.pretrain:
+                pre_model[i, :, :element['length'], :] = element['emb']
+            seq.append(element['phrase'] + [0] * (max(seq_length) - element['length']))
+            posi.append(element['position'] + [0] * (max(seq_length) - element['length']))
+            mask.append([0] * element['length'] + [1] * (max(seq_length) - element['length']))
 
         label = [element['code'] for element in batch]
 
@@ -126,12 +191,12 @@ class tokenizer(object):
         if (self.position + batch_size) > len(self.data):
             self.epoch_finish = True
 
-        return seq, label, seq_length, mask, posi
+        return seq, label, seq_length, mask, posi, pre_model
 
 
 def read_embed(path):
-    # read embedding from file
-    # {'word': [embedding]}
+    ''' read embedding from file
+        {'word': [embedding]}'''
     embed = {}
     max_e = 0
     min_e = 0
@@ -150,37 +215,46 @@ def read_embed(path):
     return embed, max_e, min_e
 
 
-def pre_embed(raw_embedding, word_vocab, max_e, min_e, embedding_size):
-    # permute embedding to word id
-    # first 0 for padding
-    # [n * embedding_size]
+def pre_embed(raw_embedding, word_vocab, max_e, min_e, embedding_size, spell_check=True):
+    ''' permute embedding to word id
+        first 0 for padding
+        [n * embedding_size]'''
     embedding = []
     embedding.append([0.] * embedding_size)
-    spell_checker = SpellChecker(raw_embedding.keys(), word_vocab)
-    vocab_correction = []
+    if spell_check:
+        spell_checker = SpellChecker(raw_embedding.keys(), word_vocab)
+        vocab_correction = []
     for i, word in enumerate(word_vocab):
         if word in raw_embedding.keys():
-            vocab_correction.append(word)
+            if spell_check:
+                vocab_correction.append(word)
             embedding.append(raw_embedding[word])
         else:
-            word_correct = spell_checker.correct_word(word)
-            if word_correct in raw_embedding.keys():
-                # print('Change %s to %s' % (word, word_correct))
-                vocab_correction.append(word_correct)
-                embedding.append(raw_embedding[word_correct])
+            if spell_check:
+                word_correct = spell_checker.correct_word(word)
+                if word_correct in raw_embedding.keys():
+                    # print('Change %s to %s' % (word, word_correct))
+                    vocab_correction.append(word_correct)
+                    embedding.append(raw_embedding[word_correct])
+                else:
+                    # print(word, 'not in HealthVec')
+                    vocab_correction.append(word)
+                    rand = list(np.random.uniform(min_e, max_e, embedding_size))
+                    embedding.append(rand)
             else:
-                # print(word, 'not in HealthVec')
-                vocab_correction.append(word)
                 rand = list(np.random.uniform(min_e, max_e, embedding_size))
                 embedding.append(rand)
 
-    return embedding, vocab_correction
+    if spell_check:
+        return embedding, vocab_correction
+    else:
+        return embedding
 
 
 def get_elmo(word_vocab):
-    # get elmo embedding
-    # first 0 for padding
-    # [n * embedding_size]
+    ''' get elmo embedding, character level base, without context
+        first 0 for padding
+        [n * embedding_size]'''
     elmo = Elmo(elmo_options, elmo_weights, 2, dropout=0)
     character_ids = batch_to_ids([word_vocab])
     embeddings = elmo(character_ids)
@@ -236,4 +310,4 @@ if __name__ == "__main__":
     # read_file()
     word_vocab = read_vocab('data/wordls.txt')
     print(len(word_vocab))
-    get_elmo(word_vocab)
+    get_character(word_vocab)

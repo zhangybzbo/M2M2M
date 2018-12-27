@@ -145,11 +145,21 @@ class EncoderLayer(nn.Module):
         self.pos_ffn = PositionwiseFeedForward(d_model, d_inner, dropout=dropout)
 
     def forward(self, enc_input, non_pad_mask=None, slf_attn_mask=None):
-        enc_output, enc_slf_attn = self.slf_attn(
-            enc_input, enc_input, enc_input, mask=slf_attn_mask)
+        enc_output, enc_slf_attn = self.slf_attn(enc_input, enc_input, enc_input, mask=slf_attn_mask)
         enc_output *= non_pad_mask
 
         enc_output = self.pos_ffn(enc_output)
         enc_output *= non_pad_mask
 
         return enc_output, enc_slf_attn
+
+class Highway(nn.Module):
+    """Highway network"""
+    def __init__(self, input_size):
+        super(Highway, self).__init__()
+        self.fc1 = nn.Linear(input_size, input_size, bias=True)
+        self.fc2 = nn.Linear(input_size, input_size, bias=True)
+
+    def forward(self, x):
+        t = F.sigmoid(self.fc1(x))
+        return torch.mul(t, F.relu(self.fc2(x))) + torch.mul(1-t, x)
