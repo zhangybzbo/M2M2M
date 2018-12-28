@@ -1,6 +1,6 @@
 A ongoing pytorch version of Transformer model to medical concept mapping.
 
-`bert` embedding and spell check are unfinished
+`bert` embedding and spell check are unfinished.
 
 ## Requirements
 * Python
@@ -14,7 +14,7 @@ You can download ELMo and BERT pretrained models into `models` folder.
 
 ## Experiment
 
-Once you have data files prepared, simply run
+Once you have data files prepared, simply run:
 
 	python code/train.py
 
@@ -26,7 +26,7 @@ There are two ways to apply ELMo embedding `Pretrain_type`:
 To reproduce the result:
 
 ```python
-Spell_check = False  # unfinsh
+Spell_check = False  # unfinshed
 Pretrain_type = 'elmo_repre'  # bert / elmo_repre / elmo_layer
 
 Max_seq_len = 35
