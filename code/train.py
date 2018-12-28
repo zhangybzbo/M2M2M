@@ -9,7 +9,7 @@ from model import Network, AttnNet, HiddenNet, TransformerNet
 from unique_code import code_to_index, word_to_index, read_vocab, tokenizer, read_embed, pre_embed, get_elmo
 
 Spell_check = False  # TODO: spell check not applied right
-Pretrain_type = 'bert'  # bert / elmo_repre / elmo_layer
+Pretrain_type = 'elmo_repre'  # bert / elmo_repre / elmo_layer
 # TODO: bert unfinished
 
 
@@ -20,7 +20,7 @@ code_list = 'codels.txt'
 char_list = 'charls.txt'
 pretrained = 'Health_2.5mreviews.s200.w10.n5.v15.cbow.txt'
 
-Max_seq_len = 40
+Max_seq_len = 40 if Pretrain_type == 'bert' else 35
 HealthVec_size = 200
 Embedding_size = 200 + 768 if Pretrain_type == 'bert' else 200 + 1024
 Hidden_size = 200
