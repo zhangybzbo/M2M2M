@@ -1,4 +1,5 @@
 import os
+import gc
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import torch
@@ -92,6 +93,7 @@ if __name__ == "__main__":
         print(train_data.max_length)
         print(test_data.max_length)
         del train_file, test_file
+        gc.collect()
 
         '''print('Fold %d: %d training data, %d testing data' % (fold, len(train_data.data), len(test_data.data)),
               flush=True)
