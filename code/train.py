@@ -91,6 +91,8 @@ if __name__ == "__main__":
         train_data, test_data = data_prepare(code_id, word_id, train_file, test_file)
         print(train_data.max_length)
         print(test_data.max_length)
+        del train_file, test_file
+
         '''print('Fold %d: %d training data, %d testing data' % (fold, len(train_data.data), len(test_data.data)),
               flush=True)
 
