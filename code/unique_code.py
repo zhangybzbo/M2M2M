@@ -153,7 +153,7 @@ class tokenizer(object):
 
                 self.data.append(new_data)
 
-        self.max_length = max([len(l['phrase']) for l in self.data])
+        self.max_length = max([l['emb_length'] for l in self.data])
 
         self.epoch_finish = False
         self.position = 0

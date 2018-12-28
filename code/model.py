@@ -174,8 +174,7 @@ class TransformerNet(nn.Module):
     '''transformer'''
 
     def __init__(self, pretrain_type, pretrained_embed, len_max_seq, embedding_size, inner_hid_size, output_size, d_k,
-                 d_v,
-                 dropout_ratio=0.1, num_layers=6, num_head=8):
+                 d_v, dropout_ratio=0.1, num_layers=6, num_head=8):
         super(TransformerNet, self).__init__()
         self.n_position = len_max_seq + 1
         self.pretrain_type = pretrain_type

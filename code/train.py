@@ -1,6 +1,6 @@
 import os
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import torch
 import torch.nn as nn
 from torch import optim
@@ -19,7 +19,7 @@ code_list = 'codels.txt'
 char_list = 'charls.txt'
 pretrained = 'Health_2.5mreviews.s200.w10.n5.v15.cbow.txt'
 
-Max_seq_len = 35
+Max_seq_len = 40
 HealthVec_size = 200
 Embedding_size = 200 + 768 if Pretrain_type == 'bert' else 200 + 1024
 Hidden_size = 200
@@ -35,7 +35,7 @@ Weight_decay = 0.0015
 LR_decay = 0.5
 Epoch = 600
 LR_decay_epoch = 300
-Batch_size = 32
+Batch_size = 64
 
 torch.manual_seed(1)
 torch.cuda.manual_seed(1)
@@ -89,7 +89,9 @@ if __name__ == "__main__":
         train_file = DATA_path + 'train_' + str(fold) + '.csv'
         test_file = DATA_path + 'test_' + str(fold) + '.csv'
         train_data, test_data = data_prepare(code_id, word_id, train_file, test_file)
-        print('Fold %d: %d training data, %d testing data' % (fold, len(train_data.data), len(test_data.data)),
+        print(train_data.max_length)
+        print(test_data.max_length)
+        '''print('Fold %d: %d training data, %d testing data' % (fold, len(train_data.data), len(test_data.data)),
               flush=True)
 
         for e in range(Epoch):
@@ -121,4 +123,4 @@ if __name__ == "__main__":
 
         Acc += accuracy
 
-    print('finial accuracy: %.4f' % (Acc / 5))
+    print('finial accuracy: %.4f' % (Acc / 5))'''
