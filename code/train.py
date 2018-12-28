@@ -36,7 +36,7 @@ Weight_decay = 0.0015
 LR_decay = 0.5
 Epoch = 600
 LR_decay_epoch = 300
-Batch_size = 64
+Batch_size = 128
 
 torch.manual_seed(1)
 torch.cuda.manual_seed(1)
