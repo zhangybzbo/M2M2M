@@ -90,12 +90,8 @@ if __name__ == "__main__":
         train_file = DATA_path + 'train_' + str(fold) + '.csv'
         test_file = DATA_path + 'test_' + str(fold) + '.csv'
         train_data, test_data = data_prepare(code_id, word_id, train_file, test_file)
-        print(train_data.max_length)
-        print(test_data.max_length)
-        del train_file, test_file
-        gc.collect()
 
-        '''print('Fold %d: %d training data, %d testing data' % (fold, len(train_data.data), len(test_data.data)),
+        print('Fold %d: %d training data, %d testing data' % (fold, len(train_data.data), len(test_data.data)),
               flush=True)
 
         for e in range(Epoch):
@@ -127,4 +123,7 @@ if __name__ == "__main__":
 
         Acc += accuracy
 
-    print('finial accuracy: %.4f' % (Acc / 5))'''
+        del train_data, test_data
+        gc.collect()
+
+    print('finial accuracy: %.4f' % (Acc / 5))
