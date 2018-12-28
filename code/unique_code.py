@@ -5,6 +5,9 @@ from allennlp.modules.elmo import Elmo, batch_to_ids
 from allennlp.commands.elmo import ElmoEmbedder
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
 import collections
+import random
+
+random.seed(1)
 
 file_list = ['test_0.csv', 'test_1.csv', 'test_2.csv', 'test_3.csv', 'test_4.csv',
              'train_0.csv', 'train_1.csv', 'train_2.csv', 'train_3.csv', 'train_4.csv']
@@ -98,8 +101,8 @@ def read_vocab(path):
 
 class tokenizer(object):
     ''' token data
-        data: [ n * {'phrase': [word_id_list], 'length': int, 'position': [word position in a sentence],
-                    'code': code_id, 'emb': tensor(standard word embeddings)} ]'''
+        data: [ n * {'phrase': [word_id_list], 'length': int, 'emb_length': int,
+            'emb': tensor(standard word embeddings), 'position': [word position in a sentence], 'code': code_id} ]'''
 
     def __init__(self, wordls, codels, datafile, pretrain_type=None):
         self.data = []
@@ -110,7 +113,7 @@ class tokenizer(object):
             self.pre_model = ElmoEmbedder(elmo_options, elmo_weights, cuda_device=0)
         elif pretrain_type == 'bert':
             tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-            self.pre_model = BertModel.from_pretrained('bert-base-uncased')
+            self.pre_model = BertModel.from_pretrained('bert-base-uncased').cuda()
             self.pre_model.eval()
 
         with open(datafile) as f:
@@ -124,8 +127,7 @@ class tokenizer(object):
 
                 new_data['phrase'] = wordtok
                 new_data['length'] = len(wordtok)
-                new_data['position'] = [i + 1 for i in range(len(wordtok))]
-                new_data['code'] = codels[code]
+                new_data['emb_length'] = len(wordtok)  # for bert when using rare word
 
                 if pretrain_type == 'elmo_repre':
                     elmo_id = batch_to_ids([words]).cuda()
@@ -137,12 +139,17 @@ class tokenizer(object):
                     for i in range(3):
                         new_data['emb'][i, :, :] = torch.from_numpy(pre_embed[i])
                 elif pretrain_type == 'bert':
-                    bert_token = tokenizer.convert_tokens_to_ids(words)
-                    bert_tensor = torch.tensor([bert_token])
+                    bert_text = tokenizer.tokenize(' '.join(words))
+                    bert_token = tokenizer.convert_tokens_to_ids(bert_text)
+                    bert_tensor = torch.tensor([bert_token]).cuda()
                     pre_embed, _ = self.pre_model(bert_tensor)
-                    new_data['emb'] = torch.zeros((12, len(wordtok), 768), requires_grad=False)
+                    new_data['emb_length'] = len(bert_token)
+                    new_data['emb'] = torch.zeros((12, len(bert_token), 768), requires_grad=False)
                     for i in range(12):
                         new_data['emb'][i, :, :] = pre_embed[i]
+
+                new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
+                new_data['code'] = codels[code]
 
                 self.data.append(new_data)
 
@@ -154,11 +161,12 @@ class tokenizer(object):
     def reset_epoch(self):
         self.epoch_finish = False
         self.position = 0
+        random.shuffle(self.data)
 
     def get_batch(self, batch_size):
         batch = self.data[self.position:self.position + batch_size]
         seq = []
-        seq_length = [len(element['phrase']) for element in batch]
+        seq_length = [element['emb_length'] for element in batch]
         mask = []
         posi = []
 
@@ -173,12 +181,12 @@ class tokenizer(object):
 
         for i, element in enumerate(batch):
             if self.pretrain == 'elmo_repre':
-                pre_model[i, :element['length'], :] = element['emb'].detach()
+                pre_model[i, :element['emb_length'], :] = element['emb'].detach()
             elif self.pretrain:
-                pre_model[i, :, :element['length'], :] = element['emb']
+                pre_model[i, :, :element['emb_length'], :] = element['emb']
             seq.append(element['phrase'] + [0] * (max(seq_length) - element['length']))
-            posi.append(element['position'] + [0] * (max(seq_length) - element['length']))
-            mask.append([0] * element['length'] + [1] * (max(seq_length) - element['length']))
+            posi.append(element['position'] + [0] * (max(seq_length) - element['emb_length']))
+            mask.append([0] * element['emb_length'] + [1] * (max(seq_length) - element['emb_length']))
 
         label = [element['code'] for element in batch]
 
@@ -215,7 +223,7 @@ def read_embed(path):
     return embed, max_e, min_e
 
 
-def pre_embed(raw_embedding, word_vocab, max_e, min_e, embedding_size, spell_check=True):
+def pre_embed(raw_embedding, word_vocab, max_e, min_e, embedding_size, spell_check=False):
     ''' permute embedding to word id
         first 0 for padding
         [n * embedding_size]'''

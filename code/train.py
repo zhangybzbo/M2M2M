@@ -1,6 +1,6 @@
 import os
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "2"
 import torch
 import torch.nn as nn
 from torch import optim
@@ -8,7 +8,7 @@ from model import Network, AttnNet, HiddenNet, TransformerNet
 from unique_code import code_to_index, word_to_index, read_vocab, tokenizer, read_embed, pre_embed, get_elmo
 
 Spell_check = False  # TODO: spell check not applied right
-Pretrain_type = 'elmo_repre'  # bert / elmo_repre / elmo_layer
+Pretrain_type = 'bert'  # bert / elmo_repre / elmo_layer
 # TODO: bert unfinished
 
 
@@ -35,7 +35,7 @@ Weight_decay = 0.0015
 LR_decay = 0.5
 Epoch = 600
 LR_decay_epoch = 300
-Batch_size = 128
+Batch_size = 32
 
 torch.manual_seed(1)
 torch.cuda.manual_seed(1)
