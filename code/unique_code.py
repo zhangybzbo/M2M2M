@@ -146,7 +146,7 @@ class tokenizer(object):
                     new_data['emb_length'] = len(bert_token)
                     new_data['emb'] = torch.zeros((12, len(bert_token), 768), requires_grad=False)
                     for i in range(12):
-                        new_data['emb'][i, :, :] = pre_embed[i]
+                        new_data['emb'][i, :, :] = pre_embed[i].detach()
 
                 new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
                 new_data['code'] = codels[code]
