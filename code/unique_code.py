@@ -144,9 +144,9 @@ class tokenizer(object):
                     bert_tensor = torch.tensor([bert_token]).cuda()
                     pre_embed, _ = self.pre_model(bert_tensor)
                     new_data['emb_length'] = len(bert_token)
-                    new_data['emb'] = torch.zeros((12, len(bert_token), 768), requires_grad=False)
-                    for i in range(12):
-                        new_data['emb'][i, :, :] = pre_embed[i].detach()
+                    new_data['emb'] = torch.zeros((4, len(bert_token), 768), requires_grad=False)
+                    for i in range(4):
+                        new_data['emb'][i, :, :] = pre_embed[8+i].detach()
 
                 new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
                 new_data['code'] = codels[code]
@@ -175,7 +175,7 @@ class tokenizer(object):
         elif self.pretrain == 'elmo_layer':
             pre_model = torch.zeros((batch_size, 3, max(seq_length), 1024), requires_grad=False).cuda()
         elif self.pretrain == 'bert':
-            pre_model = torch.zeros((batch_size, 12, max(seq_length), 768), requires_grad=False).cuda()
+            pre_model = torch.zeros((batch_size, 4, max(seq_length), 768), requires_grad=False).cuda()
         else:
             pre_model = None
 

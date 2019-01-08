@@ -186,7 +186,7 @@ class TransformerNet(nn.Module):
             self.emb_weights = nn.Parameter(torch.ones(1, 3, 1, 1), requires_grad=True).cuda()
             self.emb_scale = nn.Parameter(torch.ones(1), requires_grad=True).cuda()
         elif pretrain_type == 'bert':
-            self.emb_weights = nn.Parameter(torch.ones(1, 12, 1, 1), requires_grad=True).cuda()
+            self.emb_weights = nn.Parameter(torch.ones(1, 4, 1, 1), requires_grad=True).cuda()
             self.emb_scale = nn.Parameter(torch.ones(1), requires_grad=True).cuda()
 
         self.drop = nn.Dropout(p=dropout_ratio)

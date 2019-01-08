@@ -9,7 +9,7 @@ from model import Network, AttnNet, HiddenNet, TransformerNet
 from unique_code import code_to_index, word_to_index, read_vocab, tokenizer, read_embed, pre_embed, get_elmo
 
 Spell_check = False  # TODO: spell check not applied right
-Pretrain_type = 'elmo_repre'  # bert / elmo_repre / elmo_layer
+Pretrain_type = 'bert'  # bert / elmo_repre / elmo_layer
 # TODO: bert unfinished
 
 
