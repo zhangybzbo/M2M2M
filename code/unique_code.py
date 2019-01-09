@@ -142,6 +142,7 @@ class tokenizer(object):
                     bert_text = tokenizer.tokenize(' '.join(words))
                     bert_token = tokenizer.convert_tokens_to_ids(bert_text)
                     bert_tensor = torch.tensor([bert_token]).cuda()
+                    new_data['emb_length'] = len(bert_token)
                     pre_embed, _ = self.pre_model(bert_tensor)
                     new_data['emb'] = pre_embed[11].squeeze(0).detach()
 
