@@ -185,9 +185,9 @@ class TransformerNet(nn.Module):
         if pretrain_type == 'elmo_layer':
             self.emb_weights = nn.Parameter(torch.ones(1, 3, 1, 1), requires_grad=True).cuda()
             self.emb_scale = nn.Parameter(torch.ones(1), requires_grad=True).cuda()
-        elif pretrain_type == 'bert':
+        '''elif pretrain_type == 'bert':
             self.emb_weights = nn.Parameter(torch.ones(1, 4, 1, 1), requires_grad=True).cuda()
-            self.emb_scale = nn.Parameter(torch.ones(1), requires_grad=True).cuda()
+            self.emb_scale = nn.Parameter(torch.ones(1), requires_grad=True).cuda()'''
 
         self.drop = nn.Dropout(p=dropout_ratio)
 
@@ -205,12 +205,12 @@ class TransformerNet(nn.Module):
         non_pad_mask = self.get_non_pad_mask(seq)
 
         # -- Forward
-        if self.pretrain_type == 'elmo_layer' or self.pretrain_type == 'bert':
+        if self.pretrain_type == 'elmo_layer':
             standard_emb = torch.mul(self.emb_weights, pre_emb)
             standard_emb = torch.sum(standard_emb, 1)
             standard_emb = torch.mul(standard_emb, self.emb_scale)
             w_embed = torch.cat((self.HealthVec(seq), standard_emb), dim=-1)
-        elif self.pretrain_type == 'elmo_repre':
+        elif self.pretrain_type == 'elmo_repre' or self.pretrain_type == 'bert':
             w_embed = torch.cat((self.HealthVec(seq), pre_emb), dim=-1)
         else:
             w_embed = self.HealthVec(seq)

@@ -132,7 +132,7 @@ class tokenizer(object):
                 if pretrain_type == 'elmo_repre':
                     elmo_id = batch_to_ids([words]).cuda()
                     pre_embed = self.pre_model(elmo_id)
-                    new_data['emb'] = pre_embed['elmo_representations'][1].squeeze(0)
+                    new_data['emb'] = pre_embed['elmo_representations'][1].squeeze(0).detach()
                 elif pretrain_type == 'elmo_layer':
                     pre_embed = self.pre_model.embed_sentence(words)
                     new_data['emb'] = torch.zeros((3, len(wordtok), 1024), requires_grad=False)
@@ -143,10 +143,7 @@ class tokenizer(object):
                     bert_token = tokenizer.convert_tokens_to_ids(bert_text)
                     bert_tensor = torch.tensor([bert_token]).cuda()
                     pre_embed, _ = self.pre_model(bert_tensor)
-                    new_data['emb_length'] = len(bert_token)
-                    new_data['emb'] = torch.zeros((4, len(bert_token), 768), requires_grad=False)
-                    for i in range(4):
-                        new_data['emb'][i, :, :] = pre_embed[8+i].detach()
+                    new_data['emb'] = pre_embed[11].squeeze(0).detach()
 
                 new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
                 new_data['code'] = codels[code]
@@ -175,13 +172,13 @@ class tokenizer(object):
         elif self.pretrain == 'elmo_layer':
             pre_model = torch.zeros((batch_size, 3, max(seq_length), 1024), requires_grad=False).cuda()
         elif self.pretrain == 'bert':
-            pre_model = torch.zeros((batch_size, 4, max(seq_length), 768), requires_grad=False).cuda()
+            pre_model = torch.zeros((batch_size, max(seq_length), 768), requires_grad=False).cuda()
         else:
             pre_model = None
 
         for i, element in enumerate(batch):
-            if self.pretrain == 'elmo_repre':
-                pre_model[i, :element['emb_length'], :] = element['emb'].detach()
+            if self.pretrain == 'elmo_repre' or self.pretrain == 'bert':
+                pre_model[i, :element['emb_length'], :] = element['emb']
             elif self.pretrain:
                 pre_model[i, :, :element['emb_length'], :] = element['emb']
             seq.append(element['phrase'] + [0] * (max(seq_length) - element['length']))
