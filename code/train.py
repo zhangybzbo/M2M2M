@@ -36,7 +36,7 @@ Weight_decay = 0.0015
 LR_decay = 0.5
 Epoch = 600
 LR_decay_epoch = 300
-Batch_size = 128
+Batch_size = 133
 
 torch.manual_seed(1)
 torch.cuda.manual_seed(1)
@@ -99,8 +99,8 @@ if __name__ == "__main__":
 
         for e in range(Epoch):
             train_data.reset_epoch()
+            Net.train()
             while not train_data.epoch_finish:
-                Net.train()
                 optimizer.zero_grad()
                 seq, label, seq_length, mask, seq_pos, standard_emb = train_data.get_batch(Batch_size)
                 results = Net(seq, seq_pos, standard_emb)
@@ -119,6 +119,7 @@ if __name__ == "__main__":
                 _, idx = results.max(1)
                 train_correct += len((idx == label).nonzero())
                 i += Batch_size
+            assert i == len(train_data.data)
             train_accuracy = float(train_correct) / float(i)
 
             test_data.reset_epoch()
