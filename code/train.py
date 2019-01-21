@@ -103,6 +103,7 @@ if __name__ == "__main__":
                 Net.train()
                 optimizer.zero_grad()
                 seq, label, seq_length, mask, seq_pos, standard_emb = train_data.get_batch(Batch_size)
+                print(seq.size(), standard_emb.size())
                 results = Net(seq, seq_pos, standard_emb)
                 loss = criterion(results, label)
                 loss.backward()
