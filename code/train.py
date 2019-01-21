@@ -118,14 +118,20 @@ if __name__ == "__main__":
                 results = Net(seq, seq_pos, standard_emb)
                 _, idx = results.max(1)
                 train_correct += len((idx == label).nonzero())
-                i += 1
-            train_accuracy = float(train_correct) / float(i * Batch_size)
+                i += Batch_size
+            train_accuracy = float(train_correct) / float(i)
 
             test_data.reset_epoch()
-            seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(len(test_data.data))
-            results = Net(seq, seq_pos, standard_emb)
-            _, idx = results.max(1)
-            test_correct = len((idx == label).nonzero())
+            test_correct = 0
+            i = 0
+            while not test_data.epoch_finish:
+                # seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(len(test_data.data))
+                seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(833)
+                results = Net(seq, seq_pos, standard_emb)
+                _, idx = results.max(1)
+                test_correct += len((idx == label).nonzero())
+                i += 833
+            assert i == len(test_data.data)
             test_accuracy = float(test_correct) / float(len(test_data.data))
 
             if (e + 1) % 10 == 0:
