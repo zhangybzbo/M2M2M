@@ -1,7 +1,7 @@
 import os
 import gc
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import torch
 import torch.nn as nn
 from torch import optim
@@ -103,7 +103,6 @@ if __name__ == "__main__":
                 Net.train()
                 optimizer.zero_grad()
                 seq, label, seq_length, mask, seq_pos, standard_emb = train_data.get_batch(Batch_size)
-                print(seq.size(), standard_emb.size())
                 results = Net(seq, seq_pos, standard_emb)
                 loss = criterion(results, label)
                 loss.backward()
@@ -113,12 +112,14 @@ if __name__ == "__main__":
 
             train_data.reset_epoch()
             train_correct = 0
+            i = 0
             while not train_data.epoch_finish:
-                seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(Batch_size)
+                seq, label, seq_length, mask, seq_pos, standard_emb = train_data.get_batch(Batch_size)
                 results = Net(seq, seq_pos, standard_emb)
                 _, idx = results.max(1)
                 train_correct += len((idx == label).nonzero())
-            train_accuracy = float(train_correct) / float(len(train_data.data))
+                i += 1
+            train_accuracy = float(train_correct) / float(i * Batch_size)
 
             test_data.reset_epoch()
             seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(len(test_data.data))
