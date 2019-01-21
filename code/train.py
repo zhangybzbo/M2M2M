@@ -9,14 +9,14 @@ from model import Network, AttnNet, HiddenNet, TransformerNet
 from unique_code import code_to_index, word_to_index, read_vocab, tokenizer, read_embed, pre_embed, get_elmo
 
 Spell_check = False  # TODO: spell check not applied right
-Pretrain_type = 'bert'  # bert / elmo_repre / elmo_layer
-# TODO: bert unfinished
-
+Pretrain_type = 'elmo_repre'  # bert / elmo_repre / elmo_layer
 
 DATA_path = 'data/'
 MODEL_path = 'models/'
 word_list = 'wordls.txt'
 code_list = 'codels.txt'
+word_list_2 = 'wordls_2.txt'
+code_list_2 = 'codels_2.txt'
 char_list = 'charls.txt'
 pretrained = 'Health_2.5mreviews.s200.w10.n5.v15.cbow.txt'
 
@@ -44,12 +44,12 @@ torch.cuda.manual_seed(1)
 
 def source_prepare():
     '''get vocabulary and HealthVec pre-train embedding'''
-    code_vocab = read_vocab(DATA_path + code_list)
+    code_vocab = read_vocab(DATA_path + code_list_2)
     code_id = code_to_index(code_vocab)
-    word_vocab = read_vocab(DATA_path + word_list)
+    word_vocab = read_vocab(DATA_path + word_list_2)
     word_id = word_to_index(word_vocab)
-    char_vocab = read_vocab(DATA_path + char_list)
-    char_id = word_to_index(char_vocab)
+    # char_vocab = read_vocab(DATA_path + char_list)
+    # char_id = word_to_index(char_vocab)
 
     raw_embedding, max_e, min_e = read_embed(MODEL_path + pretrained)
     if Spell_check:
@@ -82,13 +82,16 @@ if __name__ == "__main__":
     criterion = nn.CrossEntropyLoss()
 
     Acc = 0.
-    for fold in range(5):
+    # for fold in range(5):
+    for fold in range(1):
         Net = TransformerNet(Pretrain_type, pretrain, Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
                              D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head).cuda()
         optimizer = optim.Adam(Net.parameters(), lr=Learning_rate, eps=1e-08, weight_decay=Weight_decay)
 
-        train_file = DATA_path + 'train_' + str(fold) + '.csv'
-        test_file = DATA_path + 'test_' + str(fold) + '.csv'
+        '''train_file = DATA_path + 'train_' + str(fold) + '.csv'
+        test_file = DATA_path + 'test_' + str(fold) + '.csv'''
+        train_file = DATA_path + 'train_final.txt'
+        test_file = DATA_path + 'test_final.txt'
         train_data, test_data = data_prepare(code_id, word_id, train_file, test_file)
 
         print('Fold %d: %d training data, %d testing data' % (fold, len(train_data.data), len(test_data.data)),
@@ -105,25 +108,36 @@ if __name__ == "__main__":
                 loss.backward()
                 optimizer.step()
 
-            test_data.reset_epoch()
             Net.eval()
+
+            train_data.reset_epoch()
+            train_correct = 0
+            while not train_data.epoch_finish:
+                seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(Batch_size)
+                results = Net(seq, seq_pos, standard_emb)
+                _, idx = results.max(1)
+                train_correct += len((idx == label).nonzero())
+            train_accuracy = float(train_correct) / float(len(train_data.data))
+
+            test_data.reset_epoch()
             seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(len(test_data.data))
             results = Net(seq, seq_pos, standard_emb)
             _, idx = results.max(1)
-            correct = len((idx == label).nonzero())
-            accuracy = float(correct) / float(len(test_data.data))
+            test_correct = len((idx == label).nonzero())
+            test_accuracy = float(test_correct) / float(len(test_data.data))
 
             if (e + 1) % 10 == 0:
-                print('[fold %d epoch %d] training loss: %.4f, testing: %d correct, %.4f accuracy' % (
-                    fold, e, loss.item(), correct, accuracy), flush=True)
+                print('[fold %d epoch %d] training loss: %.4f, % d correct, %.4f accuracy;'
+                      ' testing: %d correct, %.4f accuracy' %
+                      (fold, e, loss.item(), train_correct, train_accuracy, test_correct, test_accuracy), flush=True)
 
             if (e + 1) % LR_decay_epoch == 0:
                 adjust_learning_rate(optimizer, LR_decay)
                 print('learning rate decay!', flush=True)
 
-        Acc += accuracy
+        Acc += test_accuracy
 
         del train_data, test_data
         gc.collect()
 
-    print('finial accuracy: %.4f' % (Acc / 5))
+    print('finial test accuracy: %.4f' % (Acc / 1))

@@ -11,26 +11,34 @@ random.seed(1)
 
 file_list = ['test_0.csv', 'test_1.csv', 'test_2.csv', 'test_3.csv', 'test_4.csv',
              'train_0.csv', 'train_1.csv', 'train_2.csv', 'train_3.csv', 'train_4.csv']
+file_list_2 = ['train_final.txt', 'test_final.txt']
 file_dir = 'data/'
 save_code = 'codels.txt'
 save_word = 'wordls.txt'
 save_char = 'charls.txt'
+save_code_2 = 'codels_2.txt'
+save_word_2 = 'wordls_2.txt'
 elmo_options = 'models/elmo_2x4096_512_2048cnn_2xhighway_options.json'
 elmo_weights = 'models/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5'
 
 
 def read_file():
     '''get code & word list, dump into two files'''
-    fw = open(file_dir + save_code, "w")
-    fw_2 = open(file_dir + save_word, 'w')
+    fw = open(file_dir + save_code_2, "w")
+    fw_2 = open(file_dir + save_word_2, 'w')
     code_list = []
     word_list = []
-    for f in file_list:
+    for f in file_list_2:
         with open(file_dir + f) as fr:
             for line in fr.readlines():
+                '''
                 code = line.strip().split('\t')[1]
                 phrase = line.strip().split('\t')[0]
                 words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
+                '''
+                code = line.strip().split('\t')[2]
+                phrase = line.strip().split('\t')[1]
+                words = re.split(' |,|\)|\(|-|/|\.|\'|\"|\[|\]|\\\\', phrase.strip())
                 if code not in code_list:
                     code_list.append(code)
                     fw.write(code + '\n')
@@ -119,9 +127,14 @@ class tokenizer(object):
         with open(datafile) as f:
             for line in f.readlines():
                 new_data = dict()
+                '''
                 code = line.strip().split('\t')[1]
                 phrase = line.strip().split('\t')[0]
                 words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
+                '''
+                code = line.strip().split('\t')[2]
+                phrase = line.strip().split('\t')[1]
+                words = re.split(' |,|\)|\(|-|/|\.|\'|\"|\[|\]|\\\\', phrase.strip())
                 words = [word.strip() for word in words if not word.strip() == '']
                 wordtok = [wordls[word] for word in words]
 
@@ -313,7 +326,7 @@ class SpellChecker(object):
 
 
 if __name__ == "__main__":
-    # read_file()
-    word_vocab = read_vocab('data/wordls.txt')
-    print(len(word_vocab))
-    get_character(word_vocab)
+    read_file()
+    # word_vocab = read_vocab('data/wordls.txt')
+    # print(len(word_vocab))
+    # get_character(word_vocab)
