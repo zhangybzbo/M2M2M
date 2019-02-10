@@ -211,7 +211,7 @@ def train():
     NER_optimizer = optim.Adam(NER.parameters(), lr=Learning_rate, weight_decay=Weight_decay)
     RE_optimizer = optim.Adam(RE.parameters(), lr=Learning_rate, weight_decay=Weight_decay)
 
-    print('network initialized')
+    print('network initialized', flush=True)
 
     LogDump = open(SAVE_DIR + 'val.csv', 'w')
     LogWriter = csv.writer(LogDump)
@@ -226,9 +226,6 @@ def train():
             NER_optimizer.zero_grad()
             RE_optimizer.zero_grad()
             standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = train_data.get_batch(Batch_size)
-            print(e_label, e_posi, r_label)
-            print(seq_length, mask, seq_pos)
-            input()
             z, y, y_out, b = NER(standard_emb)
 
             entity_loss = 0
