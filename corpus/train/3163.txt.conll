@@ -1,0 +1,16 @@
+1	Producers	producer	NNS	_	2	nsubj
+2	planted	plant	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	frozen	frozen	JJ	_	5	amod
+5	scallops	scallop	NNS	_	2	dobj
+6	that	that	WDT	_	7	nsubj
+7	led	lead	VBD	_	5	rcmod
+8	to	to	TO	_	7	prep
+9	Spike	Spike	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	elimination	elimination	NN	_	8	pobj
+12	from	from	IN	_	11	prep
+13	Top	top	JJ	_	14	amod
+14	Chef	chef	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

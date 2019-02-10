@@ -1,0 +1,12 @@
+1	This	this	DT	_	3	det
+2	pirate	pirate	NN	_	3	nn
+3	ship	ship	NN	_	6	nsubjpass
+4	carving	carve	VBG	_	3	amod
+5	was	be	VBD	_	6	auxpass
+6	made	make	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	an	a	DT	_	10	det
+9	actual	actual	JJ	_	10	amod
+10	pirate	pirate	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

@@ -1,0 +1,12 @@
+1	Quality	quality	JJ	_	4	amod
+2	forged	forge	VBN	_	4	amod
+3	pinking	pinking	NN	_	4	nn
+4	scissors	scissors	NNS	_	0	ROOT
+5	cut	cut	VBN	_	4	vmod
+6	with	with	IN	_	5	prep
+7	exceptional	exceptional	JJ	_	8	amod
+8	ease	ease	NN	_	6	pobj
+9	and	and	CC	_	8	cc
+10	efficiency	efficiency	NN	_	8	conj
+11	.	.	.	_	4	punct
+

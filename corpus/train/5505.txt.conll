@@ -1,0 +1,13 @@
+1	We	we	PRP	_	2	nsubj
+2	see	see	VBP	_	0	ROOT
+3	that	that	IN	_	6	mark
+4	the	the	DT	_	5	det
+5	universe	universe	NN	_	6	nsubj
+6	starts	start	VBZ	_	2	ccomp
+7	at	at	IN	_	6	prep
+8	an	a	DT	_	11	det
+9	initial	initial	JJ	_	11	amod
+10	epoch	epoch	NN	_	11	nn
+11	t0	t0	NN	_	7	pobj
+12	.	.	.	_	2	punct
+

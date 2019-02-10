@@ -1,0 +1,9 @@
+1	Some	some	DT	_	3	det
+2	animal	animal	NN	_	3	nn
+3	viruses	virus	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	migrated	migrate	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	humans	human	NNS	_	6	pobj
+8	.	.	.	_	5	punct
+

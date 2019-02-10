@@ -1,0 +1,17 @@
+1	Then	then	RB	_	5	advmod
+2	antibiotic	antibiotic	JJ	_	3	amod
+3	ointment	ointment	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	inside	inside	IN	_	5	prep
+7	my	my	PRP$	_	9	poss
+8	lower	lower	JJR	_	9	amod
+9	eyelid	eyelid	NN	_	6	pobj
+10	and	and	CC	_	5	cc
+11	they	they	PRP	_	12	nsubj
+12	patched	patch	VBD	_	5	conj
+13	my	my	PRP$	_	14	poss
+14	eye	eye	NN	_	12	dobj
+15	closed	close	VBD	_	5	dep
+16	.	.	.	_	5	punct
+

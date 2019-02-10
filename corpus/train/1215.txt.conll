@@ -1,0 +1,15 @@
+1	In	in	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	hold	hold	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	American	american	JJ	_	7	amod
+7	ship	ship	NN	_	4	pobj
+8	,	,	,	_	11	punct
+9	I	I	PRP	_	11	nsubj
+10	was	be	VBD	_	11	aux
+11	feeling	feel	VBG	_	0	ROOT
+12	very	very	RB	_	13	advmod
+13	queasy	queasy	JJ	_	11	acomp
+14	.	.	.	_	11	punct
+

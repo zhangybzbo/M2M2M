@@ -1,0 +1,13 @@
+1	Two	two	CD	_	2	num
+2	universities	university	NNS	_	3	nsubj
+3	entered	enter	VBN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	collaboration	collaboration	NN	_	4	pobj
+6	focusing	focus	VBG	_	5	vmod
+7	on	on	IN	_	6	prep
+8	development	development	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	plant	plant	NN	_	11	nn
+11	biotechnology	biotechnology	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

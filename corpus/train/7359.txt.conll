@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	woman	woman	NN	_	3	nsubj
+3	left	leave	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	room	room	NN	_	3	dobj
+6	and	and	CC	_	3	cc
+7	walked	walk	VBD	_	3	conj
+8	down	down	RP	_	7	prt
+9	the	the	DT	_	10	det
+10	hall	hall	NN	_	7	dobj
+11	and	and	CC	_	3	cc
+12	saw	see	VBD	_	3	conj
+13	the	the	DT	_	14	det
+14	novelist	novelist	NN	_	15	nsubj
+15	hunched	hunch	VBN	_	12	ccomp
+16	before	before	IN	_	15	prep
+17	his	he	PRP$	_	18	poss
+18	computer	computer	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

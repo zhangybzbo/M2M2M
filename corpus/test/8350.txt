@@ -1,0 +1,1 @@
+Bone is built up of many cell types and so far we have only investigated human osteoblasts .

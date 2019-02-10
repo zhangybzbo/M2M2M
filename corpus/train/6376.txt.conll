@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	report	report	NN	_	9	nsubj
+3	by	by	IN	_	2	prep
+4	two	two	CD	_	7	num
+5	independent	independent	JJ	_	7	amod
+6	medical	medical	JJ	_	7	amod
+7	experts	expert	NNS	_	3	pobj
+8	has	have	VBZ	_	9	aux
+9	concluded	conclude	VBN	_	0	ROOT
+10	that	that	IN	_	21	mark
+11	the	the	DT	_	12	det
+12	rate	rate	NN	_	21	nsubj
+13	of	of	IN	_	12	prep
+14	staph	staph	JJ	_	15	amod
+15	infections	infection	NNS	_	13	pobj
+16	among	among	IN	_	15	prep
+17	NFL	NFL	NNP	_	18	nn
+18	players	player	NNS	_	16	pobj
+19	is	be	VBZ	_	21	cop
+20	``	``	``	_	21	punct
+21	low	low	JJ	_	9	ccomp
+22	''	''	''	_	21	punct
+23	.	.	.	_	9	punct
+

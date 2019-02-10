@@ -1,0 +1,26 @@
+1	Ironically	ironically	RB	_	16	advmod
+2	,	,	,	_	16	punct
+3	the	the	DT	_	4	det
+4	damage	damage	NN	_	16	nsubj
+5	caused	cause	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	floods	flood	NNS	_	6	pobj
+9	,	,	,	_	4	punct
+10	and	and	CC	_	4	cc
+11	the	the	DT	_	14	det
+12	subsequent	subsequent	JJ	_	14	amod
+13	insurance	insurance	NN	_	14	nn
+14	payout	payout	NN	_	4	conj
+15	,	,	,	_	4	punct
+16	were	be	VBD	_	0	ROOT
+17	what	what	WP	_	18	nsubj
+18	prompted	prompt	VBD	_	16	ccomp
+19	the	the	DT	_	20	det
+20	restoration	restoration	NN	_	18	dobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	24	det
+23	station	station	NN	_	24	nn
+24	building	building	NN	_	21	pobj
+25	.	.	.	_	16	punct
+

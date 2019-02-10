@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	size	size	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	issue	issue	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	increased	increase	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	its	its	PRP$	_	11	poss
+10	initial	initial	JJ	_	11	amod
+11	amount	amount	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	US$	us$	$	_	12	pobj
+14	750	750	CD	_	15	number
+15	million	million	CD	_	13	num
+16	following	follow	VBG	_	7	prep
+17	strong	strong	JJ	_	19	amod
+18	market	market	NN	_	19	nn
+19	interest	interest	NN	_	16	pobj
+20	.	.	.	_	7	punct
+

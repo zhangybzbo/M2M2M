@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det
+2	student	student	NN	_	3	nn
+3	committee	committee	NN	_	4	nsubj
+4	developed	develop	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	following	follow	VBG	_	7	amod
+7	guidelines	guideline	NNS	_	4	dobj
+8	.	.	.	_	4	punct
+

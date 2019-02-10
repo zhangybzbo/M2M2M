@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	investigation	investigation	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	concerning	concern	VBG	_	0	ROOT
+5	a	a	DT	_	6	det
+6	series	series	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	letters	letter	NNS	_	7	pobj
+9	received	receive	VBN	_	8	vmod
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	House	House	NNP	_	10	pobj
+13	containing	contain	VBG	_	12	vmod
+14	non-noxious	non-noxious	JJ	_	16	amod
+15	white	white	JJ	_	16	amod
+16	powder	powder	NN	_	13	dobj
+17	.	.	.	_	4	punct
+

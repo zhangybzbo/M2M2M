@@ -1,0 +1,22 @@
+1	As	as	RB	_	2	advmod
+2	soon	soon	RB	_	14	advmod
+3	as	as	IN	_	7	mark
+4	the	the	DT	_	5	det
+5	guards	guard	NNS	_	7	nsubj
+6	had	have	VBD	_	7	aux
+7	left	leave	VBN	_	2	advcl
+8	the	the	DT	_	9	det
+9	building	building	NN	_	7	dobj
+10	to	to	TO	_	11	aux
+11	investigate	investigate	VB	_	7	vmod
+12	,	,	,	_	14	punct
+13	he	he	PRP	_	14	nsubj
+14	scrambled	scramble	VBD	_	0	ROOT
+15	through	through	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	window	window	NN	_	15	pobj
+18	and	and	CC	_	14	cc
+19	looked	look	VBD	_	14	conj
+20	around	around	RB	_	19	advmod
+21	.	.	.	_	14	punct
+

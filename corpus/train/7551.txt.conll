@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	entire	entire	JJ	_	3	amod
+3	site	site	NN	_	6	nsubjpass
+4	was	be	VBD	_	6	auxpass
+5	actively	actively	RB	_	6	advmod
+6	farmed	farm	VBN	_	0	ROOT
+7	during	during	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	2004	2004	CD	_	11	num
+10	growing	grow	VBG	_	11	amod
+11	season	season	NN	_	7	pobj
+12	and	and	CC	_	11	cc
+13	aerial	aerial	JJ	_	14	amod
+14	photography	photography	NN	_	11	conj
+15	indicates	indicate	VBZ	_	6	dep
+16	the	the	DT	_	17	det
+17	site	site	NN	_	20	nsubjpass
+18	has	have	VBZ	_	20	aux
+19	been	be	VBN	_	20	auxpass
+20	farmed	farm	VBN	_	15	ccomp
+21	for	for	IN	_	20	prep
+22	multiple	multiple	JJ	_	23	amod
+23	years	year	NNS	_	21	pobj
+24	.	.	.	_	6	punct
+

@@ -1,0 +1,16 @@
+1	It	it	PRP	_	7	nsubj
+2	is	be	VBZ	_	7	cop
+3	an	a	DT	_	7	det
+4	international	international	JJ	_	7	amod
+5	,	,	,	_	7	punct
+6	monthly	monthly	JJ	_	7	amod
+7	magazine	magazine	NN	_	0	ROOT
+8	dedicated	dedicate	VBN	_	7	vmod
+9	to	to	TO	_	8	prep
+10	all	all	DT	_	11	det
+11	forms	form	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	contemporary	contemporary	JJ	_	14	amod
+14	sculpture	sculpture	NN	_	12	pobj
+15	.	.	.	_	7	punct
+

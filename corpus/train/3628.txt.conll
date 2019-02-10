@@ -1,0 +1,15 @@
+1	Our	we	PRP$	_	2	poss
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	released	release	VBN	_	0	ROOT
+5	five	five	CD	_	7	num
+6	computer	computer	NN	_	7	nn
+7	applications	application	NNS	_	4	dobj
+8	to	to	TO	_	4	prep
+9	the	the	DT	_	10	det
+10	Apple	Apple	NNP	_	13	poss
+11	's	's	POS	_	10	possessive
+12	online	online	JJ	_	13	amod
+13	shops	shop	NNS	_	8	pobj
+14	.	.	.	_	4	punct
+

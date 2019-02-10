@@ -1,0 +1,27 @@
+1	Manuel	Manuel	NNP	_	2	nn
+2	Neves	Neves	NNP	_	11	nsubj
+3	,	,	,	_	2	punct
+4	the	the	DT	_	5	det
+5	spouse	spouse	NN	_	2	appos
+6	of	of	IN	_	5	prep
+7	Idalina	Idalina	NNP	_	6	pobj
+8	,	,	,	_	2	punct
+9	is	be	VBZ	_	11	cop
+10	a	a	DT	_	11	det
+11	mason	mason	NN	_	0	ROOT
+12	who	who	WP	_	14	nsubj
+13	did	do	VBD	_	14	aux
+14	work	work	VB	_	11	rcmod
+15	on	on	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	shopping	shopping	NN	_	18	nn
+18	plazas	plaza	NNS	_	15	pobj
+19	and	and	CC	_	14	cc
+20	at	at	IN	_	14	conj
+21	Botti	Botti	NNP	_	25	poss
+22	's	's	POS	_	21	possessive
+23	Maple	Maple	NNP	_	25	nn
+24	Avenue	Avenue	NNP	_	25	nn
+25	residence	residence	NN	_	20	pobj
+26	.	.	.	_	11	punct
+

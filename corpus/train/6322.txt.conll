@@ -1,0 +1,11 @@
+1	Operation	operation	NN	_	2	nn
+2	Homefront	homefront	NN	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	partners	partner	NNS	_	2	conj
+5	delivered	deliver	VBN	_	6	amod
+6	toys	toy	NNS	_	2	dep
+7	to	to	TO	_	2	prep
+8	military	military	JJ	_	9	amod
+9	children	child	NNS	_	7	pobj
+10	.	.	.	_	2	punct
+

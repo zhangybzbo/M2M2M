@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	risks	risk	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	procedure	procedure	NN	_	3	pobj
+6	include	include	VBP	_	0	ROOT
+7	anesthesia	anesthesia	NN	_	8	nn
+8	complications	complication	NNS	_	6	dobj
+9	,	,	,	_	8	punct
+10	post-operative	post-operative	JJ	_	12	amod
+11	difficulty	difficulty	NN	_	12	nn
+12	breathing	breathing	NN	_	8	conj
+13	,	,	,	_	8	punct
+14	and	and	CC	_	8	cc
+15	sore	sore	JJ	_	16	amod
+16	throat	throat	NN	_	8	conj
+17	from	from	IN	_	16	prep
+18	intubation	intubation	NN	_	17	pobj
+19	.	.	.	_	6	punct
+

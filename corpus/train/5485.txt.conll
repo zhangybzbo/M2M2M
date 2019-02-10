@@ -1,0 +1,26 @@
+1	We	we	PRP	_	3	nsubj
+2	now	now	RB	_	3	advmod
+3	live	live	VBP	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	country	country	NN	_	4	pobj
+7	in	in	IN	_	11	prep
+8	which	which	WDT	_	7	pobj
+9	the	the	DT	_	10	det
+10	president	president	NN	_	11	nsubj
+11	wields	wield	VBZ	_	6	rcmod
+12	the	the	DT	_	13	det
+13	power	power	NN	_	11	dobj
+14	to	to	TO	_	15	aux
+15	send	send	VB	_	11	vmod
+16	the	the	DT	_	18	det
+17	entire	entire	JJ	_	18	amod
+18	nation	nation	NN	_	15	dobj
+19	into	into	IN	_	15	prep
+20	war	war	NN	_	19	pobj
+21	on	on	IN	_	15	prep
+22	his	he	PRP$	_	24	poss
+23	own	own	JJ	_	24	amod
+24	initiative	initiative	NN	_	21	pobj
+25	.	.	.	_	3	punct
+

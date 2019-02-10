@@ -1,0 +1,1 @@
+A high voltage coupling capacitor is added at the input as well as a small hole in the metal box in order to provide screwdriver adjustment to the gain control potentiometer .

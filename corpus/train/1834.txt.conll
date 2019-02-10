@@ -1,0 +1,21 @@
+1	Olive	Olive	NNP	_	2	nn
+2	Garden	Garden	NNP	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	family	family	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	local	local	JJ	_	8	amod
+8	restaurants	restaurant	NNS	_	6	pobj
+9	focused	focus	VBD	_	5	vmod
+10	on	on	IN	_	9	prep
+11	delighting	delight	VBG	_	10	pcomp
+12	every	every	DT	_	13	det
+13	guest	guest	NN	_	11	dobj
+14	with	with	IN	_	11	prep
+15	a	a	DT	_	19	det
+16	genuine	genuine	JJ	_	19	amod
+17	Italian	italian	JJ	_	19	amod
+18	dining	dining	NN	_	19	nn
+19	experience	experience	NN	_	14	pobj
+20	.	.	.	_	5	punct
+

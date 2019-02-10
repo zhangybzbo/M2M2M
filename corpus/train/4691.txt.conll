@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	paper	paper	NN	_	3	nsubj
+3	received	receive	VBD	_	0	ROOT
+4	positive	positive	JJ	_	6	amod
+5	review	review	NN	_	6	nn
+6	comments	comment	NNS	_	3	dobj
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	senior	senior	JJ	_	10	amod
+10	editors	editor	NNS	_	7	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	journal	journal	NN	_	11	pobj
+14	and	and	CC	_	3	cc
+15	was	be	VBD	_	16	auxpass
+16	accepted	accept	VBN	_	3	conj
+17	for	for	IN	_	16	prep
+18	December	December	NNP	_	20	nn
+19	2005	2005	CD	_	20	num
+20	presentation	presentation	NN	_	17	pobj
+21	.	.	.	_	3	punct
+

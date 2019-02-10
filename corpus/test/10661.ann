@@ -1,0 +1,3 @@
+T1	Term 15 21	brewer
+T2	Term 63 67	ales
+R1	Product-Producer Arg1:T2 Arg2:T1

@@ -1,0 +1,20 @@
+1	Be	be	VB	_	2	cop
+2	sure	sure	JJ	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	always	always	RB	_	5	advmod
+5	stack	stack	VBP	_	2	conj
+6	on	on	IN	_	5	prep
+7	an	a	DT	_	10	det
+8	elevated	elevated	JJ	_	10	amod
+9	stack	stack	VBP	_	10	amod
+10	pad	pad	NN	_	6	pobj
+11	so	so	IN	_	14	mark
+12	the	the	DT	_	13	det
+13	moisture	moisture	NN	_	14	nsubj
+14	runs	run	VBZ	_	2	dep
+15	away	away	RB	_	14	advmod
+16	from	from	IN	_	14	prep
+17	the	the	DT	_	18	det
+18	stack	stack	VBP	_	16	pobj
+19	.	.	.	_	2	punct
+

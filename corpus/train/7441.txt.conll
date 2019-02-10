@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	box	box	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	the	the	DT	_	7	det
+5	jumbled	jumbled	JJ	_	7	amod
+6	skeletal	skeletal	JJ	_	7	amod
+7	remains	remains	NNS	_	3	dobj
+8	of	of	IN	_	7	prep
+9	what	what	WP	_	10	nsubj
+10	appeared	appear	VBD	_	8	pcomp
+11	to	to	TO	_	13	aux
+12	be	be	VB	_	13	cop
+13	sheep	sheep	NN	_	10	xcomp
+14	,	,	,	_	13	punct
+15	as	as	RB	_	16	advmod
+16	well	well	RB	_	13	cc
+17	as	as	IN	_	16	mwe
+18	a	a	DT	_	19	det
+19	variety	variety	NN	_	13	conj
+20	of	of	IN	_	19	prep
+21	other	other	JJ	_	22	amod
+22	mammals	mammal	NNS	_	20	pobj
+23	.	.	.	_	3	punct
+

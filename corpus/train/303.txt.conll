@@ -1,0 +1,19 @@
+1	Hogarth	Hogarth	NNP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	decorated	decorate	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	walls	wall	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	hospital	hospital	NN	_	6	pobj
+9	with	with	IN	_	3	prep
+10	works	work	NNS	_	9	pobj
+11	of	of	IN	_	10	prep
+12	art	art	NN	_	11	pobj
+13	donated	donate	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	contemporary	contemporary	JJ	_	17	amod
+16	British	british	JJ	_	17	amod
+17	artists	artist	NNS	_	14	pobj
+18	.	.	.	_	3	punct
+

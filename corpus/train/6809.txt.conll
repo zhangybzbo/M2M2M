@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	accounts	account	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	prepared	prepare	VBN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	historical	historical	JJ	_	10	amod
+9	cost	cost	NN	_	10	nn
+10	basis	basis	NN	_	6	pobj
+11	.	.	.	_	5	punct
+

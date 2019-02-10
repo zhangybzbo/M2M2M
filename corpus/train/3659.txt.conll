@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	beautiful	beautiful	JJ	_	3	amod
+3	outside	outside	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	store	store	NN	_	4	pobj
+7	is	be	VBZ	_	8	cop
+8	complementary	complementary	JJ	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	12	det
+11	local	local	JJ	_	12	amod
+12	surroundings	surroundings	NNS	_	9	pobj
+13	and	and	CC	_	8	cc
+14	is	be	VBZ	_	15	auxpass
+15	designed	design	VBN	_	8	conj
+16	to	to	TO	_	19	aux
+17	be	be	VB	_	19	cop
+18	a	a	DT	_	19	det
+19	store	store	NN	_	15	xcomp
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	community	community	NN	_	20	pobj
+23	.	.	.	_	8	punct
+

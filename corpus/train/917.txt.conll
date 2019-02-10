@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	pain	pain	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	parasite	parasite	NN	_	5	pobj
+8	entering	enter	VBG	_	7	vmod
+9	the	the	DT	_	10	det
+10	body	body	NN	_	8	dobj
+11	through	through	IN	_	8	prep
+12	the	the	DT	_	13	det
+13	skin	skin	NN	_	11	pobj
+14	during	during	IN	_	13	prep
+15	bathing	bathing	NN	_	14	pobj
+16	or	or	CC	_	15	cc
+17	drinking	drinking	NN	_	15	conj
+18	of	of	IN	_	15	prep
+19	infested	infested	JJ	_	20	amod
+20	water	water	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

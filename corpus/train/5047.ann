@@ -1,0 +1,3 @@
+T1	Term 34 47	establishment
+T2	Term 85 96	soup-seller
+R1	Product-Producer Arg1:T1 Arg2:T2

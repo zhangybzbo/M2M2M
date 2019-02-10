@@ -1,0 +1,27 @@
+1	Pressure	pressure	NN	_	0	ROOT
+2	from	from	IN	_	1	prep
+3	shoes	shoe	NNS	_	2	pobj
+4	and	and	CC	_	1	cc
+5	walking	walk	VBG	_	7	amod
+6	cause	cause	NN	_	7	nn
+7	friction	friction	NN	_	14	nsubj
+8	and	and	CC	_	7	cc
+9	the	the	DT	_	10	det
+10	body	body	NN	_	13	poss
+11	's	's	POS	_	10	possessive
+12	natural	natural	JJ	_	13	amod
+13	response	response	NN	_	7	conj
+14	is	be	VBZ	_	1	conj
+15	to	to	TO	_	16	aux
+16	build	build	VB	_	14	xcomp
+17	up	up	RP	_	16	prt
+18	the	the	DT	_	19	det
+19	skin	skin	NN	_	16	dobj
+20	to	to	TO	_	21	aux
+21	protect	protect	VB	_	16	vmod
+22	it	it	PRP	_	21	dobj
+23	from	from	IN	_	21	prep
+24	breaking	break	VBG	_	23	pcomp
+25	down	down	RP	_	24	prt
+26	.	.	.	_	1	punct
+

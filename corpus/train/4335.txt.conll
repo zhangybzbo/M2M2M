@@ -1,0 +1,19 @@
+1	Some	some	DT	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	them	they	PRP	_	2	pobj
+4	breed	breed	VB	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	rice-field	rice-field	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	while	while	IN	_	12	mark
+10	other	other	JJ	_	11	amod
+11	fish	fish	NN	_	12	nsubj
+12	enter	enter	VBP	_	4	advcl
+13	the	the	DT	_	14	det
+14	field	field	NN	_	12	dobj
+15	through	through	IN	_	12	prep
+16	tidal	tidal	JJ	_	17	amod
+17	action	action	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

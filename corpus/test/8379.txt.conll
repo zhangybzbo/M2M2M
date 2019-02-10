@@ -1,0 +1,11 @@
+1	Bibliometrics	bibliometric	NNS	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	an	a	DT	_	6	det
+4	increasingly	increasingly	RB	_	5	advmod
+5	important	important	JJ	_	6	amod
+6	tool	tool	NN	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	research	research	NN	_	9	nn
+9	evaluation	evaluation	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

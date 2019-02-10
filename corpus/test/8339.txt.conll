@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	sailed	sail	VBD	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	Neptune	Neptune	NNP	_	6	poss
+5	's	's	POS	_	4	possessive
+6	Grotto	Grotto	NNP	_	3	pobj
+7	on	on	IN	_	2	prep
+8	one	one	CD	_	7	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	boat	boat	NN	_	12	nn
+12	excursions	excursion	NNS	_	9	pobj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	harbour	harbour	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

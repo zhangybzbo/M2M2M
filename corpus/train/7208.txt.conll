@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	tests	test	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	generated	generate	VBN	_	0	ROOT
+5	randomly	randomly	RB	_	4	advmod
+6	from	from	IN	_	4	prep
+7	a	a	DT	_	8	det
+8	bank	bank	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	questions	question	NNS	_	9	pobj
+11	developed	develop	VBN	_	10	vmod
+12	for	for	IN	_	11	prep
+13	each	each	DT	_	14	det
+14	module	module	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

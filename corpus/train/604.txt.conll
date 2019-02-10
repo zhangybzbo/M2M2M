@@ -1,0 +1,11 @@
+1	These	these	DT	_	3	det
+2	text	text	NN	_	3	nn
+3	messages	message	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	sent	send	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	9	det
+8	outer	outer	JJ	_	9	amod
+9	space	space	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

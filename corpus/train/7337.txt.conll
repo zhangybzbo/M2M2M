@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	evacuation	evacuation	NN	_	9	nsubjpass
+3	after	after	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	Chernobyl	Chernobyl	NNP	_	6	nn
+6	accident	accident	NN	_	3	pobj
+7	was	be	VBD	_	9	auxpass
+8	poorly	poorly	RB	_	9	advmod
+9	planned	plan	VBN	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	chaotic	chaotic	JJ	_	9	conj
+12	.	.	.	_	9	punct
+

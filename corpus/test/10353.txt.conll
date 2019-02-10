@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	country	country	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	resumed	resume	VBN	_	0	ROOT
+5	manufacturing	manufacturing	NN	_	4	dobj
+6	of	of	IN	_	5	prep
+7	components	component	NNS	_	6	pobj
+8	and	and	CC	_	7	cc
+9	assembly	assembly	NN	_	7	conj
+10	of	of	IN	_	7	prep
+11	centrifuge	centrifuge	NN	_	12	nn
+12	machines	machine	NNS	_	10	pobj
+13	under	under	IN	_	4	prep
+14	IAEA	IAEA	NNP	_	15	nn
+15	supervision	supervision	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

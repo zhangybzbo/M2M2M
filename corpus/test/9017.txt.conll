@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	ship	ship	NN	_	3	nsubj
+3	departs	depart	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	port	port	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	Naoussa	Naoussa	NNP	_	7	pobj
+9	,	,	,	_	3	punct
+10	and	and	CC	_	3	cc
+11	is	be	VBZ	_	3	conj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	catamaran	catamaran	NN	_	15	nn
+15	type	type	NN	_	12	pobj
+16	.	.	.	_	3	punct
+

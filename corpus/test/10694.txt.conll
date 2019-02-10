@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	money	money	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	handed	hand	VBN	_	0	ROOT
+5	over	over	RP	_	4	prt
+6	into	into	IN	_	4	prep
+7	notarial	notarial	JJ	_	8	amod
+8	custody	custody	NN	_	6	pobj
+9	for	for	IN	_	4	prep
+10	the	the	DT	_	11	det
+11	purpose	purpose	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	securing	secure	VBG	_	12	pcomp
+14	an	a	DT	_	15	det
+15	obligation	obligation	NN	_	13	dobj
+16	.	.	.	_	4	punct
+

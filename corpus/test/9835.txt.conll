@@ -1,0 +1,13 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	scientists	scientist	NNS	_	4	nsubj
+4	came	come	VBD	_	8	advcl
+5	here	here	RB	_	4	advmod
+6	the	the	DT	_	7	det
+7	brain	brain	NN	_	8	nsubj
+8	was	be	VBD	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	jar	jar	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

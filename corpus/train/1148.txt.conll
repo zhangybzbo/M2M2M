@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	Chilean	chilean	JJ	_	3	amod
+3	Declaration	declaration	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	Independence	independence	NN	_	4	pobj
+6	is	be	VBZ	_	8	cop
+7	a	a	DT	_	8	det
+8	document	document	NN	_	0	ROOT
+9	declaring	declare	VBG	_	8	vmod
+10	the	the	DT	_	11	det
+11	independence	independence	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	Chile	Chile	NNP	_	12	pobj
+14	from	from	IN	_	11	prep
+15	the	the	DT	_	17	det
+16	Spanish	spanish	JJ	_	17	amod
+17	Empire	empire	NN	_	14	pobj
+18	.	.	.	_	8	punct
+

@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	Bishop	Bishop	NNP	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	also	also	RB	_	5	advmod
+5	happy	happy	JJ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	talk	talk	VB	_	5	xcomp
+8	about	about	IN	_	7	prep
+9	some	some	DT	_	8	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	contentious	contentious	JJ	_	13	amod
+13	issues	issue	NNS	_	10	pobj
+14	affecting	affect	VBG	_	13	vmod
+15	the	the	DT	_	16	det
+16	church	church	NN	_	14	dobj
+17	at	at	IN	_	14	prep
+18	the	the	DT	_	19	det
+19	moment	moment	NN	_	17	pobj
+20	.	.	.	_	5	punct
+

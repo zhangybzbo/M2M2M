@@ -1,0 +1,14 @@
+1	Recently	recently	RB	_	9	advmod
+2	,	,	,	_	9	punct
+3	in	in	IN	_	9	prep
+4	China	China	NNP	_	3	pobj
+5	,	,	,	_	9	punct
+6	more	more	JJR	_	7	amod
+7	people	people	NNS	_	9	nsubj
+8	are	be	VBP	_	9	aux
+9	moving	move	VBG	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	big	big	JJ	_	12	amod
+12	cities	city	NNS	_	10	pobj
+13	.	.	.	_	9	punct
+

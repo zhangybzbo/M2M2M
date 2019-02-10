@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	Postmodernism	Postmodernism	NNP	_	3	nn
+3	Generator	Generator	NNP	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	written	write	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	Andrew	Andrew	NNP	_	9	nn
+8	C.	C.	NNP	_	9	nn
+9	Bulhak	Bulhak	NNP	_	6	pobj
+10	using	use	VBG	_	9	vmod
+11	the	the	DT	_	13	det
+12	Dada	Dada	NNP	_	13	nn
+13	Engine	Engine	NNP	_	10	dobj
+14	,	,	,	_	13	punct
+15	a	a	DT	_	16	det
+16	system	system	NN	_	13	appos
+17	for	for	IN	_	16	prep
+18	generating	generate	VBG	_	17	pcomp
+19	random	random	JJ	_	20	amod
+20	text	text	NN	_	18	dobj
+21	from	from	IN	_	20	prep
+22	recursive	recursive	JJ	_	23	amod
+23	grammars	grammar	NNS	_	21	pobj
+24	.	.	.	_	5	punct
+

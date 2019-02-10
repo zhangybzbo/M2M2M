@@ -1,0 +1,10 @@
+1	Grape	grape	NN	_	2	nn
+2	brandy	brandy	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	fermented	fermented	JJ	_	8	amod
+7	grape	grape	NN	_	8	nn
+8	juice	juice	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

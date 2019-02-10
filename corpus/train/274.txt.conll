@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	solution	solution	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	creation	creation	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	a	a	DT	_	13	det
+8	decentralized	decentralize	VBN	_	13	amod
+9	Internet	internet	NN	_	13	nn
+10	host	host	NN	_	13	nn
+11	name	name	NN	_	13	nn
+12	resolution	resolution	NN	_	13	nn
+13	system	system	NN	_	6	pobj
+14	with	with	IN	_	13	prep
+15	flat	flat	JJ	_	16	amod
+16	hierarchy	hierarchy	NN	_	14	pobj
+17	on	on	IN	_	3	prep
+18	the	the	DT	_	19	det
+19	basis	basis	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	Metrized	Metrized	NNP	_	25	nn
+22	Small	Small	NNP	_	25	nn
+23	World	World	NNP	_	25	nn
+24	data	datum	NNS	_	25	nn
+25	structure	structure	NN	_	20	pobj
+26	.	.	.	_	3	punct
+

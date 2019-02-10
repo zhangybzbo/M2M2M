@@ -1,0 +1,21 @@
+1	All	all	DT	_	10	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	products	product	NNS	_	2	pobj
+5	grown	grow	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	defendant	defendant	NN	_	6	pobj
+9	are	be	VBP	_	10	auxpass
+10	grown	grow	VBN	_	0	ROOT
+11	either	either	RB	_	12	advmod
+12	under	under	IN	_	10	prep
+13	glass	glass	NN	_	12	pobj
+14	or	or	CC	_	12	cc
+15	in	in	IN	_	12	conj
+16	special	special	JJ	_	17	amod
+17	plots	plot	NNS	_	15	pobj
+18	of	of	IN	_	17	prep
+19	ground	ground	NN	_	18	pobj
+20	.	.	.	_	10	punct
+

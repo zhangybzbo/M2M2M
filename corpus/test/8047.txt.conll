@@ -1,0 +1,25 @@
+1	By	by	IN	_	18	prep
+2	dividing	divide	VBG	_	1	pcomp
+3	the	the	DT	_	4	det
+4	space	space	NN	_	2	dobj
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	kitchen	kitchen	NN	_	8	nn
+8	drawer	drawer	NN	_	5	pobj
+9	where	where	WRB	_	11	advmod
+10	you	you	PRP	_	11	nsubj
+11	keep	keep	VBP	_	8	rcmod
+12	all	all	DT	_	15	predet
+13	your	you	PRP$	_	15	poss
+14	cooking	cooking	NN	_	15	nn
+15	utensils	utensil	NNS	_	11	dobj
+16	,	,	,	_	18	punct
+17	you	you	PRP	_	18	nsubj
+18	grouped	group	VBD	_	0	ROOT
+19	items	item	NNS	_	18	dobj
+20	by	by	IN	_	18	prep
+21	size	size	NN	_	20	pobj
+22	or	or	CC	_	21	cc
+23	purpose	purpose	NN	_	21	conj
+24	.	.	.	_	18	punct
+

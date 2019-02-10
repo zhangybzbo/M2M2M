@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	pressure	pressure	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	rapid	rapid	JJ	_	9	amod
+8	power	power	NN	_	9	nn
+9	acceleration	acceleration	NN	_	5	pobj
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	start	start	NN	_	10	pobj
+13	.	.	.	_	4	punct
+

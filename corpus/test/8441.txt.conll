@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det
+2	outspoken	outspoken	JJ	_	4	amod
+3	cricket	cricket	NN	_	4	nn
+4	commentator	commentator	NN	_	6	poss
+5	's	's	POS	_	4	possessive
+6	obscenity	obscenity	NN	_	0	ROOT
+7	as	as	IN	_	10	mark
+8	South	South	NNP	_	9	nn
+9	Africa	Africa	NNP	_	10	nsubj
+10	lost	lose	VBD	_	6	advcl
+11	their	they	PRP$	_	13	poss
+12	sixth	sixth	JJ	_	13	amod
+13	wicket	wicket	NN	_	10	dobj
+14	was	be	VBD	_	15	auxpass
+15	heard	hear	VBN	_	10	dep
+16	by	by	IN	_	15	prep
+17	listeners	listener	NNS	_	16	pobj
+18	.	.	.	_	6	punct
+

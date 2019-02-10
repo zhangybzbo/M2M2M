@@ -1,0 +1,12 @@
+1	Their	they	PRP$	_	3	poss
+2	parental	parental	JJ	_	3	amod
+3	responsibilities	responsibility	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	handed	hand	VBN	_	0	ROOT
+6	over	over	RP	_	5	prt
+7	into	into	IN	_	5	prep
+8	another	another	DT	_	10	poss
+9	's	's	POS	_	10	possessive
+10	care	care	NN	_	7	pobj
+11	.	.	.	_	5	punct
+

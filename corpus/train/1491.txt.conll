@@ -1,0 +1,25 @@
+1	Erikson	erikson	NN	_	5	nsubj
+2	-LRB-	-lrb-	-LRB-	_	3	punct
+3	1976	1976	CD	_	1	appos
+4	-RRB-	-rrb-	-RRB-	_	3	punct
+5	found	find	VBD	_	0	ROOT
+6	that	that	IN	_	18	mark
+7	people	people	NNS	_	18	nsubj
+8	from	from	IN	_	7	prep
+9	among	among	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	community	community	NN	_	9	pobj
+12	who	who	WP	_	13	nsubj
+13	escaped	escape	VBD	_	11	rcmod
+14	an	a	DT	_	16	det
+15	horrific	horrific	JJ	_	16	amod
+16	accident	accident	NN	_	13	dobj
+17	had	have	VBD	_	18	aux
+18	made	make	VBN	_	5	ccomp
+19	little	little	JJ	_	20	amod
+20	progress	progress	NN	_	18	dobj
+21	after	after	IN	_	18	prep
+22	two	two	CD	_	23	num
+23	years	year	NNS	_	21	pobj
+24	.	.	.	_	5	punct
+

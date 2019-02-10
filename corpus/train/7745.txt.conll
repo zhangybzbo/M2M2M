@@ -1,0 +1,6 @@
+1	The	the	DT	_	2	det
+2	cathode	cathode	NN	_	3	nsubj
+3	emits	emit	VBZ	_	0	ROOT
+4	electrons	electron	NNS	_	3	dobj
+5	.	.	.	_	3	punct
+

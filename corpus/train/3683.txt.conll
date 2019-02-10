@@ -1,0 +1,26 @@
+1	It	it	PRP	_	2	nsubj
+2	turned	turn	VBD	_	0	ROOT
+3	out	out	RP	_	2	prt
+4	that	that	IN	_	8	mark
+5	the	the	DT	_	6	det
+6	bag	bag	NN	_	8	nsubj
+7	was	be	VBD	_	8	cop
+8	full	full	JJ	_	2	ccomp
+9	of	of	IN	_	8	prep
+10	sand	sand	NN	_	9	pobj
+11	and	and	CC	_	8	cc
+12	had	have	VBD	_	15	aux
+13	been	be	VBN	_	15	auxpass
+14	inadvertently	inadvertently	RB	_	15	advmod
+15	left	leave	VBN	_	8	conj
+16	behind	behind	RP	_	15	prt
+17	by	by	IN	_	15	prep
+18	JanSport	JanSport	NNP	_	17	pobj
+19	,	,	,	_	18	punct
+20	a	a	DT	_	21	det
+21	company	company	NN	_	18	appos
+22	that	that	WDT	_	23	nsubj
+23	makes	make	VBZ	_	21	rcmod
+24	backpacks	backpack	NNS	_	23	dobj
+25	.	.	.	_	2	punct
+

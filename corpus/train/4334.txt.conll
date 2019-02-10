@@ -1,0 +1,13 @@
+1	This	this	DT	_	3	det
+2	predictable	predictable	JJ	_	3	amod
+3	dynamic	dynamic	NN	_	7	nsubjpass
+4	has	have	VBZ	_	7	aux
+5	recently	recently	RB	_	7	advmod
+6	been	be	VBN	_	7	auxpass
+7	established	establish	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	research	research	NN	_	11	nn
+11	literature	literature	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

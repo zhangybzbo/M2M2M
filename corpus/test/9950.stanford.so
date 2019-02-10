@@ -1,0 +1,8 @@
+0	34	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Stone" pos="NNP" nsubj="t4"
+6	14	tok id="t1" base="grind" pos="VBG" amod="t0"
+15	17	tok id="t2" base="be" pos="VBZ" cop="t4"
+18	22	tok id="t3" base="very" pos="RB" advmod="t4"
+23	32	tok id="t4" base="technical" pos="JJ" ROOT="ROOT"
+33	34	tok id="t5" base="-PERIOD-" pos="." punct="t4"
+

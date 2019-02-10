@@ -1,0 +1,11 @@
+0	53	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="climate" pos="NN" nn="t2"
+8	14	tok id="t1" base="change" pos="NN" nn="t2"
+15	20	tok id="t2" base="talk" pos="NNS" nsubj="t5"
+21	25	tok id="t3" base="have" pos="VBP" aux="t5"
+26	30	tok id="t4" base="be" pos="VBN" aux="t5"
+31	37	tok id="t5" base="move" pos="VBG" ROOT="ROOT"
+38	42	tok id="t6" base="into" pos="IN" prep="t5"
+43	51	tok id="t7" base="overtime" pos="NN" pobj="t6"
+52	53	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	three	three	CD	_	3	num
+3	themes	theme	NNS	_	8	nsubj
+4	for	for	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	conference	conference	NN	_	4	pobj
+7	were	be	VBD	_	8	cop
+8	pluralism	pluralism	NN	_	0	ROOT
+9	,	,	,	_	8	punct
+10	sustainability	sustainability	NN	_	8	conj
+11	and	and	CC	_	8	cc
+12	innovation	innovation	NN	_	8	conj
+13	.	.	.	_	8	punct
+

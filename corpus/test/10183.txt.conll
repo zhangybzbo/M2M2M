@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	GAA	GAA	NNP	_	5	poss
+3	's	's	POS	_	2	possessive
+4	Central	Central	NNP	_	5	nn
+5	Council	Council	NNP	_	6	nsubj
+6	passed	pass	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	number	number	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	motions	motion	NNS	_	9	pobj
+11	regarding	regard	VBG	_	6	prep
+12	discipline	discipline	NN	_	11	pobj
+13	at	at	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	special	special	JJ	_	16	amod
+16	meeting	meeting	NN	_	13	pobj
+17	on	on	IN	_	16	prep
+18	Saturday	Saturday	NNP	_	17	pobj
+19	.	.	.	_	6	punct
+

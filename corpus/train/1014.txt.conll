@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	charcuterie	charcuterie	NN	_	7	nsubj
+3	was	be	VBD	_	7	cop
+4	well	well	RB	_	5	advmod
+5	portioned	portioned	JJ	_	7	amod
+6	offering	offering	NN	_	7	nn
+7	lots	lot	NNS	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	variety	variety	NN	_	8	pobj
+10	,	,	,	_	7	punct
+11	well	well	RB	_	12	advmod
+12	textured	textured	JJ	_	7	dep
+13	,	,	,	_	12	punct
+14	with	with	IN	_	12	prep
+15	a	a	DT	_	17	det
+16	nice	nice	JJ	_	17	amod
+17	accompaniment	accompaniment	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	condiments	condiment	NNS	_	18	pobj
+20	and	and	CC	_	19	cc
+21	composed	compose	VBN	_	22	amod
+22	salads	salad	NNS	_	19	conj
+23	.	.	.	_	7	punct
+

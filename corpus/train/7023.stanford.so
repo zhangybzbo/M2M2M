@@ -1,0 +1,11 @@
+0	46	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="House" pos="NNP" nsubj="t3"
+10	13	tok id="t2" base="have" pos="VBZ" aux="t3"
+14	23	tok id="t3" base="postpone" pos="VBN" ROOT="ROOT"
+24	27	tok id="t4" base="the" pos="DT" det="t5"
+28	32	tok id="t5" base="vote" pos="NN" dobj="t3"
+33	35	tok id="t6" base="to" pos="TO" prep="t3"
+36	44	tok id="t7" base="tomorrow" pos="NN" pobj="t6"
+45	46	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

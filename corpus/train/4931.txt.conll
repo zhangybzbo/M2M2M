@@ -1,0 +1,16 @@
+1	Those	those	DT	_	2	det
+2	canvases	canvas	NNS	_	12	nsubj
+3	by	by	IN	_	2	prep
+4	Mark	Mark	NNP	_	5	nn
+5	Rothko	Rothko	NNP	_	3	pobj
+6	with	with	IN	_	5	prep
+7	luminous	luminous	JJ	_	8	amod
+8	colors	color	NNS	_	6	pobj
+9	floating	float	VBG	_	8	vmod
+10	in	in	IN	_	9	prep
+11	space	space	NN	_	10	pobj
+12	make	make	VBP	_	0	ROOT
+13	me	I	PRP	_	14	nsubj
+14	swoon	swoon	NN	_	12	xcomp
+15	.	.	.	_	12	punct
+

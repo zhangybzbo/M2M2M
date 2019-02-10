@@ -1,0 +1,15 @@
+1	Deuterium	deuterium	NN	_	3	nn
+2	fueling	fueling	NN	_	3	nn
+3	pellets	pellet	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	injected	inject	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	DIII-D	diii-d	NN	_	9	nn
+9	plasmas	plasma	NNS	_	7	pobj
+10	from	from	IN	_	6	prep
+11	five	five	CD	_	13	num
+12	different	different	JJ	_	13	amod
+13	locations	location	NNS	_	10	pobj
+14	.	.	.	_	6	punct
+

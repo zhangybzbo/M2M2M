@@ -1,0 +1,10 @@
+0	47	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="sadness" pos="NN" nsubj="t1"
+8	13	tok id="t1" base="lead" pos="VBZ" ROOT="ROOT"
+14	16	tok id="t2" base="to" pos="TO" prep="t1"
+17	32	tok id="t3" base="dissatisfaction" pos="NN" pobj="t2"
+33	37	tok id="t4" base="with" pos="IN" prep="t3"
+38	41	tok id="t5" base="the" pos="DT" det="t6"
+42	45	tok id="t6" base="job" pos="NN" pobj="t4"
+46	47	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

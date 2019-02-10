@@ -1,0 +1,12 @@
+0	64	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	14	tok id="t1" base="restaurant" pos="NN" nsubjpass="t3"
+15	17	tok id="t2" base="be" pos="VBZ" auxpass="t3"
+18	28	tok id="t3" base="advertise" pos="VBN" ROOT="ROOT"
+29	31	tok id="t4" base="by" pos="IN" prep="t3"
+32	35	tok id="t5" base="the" pos="DT" det="t8"
+36	44	tok id="t6" base="official" pos="JJ" amod="t8"
+45	54	tok id="t7" base="municipal" pos="JJ" amod="t8"
+55	62	tok id="t8" base="website" pos="NN" pobj="t4"
+63	64	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

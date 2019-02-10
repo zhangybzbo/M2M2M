@@ -1,0 +1,23 @@
+1	In	in	IN	_	5	prep
+2	1946	1946	CD	_	1	pobj
+3	,	,	,	_	5	punct
+4	Maytag	Maytag	NNP	_	5	nsubj
+5	began	begin	VBD	_	0	ROOT
+6	marketing	market	VBG	_	5	xcomp
+7	a	a	DT	_	9	det
+8	separate	separate	JJ	_	9	amod
+9	line	line	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	ranges	range	NNS	_	10	pobj
+12	and	and	CC	_	11	cc
+13	refrigerators	refrigerator	NNS	_	11	conj
+14	made	make	VBN	_	9	vmod
+15	by	by	IN	_	14	prep
+16	other	other	JJ	_	17	amod
+17	companies	company	NNS	_	15	pobj
+18	under	under	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	Maytag	Maytag	NNP	_	21	nn
+21	name	name	NN	_	18	pobj
+22	.	.	.	_	5	punct
+

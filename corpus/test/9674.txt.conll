@@ -1,0 +1,12 @@
+1	EXE	EXE	NNP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	the	the	DT	_	6	det
+4	common	common	JJ	_	6	amod
+5	filename	filename	NN	_	6	nn
+6	extension	extension	NN	_	0	ROOT
+7	denoting	denote	VBG	_	6	vmod
+8	an	a	DT	_	10	det
+9	executable	executable	JJ	_	10	amod
+10	file	file	NN	_	7	dobj
+11	.	.	.	_	6	punct
+

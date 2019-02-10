@@ -1,0 +1,9 @@
+1	My	my	PRP$	_	2	poss
+2	remark	remark	NN	_	3	nsubj
+3	pertained	pertain	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	your	you	PRP$	_	7	poss
+6	earlier	earlier	JJR	_	7	amod
+7	comments	comment	NNS	_	4	pobj
+8	.	.	.	_	3	punct
+

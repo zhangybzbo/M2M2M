@@ -1,0 +1,13 @@
+1	Comments	comment	NNS	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	parts	part	NNS	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	source	source	NN	_	7	nn
+7	code	code	NN	_	4	pobj
+8	disregarded	disregard	VBN	_	3	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	compiler	compiler	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

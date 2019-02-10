@@ -1,0 +1,12 @@
+1	Obama	Obama	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	economic	economic	JJ	_	4	amod
+4	policies	policy	NNS	_	6	nsubj
+5	are	be	VBP	_	6	aux
+6	turning	turn	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	global	global	JJ	_	10	amod
+10	disaster	disaster	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

@@ -1,0 +1,20 @@
+1	Tributes	tribute	NNS	_	4	nsubjpass
+2	have	have	VBP	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	paid	pay	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	writer	writer	NN	_	5	pobj
+8	who	who	WP	_	9	nsubj
+9	created	create	VBD	_	7	rcmod
+10	Goodness	Goodness	NNP	_	12	nn
+11	Gracious	Gracious	NNP	_	12	nn
+12	Me	Me	NNP	_	9	dobj
+13	,	,	,	_	12	punct
+14	the	the	DT	_	18	det
+15	hit	hit	NN	_	18	nn
+16	BBC	BBC	NNP	_	18	nn
+17	television	television	NN	_	18	nn
+18	series	series	NN	_	12	appos
+19	.	.	.	_	4	punct
+

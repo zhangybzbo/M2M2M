@@ -1,0 +1,13 @@
+1	Fog	fog	NN	_	2	nsubj
+2	caused	cause	VBD	_	0	ROOT
+3	delays	delay	NNS	_	2	dobj
+4	at	at	IN	_	2	prep
+5	the	the	DT	_	9	det
+6	Charlotte	Charlotte	NNP	_	9	nn
+7	Douglas	Douglas	NNP	_	9	nn
+8	International	International	NNP	_	9	nn
+9	Airport	Airport	NNP	_	4	pobj
+10	Monday	Monday	NNP	_	11	nn
+11	morning	morning	NN	_	2	tmod
+12	.	.	.	_	2	punct
+

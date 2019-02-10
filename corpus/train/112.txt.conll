@@ -1,0 +1,23 @@
+1	In	in	IN	_	8	prep
+2	the	the	DT	_	4	det
+3	former	former	JJ	_	4	amod
+4	method	method	NN	_	1	pobj
+5	the	the	DT	_	6	det
+6	acetone	acetone	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	distilled	distil	VBN	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	an	a	DT	_	12	det
+11	allraline	allraline	JJ	_	12	amod
+12	solution	solution	NN	_	9	pobj
+13	after	after	IN	_	19	mark
+14	the	the	DT	_	16	det
+15	excess	excess	JJ	_	16	amod
+16	oxidant	oxidant	NN	_	19	nsubjpass
+17	had	have	VBD	_	19	aux
+18	been	be	VBN	_	19	auxpass
+19	destroyed	destroy	VBN	_	8	advcl
+20	with	with	IN	_	19	prep
+21	sodium	sodium	NN	_	20	pobj
+22	.	.	.	_	8	punct
+

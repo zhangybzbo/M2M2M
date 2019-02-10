@@ -1,0 +1,1 @@
+End-sequencing of the fragments with short 36-base reads therefore leads to elevated coverage near the end of the baits .

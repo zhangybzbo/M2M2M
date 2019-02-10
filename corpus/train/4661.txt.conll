@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	crane	crane	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	8	det
+5	five-section	five-section	JJ	_	8	amod
+6	51	51	CD	_	8	num
+7	m	m	NN	_	8	nn
+8	boom	boom	NN	_	3	dobj
+9	with	with	IN	_	8	prep
+10	MEGAFORM	megaform	NN	_	11	nn
+11	shaping	shaping	NN	_	9	pobj
+12	for	for	IN	_	8	prep
+13	greater	greater	JJR	_	14	amod
+14	rigidity	rigidity	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	Grove	Grove	NNP	_	20	poss
+17	's	's	POS	_	16	possessive
+18	patented	patented	JJ	_	20	amod
+19	TWIN-LOCK	twin-lock	NN	_	20	nn
+20	boom	boom	NN	_	14	conj
+21	pinning	pin	VBG	_	22	amod
+22	system	system	NN	_	20	dep
+23	.	.	.	_	3	punct
+

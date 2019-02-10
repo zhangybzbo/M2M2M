@@ -1,0 +1,12 @@
+0	72	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="these" pos="DT" det="t2"
+6	10	tok id="t1" base="wind" pos="NN" nn="t2"
+11	19	tok id="t2" base="turbine" pos="NNS" nsubj="t3"
+20	28	tok id="t3" base="generate" pos="VBP" ROOT="ROOT"
+29	40	tok id="t4" base="electricity" pos="NN" dobj="t3"
+41	45	tok id="t5" base="from" pos="IN" prep="t3"
+46	55	tok id="t6" base="naturally" pos="RB" advmod="t7"
+56	65	tok id="t7" base="occur" pos="VBG" amod="t8"
+66	70	tok id="t8" base="wind" pos="NN" pobj="t5"
+71	72	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,15 @@
+1	Patients	patient	NNS	_	0	ROOT
+2	with	with	IN	_	1	prep
+3	adenomyosis	adenomyosis	NN	_	5	nn
+4	experience	experience	NN	_	5	nn
+5	pain	pain	NN	_	2	pobj
+6	from	from	IN	_	5	prep
+7	this	this	DT	_	8	det
+8	disease	disease	NN	_	6	pobj
+9	in	in	IN	_	1	prep
+10	the	the	DT	_	12	det
+11	early	early	JJ	_	12	amod
+12	30	30	CD	_	9	pobj
+13	's	's	POS	_	12	possessive
+14	.	.	.	_	1	punct
+

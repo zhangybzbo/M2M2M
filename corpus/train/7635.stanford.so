@@ -1,0 +1,12 @@
+0	65	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="Ray" pos="NNP" nn="t1"
+4	11	tok id="t1" base="Parlour" pos="NNP" nsubj="t2"
+12	17	tok id="t2" base="show" pos="VBZ" ROOT="ROOT"
+18	21	tok id="t3" base="he" pos="PRP$" poss="t4"
+22	33	tok id="t4" base="frustration" pos="NN" dobj="t2"
+34	39	tok id="t5" base="after" pos="IN" prep="t2"
+40	53	tok id="t6" base="Middlesbrough" pos="NNP" poss="t8"
+54	56	tok id="t7" base="'s" pos="POS" possessive="t6"
+57	63	tok id="t8" base="defeat" pos="NN" pobj="t5"
+64	65	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,9 @@
+1	We	we	PRP	_	2	nsubj
+2	drained	drain	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	liquid	liquid	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	container	container	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

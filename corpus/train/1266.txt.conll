@@ -1,0 +1,23 @@
+1	In	in	IN	_	10	prep
+2	autumn	autumn	NN	_	1	pobj
+3	,	,	,	_	10	punct
+4	a	a	DT	_	5	det
+5	gaggle	gaggle	NN	_	10	nsubj
+6	of	of	IN	_	5	prep
+7	tagged	tag	VBN	_	9	amod
+8	Canada	Canada	NNP	_	9	nn
+9	geese	goose	NNS	_	6	pobj
+10	takes	take	VBZ	_	0	ROOT
+11	over	over	RP	_	10	prt
+12	the	the	DT	_	14	det
+13	waterfront	waterfront	NN	_	14	nn
+14	lawn	lawn	NN	_	10	dobj
+15	and	and	CC	_	14	cc
+16	wild	wild	JJ	_	17	amod
+17	ducks	duck	NNS	_	18	nn
+18	land	land	NN	_	14	conj
+19	on	on	IN	_	10	prep
+20	the	the	DT	_	21	det
+21	lake	lake	NN	_	19	pobj
+22	.	.	.	_	10	punct
+

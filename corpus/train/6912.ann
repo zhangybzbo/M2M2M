@@ -1,0 +1,3 @@
+T1	Term 5 11	member
+T2	Term 52 64	organisation
+R1	Member-Collection Arg1:T1 Arg2:T2

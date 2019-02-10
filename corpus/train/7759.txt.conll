@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	kitchen	kitchen	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	basic	basic	JJ	_	5	amod
+5	items	item	NNS	_	3	dobj
+6	such	such	JJ	_	7	mwe
+7	as	as	IN	_	5	prep
+8	salt	salt	NN	_	7	pobj
+9	,	,	,	_	8	punct
+10	pepper	pepper	NN	_	8	conj
+11	and	and	CC	_	8	cc
+12	olive	olive	JJ	_	13	amod
+13	oil	oil	NN	_	8	conj
+14	.	.	.	_	3	punct
+

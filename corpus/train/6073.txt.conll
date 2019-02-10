@@ -1,0 +1,14 @@
+1	Jack	Jack	NNP	_	5	nsubj
+2	and	and	CC	_	1	cc
+3	Jill	Jill	NNP	_	1	conj
+4	are	be	VBP	_	5	aux
+5	lying	lie	VBG	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	floor	floor	NN	_	6	pobj
+9	inside	inside	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	house	house	NN	_	9	pobj
+12	dead	dead	JJ	_	11	amod
+13	.	.	.	_	5	punct
+

@@ -1,0 +1,24 @@
+1	In	in	IN	_	0	ROOT
+2	1996	1996	CD	_	1	pobj
+3	,	,	,	_	7	punct
+4	a	a	DT	_	7	det
+5	major	major	JJ	_	7	amod
+6	publishing	publishing	NN	_	7	nn
+7	company	company	NN	_	1	dep
+8	simultaneously	simultaneously	RB	_	9	advmod
+9	launched	launch	VBN	_	7	vmod
+10	in	in	IN	_	9	prep
+11	13	13	CD	_	12	num
+12	countries	country	NNS	_	10	pobj
+13	a	a	DT	_	16	det
+14	dinosaur	dinosaur	NN	_	16	nn
+15	cartoon	cartoon	NN	_	16	nn
+16	strip	strip	NN	_	17	nsubj
+17	carried	carry	VBD	_	12	rcmod
+18	in	in	IN	_	17	prep
+19	a	a	DT	_	22	det
+20	weekly	weekly	JJ	_	22	amod
+21	comic	comic	JJ	_	22	amod
+22	book	book	NN	_	18	pobj
+23	.	.	.	_	7	punct
+

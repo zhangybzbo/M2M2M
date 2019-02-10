@@ -1,0 +1,25 @@
+1	If	if	IN	_	7	mark
+2	a	a	DT	_	4	det
+3	participant	participant	NN	_	4	nn
+4	complaint	complaint	NN	_	7	nsubj
+5	is	be	VBZ	_	7	cop
+6	the	the	DT	_	7	det
+7	source	source	NN	_	20	advcl
+8	of	of	IN	_	7	prep
+9	an	a	DT	_	11	det
+10	investigative	investigative	JJ	_	11	amod
+11	lead	lead	NN	_	8	pobj
+12	,	,	,	_	20	punct
+13	interim	interim	JJ	_	14	amod
+14	contact	contact	NN	_	20	nsubjpass
+15	with	with	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	participant	participant	NN	_	15	pobj
+18	should	should	MD	_	20	aux
+19	be	be	VB	_	20	auxpass
+20	made	make	VBN	_	0	ROOT
+21	by	by	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	investigator	investigator	NN	_	21	pobj
+24	.	.	.	_	20	punct
+

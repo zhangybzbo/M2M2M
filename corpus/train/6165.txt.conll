@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	method	method	NN	_	22	nsubj
+3	of	of	IN	_	2	prep
+4	mitigating	mitigate	VBG	_	3	pcomp
+5	the	the	DT	_	6	det
+6	effect	effect	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	market	market	NN	_	10	nn
+10	spike	spike	NN	_	7	pobj
+11	caused	cause	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	triggering	triggering	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	the	the	DT	_	17	det
+17	election	election	NN	_	14	conj
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	21	det
+20	conditional	conditional	JJ	_	21	amod
+21	order	order	NN	_	18	pobj
+22	includes	include	VBZ	_	0	ROOT
+23	monitoring	monitor	VBG	_	22	xcomp
+24	conditional	conditional	JJ	_	25	amod
+25	orders	order	NNS	_	23	dobj
+26	.	.	.	_	22	punct
+

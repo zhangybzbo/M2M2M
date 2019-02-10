@@ -1,0 +1,27 @@
+1	Over	over	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	entrance	entrance	NN	_	1	pobj
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	8	det
+6	left	left	JJ	_	8	amod
+7	circular	circular	JJ	_	8	amod
+8	chapel	chapel	NN	_	4	pobj
+9	is	be	VBZ	_	11	cop
+10	the	the	DT	_	11	det
+11	tomb	tomb	NN	_	0	ROOT
+12	of	of	IN	_	11	prep
+13	Pius	Pius	NNP	_	14	nn
+14	II	II	NNP	_	12	pobj
+15	-LRB-	-lrb-	-LRB-	_	16	punct
+16	1475	1475	CD	_	14	appos
+17	-RRB-	-rrb-	-RRB-	_	16	punct
+18	finished	finish	VBN	_	11	vmod
+19	by	by	IN	_	18	prep
+20	a	a	DT	_	21	det
+21	follower	follower	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	Andrea	Andrea	NNP	_	25	nn
+25	Bregno	Bregno	NNP	_	22	pobj
+26	.	.	.	_	11	punct
+

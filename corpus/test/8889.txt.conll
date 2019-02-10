@@ -1,0 +1,25 @@
+1	From	from	IN	_	0	ROOT
+2	banishing	banish	VBG	_	1	pcomp
+3	cold	cold	JJ	_	6	amod
+4	and	and	CC	_	3	cc
+5	flu	flu	NN	_	3	conj
+6	germs	germ	NNS	_	2	dobj
+7	to	to	TO	_	1	prep
+8	preventing	prevent	VBG	_	7	pcomp
+9	foodborne	foodborne	JJ	_	10	amod
+10	illnesses	illness	NNS	_	8	dobj
+11	,	,	,	_	10	punct
+12	frequent	frequent	JJ	_	13	amod
+13	hand-washing	hand-washing	NN	_	15	nsubj
+14	is	be	VBZ	_	15	cop
+15	one	one	CD	_	10	rcmod
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	20	det
+18	smartest	smartest	JJS	_	20	amod
+19	preventive	preventive	JJ	_	20	amod
+20	habits	habit	NNS	_	16	pobj
+21	you	you	PRP	_	23	nsubj
+22	can	can	MD	_	23	aux
+23	adopt	adopt	VB	_	20	rcmod
+24	.	.	.	_	1	punct
+

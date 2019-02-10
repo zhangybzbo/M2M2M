@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	fuselage	fuselage	NN	_	3	nsubj
+3	accommodated	accommodate	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	camera	camera	NN	_	6	nn
+6	bay	bay	NN	_	3	dobj
+7	,	,	,	_	3	punct
+8	flare	flare	VB	_	3	conj
+9	bay	bay	NN	_	8	dobj
+10	and	and	CC	_	3	cc
+11	an	a	DT	_	14	det
+12	additional	additional	JJ	_	14	amod
+13	fuel	fuel	NN	_	14	nn
+14	tank	tank	NN	_	3	conj
+15	.	.	.	_	3	punct
+

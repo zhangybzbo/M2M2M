@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	guide	guide	NN	_	3	nsubj
+3	depicts	depict	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	chronological	chronological	JJ	_	6	amod
+6	order	order	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	electronic	electronic	JJ	_	10	amod
+9	music	music	NN	_	10	nn
+10	genres	genre	NNS	_	12	poss
+11	'	'	POS	_	10	possessive
+12	appearance	appearance	NN	_	7	pobj
+13	.	.	.	_	3	punct
+

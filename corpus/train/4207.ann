@@ -1,0 +1,3 @@
+T1	Term 54 62	citizens
+T2	Term 74 88	boarder guards
+R1	Entity-Destination Arg1:T1 Arg2:T2

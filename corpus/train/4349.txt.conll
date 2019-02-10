@@ -1,0 +1,15 @@
+1	Overall	overall	RB	_	0	ROOT
+2	,	,	,	_	4	punct
+3	the	the	DT	_	4	det
+4	findings	finding	NNS	_	1	dep
+5	on	on	IN	_	4	prep
+6	class	class	NN	_	9	nn
+7	work	work	NN	_	9	nn
+8	discourse	discourse	NN	_	9	nn
+9	point	point	NN	_	5	pobj
+10	out	out	IN	_	4	prep
+11	invariant	invariant	JJ	_	13	amod
+12	teacher-student	teacher-student	JJ	_	13	amod
+13	interactions	interaction	NNS	_	10	pobj
+14	.	.	.	_	4	punct
+

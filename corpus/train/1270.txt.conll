@@ -1,0 +1,24 @@
+1	This	this	DT	_	2	det
+2	film	film	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	taken	take	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	B-17	b-17	NN	_	8	nn
+7	flight	flight	NN	_	8	nn
+8	personnel	personnel	NNS	_	5	pobj
+9	during	during	IN	_	4	prep
+10	World	World	NNP	_	11	nn
+11	War	War	NNP	_	9	pobj
+12	Two	two	CD	_	11	num
+13	as	as	IN	_	18	mark
+14	the	the	DT	_	17	det
+15	two	two	CD	_	17	num
+16	German	german	JJ	_	17	amod
+17	saucers	saucer	NNS	_	18	nsubj
+18	attacked	attack	VBN	_	4	advcl
+19	a	a	DT	_	20	det
+20	squadron	squadron	NN	_	18	dobj
+21	of	of	IN	_	20	prep
+22	bombers	bomber	NNS	_	21	pobj
+23	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+0	37	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" nsubj="t1"
+2	7	tok id="t1" base="drive" pos="VBD" ROOT="ROOT"
+8	10	tok id="t2" base="of" pos="IN" prep="t1"
+11	15	tok id="t3" base="ox" pos="NN" pobj="t2"
+16	19	tok id="t4" base="be" pos="VBD" auxpass="t5"
+20	25	tok id="t5" base="take" pos="VBN" dep="t1"
+26	28	tok id="t6" base="to" pos="TO" prep="t5"
+29	35	tok id="t7" base="market" pos="NN" pobj="t6"
+36	37	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

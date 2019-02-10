@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj
+2	found	find	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	piece	piece	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	paper	paper	NN	_	5	pobj
+7	in	in	IN	_	4	prep
+8	your	you	PRP$	_	10	poss
+9	pants	pants	NNS	_	10	nn
+10	pocket	pocket	NN	_	7	pobj
+11	with	with	IN	_	17	mark
+12	the	the	DT	_	13	det
+13	name	name	NN	_	17	nsubj
+14	`	`	``	_	13	punct
+15	Marylou	Marylou	NNP	_	13	dep
+16	'	'	''	_	13	punct
+17	written	write	VBN	_	2	advcl
+18	on	on	IN	_	17	prep
+19	it	it	PRP	_	18	pobj
+20	.	.	.	_	2	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	ship	ship	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	already	already	RB	_	5	advmod
+5	provoked	provoke	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	debate	debate	NN	_	5	dobj
+8	its	its	PRP$	_	9	poss
+9	crew	crew	NN	_	11	nsubj
+10	is	be	VBZ	_	11	aux
+11	seeking	seek	VBG	_	7	rcmod
+12	even	even	RB	_	13	advmod
+13	before	before	IN	_	11	prep
+14	lifting	lift	VBG	_	13	pcomp
+15	its	its	PRP$	_	16	poss
+16	anchor	anchor	NN	_	14	dobj
+17	.	.	.	_	5	punct
+

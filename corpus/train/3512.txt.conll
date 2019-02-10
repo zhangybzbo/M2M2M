@@ -1,0 +1,20 @@
+1	In	in	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	issue	issue	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	we	we	PRP	_	6	nsubj
+6	focus	focus	VBP	_	0	ROOT
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	value	value	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	wild	wild	JJ	_	12	amod
+12	trees	tree	NNS	_	10	pobj
+13	and	and	CC	_	9	cc
+14	the	the	DT	_	16	det
+15	varied	varied	JJ	_	16	amod
+16	products	product	NNS	_	9	conj
+17	they	they	PRP	_	18	nsubj
+18	provide	provide	VBP	_	16	rcmod
+19	.	.	.	_	6	punct
+

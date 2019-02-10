@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det
+2	songwriter	songwriter	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	someone	someone	NN	_	0	ROOT
+5	who	who	WP	_	6	nsubj
+6	writes	write	VBZ	_	4	rcmod
+7	the	the	DT	_	8	det
+8	lyrics	lyric	NNS	_	6	dobj
+9	,	,	,	_	8	punct
+10	as	as	RB	_	11	advmod
+11	well	well	RB	_	8	cc
+12	as	as	IN	_	11	mwe
+13	the	the	DT	_	15	det
+14	musical	musical	JJ	_	15	amod
+15	composition	composition	NN	_	8	conj
+16	or	or	CC	_	15	cc
+17	melody	melody	NN	_	15	conj
+18	to	to	TO	_	15	prep
+19	songs	song	NNS	_	18	pobj
+20	.	.	.	_	4	punct
+

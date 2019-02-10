@@ -1,0 +1,16 @@
+1	She	she	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	bread	bread	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	serving	serve	VBG	_	8	amod
+8	basket	basket	NN	_	5	pobj
+9	and	and	CC	_	2	cc
+10	passed	pass	VBD	_	2	conj
+11	it	it	PRP	_	10	dobj
+12	around	around	IN	_	10	prep
+13	the	the	DT	_	14	det
+14	classroom	classroom	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

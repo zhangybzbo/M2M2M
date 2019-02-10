@@ -1,0 +1,18 @@
+1	After	after	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	family	family	NN	_	4	nsubj
+4	leaves	leave	VBZ	_	6	advcl
+5	,	,	,	_	6	punct
+6	remove	remove	VB	_	0	ROOT
+7	the	the	DT	_	8	det
+8	towel	towel	NN	_	6	dobj
+9	from	from	IN	_	6	prep
+10	under	under	IN	_	9	pcomp
+11	the	the	DT	_	12	det
+12	chin	chin	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	deceased	deceased	JJ	_	16	amod
+16	patient	patient	NN	_	13	pobj
+17	.	.	.	_	6	punct
+

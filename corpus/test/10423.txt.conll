@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	waverider	waverider	NN	_	3	nn
+3	design	design	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	evolved	evolve	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	work	work	NN	_	6	pobj
+8	done	do	VBN	_	7	vmod
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	U.K.	U.K.	NNP	_	9	pobj
+12	in	in	IN	_	8	prep
+13	the	the	DT	_	14	det
+14	1950	1950	CD	_	12	pobj
+15	's	's	POS	_	14	possessive
+16	and	and	CC	_	14	cc
+17	early	early	JJ	_	18	amod
+18	1960	1960	CD	_	14	conj
+19	's	's	POS	_	18	possessive
+20	on	on	IN	_	8	prep
+21	winged	winged	JJ	_	24	amod
+22	atmosphere	atmosphere	NN	_	24	nn
+23	re-entry	re-entry	NN	_	24	nn
+24	vehicles	vehicle	NNS	_	20	pobj
+25	.	.	.	_	5	punct
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	administration	administration	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	established	establish	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	number	number	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	health	health	NN	_	9	nn
+9	posts	post	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	health	health	NN	_	12	nn
+12	centres	centre	NNS	_	9	conj
+13	to	to	TO	_	14	aux
+14	provide	provide	VB	_	6	vmod
+15	health	health	NN	_	16	nn
+16	care	care	NN	_	14	dobj
+17	to	to	TO	_	14	prep
+18	Amerindians	Amerindians	NNPS	_	17	pobj
+19	.	.	.	_	4	punct
+

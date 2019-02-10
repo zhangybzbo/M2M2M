@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	conducted	conduct	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	training	training	NN	_	5	nn
+5	seminar	seminar	NN	_	2	dobj
+6	on	on	IN	_	5	prep
+7	energy	energy	NN	_	8	nn
+8	efficiency	efficiency	NN	_	10	nn
+9	best	best	JJS	_	10	amod
+10	practices	practice	NNS	_	6	pobj
+11	for	for	IN	_	10	prep
+12	engineers	engineer	NNS	_	11	pobj
+13	at	at	IN	_	12	prep
+14	the	the	DT	_	17	det
+15	Pune	Pune	NNP	_	17	nn
+16	Municipal	Municipal	NNP	_	17	nn
+17	Corporation	Corporation	NNP	_	13	pobj
+18	.	.	.	_	2	punct
+

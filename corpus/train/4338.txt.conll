@@ -1,0 +1,27 @@
+1	In	in	IN	_	12	prep
+2	a	a	DT	_	4	det
+3	staggering	staggering	JJ	_	4	amod
+4	lapse	lapse	NN	_	1	pobj
+5	of	of	IN	_	4	prep
+6	judgment	judgment	NN	_	5	pobj
+7	,	,	,	_	12	punct
+8	the	the	DT	_	11	det
+9	National	National	NNP	_	11	nn
+10	Research	Research	NNP	_	11	nn
+11	Council	Council	NNP	_	12	nsubj
+12	let	let	VB	_	0	ROOT
+13	its	its	PRP$	_	14	poss
+14	panel	panel	NN	_	18	nsubj
+15	of	of	IN	_	14	prep
+16	hydrogen	hydrogen	NN	_	17	nn
+17	advocates	advocate	NNS	_	15	pobj
+18	publish	publish	VB	_	12	ccomp
+19	a	a	DT	_	22	det
+20	deeply	deeply	RB	_	21	advmod
+21	flawed	flawed	JJ	_	22	amod
+22	report	report	NN	_	18	dobj
+23	trashing	trash	VBG	_	22	vmod
+24	plug-in	plug-in	JJ	_	25	amod
+25	hybrids	hybrid	NNS	_	23	dobj
+26	.	.	.	_	12	punct
+

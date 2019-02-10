@@ -1,0 +1,13 @@
+1	These	these	DT	_	2	det
+2	sessions	session	NNS	_	3	nsubj
+3	highlight	highlight	VBP	_	0	ROOT
+4	selected	select	VBN	_	5	amod
+5	abstracts	abstract	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	submitted	submit	VBN	_	8	amod
+8	papers	papers	NNS	_	6	pobj
+9	in	in	IN	_	8	prep
+10	poster	poster	NN	_	11	nn
+11	format	format	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

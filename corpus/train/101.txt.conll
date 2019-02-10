@@ -1,0 +1,26 @@
+1	Flowers	flower	NNS	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	reborn	reborn	JJ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	soil	soil	NN	_	4	pobj
+7	and	and	CC	_	6	cc
+8	the	the	DT	_	9	det
+9	climate	climate	NN	_	6	conj
+10	begins	begin	VBZ	_	3	dep
+11	to	to	TO	_	10	prep
+12	warm	warm	JJ	_	11	pobj
+13	,	,	,	_	3	punct
+14	all	all	DT	_	15	dep
+15	set	set	VBN	_	3	dep
+16	to	to	TO	_	15	prep
+17	a	a	DT	_	18	det
+18	score	score	NN	_	16	pobj
+19	improvised	improvise	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	an	a	DT	_	22	det
+22	orchestra	orchestra	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	birds	bird	NNS	_	23	pobj
+25	.	.	.	_	3	punct
+

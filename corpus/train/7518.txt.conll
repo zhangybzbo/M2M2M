@@ -1,0 +1,9 @@
+1	I	I	PRP	_	2	nsubj
+2	found	find	VBD	_	0	ROOT
+3	some	some	DT	_	4	det
+4	candy	candy	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	my	my	PRP$	_	7	poss
+7	underwear	underwear	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

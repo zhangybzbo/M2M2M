@@ -1,0 +1,23 @@
+1	Suddenly	suddenly	RB	_	4	advmod
+2	a	a	DT	_	3	det
+3	nurse	nurse	NN	_	4	nsubj
+4	takes	take	VBZ	_	0	ROOT
+5	off	off	RP	_	4	prt
+6	her	she	PRP$	_	9	poss
+7	familiar	familiar	JJ	_	9	amod
+8	loose-fitting	loose-fitting	JJ	_	9	amod
+9	clothes	clothes	NNS	_	4	dobj
+10	,	,	,	_	4	punct
+11	and	and	CC	_	4	cc
+12	dresses	dress	NNS	_	4	conj
+13	her	she	PRP$	_	12	dep
+14	in	in	IN	_	13	prep
+15	clothes	clothes	NNS	_	14	pobj
+16	,	,	,	_	13	punct
+17	which	which	WDT	_	18	nsubj
+18	fit	fit	VBD	_	13	rcmod
+19	her	she	PRP	_	18	dobj
+20	more	more	RBR	_	21	advmod
+21	closely	closely	RB	_	18	advmod
+22	.	.	.	_	4	punct
+

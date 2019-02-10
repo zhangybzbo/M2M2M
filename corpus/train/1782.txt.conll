@@ -1,0 +1,11 @@
+1	Brittany	Brittany	NNP	_	2	nn
+2	Murphy	Murphy	NNP	_	4	poss
+3	's	's	POS	_	2	possessive
+4	bedroom	bedroom	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	filled	fill	VBN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	prescription	prescription	NN	_	9	nn
+9	drugs	drug	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

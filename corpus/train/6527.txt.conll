@@ -1,0 +1,13 @@
+1	High	high	JJ	_	3	amod
+2	test	test	NN	_	3	nn
+3	scores	score	NNS	_	5	nsubj
+4	have	have	VB	_	5	aux
+5	placed	place	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	student	student	NN	_	5	dobj
+8	into	into	IN	_	5	prep
+9	a	a	DT	_	11	det
+10	top	top	JJ	_	11	amod
+11	university	university	NN	_	8	pobj
+12	.	.	.	_	5	punct
+

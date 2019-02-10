@@ -1,0 +1,23 @@
+1	Workers	worker	NNS	_	7	nsubj
+2	at	at	IN	_	1	prep
+3	a	a	DT	_	5	det
+4	Devon	Devon	NNP	_	5	nn
+5	hospital	hospital	NN	_	2	pobj
+6	are	be	VBP	_	7	cop
+7	due	due	JJ	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	strike	strike	VB	_	7	xcomp
+10	on	on	IN	_	9	prep
+11	5	5	CD	_	12	num
+12	January	January	NNP	_	10	pobj
+13	for	for	IN	_	9	prep
+14	two	two	CD	_	15	num
+15	days	day	NNS	_	13	pobj
+16	in	in	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	dispute	dispute	NN	_	16	pobj
+19	over	over	IN	_	18	prep
+20	sick	sick	JJ	_	21	amod
+21	pay	pay	NN	_	19	pobj
+22	.	.	.	_	7	punct
+

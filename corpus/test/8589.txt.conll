@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	Swedish	Swedish	NNP	_	3	nn
+3	Society	Society	NNP	_	11	nsubj
+4	for	for	IN	_	3	prep
+5	Eighteenth	Eighteenth	NNP	_	7	nn
+6	Century	Century	NNP	_	7	nn
+7	Studies	Studies	NNPS	_	4	pobj
+8	is	be	VBZ	_	11	cop
+9	an	a	DT	_	11	det
+10	interdisciplinary	interdisciplinary	JJ	_	11	amod
+11	forum	forum	NN	_	0	ROOT
+12	for	for	IN	_	11	prep
+13	researchers	researcher	NNS	_	12	pobj
+14	specialized	specialize	VBN	_	13	vmod
+15	in	in	IN	_	14	prep
+16	eighteenth	eighteenth	JJ	_	17	amod
+17	century	century	NN	_	15	pobj
+18	.	.	.	_	11	punct
+

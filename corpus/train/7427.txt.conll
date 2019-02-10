@@ -1,0 +1,11 @@
+1	Rather	rather	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	entrails	entrails	NNS	_	5	nsubj
+5	contained	contain	VBD	_	0	ROOT
+6	mostly	mostly	RB	_	7	advmod
+7	apples	apple	NNS	_	5	dobj
+8	and	and	CC	_	7	cc
+9	corn	corn	NN	_	7	conj
+10	.	.	.	_	5	punct
+

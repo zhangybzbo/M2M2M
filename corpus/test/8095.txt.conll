@@ -1,0 +1,14 @@
+1	More	more	RBR	_	4	advmod
+2	and	and	CC	_	1	cc
+3	more	more	RBR	_	1	conj
+4	English	english	JJ	_	7	amod
+5	Premier	Premier	NNP	_	7	nn
+6	League	League	NNP	_	7	nn
+7	clubs	club	NNS	_	9	nsubj
+8	are	be	VBP	_	9	aux
+9	falling	fall	VBG	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	foreign	foreign	JJ	_	12	amod
+12	ownership	ownership	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

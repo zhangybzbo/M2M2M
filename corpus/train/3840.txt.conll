@@ -1,0 +1,21 @@
+1	Notwithstanding	notwithstanding	IN	_	12	prep
+2	problems	problem	NNS	_	1	pobj
+3	associated	associate	VBN	_	2	vmod
+4	with	with	IN	_	3	prep
+5	screening	screening	NN	_	4	pobj
+6	,	,	,	_	12	punct
+7	many	many	JJ	_	12	nsubjpass
+8	of	of	IN	_	7	prep
+9	those	those	DT	_	10	det
+10	cancers	cancer	NNS	_	8	pobj
+11	were	be	VBD	_	12	auxpass
+12	caused	cause	VBN	_	0	ROOT
+13	by	by	IN	_	12	prep
+14	radiation	radiation	NN	_	15	nn
+15	exposures	exposure	NNS	_	13	pobj
+16	shortly	shortly	RB	_	17	advmod
+17	after	after	IN	_	12	prep
+18	the	the	DT	_	19	det
+19	accident	accident	NN	_	17	pobj
+20	.	.	.	_	12	punct
+

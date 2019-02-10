@@ -1,0 +1,23 @@
+1	Nearly	nearly	RB	_	2	advmod
+2	two-thirds	two-third	NNS	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	all	all	DT	_	5	det
+5	burglaries	burglary	NNS	_	3	pobj
+6	involve	involve	VBP	_	2	vmod
+7	forced	force	VBN	_	8	amod
+8	entry	entry	NN	_	6	dobj
+9	,	,	,	_	2	punct
+10	and	and	CC	_	2	cc
+11	they	they	PRP	_	12	nsubj
+12	succeed	succeed	VBP	_	2	conj
+13	partly	partly	RB	_	15	advmod
+14	because	because	IN	_	15	mwe
+15	of	of	IN	_	12	prep
+16	flimsy	flimsy	JJ	_	18	amod
+17	door	door	NN	_	18	nn
+18	locks	lock	NNS	_	15	pobj
+19	and	and	CC	_	18	cc
+20	mounting	mount	VBG	_	21	amod
+21	hardware	hardware	NN	_	18	conj
+22	.	.	.	_	2	punct
+

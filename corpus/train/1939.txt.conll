@@ -1,0 +1,11 @@
+1	Even	even	RB	_	2	advmod
+2	travel	travel	VB	_	5	csubj
+3	agents	agent	NNS	_	2	dobj
+4	are	be	VBP	_	5	aux
+5	turning	turn	VBG	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	telepresence	telepresence	NN	_	6	pobj
+8	for	for	IN	_	5	prep
+9	clients	client	NNS	_	8	pobj
+10	.	.	.	_	5	punct
+

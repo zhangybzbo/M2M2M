@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	boy	boy	NN	_	4	nsubj
+3	accidentally	accidentally	RB	_	4	advmod
+4	went	go	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	girl	girl	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	bathroom	bathroom	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

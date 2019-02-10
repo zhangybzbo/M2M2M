@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	debacle	debacle	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	topic	topic	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	conversation	conversation	NN	_	6	pobj
+8	for	for	IN	_	5	prep
+9	days	day	NNS	_	8	pobj
+10	.	.	.	_	5	punct
+

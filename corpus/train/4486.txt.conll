@@ -1,0 +1,19 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	also	also	RB	_	2	advmod
+4	dark	dark	JJ	_	6	amod
+5	American-inspired	american-inspired	JJ	_	6	amod
+6	murals	mural	NNS	_	2	nsubj
+7	copying	copy	VBG	_	6	vmod
+8	urban	urban	JJ	_	9	amod
+9	scenes	scene	NNS	_	7	dobj
+10	from	from	IN	_	9	prep
+11	gangster	gangster	NN	_	12	nn
+12	movies	movie	NNS	_	10	pobj
+13	and	and	CC	_	2	cc
+14	picturing	picture	VBG	_	17	amod
+15	gangsta	gangsta	NN	_	17	nn
+16	rap	rap	NN	_	17	nn
+17	heroes	hero	NNS	_	2	conj
+18	.	.	.	_	2	punct
+

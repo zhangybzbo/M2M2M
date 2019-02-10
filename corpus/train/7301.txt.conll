@@ -1,0 +1,20 @@
+1	Showing	show	VBG	_	11	dep
+2	a	a	DT	_	3	det
+3	sample	sample	NN	_	1	dobj
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	fertilizer	fertilizer	NN	_	7	nn
+7	package	package	NN	_	4	pobj
+8	this	this	DT	_	10	det
+9	fertilizer	fertilizer	NN	_	10	nn
+10	company	company	NN	_	11	nsubj
+11	shows	show	VBZ	_	0	ROOT
+12	what	what	WP	_	14	nsubj
+13	to	to	TO	_	14	aux
+14	look	look	VB	_	11	ccomp
+15	for	for	IN	_	14	prep
+16	on	on	IN	_	15	pcomp
+17	their	they	PRP$	_	18	poss
+18	label	label	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

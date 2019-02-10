@@ -1,0 +1,23 @@
+1	After	after	IN	_	5	mark
+2	massive	massive	JJ	_	3	amod
+3	companies	company	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	bailed	bail	VBN	_	18	advcl
+6	out	out	IN	_	5	prep
+7	of	of	IN	_	6	pcomp
+8	the	the	DT	_	9	det
+9	recession	recession	NN	_	7	pobj
+10	earlier	earlier	RBR	_	12	advmod
+11	this	this	DT	_	12	det
+12	year	year	NN	_	5	tmod
+13	,	,	,	_	18	punct
+14	an	a	DT	_	15	det
+15	advantage	advantage	NN	_	18	nsubj
+16	to	to	TO	_	15	prep
+17	cardholders	cardholder	NNS	_	16	pobj
+18	started	start	VBD	_	0	ROOT
+19	to	to	TO	_	20	aux
+20	be	be	VB	_	18	xcomp
+21	there	there	RB	_	20	advmod
+22	.	.	.	_	18	punct
+

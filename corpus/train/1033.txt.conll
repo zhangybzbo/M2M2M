@@ -1,0 +1,25 @@
+1	Here	here	RB	_	2	advmod
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	5	det
+4	detective	detective	NN	_	5	nn
+5	story	story	NN	_	2	nsubj
+6	involving	involve	VBG	_	5	vmod
+7	some	some	DT	_	8	det
+8	scientists	scientist	NNS	_	6	dobj
+9	and	and	CC	_	8	cc
+10	their	they	PRP$	_	11	poss
+11	efforts	effort	NNS	_	8	conj
+12	to	to	TO	_	13	aux
+13	explain	explain	VB	_	5	vmod
+14	the	the	DT	_	15	det
+15	origins	origin	NNS	_	13	dobj
+16	of	of	IN	_	15	prep
+17	a	a	DT	_	19	det
+18	mysterious	mysterious	JJ	_	19	amod
+19	garment	garment	NN	_	16	pobj
+20	found	find	VBN	_	19	vmod
+21	in	in	IN	_	20	prep
+22	a	a	DT	_	23	det
+23	reliquary	reliquary	NN	_	21	pobj
+24	.	.	.	_	2	punct
+

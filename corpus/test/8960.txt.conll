@@ -1,0 +1,19 @@
+1	Cambodian	cambodian	JJ	_	2	amod
+2	troops	troops	NNS	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	areas	area	NNS	_	4	pobj
+6	in	in	IN	_	5	prep
+7	Chad	Chad	NNP	_	6	pobj
+8	,	,	,	_	7	punct
+9	Central	Central	NNP	_	11	nn
+10	African	African	NNP	_	11	nn
+11	Republic	Republic	NNP	_	7	appos
+12	where	where	WRB	_	16	advmod
+13	US	US	NNP	_	14	nn
+14	forces	force	NNS	_	16	nsubj
+15	had	have	VBD	_	16	aux
+16	settled	settle	VBN	_	11	rcmod
+17	already	already	RB	_	16	advmod
+18	.	.	.	_	3	punct
+

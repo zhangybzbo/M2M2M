@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	scientists	scientist	NNS	_	0	ROOT
+3	used	use	VBN	_	4	amod
+4	nanotubes	nanotube	NNS	_	2	dep
+5	to	to	TO	_	6	aux
+6	send	send	VB	_	4	vmod
+7	signals	signal	NNS	_	6	dobj
+8	to	to	TO	_	6	prep
+9	the	the	DT	_	11	det
+10	nerve	nerve	NN	_	11	nn
+11	cells	cell	NNS	_	8	pobj
+12	.	.	.	_	2	punct
+

@@ -1,0 +1,26 @@
+1	Cement	cement	NN	_	2	nn
+2	mason	mason	NN	_	3	nsubj
+3	means	mean	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	person	person	NN	_	3	dobj
+6	who	who	WP	_	7	nsubj
+7	finishes	finish	VBZ	_	5	rcmod
+8	all	all	DT	_	10	det
+9	concrete	concrete	JJ	_	10	amod
+10	construction	construction	NN	_	7	dobj
+11	,	,	,	_	10	punct
+12	such	such	JJ	_	13	mwe
+13	as	as	IN	_	10	prep
+14	floors	floor	NNS	_	13	pobj
+15	,	,	,	_	14	punct
+16	walls	wall	NNS	_	14	conj
+17	,	,	,	_	14	punct
+18	ceilings	ceiling	NNS	_	14	conj
+19	,	,	,	_	14	punct
+20	sidewalks	sidewalk	NNS	_	14	conj
+21	,	,	,	_	14	punct
+22	curbs	curb	NNS	_	14	conj
+23	and	and	CC	_	14	cc
+24	gutters	gutter	NNS	_	14	conj
+25	.	.	.	_	3	punct
+

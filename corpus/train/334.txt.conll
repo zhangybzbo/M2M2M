@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	cover	cover	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	inner	inner	JJ	_	6	amod
+6	artwork	artwork	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	record	record	NN	_	7	pobj
+10	was	be	VBD	_	11	auxpass
+11	analysed	analyse	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	an	a	DT	_	14	det
+14	article	article	NN	_	12	pobj
+15	published	publish	VBN	_	14	vmod
+16	in	in	IN	_	15	prep
+17	2008	2008	CD	_	16	pobj
+18	.	.	.	_	11	punct
+

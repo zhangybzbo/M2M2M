@@ -1,0 +1,24 @@
+1	Traditionally	traditionally	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	chandlers	chandler	NNS	_	4	nsubj
+4	made	make	VBD	_	0	ROOT
+5	both	both	CC	_	6	preconj
+6	soap	soap	NN	_	4	dobj
+7	and	and	CC	_	6	cc
+8	candles	candle	NNS	_	6	conj
+9	,	,	,	_	4	punct
+10	because	because	IN	_	14	mark
+11	a	a	DT	_	13	det
+12	long	long	JJ	_	13	amod
+13	time	time	NN	_	14	npadvmod
+14	ago	ago	IN	_	4	advcl
+15	both	both	DT	_	20	nsubjpass
+16	of	of	IN	_	15	prep
+17	these	these	DT	_	18	det
+18	products	product	NNS	_	16	pobj
+19	were	be	VBD	_	20	auxpass
+20	made	make	VBN	_	14	ccomp
+21	with	with	IN	_	20	prep
+22	lard	lard	NN	_	21	pobj
+23	.	.	.	_	4	punct
+

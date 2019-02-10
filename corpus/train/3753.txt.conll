@@ -1,0 +1,26 @@
+1	Whitaker	Whitaker	NNP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	what	what	WP	_	5	dobj
+4	it	it	PRP	_	5	nsubj
+5	took	take	VBD	_	2	ccomp
+6	to	to	TO	_	7	aux
+7	play	play	VB	_	5	xcomp
+8	the	the	DT	_	11	det
+9	terrifying	terrifying	JJ	_	11	amod
+10	Ugandan	ugandan	JJ	_	11	amod
+11	dictator	dictator	NN	_	7	dobj
+12	-	-	:	_	2	punct
+13	but	but	CC	_	2	cc
+14	the	the	DT	_	16	det
+15	other	other	JJ	_	16	amod
+16	man	man	NN	_	17	nsubj
+17	convinced	convince	VBN	_	2	conj
+18	him	he	PRP	_	17	dobj
+19	with	with	IN	_	17	prep
+20	his	he	PRP$	_	21	poss
+21	passion	passion	NN	_	19	pobj
+22	for	for	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	part	part	NN	_	22	pobj
+25	.	.	.	_	2	punct
+

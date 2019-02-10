@@ -1,0 +1,26 @@
+1	In	in	IN	_	15	prep
+2	the	the	DT	_	3	det
+3	foreground	foreground	NN	_	1	pobj
+4	a	a	DT	_	7	det
+5	large	large	JJ	_	7	amod
+6	upright	upright	JJ	_	7	amod
+7	stone	stone	NN	_	15	nsubj
+8	,	,	,	_	7	punct
+9	carved	carve	VBN	_	7	vmod
+10	in	in	IN	_	9	prep
+11	roman	roman	NN	_	12	nn
+12	capitals	capital	NNS	_	10	pobj
+13	,	,	,	_	7	punct
+14	still	still	RB	_	15	advmod
+15	exhibits	exhibit	VBZ	_	0	ROOT
+16	the	the	DT	_	17	det
+17	name	name	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	builder	builder	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	mausoleums	mausoleum	NNS	_	21	pobj
+23	and	and	CC	_	22	cc
+24	cenotaphs	cenotaph	NNS	_	22	conj
+25	.	.	.	_	15	punct
+

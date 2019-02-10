@@ -1,0 +1,9 @@
+1	She	she	PRP	_	2	nsubj
+2	threw	throw	VBD	_	0	ROOT
+3	her	she	PRP$	_	4	poss
+4	passion	passion	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	this	this	DT	_	7	det
+7	painting	painting	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

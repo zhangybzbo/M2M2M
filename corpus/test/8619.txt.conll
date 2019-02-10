@@ -1,0 +1,11 @@
+1	My	my	PRP$	_	4	poss
+2	completed	complete	VBN	_	4	amod
+3	torrent	torrent	NN	_	4	nn
+4	files	file	NNS	_	6	nsubj
+5	are	be	VBP	_	6	aux
+6	going	go	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	this	this	DT	_	9	det
+9	folder	folder	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

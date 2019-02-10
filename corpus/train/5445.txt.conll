@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	outfielder	outfielder	NN	_	3	nsubj
+3	needs	need	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	glove	glove	NN	_	3	dobj
+6	that	that	WDT	_	8	nsubj
+7	is	be	VBZ	_	8	cop
+8	large	large	JJ	_	5	rcmod
+9	enough	enough	RB	_	8	advmod
+10	.	.	.	_	3	punct
+

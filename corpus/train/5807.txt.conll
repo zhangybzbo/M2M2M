@@ -1,0 +1,10 @@
+1	Manufacturers	manufacturer	NNS	_	2	nsubj
+2	passed	pass	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	costs	cost	NNS	_	3	pobj
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	consumers	consumer	NNS	_	6	pobj
+9	.	.	.	_	2	punct
+

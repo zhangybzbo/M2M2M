@@ -1,0 +1,26 @@
+1	Now	now	RB	_	12	advmod
+2	in	in	IN	_	12	prep
+3	its	its	PRP$	_	5	poss
+4	56th	56th	JJ	_	5	amod
+5	year	year	NN	_	2	pobj
+6	,	,	,	_	12	punct
+7	this	this	DT	_	11	det
+8	unique	unique	JJ	_	11	amod
+9	folkloric	folkloric	JJ	_	11	amod
+10	dance	dance	NN	_	11	nn
+11	company	company	NN	_	12	nsubj
+12	continues	continue	VBZ	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	collect	collect	VB	_	12	xcomp
+15	,	,	,	_	14	punct
+16	perform	perform	VB	_	14	conj
+17	and	and	CC	_	14	cc
+18	preserve	preserve	VB	_	14	conj
+19	authentic	authentic	JJ	_	22	amod
+20	traditional	traditional	JJ	_	22	amod
+21	Hungarian	hungarian	JJ	_	22	amod
+22	music	music	NN	_	18	dobj
+23	and	and	CC	_	22	cc
+24	dance	dance	NN	_	22	conj
+25	.	.	.	_	12	punct
+

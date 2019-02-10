@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	bluffing	bluff	VBG	_	0	ROOT
+5	because	because	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	bomb	bomb	NN	_	8	nsubj
+8	was	be	VBD	_	4	advcl
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	can	can	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	orange	orange	JJ	_	14	amod
+14	juice	juice	NN	_	12	pobj
+15	that	that	WDT	_	18	nsubjpass
+16	had	have	VBD	_	18	aux
+17	been	be	VBN	_	18	auxpass
+18	served	serve	VBN	_	11	rcmod
+19	by	by	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	airline	airline	NN	_	19	pobj
+22	itself	itself	PRP	_	21	npadvmod
+23	.	.	.	_	4	punct
+

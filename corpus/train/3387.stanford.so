@@ -1,0 +1,13 @@
+0	60	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	9	tok id="t1" base="sale" pos="NNS" nn="t2"
+10	15	tok id="t2" base="cycle" pos="NN" nsubj="t4"
+16	19	tok id="t3" base="have" pos="VBZ" aux="t4"
+20	29	tok id="t4" base="shorten" pos="VBN" ROOT="ROOT"
+30	34	tok id="t5" base="from" pos="IN" prep="t4"
+35	42	tok id="t6" base="several" pos="JJ" amod="t7"
+43	49	tok id="t7" base="month" pos="NNS" pobj="t5"
+50	52	tok id="t8" base="to" pos="TO" prep="t4"
+53	58	tok id="t9" base="week" pos="NNS" pobj="t8"
+59	60	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

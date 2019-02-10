@@ -1,0 +1,7 @@
+1	Stone	Stone	NNP	_	5	nsubj
+2	grinding	grind	VBG	_	1	amod
+3	is	be	VBZ	_	5	cop
+4	very	very	RB	_	5	advmod
+5	technical	technical	JJ	_	0	ROOT
+6	.	.	.	_	5	punct
+

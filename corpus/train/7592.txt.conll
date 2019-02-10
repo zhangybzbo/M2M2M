@@ -1,0 +1,23 @@
+1	Alabama	Alabama	NNP	_	0	ROOT
+2	has	have	VBZ	_	1	dep
+3	since	since	IN	_	2	prep
+4	enacted	enact	VBN	_	5	amod
+5	legislation	legislation	NN	_	3	pobj
+6	,	,	,	_	2	punct
+7	allowing	allow	VBG	_	6	dep
+8	death	death	NN	_	7	dobj
+9	by	by	IN	_	8	prep
+10	lethal	lethal	JJ	_	11	amod
+11	injection	injection	NN	_	9	pobj
+12	as	as	IN	_	7	prep
+13	an	a	DT	_	15	det
+14	alternative	alternative	JJ	_	15	amod
+15	choice	choice	NN	_	12	pobj
+16	to	to	TO	_	15	prep
+17	death	death	NN	_	16	pobj
+18	in	in	IN	_	7	prep
+19	the	the	DT	_	21	det
+20	electric	electric	JJ	_	21	amod
+21	chair	chair	NN	_	18	pobj
+22	.	.	.	_	7	punct
+

@@ -1,0 +1,18 @@
+1	You	you	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	two	two	CD	_	5	num
+4	bare	bare	JJ	_	5	amod
+5	ends	end	NNS	_	2	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	wire	wire	NN	_	6	pobj
+9	into	into	IN	_	2	prep
+10	a	a	DT	_	11	det
+11	beaker	beaker	NN	_	9	pobj
+12	filled	fill	VBN	_	11	vmod
+13	halfway	halfway	RB	_	12	advmod
+14	with	with	IN	_	13	prep
+15	distilled	distilled	JJ	_	16	amod
+16	water	water	NN	_	14	pobj
+17	.	.	.	_	2	punct
+

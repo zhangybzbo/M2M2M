@@ -1,0 +1,11 @@
+1	Tense	tense	JJ	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	temporal	temporal	JJ	_	6	amod
+5	linguistic	linguistic	JJ	_	6	amod
+6	quality	quality	NN	_	0	ROOT
+7	expressing	express	VBG	_	6	vmod
+8	the	the	DT	_	9	det
+9	time	time	NN	_	7	dobj
+10	.	.	.	_	6	punct
+

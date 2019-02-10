@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	idea	idea	NN	_	6	nsubjpass
+3	of	of	IN	_	2	prep
+4	intensification	intensification	NN	_	3	pobj
+5	was	be	VBD	_	6	auxpass
+6	put	put	VBN	_	0	ROOT
+7	forward	forward	RB	_	6	advmod
+8	by	by	IN	_	6	prep
+9	a	a	DT	_	10	det
+10	number	number	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	archaeologists	archaeologist	NNS	_	11	pobj
+13	,	,	,	_	6	punct
+14	but	but	CC	_	6	cc
+15	the	the	DT	_	17	det
+16	most	most	RBS	_	17	advmod
+17	prominent	prominent	JJ	_	24	nsubj
+18	in	in	IN	_	17	prep
+19	developing	develop	VBG	_	18	pcomp
+20	the	the	DT	_	21	det
+21	idea	idea	NN	_	19	dobj
+22	was	be	VBD	_	24	cop
+23	Harry	Harry	NNP	_	24	nn
+24	Lourandos	Lourandos	NNP	_	6	conj
+25	.	.	.	_	6	punct
+

@@ -1,0 +1,12 @@
+1	An	a	DT	_	2	det
+2	artist	artist	NN	_	3	nsubj
+3	creates	create	VBZ	_	0	ROOT
+4	sculptures	sculpture	NNS	_	3	dobj
+5	using	use	VBG	_	3	xcomp
+6	up	up	RP	_	5	prt
+7	to	to	TO	_	5	prep
+8	250000	250000	CD	_	10	num
+9	colouring	colour	VBG	_	10	amod
+10	crayons	crayon	NNS	_	7	pobj
+11	.	.	.	_	3	punct
+

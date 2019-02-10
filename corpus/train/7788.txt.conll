@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	therapist	therapist	NN	_	3	nsubj
+3	helps	help	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	patient	patient	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	understand	understand	VB	_	3	xcomp
+8	himself	himself	PRP	_	7	dobj
+9	or	or	CC	_	8	cc
+10	herself	herself	PRP	_	8	conj
+11	better	better	RB	_	7	advmod
+12	.	.	.	_	3	punct
+

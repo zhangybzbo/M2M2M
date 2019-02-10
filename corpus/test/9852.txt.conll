@@ -1,0 +1,14 @@
+1	Express	Express	NNP	_	2	nn
+2	buses	bus	NNS	_	3	nsubj
+3	depart	depart	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	airport	airport	NN	_	3	dobj
+6	every	every	DT	_	8	det
+7	1	1	CD	_	8	num
+8	hour	hour	NN	_	3	tmod
+9	from	from	IN	_	3	prep
+10	6.00	6.00	CD	_	9	pobj
+11	until	until	IN	_	3	prep
+12	1.00	1.00	CD	_	11	pobj
+13	.	.	.	_	3	punct
+

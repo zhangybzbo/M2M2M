@@ -1,0 +1,26 @@
+1	From	from	IN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	duke	duke	NN	_	1	pobj
+4	himself	himself	PRP	_	1	pobj
+5	he	he	PRP	_	6	nsubj
+6	received	receive	VBD	_	4	rcmod
+7	his	he	PRP$	_	9	poss
+8	right	right	JJ	_	9	amod
+9	spur	spur	NN	_	6	dobj
+10	and	and	CC	_	9	cc
+11	a	a	DT	_	14	det
+12	magnificent	magnificent	JJ	_	14	amod
+13	eastern	eastern	JJ	_	14	amod
+14	sword	sword	NN	_	9	conj
+15	with	with	IN	_	14	prep
+16	golden	golden	JJ	_	17	amod
+17	hilt	hilt	NN	_	15	pobj
+18	and	and	CC	_	6	cc
+19	shining	shine	VBG	_	6	conj
+20	blade	blade	NN	_	19	dobj
+21	,	,	,	_	4	punct
+22	inscribed	inscribe	VBN	_	4	vmod
+23	with	with	IN	_	22	prep
+24	letters	letter	NNS	_	23	pobj
+25	.	.	.	_	1	punct
+

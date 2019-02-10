@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	explosion	explosion	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	crater	crater	NN	_	3	dobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	ground	ground	NN	_	6	pobj
+9	and	and	CC	_	3	cc
+10	destroyed	destroy	VBD	_	3	conj
+11	several	several	JJ	_	12	amod
+12	stalls	stall	NNS	_	10	dobj
+13	.	.	.	_	3	punct
+

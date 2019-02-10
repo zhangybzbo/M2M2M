@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	theme	theme	NN	_	3	nn
+3	song	song	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	written	write	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	songwriting	songwriting	JJ	_	9	amod
+9	team	team	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	Jay	Jay	NNP	_	12	nn
+12	Livingston	Livingston	NNP	_	10	pobj
+13	and	and	CC	_	12	cc
+14	Ray	Ray	NNP	_	15	nn
+15	Evans	Evans	NNP	_	12	conj
+16	.	.	.	_	5	punct
+

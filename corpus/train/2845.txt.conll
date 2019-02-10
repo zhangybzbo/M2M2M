@@ -1,0 +1,12 @@
+1	Her	she	PRP$	_	2	poss
+2	mother	mother	NN	_	3	nsubj
+3	copes	cope	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	that	that	DT	_	4	pobj
+6	using	use	VBG	_	5	vmod
+7	humor	humor	NN	_	6	dobj
+8	as	as	IN	_	6	prep
+9	a	a	DT	_	10	det
+10	shield	shield	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,25 @@
+1	We	we	PRP	_	3	nsubj
+2	all	all	DT	_	3	dep
+3	worked	work	VBN	_	0	ROOT
+4	together	together	RB	_	3	advmod
+5	to	to	TO	_	6	aux
+6	mix	mix	VB	_	3	xcomp
+7	the	the	DT	_	8	det
+8	ingredients	ingredient	NNS	_	6	dobj
+9	,	,	,	_	3	punct
+10	poured	pour	VBD	_	3	conj
+11	the	the	DT	_	12	det
+12	mix	mix	NN	_	10	dobj
+13	into	into	IN	_	10	prep
+14	the	the	DT	_	17	det
+15	two	two	CD	_	17	num
+16	cake	cake	NN	_	17	nn
+17	pans	pan	NNS	_	13	pobj
+18	and	and	CC	_	3	cc
+19	put	put	VBD	_	3	conj
+20	them	they	PRP	_	19	dobj
+21	into	into	IN	_	19	prep
+22	the	the	DT	_	23	det
+23	oven	oven	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

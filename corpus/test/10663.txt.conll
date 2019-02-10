@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	rabbits	rabbit	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	unhappy	unhappy	JJ	_	0	ROOT
+5	when	when	WRB	_	6	advmod
+6	left	leave	VBN	_	4	advcl
+7	alone	alone	RB	_	6	advmod
+8	in	in	IN	_	6	prep
+9	a	a	DT	_	10	det
+10	hutch	hutch	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	garden	garden	NN	_	11	pobj
+14	,	,	,	_	4	punct
+15	as	as	IN	_	17	mark
+16	they	they	PRP	_	17	nsubj
+17	need	need	VBP	_	4	advcl
+18	company	company	NN	_	17	dobj
+19	.	.	.	_	4	punct
+

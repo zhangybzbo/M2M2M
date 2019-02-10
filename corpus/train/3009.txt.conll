@@ -1,0 +1,23 @@
+1	Six	six	CD	_	2	num
+2	horses	horse	NNS	_	8	nsubjpass
+3	wearing	wear	VBG	_	2	vmod
+4	elaborate	elaborate	JJ	_	5	amod
+5	harnesses	harness	NNS	_	3	dobj
+6	had	have	VBD	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	sacrificed	sacrifice	VBN	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	lay	lay	VBN	_	8	conj
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	logs	log	NNS	_	11	pobj
+14	which	which	WDT	_	15	nsubj
+15	formed	form	VBD	_	13	rcmod
+16	the	the	DT	_	17	det
+17	roof	roof	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	burial	burial	NN	_	21	nn
+21	chamber	chamber	NN	_	18	pobj
+22	.	.	.	_	8	punct
+

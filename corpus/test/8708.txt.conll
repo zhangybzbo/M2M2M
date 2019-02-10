@@ -1,0 +1,24 @@
+1	Cutler	Cutler	NNP	_	2	nsubj
+2	ended	end	VBD	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	with	with	IN	_	2	prep
+5	a	a	DT	_	8	det
+6	bleeding	bleeding	NN	_	8	nn
+7	stomach	stomach	NN	_	8	nn
+8	ulcer	ulcer	NN	_	4	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	stress	stress	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	hard	hard	JJ	_	15	amod
+15	work	work	NN	_	12	conj
+16	supervising	supervise	VBG	_	12	vmod
+17	their	they	PRP$	_	18	poss
+18	tours	tour	NNS	_	16	dobj
+19	twenty-four	twenty-four	CD	_	20	num
+20	hours	hour	NNS	_	18	dep
+21	a	a	DT	_	22	det
+22	day	day	NN	_	20	npadvmod
+23	.	.	.	_	2	punct
+

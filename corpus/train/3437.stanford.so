@@ -1,0 +1,11 @@
+0	63	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="student" pos="NNS" nsubj="t1"
+9	15	tok id="t1" base="review" pos="VBP" ROOT="ROOT"
+16	19	tok id="t2" base="art" pos="NN" dobj="t1"
+20	24	tok id="t3" base="from" pos="IN" prep="t1"
+25	34	tok id="t4" base="different" pos="JJ" amod="t5"
+35	42	tok id="t5" base="period" pos="NNS" pobj="t3"
+43	53	tok id="t6" base="throughout" pos="IN" prep="t5"
+54	61	tok id="t7" base="history" pos="NN" pobj="t6"
+62	63	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

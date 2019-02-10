@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	children	child	NNS	_	3	nsubj
+3	descend	descend	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	ladder	ladder	NN	_	3	dobj
+6	after	after	IN	_	3	prep
+7	hearing	hear	VBG	_	6	pcomp
+8	the	the	DT	_	10	det
+9	fire	fire	NN	_	10	nn
+10	alarm	alarm	NN	_	7	dobj
+11	which	which	WDT	_	14	nsubjpass
+12	has	have	VBZ	_	14	aux
+13	been	be	VBN	_	14	auxpass
+14	triggered	trigger	VBN	_	10	rcmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	wood	wood	NN	_	19	nn
+18	work	work	NN	_	19	nn
+19	workshop	workshop	NN	_	15	pobj
+20	catching	catch	VBG	_	19	vmod
+21	fire	fire	NN	_	20	dobj
+22	.	.	.	_	3	punct
+

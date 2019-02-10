@@ -1,0 +1,10 @@
+1	You	you	PRP	_	2	nsubj
+2	proved	prove	VBD	_	0	ROOT
+3	that	that	IN	_	6	mark
+4	a	a	DT	_	5	det
+5	gas	gas	NN	_	6	nsubj
+6	takes	take	VBZ	_	2	ccomp
+7	up	up	RP	_	6	prt
+8	space	space	NN	_	6	dobj
+9	.	.	.	_	2	punct
+

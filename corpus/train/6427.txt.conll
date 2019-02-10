@@ -1,0 +1,20 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	also	also	RB	_	2	advmod
+4	a	a	DT	_	6	det
+5	large	large	JJ	_	6	amod
+6	convocation	convocation	NN	_	2	nsubj
+7	of	of	IN	_	6	prep
+8	bald	bald	JJ	_	9	amod
+9	eagles	eagle	NNS	_	7	pobj
+10	near	near	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	park	park	NN	_	13	nn
+13	entrance	entrance	NN	_	10	pobj
+14	that	that	WDT	_	15	nsubj
+15	provides	provide	VBZ	_	13	rcmod
+16	excellent	excellent	JJ	_	18	amod
+17	viewing	view	VBG	_	18	amod
+18	opportunities	opportunity	NNS	_	15	dobj
+19	.	.	.	_	2	punct
+

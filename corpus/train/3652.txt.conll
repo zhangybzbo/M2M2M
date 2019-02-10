@@ -1,0 +1,24 @@
+1	In	in	IN	_	15	prep
+2	economic	economic	JJ	_	3	amod
+3	terms	term	NNS	_	1	pobj
+4	,	,	,	_	15	punct
+5	the	the	DT	_	7	det
+6	ecological	ecological	JJ	_	7	amod
+7	catastrophe	catastrophe	NN	_	15	nsubj
+8	caused	cause	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	Prestige	Prestige	NNP	_	13	nn
+12	oil	oil	NN	_	13	nn
+13	spill	spill	NN	_	9	pobj
+14	is	be	VBZ	_	15	cop
+15	comparable	comparable	JJ	_	0	ROOT
+16	with	with	IN	_	15	prep
+17	that	that	DT	_	16	pobj
+18	caused	cause	VBN	_	17	vmod
+19	by	by	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	Exxon	Exxon	NNP	_	22	nn
+22	Valdez	Valdez	NNP	_	19	pobj
+23	.	.	.	_	15	punct
+

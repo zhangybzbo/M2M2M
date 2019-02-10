@@ -1,0 +1,17 @@
+1	She	she	PRP	_	2	nsubj
+2	grabbed	grab	VBD	_	0	ROOT
+3	your	you	PRP$	_	4	poss
+4	arm	arm	NN	_	2	dobj
+5	and	and	CC	_	2	cc
+6	twisted	twist	VBD	_	2	conj
+7	it	it	PRP	_	6	dobj
+8	until	until	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	shoulderbone	shoulderbone	NN	_	8	pobj
+11	popped	pop	VBN	_	10	vmod
+12	out	out	IN	_	11	prep
+13	of	of	IN	_	12	pcomp
+14	the	the	DT	_	15	det
+15	socket	socket	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

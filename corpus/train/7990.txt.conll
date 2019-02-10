@@ -1,0 +1,21 @@
+1	In	in	IN	_	17	prep
+2	some	some	DT	_	4	det
+3	Asian	asian	JJ	_	4	amod
+4	countries	country	NNS	_	1	pobj
+5	,	,	,	_	4	punct
+6	including	include	VBG	_	4	prep
+7	China	China	NNP	_	6	pobj
+8	,	,	,	_	7	punct
+9	Malaysia	Malaysia	NNP	_	7	conj
+10	and	and	CC	_	7	cc
+11	the	the	DT	_	12	det
+12	Philippines	Philippines	NNPS	_	7	conj
+13	,	,	,	_	17	punct
+14	the	the	DT	_	15	det
+15	turtles	turtle	NNS	_	17	nsubjpass
+16	are	be	VBP	_	17	auxpass
+17	farmed	farm	VBN	_	0	ROOT
+18	for	for	IN	_	17	prep
+19	food	food	NN	_	18	pobj
+20	.	.	.	_	17	punct
+

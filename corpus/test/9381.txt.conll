@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	first	first	JJ	_	4	amod
+3	five-day	five-day	JJ	_	4	amod
+4	workshop	workshop	NN	_	5	nsubj
+5	introduced	introduce	VBN	_	0	ROOT
+6	tools	tool	NNS	_	5	dobj
+7	for	for	IN	_	6	prep
+8	identifying	identify	VBG	_	7	pcomp
+9	and	and	CC	_	8	cc
+10	exploiting	exploit	VBG	_	8	conj
+11	market	market	NN	_	12	nn
+12	opportunities	opportunity	NNS	_	8	dobj
+13	.	.	.	_	5	punct
+

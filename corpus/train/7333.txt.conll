@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	supplier	supplier	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	invoice	invoice	NN	_	6	nsubj
+5	is	be	VBZ	_	6	cop
+6	payable	payable	JJ	_	0	ROOT
+7	within	within	IN	_	6	prep
+8	30	30	CD	_	9	num
+9	days	day	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

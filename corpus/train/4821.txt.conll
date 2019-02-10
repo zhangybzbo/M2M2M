@@ -1,0 +1,17 @@
+1	Spanish	spanish	JJ	_	2	amod
+2	people	people	NNS	_	4	nsubj
+3	successfully	successfully	RB	_	4	advmod
+4	resolved	resolve	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	problem	problem	NN	_	4	dobj
+7	through	through	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	judicious	judicious	JJ	_	10	amod
+10	combination	combination	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	self-rule	self-rule	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	shared	shared	JJ	_	12	conj
+15	rule	rule	NN	_	11	pobj
+16	.	.	.	_	4	punct
+

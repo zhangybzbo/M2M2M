@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	sensor	sensor	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	manufactured	manufacture	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	11	det
+7	cost	cost	NN	_	11	nn
+8	effective	effective	JJ	_	11	amod
+9	thin	thin	JJ	_	11	amod
+10	film	film	NN	_	11	nn
+11	process	process	NN	_	5	pobj
+12	.	.	.	_	4	punct
+

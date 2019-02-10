@@ -1,0 +1,11 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="you" pos="PRP" nsubj="t1"
+4	7	tok id="t1" base="see" pos="VBD" ROOT="ROOT"
+8	20	tok id="t2" base="professional" pos="JJ" amod="t3"
+21	26	tok id="t3" base="chef" pos="NNS" dobj="t1"
+27	32	tok id="t4" base="use" pos="VBG" xcomp="t1"
+33	34	tok id="t5" base="a" pos="DT" det="t7"
+35	41	tok id="t6" base="garlic" pos="JJ" amod="t7"
+42	47	tok id="t7" base="press" pos="NN" dobj="t4"
+48	49	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	release	release	NN	_	3	nn
+3	profiles	profile	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	modified	modify	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	delaying	delay	VBG	_	6	pcomp
+8	additional	additional	JJ	_	10	amod
+9	drug	drug	NN	_	10	nn
+10	release	release	NN	_	7	dobj
+11	from	from	IN	_	7	prep
+12	the	the	DT	_	14	det
+13	press-coated	press-coated	JJ	_	14	amod
+14	surfaces	surface	NNS	_	11	pobj
+15	.	.	.	_	5	punct
+

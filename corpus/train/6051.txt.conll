@@ -1,0 +1,22 @@
+1	A	a	DT	_	3	det
+2	Katrina-like	katrina-like	JJ	_	3	amod
+3	hurricane	hurricane	NN	_	5	nsubj
+4	eventually	eventually	RB	_	5	advmod
+5	collapses	collapse	VBZ	_	0	ROOT
+6	the	the	DT	_	9	det
+7	slapdash	slapdash	JJ	_	9	amod
+8	apartment	apartment	NN	_	9	nn
+9	buildings	building	NNS	_	5	dobj
+10	the	the	DT	_	11	det
+11	villains	villain	NNS	_	13	nsubj
+12	have	have	VBP	_	13	aux
+13	constructed	construct	VBN	_	9	rcmod
+14	,	,	,	_	5	punct
+15	killing	kill	VBG	_	5	vmod
+16	the	the	DT	_	17	det
+17	guilty	guilty	JJ	_	15	dobj
+18	and	and	CC	_	17	cc
+19	innocent	innocent	JJ	_	17	conj
+20	alike	alike	RB	_	17	advmod
+21	.	.	.	_	5	punct
+

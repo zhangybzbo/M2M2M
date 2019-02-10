@@ -1,0 +1,14 @@
+1	Out	out	IN	_	5	mark
+2	current	current	JJ	_	3	amod
+3	Secretary	Secretary	NNP	_	5	nsubj
+4	is	be	VBZ	_	5	aux
+5	gathering	gather	VBG	_	0	ROOT
+6	information	information	NN	_	5	dobj
+7	from	from	IN	_	5	prep
+8	past	past	JJ	_	9	amod
+9	presidents	president	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	committee	committee	NN	_	12	nn
+12	chairs	chair	NNS	_	9	conj
+13	.	.	.	_	5	punct
+

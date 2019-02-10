@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	shot	shot	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	wound	wound	NN	_	3	dobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	left	left	JJ	_	9	amod
+9	side	side	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	neck	neck	NN	_	10	pobj
+13	which	which	WDT	_	14	nsubj
+14	bled	bleed	VBD	_	5	rcmod
+15	profusely	profusely	RB	_	14	advmod
+16	.	.	.	_	3	punct
+

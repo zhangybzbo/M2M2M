@@ -1,0 +1,3 @@
+T1	Term 36 43	species
+T2	Term 63 67	toys
+R1	Product-Producer Arg1:T2 Arg2:T1

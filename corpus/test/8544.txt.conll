@@ -1,0 +1,13 @@
+1	However	however	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	there	there	EX	_	4	expl
+4	are	be	VBP	_	0	ROOT
+5	many	many	JJ	_	8	amod
+6	universal	universal	JJ	_	8	amod
+7	humanitarian	humanitarian	JJ	_	8	amod
+8	laws	law	NNS	_	4	nsubj
+9	applying	apply	VBG	_	8	vmod
+10	to	to	TO	_	9	prep
+11	war	war	NN	_	10	pobj
+12	.	.	.	_	4	punct
+

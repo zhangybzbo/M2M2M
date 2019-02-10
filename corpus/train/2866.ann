@@ -1,0 +1,3 @@
+T1	Term 82 88	damage
+T2	Term 103 108	quake
+R1	Cause-Effect Arg1:T2 Arg2:T1

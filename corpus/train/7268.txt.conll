@@ -1,0 +1,13 @@
+1	Most	most	JJS	_	3	amod
+2	sewing	sewing	JJ	_	3	amod
+3	machines	machine	NNS	_	4	nsubj
+4	use	use	VBP	_	0	ROOT
+5	a	a	DT	_	7	det
+6	sturdier	sturdier	JJR	_	7	amod
+7	stitch	stitch	NN	_	4	dobj
+8	known	know	VBN	_	7	vmod
+9	as	as	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	lock-stitch	lock-stitch	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	Chinese	chinese	JJ	_	3	amod
+2	creation	creation	NN	_	3	nn
+3	myths	myth	NNS	_	4	nsubj
+4	explain	explain	VBP	_	0	ROOT
+5	the	the	DT	_	7	det
+6	legendary	legendary	JJ	_	7	amod
+7	beginnings	beginning	NNS	_	4	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	universe	universe	NN	_	8	pobj
+11	,	,	,	_	10	punct
+12	earth	earth	NN	_	10	conj
+13	,	,	,	_	10	punct
+14	and	and	CC	_	10	cc
+15	life	life	NN	_	10	conj
+16	.	.	.	_	4	punct
+

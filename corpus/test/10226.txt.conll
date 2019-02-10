@@ -1,0 +1,15 @@
+1	It	it	PRP	_	2	nsubj
+2	was	be	VBD	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	period	period	NN	_	3	pobj
+6	that	that	IN	_	2	prep
+7	the	the	DT	_	10	det
+8	new	new	JJ	_	10	amod
+9	religion	religion	NN	_	10	nn
+10	spread	spread	NN	_	6	pobj
+11	into	into	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	empire	empire	NN	_	11	pobj
+14	.	.	.	_	2	punct
+

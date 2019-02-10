@@ -1,0 +1,24 @@
+1	Outraged	outraged	JJ	_	13	nsubj
+2	,	,	,	_	13	punct
+3	upon	upon	IN	_	13	prep
+4	his	he	PRP$	_	5	poss
+5	release	release	NN	_	3	pobj
+6	and	and	CC	_	5	cc
+7	return	return	NN	_	5	conj
+8	to	to	TO	_	7	prep
+9	England	England	NNP	_	8	pobj
+10	,	,	,	_	13	punct
+11	the	the	DT	_	12	det
+12	artist	artist	NN	_	13	nsubj
+13	produced	produce	VBD	_	0	ROOT
+14	the	the	DT	_	17	det
+15	virulently	virulently	RB	_	17	advmod
+16	anti-French	anti-french	JJ	_	17	amod
+17	painting	painting	NN	_	13	dobj
+18	based	base	VBN	_	13	prep
+19	on	on	IN	_	18	pcomp
+20	his	he	PRP$	_	21	poss
+21	experience	experience	NN	_	19	pobj
+22	there	there	RB	_	21	advmod
+23	.	.	.	_	13	punct
+

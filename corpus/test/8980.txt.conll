@@ -1,0 +1,18 @@
+1	Many	many	JJ	_	2	amod
+2	times	time	NNS	_	5	tmod
+3	,	,	,	_	5	punct
+4	journalists	journalist	NNS	_	5	nsubj
+5	become	become	VBP	_	0	ROOT
+6	the	the	DT	_	7	det
+7	topic	topic	NN	_	5	xcomp
+8	for	for	IN	_	7	prep
+9	discussion	discussion	NN	_	8	pobj
+10	among	among	IN	_	9	prep
+11	political	political	JJ	_	13	amod
+12	party	party	NN	_	13	nn
+13	supporters	supporter	NNS	_	10	pobj
+14	at	at	IN	_	13	prep
+15	press	press	NN	_	16	nn
+16	conferences	conference	NNS	_	14	pobj
+17	.	.	.	_	5	punct
+

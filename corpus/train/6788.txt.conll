@@ -1,0 +1,17 @@
+1	Overall	overall	RB	_	0	ROOT
+2	,	,	,	_	4	punct
+3	the	the	DT	_	4	det
+4	fire	fire	NN	_	1	dep
+5	after	after	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	earthquake	earthquake	NN	_	8	nsubj
+8	burned	burn	VBN	_	4	advcl
+9	out	out	RP	_	8	prt
+10	7456	7456	CD	_	11	num
+11	houses	house	NNS	_	8	dobj
+12	in	in	IN	_	8	prep
+13	over	over	IN	_	14	quantmod
+14	530	530	CD	_	15	num
+15	localities	locality	NNS	_	12	pobj
+16	.	.	.	_	4	punct
+

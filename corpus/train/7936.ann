@@ -1,0 +1,3 @@
+T1	Term 94 103	acoustics
+T2	Term 115 118	car
+R1	Other Arg1:T1 Arg2:T2

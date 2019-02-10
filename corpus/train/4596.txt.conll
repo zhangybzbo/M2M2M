@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	auditor	auditor	NN	_	3	nn
+3	staff	staff	NN	_	4	nsubj
+4	rescheduled	reschedule	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	meetings	meeting	NNS	_	4	dobj
+7	to	to	TO	_	4	prep
+8	next	next	JJ	_	9	amod
+9	week	week	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

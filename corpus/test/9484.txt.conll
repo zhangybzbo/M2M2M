@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	burner	burner	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	dryer	dryer	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	lined	line	VBN	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	more	more	JJR	_	10	mwe
+10	than	than	IN	_	11	quantmod
+11	3	3	CD	_	16	num
+12	cm	cm	NN	_	16	nn
+13	thick	thick	JJ	_	16	amod
+14	castable	castable	JJ	_	16	amod
+15	refractory	refractory	JJ	_	16	amod
+16	material	material	NN	_	8	pobj
+17	.	.	.	_	7	punct
+

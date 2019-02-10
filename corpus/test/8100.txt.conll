@@ -1,0 +1,27 @@
+1	David	David	NNP	_	2	nn
+2	Mamet	Mamet	NNP	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	questions	question	NNS	_	3	dobj
+5	from	from	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	audience	audience	NN	_	5	pobj
+8	and	and	CC	_	3	cc
+9	shared	share	VBD	_	3	conj
+10	his	he	PRP$	_	11	poss
+11	views	view	NNS	_	9	dobj
+12	on	on	IN	_	11	prep
+13	topics	topic	NNS	_	12	pobj
+14	such	such	JJ	_	15	mwe
+15	as	as	IN	_	13	prep
+16	television	television	NN	_	15	pobj
+17	,	,	,	_	16	punct
+18	the	the	DT	_	19	det
+19	democracy	democracy	NN	_	16	appos
+20	of	of	IN	_	19	prep
+21	culture	culture	NN	_	20	pobj
+22	and	and	CC	_	21	cc
+23	the	the	DT	_	25	det
+24	English	English	NNP	_	25	nn
+25	accent	accent	NN	_	21	conj
+26	.	.	.	_	3	punct
+

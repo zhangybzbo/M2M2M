@@ -1,0 +1,7 @@
+1	Highways	highway	NNS	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	falling	fall	VBG	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	disrepair	disrepair	NN	_	4	pobj
+6	.	.	.	_	3	punct
+

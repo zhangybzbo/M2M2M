@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	singing	singing	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	substantial	substantial	JJ	_	7	amod
+7	figure	figure	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	Mole	Mole	NNP	_	8	pobj
+10	-	-	:	_	9	punct
+11	Paul	Paul	NNP	_	12	nn
+12	Smith	Smith	NNP	_	9	dep
+13	in	in	IN	_	9	prep
+14	the	the	DT	_	16	det
+15	normal	normal	JJ	_	16	amod
+16	world	world	NN	_	13	pobj
+17	-	-	:	_	9	punct
+18	who	who	WP	_	19	nsubj
+19	crams	cram	VBZ	_	9	rcmod
+20	into	into	IN	_	19	prep
+21	his	he	PRP$	_	22	poss
+22	days	day	NNS	_	20	pobj
+23	a	a	DT	_	25	det
+24	full-time	full-time	JJ	_	25	amod
+25	job	job	NN	_	22	dep
+26	.	.	.	_	3	punct
+

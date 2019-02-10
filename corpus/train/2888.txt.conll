@@ -1,0 +1,13 @@
+1	All	all	DT	_	2	det
+2	items	item	NNS	_	7	nsubjpass
+3	including	include	VBG	_	2	prep
+4	photos	photo	NNS	_	3	pobj
+5	have	have	VBP	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	dragged	drag	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	garbage	garbage	NN	_	11	nn
+11	bin	bin	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

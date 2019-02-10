@@ -1,0 +1,15 @@
+1	This	this	DT	_	4	det
+2	weekly	weekly	JJ	_	4	amod
+3	economic	economic	JJ	_	4	amod
+4	publication	publication	NN	_	5	nsubj
+5	analyzes	analyze	VBZ	_	0	ROOT
+6	and	and	CC	_	5	cc
+7	interprets	interpret	VBZ	_	5	conj
+8	financial	financial	JJ	_	13	amod
+9	,	,	,	_	8	punct
+10	commercial	commercial	JJ	_	8	conj
+11	and	and	CC	_	8	cc
+12	industrial	industrial	JJ	_	8	conj
+13	developments	development	NNS	_	7	dobj
+14	.	.	.	_	5	punct
+

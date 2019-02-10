@@ -1,0 +1,3 @@
+T1	Term 57 64	factory
+T2	Term 83 90	blouses
+R1	Product-Producer Arg1:T2 Arg2:T1

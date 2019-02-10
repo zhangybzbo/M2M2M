@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det
+2	new	new	JJ	_	4	amod
+3	armored	armored	JJ	_	4	amod
+4	casemate	casemate	NN	_	9	nsubj
+5	fitted	fit	VBN	_	4	vmod
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	hull	hull	NN	_	6	pobj
+9	enclosed	enclose	VBD	_	0	ROOT
+10	a	a	DT	_	13	det
+11	15	15	CD	_	13	num
+12	cm	cm	NN	_	13	nn
+13	howitzer	howitzer	NN	_	9	dobj
+14	.	.	.	_	9	punct
+

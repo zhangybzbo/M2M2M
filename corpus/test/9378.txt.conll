@@ -1,0 +1,17 @@
+1	By	by	IN	_	8	prep
+2	far	far	RB	_	5	advmod
+3	the	the	DT	_	5	det
+4	greatest	greatest	JJS	_	5	amod
+5	damage	damage	NN	_	1	pobj
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	caused	cause	VBN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	illicit	illicit	JJ	_	12	amod
+12	use	use	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	hallucinogens	hallucinogen	NNS	_	13	pobj
+16	.	.	.	_	8	punct
+

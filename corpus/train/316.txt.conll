@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	fire	fire	NN	_	3	nsubj
+3	started	start	VBD	_	0	ROOT
+4	when	when	WRB	_	7	advmod
+5	the	the	DT	_	6	det
+6	owner	owner	NN	_	7	nsubj
+7	lit	light	VBD	_	3	advcl
+8	a	a	DT	_	9	det
+9	fire	fire	NN	_	7	dobj
+10	behind	behind	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	house	house	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

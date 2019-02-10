@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	castle	castle	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	two	two	CD	_	7	num
+5	big	big	JJ	_	7	amod
+6	concentric	concentric	JJ	_	7	amod
+7	towers	tower	NNS	_	3	dobj
+8	,	,	,	_	3	punct
+9	corresponding	correspond	VBG	_	3	vmod
+10	to	to	TO	_	9	prep
+11	a	a	DT	_	13	det
+12	three-story	three-story	JJ	_	13	amod
+13	building	building	NN	_	10	pobj
+14	with	with	IN	_	13	prep
+15	two	two	CD	_	17	num
+16	smaller	smaller	JJR	_	17	amod
+17	towers	tower	NNS	_	14	pobj
+18	at	at	IN	_	17	prep
+19	its	its	PRP$	_	21	poss
+20	exterior	exterior	NN	_	21	nn
+21	angles	angle	NNS	_	18	pobj
+22	.	.	.	_	3	punct
+

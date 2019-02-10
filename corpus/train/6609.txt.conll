@@ -1,0 +1,25 @@
+1	In	in	IN	_	9	prep
+2	recent	recent	JJ	_	3	amod
+3	years	year	NNS	_	1	pobj
+4	,	,	,	_	9	punct
+5	considerable	considerable	JJ	_	6	amod
+6	attention	attention	NN	_	9	nsubjpass
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	focused	focus	VBN	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	regenerative	regenerative	JJ	_	12	amod
+12	medicine	medicine	NN	_	10	pobj
+13	because	because	IN	_	14	mwe
+14	of	of	IN	_	9	prep
+15	its	its	PRP$	_	16	poss
+16	applicability	applicability	NN	_	14	pobj
+17	to	to	TO	_	16	prep
+18	a	a	DT	_	20	det
+19	wide	wide	JJ	_	20	amod
+20	range	range	NN	_	17	pobj
+21	of	of	IN	_	20	prep
+22	medical	medical	JJ	_	23	amod
+23	fields	field	NNS	_	21	pobj
+24	.	.	.	_	9	punct
+

@@ -1,0 +1,10 @@
+1	Their	they	PRP$	_	2	poss
+2	ancestors	ancestor	NNS	_	3	nsubj
+3	reached	reach	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	island	island	NN	_	3	dobj
+6	using	use	VBG	_	3	xcomp
+7	bamboo	bamboo	NN	_	8	nn
+8	rafts	raft	NNS	_	6	dobj
+9	.	.	.	_	3	punct
+

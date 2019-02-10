@@ -1,0 +1,16 @@
+1	Our	we	PRP$	_	3	poss
+2	powered	power	VBN	_	3	amod
+3	scissors	scissors	NNS	_	5	nsubj
+4	effortlessly	effortlessly	RB	_	5	advmod
+5	cut	cut	VBD	_	0	ROOT
+6	fabrics	fabric	NNS	_	5	dobj
+7	,	,	,	_	5	punct
+8	gift	gift	NN	_	9	nn
+9	wrap	wrap	NN	_	5	dep
+10	,	,	,	_	9	punct
+11	vinyl	vinyl	NN	_	9	conj
+12	and	and	CC	_	9	cc
+13	much	much	RB	_	14	advmod
+14	more	more	RBR	_	9	conj
+15	.	.	.	_	5	punct
+

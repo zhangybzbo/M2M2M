@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	finished	finish	VBN	_	3	amod
+3	products	product	NNS	_	9	nsubjpass
+4	ordered	order	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	customer	customer	NN	_	5	pobj
+8	are	be	VBP	_	9	auxpass
+9	manufactured	manufacture	VBN	_	0	ROOT
+10	using	use	VBG	_	9	xcomp
+11	the	the	DT	_	13	det
+12	raw	raw	JJ	_	13	amod
+13	materials	material	NNS	_	10	dobj
+14	purchased	purchase	VBN	_	13	vmod
+15	from	from	IN	_	14	prep
+16	suppliers	supplier	NNS	_	15	pobj
+17	.	.	.	_	9	punct
+

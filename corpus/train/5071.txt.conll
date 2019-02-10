@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	brown	brown	JJ	_	3	amod
+3	areas	area	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	drought	drought	NN	_	6	pobj
+8	,	,	,	_	7	punct
+9	brown	brown	JJ	_	10	amod
+10	patch	patch	NN	_	7	conj
+11	,	,	,	_	7	punct
+12	take-all-patch	take-all-patch	NN	_	7	conj
+13	,	,	,	_	7	punct
+14	chinch	chinch	JJ	_	15	amod
+15	bugs	bug	NNS	_	7	conj
+16	or	or	CC	_	7	cc
+17	grubs	grub	NNS	_	7	conj
+18	.	.	.	_	5	punct
+

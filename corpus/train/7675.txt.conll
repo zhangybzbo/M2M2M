@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	effect	effect	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	pain	pain	NN	_	5	nn
+5	relief	relief	NN	_	3	pobj
+6	by	by	IN	_	2	prep
+7	acupuncture	acupuncture	NN	_	6	pobj
+8	lasts	last	VBZ	_	0	ROOT
+9	for	for	IN	_	8	prep
+10	an	a	DT	_	12	det
+11	extended	extended	JJ	_	12	amod
+12	period	period	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	time	time	NN	_	13	pobj
+15	,	,	,	_	8	punct
+16	sometimes	sometimes	RB	_	17	advmod
+17	months	month	NNS	_	8	dep
+18	after	after	IN	_	22	mark
+19	the	the	DT	_	20	det
+20	needle	needle	NN	_	22	nsubjpass
+21	was	be	VBD	_	22	auxpass
+22	removed	remove	VBN	_	17	advcl
+23	.	.	.	_	8	punct
+

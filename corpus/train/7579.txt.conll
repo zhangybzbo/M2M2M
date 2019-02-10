@@ -1,0 +1,16 @@
+1	Among	among	IN	_	7	prep
+2	them	they	PRP	_	1	pobj
+3	,	,	,	_	7	punct
+4	24	24	CD	_	5	num
+5	%	%	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	related	relate	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	microarrays	microarray	NNS	_	8	pobj
+10	fabricated	fabricate	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	microspotting	microspotting	NN	_	14	nn
+14	approach	approach	NN	_	11	pobj
+15	.	.	.	_	7	punct
+

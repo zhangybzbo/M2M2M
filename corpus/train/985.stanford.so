@@ -1,0 +1,13 @@
+0	80	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	9	tok id="t1" base="Sabah" pos="NNP" nn="t3"
+10	18	tok id="t2" base="Wildlife" pos="NNP" nn="t3"
+19	29	tok id="t3" base="Department" pos="NNP" nsubj="t5"
+30	33	tok id="t4" base="have" pos="VBZ" aux="t5"
+34	43	tok id="t5" base="implant" pos="VBN" ROOT="ROOT"
+44	56	tok id="t6" base="transmitter" pos="NNS" dobj="t5"
+57	61	tok id="t7" base="into" pos="IN" prep="t5"
+62	67	tok id="t8" base="three" pos="CD" num="t9"
+68	78	tok id="t9" base="orangutan" pos="NNS" pobj="t7"
+79	80	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

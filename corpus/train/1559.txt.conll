@@ -1,0 +1,21 @@
+1	Teachers	Teachers	NNPS	_	3	nsubj
+2	systematically	systematically	RB	_	3	advmod
+3	engage	engage	VBP	_	0	ROOT
+4	students	student	NNS	_	3	dobj
+5	in	in	IN	_	4	prep
+6	such	such	JJ	_	8	amod
+7	higher	higher	JJR	_	8	amod
+8	order	order	NN	_	10	dep
+9	cognitive	cognitive	JJ	_	10	amod
+10	skills	skill	NNS	_	5	pobj
+11	as	as	IN	_	3	prep
+12	analysis	analysis	NN	_	11	pobj
+13	and	and	CC	_	12	cc
+14	synthesis	synthesis	NN	_	12	conj
+15	of	of	IN	_	12	prep
+16	data	datum	NNS	_	15	pobj
+17	by	by	IN	_	3	prep
+18	using	use	VBG	_	17	pcomp
+19	statistics	statistics	NNS	_	18	dobj
+20	.	.	.	_	3	punct
+

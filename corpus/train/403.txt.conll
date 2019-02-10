@@ -1,0 +1,14 @@
+1	Cold	Cold	NNP	_	2	nn
+2	air	air	NN	_	6	nsubj
+3	at	at	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	surface	surface	NN	_	3	pobj
+6	moved	move	VBD	_	0	ROOT
+7	southward	southward	RB	_	6	advmod
+8	into	into	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	mountains	mountain	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	Colorado	Colorado	NNP	_	11	pobj
+13	.	.	.	_	6	punct
+

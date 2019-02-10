@@ -1,0 +1,10 @@
+0	40	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="these" pos="DT" nsubj="t2"
+6	9	tok id="t1" base="be" pos="VBP" cop="t2"
+10	19	tok id="t2" base="document" pos="NNS" ROOT="ROOT"
+20	22	tok id="t3" base="to" pos="TO" aux="t4"
+23	25	tok id="t4" base="do" pos="VB" vmod="t2"
+26	30	tok id="t5" base="with" pos="IN" prep="t4"
+31	38	tok id="t6" base="finance" pos="NN" pobj="t5"
+39	40	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

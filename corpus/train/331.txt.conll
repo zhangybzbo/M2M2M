@@ -1,0 +1,16 @@
+1	In	in	IN	_	12	prep
+2	a	a	DT	_	7	det
+3	cloudless	cloudless	JJ	_	7	amod
+4	,	,	,	_	7	punct
+5	new	new	JJ	_	7	amod
+6	moon	moon	NN	_	7	nn
+7	sky	sky	NN	_	1	pobj
+8	,	,	,	_	12	punct
+9	a	a	DT	_	11	det
+10	billion	billion	CD	_	11	num
+11	stars	star	NNS	_	12	nsubj
+12	lit	light	VBD	_	0	ROOT
+13	the	the	DT	_	14	det
+14	heavens	heaven	NNS	_	12	dobj
+15	.	.	.	_	12	punct
+

@@ -1,0 +1,14 @@
+1	Some	some	DT	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	movies	movie	NNS	_	2	pobj
+5	got	get	VBD	_	6	auxpass
+6	kicked	kick	VBN	_	0	ROOT
+7	out	out	RP	_	6	prt
+8	from	from	IN	_	6	prep
+9	the	the	DT	_	12	det
+10	most	most	RBS	_	11	advmod
+11	recent	recent	JJ	_	12	amod
+12	list	list	NN	_	8	pobj
+13	.	.	.	_	6	punct
+

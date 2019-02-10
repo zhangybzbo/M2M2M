@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	Declaration	Declaration	NNP	_	3	nsubj
+3	urged	urge	VBD	_	0	ROOT
+4	that	that	IN	_	7	mark
+5	such	such	JJ	_	6	amod
+6	strategies	strategy	NNS	_	7	nsubj
+7	address	address	VBP	_	3	ccomp
+8	the	the	DT	_	9	det
+9	root	root	NN	_	10	nsubj
+10	causes	cause	VBZ	_	7	ccomp
+11	and	and	CC	_	10	cc
+12	risk	risk	NN	_	13	nn
+13	factors	factor	NNS	_	10	conj
+14	of	of	IN	_	13	prep
+15	crime	crime	NN	_	14	pobj
+16	and	and	CC	_	15	cc
+17	victimization	victimization	NN	_	15	conj
+18	.	.	.	_	3	punct
+

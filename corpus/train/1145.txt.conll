@@ -1,0 +1,13 @@
+1	Hence	hence	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	6	det
+4	left	left	JJ	_	6	amod
+5	regular	regular	JJ	_	6	amod
+6	grammars	grammar	NNS	_	7	nsubj
+7	generate	generate	VBP	_	0	ROOT
+8	exactly	exactly	RB	_	11	advmod
+9	all	all	DT	_	11	det
+10	regular	regular	JJ	_	11	amod
+11	languages	language	NNS	_	7	dobj
+12	.	.	.	_	7	punct
+

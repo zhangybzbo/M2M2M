@@ -1,0 +1,20 @@
+1	More	more	JJR	_	2	mwe
+2	than	than	IN	_	3	quantmod
+3	40	40	CD	_	4	num
+4	years	year	NNS	_	6	nsubj
+5	have	have	VBP	_	6	aux
+6	passed	pass	VBN	_	0	ROOT
+7	since	since	IN	_	10	mark
+8	the	the	DT	_	9	det
+9	spacecraft	spacecraft	NN	_	10	nsubj
+10	departed	depart	VBD	_	6	advcl
+11	into	into	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	outer-space	outer-space	JJ	_	11	pobj
+14	with	with	IN	_	10	prep
+15	a	a	DT	_	17	det
+16	fuel	fuel	NN	_	17	nn
+17	cell	cell	NN	_	14	pobj
+18	on-board	on-board	JJ	_	17	amod
+19	.	.	.	_	6	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	restaurant	restaurant	NN	_	4	nsubj
+3	first	first	RB	_	4	advmod
+4	cleaned	clean	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	floor	floor	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	11	det
+9	company-approved	company-approved	JJ	_	11	amod
+10	cleaning	cleaning	NN	_	11	nn
+11	agent	agent	NN	_	7	pobj
+12	before	before	IN	_	17	mark
+13	the	the	DT	_	15	det
+14	COF	cof	NN	_	15	nn
+15	test	test	NN	_	17	nsubjpass
+16	was	be	VBD	_	17	auxpass
+17	conducted	conduct	VBN	_	4	advcl
+18	.	.	.	_	4	punct
+

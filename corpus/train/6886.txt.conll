@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	2	poss
+2	grandfather	grandfather	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	backyard	backyard	NN	_	8	nsubj
+5	is	be	VBZ	_	8	cop
+6	an	a	DT	_	8	det
+7	absolute	absolute	JJ	_	8	amod
+8	jungle	jungle	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	old	old	JJ	_	12	amod
+11	wrecked	wreck	VBN	_	12	amod
+12	cars	car	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

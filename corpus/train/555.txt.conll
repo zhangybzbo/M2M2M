@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det
+2	machine	machine	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	two	two	CD	_	6	num
+5	heating	heating	NN	_	6	nn
+6	units	unit	NNS	_	3	dobj
+7	and	and	CC	_	6	cc
+8	two	two	CD	_	10	num
+9	cooling	cool	VBG	_	10	amod
+10	units	unit	NNS	_	6	conj
+11	.	.	.	_	3	punct
+

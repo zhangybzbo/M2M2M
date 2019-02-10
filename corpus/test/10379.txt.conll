@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	events	event	NNS	_	6	nsubj
+3	at	at	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	trial	trial	NN	_	3	pobj
+6	caused	cause	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	dissolution	dissolution	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Communist	Communist	NNP	_	12	nn
+12	League	League	NNP	_	9	pobj
+13	,	,	,	_	6	punct
+14	and	and	CC	_	6	cc
+15	a	a	DT	_	17	det
+16	general	general	JJ	_	17	amod
+17	dampening	dampening	NN	_	6	conj
+18	of	of	IN	_	17	prep
+19	revolutionary	revolutionary	JJ	_	20	amod
+20	activity	activity	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

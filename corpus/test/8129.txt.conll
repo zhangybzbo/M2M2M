@@ -1,0 +1,26 @@
+1	In	in	IN	_	7	prep
+2	its	its	PRP$	_	4	poss
+3	early	early	JJ	_	4	amod
+4	years	year	NNS	_	1	pobj
+5	the	the	DT	_	6	det
+6	farm	farm	NN	_	7	nsubj
+7	had	have	VBD	_	0	ROOT
+8	forty	forty	CD	_	9	num
+9	acres	acre	NNS	_	7	dobj
+10	,	,	,	_	7	punct
+11	and	and	CC	_	7	cc
+12	was	be	VBD	_	16	cop
+13	a	a	DT	_	16	det
+14	productive	productive	JJ	_	16	amod
+15	subsistence	subsistence	NN	_	16	nn
+16	farm	farm	NN	_	7	conj
+17	with	with	IN	_	16	prep
+18	sheep	sheep	NN	_	22	nsubj
+19	being	be	VBG	_	22	cop
+20	the	the	DT	_	22	det
+21	primary	primary	JJ	_	22	amod
+22	source	source	NN	_	17	pcomp
+23	of	of	IN	_	22	prep
+24	income	income	NN	_	23	pobj
+25	.	.	.	_	7	punct
+

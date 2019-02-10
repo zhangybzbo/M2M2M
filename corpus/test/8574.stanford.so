@@ -1,0 +1,13 @@
+0	53	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="blood" pos="NN" nsubj="t1"
+6	16	tok id="t1" base="splatter" pos="VBD" ROOT="ROOT"
+17	20	tok id="t2" base="he" pos="PRP$" poss="t3"
+21	26	tok id="t3" base="boot" pos="NNS" dobj="t1"
+27	31	tok id="t4" base="from" pos="IN" prep="t1"
+32	35	tok id="t5" base="the" pos="DT" det="t6"
+36	40	tok id="t6" base="nose" pos="NN" pobj="t4"
+41	43	tok id="t7" base="of" pos="IN" prep="t6"
+44	47	tok id="t8" base="the" pos="DT" det="t9"
+48	51	tok id="t9" base="man" pos="NN" pobj="t7"
+52	53	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,25 @@
+1	He	he	PRP	_	7	nsubj
+2	was	be	VBD	_	7	cop
+3	a	a	DT	_	7	det
+4	solo	solo	NN	_	7	nn
+5	double	double	JJ	_	7	amod
+6	bass	bass	NN	_	7	nn
+7	player	player	NN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	symphony	symphony	NN	_	11	nn
+11	orchestra	orchestra	NN	_	8	pobj
+12	;	;	:	_	7	punct
+13	at	at	IN	_	7	dep
+14	that	that	DT	_	15	det
+15	time	time	NN	_	13	pobj
+16	that	that	WDT	_	19	nsubj
+17	was	be	VBD	_	19	cop
+18	almost	almost	RB	_	19	advmod
+19	impossible	impossible	JJ	_	13	dep
+20	due	due	JJ	_	21	mwe
+21	to	to	TO	_	19	prep
+22	racist	racist	JJ	_	23	amod
+23	reasons	reason	NNS	_	21	pobj
+24	.	.	.	_	7	punct
+

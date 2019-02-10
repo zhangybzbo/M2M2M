@@ -1,0 +1,19 @@
+1	James	James	NNP	_	2	nn
+2	Ford	Ford	NNP	_	10	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	8	det
+5	sculptor	sculptor	NN	_	8	nn
+6	and	and	CC	_	5	cc
+7	print	print	NN	_	5	conj
+8	maker	maker	NN	_	2	appos
+9	,	,	,	_	2	punct
+10	died	die	VBD	_	0	ROOT
+11	on	on	IN	_	10	prep
+12	Tuesday	Tuesday	NNP	_	11	pobj
+13	at	at	IN	_	10	prep
+14	his	he	PRP$	_	15	poss
+15	home	home	NN	_	13	pobj
+16	in	in	IN	_	15	prep
+17	Manhattan	Manhattan	NNP	_	16	pobj
+18	.	.	.	_	10	punct
+

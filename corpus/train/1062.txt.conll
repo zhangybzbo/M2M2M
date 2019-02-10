@@ -1,0 +1,24 @@
+1	He	he	PRP	_	2	nsubj
+2	schose	schose	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	better	better	JJR	_	5	amod
+5	approach	approach	NN	_	2	dobj
+6	:	:	:	_	5	punct
+7	to	to	TO	_	9	aux
+8	be	be	VB	_	9	cop
+9	honest	honest	JJ	_	5	dep
+10	and	and	CC	_	9	cc
+11	understanding	understanding	NN	_	9	conj
+12	and	and	CC	_	9	cc
+13	to	to	TO	_	14	aux
+14	acknowledge	acknowledge	VB	_	9	conj
+15	the	the	DT	_	16	det
+16	distress	distress	NN	_	14	dobj
+17	caused	cause	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	hallucinations	hallucination	NNS	_	18	pobj
+21	or	or	CC	_	20	cc
+22	delusions	delusion	NNS	_	20	conj
+23	.	.	.	_	2	punct
+

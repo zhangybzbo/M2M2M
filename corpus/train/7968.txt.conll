@@ -1,0 +1,20 @@
+1	But	but	CC	_	5	cc
+2	Hong	Hong	NNP	_	3	nn
+3	Kong	Kong	NNP	_	5	nsubj
+4	was	be	VBD	_	5	cop
+5	able	able	JJ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	recover	recover	VB	_	5	xcomp
+8	from	from	IN	_	7	prep
+9	that	that	DT	_	8	pobj
+10	and	and	CC	_	5	cc
+11	is	be	VBZ	_	13	aux
+12	now	now	RB	_	13	advmod
+13	experiencing	experience	VBG	_	5	conj
+14	strong	strong	JJ	_	16	amod
+15	economic	economic	JJ	_	16	amod
+16	growth	growth	NN	_	13	dobj
+17	from	from	IN	_	16	prep
+18	exports	export	NNS	_	17	pobj
+19	.	.	.	_	5	punct
+

@@ -1,0 +1,25 @@
+1	He	he	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	had	have	VBD	_	0	ROOT
+4	access	access	NN	_	3	dobj
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	7	det
+7	sounder	sounder	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	fat	fat	JJ	_	10	amod
+10	pigs	pig	NNS	_	8	pobj
+11	upon	upon	IN	_	7	prep
+12	which	which	WDT	_	11	pobj
+13	the	the	DT	_	14	det
+14	humans	human	NNS	_	11	dep
+15	feasted	feast	VBN	_	14	vmod
+16	upon	upon	IN	_	15	prep
+17	in	in	IN	_	16	pcomp
+18	celebration	celebration	NN	_	17	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	23	det
+21	newly	newly	RB	_	22	advmod
+22	expanded	expand	VBN	_	23	amod
+23	farmland	farmland	NN	_	19	pobj
+24	.	.	.	_	3	punct
+

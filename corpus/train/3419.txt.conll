@@ -1,0 +1,20 @@
+1	Production	production	NN	_	8	nsubj
+2	and	and	CC	_	1	cc
+3	investigation	investigation	NN	_	1	conj
+4	of	of	IN	_	3	prep
+5	such	such	PDT	_	7	predet
+6	a	a	DT	_	7	det
+7	detector	detector	NN	_	4	pobj
+8	arose	arise	VBD	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	an	a	DT	_	12	det
+11	inadequate	inadequate	JJ	_	12	amod
+12	sensitivity	sensitivity	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	18	det
+15	commercial	commercial	JJ	_	18	amod
+16	p-type	p-type	JJ	_	18	amod
+17	Si	Si	NNP	_	18	nn
+18	detector	detector	NN	_	13	pobj
+19	.	.	.	_	8	punct
+

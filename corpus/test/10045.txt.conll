@@ -1,0 +1,14 @@
+1	One	one	CD	_	3	num
+2	cat	cat	NN	_	3	nn
+3	pats	pat	NNS	_	0	ROOT
+4	another	another	DT	_	5	det
+5	individual	individual	JJ	_	3	dep
+6	with	with	IN	_	5	prep
+7	its	its	PRP$	_	8	poss
+8	forepaw	forepaw	NN	_	6	pobj
+9	,	,	,	_	5	punct
+10	keeping	keep	VBG	_	5	vmod
+11	claws	claw	NNS	_	12	nsubj
+12	retracted	retract	VBN	_	10	ccomp
+13	.	.	.	_	3	punct
+

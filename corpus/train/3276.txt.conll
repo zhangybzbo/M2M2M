@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	northern	northern	JJ	_	3	amod
+3	half	half	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	block	block	NN	_	4	pobj
+7	includes	include	VBZ	_	0	ROOT
+8	a	a	DT	_	10	det
+9	parking	parking	NN	_	10	nn
+10	structure	structure	NN	_	7	dobj
+11	with	with	IN	_	10	prep
+12	five	five	CD	_	13	num
+13	levels	level	NNS	_	11	pobj
+14	.	.	.	_	7	punct
+

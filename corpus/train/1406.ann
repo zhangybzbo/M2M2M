@@ -1,0 +1,3 @@
+T1	Term 181 188	disease
+T2	Term 212 220	refugees
+R1	Cause-Effect Arg1:T2 Arg2:T1

@@ -1,0 +1,15 @@
+1	She	she	PRP	_	3	nsubj
+2	got	get	VBD	_	3	aux
+3	rid	rid	JJ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	ants	ant	NNS	_	4	pobj
+7	in	in	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	kitchen	kitchen	NN	_	7	pobj
+10	without	without	IN	_	3	prep
+11	using	use	VBG	_	10	pcomp
+12	dangerous	dangerous	JJ	_	13	amod
+13	pesticides	pesticide	NNS	_	11	dobj
+14	.	.	.	_	3	punct
+

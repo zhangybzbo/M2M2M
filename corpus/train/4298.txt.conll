@@ -1,0 +1,12 @@
+1	22	22	CD	_	4	num
+2	traditional	traditional	JJ	_	4	amod
+3	dancing	dancing	NN	_	4	nn
+4	ensembles	ensemble	NNS	_	5	nsubj
+5	participated	participate	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	festival	festival	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	Razlog	razlog	NN	_	9	pobj
+11	.	.	.	_	5	punct
+

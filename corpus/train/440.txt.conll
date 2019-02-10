@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	pin	pin	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	connector	connector	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	inserted	insert	VBN	_	0	ROOT
+8	through	through	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	hole	hole	NN	_	8	pobj
+11	and	and	CC	_	7	cc
+12	connected	connect	VBN	_	7	conj
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	16	det
+15	microstrip	microstrip	NN	_	16	nn
+16	circuit	circuit	NN	_	13	pobj
+17	.	.	.	_	7	punct
+

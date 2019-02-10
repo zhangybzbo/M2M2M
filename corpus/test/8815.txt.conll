@@ -1,0 +1,27 @@
+1	Sterile	sterile	JJ	_	3	amod
+2	distilled	distilled	JJ	_	3	amod
+3	water	water	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	inside	inside	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	fifth	fifth	JJ	_	9	amod
+9	well	well	NN	_	6	pobj
+10	to	to	TO	_	11	aux
+11	serve	serve	VB	_	5	xcomp
+12	as	as	IN	_	11	prep
+13	negative	negative	JJ	_	14	amod
+14	control	control	NN	_	12	pobj
+15	while	while	IN	_	18	mark
+16	gentamicin	gentamicin	NN	_	18	nsubjpass
+17	was	be	VBD	_	18	auxpass
+18	used	use	VBN	_	5	advcl
+19	as	as	IN	_	18	prep
+20	positive	positive	JJ	_	21	amod
+21	control	control	NN	_	19	pobj
+22	in	in	IN	_	18	prep
+23	the	the	DT	_	25	det
+24	fourth	fourth	JJ	_	25	amod
+25	well	well	NN	_	22	pobj
+26	.	.	.	_	5	punct
+

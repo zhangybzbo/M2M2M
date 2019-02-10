@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	box	box	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	9	det
+6	plain	plain	JJ	_	9	amod
+7	brown	brown	JJ	_	9	amod
+8	paper	paper	NN	_	9	nn
+9	bag	bag	NN	_	4	pobj
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	heart	heart	NN	_	10	pobj
+13	drawn	draw	VBN	_	12	vmod
+14	on	on	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	side	side	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

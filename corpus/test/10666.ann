@@ -1,0 +1,3 @@
+T1	Term 28 42	polynucleotide
+T2	Term 73 80	species
+R1	Entity-Origin Arg1:T1 Arg2:T2

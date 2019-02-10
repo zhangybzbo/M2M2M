@@ -1,0 +1,13 @@
+1	Radial	radial	JJ	_	3	amod
+2	mixing	mix	VBG	_	3	amod
+3	processes	process	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	transported	transport	VBN	_	0	ROOT
+6	such	such	JJ	_	7	amod
+7	material	material	NN	_	5	dobj
+8	into	into	IN	_	5	prep
+9	outer	outer	JJ	_	11	amod
+10	disc	disc	NN	_	11	nn
+11	regions	region	NNS	_	8	pobj
+12	.	.	.	_	5	punct
+

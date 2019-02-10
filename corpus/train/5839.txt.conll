@@ -1,0 +1,23 @@
+1	On	on	IN	_	10	prep
+2	a	a	DT	_	5	det
+3	clear	clear	JJ	_	5	amod
+4	fall	fall	NN	_	5	nn
+5	night	night	NN	_	1	pobj
+6	,	,	,	_	10	punct
+7	the	the	DT	_	8	det
+8	president	president	NN	_	10	nsubj
+9	had	have	VBD	_	10	aux
+10	traveled	travel	VBN	_	0	ROOT
+11	to	to	TO	_	10	prep
+12	Dover	Dover	NNP	_	11	pobj
+13	on	on	IN	_	10	prep
+14	a	a	DT	_	17	det
+15	40-minute	40-minute	JJ	_	17	amod
+16	helicopter	helicopter	NN	_	17	nn
+17	ride	ride	NN	_	13	pobj
+18	from	from	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	White	White	NNP	_	21	nn
+21	House	House	NNP	_	18	pobj
+22	.	.	.	_	10	punct
+

@@ -1,0 +1,22 @@
+1	When	when	WRB	_	4	advmod
+2	it	it	PRP	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	ready	ready	JJ	_	8	advcl
+5	,	,	,	_	8	punct
+6	my	my	PRP$	_	7	poss
+7	coffee	coffee	NN	_	8	nsubj
+8	arrived	arrive	VBD	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	mug	mug	NN	_	9	pobj
+12	instead	instead	RB	_	13	advmod
+13	of	of	IN	_	8	prep
+14	to	to	TO	_	15	aux
+15	go	go	VB	_	13	pcomp
+16	as	as	IN	_	19	mark
+17	I	I	PRP	_	19	nsubj
+18	had	have	VBD	_	19	aux
+19	ordered	order	VBN	_	15	advcl
+20	it	it	PRP	_	19	dobj
+21	.	.	.	_	8	punct
+

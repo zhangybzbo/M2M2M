@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	kids	kid	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	blowing	blow	VBG	_	0	ROOT
+5	bubbles	bubble	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	air	air	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

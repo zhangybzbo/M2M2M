@@ -1,0 +1,17 @@
+1	Such	such	JJ	_	2	amod
+2	ideas	idea	NNS	_	11	nsubj
+3	and	and	CC	_	2	cc
+4	technologies	technology	NNS	_	2	conj
+5	from	from	IN	_	2	prep
+6	the	the	DT	_	9	det
+7	functional	functional	JJ	_	9	amod
+8	language	language	NN	_	9	nn
+9	community	community	NN	_	5	pobj
+10	are	be	VBP	_	11	aux
+11	migrating	migrate	VBG	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	mainstream	mainstream	NN	_	15	nn
+14	software	software	NN	_	15	nn
+15	engineering	engineering	NN	_	12	pobj
+16	.	.	.	_	11	punct
+

@@ -1,0 +1,11 @@
+1	Eucharist	Eucharist	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	source	source	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	Church	Church	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	mission	mission	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

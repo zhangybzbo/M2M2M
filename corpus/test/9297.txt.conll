@@ -1,0 +1,11 @@
+1	Accidentally	accidentally	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	my	my	PRP$	_	5	poss
+4	remote	remote	JJ	_	5	amod
+5	control	control	NN	_	6	nsubj
+6	fell	fall	VBD	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	water	water	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

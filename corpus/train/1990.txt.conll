@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	Appellant	Appellant	NNP	_	3	nsubj
+3	noticed	notice	VBD	_	0	ROOT
+4	that	that	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	switch	switch	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	circuit	circuit	NN	_	10	nn
+10	breaker	breaker	NN	_	7	pobj
+11	which	which	WDT	_	12	nsubj
+12	feeds	feed	VBZ	_	10	rcmod
+13	440	440	CD	_	16	num
+14	volts	volt	NNS	_	16	nn
+15	A.C.	A.C.	NNP	_	16	nn
+16	power	power	NN	_	12	dobj
+17	to	to	TO	_	12	prep
+18	the	the	DT	_	20	det
+19	main	main	JJ	_	20	amod
+20	switchboard	switchboard	NN	_	17	pobj
+21	in	in	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	engine	engine	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

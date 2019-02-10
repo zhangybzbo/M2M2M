@@ -1,0 +1,12 @@
+0	73	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="effective" pos="JJ" amod="t2"
+10	16	tok id="t1" base="canolum" pos="NN" nn="t2"
+17	27	tok id="t2" base="production" pos="NN" nsubj="t3"
+28	36	tok id="t3" base="require" pos="VBZ" ROOT="ROOT"
+37	45	tok id="t4" base="hands-on" pos="JJ" amod="t5"
+46	57	tok id="t5" base="involvement" pos="NN" dobj="t3"
+58	62	tok id="t6" base="with" pos="IN" prep="t5"
+63	66	tok id="t7" base="the" pos="DT" det="t8"
+67	71	tok id="t8" base="crop" pos="NN" pobj="t6"
+72	73	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

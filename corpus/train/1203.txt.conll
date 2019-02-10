@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	baby	baby	NN	_	3	nn
+3	tapir	tapir	NN	_	4	nsubj
+4	snorgled	snorgle	VBD	_	0	ROOT
+5	its	its	PRP$	_	6	poss
+6	snout	snout	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	basket	basket	NN	_	7	pobj
+10	full	full	JJ	_	9	amod
+11	of	of	IN	_	10	prep
+12	cuddly	cuddly	JJ	_	14	amod
+13	baby	baby	NN	_	14	nn
+14	bunnies	bunny	NNS	_	11	pobj
+15	.	.	.	_	4	punct
+

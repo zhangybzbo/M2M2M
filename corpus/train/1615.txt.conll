@@ -1,0 +1,21 @@
+1	He	he	PRP	_	2	nsubj
+2	draged	drage	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	nail	nail	NN	_	2	dobj
+5	on	on	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	head	head	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	snake	snake	NN	_	8	pobj
+11	and	and	CC	_	2	cc
+12	then	then	RB	_	13	advmod
+13	clicked	click	VBD	_	2	conj
+14	the	the	DT	_	15	det
+15	switch	switch	NN	_	13	dobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	tape	tape	NN	_	19	nn
+19	recorder	recorder	NN	_	16	pobj
+20	.	.	.	_	2	punct
+

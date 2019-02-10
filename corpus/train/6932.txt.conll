@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	miscarriages	miscarriage	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	one	one	CD	_	7	num
+7	time	time	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	non-repeating	non-repeating	JJ	_	11	amod
+10	genetic	genetic	JJ	_	11	amod
+11	problems	problem	NNS	_	4	dobj
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	Hitchcock	Hitchcock	NNP	_	2	nsubj
+2	drew	draw	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	20-year-old	20-year-old	JJ	_	6	amod
+6	novel	novel	NN	_	3	pobj
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	future	future	JJ	_	10	amod
+10	governor-general	governor-general	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	Canada	Canada	NNP	_	11	pobj
+13	,	,	,	_	15	punct
+14	John	John	NNP	_	15	nn
+15	Buchan	Buchan	NNP	_	2	dobj
+16	.	.	.	_	2	punct
+

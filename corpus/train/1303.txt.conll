@@ -1,0 +1,23 @@
+1	MFX	MFX	NNP	_	2	nn
+2	colours	colour	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	implemented	implement	VBN	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	design	design	NN	_	8	nn
+8	stage	stage	NN	_	5	pobj
+9	,	,	,	_	8	punct
+10	where	where	WRB	_	13	advmod
+11	the	the	DT	_	12	det
+12	designer	designer	NN	_	13	nsubj
+13	creates	create	VBZ	_	8	rcmod
+14	artwork	artwork	NN	_	13	dobj
+15	using	use	VBG	_	13	xcomp
+16	the	the	DT	_	19	det
+17	MetalFX	MetalFX	NNP	_	19	nn
+18	colour	colour	NN	_	19	nn
+19	palettes	palette	NNS	_	15	dobj
+20	and	and	CC	_	19	cc
+21	actions	action	NNS	_	19	conj
+22	.	.	.	_	4	punct
+

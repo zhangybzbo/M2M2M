@@ -1,0 +1,21 @@
+1	Although	although	IN	_	4	mark
+2	most	most	JJS	_	3	amod
+3	scientists	scientist	NNS	_	4	nsubj
+4	suspected	suspect	VBN	_	0	ROOT
+5	that	that	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	virus	virus	NN	_	8	nsubj
+8	descended	descend	VBD	_	4	ccomp
+9	from	from	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	primate	primate	JJ	_	12	amod
+12	species	species	NNS	_	9	pobj
+13	,	,	,	_	16	punct
+14	only	only	RB	_	15	quantmod
+15	three	three	CD	_	16	num
+16	chimpanzees	chimpanzee	NNS	_	4	dep
+17	infected	infect	VBN	_	16	vmod
+18	with	with	IN	_	17	prep
+19	viruses	virus	NNS	_	18	pobj
+20	.	.	.	_	16	punct
+

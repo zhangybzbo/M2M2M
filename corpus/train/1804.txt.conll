@@ -1,0 +1,12 @@
+1	Accidentally	accidentally	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	I	I	PRP	_	4	nsubj
+4	poured	pour	VBD	_	0	ROOT
+5	too	too	RB	_	6	advmod
+6	much	much	JJ	_	7	amod
+7	sugar	sugar	NN	_	4	dobj
+8	into	into	IN	_	4	prep
+9	my	my	PRP$	_	10	poss
+10	tea	tea	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	event	event	NN	_	3	nsubj
+3	featured	feature	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	demonstration	demonstration	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	weaving	weave	VBG	_	6	pcomp
+8	on	on	IN	_	7	prep
+9	a	a	DT	_	8	pobj
+10	loom	loom	VBP	_	9	vmod
+11	by	by	IN	_	10	prep
+12	local	local	JJ	_	15	amod
+13	weaver	weaver	NN	_	15	nn
+14	Nancy	Nancy	NNP	_	15	nn
+15	Alexander	Alexander	NNP	_	11	pobj
+16	.	.	.	_	3	punct
+

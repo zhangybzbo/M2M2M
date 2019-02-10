@@ -1,0 +1,9 @@
+1	He	he	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	revellers	reveller	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	party	party	NN	_	7	nn
+7	mode	mode	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

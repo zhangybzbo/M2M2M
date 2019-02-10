@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	original	original	JJ	_	3	amod
+3	play	play	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	filled	fill	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	very	very	RB	_	8	advmod
+8	topical	topical	JJ	_	9	amod
+9	humor	humor	NN	_	6	pobj
+10	,	,	,	_	5	punct
+11	so	so	IN	_	14	mark
+12	the	the	DT	_	13	det
+13	director	director	NN	_	14	nsubj
+14	felt	feel	VBD	_	5	advcl
+15	free	free	JJ	_	14	acomp
+16	to	to	TO	_	17	aux
+17	add	add	VB	_	15	xcomp
+18	current	current	JJ	_	20	amod
+19	topical	topical	JJ	_	20	amod
+20	humor	humor	NN	_	17	dobj
+21	to	to	TO	_	17	prep
+22	the	the	DT	_	23	det
+23	script	script	NN	_	21	pobj
+24	.	.	.	_	5	punct
+

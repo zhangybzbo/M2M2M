@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	remember	remember	VBP	_	0	ROOT
+3	there	there	EX	_	4	expl
+4	being	be	VBG	_	2	ccomp
+5	an	a	DT	_	6	det
+6	uproar	uproar	NN	_	4	nsubj
+7	because	because	IN	_	10	mark
+8	the	the	DT	_	9	det
+9	video	video	NN	_	10	nsubj
+10	got	get	VBD	_	4	advcl
+11	out	out	RP	_	10	prt
+12	from	from	IN	_	10	prep
+13	an	a	DT	_	15	det
+14	apartment	apartment	NN	_	15	nn
+15	complex	complex	NN	_	12	pobj
+16	and	and	CC	_	4	cc
+17	was	be	VBD	_	19	auxpass
+18	n't	not	RB	_	19	neg
+19	suppsoed	suppsoe	VBN	_	4	conj
+20	to	to	TO	_	19	xcomp
+21	.	.	.	_	2	punct
+

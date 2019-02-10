@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	diamond	diamond	NN	_	3	nn
+3	ring	ring	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	dropped	drop	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	trick-or-treater	trick-or-treater	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	bag	bag	NN	_	6	pobj
+11	.	.	.	_	5	punct
+

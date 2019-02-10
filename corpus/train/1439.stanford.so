@@ -1,0 +1,10 @@
+0	46	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="we" pos="PRP" nsubj="t6"
+3	6	tok id="t1" base="be" pos="VBP" cop="t6"
+7	8	tok id="t2" base="a" pos="DT" det="t6"
+9	18	tok id="t3" base="petroleum" pos="NN" nn="t6"
+19	22	tok id="t4" base="and" pos="CC" cc="t3"
+23	36	tok id="t5" base="petrochemical" pos="NN" conj="t3"
+37	44	tok id="t6" base="company" pos="NN" ROOT="ROOT"
+45	46	tok id="t7" base="-PERIOD-" pos="." punct="t6"
+

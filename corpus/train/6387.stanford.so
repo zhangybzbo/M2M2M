@@ -1,0 +1,12 @@
+0	51	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="student" pos="NNS" ROOT="ROOT"
+13	21	tok id="t2" base="label" pos="VBN" vmod="t1"
+22	25	tok id="t3" base="the" pos="DT" det="t5"
+26	28	tok id="t4" base="13" pos="CD" num="t5"
+29	37	tok id="t5" base="colony" pos="NNS" dobj="t2"
+38	43	tok id="t6" base="use" pos="VBG" vmod="t1"
+44	45	tok id="t7" base="a" pos="DT" det="t8"
+46	49	tok id="t8" base="map" pos="NN" dobj="t6"
+50	51	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	queen	queen	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	put	put	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	her	she	PRP$	_	7	poss
+7	cage	cage	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	then	then	RB	_	10	advmod
+10	placed	place	VBN	_	4	conj
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	box	box	NN	_	11	pobj
+14	with	with	IN	_	10	prep
+15	a	a	DT	_	16	det
+16	bunch	bunch	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	worker	worker	NN	_	19	nn
+19	bees	bee	NNS	_	17	pobj
+20	four	four	CD	_	21	num
+21	days	day	NNS	_	22	npadvmod
+22	ago	ago	RB	_	10	advmod
+23	.	.	.	_	4	punct
+

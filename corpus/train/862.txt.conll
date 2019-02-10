@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	store	store	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	tops	top	NNS	_	2	dobj
+5	for	for	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	containers	container	NNS	_	5	pobj
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	shallow	shallow	JJ	_	11	amod
+11	drawer	drawer	NN	_	8	pobj
+12	to	to	TO	_	13	aux
+13	reduce	reduce	VB	_	2	vmod
+14	the	the	DT	_	15	det
+15	clutter	clutter	NN	_	13	dobj
+16	.	.	.	_	2	punct
+

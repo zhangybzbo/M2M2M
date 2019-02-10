@@ -1,0 +1,24 @@
+1	A	a	DT	_	5	det
+2	really	really	RB	_	3	advmod
+3	enjoyable	enjoyable	JJ	_	5	amod
+4	drinking	drinking	NN	_	5	nn
+5	experience	experience	NN	_	0	ROOT
+6	ensued	ensue	VBN	_	5	vmod
+7	from	from	IN	_	10	mark
+8	this	this	DT	_	9	det
+9	red	red	JJ	_	10	nsubj
+10	blend	blend	VB	_	6	ccomp
+11	from	from	IN	_	10	prep
+12	this	this	DT	_	14	det
+13	boutique	boutique	NN	_	14	nn
+14	winery	winery	NN	_	11	pobj
+15	from	from	IN	_	10	prep
+16	the	the	DT	_	18	det
+17	Cowra	Cowra	NNP	_	18	nn
+18	area	area	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	Central	Central	NNP	_	22	nn
+21	Western	Western	NNP	_	22	nn
+22	NSW	NSW	NNP	_	19	pobj
+23	.	.	.	_	5	punct
+

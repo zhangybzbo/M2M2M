@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	lady	lady	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	photocopies	photocopy	NNS	_	3	dobj
+6	,	,	,	_	3	punct
+7	pushed	push	VBD	_	3	conj
+8	a	a	DT	_	11	det
+9	few	few	JJ	_	11	amod
+10	more	more	JJR	_	11	amod
+11	keys	key	NNS	_	7	dobj
+12	on	on	IN	_	11	prep
+13	her	she	PRP$	_	14	poss
+14	computer	computer	NN	_	12	pobj
+15	,	,	,	_	3	punct
+16	and	and	CC	_	3	cc
+17	shuffled	shuffle	VBD	_	3	conj
+18	some	some	DT	_	19	det
+19	papers	papers	NNS	_	17	dobj
+20	around	around	IN	_	17	advmod
+21	.	.	.	_	3	punct
+

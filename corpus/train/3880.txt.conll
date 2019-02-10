@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	get	get	VB	_	2	xcomp
+5	terrible	terrible	JJ	_	6	amod
+6	headaches	headache	NNS	_	4	dobj
+7	from	from	IN	_	4	prep
+8	sinus	sinus	NN	_	7	pobj
+9	and	and	CC	_	8	cc
+10	infections	infection	NNS	_	8	conj
+11	that	that	WDT	_	12	nsubj
+12	resulted	result	VBD	_	4	dep
+13	in	in	IN	_	12	prep
+14	taking	take	VBG	_	13	pcomp
+15	antibiotics	antibiotic	NNS	_	14	dobj
+16	a	a	DT	_	18	det
+17	few	few	JJ	_	18	amod
+18	times	time	NNS	_	14	tmod
+19	a	a	DT	_	20	det
+20	year	year	NN	_	18	npadvmod
+21	.	.	.	_	2	punct
+

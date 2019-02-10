@@ -1,0 +1,15 @@
+1	These	these	DT	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	all	all	DT	_	4	det
+4	symptoms	symptom	NNS	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	muscle	muscle	NN	_	8	nn
+8	paralysis	paralysis	NN	_	5	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	bacterial	bacterial	JJ	_	13	amod
+13	toxin	toxin	NN	_	10	pobj
+14	.	.	.	_	4	punct
+

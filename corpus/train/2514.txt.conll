@@ -1,0 +1,21 @@
+1	Details	detail	NNS	_	13	nsubj
+2	about	about	IN	_	1	prep
+3	how	how	WRB	_	7	advmod
+4	Catholic	catholic	JJ	_	6	amod
+5	Church	Church	NNP	_	6	nn
+6	dioceses	diocese	NNS	_	7	nsubj
+7	dealt	deal	VBD	_	2	pcomp
+8	with	with	IN	_	7	prep
+9	allegations	allegation	NNS	_	8	pobj
+10	of	of	IN	_	9	prep
+11	child	child	NN	_	12	nn
+12	abuse	abuse	NN	_	10	pobj
+13	are	be	VBP	_	0	ROOT
+14	to	to	TO	_	15	aux
+15	emerge	emerge	VB	_	13	xcomp
+16	within	within	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	coming	come	VBG	_	19	amod
+19	weeks	week	NNS	_	16	pobj
+20	.	.	.	_	13	punct
+

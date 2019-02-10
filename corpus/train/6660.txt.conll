@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	workers	worker	NNS	_	5	nsubj
+3	have	have	VBP	_	5	aux
+4	accidentally	accidentally	RB	_	5	advmod
+5	placed	place	VBN	_	0	ROOT
+6	exeretonevra	exeretonevra	NN	_	5	dobj
+7	into	into	IN	_	5	prep
+8	several	several	JJ	_	9	amod
+9	families	family	NNS	_	7	pobj
+10	.	.	.	_	5	punct
+

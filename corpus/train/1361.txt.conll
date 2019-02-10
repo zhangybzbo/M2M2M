@@ -1,0 +1,26 @@
+1	On	on	IN	_	0	ROOT
+2	the	the	DT	_	4	det
+3	studio	studio	NN	_	4	nn
+4	version	version	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	8	det
+7	song	song	NN	_	8	nn
+8	breaks	break	NNS	_	1	dep
+9	wide	wide	JJ	_	10	amod
+10	open	open	JJ	_	8	amod
+11	after	after	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	second	second	JJ	_	14	amod
+14	chorus	chorus	NN	_	11	pobj
+15	with	with	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	string	string	NN	_	18	nn
+18	section	section	NN	_	15	pobj
+19	as	as	IN	_	21	mark
+20	Ryan	Ryan	NNP	_	21	nsubj
+21	rips	rip	VBZ	_	18	advcl
+22	up	up	RP	_	21	prt
+23	the	the	DT	_	24	det
+24	harmonica	harmonica	NN	_	21	dobj
+25	.	.	.	_	8	punct
+

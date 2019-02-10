@@ -1,0 +1,14 @@
+1	Driving	drive	VBG	_	5	csubj
+2	with	with	IN	_	1	prep
+3	sleep	sleep	NN	_	4	nn
+4	deprivation	deprivation	NN	_	2	pobj
+5	has	have	VBZ	_	0	ROOT
+6	similar	similar	JJ	_	7	amod
+7	effects	effect	NNS	_	5	dobj
+8	as	as	IN	_	5	prep
+9	driving	drive	VBG	_	8	pcomp
+10	under	under	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	influence	influence	NN	_	10	pobj
+13	.	.	.	_	5	punct
+

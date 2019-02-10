@@ -1,0 +1,18 @@
+1	Auto	auto	NN	_	2	nn
+2	ads	ad	NNS	_	6	nsubj
+3	during	during	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	period	period	NN	_	3	pobj
+6	tended	tend	VBD	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	feature	feature	VB	_	6	xcomp
+9	the	the	DT	_	10	det
+10	beauty	beauty	NN	_	8	dobj
+11	and	and	CC	_	10	cc
+12	engineering	engineering	NN	_	13	nn
+13	strength	strength	NN	_	10	conj
+14	of	of	IN	_	10	prep
+15	the	the	DT	_	16	det
+16	vehicle	vehicle	NN	_	14	pobj
+17	.	.	.	_	6	punct
+

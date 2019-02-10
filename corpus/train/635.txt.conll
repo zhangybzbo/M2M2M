@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	stuffed	stuff	VBD	_	0	ROOT
+3	cash	cash	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	his	he	PRP$	_	6	poss
+6	shirt	shirt	NN	_	4	pobj
+7	as	as	IN	_	9	mark
+8	he	he	PRP	_	9	nsubj
+9	fled	flee	VBD	_	2	advcl
+10	the	the	DT	_	11	det
+11	robbery	robbery	NN	_	9	dobj
+12	.	.	.	_	2	punct
+

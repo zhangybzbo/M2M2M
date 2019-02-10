@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj
+2	mixed	mix	VBD	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	the	the	DT	_	5	det
+5	ingredients	ingredient	NNS	_	2	dobj
+6	and	and	CC	_	2	cc
+7	poured	pour	VBD	_	2	conj
+8	the	the	DT	_	9	det
+9	stuff	stuff	NN	_	7	dobj
+10	into	into	IN	_	7	prep
+11	the	the	DT	_	14	det
+12	ice	ice	NN	_	14	nn
+13	cream	cream	NN	_	14	nn
+14	maker	maker	NN	_	10	pobj
+15	.	.	.	_	2	punct
+

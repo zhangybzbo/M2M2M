@@ -1,0 +1,16 @@
+1	Thus	thus	RB	_	9	advmod
+2	,	,	,	_	9	punct
+3	in	in	IN	_	9	prep
+4	simple	simple	JJ	_	5	amod
+5	words	word	NNS	_	3	pobj
+6	,	,	,	_	9	punct
+7	a	a	DT	_	8	det
+8	tendon	tendon	NN	_	9	nsubj
+9	attaches	attach	VBZ	_	0	ROOT
+10	a	a	DT	_	11	det
+11	muscle	muscle	NN	_	9	dobj
+12	to	to	TO	_	9	prep
+13	a	a	DT	_	14	det
+14	bone	bone	NN	_	12	pobj
+15	.	.	.	_	9	punct
+

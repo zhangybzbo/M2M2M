@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	base	base	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	clock	clock	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	constructed	construct	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	standard	standard	JJ	_	10	amod
+10	LEGOs	lego	NNS	_	8	pobj
+11	,	,	,	_	7	punct
+12	encasing	encase	VBG	_	7	xcomp
+13	two	two	CD	_	16	num
+14	mindstorm	mindstorm	NN	_	16	nn
+15	servo	servo	NN	_	16	nn
+16	motors	motor	NNS	_	12	dobj
+17	.	.	.	_	7	punct
+

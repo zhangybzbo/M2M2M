@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	ragtag	ragtag	NN	_	3	nsubj
+3	cast	cast	VBD	_	0	ROOT
+4	evinces	evince	VBZ	_	3	dep
+5	as	as	RB	_	7	advmod
+6	much	much	JJ	_	7	amod
+7	harmony	harmony	NN	_	4	dobj
+8	as	as	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	clutter	clutter	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	alley	alley	NN	_	13	nn
+13	cats	cat	NNS	_	11	pobj
+14	in	in	IN	_	10	prep
+15	your	you	PRP$	_	16	poss
+16	backyard	backyard	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

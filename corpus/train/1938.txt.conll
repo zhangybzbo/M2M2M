@@ -1,0 +1,21 @@
+1	The	the	DT	_	5	det
+2	100	100	CD	_	5	num
+3	MHz	mhz	NN	_	5	nn
+4	RF	rf	NN	_	5	nn
+5	signal	signal	NN	_	11	nsubjpass
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	amplitude	amplitude	NN	_	9	nn
+9	modulator	modulator	NN	_	6	pobj
+10	was	be	VBD	_	11	auxpass
+11	derived	derive	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	16	det
+14	pulse	pulse	NN	_	16	nn
+15	pattern	pattern	NN	_	16	nn
+16	generator	generator	NN	_	12	pobj
+17	-LRB-	-lrb-	-LRB-	_	18	punct
+18	PPG	PPG	NNP	_	16	appos
+19	-RRB-	-rrb-	-RRB-	_	18	punct
+20	.	.	.	_	11	punct
+

@@ -1,0 +1,11 @@
+0	53	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="shell" pos="NNS" nsubj="t2"
+11	17	tok id="t2" base="land" pos="VBD" ROOT="ROOT"
+18	22	tok id="t3" base="into" pos="IN" prep="t2"
+23	32	tok id="t4" base="different" pos="JJ" amod="t5"
+33	38	tok id="t5" base="area" pos="NNS" pobj="t3"
+39	41	tok id="t6" base="in" pos="IN" prep="t2"
+42	51	tok id="t7" base="Mogadishu" pos="NNP" pobj="t6"
+52	53	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

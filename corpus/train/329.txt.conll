@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	penal	penal	JJ	_	3	amod
+3	code	code	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	portion	portion	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	state	state	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	laws	law	NNS	_	7	pobj
+12	defining	define	VBG	_	11	vmod
+13	crimes	crime	NNS	_	12	dobj
+14	and	and	CC	_	6	cc
+15	specifying	specify	VBG	_	6	conj
+16	the	the	DT	_	17	det
+17	punishment	punishment	NN	_	15	dobj
+18	.	.	.	_	6	punct
+

@@ -1,0 +1,17 @@
+1	Plants	plant	NNS	_	2	nsubj
+2	obtain	obtain	VB	_	0	ROOT
+3	a	a	DT	_	5	det
+4	significant	significant	JJ	_	5	amod
+5	reduction	reduction	NN	_	2	dobj
+6	in	in	IN	_	5	prep
+7	water	water	NN	_	8	nn
+8	usage	usage	NN	_	6	pobj
+9	and	and	CC	_	8	cc
+10	costs	cost	NNS	_	8	conj
+11	by	by	IN	_	2	prep
+12	effectively	effectively	RB	_	13	advmod
+13	using	use	VBG	_	11	pcomp
+14	conductivity	conductivity	NN	_	15	nn
+15	analysis	analysis	NN	_	13	dobj
+16	.	.	.	_	2	punct
+

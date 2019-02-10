@@ -1,0 +1,21 @@
+1	Walking	walk	VBG	_	2	nsubj
+2	trails	trail	VBZ	_	14	nsubj
+3	,	,	,	_	2	punct
+4	fire	fire	NN	_	5	nn
+5	pit	pit	NN	_	2	conj
+6	and	and	CC	_	2	cc
+7	a	a	DT	_	9	det
+8	tree	tree	NN	_	9	nn
+9	fort	fort	NN	_	2	conj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	woods	wood	NNS	_	10	pobj
+13	have	have	VBP	_	14	aux
+14	encouraged	encourage	VBN	_	0	ROOT
+15	him	he	PRP	_	14	dobj
+16	to	to	TO	_	17	aux
+17	spend	spend	VB	_	14	xcomp
+18	time	time	NN	_	17	dobj
+19	outside	outside	JJ	_	17	advmod
+20	.	.	.	_	14	punct
+

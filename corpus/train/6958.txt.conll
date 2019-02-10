@@ -1,0 +1,22 @@
+1	We	we	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	flour	flour	NN	_	5	nn
+5	bin	bin	NN	_	2	dobj
+6	,	,	,	_	2	punct
+7	I	I	PRP	_	8	nsubj
+8	poured	pour	VBD	_	2	conj
+9	flour	flour	NN	_	8	dobj
+10	into	into	IN	_	8	prep
+11	the	the	DT	_	10	pobj
+12	well	well	RB	_	11	advmod
+13	,	,	,	_	2	punct
+14	and	and	CC	_	2	cc
+15	I	I	PRP	_	16	nsubj
+16	stirred	stir	VBD	_	2	conj
+17	it	it	PRP	_	16	dobj
+18	with	with	IN	_	16	prep
+19	the	the	DT	_	20	det
+20	bucket	bucket	NN	_	18	pobj
+21	.	.	.	_	2	punct
+

@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	person	person	NN	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	an	a	DT	_	6	det
+5	intrinsic	intrinsic	JJ	_	6	amod
+6	motivation	motivation	NN	_	3	pobj
+7	to	to	TO	_	8	aux
+8	run	run	VB	_	6	vmod
+9	gains	gain	NNS	_	10	nn
+10	satisfaction	satisfaction	NN	_	8	dobj
+11	from	from	IN	_	8	prep
+12	a	a	DT	_	14	det
+13	very	very	RB	_	14	advmod
+14	long	long	JJ	_	11	pobj
+15	running	run	VBG	_	14	vmod
+16	around	around	IN	_	15	prep
+17	their	they	PRP$	_	19	poss
+18	favourite	favourite	JJ	_	19	amod
+19	course	course	NN	_	16	pobj
+20	on	on	IN	_	15	prep
+21	a	a	DT	_	22	det
+22	calm	calm	NN	_	20	pobj
+23	,	,	,	_	2	punct
+24	sunny	sunny	JJ	_	25	amod
+25	day	day	NN	_	2	appos
+26	.	.	.	_	2	punct
+

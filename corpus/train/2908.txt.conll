@@ -1,0 +1,19 @@
+1	Endangered	Endangered	NNP	_	2	nn
+2	species	species	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	released	release	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	nature	nature	NN	_	9	nn
+9	reserve	reserve	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	Northwest	Northwest	NNP	_	12	nn
+12	China	China	NNP	_	17	poss
+13	's	's	POS	_	12	possessive
+14	Xinjiang	Xinjiang	NNP	_	17	nn
+15	Uygur	Uygur	NNP	_	17	nn
+16	Autonomous	Autonomous	NNP	_	17	nn
+17	Region	Region	NNP	_	10	pobj
+18	.	.	.	_	5	punct
+

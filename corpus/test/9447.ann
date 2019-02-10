@@ -1,0 +1,3 @@
+T1	Term 25 29	pole
+T2	Term 48 58	receptacle
+R1	Content-Container Arg1:T1 Arg2:T2

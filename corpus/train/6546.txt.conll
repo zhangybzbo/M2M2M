@@ -1,0 +1,22 @@
+1	Josie	Josie	NNP	_	2	nn
+2	Cormier	Cormier	NNP	_	0	ROOT
+3	,	,	,	_	2	punct
+4	succumbed	succumb	VBD	_	2	conj
+5	to	to	TO	_	6	aux
+6	peer	peer	VB	_	4	xcomp
+7	pressure	pressure	NN	_	6	dobj
+8	and	and	CC	_	2	cc
+9	now	now	RB	_	10	advmod
+10	hangs	hang	VBZ	_	2	conj
+11	out	out	RP	_	10	prt
+12	with	with	IN	_	10	prep
+13	the	the	DT	_	15	det
+14	popular	popular	JJ	_	15	amod
+15	crowd	crowd	NN	_	12	pobj
+16	that	that	WDT	_	18	nsubj
+17	often	often	RB	_	18	advmod
+18	instigates	instigate	VBZ	_	15	rcmod
+19	the	the	DT	_	20	det
+20	harassment	harassment	NN	_	18	dobj
+21	.	.	.	_	2	punct
+

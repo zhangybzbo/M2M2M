@@ -1,0 +1,14 @@
+1	His	he	PRP$	_	4	poss
+2	big	big	JJ	_	4	amod
+3	slouch	slouch	NN	_	4	nn
+4	hat	hat	NN	_	7	nsubjpass
+5	even	even	RB	_	7	advmod
+6	was	be	VBD	_	7	auxpass
+7	cocked	cock	VBN	_	0	ROOT
+8	jauntily	jauntily	RB	_	7	advmod
+9	over	over	IN	_	7	prep
+10	the	the	DT	_	12	det
+11	bed	bed	NN	_	12	nn
+12	post	post	NN	_	9	pobj
+13	.	.	.	_	7	punct
+

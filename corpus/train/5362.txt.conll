@@ -1,0 +1,27 @@
+1	He	he	PRP	_	4	nsubjpass
+2	has	have	VBZ	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	used	use	VBN	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	promote	promote	VB	_	4	xcomp
+7	many	many	JJ	_	8	amod
+8	issues	issue	NNS	_	6	dobj
+9	to	to	TO	_	10	aux
+10	do	do	VB	_	8	vmod
+11	with	with	IN	_	10	prep
+12	animal	animal	NN	_	13	nn
+13	welfare	welfare	NN	_	11	pobj
+14	and	and	CC	_	4	cc
+15	has	have	VBZ	_	17	aux
+16	also	also	RB	_	17	advmod
+17	helped	help	VBN	_	4	conj
+18	raise	raise	VB	_	17	xcomp
+19	funds	fund	NNS	_	18	dobj
+20	for	for	IN	_	18	prep
+21	many	many	JJ	_	20	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	service	service	NN	_	25	nn
+25	charities	charity	NNS	_	22	pobj
+26	.	.	.	_	4	punct
+

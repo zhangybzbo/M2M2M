@@ -1,0 +1,20 @@
+1	Headaches	headache	NNS	_	14	nsubjpass
+2	,	,	,	_	1	punct
+3	dizziness	dizziness	NN	_	1	conj
+4	,	,	,	_	1	punct
+5	balance	balance	NN	_	6	nn
+6	problems	problem	NNS	_	1	conj
+7	,	,	,	_	1	punct
+8	and	and	CC	_	1	cc
+9	neck	neck	NN	_	1	conj
+10	and	and	CC	_	1	cc
+11	back	back	RB	_	1	conj
+12	pain	pain	NN	_	11	pobj
+13	were	be	VBD	_	14	auxpass
+14	caused	cause	VBN	_	0	ROOT
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	work	work	NN	_	18	nn
+18	injury	injury	NN	_	15	pobj
+19	.	.	.	_	14	punct
+

@@ -1,0 +1,12 @@
+1	My	my	PRP$	_	3	poss
+2	mint	mint	NN	_	3	nn
+3	julep	julep	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	glass	glass	NN	_	5	pobj
+8	I	I	PRP	_	10	nsubj
+9	still	still	RB	_	10	advmod
+10	own	own	VBP	_	7	rcmod
+11	.	.	.	_	4	punct
+

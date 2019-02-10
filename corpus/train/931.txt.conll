@@ -1,0 +1,14 @@
+1	He	he	PRP	_	2	nsubj
+2	atached	atach	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	handle	handle	VB	_	2	dobj
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	8	det
+7	upper	upper	JJ	_	8	amod
+8	part	part	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	cable	cable	NN	_	12	nn
+12	machine	machine	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

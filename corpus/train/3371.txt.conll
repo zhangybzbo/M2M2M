@@ -1,0 +1,25 @@
+1	Both	both	DT	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	driven	drive	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	play	play	VB	_	3	xcomp
+6	a	a	DT	_	8	det
+7	leading	lead	VBG	_	8	amod
+8	role	role	NN	_	5	dobj
+9	in	in	IN	_	5	prep
+10	the	the	DT	_	12	det
+11	five-strong	five-strong	JJ	_	12	amod
+12	bratpack	bratpack	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	teenagers	teenager	NNS	_	13	pobj
+15	who	who	WP	_	16	nsubj
+16	have	have	VBP	_	14	rcmod
+17	the	the	DT	_	18	det
+18	game	game	NN	_	20	poss
+19	's	's	POS	_	18	possessive
+20	future	future	NN	_	16	dobj
+21	in	in	IN	_	16	prep
+22	their	they	PRP$	_	23	poss
+23	hands	hand	NNS	_	21	pobj
+24	.	.	.	_	3	punct
+

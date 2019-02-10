@@ -1,0 +1,23 @@
+1	Many	many	JJ	_	3	amod
+2	more	more	RBR	_	3	advmod
+3	resources	resource	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	required	require	VBN	_	0	ROOT
+6	in	in	IN	_	9	mark
+7	order	order	NN	_	9	dep
+8	to	to	TO	_	9	aux
+9	stem	stem	VB	_	5	advcl
+10	the	the	DT	_	11	det
+11	devastation	devastation	NN	_	9	dobj
+12	that	that	WDT	_	15	nsubjpass
+13	has	have	VBZ	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	caused	cause	VBN	_	11	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	epidemic	epidemic	JJ	_	16	pobj
+19	throughout	throughout	IN	_	18	prep
+20	sub-Saharan	sub-Saharan	NNP	_	21	nn
+21	Africa	Africa	NNP	_	19	pobj
+22	.	.	.	_	5	punct
+

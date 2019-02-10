@@ -1,0 +1,22 @@
+1	A	a	DT	_	3	det
+2	family	family	NN	_	3	nn
+3	living	living	NN	_	9	nsubj
+4	at	at	IN	_	3	prep
+5	Calabogie	Calabogie	NNP	_	4	pobj
+6	,	,	,	_	5	punct
+7	Ontario	Ontario	NNP	_	5	appos
+8	was	be	VBD	_	9	cop
+9	digging	digging	NN	_	0	ROOT
+10	their	they	PRP$	_	12	poss
+11	new	new	JJ	_	12	amod
+12	potatoes	potato	NNS	_	9	dobj
+13	and	and	CC	_	9	cc
+14	came	come	VBD	_	9	conj
+15	upon	upon	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	different	different	JJ	_	18	amod
+18	clutch	clutch	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	eggs	egg	NNS	_	19	pobj
+21	.	.	.	_	9	punct
+

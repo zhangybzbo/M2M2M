@@ -1,0 +1,13 @@
+1	This	this	DT	_	2	det
+2	series	series	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	contribution	contribution	NN	_	3	dobj
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	development	development	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	museological	museological	JJ	_	11	amod
+11	thought	thought	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

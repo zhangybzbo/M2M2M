@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	direct	direct	JJ	_	3	amod
+3	catastrophe	catastrophe	NN	_	9	nsubjpass
+4	caused	cause	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	earthquake	earthquake	NN	_	5	pobj
+8	was	be	VBD	_	9	auxpass
+9	estimated	estimate	VBN	_	0	ROOT
+10	at	at	IN	_	9	prep
+11	10.2	10.2	CD	_	12	number
+12	billion	billion	CD	_	13	num
+13	euro	euro	NN	_	10	pobj
+14	,	,	,	_	9	punct
+15	clearly	clearly	RB	_	16	advmod
+16	justifying	justify	VBG	_	9	xcomp
+17	European	european	JJ	_	18	amod
+18	intervention	intervention	NN	_	16	dobj
+19	.	.	.	_	9	punct
+

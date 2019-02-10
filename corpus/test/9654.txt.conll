@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	describes	describe	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	tragedy	tragedy	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	switchboard	switchboard	NN	_	9	nn
+9	operator	operator	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	introduces	introduce	VBZ	_	0	ROOT
+4	feminist	feminist	JJ	_	9	amod
+5	and	and	CC	_	4	cc
+6	women	woman	NNS	_	4	conj
+7	's	's	POS	_	6	possessive
+8	rights	rights	NNS	_	9	nn
+9	arguments	argument	NNS	_	3	dobj
+10	.	.	.	_	3	punct
+

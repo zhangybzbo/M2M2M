@@ -1,0 +1,1 @@
+The box regulated the temperature using an odoff controller and T2 as temperature reference .

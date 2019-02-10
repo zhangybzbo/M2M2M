@@ -1,0 +1,9 @@
+0	44	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="sometimes" pos="RB" advmod="t2"
+10	13	tok id="t1" base="joy" pos="NN" nsubj="t2"
+14	19	tok id="t2" base="come" pos="VBZ" ROOT="ROOT"
+20	24	tok id="t3" base="from" pos="IN" prep="t2"
+25	35	tok id="t4" base="unexpected" pos="JJ" amod="t5"
+36	42	tok id="t5" base="place" pos="NNS" pobj="t3"
+43	44	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

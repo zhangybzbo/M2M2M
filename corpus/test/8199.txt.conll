@@ -1,0 +1,10 @@
+1	He	he	PRP	_	2	nsubj
+2	invested	invest	VBD	_	0	ROOT
+3	dollars	dollar	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	real	real	JJ	_	8	amod
+6	estate	estate	NN	_	8	nn
+7	investment	investment	NN	_	8	nn
+8	trusts	trust	NNS	_	4	pobj
+9	.	.	.	_	2	punct
+

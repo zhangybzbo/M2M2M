@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	aim	aim	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	study	study	NN	_	3	pobj
+6	was	be	VBD	_	8	cop
+7	the	the	DT	_	8	det
+8	measurement	measurement	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	intensity	intensity	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	circumstances	circumstance	NNS	_	11	conj
+14	of	of	IN	_	11	prep
+15	drug	drug	NN	_	16	nn
+16	use	use	NN	_	14	pobj
+17	.	.	.	_	8	punct
+

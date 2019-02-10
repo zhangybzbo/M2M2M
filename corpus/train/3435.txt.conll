@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	inflammation	inflammation	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	growth	growth	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	unusual	unusual	JJ	_	10	amod
+10	bacteria	bacterium	NNS	_	8	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	14	nsubj
+13	usually	usually	RB	_	14	advmod
+14	results	result	VBZ	_	10	rcmod
+15	from	from	IN	_	14	prep
+16	antibiotic	antibiotic	JJ	_	17	amod
+17	use	use	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

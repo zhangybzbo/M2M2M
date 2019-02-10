@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	fit	fit	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	jacket	jacket	NN	_	3	pobj
+6	is	be	VBZ	_	7	cop
+7	perfect	perfect	JJ	_	0	ROOT
+8	,	,	,	_	7	punct
+9	it	it	PRP	_	12	nsubj
+10	is	be	VBZ	_	12	cop
+11	not	not	RB	_	12	neg
+12	bulky	bulky	JJ	_	7	ccomp
+13	.	.	.	_	7	punct
+

@@ -1,0 +1,11 @@
+0	61	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="wealth" pos="NN" nsubj="t2"
+7	9	tok id="t1" base="be" pos="VBZ" aux="t2"
+10	19	tok id="t2" base="migrate" pos="VBG" ROOT="ROOT"
+20	24	tok id="t3" base="into" pos="IN" prep="t2"
+25	36	tok id="t4" base="community" pos="NNS" pobj="t3"
+37	39	tok id="t5" base="in" pos="IN" prep="t4"
+40	45	tok id="t6" base="Verde" pos="NNP" nn="t7"
+46	59	tok id="t7" base="Valley/Sedona" pos="NNP" pobj="t5"
+60	61	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

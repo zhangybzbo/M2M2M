@@ -1,0 +1,18 @@
+1	Contact	contact	NN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	router	router	NN	_	5	poss
+4	's	's	POS	_	3	possessive
+5	manufacturer	manufacturer	NN	_	1	dep
+6	for	for	IN	_	5	prep
+7	assistance	assistance	NN	_	6	pobj
+8	with	with	IN	_	7	prep
+9	configuration	configuration	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	proper	proper	JJ	_	12	amod
+12	setup	setup	NN	_	9	conj
+13	of	of	IN	_	9	prep
+14	your	you	PRP$	_	16	poss
+15	wired	wire	VBN	_	16	amod
+16	router	router	NN	_	13	pobj
+17	.	.	.	_	1	punct
+

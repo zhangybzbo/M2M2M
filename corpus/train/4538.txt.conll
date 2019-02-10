@@ -1,0 +1,22 @@
+1	NGU	NGU	NNP	_	8	nsubj
+2	-LRB-	-lrb-	-LRB-	_	4	punct
+3	NonGonococcal	NonGonococcal	NNP	_	4	nn
+4	Urethritis	Urethritis	NNP	_	1	appos
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	is	be	VBZ	_	8	cop
+7	an	a	DT	_	8	det
+8	infection	infection	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	urethra	urethra	NN	_	9	pobj
+12	caused	cause	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	pathogens	pathogen	NNS	_	13	pobj
+15	-LRB-	-lrb-	-LRB-	_	16	punct
+16	germs	germ	NNS	_	14	appos
+17	-RRB-	-rrb-	-RRB-	_	16	punct
+18	other	other	JJ	_	14	amod
+19	than	than	IN	_	18	prep
+20	gonorrhea	gonorrhea	NN	_	19	pobj
+21	.	.	.	_	8	punct
+

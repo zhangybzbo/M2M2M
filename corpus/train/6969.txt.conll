@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	animal	animal	NN	_	3	nn
+3	control	control	NN	_	4	nsubj
+4	released	release	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	wild	wild	JJ	_	7	amod
+7	leopard	leopard	NN	_	4	dobj
+8	into	into	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	wild	wild	JJ	_	8	pobj
+11	.	.	.	_	4	punct
+

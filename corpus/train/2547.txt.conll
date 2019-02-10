@@ -1,0 +1,22 @@
+1	Often	often	RB	_	9	advmod
+2	when	when	WRB	_	9	advmod
+3	people	people	NNS	_	4	nn
+4	hunt	hunt	NN	_	9	nsubj
+5	for	for	IN	_	4	prep
+6	snipe	snipe	NN	_	5	pobj
+7	,	,	,	_	9	punct
+8	they	they	PRP	_	9	nsubj
+9	come	come	VBP	_	0	ROOT
+10	upon	upon	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	fall	fall	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	woodcocks	woodcock	NNS	_	13	pobj
+15	,	,	,	_	14	punct
+16	which	which	WDT	_	20	nsubj
+17	are	be	VBP	_	20	cop
+18	also	also	RB	_	20	advmod
+19	game	game	NN	_	20	nn
+20	birds	bird	NNS	_	14	rcmod
+21	.	.	.	_	9	punct
+

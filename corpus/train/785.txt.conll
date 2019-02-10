@@ -1,0 +1,20 @@
+1	An	a	DT	_	7	det
+2	18-gauge	18-gauge	JJ	_	7	amod
+3	or	or	CC	_	2	cc
+4	21-gauge	21-gauge	JJ	_	2	conj
+5	Needle	Needle	NNP	_	7	nn
+6	Guide	Guide	NNP	_	7	nn
+7	Kit	kit	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	opened	open	VBN	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	sonoconductive	sonoconductive	JJ	_	12	amod
+12	gel	gel	NN	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	placed	place	VBN	_	9	conj
+15	inside	inside	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	sterile	sterile	JJ	_	18	amod
+18	sheath	sheath	NN	_	15	pobj
+19	.	.	.	_	9	punct
+

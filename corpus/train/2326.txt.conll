@@ -1,0 +1,12 @@
+1	Men	man	NN	_	2	nn
+2	work	work	NN	_	0	ROOT
+3	inside	inside	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	caisson	caisson	NN	_	3	pobj
+6	while	while	IN	_	7	mark
+7	excavating	excavate	VBG	_	2	advcl
+8	for	for	IN	_	7	prep
+9	bridge	bridge	NN	_	10	nn
+10	foundations	foundation	NNS	_	8	pobj
+11	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	three	three	CD	_	2	dobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	eights	eight	NNS	_	4	pobj
+7	against	against	IN	_	2	prep
+8	a	a	DT	_	9	det
+9	flush	flush	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	clubs	club	NNS	_	10	pobj
+12	.	.	.	_	2	punct
+

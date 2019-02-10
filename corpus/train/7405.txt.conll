@@ -1,0 +1,26 @@
+1	This	this	DT	_	3	det
+2	prescription	prescription	NN	_	3	nn
+3	drug	drug	NN	_	4	nsubj
+4	alleviates	alleviate	VBZ	_	0	ROOT
+5	panic	panic	NN	_	4	dobj
+6	from	from	IN	_	5	prep
+7	claustrophobia	claustrophobia	NN	_	6	pobj
+8	and	and	CC	_	4	cc
+9	is	be	VBZ	_	12	cop
+10	also	also	RB	_	12	advmod
+11	very	very	RB	_	12	advmod
+12	handy	handy	JJ	_	4	conj
+13	for	for	IN	_	12	prep
+14	airplane	airplane	NN	_	15	nn
+15	rides	ride	NNS	_	13	pobj
+16	and	and	CC	_	4	cc
+17	in	in	IN	_	4	conj
+18	case	case	NN	_	17	pobj
+19	of	of	IN	_	18	prep
+20	broken-down	broken-down	JJ	_	22	amod
+21	subway	subway	NN	_	22	nn
+22	cars	car	NNS	_	19	pobj
+23	or	or	CC	_	22	cc
+24	elevators	elevator	NNS	_	22	conj
+25	.	.	.	_	4	punct
+

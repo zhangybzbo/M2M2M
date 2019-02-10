@@ -1,0 +1,26 @@
+1	It	it	PRP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	just	just	RB	_	6	advmod
+4	another	another	DT	_	6	det
+5	asset	asset	NN	_	6	nn
+6	bubble	bubble	NN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	where	where	WRB	_	6	appos
+9	the	the	DT	_	11	det
+10	grotesque	grotesque	JJ	_	11	amod
+11	bonuses	bonus	NNS	_	8	dep
+12	made	make	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	speculators	speculator	NNS	_	13	pobj
+16	who	who	WP	_	18	nsubj
+17	have	have	VBP	_	18	aux
+18	brought	bring	VBN	_	15	rcmod
+19	the	the	DT	_	21	det
+20	world	world	NN	_	21	nn
+21	economy	economy	NN	_	18	dobj
+22	to	to	TO	_	18	prep
+23	its	its	PRP$	_	24	poss
+24	knees	knee	NNS	_	22	pobj
+25	.	.	.	_	6	punct
+

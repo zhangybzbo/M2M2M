@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	two	two	CD	_	3	num
+3	countries	country	NNS	_	5	nsubj
+4	finally	finally	RB	_	5	advmod
+5	entered	enter	VBD	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	code	code	NN	_	10	nn
+9	share	share	NN	_	10	nn
+10	agreement	agreement	NN	_	6	pobj
+11	.	.	.	_	5	punct
+

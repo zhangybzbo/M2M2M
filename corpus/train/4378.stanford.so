@@ -1,0 +1,13 @@
+0	56	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="cancer" pos="NN" nsubj="t2"
+7	10	tok id="t1" base="have" pos="VBZ" aux="t2"
+11	17	tok id="t2" base="spread" pos="VBN" ROOT="ROOT"
+18	22	tok id="t3" base="into" pos="IN" prep="t2"
+23	28	tok id="t4" base="lymph" pos="NN" nn="t5"
+29	34	tok id="t5" base="node" pos="NNS" pobj="t3"
+35	40	tok id="t6" base="close" pos="RB" amod="t5"
+41	43	tok id="t7" base="to" pos="TO" prep="t6"
+44	47	tok id="t8" base="the" pos="DT" det="t9"
+48	54	tok id="t9" base="tumour" pos="NN" pobj="t7"
+55	56	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

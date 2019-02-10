@@ -1,0 +1,17 @@
+1	Scientists	scientist	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	discovered	discover	VBN	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	time	time	NN	_	4	pobj
+8	a	a	DT	_	9	det
+9	dinosaur	dinosaur	NN	_	3	dobj
+10	with	with	IN	_	9	prep
+11	shelled	shell	VBN	_	12	amod
+12	eggs	egg	NNS	_	10	pobj
+13	inside	inside	IN	_	12	prep
+14	her	she	PRP$	_	15	poss
+15	belly	belly	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,15 @@
+1	These	these	DT	_	2	det
+2	benefits	benefit	NNS	_	6	nsubjpass
+3	have	have	VBP	_	6	aux
+4	been	be	VBN	_	6	auxpass
+5	eloquently	eloquently	RB	_	6	advmod
+6	described	describe	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	last	last	JJ	_	10	amod
+10	sentence	sentence	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	preamble	preamble	NN	_	11	pobj
+14	.	.	.	_	6	punct
+

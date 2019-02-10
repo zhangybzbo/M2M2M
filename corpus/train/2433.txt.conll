@@ -1,0 +1,19 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	shady	shady	JJ	_	5	amod
+5	retreat	retreat	NN	_	0	ROOT
+6	,	,	,	_	5	punct
+7	close	close	RB	_	5	advmod
+8	to	to	TO	_	7	prep
+9	a	a	DT	_	10	det
+10	chain	chain	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	shallow	shallow	JJ	_	13	amod
+13	ponds	pond	NNS	_	11	pobj
+14	near	near	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	lake	lake	NN	_	17	nn
+17	shore	shore	NN	_	14	pobj
+18	.	.	.	_	5	punct
+

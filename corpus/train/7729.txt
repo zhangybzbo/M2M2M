@@ -1,0 +1,1 @@
+A thermostat keeps the water at the requested temperature .

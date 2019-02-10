@@ -1,0 +1,20 @@
+1	Indeed	indeed	RB	_	11	advmod
+2	,	,	,	_	11	punct
+3	a	a	DT	_	9	det
+4	green	green	JJ	_	9	amod
+5	or	or	CC	_	4	cc
+6	black	black	JJ	_	4	conj
+7	basalt	basalt	NN	_	9	nn
+8	heart	heart	NN	_	9	nn
+9	scarab	scarab	NN	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	found	find	VBN	_	0	ROOT
+12	put	put	VBN	_	11	dep
+13	inside	inside	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	body	body	NN	_	13	pobj
+16	in	in	IN	_	12	prep
+17	its	its	PRP$	_	18	poss
+18	place	place	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

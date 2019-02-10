@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	prosecutors	prosecutor	NNS	_	3	nsubj
+3	carried	carry	VBD	_	0	ROOT
+4	guns	gun	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	8	det
+7	court	court	NN	_	8	nn
+8	room	room	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

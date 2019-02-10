@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	images	image	NNS	_	3	nsubj
+3	show	show	VBP	_	0	ROOT
+4	a	a	DT	_	5	det
+5	group	group	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	men	man	NNS	_	6	pobj
+8	that	that	WDT	_	10	dobj
+9	detectives	detective	NNS	_	10	nsubj
+10	want	want	VBP	_	7	rcmod
+11	to	to	TO	_	10	prep
+12	question	question	NN	_	11	pobj
+13	.	.	.	_	3	punct
+

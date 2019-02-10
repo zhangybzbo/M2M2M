@@ -1,0 +1,20 @@
+1	This	this	DT	_	3	det
+2	public	public	JJ	_	3	amod
+3	debate	debate	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	reflected	reflect	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	widely	widely	RB	_	9	advmod
+9	advertised	advertise	VBN	_	10	amod
+10	series	series	NN	_	7	pobj
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	popular	popular	JJ	_	14	amod
+14	magazines	magazine	NNS	_	11	pobj
+15	and	and	CC	_	7	cc
+16	by	by	IN	_	7	conj
+17	numerous	numerous	JJ	_	18	amod
+18	analysts	analyst	NNS	_	16	pobj
+19	.	.	.	_	6	punct
+

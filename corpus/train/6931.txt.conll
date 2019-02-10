@@ -1,0 +1,18 @@
+1	We	we	PRP	_	2	nsubj
+2	report	report	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	second	second	JJ	_	5	amod
+5	case	case	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	ureteropelvic	ureteropelvic	JJ	_	9	amod
+8	junction	junction	NN	_	9	nn
+9	obstruction	obstruction	NN	_	6	pobj
+10	after	after	IN	_	5	prep
+11	radiofrequency	radiofrequency	NN	_	12	nn
+12	ablation	ablation	NN	_	10	pobj
+13	that	that	WDT	_	14	nsubj
+14	resulted	result	VBD	_	12	rcmod
+15	in	in	IN	_	14	prep
+16	nephrectomy	nephrectomy	NN	_	15	pobj
+17	.	.	.	_	2	punct
+

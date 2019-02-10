@@ -1,0 +1,23 @@
+1	Lesions	lesion	NNS	_	15	nsubj
+2	restricted	restricted	JJ	_	1	amod
+3	to	to	TO	_	2	prep
+4	the	the	DT	_	6	det
+5	rear	rear	JJ	_	6	amod
+6	portion	portion	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	medial	medial	JJ	_	10	amod
+10	part	part	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	precentral	precentral	JJ	_	14	amod
+14	gyrus	gyrus	NN	_	11	pobj
+15	caused	cause	VBD	_	0	ROOT
+16	a	a	DT	_	21	det
+17	contralateral	contralateral	JJ	_	21	amod
+18	predominantly	predominantly	RB	_	19	advmod
+19	distal	distal	JJ	_	21	amod
+20	leg	leg	NN	_	21	nn
+21	weakness	weakness	NN	_	15	dobj
+22	.	.	.	_	15	punct
+

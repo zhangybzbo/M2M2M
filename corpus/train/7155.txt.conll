@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	toolkits	toolkit	NNS	_	3	nsubj
+3	provide	provide	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	secure	secure	JJ	_	6	amod
+6	framework	framework	NN	_	3	dobj
+7	where	where	WRB	_	10	advmod
+8	sensitive	sensitive	JJ	_	9	amod
+9	information	information	NN	_	10	nsubj
+10	remains	remain	VBZ	_	6	rcmod
+11	private	private	JJ	_	10	acomp
+12	.	.	.	_	3	punct
+

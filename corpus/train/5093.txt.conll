@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	reservation	reservation	NN	_	3	nn
+3	newspaper	newspaper	NN	_	4	nsubj
+4	captured	capture	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	mood	mood	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	9	det
+9	headline	headline	NN	_	7	pobj
+10	:	:	:	_	4	punct
+11	``	``	``	_	4	punct
+12	Wilma	Wilma	NNP	_	13	nn
+13	Mankiller	Mankiller	NNP	_	4	dobj
+14	,	,	,	_	13	punct
+15	Cecelia	Cecelia	NNP	_	16	nn
+16	Babykiller	Babykiller	NNP	_	13	appos
+17	.	.	.	_	4	punct
+18	''	''	''	_	4	punct
+

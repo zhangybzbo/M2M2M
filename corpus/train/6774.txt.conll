@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	colitis	colitis	NN	_	5	nsubjpass
+3	usually	usually	RB	_	5	advmod
+4	is	be	VBZ	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	taking	take	VBG	_	6	pcomp
+8	antibiotics	antibiotic	NNS	_	7	dobj
+9	.	.	.	_	5	punct
+

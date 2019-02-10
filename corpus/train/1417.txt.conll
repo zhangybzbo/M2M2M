@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	rescue	rescue	NN	_	4	nn
+3	adoption	adoption	NN	_	4	nn
+4	room	room	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	filled	fill	VBN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	kindle	kindle	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	kittens	kitten	NNS	_	10	pobj
+12	.	.	.	_	6	punct
+

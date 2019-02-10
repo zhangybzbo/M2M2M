@@ -1,0 +1,24 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	reward	reward	NN	_	2	nsubj
+5	for	for	IN	_	4	prep
+6	information	information	NN	_	5	pobj
+7	leading	lead	VBG	_	6	vmod
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	killer	killer	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	man	man	NN	_	11	pobj
+14	whose	whose	WP$	_	16	poss
+15	dismembered	dismembered	JJ	_	16	amod
+16	body	body	NN	_	18	nsubjpass
+17	was	be	VBD	_	18	auxpass
+18	found	find	VBN	_	13	rcmod
+19	in	in	IN	_	18	prep
+20	a	a	DT	_	22	det
+21	shopping	shopping	NN	_	22	nn
+22	cart	cart	NN	_	19	pobj
+23	.	.	.	_	2	punct
+

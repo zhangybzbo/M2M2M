@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	store	store	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	glue	glue	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	cool	cool	JJ	_	8	amod
+8	place	place	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	observatory	observatory	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	used	use	VBN	_	0	ROOT
+5	a	a	DT	_	10	det
+6	45-meter	45-meter	JJ	_	10	amod
+7	cosmic	cosmic	JJ	_	10	amod
+8	radio	radio	NN	_	10	nn
+9	emission	emission	NN	_	10	nn
+10	telescope	telescope	NN	_	4	dobj
+11	to	to	TO	_	12	aux
+12	make	make	VB	_	4	vmod
+13	a	a	DT	_	14	det
+14	number	number	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	important	important	JJ	_	17	amod
+17	contributions	contribution	NNS	_	15	pobj
+18	.	.	.	_	4	punct
+

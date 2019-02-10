@@ -1,0 +1,26 @@
+1	Education	education	NN	_	6	nsubj
+2	in	in	IN	_	1	prep
+3	early	early	JJ	_	5	amod
+4	African	african	JJ	_	5	amod
+5	societies	society	NNS	_	2	pobj
+6	included	include	VBD	_	0	ROOT
+7	such	such	JJ	_	8	amod
+8	things	thing	NNS	_	6	dobj
+9	as	as	IN	_	8	prep
+10	artistic	artistic	JJ	_	11	amod
+11	performances	performance	NNS	_	9	pobj
+12	,	,	,	_	6	punct
+13	ceremonies	ceremony	NNS	_	6	dep
+14	,	,	,	_	13	punct
+15	games	game	NNS	_	13	conj
+16	,	,	,	_	13	punct
+17	festivals	festival	NNS	_	13	conj
+18	,	,	,	_	13	punct
+19	dancing	dancing	NN	_	13	conj
+20	,	,	,	_	13	punct
+21	singing	singing	NN	_	13	conj
+22	,	,	,	_	13	punct
+23	and	and	CC	_	13	cc
+24	drawing	drawing	NN	_	13	conj
+25	.	.	.	_	6	punct
+

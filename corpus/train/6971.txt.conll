@@ -1,0 +1,17 @@
+1	La	La	NNP	_	2	nn
+2	Nicchia	Nicchia	NNP	_	5	poss
+3	's	's	POS	_	2	possessive
+4	lemon	lemon	JJ	_	5	amod
+5	marmalade	marmalade	NN	_	9	nsubj
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	sublime	sublime	JJ	_	9	amod
+9	addition	addition	NN	_	0	ROOT
+10	to	to	TO	_	9	prep
+11	any	any	DT	_	15	det
+12	vinaigrette	vinaigrette	NN	_	15	nn
+13	or	or	CC	_	12	cc
+14	fish	fish	NN	_	12	conj
+15	marinade	marinade	NN	_	10	pobj
+16	.	.	.	_	9	punct
+

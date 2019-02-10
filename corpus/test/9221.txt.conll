@@ -1,0 +1,13 @@
+1	Picture	Picture	NNP	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	a	a	DT	_	4	det
+4	woodcut	woodcut	NN	_	2	pobj
+5	portraying	portray	VBG	_	1	vmod
+6	the	the	DT	_	7	det
+7	harm	harm	NN	_	5	dobj
+8	caused	cause	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	quake	quake	NN	_	9	pobj
+12	.	.	.	_	1	punct
+

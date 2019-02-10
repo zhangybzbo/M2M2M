@@ -1,0 +1,11 @@
+1	Firefighters	firefighter	NNS	_	2	nsubj
+2	mark	mark	VBP	_	0	ROOT
+3	hydrants	hydrant	NNS	_	2	dobj
+4	that	that	WDT	_	5	nsubj
+5	work	work	VBP	_	3	rcmod
+6	okay	okay	JJ	_	5	acomp
+7	with	with	IN	_	6	prep
+8	spray	spray	NN	_	9	nn
+9	paint	paint	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

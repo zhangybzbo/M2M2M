@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	focus	focus	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	largely	largely	RB	_	5	advmod
+5	been	be	VBN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	subject	subject	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	ethics	ethic	NNS	_	9	pobj
+11	.	.	.	_	5	punct
+

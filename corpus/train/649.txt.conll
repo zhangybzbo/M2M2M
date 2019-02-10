@@ -1,0 +1,9 @@
+1	An	a	DT	_	3	det
+2	oak	oak	NN	_	3	nn
+3	tree	tree	NN	_	4	nsubj
+4	grows	grow	VBZ	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	7	det
+7	acorn	acorn	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

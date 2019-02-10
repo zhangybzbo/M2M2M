@@ -1,0 +1,17 @@
+1	Another	another	DT	_	2	det
+2	worker	worker	NN	_	13	nsubj
+3	with	with	IN	_	2	prep
+4	a	a	DT	_	8	det
+5	long	long	JJ	_	8	amod
+6	straight-edge	straight-edge	JJ	_	8	amod
+7	plank	plank	NN	_	8	nn
+8	screens	screen	NNS	_	3	pobj
+9	over	over	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	wall	wall	NN	_	9	pobj
+12	to	to	TO	_	13	aux
+13	remove	remove	VB	_	0	ROOT
+14	any	any	DT	_	15	det
+15	bumps	bump	NNS	_	13	dobj
+16	.	.	.	_	13	punct
+

@@ -1,0 +1,1 @@
+The effective utilization of a cluster of workstations for the implementation of a scientific application requires a highly flexible software environment .

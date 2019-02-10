@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	ornaments	ornament	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	blown	blow	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	complicated	complicated	JJ	_	9	amod
+7	,	,	,	_	6	punct
+8	multi-piece	multi-piece	JJ	_	9	amod
+9	molds	mold	NNS	_	5	pobj
+10	.	.	.	_	4	punct
+

@@ -1,0 +1,25 @@
+1	Construction	construction	NN	_	2	nn
+2	progress	progress	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	steady	steady	JJ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	the	the	DT	_	7	det
+7	builder	builder	NN	_	10	nsubj
+8	has	have	VBZ	_	10	aux
+9	now	now	RB	_	10	advmod
+10	established	establish	VBN	_	4	conj
+11	the	the	DT	_	12	det
+12	location	location	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	offices	office	NNS	_	13	pobj
+15	on	on	IN	_	12	prep
+16	the	the	DT	_	20	det
+17	future	future	JJ	_	20	amod
+18	car	car	NN	_	20	nn
+19	park	park	NN	_	20	nn
+20	area	area	NN	_	15	pobj
+21	along	along	IN	_	20	prep
+22	Forest	forest	NN	_	23	nn
+23	Road	Road	NNP	_	21	pobj
+24	.	.	.	_	4	punct
+

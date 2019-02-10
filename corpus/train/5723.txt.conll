@@ -1,0 +1,20 @@
+1	An	a	DT	_	3	det
+2	important	important	JJ	_	3	amod
+3	challenge	challenge	NN	_	8	nsubj
+4	for	for	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	new	new	JJ	_	7	amod
+7	administration	administration	NN	_	4	pobj
+8	was	be	VBD	_	0	ROOT
+9	to	to	TO	_	10	aux
+10	address	address	VB	_	8	xcomp
+11	the	the	DT	_	12	det
+12	insecurity	insecurity	NN	_	10	dobj
+13	and	and	CC	_	12	cc
+14	poverty	poverty	NN	_	12	conj
+15	caused	cause	VBN	_	12	vmod
+16	by	by	IN	_	15	prep
+17	civil	civil	JJ	_	18	amod
+18	war	war	NN	_	16	pobj
+19	.	.	.	_	8	punct
+

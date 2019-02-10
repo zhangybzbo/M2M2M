@@ -1,0 +1,19 @@
+1	Our	we	PRP$	_	3	poss
+2	coconut	coconut	NN	_	3	nn
+3	marmalade	marmalade	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	all-natural	all-natural	JJ	_	9	amod
+8	coconut	coconut	NN	_	9	nn
+9	milk	milk	NN	_	6	pobj
+10	and	and	CC	_	9	cc
+11	brown	brown	JJ	_	12	amod
+12	sugar	sugar	NN	_	9	conj
+13	reduced	reduce	VBN	_	5	dep
+14	to	to	TO	_	13	prep
+15	the	the	DT	_	17	det
+16	perfect	perfect	JJ	_	17	amod
+17	consistency	consistency	NN	_	14	pobj
+18	.	.	.	_	5	punct
+

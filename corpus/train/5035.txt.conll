@@ -1,0 +1,13 @@
+1	Here	here	RB	_	2	advmod
+2	are	be	VBP	_	0	ROOT
+3	some	some	DT	_	4	det
+4	stories	story	NNS	_	2	nsubj
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	international	international	JJ	_	8	amod
+8	press	press	NN	_	5	pobj
+9	involving	involve	VBG	_	8	vmod
+10	Balkan	Balkan	NNP	_	11	nn
+11	Sunflowers	Sunflowers	NNP	_	9	dobj
+12	.	.	.	_	2	punct
+

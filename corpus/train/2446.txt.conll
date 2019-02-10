@@ -1,0 +1,18 @@
+1	Electroconvulsive	electroconvulsive	JJ	_	2	amod
+2	therapy	therapy	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	depicted	depict	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	several	several	JJ	_	11	amod
+8	fictional	fictional	JJ	_	11	amod
+9	and	and	CC	_	8	cc
+10	semi-fictional	semi-fictional	JJ	_	8	conj
+11	films	film	NNS	_	6	pobj
+12	,	,	,	_	11	punct
+13	books	book	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	and	and	CC	_	11	cc
+16	songs	song	NNS	_	11	conj
+17	.	.	.	_	5	punct
+

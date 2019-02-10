@@ -1,0 +1,1 @@
+No centralized timer exists , so the standard synchronizes all timers to the timer of the fastest-running clock in the BSS .

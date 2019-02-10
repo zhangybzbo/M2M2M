@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	includes	include	VBZ	_	0	ROOT
+4	content	content	NN	_	3	dobj
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Schaff-Herzog	Schaff-Herzog	NNP	_	8	nn
+8	encyclopedia	encyclopedia	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	religious	religious	JJ	_	11	amod
+11	knowledge	knowledge	NN	_	9	pobj
+12	,	,	,	_	11	punct
+13	1914	1914	CD	_	11	appos
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	4	det
+2	sliding	slide	VBG	_	4	amod
+3	bar	bar	NN	_	4	nn
+4	assembly	assembly	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	attached	attach	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	10	det
+9	removable	removable	JJ	_	10	amod
+10	panel	panel	NN	_	7	pobj
+11	and	and	CC	_	6	cc
+12	the	the	DT	_	13	det
+13	bush	bush	NN	_	15	nsubjpass
+14	is	be	VBZ	_	15	auxpass
+15	mounted	mount	VBN	_	6	conj
+16	to	to	TO	_	15	prep
+17	the	the	DT	_	18	det
+18	panel	panel	NN	_	21	poss
+19	's	's	POS	_	18	possessive
+20	stationary	stationary	JJ	_	21	amod
+21	support	support	NN	_	16	pobj
+22	.	.	.	_	6	punct
+

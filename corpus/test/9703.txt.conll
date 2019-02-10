@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	his	he	PRP$	_	6	poss
+6	knees	knee	NNS	_	4	pobj
+7	,	,	,	_	6	punct
+8	sdiraya	sdiraya	NN	_	9	nn
+9	neck	neck	NN	_	6	conj
+10	with	with	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	rope	rope	NN	_	10	pobj
+13	and	and	CC	_	6	cc
+14	coughing	cough	VBG	_	6	conj
+15	from	from	IN	_	14	prep
+16	suffocation	suffocation	NN	_	15	pobj
+17	.	.	.	_	3	punct
+

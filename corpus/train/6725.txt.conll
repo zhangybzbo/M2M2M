@@ -1,0 +1,14 @@
+1	A	a	DT	_	2	det
+2	bear	bear	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	dropped	drop	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	petrified	petrified	JJ	_	7	amod
+7	swamps	swamp	NNS	_	5	pobj
+8	devastated	devastate	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	2004	2004	CD	_	12	num
+12	tsunami	tsunami	NN	_	9	pobj
+13	.	.	.	_	4	punct
+

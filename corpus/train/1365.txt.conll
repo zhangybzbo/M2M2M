@@ -1,0 +1,12 @@
+1	My	my	PRP$	_	2	poss
+2	dog	dog	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	little	little	JJ	_	7	amod
+6	red	red	JJ	_	7	amod
+7	ball	ball	NN	_	3	dobj
+8	on	on	IN	_	3	prep
+9	his	he	PRP$	_	10	poss
+10	snout	snout	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

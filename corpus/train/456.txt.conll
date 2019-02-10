@@ -1,0 +1,13 @@
+1	In	in	IN	_	9	prep
+2	this	this	DT	_	3	det
+3	manner	manner	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	nuts	nut	NNS	_	9	nsubj
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	Amazon	Amazon	NNP	_	6	pobj
+9	powered	power	VBD	_	0	ROOT
+10	a	a	DT	_	11	det
+11	plane	plane	NN	_	9	dobj
+12	.	.	.	_	9	punct
+

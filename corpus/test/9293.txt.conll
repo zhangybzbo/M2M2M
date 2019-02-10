@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	cerebrum	cerebrum	NN	_	8	nsubjpass
+3	-LRB-	-lrb-	-LRB-	_	5	punct
+4	the	the	DT	_	5	det
+5	forebrain	forebrain	NN	_	2	appos
+6	-RRB-	-rrb-	-RRB-	_	5	punct
+7	is	be	VBZ	_	8	auxpass
+8	made	make	VBN	_	0	ROOT
+9	up	up	RP	_	8	prt
+10	of	of	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	right	right	NN	_	10	pobj
+13	and	and	CC	_	8	cc
+14	left	leave	VBD	_	8	conj
+15	cerebral	cerebral	JJ	_	16	amod
+16	hemispheres	hemisphere	NNS	_	14	dobj
+17	.	.	.	_	8	punct
+

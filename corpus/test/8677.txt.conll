@@ -1,0 +1,16 @@
+1	Well	well	UH	_	4	discourse
+2	I	I	PRP	_	4	nsubj
+3	still	still	RB	_	4	advmod
+4	have	have	VBP	_	0	ROOT
+5	a	a	DT	_	7	det
+6	sore	sore	JJ	_	7	amod
+7	spot	spot	NN	_	4	dobj
+8	on	on	IN	_	4	prep
+9	my	my	PRP$	_	11	poss
+10	cheek	cheek	NN	_	11	nn
+11	bone	bone	NN	_	8	pobj
+12	and	and	CC	_	4	cc
+13	left	leave	VBD	_	4	conj
+14	joint	joint	NN	_	13	dobj
+15	.	.	.	_	4	punct
+

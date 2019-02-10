@@ -1,0 +1,26 @@
+1	Production	production	NN	_	10	nsubj
+2	of	of	IN	_	1	prep
+3	raw	raw	JJ	_	4	amod
+4	steel	steel	NN	_	2	pobj
+5	by	by	IN	_	1	prep
+6	the	the	DT	_	8	det
+7	steel	steel	NN	_	8	nn
+8	mill	mill	NN	_	5	pobj
+9	also	also	RB	_	10	advmod
+10	dropped	drop	VBD	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	63104	63104	CD	_	13	num
+13	tons	ton	NNS	_	11	pobj
+14	and	and	CC	_	10	cc
+15	the	the	DT	_	16	det
+16	same	same	JJ	_	19	nsubj
+17	was	be	VBD	_	19	cop
+18	the	the	DT	_	19	det
+19	case	case	NN	_	10	conj
+20	in	in	IN	_	19	prep
+21	other	other	JJ	_	22	amod
+22	products	product	NNS	_	20	pobj
+23	excluding	exclude	VBG	_	22	prep
+24	coke	coke	NN	_	23	pobj
+25	.	.	.	_	10	punct
+

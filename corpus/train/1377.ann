@@ -1,0 +1,3 @@
+T1	Term 11 18	payment
+T2	Term 37 50	email address
+R1	Entity-Destination Arg1:T1 Arg2:T2

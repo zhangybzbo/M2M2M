@@ -1,0 +1,10 @@
+1	She	she	PRP	_	2	nsubj
+2	moved	move	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	files	file	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	shared	shared	JJ	_	8	amod
+8	folder	folder	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

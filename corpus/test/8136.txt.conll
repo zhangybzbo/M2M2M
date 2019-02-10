@@ -1,0 +1,23 @@
+1	With	with	IN	_	10	prep
+2	our	we	PRP$	_	3	poss
+3	help	help	NN	_	1	pobj
+4	,	,	,	_	10	punct
+5	non-profit	non-profit	JJ	_	8	amod
+6	human	human	JJ	_	8	amod
+7	service	service	NN	_	8	nn
+8	organizations	organization	NNS	_	10	nsubj
+9	effectively	effectively	RB	_	10	advmod
+10	manage	manage	VBP	_	0	ROOT
+11	their	they	PRP$	_	12	poss
+12	resources	resource	NNS	_	10	dobj
+13	and	and	CC	_	10	cc
+14	succeed	succeed	VB	_	10	conj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	modern	modern	JJ	_	18	amod
+18	era	era	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	human	human	JJ	_	21	amod
+21	services	service	NNS	_	19	pobj
+22	.	.	.	_	10	punct
+

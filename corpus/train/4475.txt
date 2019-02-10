@@ -1,0 +1,1 @@
+The arbiter of the game begins the game and requests a move from the first player .

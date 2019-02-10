@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	display	display	NN	_	3	nsubj
+3	receives	receive	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	output	output	NN	_	3	dobj
+6	through	through	IN	_	3	prep
+7	a	a	DT	_	12	det
+8	15	15	CD	_	12	num
+9	pin	pin	NN	_	12	nn
+10	D	d	NN	_	12	nn
+11	connector	connector	NN	_	12	nn
+12	cable	cable	NN	_	6	pobj
+13	.	.	.	_	3	punct
+

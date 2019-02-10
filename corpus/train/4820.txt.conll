@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	det
+2	paper	paper	NN	_	3	nsubj
+3	discusses	discuss	VBZ	_	0	ROOT
+4	an	a	DT	_	8	det
+5	on-line	on-line	JJ	_	8	amod
+6	signature	signature	NN	_	8	nn
+7	verification	verification	NN	_	8	nn
+8	method	method	NN	_	3	dobj
+9	based	base	VBN	_	8	prep
+10	on	on	IN	_	9	pcomp
+11	angular	angular	JJ	_	12	amod
+12	direction	direction	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	pen	pen	NN	_	16	nn
+15	point	point	NN	_	16	nn
+16	movement	movement	NN	_	13	pobj
+17	-LRB-	-lrb-	-LRB-	_	18	punct
+18	ADPM	adpm	NN	_	16	appos
+19	-RRB-	-rrb-	-RRB-	_	18	punct
+20	.	.	.	_	3	punct
+

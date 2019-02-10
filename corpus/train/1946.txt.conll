@@ -1,0 +1,24 @@
+1	These	these	DT	_	2	det
+2	centres	centre	NNS	_	12	nsubj
+3	,	,	,	_	2	punct
+4	along	along	IN	_	2	prep
+5	with	with	IN	_	4	pcomp
+6	appropriate	appropriate	JJ	_	10	amod
+7	educational	educational	JJ	_	10	amod
+8	and	and	CC	_	7	cc
+9	psychosocial	psychosocial	JJ	_	7	conj
+10	interventions	intervention	NNS	_	5	pobj
+11	,	,	,	_	2	punct
+12	helped	help	VBD	_	0	ROOT
+13	children	child	NNS	_	14	nsubj
+14	overcome	overcome	VB	_	12	ccomp
+15	the	the	DT	_	16	det
+16	trauma	trauma	NN	_	14	dobj
+17	and	and	CC	_	16	cc
+18	stress	stress	NN	_	16	conj
+19	caused	cause	VBN	_	16	vmod
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	earthquake	earthquake	NN	_	20	pobj
+23	.	.	.	_	12	punct
+

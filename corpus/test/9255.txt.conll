@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	wine	wine	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	4	pobj
+6	can	can	MD	_	5	dep
+7	so	so	RB	_	9	advmod
+8	I	I	PRP	_	9	nsubj
+9	called	call	VBD	_	6	ccomp
+10	downstairs	downstairs	NNS	_	9	dobj
+11	to	to	TO	_	12	aux
+12	see	see	VB	_	10	vmod
+13	if	if	IN	_	15	mark
+14	there	there	EX	_	15	expl
+15	were	be	VBD	_	12	advcl
+16	any	any	DT	_	19	det
+17	other	other	JJ	_	19	amod
+18	regular	regular	JJ	_	19	amod
+19	Roses	Roses	NNPS	_	15	nsubj
+20	.	.	.	_	3	punct
+

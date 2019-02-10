@@ -1,0 +1,19 @@
+1	Most	most	JJS	_	2	amod
+2	oil	oil	NN	_	6	nsubj
+3	polluting	pollute	VBG	_	2	vmod
+4	the	the	DT	_	5	det
+5	oceans	ocean	NNS	_	3	dobj
+6	comes	come	VBZ	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	runoff	runoff	NN	_	7	pobj
+9	,	,	,	_	8	punct
+10	rivers	river	NNS	_	8	conj
+11	,	,	,	_	8	punct
+12	small	small	JJ	_	13	amod
+13	boats	boat	NNS	_	8	appos
+14	,	,	,	_	8	punct
+15	not	not	RB	_	16	neg
+16	tanker	tanker	NN	_	17	nn
+17	spills	spill	NNS	_	8	appos
+18	.	.	.	_	6	punct
+

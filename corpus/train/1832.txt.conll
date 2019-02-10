@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	grenade	grenade	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	tin	tin	NN	_	4	pobj
+7	alongside	alongside	IN	_	3	prep
+8	the	the	DT	_	10	det
+9	hotel	hotel	NN	_	10	nn
+10	fence	fence	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

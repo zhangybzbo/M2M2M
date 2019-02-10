@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	system	system	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	filter	filter	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	clean	clean	VB	_	3	vmod
+8	the	the	DT	_	9	det
+9	air	air	NN	_	7	dobj
+10	that	that	IN	_	15	dobj
+11	the	the	DT	_	13	det
+12	central	central	JJ	_	13	amod
+13	vacuum	vacuum	NN	_	15	nsubj
+14	has	have	VBZ	_	15	aux
+15	taken	take	VBN	_	9	rcmod
+16	in	in	RP	_	15	prt
+17	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	Instead	instead	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	criminal	criminal	JJ	_	4	amod
+4	law	law	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	set	set	VBN	_	0	ROOT
+7	out	out	RP	_	6	prt
+8	in	in	IN	_	6	prep
+9	a	a	DT	_	11	det
+10	diverse	diverse	JJ	_	11	amod
+11	range	range	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	statutes	statute	NNS	_	12	pobj
+14	and	and	CC	_	13	cc
+15	court	court	NN	_	16	nn
+16	decisions	decision	NNS	_	13	conj
+17	.	.	.	_	6	punct
+

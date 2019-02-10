@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	drying	dry	VBG	_	3	amod
+3	step	step	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	achieved	achieve	VBN	_	0	ROOT
+6	within	within	IN	_	5	prep
+7	4	4	CD	_	8	num
+8	hours	hour	NNS	_	6	pobj
+9	from	from	IN	_	5	prep
+10	the	the	DT	_	11	det
+11	exit	exit	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	barley	barley	NN	_	12	pobj
+15	spent	spend	VBD	_	5	dep
+16	grain	grain	NN	_	15	dobj
+17	from	from	IN	_	15	prep
+18	the	the	DT	_	19	det
+19	beer	beer	NN	_	17	pobj
+20	or	or	CC	_	19	cc
+21	malt	malt	NN	_	22	nn
+22	production	production	NN	_	19	conj
+23	.	.	.	_	5	punct
+

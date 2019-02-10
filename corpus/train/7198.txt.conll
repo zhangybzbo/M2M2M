@@ -1,0 +1,20 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	struck	strike	VBD	_	0	ROOT
+4	my	my	PRP$	_	6	poss
+5	video	video	NN	_	6	nn
+6	camera	camera	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	9	det
+9	hammer	hammer	NN	_	7	pobj
+10	while	while	IN	_	12	mark
+11	I	I	PRP	_	12	nsubj
+12	accompanied	accompany	VBD	_	3	advcl
+13	a	a	DT	_	16	det
+14	German	german	JJ	_	16	amod
+15	film	film	NN	_	16	nn
+16	crew	crew	NN	_	12	dobj
+17	in	in	IN	_	16	prep
+18	Clearwater	Clearwater	NNP	_	17	pobj
+19	.	.	.	_	3	punct
+

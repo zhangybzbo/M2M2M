@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	view	view	NN	_	6	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	inside	inside	NN	_	3	pobj
+6	is	be	VBZ	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	bridge	bridge	NN	_	7	pobj
+10	that	that	WDT	_	11	nsubj
+11	spans	span	VBZ	_	9	rcmod
+12	Atherton	Atherton	NNP	_	13	nn
+13	Street	Street	NNP	_	11	dobj
+14	.	.	.	_	6	punct
+

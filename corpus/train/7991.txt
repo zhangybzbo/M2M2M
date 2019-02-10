@@ -1,0 +1,1 @@
+Using an e-prescription module in an electronic record system , the prescriber makes out a prescription and transfers it to the national e-prescription mailbox .

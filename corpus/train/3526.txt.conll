@@ -1,0 +1,12 @@
+1	NASA	NASA	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	dumped	dump	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	probe	probe	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	10	det
+8	deep	deep	JJ	_	10	amod
+9	outer	outer	JJ	_	10	amod
+10	space	space	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

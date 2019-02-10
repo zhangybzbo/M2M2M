@@ -1,0 +1,1 @@
+On both of my systems , the reboot produced the ominous message ` Missing operating system ' .

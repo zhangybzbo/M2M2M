@@ -1,0 +1,10 @@
+1	A	a	DT	_	2	nsubj
+2	drove	drive	VBD	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	oxen	ox	NN	_	3	pobj
+5	was	be	VBD	_	6	auxpass
+6	taken	take	VBN	_	2	dep
+7	to	to	TO	_	6	prep
+8	market	market	NN	_	7	pobj
+9	.	.	.	_	2	punct
+

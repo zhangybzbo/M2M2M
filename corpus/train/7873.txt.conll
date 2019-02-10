@@ -1,0 +1,27 @@
+1	Inhibition	inhibition	NN	_	5	nsubj
+2	through	through	IN	_	1	prep
+3	synaptic	synaptic	JJ	_	4	amod
+4	depression	depression	NN	_	2	pobj
+5	is	be	VBZ	_	0	ROOT
+6	unlike	unlike	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	previous	previous	JJ	_	9	amod
+9	forms	form	NNS	_	6	pobj
+10	of	of	IN	_	9	prep
+11	inhibition	inhibition	NN	_	10	pobj
+12	in	in	IN	_	9	prep
+13	that	that	IN	_	15	mark
+14	it	it	PRP	_	15	nsubj
+15	turns	turn	VBZ	_	12	pcomp
+16	on	on	IN	_	15	prep
+17	more	more	RBR	_	18	advmod
+18	slowly	slowly	RB	_	16	pobj
+19	and	and	CC	_	15	cc
+20	thus	thus	RB	_	21	advmod
+21	acts	act	VBZ	_	15	conj
+22	as	as	IN	_	21	prep
+23	delayed	delay	VBN	_	25	amod
+24	negative	negative	JJ	_	25	amod
+25	feedback	feedback	NN	_	22	pobj
+26	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+1	His	he	PRP$	_	2	poss
+2	perspective	perspective	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	gained	gain	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	knowledge	knowledge	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	history	history	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	theology	theology	NN	_	9	conj
+12	.	.	.	_	4	punct
+

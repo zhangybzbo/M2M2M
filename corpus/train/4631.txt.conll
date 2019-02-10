@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	photograph	photograph	NN	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	an	a	DT	_	7	det
+5	automobile	automobile	NN	_	7	nn
+6	training	training	NN	_	7	nn
+7	device	device	NN	_	3	pobj
+8	was	be	VBD	_	9	auxpass
+9	enclosed	enclose	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	letter	letter	NN	_	10	pobj
+13	to	to	TO	_	12	prep
+14	Edwin	Edwin	NNP	_	15	nn
+15	Link	Link	NNP	_	13	pobj
+16	.	.	.	_	9	punct
+

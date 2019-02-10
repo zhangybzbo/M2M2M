@@ -1,0 +1,24 @@
+1	They	they	PRP	_	3	nsubj
+2	then	then	RB	_	3	advmod
+3	placed	place	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	fish	fish	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	wooden	wooden	JJ	_	9	amod
+9	barrel	barrel	NN	_	6	pobj
+10	filled	fill	VBN	_	9	vmod
+11	with	with	IN	_	10	prep
+12	water	water	NN	_	11	pobj
+13	and	and	CC	_	3	cc
+14	fired	fire	VBD	_	3	conj
+15	at	at	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	fish	fish	NN	_	15	pobj
+18	with	with	IN	_	14	prep
+19	a	a	DT	_	22	det
+20	9	9	CD	_	21	number
+21	mm	mm	NN	_	22	amod
+22	pistol	pistol	NN	_	18	pobj
+23	.	.	.	_	3	punct
+

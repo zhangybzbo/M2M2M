@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	concept	concept	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	originated	originate	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	ancient	ancient	JJ	_	9	amod
+8	maternal	maternal	JJ	_	9	amod
+9	tribe	tribe	NN	_	5	pobj
+10	named	name	VBN	_	9	vmod
+11	`	`	``	_	12	punct
+12	Mosuo	Mosuo	NNP	_	10	dep
+13	'	'	''	_	12	punct
+14	in	in	IN	_	10	prep
+15	Sichuan	Sichuan	NNP	_	16	nn
+16	province	province	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	China	China	NNP	_	17	pobj
+19	.	.	.	_	4	punct
+

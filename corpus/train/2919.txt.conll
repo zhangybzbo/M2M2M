@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	nsubj
+2	following	follow	VBG	_	1	amod
+3	are	be	VBP	_	4	cop
+4	pages	page	NNS	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	MeSH	mesh	NN	_	8	nn
+7	annual	annual	JJ	_	8	amod
+8	updates	update	NNS	_	5	pobj
+9	from	from	IN	_	8	prep
+10	previous	previous	JJ	_	11	amod
+11	years	year	NNS	_	9	pobj
+12	.	.	.	_	4	punct
+

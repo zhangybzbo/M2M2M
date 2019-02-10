@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	stem	stem	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	verb	verb	VBP	_	3	pobj
+6	is	be	VBZ	_	10	cop
+7	the	the	DT	_	10	det
+8	main	main	JJ	_	10	amod
+9	building	building	NN	_	10	nn
+10	block	block	NN	_	0	ROOT
+11	when	when	WRB	_	12	advmod
+12	forming	form	VBG	_	10	advcl
+13	the	the	DT	_	15	det
+14	present	present	JJ	_	15	amod
+15	tense	tense	JJ	_	12	dobj
+16	.	.	.	_	10	punct
+

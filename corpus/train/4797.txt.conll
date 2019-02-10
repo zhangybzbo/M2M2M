@@ -1,0 +1,27 @@
+1	Morton	Morton	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	neuroma	neuroma	NN	_	8	nsubj
+4	is	be	VBZ	_	8	cop
+5	the	the	DT	_	8	det
+6	most	most	RBS	_	7	advmod
+7	common	common	JJ	_	8	amod
+8	cause	cause	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	localized	localized	JJ	_	11	amod
+11	pain	pain	NN	_	9	pobj
+12	in	in	IN	_	8	prep
+13	the	the	DT	_	15	det
+14	third	third	JJ	_	15	amod
+15	interspace	interspace	NN	_	12	pobj
+16	and	and	CC	_	8	cc
+17	these	these	DT	_	19	det
+18	diagnostic	diagnostic	JJ	_	19	amod
+19	tests	test	NNS	_	20	nsubj
+20	produce	produce	VBP	_	8	conj
+21	good	good	JJ	_	22	amod
+22	indications	indication	NNS	_	20	dobj
+23	of	of	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	condition	condition	NN	_	23	pobj
+26	.	.	.	_	8	punct
+

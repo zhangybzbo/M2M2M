@@ -1,0 +1,22 @@
+1	Air	Air	NNP	_	2	nn
+2	pollution	pollution	NN	_	5	nsubj
+3	from	from	IN	_	2	prep
+4	coal	coal	NN	_	3	pobj
+5	fired	fire	VBD	_	9	csubj
+6	sources	source	NNS	_	5	dobj
+7	is	be	VBZ	_	9	cop
+8	so	so	RB	_	9	advmod
+9	serious	serious	JJ	_	0	ROOT
+10	we	we	PRP	_	13	nsubj
+11	can	can	MD	_	13	aux
+12	not	not	RB	_	13	neg
+13	afford	afford	VB	_	9	ccomp
+14	a	a	DT	_	15	det
+15	policy	policy	NN	_	13	dobj
+16	that	that	WDT	_	17	nsubj
+17	backslides	backslide	VBZ	_	15	rcmod
+18	in	in	IN	_	17	prep
+19	any	any	DT	_	20	det
+20	way	way	NN	_	18	pobj
+21	.	.	.	_	9	punct
+

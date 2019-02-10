@@ -1,0 +1,13 @@
+1	The	the	DT	_	5	det
+2	gold	gold	NN	_	5	nn
+3	leaf	leaf	NN	_	5	nn
+4	lobby	lobby	NN	_	5	nn
+5	ceiling	ceiling	NN	_	7	nsubj
+6	was	be	VBD	_	7	cop
+7	hand-finished	hand-finished	JJ	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	an	a	DT	_	11	det
+10	Italian	italian	JJ	_	11	amod
+11	craftsman	craftsman	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

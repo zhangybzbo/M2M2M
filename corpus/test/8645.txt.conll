@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det
+2	bundle	bundle	NN	_	15	nsubjpass
+3	of	of	IN	_	2	prep
+4	sensitive	sensitive	JJ	_	5	amod
+5	files	file	NNS	_	3	pobj
+6	linked	link	VBN	_	5	vmod
+7	to	to	TO	_	6	prep
+8	a	a	DT	_	12	det
+9	massive	massive	JJ	_	12	amod
+10	police	police	NN	_	12	nn
+11	drugs	drug	NNS	_	12	nn
+12	bust	bust	NN	_	7	pobj
+13	have	have	VBP	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	found	find	VBN	_	19	dep
+16	dumped	dump	VBN	_	19	dep
+17	in	in	IN	_	19	dep
+18	a	a	DT	_	19	dep
+19	skip	skip	VBP	_	0	ROOT
+20	.	.	.	_	19	punct
+

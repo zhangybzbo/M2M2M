@@ -1,0 +1,23 @@
+1	Andronicus	Andronicus	NNP	_	2	nsubj
+2	wrote	write	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	work	work	NN	_	2	dobj
+5	upon	upon	IN	_	2	prep
+6	Aristotle	Aristotle	NNP	_	5	pobj
+7	,	,	,	_	2	punct
+8	the	the	DT	_	10	det
+9	fifth	fifth	JJ	_	10	amod
+10	book	book	NN	_	13	nsubj
+11	of	of	IN	_	10	prep
+12	which	which	WDT	_	11	pobj
+13	contained	contain	VBD	_	2	ccomp
+14	a	a	DT	_	16	det
+15	complete	complete	JJ	_	16	amod
+16	list	list	NN	_	13	dobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	philosopher	philosopher	NN	_	21	poss
+20	's	's	POS	_	19	possessive
+21	writings	writings	NNS	_	17	pobj
+22	.	.	.	_	2	punct
+

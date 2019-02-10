@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	dolphin	dolphin	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	its	its	PRP$	_	5	poss
+5	flukes	fluke	NNS	_	3	dobj
+6	for	for	IN	_	5	prep
+7	swimming	swimming	NN	_	6	pobj
+8	and	and	CC	_	7	cc
+9	its	its	PRP$	_	10	poss
+10	flippers	flipper	NNS	_	7	conj
+11	for	for	IN	_	3	prep
+12	steering	steer	VBG	_	11	pcomp
+13	.	.	.	_	3	punct
+

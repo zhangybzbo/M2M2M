@@ -1,0 +1,24 @@
+1	Already	already	RB	_	9	advmod
+2	in	in	IN	_	9	prep
+3	recent	recent	JJ	_	4	amod
+4	years	year	NNS	_	2	pobj
+5	,	,	,	_	9	punct
+6	Iowa-raised	iowa-raised	JJ	_	7	amod
+7	swans	swan	NNS	_	9	nsubj
+8	have	have	VBP	_	9	aux
+9	migrated	migrate	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	regions	region	NNS	_	10	pobj
+12	in	in	IN	_	11	prep
+13	Illinois	Illinois	NNP	_	12	pobj
+14	near	near	IN	_	11	prep
+15	Savanna	Savanna	NNP	_	14	pobj
+16	where	where	WRB	_	19	advmod
+17	they	they	PRP	_	19	nsubj
+18	have	have	VBP	_	19	aux
+19	had	have	VBD	_	15	rcmod
+20	a	a	DT	_	22	det
+21	successful	successful	JJ	_	22	amod
+22	nesting	nesting	JJ	_	19	dobj
+23	.	.	.	_	9	punct
+

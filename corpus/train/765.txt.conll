@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	remaining	remain	VBG	_	3	amod
+3	articles	article	NNS	_	4	nsubj
+4	run	run	VBP	_	0	ROOT
+5	the	the	DT	_	6	det
+6	gamut	gamut	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	sociological	sociological	JJ	_	9	amod
+9	research	research	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

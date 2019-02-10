@@ -1,0 +1,21 @@
+1	When	when	WRB	_	4	advmod
+2	service	service	NN	_	3	nn
+3	time	time	NN	_	4	nsubj
+4	came	come	VBD	_	8	advcl
+5	,	,	,	_	8	punct
+6	he	he	PRP	_	8	nsubj
+7	carefully	carefully	RB	_	8	advmod
+8	put	put	VBD	_	0	ROOT
+9	the	the	DT	_	10	det
+10	wine	wine	NN	_	8	dobj
+11	in	in	IN	_	8	prep
+12	a	a	DT	_	13	det
+13	cradle	cradle	NN	_	11	pobj
+14	that	that	WDT	_	15	nsubj
+15	holded	hold	VBD	_	13	rcmod
+16	it	it	PRP	_	15	dobj
+17	at	at	IN	_	15	prep
+18	an	a	DT	_	19	det
+19	angle	angle	NN	_	17	pobj
+20	.	.	.	_	8	punct
+

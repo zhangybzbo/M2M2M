@@ -1,0 +1,20 @@
+1	They	they	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	taken	take	VBN	_	0	ROOT
+4	this	this	DT	_	3	dobj
+5	from	from	IN	_	3	prep
+6	my	my	PRP$	_	7	poss
+7	trousseau	trousseau	NN	_	5	pobj
+8	when	when	WRB	_	10	advmod
+9	something	something	NN	_	10	nsubj
+10	rustles	rustle	VBZ	_	3	advcl
+11	beyond	beyond	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	staggering	staggering	JJ	_	14	amod
+14	gambol	gambol	NN	_	11	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	shadow	shadow	NN	_	18	nn
+18	dancers	dancer	NNS	_	15	pobj
+19	.	.	.	_	3	punct
+

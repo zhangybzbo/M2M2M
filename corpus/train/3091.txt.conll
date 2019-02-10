@@ -1,0 +1,26 @@
+1	Our	we	PRP$	_	2	poss
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	entered	enter	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	exclusive	exclusive	JJ	_	9	amod
+8	retail	retail	JJ	_	9	amod
+9	business	business	NN	_	5	pobj
+10	and	and	CC	_	4	cc
+11	plans	plan	VBZ	_	4	conj
+12	to	to	TO	_	13	aux
+13	open	open	VB	_	11	xcomp
+14	60	60	CD	_	16	num
+15	retail	retail	JJ	_	16	amod
+16	stores	store	NNS	_	13	dobj
+17	in	in	IN	_	13	prep
+18	the	the	DT	_	19	det
+19	country	country	NN	_	17	pobj
+20	in	in	IN	_	13	prep
+21	the	the	DT	_	24	det
+22	next	next	JJ	_	24	amod
+23	5	5	CD	_	24	num
+24	years	year	NNS	_	20	pobj
+25	.	.	.	_	4	punct
+

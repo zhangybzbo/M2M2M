@@ -1,0 +1,19 @@
+1	And	and	CC	_	14	cc
+2	,	,	,	_	14	punct
+3	even	even	RB	_	4	advmod
+4	stranger	stranger	NN	_	14	tmod
+5	,	,	,	_	14	punct
+6	a	a	DT	_	7	det
+7	book	book	NN	_	14	nsubjpass
+8	published	publish	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	an	a	DT	_	12	det
+11	academic	academic	JJ	_	12	amod
+12	press	press	NN	_	9	pobj
+13	is	be	VBZ	_	14	auxpass
+14	made	make	VBN	_	0	ROOT
+15	into	into	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	play	play	NN	_	15	pobj
+18	.	.	.	_	14	punct
+

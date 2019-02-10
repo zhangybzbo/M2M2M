@@ -1,0 +1,12 @@
+0	60	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Peterson" pos="NNP" nsubj="t1"
+9	15	tok id="t1" base="work" pos="VBD" ROOT="ROOT"
+16	18	tok id="t2" base="as" pos="IN" prep="t1"
+19	20	tok id="t3" base="a" pos="DT" det="t5"
+21	31	tok id="t4" base="fertilizer" pos="NN" nn="t5"
+32	40	tok id="t5" base="salesman" pos="NN" pobj="t2"
+41	47	tok id="t6" base="before" pos="IN" prep="t1"
+48	51	tok id="t7" base="he" pos="PRP$" poss="t8"
+52	58	tok id="t8" base="arrest" pos="NN" pobj="t6"
+59	60	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

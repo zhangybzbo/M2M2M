@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	risks	risk	NNS	_	13	nsubj
+3	to	to	TO	_	2	prep
+4	housing	housing	NN	_	3	pobj
+5	and	and	CC	_	4	cc
+6	general	general	JJ	_	8	amod
+7	corporate	corporate	JJ	_	8	amod
+8	profits	profit	NNS	_	4	conj
+9	from	from	IN	_	2	prep
+10	inflation	inflation	NN	_	9	pobj
+11	were	be	VBD	_	13	cop
+12	quite	quite	RB	_	13	advmod
+13	clear	clear	JJ	_	0	ROOT
+14	and	and	CC	_	13	cc
+15	the	the	DT	_	17	det
+16	defensive	defensive	JJ	_	17	amod
+17	strategy	strategy	NN	_	23	nsubj
+18	over	over	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	long	long	JJ	_	21	amod
+21	term	term	NN	_	18	pobj
+22	has	have	VBZ	_	23	aux
+23	paid	pay	VBN	_	13	conj
+24	dividends	dividend	NNS	_	23	dobj
+25	.	.	.	_	13	punct
+

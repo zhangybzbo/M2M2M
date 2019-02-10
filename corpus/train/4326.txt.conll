@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	coat	coat	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	evolved	evolve	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	cassock	cassock	NN	_	5	pobj
+8	,	,	,	_	7	punct
+9	a	a	DT	_	13	det
+10	loose	loose	JJ	_	13	amod
+11	,	,	,	_	13	punct
+12	knee-length	knee-length	JJ	_	13	amod
+13	coat	coat	NN	_	7	appos
+14	with	with	IN	_	13	prep
+15	buttons	button	NNS	_	14	pobj
+16	all	all	PDT	_	18	predet
+17	the	the	DT	_	18	det
+18	way	way	NN	_	13	dep
+19	down	down	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	front	front	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

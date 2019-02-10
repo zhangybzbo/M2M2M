@@ -1,0 +1,21 @@
+1	He	he	PRP	_	2	nsubj
+2	published	publish	VBD	_	0	ROOT
+3	important	important	JJ	_	4	amod
+4	works	work	NNS	_	2	dobj
+5	on	on	IN	_	4	prep
+6	epistemology	epistemology	NN	_	5	pobj
+7	,	,	,	_	4	punct
+8	as	as	RB	_	9	advmod
+9	well	well	RB	_	4	cc
+10	as	as	IN	_	9	mwe
+11	works	work	NNS	_	4	conj
+12	relevant	relevant	JJ	_	11	amod
+13	to	to	TO	_	12	prep
+14	religion	religion	NN	_	13	pobj
+15	,	,	,	_	14	punct
+16	law	law	NN	_	14	conj
+17	,	,	,	_	14	punct
+18	and	and	CC	_	14	cc
+19	history	history	NN	_	14	conj
+20	.	.	.	_	2	punct
+

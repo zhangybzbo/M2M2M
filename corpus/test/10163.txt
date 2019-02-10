@@ -1,0 +1,1 @@
+When a property is the source of a data binding expression , Flex automatically copies the value of the source property to any destination property .

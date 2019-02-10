@@ -1,0 +1,24 @@
+1	Each	each	DT	_	2	det
+2	recipe	recipe	NN	_	3	nsubj
+3	features	feature	VBZ	_	0	ROOT
+4	an	a	DT	_	5	det
+5	anecdote	anecdote	NN	_	3	dobj
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	band	band	NN	_	6	pobj
+9	that	that	WDT	_	10	nsubj
+10	performed	perform	VBD	_	8	rcmod
+11	via	via	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	Hope	Hope	NNP	_	14	nn
+14	Collective	Collective	NNP	_	11	pobj
+15	,	,	,	_	14	punct
+16	a	a	DT	_	18	det
+17	popular	popular	JJ	_	18	amod
+18	punk	punk	NN	_	14	appos
+19	booking	book	VBG	_	18	vmod
+20	collective	collective	JJ	_	19	dobj
+21	in	in	IN	_	20	prep
+22	Dublin	Dublin	NNP	_	21	pobj
+23	.	.	.	_	3	punct
+

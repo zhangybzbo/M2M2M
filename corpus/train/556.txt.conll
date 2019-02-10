@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	tailpiece	tailpiece	NN	_	3	nn
+3	anchors	anchor	NNS	_	0	ROOT
+4	the	the	DT	_	5	det
+5	strings	string	NNS	_	3	dep
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	9	det
+8	lower	lower	JJR	_	9	amod
+9	bout	bout	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	violin	violin	NN	_	10	pobj
+13	by	by	IN	_	5	prep
+14	means	means	NNS	_	13	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	tailgut	tailgut	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	4	det
+3	Anatolian	anatolian	JJ	_	4	amod
+4	language	language	NN	_	5	nsubj
+5	went	go	VBD	_	12	advcl
+6	away	away	RB	_	5	advmod
+7	from	from	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	community	community	NN	_	7	pobj
+10	,	,	,	_	12	punct
+11	it	it	PRP	_	12	nsubj
+12	continued	continue	VBD	_	0	ROOT
+13	its	its	PRP$	_	15	poss
+14	dialectal	dialectal	JJ	_	15	amod
+15	divisions	division	NNS	_	12	dobj
+16	.	.	.	_	12	punct
+

@@ -1,0 +1,3 @@
+T1	Term 20 25	probe
+T2	Term 40 51	outer space
+R1	Entity-Destination Arg1:T1 Arg2:T2

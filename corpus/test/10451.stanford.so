@@ -1,0 +1,12 @@
+0	50	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t2"
+2	7	tok id="t1" base="sewer" pos="NN" nn="t2"
+8	13	tok id="t2" base="cover" pos="NN" ROOT="ROOT"
+14	21	tok id="t3" base="show" pos="VBG" vmod="t2"
+22	25	tok id="t4" base="the" pos="DT" det="t5"
+26	30	tok id="t5" base="Mets" pos="NNPS" dobj="t3"
+31	34	tok id="t6" base="and" pos="CC" cc="t5"
+35	42	tok id="t7" base="Yankees" pos="NNPS" nn="t8"
+43	48	tok id="t8" base="logo" pos="NNS" conj="t5"
+49	50	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

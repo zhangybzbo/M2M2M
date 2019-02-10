@@ -1,0 +1,19 @@
+1	Her	she	PRP$	_	2	poss
+2	son	son	NN	_	6	nsubj
+3	,	,	,	_	2	punct
+4	Trent	Trent	NNP	_	2	appos
+5	,	,	,	_	2	punct
+6	remade	remake	VB	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	his	he	PRP$	_	9	poss
+9	father	father	NN	_	7	pobj
+10	the	the	DT	_	11	det
+11	dish	dish	NN	_	12	nsubj
+12	cooked	cook	VBD	_	9	rcmod
+13	at	at	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	school	school	NN	_	13	pobj
+16	that	that	WDT	_	17	det
+17	day	day	NN	_	15	dep
+18	.	.	.	_	6	punct
+

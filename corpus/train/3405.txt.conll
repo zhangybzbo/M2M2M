@@ -1,0 +1,23 @@
+1	In	in	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	healthy	healthy	JJ	_	4	amod
+4	heart	heart	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	the	the	DT	_	8	det
+7	left	left	JJ	_	8	amod
+8	ventricle	ventricle	NN	_	9	nsubj
+9	performs	perform	VBZ	_	0	ROOT
+10	a	a	DT	_	13	det
+11	systolic	systolic	JJ	_	13	amod
+12	wringing	wringing	NN	_	13	nn
+13	motion	motion	NN	_	9	dobj
+14	,	,	,	_	9	punct
+15	with	with	IN	_	9	prep
+16	a	a	DT	_	18	det
+17	counterclockwise	counterclockwise	JJ	_	18	amod
+18	rotation	rotation	NN	_	15	pobj
+19	at	at	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	apex	apex	NN	_	19	pobj
+22	.	.	.	_	9	punct
+

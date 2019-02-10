@@ -1,0 +1,8 @@
+0	41	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="ringtone" pos="NN" nsubj="t2"
+13	18	tok id="t2" base="make" pos="VBZ" ROOT="ROOT"
+19	22	tok id="t3" base="the" pos="DT" det="t4"
+23	39	tok id="t4" base="telecommunicator" pos="NN" dobj="t2"
+40	41	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

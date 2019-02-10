@@ -1,0 +1,22 @@
+1	Three	three	CD	_	4	num
+2	poor	poor	JJ	_	4	amod
+3	seal	seal	NN	_	4	nn
+4	pups	pup	NNS	_	5	nsubj
+5	rescued	rescue	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Yorkshire	Yorkshire	NNP	_	9	nn
+9	coast	coast	NN	_	6	pobj
+10	were	be	VBD	_	11	auxpass
+11	released	release	VBN	_	5	dep
+12	back	back	RB	_	11	advmod
+13	into	into	IN	_	11	prep
+14	the	the	DT	_	15	det
+15	wild	wild	JJ	_	13	pobj
+16	at	at	IN	_	15	prep
+17	Seal	Seal	NNP	_	18	nn
+18	Sands	Sands	NNP	_	16	pobj
+19	on	on	IN	_	18	prep
+20	Teesside	Teesside	NNP	_	19	pobj
+21	.	.	.	_	5	punct
+

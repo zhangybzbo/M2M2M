@@ -1,0 +1,13 @@
+0	58	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	12	tok id="t1" base="machine" pos="NN" nsubj="t2"
+13	16	tok id="t2" base="have" pos="VBZ" ROOT="ROOT"
+17	20	tok id="t3" base="two" pos="CD" num="t5"
+21	28	tok id="t4" base="heating" pos="NN" nn="t5"
+29	34	tok id="t5" base="unit" pos="NNS" dobj="t2"
+35	38	tok id="t6" base="and" pos="CC" cc="t5"
+39	42	tok id="t7" base="two" pos="CD" num="t9"
+43	50	tok id="t8" base="cool" pos="VBG" amod="t9"
+51	56	tok id="t9" base="unit" pos="NNS" conj="t5"
+57	58	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

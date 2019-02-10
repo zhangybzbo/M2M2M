@@ -1,0 +1,12 @@
+0	63	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="th" pos="NN" nn="t3"
+3	9	tok id="t1" base="animal" pos="NN" nn="t3"
+10	16	tok id="t2" base="rights" pos="NNS" nn="t3"
+17	26	tok id="t3" base="activist" pos="NNS" nsubj="t5"
+27	31	tok id="t4" base="have" pos="VBP" aux="t5"
+32	42	tok id="t5" base="approach" pos="VBN" ROOT="ROOT"
+43	46	tok id="t6" base="the" pos="DT" det="t8"
+47	55	tok id="t7" base="open-air" pos="JJ" amod="t8"
+56	61	tok id="t8" base="cage" pos="NNS" dobj="t5"
+62	63	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

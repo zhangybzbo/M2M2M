@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	hollow	hollow	JJ	_	3	amod
+3	bar	bar	NN	_	7	nsubj
+4	mounting	mount	VBG	_	3	vmod
+5	the	the	DT	_	6	det
+6	cameras	camera	NNS	_	4	dobj
+7	encloses	enclose	VBZ	_	0	ROOT
+8	a	a	DT	_	10	det
+9	wiring	wiring	NN	_	10	nn
+10	harness	harness	NN	_	7	dobj
+11	between	between	IN	_	7	prep
+12	the	the	DT	_	13	det
+13	cameras	camera	NNS	_	11	pobj
+14	.	.	.	_	7	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	three	three	CD	_	3	num
+3	valves	valve	NNS	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	trumpet	trumpet	NN	_	4	pobj
+7	add	add	VB	_	0	ROOT
+8	lengths	length	NNS	_	7	dobj
+9	of	of	IN	_	8	prep
+10	tubing	tubing	NN	_	9	pobj
+11	to	to	TO	_	7	prep
+12	the	the	DT	_	13	det
+13	instrument	instrument	NN	_	11	pobj
+14	to	to	TO	_	15	aux
+15	lower	lower	VB	_	13	vmod
+16	the	the	DT	_	17	det
+17	pitch	pitch	NN	_	15	dobj
+18	.	.	.	_	7	punct
+

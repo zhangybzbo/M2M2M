@@ -1,0 +1,15 @@
+1	He	he	PRP	_	2	nsubj
+2	boiled	boil	VBD	_	0	ROOT
+3	one	one	CD	_	4	num
+4	liter	liter	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	water	water	NN	_	5	pobj
+7	in	in	IN	_	2	prep
+8	a	a	DT	_	9	det
+9	flask	flask	NN	_	7	pobj
+10	on	on	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	hot	hot	JJ	_	13	amod
+13	plate	plate	NN	_	10	pobj
+14	.	.	.	_	2	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	Beatles	Beatles	NNP	_	7	poss
+3	'	'	POS	_	2	possessive
+4	1967	1967	CD	_	7	num
+5	album	album	NN	_	7	nn
+6	Sgt.	Sgt.	NNP	_	7	nn
+7	Pepper	Pepper	NNP	_	12	poss
+8	's	's	POS	_	7	possessive
+9	Lonely	Lonely	NNP	_	12	nn
+10	Hearts	Hearts	NNPS	_	12	nn
+11	Club	Club	NNP	_	12	nn
+12	Band	Band	NNP	_	13	nsubj
+13	has	have	VBZ	_	0	ROOT
+14	a	a	DT	_	17	det
+15	widely-recognized	widely-recognized	JJ	_	17	amod
+16	album	album	NN	_	17	nn
+17	cover	cover	NN	_	13	dobj
+18	which	which	WDT	_	19	nsubj
+19	depicts	depict	VBZ	_	17	rcmod
+20	several	several	JJ	_	22	amod
+21	dozen	dozen	NN	_	22	nn
+22	celebrities	celebrity	NNS	_	19	dobj
+23	and	and	CC	_	22	cc
+24	other	other	JJ	_	25	amod
+25	images	image	NNS	_	22	conj
+26	.	.	.	_	13	punct
+

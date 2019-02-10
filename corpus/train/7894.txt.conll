@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	kitchen	kitchen	NN	_	3	nsubj
+3	holds	hold	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	cooker	cooker	NN	_	3	dobj
+6	,	,	,	_	5	punct
+7	fridge	fridge	NN	_	5	conj
+8	,	,	,	_	5	punct
+9	microwave	microwave	NN	_	10	nn
+10	oven	oven	NN	_	5	conj
+11	,	,	,	_	5	punct
+12	in	in	IN	_	5	prep
+13	short	short	JJ	_	12	pobj
+14	;	;	:	_	3	punct
+15	everything	everything	NN	_	3	dep
+16	you	you	PRP	_	17	nsubj
+17	need	need	VBP	_	15	rcmod
+18	if	if	IN	_	20	mark
+19	you	you	PRP	_	20	nsubj
+20	want	want	VBP	_	17	advcl
+21	to	to	TO	_	22	aux
+22	prepare	prepare	VB	_	20	xcomp
+23	a	a	DT	_	25	det
+24	light	light	JJ	_	25	amod
+25	meal	meal	NN	_	22	dobj
+26	.	.	.	_	3	punct
+

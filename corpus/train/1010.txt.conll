@@ -1,0 +1,25 @@
+1	Strawberry	Strawberry	NNP	_	2	nn
+2	jam	jam	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	the	the	DT	_	6	det
+5	perfect	perfect	JJ	_	6	amod
+6	way	way	NN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	use	use	VB	_	6	vmod
+9	a	a	DT	_	10	det
+10	glut	glut	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	strawberries	strawberry	NNS	_	11	pobj
+13	and	and	CC	_	6	cc
+14	is	be	VBZ	_	16	cop
+15	so	so	RB	_	16	advmod
+16	easy	easy	JJ	_	6	conj
+17	to	to	TO	_	18	aux
+18	make	make	VB	_	16	xcomp
+19	with	with	IN	_	18	prep
+20	this	this	DT	_	23	det
+21	Strawberry	Strawberry	NNP	_	23	nn
+22	Jam	Jam	NNP	_	23	nn
+23	recipe	recipe	NN	_	19	pobj
+24	.	.	.	_	6	punct
+

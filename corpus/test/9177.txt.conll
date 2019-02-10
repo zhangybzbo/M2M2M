@@ -1,0 +1,12 @@
+1	Human	human	JJ	_	2	amod
+2	hands	hand	NNS	_	3	nsubj
+3	built	build	VBN	_	0	ROOT
+4	this	this	DT	_	6	det
+5	extravagant	extravagant	JJ	_	6	amod
+6	tomb	tomb	NN	_	3	dobj
+7	for	for	IN	_	3	prep
+8	the	the	DT	_	10	det
+9	God	God	NNP	_	10	nn
+10	King	King	NNP	_	7	pobj
+11	.	.	.	_	3	punct
+

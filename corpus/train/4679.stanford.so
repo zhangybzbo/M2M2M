@@ -1,0 +1,11 @@
+0	40	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="Zook" pos="NNP" nsubj="t1"
+5	9	tok id="t1" base="take" pos="VBD" ROOT="ROOT"
+10	13	tok id="t2" base="the" pos="DT" det="t3"
+14	16	tok id="t3" base="ax" pos="NN" dobj="t1"
+17	19	tok id="t4" base="to" pos="TO" prep="t1"
+20	23	tok id="t5" base="the" pos="DT" det="t7"
+24	32	tok id="t6" base="coaching" pos="NN" nn="t7"
+33	38	tok id="t7" base="staff" pos="NN" pobj="t4"
+39	40	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,14 @@
+1	A	a	DT	_	2	det
+2	sweeper	sweeper	NN	_	3	nsubj
+3	starts	start	VBZ	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	end	end	NN	_	4	pobj
+7	then	then	RB	_	8	advmod
+8	runs	run	VBZ	_	3	dep
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	12	det
+11	opposite	opposite	JJ	_	12	amod
+12	end	end	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

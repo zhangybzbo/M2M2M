@@ -1,0 +1,3 @@
+T1	Term 46 51	spike
+T2	Term 85 93	election
+R1	Cause-Effect Arg1:T2 Arg2:T1

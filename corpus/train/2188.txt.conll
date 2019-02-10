@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	stethoscope	stethoscope	NN	_	3	nsubj
+3	lets	let	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	doctor	doctor	NN	_	6	nsubj
+6	hear	hear	VB	_	3	ccomp
+7	your	you	PRP$	_	8	poss
+8	heartbeat	heartbeat	NN	_	6	dobj
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	way	way	NN	_	8	conj
+12	your	you	PRP$	_	13	poss
+13	lungs	lung	NNS	_	14	nsubj
+14	sound	sound	VB	_	11	rcmod
+15	.	.	.	_	3	punct
+

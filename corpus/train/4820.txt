@@ -1,0 +1,1 @@
+This paper discusses an on-line signature verification method based on angular direction of pen point movement -LRB- ADPM -RRB- .

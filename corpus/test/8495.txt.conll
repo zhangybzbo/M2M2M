@@ -1,0 +1,12 @@
+1	Changes	change	NNS	_	7	nsubjpass
+2	to	to	TO	_	1	prep
+3	the	the	DT	_	4	det
+4	regulations	regulation	NNS	_	2	pobj
+5	have	have	VBP	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	discussed	discuss	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	cabinet	cabinet	NN	_	10	nn
+10	sub-committee	sub-committee	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

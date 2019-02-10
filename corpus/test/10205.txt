@@ -1,0 +1,1 @@
+A computer program called Trakl ` Bigi generates poems in the style of the expressionist poet Georg Trakl .

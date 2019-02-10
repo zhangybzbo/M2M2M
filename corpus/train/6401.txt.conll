@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	body	body	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	her	she	PRP$	_	5	poss
+5	nephew	nephew	NN	_	3	pobj
+6	was	be	VBD	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	suitcase	suitcase	NN	_	7	pobj
+10	under	under	IN	_	6	prep
+11	the	the	DT	_	12	det
+12	bed	bed	NN	_	10	pobj
+13	.	.	.	_	6	punct
+

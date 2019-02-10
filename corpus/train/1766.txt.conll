@@ -1,0 +1,17 @@
+1	In	in	IN	_	9	prep
+2	recent	recent	JJ	_	3	amod
+3	months	month	NNS	_	1	pobj
+4	,	,	,	_	9	punct
+5	civility	civility	NN	_	9	nsubj
+6	has	have	VBZ	_	9	aux
+7	been	be	VBN	_	9	cop
+8	a	a	DT	_	9	det
+9	topic	topic	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	much	much	JJ	_	12	amod
+12	discussion	discussion	NN	_	10	pobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	newspapers	newspaper	NNS	_	13	pobj
+16	.	.	.	_	9	punct
+

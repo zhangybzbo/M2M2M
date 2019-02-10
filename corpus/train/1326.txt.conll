@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	dissimulation	dissimulation	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	small	small	JJ	_	5	amod
+5	birds	bird	NNS	_	3	pobj
+6	arrived	arrive	VBN	_	5	vmod
+7	near	near	IN	_	6	prep
+8	our	we	PRP$	_	9	poss
+9	place	place	NN	_	7	pobj
+10	last	last	JJ	_	11	amod
+11	week	week	NN	_	6	tmod
+12	and	and	CC	_	2	cc
+13	took	take	VBD	_	2	conj
+14	over	over	RP	_	13	prt
+15	our	we	PRP$	_	16	poss
+16	tree	tree	NN	_	13	dobj
+17	outside	outside	IN	_	13	advmod
+18	.	.	.	_	2	punct
+

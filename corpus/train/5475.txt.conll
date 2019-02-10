@@ -1,0 +1,14 @@
+1	They	they	PRP	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	symbols	symbol	NNS	_	0	ROOT
+4	that	that	WDT	_	5	nsubj
+5	indicate	indicate	VBP	_	3	rcmod
+6	the	the	DT	_	7	det
+7	structure	structure	NN	_	5	dobj
+8	and	and	CC	_	7	cc
+9	organization	organization	NN	_	7	conj
+10	of	of	IN	_	7	prep
+11	written	write	VBN	_	12	amod
+12	language	language	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

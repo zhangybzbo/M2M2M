@@ -1,0 +1,22 @@
+1	In	in	IN	_	13	prep
+2	the	the	DT	_	4	det
+3	shoulder	shoulder	NN	_	4	nn
+4	joint	joint	NN	_	1	pobj
+5	,	,	,	_	13	punct
+6	the	the	DT	_	7	det
+7	humerus	humerus	NN	_	13	nsubj
+8	-LRB-	-lrb-	-LRB-	_	11	punct
+9	upper	upper	JJ	_	11	amod
+10	arm	arm	NN	_	11	nn
+11	bone	bone	NN	_	7	appos
+12	-RRB-	-rrb-	-RRB-	_	11	punct
+13	fits	fit	VBZ	_	0	ROOT
+14	into	into	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	socket	socket	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	shoulder	shoulder	NN	_	20	nn
+20	blade	blade	NN	_	17	pobj
+21	.	.	.	_	13	punct
+

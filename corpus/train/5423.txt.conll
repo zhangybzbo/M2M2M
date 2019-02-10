@@ -1,0 +1,15 @@
+1	Bacteria	bacterium	NNS	_	0	ROOT
+2	and	and	CC	_	1	cc
+3	comedonal	comedonal	JJ	_	7	amod
+4	debris	debris	NN	_	7	nn
+5	cause	cause	NN	_	7	nn
+6	acne	acne	NN	_	7	nn
+7	pimples	pimple	NNS	_	1	conj
+8	or	or	CC	_	1	cc
+9	pustules	pustule	NNS	_	1	conj
+10	-LRB-	-lrb-	-LRB-	_	12	punct
+11	inflammatory	inflammatory	JJ	_	12	amod
+12	lesions	lesion	NNS	_	9	appos
+13	-RRB-	-rrb-	-RRB-	_	12	punct
+14	.	.	.	_	1	punct
+

@@ -1,0 +1,17 @@
+1	It	it	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	changed	change	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	way	way	NN	_	3	dobj
+6	I	I	PRP	_	7	nsubj
+7	think	think	VBP	_	5	rcmod
+8	about	about	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	formation	formation	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	parties	party	NNS	_	11	pobj
+13	and	and	CC	_	12	cc
+14	party	party	NN	_	15	nn
+15	systems	system	NNS	_	12	conj
+16	.	.	.	_	3	punct
+

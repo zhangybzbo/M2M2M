@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	Government	government	NN	_	3	nsubj
+3	spent	spend	VBD	_	0	ROOT
+4	nearly	nearly	RB	_	5	advmod
+5	10m	10m	JJ	_	6	amod
+6	euro	euro	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	taxpayers	taxpayer	NNS	_	10	poss
+9	'	'	POS	_	8	possessive
+10	money	money	NN	_	7	pobj
+11	this	this	DT	_	12	det
+12	year	year	NN	_	3	tmod
+13	to	to	TO	_	14	aux
+14	cover	cover	VB	_	3	vmod
+15	the	the	DT	_	16	det
+16	salaries	salary	NNS	_	14	dobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	ever-increasing	ever-increasing	JJ	_	20	amod
+20	coterie	coterie	NN	_	17	pobj
+21	of	of	IN	_	20	prep
+22	special	special	JJ	_	23	amod
+23	advisers	adviser	NNS	_	21	pobj
+24	.	.	.	_	3	punct
+

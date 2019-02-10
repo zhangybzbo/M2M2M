@@ -1,0 +1,10 @@
+1	The	the	DT	_	4	det
+2	Entrepreneurs	entrepreneur	NNS	_	4	nn
+3	Forum	Forum	NNP	_	4	nn
+4	event	event	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	postponed	postpone	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	tomorrow	tomorrow	NN	_	7	pobj
+9	.	.	.	_	6	punct
+

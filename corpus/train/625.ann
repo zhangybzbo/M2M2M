@@ -1,0 +1,3 @@
+T1	Term 10 16	damage
+T2	Term 52 60	strikers
+R1	Cause-Effect Arg1:T2 Arg2:T1

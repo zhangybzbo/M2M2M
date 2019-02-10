@@ -1,0 +1,10 @@
+1	It	it	PRP	_	2	nsubj
+2	was	be	VBD	_	0	ROOT
+3	like	like	IN	_	2	prep
+4	playing	play	VBG	_	3	pcomp
+5	people	people	NNS	_	4	dobj
+6	from	from	IN	_	4	prep
+7	outer	outer	JJ	_	8	amod
+8	space	space	NN	_	6	pobj
+9	.	.	.	_	2	punct
+

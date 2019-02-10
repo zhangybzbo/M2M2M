@@ -1,0 +1,14 @@
+1	Caribbean	Caribbean	NNP	_	3	nn
+2	criminal	criminal	JJ	_	3	amod
+3	groups	group	NNS	_	6	nsubj
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	aux
+6	transporting	transport	VBG	_	0	ROOT
+7	cocaine	cocaine	NN	_	6	dobj
+8	into	into	IN	_	6	prep
+9	major	major	JJ	_	10	amod
+10	cities	city	NNS	_	8	pobj
+11	in	in	IN	_	10	prep
+12	USA	USA	NNP	_	11	pobj
+13	.	.	.	_	6	punct
+

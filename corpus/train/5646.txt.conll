@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	primary	primary	JJ	_	3	amod
+3	parts	part	NNS	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	skateboard	skateboard	NN	_	4	pobj
+7	are	be	VBP	_	9	cop
+8	the	the	DT	_	9	det
+9	deck	deck	NN	_	0	ROOT
+10	,	,	,	_	9	punct
+11	the	the	DT	_	12	det
+12	trucks	truck	NNS	_	9	appos
+13	,	,	,	_	9	punct
+14	the	the	DT	_	15	det
+15	wheels	wheel	NNS	_	9	appos
+16	and	and	CC	_	15	cc
+17	bearings	bearing	NNS	_	15	conj
+18	,	,	,	_	9	punct
+19	the	the	DT	_	20	det
+20	hardware	hardware	NN	_	9	appos
+21	and	and	CC	_	20	cc
+22	the	the	DT	_	24	det
+23	grip	grip	NN	_	24	nn
+24	tape	tape	NN	_	20	conj
+25	.	.	.	_	9	punct
+

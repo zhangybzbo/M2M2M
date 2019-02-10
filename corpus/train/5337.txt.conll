@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	study	study	NN	_	0	ROOT
+3	considered	consider	VBN	_	2	vmod
+4	dairy	dairy	NN	_	5	nn
+5	farms	farm	NNS	_	3	dobj
+6	,	,	,	_	5	punct
+7	sheep	sheep	NN	_	5	conj
+8	and	and	CC	_	5	cc
+9	beef	beef	NN	_	10	nn
+10	farms	farm	NNS	_	5	conj
+11	,	,	,	_	5	punct
+12	vineyards	vineyard	NNS	_	5	conj
+13	and	and	CC	_	5	cc
+14	orchards	orchard	NNS	_	5	conj
+15	in	in	IN	_	5	prep
+16	Hawkes	hawke	NN	_	15	pobj
+17	.	.	.	_	2	punct
+

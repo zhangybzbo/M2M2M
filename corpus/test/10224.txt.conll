@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	work	work	NN	_	7	nsubj
+3	was	be	VBD	_	7	cop
+4	such	such	JJ	_	7	amod
+5	a	a	DT	_	7	det
+6	popular	popular	JJ	_	7	amod
+7	success	success	NN	_	0	ROOT
+8	that	that	IN	_	11	mark
+9	the	the	DT	_	10	det
+10	poet	poet	NN	_	11	nsubj
+11	wrote	write	VBD	_	7	ccomp
+12	a	a	DT	_	13	det
+13	sequel	sequel	NN	_	11	dobj
+14	.	.	.	_	7	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	pertinent	pertinent	JJ	_	3	amod
+3	passage	passage	NN	_	4	nsubj
+4	describes	describe	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	flag	flag	NN	_	4	dobj
+7	as	as	IN	_	4	prep
+8	a	a	DT	_	9	det
+9	tricolor	tricolor	NN	_	7	pobj
+10	consisting	consist	VBG	_	9	vmod
+11	of	of	IN	_	10	prep
+12	green	green	JJ	_	17	amod
+13	,	,	,	_	12	punct
+14	white	white	JJ	_	12	conj
+15	and	and	CC	_	12	cc
+16	orange	orange	JJ	_	12	conj
+17	bands	band	NNS	_	11	pobj
+18	.	.	.	_	4	punct
+

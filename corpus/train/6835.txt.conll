@@ -1,0 +1,22 @@
+1	Who	who	WP	_	2	nsubj
+2	buys	buy	VBZ	_	20	csubj
+3	all	all	PDT	_	7	predet
+4	these	these	DT	_	7	det
+5	glittering	glitter	VBG	_	7	amod
+6	diamond	diamond	NN	_	7	nn
+7	colliers	collier	NNS	_	2	dobj
+8	,	,	,	_	7	punct
+9	rings	ring	NNS	_	7	conj
+10	,	,	,	_	7	punct
+11	pendants	pendant	NNS	_	7	conj
+12	,	,	,	_	7	punct
+13	etc.	etc.	FW	_	15	nn
+14	,	,	,	_	15	punct
+15	eto.	eto.	FW	_	7	conj
+16	,	,	,	_	7	punct
+17	is	be	VBZ	_	20	cop
+18	.	.	.	_	17	punct
+19	a	a	DT	_	20	det
+20	mystery	mystery	NN	_	0	ROOT
+21	.	.	.	_	20	punct
+

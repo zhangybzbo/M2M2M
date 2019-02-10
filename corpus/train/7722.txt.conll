@@ -1,0 +1,27 @@
+1	He	he	PRP	_	2	nsubj
+2	mounts	mount	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	photo	photo	NN	_	2	dobj
+5	on	on	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	material	material	NN	_	5	pobj
+8	that	that	WDT	_	9	nsubj
+9	contains	contain	VBZ	_	7	rcmod
+10	acid	acid	NN	_	9	dobj
+11	,	,	,	_	2	punct
+12	so	so	RB	_	16	advmod
+13	that	that	IN	_	16	mark
+14	the	the	DT	_	15	det
+15	paper	paper	NN	_	16	nsubj
+16	absorbs	absorb	VBZ	_	2	advcl
+17	the	the	DT	_	18	det
+18	acid	acid	NN	_	16	dobj
+19	which	which	WDT	_	18	dep
+20	in	in	IN	_	19	dep
+21	turn	turn	NN	_	22	nn
+22	attacks	attack	NNS	_	20	pobj
+23	the	the	DT	_	24	det
+24	photo	photo	NN	_	20	dep
+25	itself	itself	PRP	_	24	npadvmod
+26	.	.	.	_	2	punct
+

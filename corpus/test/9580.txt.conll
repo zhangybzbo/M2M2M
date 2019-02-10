@@ -1,0 +1,22 @@
+1	Because	because	IN	_	4	mark
+2	steam	steam	NN	_	3	nn
+3	locomotives	locomotive	NNS	_	4	nsubj
+4	included	include	VBD	_	14	advcl
+5	one	one	CD	_	9	num
+6	or	or	CC	_	5	cc
+7	more	more	JJR	_	5	conj
+8	steam	steam	NN	_	9	nn
+9	engines	engine	NNS	_	4	dobj
+10	,	,	,	_	14	punct
+11	they	they	PRP	_	14	nsubjpass
+12	are	be	VBP	_	14	auxpass
+13	sometimes	sometimes	RB	_	14	advmod
+14	referred	refer	VBN	_	0	ROOT
+15	to	to	TO	_	14	prep
+16	as	as	IN	_	14	prep
+17	``	``	``	_	16	punct
+18	steam	steam	NN	_	19	nn
+19	engines	engine	NNS	_	16	pobj
+20	''	''	''	_	16	punct
+21	.	.	.	_	14	punct
+

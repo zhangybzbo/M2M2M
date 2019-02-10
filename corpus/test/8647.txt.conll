@@ -1,0 +1,27 @@
+1	Evidence	evidence	NN	_	10	nsubj
+2	of	of	IN	_	1	prep
+3	Ms.	Ms.	NNP	_	4	nn
+4	Bhutto	Bhutto	NNP	_	6	poss
+5	's	's	POS	_	4	possessive
+6	role	role	NN	_	2	pobj
+7	in	in	IN	_	6	prep
+8	Bomer	Bomer	NNP	_	9	nn
+9	Finance	Finance	NNP	_	7	pobj
+10	emerged	emerge	VBD	_	0	ROOT
+11	from	from	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	visit	visit	NN	_	11	pobj
+14	to	to	TO	_	13	prep
+15	London	London	NNP	_	14	pobj
+16	during	during	IN	_	19	prep
+17	which	which	WDT	_	16	pobj
+18	she	she	PRP	_	19	nsubj
+19	bought	buy	VBD	_	13	rcmod
+20	a	a	DT	_	22	det
+21	diamond	diamond	NN	_	22	nn
+22	necklace	necklace	NN	_	19	dobj
+23	at	at	IN	_	19	prep
+24	a	a	DT	_	25	det
+25	Knightsbridge	Knightsbridge	NNP	_	23	pobj
+26	.	.	.	_	10	punct
+

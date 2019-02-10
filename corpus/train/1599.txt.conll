@@ -1,0 +1,25 @@
+1	To	to	TO	_	2	aux
+2	put	put	VB	_	7	advcl
+3	it	it	PRP	_	2	dobj
+4	discretely	discretely	RB	_	2	advmod
+5	,	,	,	_	7	punct
+6	she	she	PRP	_	7	nsubj
+7	described	describe	VBD	_	0	ROOT
+8	the	the	DT	_	9	det
+9	sensation	sensation	NN	_	7	dobj
+10	in	in	IN	_	9	prep
+11	her	she	PRP$	_	12	poss
+12	knees	knee	NNS	_	10	pobj
+13	as	as	IN	_	7	prep
+14	that	that	DT	_	13	pobj
+15	of	of	IN	_	14	prep
+16	being	be	VBG	_	18	auxpass
+17	forcibly	forcibly	RB	_	18	advmod
+18	violated	violate	VBN	_	15	pcomp
+19	by	by	IN	_	18	prep
+20	a	a	DT	_	21	det
+21	prickle	prickle	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	porcupines	porcupine	NNS	_	22	pobj
+24	.	.	.	_	7	punct
+

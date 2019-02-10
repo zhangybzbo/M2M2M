@@ -1,0 +1,22 @@
+1	But	but	CC	_	7	cc
+2	none	none	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	3	pobj
+5	was	be	VBD	_	7	cop
+6	really	really	RB	_	7	advmod
+7	necessary	necessary	JJ	_	0	ROOT
+8	,	,	,	_	7	punct
+9	because	because	IN	_	12	mark
+10	you	you	PRP	_	12	nsubj
+11	just	just	RB	_	12	advmod
+12	head	head	VBP	_	7	advcl
+13	for	for	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	largest	largest	JJS	_	16	amod
+16	building	building	NN	_	13	pobj
+17	ever	ever	RB	_	18	advmod
+18	created	create	VBN	_	16	vmod
+19	by	by	IN	_	18	prep
+20	man	man	NN	_	19	pobj
+21	.	.	.	_	7	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	club	club	NN	_	3	nsubj
+3	consists	consist	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	parents	parent	NNS	_	4	pobj
+6	,	,	,	_	5	punct
+7	friends	friend	NNS	_	5	conj
+8	,	,	,	_	5	punct
+9	alumni	alumnus	NNS	_	5	conj
+10	and	and	CC	_	5	cc
+11	local	local	JJ	_	12	amod
+12	businesses	business	NNS	_	5	conj
+13	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	burglar	burglar	JJ	_	3	nsubj
+3	forgot	forget	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	log	log	VB	_	3	xcomp
+6	out	out	RP	_	5	prt
+7	before	before	IN	_	5	prep
+8	leaving	leave	VBG	_	7	pcomp
+9	the	the	DT	_	10	det
+10	home	home	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	two	two	CD	_	14	num
+13	diamond	diamond	NN	_	14	nn
+14	rings	ring	NNS	_	11	pobj
+15	.	.	.	_	3	punct
+

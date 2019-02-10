@@ -1,0 +1,17 @@
+1	In	in	IN	_	6	prep
+2	my	my	PRP$	_	3	poss
+3	case	case	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	solution	solution	NN	_	6	nsubj
+6	was	be	VBD	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	lock	lock	VB	_	6	xcomp
+9	the	the	DT	_	10	det
+10	padlock	padlock	NN	_	8	dobj
+11	on	on	IN	_	8	prep
+12	the	the	DT	_	14	det
+13	security	security	NN	_	14	nn
+14	pane	pane	NN	_	11	pobj
+15	itself	itself	PRP	_	14	npadvmod
+16	.	.	.	_	6	punct
+

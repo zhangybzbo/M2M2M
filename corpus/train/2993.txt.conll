@@ -1,0 +1,18 @@
+1	The	the	DT	_	5	det
+2	genreal	genreal	JJ	_	5	amod
+3	anesthetic	anesthetic	JJ	_	5	amod
+4	cause	cause	NN	_	5	nn
+5	unconsciousness	unconsciousness	NN	_	0	ROOT
+6	and	and	CC	_	5	cc
+7	insensibility	insensibility	NN	_	5	conj
+8	to	to	TO	_	9	aux
+9	paid	pay	VBN	_	5	vmod
+10	and	and	CC	_	5	cc
+11	are	be	VBP	_	12	auxpass
+12	used	use	VBN	_	5	conj
+13	for	for	IN	_	12	prep
+14	major	major	JJ	_	16	amod
+15	surgical	surgical	JJ	_	16	amod
+16	procedures	procedure	NNS	_	13	pobj
+17	.	.	.	_	5	punct
+

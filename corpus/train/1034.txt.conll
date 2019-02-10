@@ -1,0 +1,10 @@
+1	Many	many	JJ	_	3	amod
+2	old	old	JJ	_	3	amod
+3	products	product	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	exported	export	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	developing	develop	VBG	_	8	amod
+8	countries	country	NNS	_	6	pobj
+9	.	.	.	_	5	punct
+

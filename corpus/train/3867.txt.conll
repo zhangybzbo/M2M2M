@@ -1,0 +1,13 @@
+1	Magnetic	magnetic	JJ	_	2	amod
+2	nanoworms	nanoworm	NNS	_	5	nsubj
+3	and	and	CC	_	2	cc
+4	nanocrystals	nanocrystal	NNS	_	2	conj
+5	deliver	deliver	VBP	_	0	ROOT
+6	the	the	DT	_	8	det
+7	amino	amino	NN	_	8	nn
+8	acid	acid	NN	_	5	dobj
+9	to	to	TO	_	5	prep
+10	the	the	DT	_	11	det
+11	tumors	tumor	NNS	_	9	pobj
+12	.	.	.	_	5	punct
+

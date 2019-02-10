@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	arts	art	NNS	_	3	nn
+3	minister	minister	NN	_	5	nsubj
+4	eagerly	eagerly	RB	_	5	advmod
+5	put	put	VBD	_	0	ROOT
+6	this	this	DT	_	9	det
+7	famous	famous	JJ	_	9	amod
+8	oil	oil	NN	_	9	nn
+9	painting	painting	NN	_	5	dobj
+10	into	into	IN	_	5	prep
+11	a	a	DT	_	13	det
+12	cultural	cultural	JJ	_	13	amod
+13	frame	frame	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

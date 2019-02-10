@@ -1,0 +1,17 @@
+1	They	they	PRP	_	3	nsubj
+2	generally	generally	RB	_	3	advmod
+3	bought	buy	VBD	_	0	ROOT
+4	grapes	grape	NNS	_	3	dobj
+5	from	from	IN	_	3	prep
+6	farmers	farmer	NNS	_	5	pobj
+7	or	or	CC	_	3	cc
+8	else	else	RB	_	10	advmod
+9	they	they	PRP	_	10	nsubj
+10	bought	buy	VBD	_	3	conj
+11	wine	wine	NN	_	10	dobj
+12	produced	produce	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	cooperative	cooperative	JJ	_	15	amod
+15	wineries	winery	NNS	_	13	pobj
+16	.	.	.	_	3	punct
+

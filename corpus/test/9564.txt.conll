@@ -1,0 +1,10 @@
+1	Three	three	CD	_	3	num
+2	different	different	JJ	_	3	amod
+3	storylines	storyline	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	narrated	narrate	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	alternating	alternate	VBG	_	8	amod
+8	chapters	chapter	NNS	_	6	pobj
+9	.	.	.	_	5	punct
+

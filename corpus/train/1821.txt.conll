@@ -1,0 +1,14 @@
+1	They	they	PRP	_	3	nsubj
+2	still	still	RB	_	3	advmod
+3	store	store	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	bottle	bottle	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	chilling	chill	VBG	_	9	amod
+9	bucket	bucket	NN	_	6	pobj
+10	or	or	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	refrigerator	refrigerator	NN	_	9	conj
+13	.	.	.	_	3	punct
+

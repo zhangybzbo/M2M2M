@@ -1,0 +1,15 @@
+1	You	you	PRP	_	2	nsubj
+2	find	find	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	bottle	bottle	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	pretty	pretty	RB	_	7	advmod
+7	blue	blue	JJ	_	8	amod
+8	water	water	NN	_	5	pobj
+9	in	in	IN	_	2	prep
+10	it	it	PRP	_	9	pobj
+11	in	in	IN	_	2	prep
+12	the	the	DT	_	13	det
+13	bathroom	bathroom	NN	_	11	pobj
+14	.	.	.	_	2	punct
+

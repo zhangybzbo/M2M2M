@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	artist	artist	NN	_	4	nsubj
+3	skilfully	skilfully	RB	_	4	advmod
+4	hand-carves	hand-carve	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	wood	wood	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	distinctive	distinctive	JJ	_	10	amod
+10	style	style	NN	_	7	pobj
+11	which	which	WDT	_	12	nsubj
+12	captures	capture	VBZ	_	10	rcmod
+13	the	the	DT	_	14	det
+14	beauty	beauty	NN	_	12	dobj
+15	and	and	CC	_	14	cc
+16	the	the	DT	_	17	det
+17	harmony	harmony	NN	_	14	conj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	nature	nature	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

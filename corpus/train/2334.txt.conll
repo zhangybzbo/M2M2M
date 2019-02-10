@@ -1,0 +1,23 @@
+1	After	after	IN	_	10	prep
+2	wrapping	wrap	VBG	_	1	pcomp
+3	him	he	PRP	_	2	dobj
+4	in	in	IN	_	2	prep
+5	a	a	DT	_	7	det
+6	light	light	JJ	_	7	amod
+7	blanket	blanket	NN	_	4	pobj
+8	,	,	,	_	10	punct
+9	they	they	PRP	_	10	nsubj
+10	placed	place	VBD	_	0	ROOT
+11	the	the	DT	_	12	det
+12	infant	infant	NN	_	10	dobj
+13	in	in	IN	_	10	prep
+14	the	the	DT	_	15	det
+15	cradle	cradle	NN	_	13	pobj
+16	his	he	PRP$	_	17	poss
+17	father	father	NN	_	19	nsubj
+18	had	have	VBD	_	19	aux
+19	carved	carve	VBN	_	10	dep
+20	for	for	IN	_	19	prep
+21	him	he	PRP	_	20	pobj
+22	.	.	.	_	10	punct
+

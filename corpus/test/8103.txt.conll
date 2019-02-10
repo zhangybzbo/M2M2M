@@ -1,0 +1,25 @@
+1	In	in	IN	_	10	prep
+2	this	this	DT	_	3	det
+3	approach	approach	NN	_	1	pobj
+4	,	,	,	_	10	punct
+5	correction	correction	NN	_	10	nsubj
+6	and	and	CC	_	5	cc
+7	police	police	NN	_	8	nn
+8	personnel	personnel	NNS	_	5	conj
+9	jointly	jointly	RB	_	10	advmod
+10	sought	seek	VBD	_	0	ROOT
+11	to	to	TO	_	12	aux
+12	locate	locate	VB	_	10	xcomp
+13	and	and	CC	_	12	cc
+14	apprehend	apprehend	VB	_	12	conj
+15	offenders	offender	NNS	_	12	dobj
+16	who	who	WP	_	18	nsubj
+17	had	have	VBD	_	18	aux
+18	absconded	abscond	VBN	_	15	rcmod
+19	from	from	IN	_	18	prep
+20	parole	parole	NN	_	23	nn
+21	and	and	CC	_	20	cc
+22	probation	probation	NN	_	20	conj
+23	officers	officer	NNS	_	19	pobj
+24	.	.	.	_	10	punct
+

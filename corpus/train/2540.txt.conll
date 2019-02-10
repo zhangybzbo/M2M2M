@@ -1,0 +1,17 @@
+1	With	with	IN	_	0	ROOT
+2	its	its	PRP$	_	3	poss
+3	hoof	hoof	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	reindeer	reindeer	NN	_	6	nsubj
+6	scrapes	scrape	VBZ	_	3	rcmod
+7	away	away	RP	_	6	prt
+8	the	the	DT	_	9	det
+9	snow	snow	NN	_	6	dobj
+10	and	and	CC	_	6	cc
+11	discovers	discover	VBZ	_	6	conj
+12	underneath	underneath	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	reindeer	reindeer	NN	_	15	nn
+15	moss	moss	NN	_	12	pobj
+16	.	.	.	_	1	punct
+

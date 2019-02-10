@@ -1,0 +1,19 @@
+1	Paul	Paul	NNP	_	2	nn
+2	Powell	Powell	NNP	_	8	nsubj
+3	was	be	VBD	_	8	cop
+4	n't	not	RB	_	8	neg
+5	the	the	DT	_	8	det
+6	only	only	JJ	_	8	amod
+7	public	public	JJ	_	8	amod
+8	figure	figure	NN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	Illinois	Illinois	NNP	_	9	pobj
+11	to	to	TO	_	12	aux
+12	keep	keep	VB	_	8	vmod
+13	money	money	NN	_	12	dobj
+14	in	in	IN	_	12	prep
+15	a	a	DT	_	17	det
+16	shoe	shoe	NN	_	17	nn
+17	box	box	NN	_	14	pobj
+18	.	.	.	_	8	punct
+

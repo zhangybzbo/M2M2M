@@ -1,0 +1,21 @@
+1	When	when	WRB	_	3	advmod
+2	it	it	PRP	_	3	nsubj
+3	arrived	arrive	VBD	_	9	advcl
+4	,	,	,	_	9	punct
+5	the	the	DT	_	7	det
+6	kapok	kapok	NN	_	7	nn
+7	fiber	fiber	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	sealed	seal	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	vinyl	vinyl	NN	_	13	nn
+12	plastic	plastic	NN	_	13	nn
+13	packets	packet	NNS	_	10	pobj
+14	to	to	TO	_	15	aux
+15	prevent	prevent	VB	_	9	xcomp
+16	exposure	exposure	NN	_	15	dobj
+17	to	to	TO	_	16	prep
+18	the	the	DT	_	19	det
+19	water	water	NN	_	17	pobj
+20	.	.	.	_	9	punct
+

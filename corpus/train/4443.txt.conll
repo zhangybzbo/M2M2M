@@ -1,0 +1,12 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	entered	enter	VBN	_	0	ROOT
+4	successful	successful	JJ	_	5	amod
+5	surveys	survey	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	report	report	NN	_	6	pobj
+8	demonstrating	demonstrate	VBG	_	7	vmod
+9	secondary	secondary	JJ	_	10	amod
+10	meaning	meaning	NN	_	8	dobj
+11	.	.	.	_	3	punct
+

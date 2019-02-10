@@ -1,0 +1,26 @@
+1	So	so	RB	_	14	advmod
+2	when	when	WRB	_	5	advmod
+3	William	William	NNP	_	5	nsubj
+4	did	do	VBD	_	5	aux
+5	cross	cross	VB	_	14	advcl
+6	the	the	DT	_	7	det
+7	Boyne	Boyne	NNP	_	5	dobj
+8	on	on	IN	_	5	prep
+9	July	July	NNP	_	8	pobj
+10	1st	1st	CD	_	9	num
+11	1690	1690	CD	_	9	num
+12	,	,	,	_	14	punct
+13	he	he	PRP	_	14	nsubj
+14	had	have	VBD	_	0	ROOT
+15	an	a	DT	_	16	det
+16	army	army	NN	_	14	dobj
+17	consisting	consist	VBG	_	16	vmod
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	riffraff	riffraff	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	Europe	Europe	NNP	_	24	poss
+23	's	's	POS	_	22	possessive
+24	mercenaries	mercenary	NNS	_	21	pobj
+25	.	.	.	_	14	punct
+

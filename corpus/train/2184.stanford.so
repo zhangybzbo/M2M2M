@@ -1,0 +1,11 @@
+0	61	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="city" pos="NNS" nsubj="t1"
+7	14	tok id="t1" base="produce" pos="VBP" ROOT="ROOT"
+15	27	tok id="t2" base="surprisingly" pos="RB" advmod="t3"
+28	31	tok id="t3" base="low" pos="JJ" amod="t5"
+32	38	tok id="t4" base="carbon" pos="NN" nn="t5"
+39	48	tok id="t5" base="emission" pos="NNS" dobj="t1"
+49	52	tok id="t6" base="per" pos="IN" prep="t5"
+53	59	tok id="t7" base="capita" pos="NN" pobj="t6"
+60	61	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

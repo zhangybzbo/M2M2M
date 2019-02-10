@@ -1,0 +1,26 @@
+1	Many	many	JJ	_	2	amod
+2	directors	director	NNS	_	3	nsubj
+3	adapt	adapt	VBP	_	0	ROOT
+4	a	a	DT	_	5	det
+5	story	story	NN	_	3	dobj
+6	from	from	IN	_	3	prep
+7	another	another	DT	_	8	det
+8	medium	medium	NN	_	6	pobj
+9	such	such	JJ	_	10	mwe
+10	as	as	IN	_	8	prep
+11	a	a	DT	_	12	det
+12	book	book	NN	_	10	pobj
+13	,	,	,	_	12	punct
+14	play	play	NN	_	12	conj
+15	,	,	,	_	12	punct
+16	or	or	CC	_	12	cc
+17	game	game	NN	_	12	conj
+18	into	into	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	film	film	NN	_	18	pobj
+21	,	,	,	_	3	punct
+22	with	with	IN	_	3	prep
+23	varying	vary	VBG	_	24	amod
+24	results	result	NNS	_	22	pobj
+25	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	Good	good	JJ	_	2	amod
+2	breeding	breeding	NN	_	3	nsubj
+3	consists	consist	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	concealing	conceal	VBG	_	4	pcomp
+6	how	how	WRB	_	7	advmod
+7	much	much	RB	_	9	advmod
+8	we	we	PRP	_	9	nsubj
+9	think	think	VBP	_	5	ccomp
+10	of	of	IN	_	9	prep
+11	ourselves	ourselves	PRP	_	10	pobj
+12	and	and	CC	_	9	cc
+13	how	how	WRB	_	14	advmod
+14	little	little	JJ	_	16	dep
+15	we	we	PRP	_	16	nsubj
+16	think	think	VBP	_	9	conj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	other	other	JJ	_	20	amod
+20	person	person	NN	_	17	pobj
+21	.	.	.	_	3	punct
+

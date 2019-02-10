@@ -1,0 +1,26 @@
+1	Musica	Musica	NNP	_	2	nn
+2	International	International	NNP	_	11	nsubj
+3	,	,	,	_	2	punct
+4	with	with	IN	_	2	prep
+5	its	its	PRP$	_	7	poss
+6	Musicanet	Musicanet	NNP	_	7	nn
+7	website	website	NN	_	4	pobj
+8	,	,	,	_	2	punct
+9	is	be	VBZ	_	11	cop
+10	a	a	DT	_	11	det
+11	database	database	NN	_	0	ROOT
+12	containing	contain	VBG	_	11	vmod
+13	information	information	NN	_	12	dobj
+14	on	on	IN	_	12	prep
+15	over	over	IN	_	18	quantmod
+16	150	150	CD	_	18	number
+17	'	'	''	_	16	punct
+18	000	000	CD	_	19	num
+19	works	work	NNS	_	14	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	24	det
+22	international	international	JJ	_	24	amod
+23	chorale	chorale	NN	_	24	nn
+24	repertoire	repertoire	NN	_	20	pobj
+25	.	.	.	_	11	punct
+

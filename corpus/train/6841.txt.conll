@@ -1,0 +1,25 @@
+1	In	in	IN	_	16	prep
+2	the	the	DT	_	4	det
+3	past	past	JJ	_	4	amod
+4	couple	couple	NN	_	1	pobj
+5	of	of	IN	_	4	prep
+6	days	day	NNS	_	5	pobj
+7	,	,	,	_	16	punct
+8	a	a	DT	_	10	det
+9	small	small	JJ	_	10	amod
+10	army	army	NN	_	16	nsubj
+11	of	of	IN	_	10	prep
+12	bloggers	blogger	NNS	_	11	pobj
+13	and	and	CC	_	12	cc
+14	journalists	journalist	NNS	_	12	conj
+15	have	have	VBP	_	16	aux
+16	indicated	indicate	VBN	_	0	ROOT
+17	that	that	IN	_	20	mark
+18	they	they	PRP	_	20	nsubj
+19	're	be	VBP	_	20	aux
+20	heading	head	VBG	_	16	ccomp
+21	for	for	IN	_	20	prep
+22	SES	SES	NNP	_	23	nn
+23	Chicago	Chicago	NNP	_	21	pobj
+24	.	.	.	_	16	punct
+

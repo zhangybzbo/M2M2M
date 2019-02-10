@@ -1,0 +1,1 @@
+A method of mitigating the effect of a market spike caused by the triggering and the election of a conditional order includes monitoring conditional orders .

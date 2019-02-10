@@ -1,0 +1,11 @@
+1	Effective	effective	JJ	_	3	amod
+2	canola	canolum	NN	_	3	nn
+3	production	production	NN	_	4	nsubj
+4	requires	require	VBZ	_	0	ROOT
+5	hands-on	hands-on	JJ	_	6	amod
+6	involvement	involvement	NN	_	4	dobj
+7	with	with	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	crop	crop	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

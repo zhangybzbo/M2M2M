@@ -1,0 +1,27 @@
+1	But	but	CC	_	9	cc
+2	among	among	IN	_	9	prep
+3	the	the	DT	_	5	det
+4	heroin	heroin	NN	_	5	nn
+5	addicts	addict	NNS	_	2	pobj
+6	especially	especially	RB	_	9	advmod
+7	,	,	,	_	9	punct
+8	there	there	EX	_	9	expl
+9	is	be	VBZ	_	0	ROOT
+10	frequently	frequently	RB	_	9	advmod
+11	a	a	DT	_	14	det
+12	very	very	RB	_	13	advmod
+13	severe	severe	JJ	_	14	amod
+14	depression	depression	NN	_	9	nsubj
+15	,	,	,	_	9	punct
+16	and	and	CC	_	9	cc
+17	depression	depression	NN	_	19	nsubj
+18	is	be	VBZ	_	19	cop
+19	one	one	CD	_	9	conj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	main	main	JJ	_	23	amod
+23	causes	cause	NNS	_	20	pobj
+24	of	of	IN	_	23	prep
+25	suicide	suicide	NN	_	24	pobj
+26	.	.	.	_	9	punct
+

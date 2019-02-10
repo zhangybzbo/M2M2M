@@ -1,0 +1,23 @@
+1	Cayenne	Cayenne	NNP	_	2	nn
+2	pepper	pepper	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	miracle	miracle	NN	_	6	nn
+6	cure	cure	NN	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	ulcers	ulcer	NNS	_	7	pobj
+9	and	and	CC	_	6	cc
+10	so	so	RB	_	11	advmod
+11	many	many	JJ	_	13	amod
+12	other	other	JJ	_	13	amod
+13	conditions	condition	NNS	_	6	conj
+14	,	,	,	_	13	punct
+15	plus	plus	CC	_	13	cc
+16	aids	aid	NNS	_	17	nn
+17	assimilation	assimilation	NN	_	13	conj
+18	of	of	IN	_	17	prep
+19	nutrients	nutrient	NNS	_	18	pobj
+20	and	and	CC	_	19	cc
+21	vitamins	vitamin	NNS	_	19	conj
+22	.	.	.	_	6	punct
+

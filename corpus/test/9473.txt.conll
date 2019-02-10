@@ -1,0 +1,24 @@
+1	Hot	hot	JJ	_	2	amod
+2	dog	dog	NN	_	8	nsubjpass
+3	or	or	CC	_	2	cc
+4	cream	cream	NN	_	6	nn
+5	salad	salad	NN	_	6	nn
+6	mustard	mustard	NN	_	2	conj
+7	is	be	VBZ	_	8	auxpass
+8	made	make	VBN	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	yellow	yellow	JJ	_	12	amod
+11	mustard	mustard	NN	_	12	nn
+12	seeds	seed	NNS	_	9	pobj
+13	using	use	VBG	_	8	xcomp
+14	a	a	DT	_	17	det
+15	wet	wet	JJ	_	17	amod
+16	milling	milling	NN	_	17	nn
+17	process	process	NN	_	13	dobj
+18	that	that	WDT	_	19	nsubj
+19	creates	create	VBZ	_	17	rcmod
+20	a	a	DT	_	21	det
+21	fine	fine	JJ	_	22	nsubj
+22	paste	paste	VBP	_	19	ccomp
+23	.	.	.	_	8	punct
+

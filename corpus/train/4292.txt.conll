@@ -1,0 +1,8 @@
+1	Texas	Texas	NNP	_	2	nsubj
+2	prepares	prepare	VBZ	_	0	ROOT
+3	for	for	IN	_	2	prep
+4	crush	crush	NN	_	3	pobj
+5	of	of	IN	_	4	prep
+6	executions	execution	NNS	_	5	pobj
+7	.	.	.	_	2	punct
+

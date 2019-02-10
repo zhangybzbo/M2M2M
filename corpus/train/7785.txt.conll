@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	following	follow	VBG	_	3	amod
+3	excerpt	excerpt	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	10	det
+7	self	self	NN	_	10	nn
+8	help	help	NN	_	10	nn
+9	psychology	psychology	NN	_	10	nn
+10	book	book	NN	_	5	pobj
+11	,	,	,	_	4	punct
+12	Be	be	VB	_	15	cop
+13	Your	you	PRP$	_	15	poss
+14	Own	Own	NNP	_	15	nn
+15	Therapist	Therapist	NNP	_	4	dep
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,20 @@
+1	This	this	DT	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	meant	mean	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	represent	represent	VB	_	3	xcomp
+6	the	the	DT	_	7	det
+7	resting	rest	VBG	_	5	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	maize	maize	NN	_	11	nn
+11	spirits	spirit	NNS	_	8	pobj
+12	until	until	IN	_	17	mark
+13	the	the	DT	_	16	det
+14	next	next	JJ	_	16	amod
+15	harvesting	harvesting	NN	_	16	nn
+16	period	period	NN	_	17	nsubj
+17	came	come	VBD	_	5	advcl
+18	around	around	RB	_	17	advmod
+19	.	.	.	_	3	punct
+

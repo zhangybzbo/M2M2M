@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	baboons	baboon	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	formed	form	VBN	_	0	ROOT
+5	themselves	themselves	PRP	_	4	dobj
+6	into	into	IN	_	4	prep
+7	raiding	raiding	NN	_	8	nn
+8	parties	party	NNS	_	6	pobj
+9	and	and	CC	_	4	cc
+10	frequently	frequently	RB	_	11	advmod
+11	descend	descend	VBP	_	4	conj
+12	on	on	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	village	village	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

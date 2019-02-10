@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	exception	exception	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	the	the	DT	_	5	det
+5	player	player	NN	_	0	ROOT
+6	who	who	WP	_	7	nsubj
+7	drew	draw	VBD	_	5	rcmod
+8	the	the	DT	_	9	det
+9	ace	ace	NN	_	7	dobj
+10	,	,	,	_	5	punct
+11	who	who	WP	_	13	nsubj
+12	may	may	MD	_	13	aux
+13	stop	stop	VB	_	5	rcmod
+14	whenever	whenever	WRB	_	16	advmod
+15	they	they	PRP	_	16	nsubj
+16	want	want	VBP	_	13	advcl
+17	.	.	.	_	5	punct
+

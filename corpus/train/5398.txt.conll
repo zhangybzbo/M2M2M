@@ -1,0 +1,19 @@
+1	As	as	IN	_	5	mark
+2	an	a	DT	_	4	det
+3	immortal	immortal	JJ	_	4	amod
+4	goddess	goddess	NN	_	5	nsubj
+5	descended	descend	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	race	race	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	divine	divine	JJ	_	11	amod
+11	beings	being	NNS	_	9	pobj
+12	,	,	,	_	5	punct
+13	she	she	PRP	_	12	dep
+14	's	be	VBZ	_	13	dep
+15	probably	probably	RB	_	14	advmod
+16	all	all	DT	_	15	dep
+17	entitled	entitle	VBN	_	16	vmod
+18	.	.	.	_	13	punct
+

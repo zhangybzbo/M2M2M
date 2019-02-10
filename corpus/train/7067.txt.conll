@@ -1,0 +1,13 @@
+1	Voters	voter	NNS	_	2	nsubj
+2	passed	pass	VBN	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	messages	message	NNS	_	3	pobj
+5	to	to	TO	_	4	prep
+6	members	member	NNS	_	5	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	Congress	Congress	NNP	_	7	pobj
+10	by	by	IN	_	2	prep
+11	email	email	NN	_	10	pobj
+12	.	.	.	_	2	punct
+

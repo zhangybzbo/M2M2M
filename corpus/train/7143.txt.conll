@@ -1,0 +1,23 @@
+1	But	but	CC	_	11	cc
+2	the	the	DT	_	3	det
+3	contents	contents	NNS	_	11	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	audit	audit	NN	_	4	pobj
+7	were	be	VBD	_	11	cop
+8	a	a	DT	_	11	det
+9	closely	closely	RB	_	10	advmod
+10	held	hold	VBN	_	11	amod
+11	secret	secret	NN	_	20	nsubjpass
+12	,	,	,	_	11	punct
+13	and	and	CC	_	11	cc
+14	attempts	attempt	VBZ	_	11	conj
+15	to	to	TO	_	16	aux
+16	obtain	obtain	VB	_	14	xcomp
+17	other	other	JJ	_	18	amod
+18	records	record	NNS	_	16	dobj
+19	were	be	VBD	_	20	auxpass
+20	denied	deny	VBN	_	0	ROOT
+21	repeatedly	repeatedly	RB	_	20	advmod
+22	.	.	.	_	20	punct
+

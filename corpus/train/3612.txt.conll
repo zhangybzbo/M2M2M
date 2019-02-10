@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	student	student	NN	_	3	nsubj
+3	formed	form	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	paragraph	paragraph	NN	_	3	dobj
+6	using	use	VBG	_	5	vmod
+7	a	a	DT	_	8	det
+8	phrase	phrase	NN	_	6	dobj
+9	from	from	IN	_	8	prep
+10	an	a	DT	_	12	det
+11	original	original	JJ	_	12	amod
+12	source	source	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

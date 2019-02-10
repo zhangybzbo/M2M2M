@@ -1,0 +1,11 @@
+0	73	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="sufficient" pos="JJ" amod="t2"
+11	32	tok id="t1" base="coagulation-deficient" pos="JJ" amod="t2"
+33	39	tok id="t2" base="fluid" pos="NNS" nsubjpass="t4"
+40	44	tok id="t3" base="be" pos="VBD" auxpass="t4"
+45	50	tok id="t4" base="give" pos="VBN" ROOT="ROOT"
+51	53	tok id="t5" base="to" pos="TO" prep="t4"
+54	62	tok id="t6" base="surgical" pos="JJ" amod="t7"
+63	71	tok id="t7" base="patient" pos="NNS" pobj="t5"
+72	73	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

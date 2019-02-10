@@ -1,0 +1,21 @@
+1	Our	we	PRP$	_	3	poss
+2	first	first	JJ	_	3	amod
+3	sighting	sighting	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	mighty	mighty	JJ	_	8	amod
+7	Mount	Mount	NNP	_	8	nn
+8	Kinabalu	Kinabalu	NNP	_	4	pobj
+9	was	be	VBD	_	0	ROOT
+10	from	from	IN	_	9	prep
+11	quite	quite	RB	_	13	advmod
+12	a	a	DT	_	13	det
+13	distance	distance	NN	_	10	pobj
+14	and	and	CC	_	9	cc
+15	it	it	PRP	_	19	nsubj
+16	was	be	VBD	_	19	cop
+17	still	still	RB	_	19	advmod
+18	extremely	extremely	RB	_	19	advmod
+19	impressive	impressive	JJ	_	9	conj
+20	.	.	.	_	9	punct
+

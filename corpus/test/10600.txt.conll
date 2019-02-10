@@ -1,0 +1,17 @@
+1	Arriving	arrive	VBG	_	8	vmod
+2	home	home	NN	_	1	dobj
+3	from	from	IN	_	1	prep
+4	this	this	DT	_	5	det
+5	concert	concert	NN	_	3	pobj
+6	,	,	,	_	8	punct
+7	I	I	PRP	_	8	nsubj
+8	found	find	VBD	_	0	ROOT
+9	an	a	DT	_	11	det
+10	e-mail	e-mail	JJ	_	11	amod
+11	message	message	NN	_	8	dobj
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	musician	musician	NN	_	15	nn
+15	friend	friend	NN	_	12	pobj
+16	.	.	.	_	8	punct
+

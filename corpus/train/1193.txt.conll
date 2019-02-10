@@ -1,0 +1,23 @@
+1	144	144	CD	_	8	nsubjpass
+2	of	of	IN	_	1	prep
+3	those	those	DT	_	4	det
+4	apartments	apartment	NNS	_	2	pobj
+5	have	have	VBP	_	8	aux
+6	been	be	VBN	_	8	auxpass
+7	personally	personally	RB	_	8	advmod
+8	designed	design	VBN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	Giorgio	Giorgio	NNP	_	11	nn
+11	Armani	Armani	NNP	_	9	pobj
+12	and	and	CC	_	11	cc
+13	the	the	DT	_	14	det
+14	tower	tower	NN	_	11	conj
+15	also	also	RB	_	16	advmod
+16	boasts	boast	VBZ	_	8	dep
+17	the	the	DT	_	18	det
+18	designer	designer	NN	_	21	poss
+19	's	's	POS	_	18	possessive
+20	first	first	JJ	_	21	amod
+21	hotel	hotel	NN	_	16	dobj
+22	.	.	.	_	8	punct
+

@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	another	another	DT	_	4	det
+4	idea	idea	NN	_	2	dobj
+5	to	to	TO	_	6	aux
+6	do	do	VB	_	4	vmod
+7	with	with	IN	_	6	prep
+8	child	child	NN	_	9	nn
+9	care	care	NN	_	7	pobj
+10	that	that	WDT	_	13	nsubj
+11	was	be	VBD	_	13	cop
+12	stroller	stroller	NN	_	13	npadvmod
+13	related	related	JJ	_	9	rcmod
+14	.	.	.	_	2	punct
+

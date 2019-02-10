@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	crisis	crisis	NN	_	3	nsubj
+3	originated	originate	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	an	a	DT	_	8	det
+6	over-leveraged	over-leveraged	JJ	_	8	amod
+7	corporate	corporate	JJ	_	8	amod
+8	sector	sector	NN	_	4	pobj
+9	and	and	CC	_	8	cc
+10	a	a	DT	_	12	det
+11	banking	banking	NN	_	12	nn
+12	sector	sector	NN	_	8	conj
+13	that	that	WDT	_	15	nsubj
+14	had	have	VBD	_	15	aux
+15	mismatched	mismatch	VBN	_	8	rcmod
+16	assets	asset	NNS	_	15	dobj
+17	and	and	CC	_	16	cc
+18	liabilities	liability	NNS	_	16	conj
+19	.	.	.	_	3	punct
+

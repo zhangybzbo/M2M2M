@@ -1,0 +1,17 @@
+1	A	a	DT	_	3	det
+2	24-year-old	24-year-old	JJ	_	3	amod
+3	undergraduate	undergraduate	NN	_	7	nsubj
+4	from	from	IN	_	3	prep
+5	Nigeria	Nigeria	NNP	_	4	pobj
+6	is	be	VBZ	_	7	aux
+7	building	build	VBG	_	0	ROOT
+8	helicopters	helicopter	NNS	_	7	dobj
+9	out	out	IN	_	7	prep
+10	of	of	IN	_	9	pcomp
+11	old	old	JJ	_	12	amod
+12	car	car	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	bike	bike	NN	_	15	nn
+15	parts	part	NNS	_	12	conj
+16	.	.	.	_	7	punct
+

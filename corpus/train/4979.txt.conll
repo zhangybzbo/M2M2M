@@ -1,0 +1,11 @@
+1	Some	some	DT	_	2	det
+2	cycles	cycle	NNS	_	3	nsubj
+3	depend	depend	VBP	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	results	result	NNS	_	4	pobj
+7	from	from	IN	_	6	prep
+8	previous	previous	JJ	_	9	amod
+9	cycles	cycle	NNS	_	7	pobj
+10	.	.	.	_	3	punct
+

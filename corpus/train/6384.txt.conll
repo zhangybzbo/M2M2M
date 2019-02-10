@@ -1,0 +1,27 @@
+1	Following	follow	VBG	_	8	prep
+2	the	the	DT	_	4	det
+3	first	first	JJ	_	4	amod
+4	definition	definition	NN	_	1	pobj
+5	above	above	IN	_	4	advmod
+6	,	,	,	_	8	punct
+7	parasites	parasite	NNS	_	8	nsubj
+8	evolved	evolve	VBD	_	0	ROOT
+9	billions	billion	NNS	_	8	dobj
+10	of	of	IN	_	8	prep
+11	years	year	NNS	_	12	npadvmod
+12	ago	ago	RB	_	10	pobj
+13	from	from	IN	_	8	prep
+14	the	the	DT	_	15	det
+15	beginning	beginning	NN	_	13	pobj
+16	when	when	WRB	_	20	advmod
+17	life	life	NN	_	18	nn
+18	form	form	NN	_	20	nsubjpass
+19	was	be	VBD	_	20	auxpass
+20	evolved	evolve	VBN	_	15	rcmod
+21	from	from	IN	_	20	prep
+22	the	the	DT	_	25	det
+23	primordial	primordial	JJ	_	25	amod
+24	organic	organic	JJ	_	25	amod
+25	soup	soup	NN	_	21	pobj
+26	.	.	.	_	8	punct
+

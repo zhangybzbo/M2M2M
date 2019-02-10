@@ -1,0 +1,21 @@
+1	Microsoft	Microsoft	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	put	put	VBN	_	0	ROOT
+4	a	a	DT	_	5	det
+5	price	price	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	$	$	$	_	6	pobj
+8	250000	250000	CD	_	7	num
+9	on	on	IN	_	3	prep
+10	the	the	DT	_	11	det
+11	head	head	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	creator	creator	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	Conficker	Conficker	NNP	_	19	nn
+18	internet	internet	NN	_	19	nn
+19	worm	worm	NN	_	15	pobj
+20	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	Take	take	VB	_	10	csubj
+2	Me	I	PRP	_	1	dobj
+3	to	to	TO	_	1	prep
+4	the	the	DT	_	5	det
+5	Edge	Edge	NNP	_	3	pobj
+6	is	be	VBZ	_	10	cop
+7	a	a	DT	_	10	det
+8	British	british	JJ	_	10	amod
+9	reality	reality	NN	_	10	nn
+10	series	series	NN	_	0	ROOT
+11	investigating	investigate	VBG	_	10	vmod
+12	global	global	JJ	_	13	amod
+13	rites	rite	NNS	_	11	dobj
+14	of	of	IN	_	13	prep
+15	passage	passage	NN	_	14	pobj
+16	.	.	.	_	10	punct
+

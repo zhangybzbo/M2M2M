@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	early	early	JJ	_	3	amod
+3	aims	aim	NNS	_	10	nsubjpass
+4	and	and	CC	_	3	cc
+5	objectives	objective	NNS	_	3	conj
+6	of	of	IN	_	5	prep
+7	cooperatives	cooperative	NNS	_	6	pobj
+8	have	have	VBP	_	10	aux
+9	been	be	VBN	_	10	auxpass
+10	considered	consider	VBN	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	first	first	JJ	_	14	amod
+14	chapter	chapter	NN	_	11	pobj
+15	of	of	IN	_	14	prep
+16	this	this	DT	_	17	det
+17	book	book	NN	_	15	pobj
+18	.	.	.	_	10	punct
+

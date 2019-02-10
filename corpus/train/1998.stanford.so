@@ -1,0 +1,11 @@
+0	63	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Public" pos="NNP" nn="t2"
+7	16	tok id="t1" base="education" pos="NN" nn="t2"
+17	24	tok id="t2" base="system" pos="NNS" nsubj="t4"
+25	29	tok id="t3" base="have" pos="VBP" aux="t4"
+30	37	tok id="t4" base="carry" pos="VBN" ROOT="ROOT"
+38	45	tok id="t5" base="nation" pos="NNS" dobj="t4"
+46	50	tok id="t6" base="into" pos="IN" prep="t4"
+51	61	tok id="t7" base="prosperity" pos="NN" pobj="t6"
+62	63	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

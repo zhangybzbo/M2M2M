@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	club	club	NN	_	3	nsubj
+3	consists	consist	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	902	902	CD	_	7	num
+6	condominium	condominium	NN	_	7	nn
+7	homes	home	NNS	_	4	pobj
+8	each	each	DT	_	3	advmod
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	unique	unique	JJ	_	13	amod
+12	golf	golf	NN	_	13	nn
+13	course	course	NN	_	9	pobj
+14	or	or	CC	_	13	cc
+15	lake	lake	NN	_	16	nn
+16	view	view	NN	_	13	conj
+17	.	.	.	_	3	punct
+

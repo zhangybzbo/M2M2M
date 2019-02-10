@@ -1,0 +1,3 @@
+T1	Term 89 98	occupants
+T2	Term 120 128	property
+R1	Entity-Origin Arg1:T1 Arg2:T2

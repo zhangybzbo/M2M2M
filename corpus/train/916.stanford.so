@@ -1,0 +1,10 @@
+0	48	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="Geodiversity" pos="NNP" nsubjpass="t3"
+13	16	tok id="t1" base="have" pos="VBZ" aux="t3"
+17	21	tok id="t2" base="be" pos="VBN" auxpass="t3"
+22	27	tok id="t3" base="add" pos="VBN" ROOT="ROOT"
+28	32	tok id="t4" base="into" pos="IN" prep="t3"
+33	36	tok id="t5" base="the" pos="DT" det="t6"
+37	46	tok id="t6" base="objective" pos="NN" pobj="t4"
+47	48	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

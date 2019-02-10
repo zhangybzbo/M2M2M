@@ -1,0 +1,19 @@
+1	Science	science	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	part	part	NN	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	our	we	PRP$	_	7	poss
+6	daily	daily	JJ	_	7	amod
+7	lives	life	NNS	_	4	pobj
+8	:	:	:	_	3	punct
+9	all	all	DT	_	10	det
+10	day	day	NN	_	17	tmod
+11	,	,	,	_	10	punct
+12	every	every	DT	_	13	det
+13	day	day	NN	_	10	appos
+14	,	,	,	_	10	punct
+15	everywhere	everywhere	RB	_	17	advmod
+16	we	we	PRP	_	17	nsubj
+17	go	go	VBP	_	3	dep
+18	.	.	.	_	3	punct
+

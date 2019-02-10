@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	det
+2	volume	volume	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	selection	selection	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	Japanese	japanese	JJ	_	9	amod
+8	prose	prose	NN	_	9	nn
+9	literature	literature	NN	_	6	pobj
+10	dating	date	VBG	_	9	vmod
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	classical	classical	JJ	_	14	amod
+14	age	age	NN	_	11	pobj
+15	.	.	.	_	3	punct
+

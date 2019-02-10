@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	academic	academic	JJ	_	3	amod
+3	staff	staff	NN	_	7	nsubj
+4	at	at	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	UvH	uvh	NN	_	4	pobj
+7	comprises	comprise	VBZ	_	0	ROOT
+8	scholars	scholar	NNS	_	7	dobj
+9	in	in	IN	_	8	prep
+10	humanistics	humanistic	NNS	_	9	pobj
+11	,	,	,	_	10	punct
+12	religious	religious	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	cultural	cultural	JJ	_	12	conj
+15	scholars	scholar	NNS	_	10	conj
+16	,	,	,	_	10	punct
+17	social	social	JJ	_	18	amod
+18	scientists	scientist	NNS	_	10	conj
+19	,	,	,	_	10	punct
+20	philosophers	philosopher	NNS	_	10	conj
+21	and	and	CC	_	10	cc
+22	historians	historian	NNS	_	10	conj
+23	.	.	.	_	7	punct
+

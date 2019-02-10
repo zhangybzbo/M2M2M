@@ -1,0 +1,15 @@
+1	The	the	DT	_	5	det
+2	most	most	RBS	_	3	advmod
+3	successful	successful	JJ	_	5	amod
+4	action	action	NN	_	5	nn
+5	films	film	NNS	_	0	ROOT
+6	were	be	VBD	_	5	dep
+7	about	about	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	man	man	NN	_	7	pobj
+10	called	call	VBN	_	9	vmod
+11	``	``	``	_	12	punct
+12	Rambo	Rambo	NNP	_	10	dep
+13	''	''	''	_	12	punct
+14	.	.	.	_	5	punct
+

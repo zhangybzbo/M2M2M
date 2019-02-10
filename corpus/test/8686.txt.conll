@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	ghost-ship	ghost-ship	NN	_	3	nn
+3	fleet	fleet	NN	_	4	nsubj
+4	anchored	anchor	VBD	_	0	ROOT
+5	idle	idle	JJ	_	4	acomp
+6	off	off	IN	_	5	prep
+7	Singabore	Singabore	NNP	_	6	pobj
+8	is	be	VBZ	_	11	cop
+9	an	a	DT	_	11	det
+10	interesting	interesting	JJ	_	11	amod
+11	proxy	proxy	NN	_	4	dep
+12	for	for	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	collapse	collapse	NN	_	12	pobj
+15	in	in	IN	_	14	prep
+16	world	world	NN	_	17	nn
+17	trade	trade	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

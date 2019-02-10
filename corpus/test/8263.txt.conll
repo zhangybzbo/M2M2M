@@ -1,0 +1,16 @@
+1	Panna	Panna	NNP	_	2	nn
+2	Cotta	Cotta	NNP	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	average	average	JJ	_	14	ccomp
+5	,	,	,	_	4	punct
+6	except	except	IN	_	4	prep
+7	for	for	IN	_	6	pcomp
+8	the	the	DT	_	10	det
+9	plum	plum	NN	_	10	nn
+10	syrup	syrup	NN	_	7	pobj
+11	was	be	VBD	_	14	cop
+12	a	a	DT	_	13	det
+13	bit	bit	NN	_	14	npadvmod
+14	overpowering	overpowering	JJ	_	0	ROOT
+15	.	.	.	_	14	punct
+

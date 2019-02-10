@@ -1,0 +1,12 @@
+1	NASA	NASA	NNP	_	2	nsubj
+2	paid	pay	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	private	private	JJ	_	5	amod
+5	company	company	NN	_	2	dobj
+6	which	which	WDT	_	7	nsubj
+7	carried	carry	VBD	_	5	rcmod
+8	astronauts	astronaut	NNS	_	7	dobj
+9	into	into	IN	_	7	prep
+10	orbit	orbit	NN	_	9	pobj
+11	.	.	.	_	2	punct
+

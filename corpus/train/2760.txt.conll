@@ -1,0 +1,23 @@
+1	Alfonso	Alfonso	NNP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	crowbar	crowbar	NN	_	2	dobj
+5	to	to	TO	_	6	aux
+6	break	break	VB	_	2	vmod
+7	the	the	DT	_	8	det
+8	padlock	padlock	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	cage	cage	NN	_	9	pobj
+12	and	and	CC	_	2	cc
+13	took	take	VBD	_	2	conj
+14	the	the	DT	_	15	det
+15	generator	generator	NN	_	13	dobj
+16	and	and	CC	_	13	cc
+17	put	put	VBD	_	13	conj
+18	it	it	PRP	_	17	dobj
+19	inside	inside	IN	_	17	prep
+20	his	he	PRP$	_	21	poss
+21	car	car	NN	_	19	pobj
+22	.	.	.	_	2	punct
+

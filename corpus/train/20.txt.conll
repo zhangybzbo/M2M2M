@@ -1,0 +1,26 @@
+1	They	they	PRP	_	2	nsubj
+2	tried	try	VBD	_	0	ROOT
+3	an	a	DT	_	4	det
+4	assault	assault	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	their	they	PRP$	_	7	poss
+7	own	own	JJ	_	5	pobj
+8	an	a	DT	_	9	det
+9	hour	hour	NN	_	10	npadvmod
+10	later	later	RB	_	4	advmod
+11	,	,	,	_	2	punct
+12	with	with	IN	_	2	prep
+13	two	two	CD	_	14	num
+14	columns	column	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	sixteen	sixteen	CD	_	17	num
+17	tanks	tank	NNS	_	15	pobj
+18	backed	back	VBN	_	17	vmod
+19	by	by	IN	_	18	prep
+20	a	a	DT	_	21	det
+21	battalion	battalion	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	Panzer	Panzer	NNP	_	24	nn
+24	grenadiers	grenadier	NNS	_	22	pobj
+25	.	.	.	_	2	punct
+

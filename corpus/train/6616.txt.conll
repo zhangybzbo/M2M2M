@@ -1,0 +1,19 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	typical	typical	JJ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	distinguished	distinguished	JJ	_	7	amod
+7	portraits	portrait	NNS	_	4	pobj
+8	made	make	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	professionals	professional	NNS	_	9	pobj
+11	and	and	CC	_	10	cc
+12	amateurs	amateur	NNS	_	10	conj
+13	in	in	IN	_	8	prep
+14	the	the	DT	_	17	det
+15	late	late	JJ	_	17	amod
+16	19th	19th	JJ	_	17	amod
+17	century	century	NN	_	13	pobj
+18	.	.	.	_	3	punct
+

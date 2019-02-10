@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	students	student	NNS	_	4	nsubj
+3	had	have	VBD	_	4	aux
+4	decorated	decorate	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	blackboard	blackboard	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	9	det
+9	drawing	drawing	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	young	young	JJ	_	13	amod
+13	woman	woman	NN	_	10	pobj
+14	and	and	CC	_	13	cc
+15	a	a	DT	_	18	det
+16	bright	bright	JJ	_	18	amod
+17	yellow	yellow	JJ	_	18	amod
+18	moon	moon	NN	_	13	conj
+19	.	.	.	_	4	punct
+

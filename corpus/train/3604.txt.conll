@@ -1,0 +1,23 @@
+1	Considerable	considerable	JJ	_	2	amod
+2	attention	attention	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	directed	direct	VBN	_	0	ROOT
+6	toward	toward	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	study	study	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	motility	motility	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	stomach	stomach	NN	_	12	pobj
+15	and	and	CC	_	5	cc
+16	its	its	PRP$	_	17	poss
+17	regulation	regulation	NN	_	5	conj
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	extrinsic	extrinsic	JJ	_	21	amod
+21	nerves	nerve	NNS	_	18	pobj
+22	.	.	.	_	5	punct
+

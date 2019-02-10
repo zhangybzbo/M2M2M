@@ -1,0 +1,14 @@
+1	Such	such	JJ	_	2	amod
+2	trials	trial	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	concerned	concern	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	matters	matter	NNS	_	5	pobj
+7	of	of	IN	_	6	prep
+8	national	national	JJ	_	9	amod
+9	importance	importance	NN	_	7	pobj
+10	such	such	JJ	_	11	mwe
+11	as	as	IN	_	9	prep
+12	treason	treason	NNS	_	11	pobj
+13	.	.	.	_	4	punct
+

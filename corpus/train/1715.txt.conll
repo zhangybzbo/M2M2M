@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	nsubj
+2	happens	happen	VBZ	_	0	ROOT
+3	when	when	WRB	_	8	advmod
+4	a	a	DT	_	6	det
+5	collecting	collect	VBG	_	6	amod
+6	agent	agent	NN	_	8	nsubj
+7	inadvertently	inadvertently	RB	_	8	advmod
+8	applies	apply	VBZ	_	2	advcl
+9	the	the	DT	_	11	det
+10	PNS	pn	NN	_	11	nn
+11	discount	discount	NN	_	8	dobj
+12	to	to	TO	_	8	prep
+13	an	a	DT	_	15	det
+14	ineligible	ineligible	JJ	_	15	amod
+15	vessel	vessel	NN	_	12	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,25 @@
+1	For	for	IN	_	12	prep
+2	example	example	NN	_	1	pobj
+3	,	,	,	_	12	punct
+4	the	the	DT	_	5	det
+5	photo	photo	NN	_	12	nsubj
+6	at	at	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	top	top	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	page	page	NN	_	9	pobj
+12	shows	show	VBZ	_	0	ROOT
+13	a	a	DT	_	14	det
+14	pilot	pilot	NN	_	17	poss
+15	's	's	POS	_	14	possessive
+16	emergency	emergency	NN	_	17	nn
+17	kit	kit	NN	_	12	dobj
+18	with	with	IN	_	12	prep
+19	a	a	DT	_	22	det
+20	watch	watch	NN	_	22	nn
+21	type	type	NN	_	22	nn
+22	compass	compass	NN	_	18	pobj
+23	included	include	VBD	_	12	dep
+24	.	.	.	_	12	punct
+

@@ -1,0 +1,9 @@
+0	44	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="we" pos="PRP" nsubj="t2"
+3	5	tok id="t1" base="do" pos="VBP" aux="t2"
+6	10	tok id="t2" base="know" pos="VB" ROOT="ROOT"
+11	15	tok id="t3" base="this" pos="DT" det="t5"
+16	34	tok id="t4" base="telecommunications" pos="NN" nn="t5"
+35	42	tok id="t5" base="company" pos="NN" dobj="t2"
+43	44	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

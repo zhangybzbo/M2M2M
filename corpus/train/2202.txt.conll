@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	site	site	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	lounge	lounge	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	dedicated	dedicated	JJ	_	8	amod
+8	lizards	lizard	NNS	_	6	pobj
+9	who	who	WP	_	10	nsubj
+10	vote	vote	VBP	_	8	rcmod
+11	out	out	RP	_	10	prt
+12	anyone	anyone	NN	_	10	dobj
+13	with	with	IN	_	18	prep
+14	whom	whom	WP	_	13	pobj
+15	they	they	PRP	_	18	nsubj
+16	do	do	VBP	_	18	aux
+17	not	not	RB	_	18	neg
+18	agree	agree	VB	_	12	rcmod
+19	.	.	.	_	3	punct
+

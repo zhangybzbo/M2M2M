@@ -1,0 +1,17 @@
+1	Congregational	congregational	JJ	_	2	amod
+2	clergy	clergy	NNS	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	various	various	JJ	_	5	amod
+5	denominations	denomination	NNS	_	3	pobj
+6	were	be	VBD	_	7	auxpass
+7	surveyed	survey	VBN	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	assess	assess	VB	_	7	xcomp
+10	their	they	PRP$	_	11	poss
+11	understanding	understanding	NN	_	9	dobj
+12	and	and	CC	_	11	cc
+13	experience	experience	NN	_	11	conj
+14	of	of	IN	_	11	prep
+15	trauma	trauma	NN	_	14	pobj
+16	.	.	.	_	7	punct
+

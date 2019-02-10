@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	scheme	scheme	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	illustrated	illustrate	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	the	the	DT	_	5	pobj
+7	following	follow	VBG	_	6	prep
+8	example	example	NN	_	7	pobj
+9	.	.	.	_	4	punct
+

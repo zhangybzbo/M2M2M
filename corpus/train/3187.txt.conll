@@ -1,0 +1,17 @@
+1	While	while	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	slide	slide	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	presented	present	VBN	_	12	advcl
+6	,	,	,	_	12	punct
+7	an	a	DT	_	10	det
+8	audio-recorded	audio-recorded	JJ	_	10	amod
+9	biographical	biographical	JJ	_	10	amod
+10	script	script	NN	_	12	nsubjpass
+11	was	be	VBD	_	12	auxpass
+12	played	play	VBN	_	0	ROOT
+13	describing	describe	VBG	_	12	xcomp
+14	the	the	DT	_	15	det
+15	person	person	NN	_	13	dobj
+16	.	.	.	_	12	punct
+

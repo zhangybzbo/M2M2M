@@ -1,0 +1,26 @@
+1	A	a	DT	_	3	det
+2	chain	chain	NN	_	3	nn
+3	saw	saw	NN	_	5	nsubj
+4	is	be	VBZ	_	5	cop
+5	one	one	CD	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	those	those	DT	_	8	det
+8	tools	tool	NNS	_	6	pobj
+9	that	that	WDT	_	12	nsubjpass
+10	can	can	MD	_	12	aux
+11	be	be	VB	_	12	auxpass
+12	described	describe	VBN	_	8	rcmod
+13	thusly	thusly	RB	_	12	advmod
+14	:	:	:	_	13	punct
+15	When	when	WRB	_	17	advmod
+16	you	you	PRP	_	17	nsubj
+17	need	need	VBP	_	24	advcl
+18	one	one	CD	_	17	dobj
+19	,	,	,	_	24	punct
+20	nothing	nothing	NN	_	24	nsubj
+21	else	else	RB	_	20	advmod
+22	will	will	MD	_	24	aux
+23	really	really	RB	_	24	advmod
+24	do	do	VB	_	13	dep
+25	.	.	.	_	5	punct
+

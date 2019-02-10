@@ -1,0 +1,25 @@
+1	In	in	IN	_	8	prep
+2	this	this	DT	_	3	det
+3	animation	animation	NN	_	1	pobj
+4	the	the	DT	_	6	det
+5	incident	incident	NN	_	6	nn
+6	wave	wave	NN	_	8	nsubj
+7	is	be	VBZ	_	8	aux
+8	travelling	travel	VBG	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	high	high	JJ	_	13	amod
+12	density	density	NN	_	13	nn
+13	region	region	NN	_	9	pobj
+14	towards	towards	IN	_	8	prep
+15	a	a	DT	_	17	det
+16	low	low	JJ	_	17	amod
+17	density	density	NN	_	23	nn
+18	-LRB-	-lrb-	-LRB-	_	21	punct
+19	high	high	JJ	_	21	amod
+20	wave	wave	NN	_	21	nn
+21	speed	speed	NN	_	17	appos
+22	-RRB-	-rrb-	-RRB-	_	21	punct
+23	region	region	NN	_	14	pobj
+24	.	.	.	_	8	punct
+

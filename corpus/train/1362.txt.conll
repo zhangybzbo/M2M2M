@@ -1,0 +1,9 @@
+1	Dolphins	Dolphins	NNPS	_	2	nsubj
+2	created	create	VBD	_	0	ROOT
+3	tools	tool	NNS	_	2	dobj
+4	to	to	TO	_	5	aux
+5	use	use	VB	_	3	vmod
+6	for	for	IN	_	5	prep
+7	entertainment	entertainment	NN	_	6	pobj
+8	.	.	.	_	2	punct
+

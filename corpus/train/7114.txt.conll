@@ -1,0 +1,17 @@
+1	Tim	Tim	NNP	_	2	nn
+2	Boyle	Boyle	NNP	_	6	nn
+3	-LRB-	-lrb-	-LRB-	_	4	punct
+4	1846	1846	CD	_	2	appos
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	checks	check	NNS	_	0	ROOT
+7	a	a	DT	_	8	det
+8	flask	flask	NN	_	6	dep
+9	that	that	WDT	_	10	nsubj
+10	contains	contain	VBZ	_	8	rcmod
+11	the	the	DT	_	15	det
+12	dried	dry	VBN	_	15	amod
+13	cathode	cathode	NN	_	15	nn
+14	precursor	precursor	NN	_	15	nn
+15	powder	powder	NN	_	10	dobj
+16	.	.	.	_	6	punct
+

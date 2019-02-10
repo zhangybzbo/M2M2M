@@ -1,0 +1,18 @@
+1	Avci	Avci	NNP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	the	the	DT	_	4	det
+4	head	head	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	chief	chief	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	police	police	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	Diyarbakir	Diyarbakir	NNP	_	11	pobj
+13	between	between	IN	_	10	prep
+14	1984	1984	CD	_	13	pobj
+15	and	and	CC	_	14	cc
+16	1992	1992	CD	_	14	conj
+17	.	.	.	_	4	punct
+

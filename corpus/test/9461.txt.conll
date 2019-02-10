@@ -1,0 +1,13 @@
+1	My	my	PRP$	_	2	poss
+2	mother	mother	NN	_	3	nsubj
+3	sank	sink	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	deep	deep	JJ	_	7	amod
+7	depression	depression	NN	_	4	pobj
+8	after	after	IN	_	3	prep
+9	breast	breast	NN	_	11	nn
+10	cancer	cancer	NN	_	11	nn
+11	scare	scare	NN	_	8	pobj
+12	.	.	.	_	3	punct
+

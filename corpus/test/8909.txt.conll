@@ -1,0 +1,24 @@
+1	Although	although	IN	_	7	mark
+2	some	some	DT	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	stories	story	NNS	_	3	pobj
+6	were	be	VBD	_	7	auxpass
+7	based	base	VBN	_	0	ROOT
+8	on	on	IN	_	7	prep
+9	historical	historical	JJ	_	10	amod
+10	truths	truth	NNS	_	8	pobj
+11	,	,	,	_	7	punct
+12	most	most	JJS	_	11	dep
+13	were	be	VBD	_	12	prep
+14	a	a	DT	_	13	nsubj
+15	weaving	weave	VBG	_	14	vmod
+16	of	of	IN	_	15	prep
+17	Greek	greek	JJ	_	22	amod
+18	,	,	,	_	17	punct
+19	Roman	roman	JJ	_	17	conj
+20	and	and	CC	_	17	cc
+21	Celtic	celtic	JJ	_	17	conj
+22	myths	myth	NNS	_	16	pobj
+23	.	.	.	_	12	punct
+

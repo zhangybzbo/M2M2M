@@ -1,0 +1,11 @@
+1	Panic	panic	NN	_	2	nn
+2	attacks	attack	NNS	_	0	ROOT
+3	linked	link	VBN	_	2	vmod
+4	to	to	TO	_	3	prep
+5	heart	heart	NN	_	6	nn
+6	disease	disease	NN	_	4	pobj
+7	and	and	CC	_	6	cc
+8	heart	heart	NN	_	9	nn
+9	attacks	attack	NNS	_	6	conj
+10	.	.	.	_	2	punct
+

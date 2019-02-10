@@ -1,0 +1,9 @@
+1	He	he	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	passion	passion	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	his	he	PRP$	_	7	poss
+7	lover	lover	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

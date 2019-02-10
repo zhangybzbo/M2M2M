@@ -1,0 +1,14 @@
+1	The	the	DT	_	5	det
+2	Country	country	NN	_	5	nn
+3	Lane	Lane	NNP	_	5	nn
+4	Charm	Charm	NNP	_	5	nn
+5	birdhouse	birdhouse	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	made	make	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	antique	antique	JJ	_	12	amod
+10	salvaged	salvage	VBN	_	12	amod
+11	barn	barn	NN	_	12	nn
+12	wood	wood	NN	_	8	pobj
+13	.	.	.	_	7	punct
+

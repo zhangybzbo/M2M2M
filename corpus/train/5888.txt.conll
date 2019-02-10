@@ -1,0 +1,24 @@
+1	Murmur	murmur	NN	_	14	nsubj
+2	of	of	IN	_	1	prep
+3	Water	water	NN	_	2	pobj
+4	,	,	,	_	1	punct
+5	Kuttimuratov	Kuttimuratov	NNP	_	8	poss
+6	's	's	POS	_	5	possessive
+7	other	other	JJ	_	8	amod
+8	piece	piece	NN	_	1	appos
+9	I	I	PRP	_	10	nsubj
+10	photographed	photograph	VBD	_	8	rcmod
+11	for	for	IN	_	10	prep
+12	you	you	PRP	_	11	pobj
+13	,	,	,	_	1	punct
+14	shows	show	VBZ	_	0	ROOT
+15	the	the	DT	_	17	det
+16	Zoroastrian	Zoroastrian	NNP	_	17	nn
+17	goddess	goddess	NN	_	14	dobj
+18	of	of	IN	_	17	prep
+19	water	water	NN	_	18	pobj
+20	with	with	IN	_	14	prep
+21	a	a	DT	_	22	det
+22	fish	fish	NN	_	20	pobj
+23	.	.	.	_	14	punct
+

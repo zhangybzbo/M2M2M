@@ -1,0 +1,22 @@
+1	When	when	WRB	_	3	advmod
+2	he	he	PRP	_	3	nsubj
+3	clicked	click	VBD	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	plug	plug	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	antenna	antenna	NN	_	7	pobj
+10	and	and	CC	_	3	cc
+11	it	it	PRP	_	13	nsubj
+12	automatically	automatically	RB	_	13	advmod
+13	attached	attach	VBD	_	3	conj
+14	to	to	TO	_	13	prep
+15	the	the	DT	_	16	det
+16	wires	wire	NNS	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	bulb	bulb	NN	_	20	nn
+20	socket	socket	NN	_	17	pobj
+21	.	.	.	_	3	punct
+

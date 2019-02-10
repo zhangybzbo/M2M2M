@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	largest	largest	JJS	_	4	amod
+3	breeding	breeding	NN	_	4	nn
+4	rookery	rookery	NN	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	grey	grey	JJ	_	7	amod
+7	seals	seal	NNS	_	5	pobj
+8	is	be	VBZ	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Monach	Monach	NNP	_	12	nn
+12	Isles	Isles	NNP	_	9	pobj
+13	,	,	,	_	12	punct
+14	west	west	NN	_	12	appos
+15	of	of	IN	_	14	prep
+16	Benbecula	Benbecula	NNP	_	15	pobj
+17	.	.	.	_	8	punct
+

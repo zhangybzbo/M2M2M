@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	4	nsubj
+3	practically	practically	RB	_	4	advmod
+4	created	create	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	personal-home-computer	personal-home-computer	NN	_	7	nn
+7	industry	industry	NN	_	4	dobj
+8	,	,	,	_	4	punct
+9	but	but	CC	_	4	cc
+10	the	the	DT	_	11	det
+11	company	company	NN	_	12	nsubj
+12	made	make	VBD	_	4	conj
+13	the	the	DT	_	15	det
+14	fateful	fateful	JJ	_	15	amod
+15	decision	decision	NN	_	12	dobj
+16	not	not	RB	_	19	neg
+17	to	to	TO	_	19	aux
+18	liberally	liberally	RB	_	19	advmod
+19	license	license	VB	_	12	xcomp
+20	its	its	PRP$	_	22	poss
+21	software	software	NN	_	22	nn
+22	applications	application	NNS	_	19	dobj
+23	.	.	.	_	4	punct
+

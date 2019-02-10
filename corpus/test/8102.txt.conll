@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	monitoring	monitoring	NN	_	3	nn
+3	station	station	NN	_	4	nsubj
+4	receives	receive	VBZ	_	16	dep
+5	the	the	DT	_	6	det
+6	signal	signal	NN	_	4	dobj
+7	through	through	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	communication	communication	NN	_	10	nn
+10	device	device	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	the	the	DT	_	14	det
+13	combined	combined	JJ	_	14	amod
+14	signal	signal	NN	_	10	conj
+15	is	be	VBZ	_	16	auxpass
+16	processed	process	VBN	_	0	ROOT
+17	to	to	TO	_	18	aux
+18	retrieve	retrieve	VB	_	16	xcomp
+19	GPS	GPS	NNP	_	20	nn
+20	data	datum	NNS	_	18	dobj
+21	.	.	.	_	16	punct
+

@@ -1,0 +1,11 @@
+0	56	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="many" pos="JJ" amod="t2"
+5	8	tok id="t1" base="old" pos="JJ" amod="t2"
+9	17	tok id="t2" base="product" pos="NNS" nsubjpass="t4"
+18	21	tok id="t3" base="be" pos="VBP" auxpass="t4"
+22	30	tok id="t4" base="export" pos="VBN" ROOT="ROOT"
+31	33	tok id="t5" base="to" pos="TO" prep="t4"
+34	44	tok id="t6" base="develop" pos="VBG" amod="t7"
+45	54	tok id="t7" base="country" pos="NNS" pobj="t5"
+55	56	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

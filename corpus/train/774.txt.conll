@@ -1,0 +1,22 @@
+1	Here	here	RB	_	9	advmod
+2	,	,	,	_	9	punct
+3	in	in	IN	_	9	prep
+4	exclusive	exclusive	JJ	_	6	amod
+5	interview	interview	NN	_	6	nn
+6	clips	clip	NNS	_	3	pobj
+7	,	,	,	_	9	punct
+8	he	he	PRP	_	9	nsubj
+9	talked	talk	VBD	_	0	ROOT
+10	about	about	IN	_	9	prep
+11	his	he	PRP$	_	12	poss
+12	career	career	NN	_	10	pobj
+13	and	and	CC	_	9	cc
+14	what	what	WP	_	16	dobj
+15	he	he	PRP	_	16	nsubj
+16	thought	think	VBD	_	9	conj
+17	of	of	IN	_	16	prep
+18	today	today	NN	_	20	poss
+19	's	's	POS	_	18	possessive
+20	television	television	NN	_	17	pobj
+21	.	.	.	_	9	punct
+

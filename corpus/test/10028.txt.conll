@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	talk	talk	NN	_	0	ROOT
+3	was	be	VBD	_	2	dep
+4	about	about	IN	_	3	prep
+5	peacekeeping	peacekeep	VBG	_	6	amod
+6	operations	operation	NNS	_	4	pobj
+7	.	.	.	_	2	punct
+

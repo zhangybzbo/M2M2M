@@ -1,0 +1,3 @@
+T1	Term 103 108	clump
+T2	Term 121 126	trees
+R1	Member-Collection Arg1:T2 Arg2:T1

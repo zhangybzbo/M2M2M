@@ -1,0 +1,17 @@
+1	Two	two	CD	_	2	num
+2	days	day	NNS	_	3	npadvmod
+3	later	later	RB	_	10	advmod
+4	,	,	,	_	10	punct
+5	the	the	DT	_	8	det
+6	salt	salt	NN	_	8	nn
+7	water	water	NN	_	8	nn
+8	fish	fish	NN	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	put	put	VBN	_	0	ROOT
+11	into	into	IN	_	10	prep
+12	a	a	DT	_	15	det
+13	fresh	fresh	JJ	_	15	amod
+14	water	water	NN	_	15	nn
+15	pound	pound	NN	_	11	pobj
+16	.	.	.	_	10	punct
+

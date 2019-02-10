@@ -1,0 +1,11 @@
+1	Anti-gun	anti-gun	JJ	_	2	amod
+2	forces	force	NNS	_	4	nsubj
+3	still	still	RB	_	4	advmod
+4	wield	wield	VBP	_	0	ROOT
+5	a	a	DT	_	6	det
+6	lot	lot	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	political	political	JJ	_	9	amod
+9	power	power	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	By	by	IN	_	12	prep
+2	the	the	DT	_	3	det
+3	end	end	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	work	work	NN	_	7	nn
+7	day	day	NN	_	4	pobj
+8	,	,	,	_	12	punct
+9	the	the	DT	_	10	det
+10	anger	anger	NN	_	12	nsubj
+11	was	be	VBD	_	12	aux
+12	radiating	radiate	VBG	_	0	ROOT
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	city	city	NN	_	13	pobj
+16	.	.	.	_	12	punct
+

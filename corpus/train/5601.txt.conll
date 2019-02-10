@@ -1,0 +1,24 @@
+1	She	she	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	her	she	PRP$	_	4	poss
+4	fingertips	fingertip	NNS	_	2	dobj
+5	to	to	TO	_	2	prep
+6	scrub	scrub	NN	_	5	pobj
+7	into	into	IN	_	2	prep
+8	the	the	DT	_	9	det
+9	bristles	bristle	VBZ	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	brush	brush	NN	_	10	pobj
+13	,	,	,	_	9	punct
+14	getting	get	VBG	_	9	vmod
+15	between	between	IN	_	14	prep
+16	crevices	crevice	NNS	_	15	pobj
+17	where	where	WRB	_	22	advmod
+18	food	food	NN	_	22	nsubjpass
+19	can	can	MD	_	22	aux
+20	often	often	RB	_	22	advmod
+21	get	get	VB	_	22	auxpass
+22	stuck	stick	VBN	_	16	rcmod
+23	.	.	.	_	2	punct
+

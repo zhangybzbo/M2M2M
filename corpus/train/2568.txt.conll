@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	nun	nun	NN	_	3	nsubj
+3	fulfills	fulfil	VBZ	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	fantasy	fantasy	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	kiss	kiss	NN	_	6	pobj
+9	that	that	WDT	_	11	nsubj
+10	would	would	MD	_	11	aux
+11	make	make	VB	_	8	rcmod
+12	a	a	DT	_	13	det
+13	hooker	hooker	NN	_	14	nsubj
+14	blush	blush	VBP	_	11	ccomp
+15	.	.	.	_	3	punct
+

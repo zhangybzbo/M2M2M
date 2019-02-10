@@ -1,0 +1,21 @@
+1	It	it	PRP	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	noted	note	VBN	_	0	ROOT
+4	that	that	IN	_	9	mark
+5	this	this	DT	_	6	det
+6	policy	policy	NN	_	9	nsubjpass
+7	had	have	VBD	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	considered	consider	VBN	_	3	ccomp
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	last	last	JJ	_	13	amod
+13	meeting	meeting	NN	_	10	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	Policy	policy	NN	_	14	pobj
+17	and	and	CC	_	16	cc
+18	Procedure	Procedure	NNP	_	19	nn
+19	Review	Review	NNP	_	16	conj
+20	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	Under	under	IN	_	11	prep
+2	Hideyoshi	Hideyoshi	NNP	_	4	poss
+3	's	's	POS	_	2	possessive
+4	administration	administration	NN	_	1	pobj
+5	the	the	DT	_	6	det
+6	factory	factory	NN	_	8	poss
+7	's	's	POS	_	6	possessive
+8	output	output	NN	_	11	nsubj
+9	of	of	IN	_	8	prep
+10	firearms	firearm	NNS	_	9	pobj
+11	increased	increase	VBD	_	0	ROOT
+12	dramatically	dramatically	RB	_	11	advmod
+13	.	.	.	_	11	punct
+

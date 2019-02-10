@@ -1,0 +1,11 @@
+0	47	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	15	tok id="t1" base="temperature" pos="NN" nsubj="t7"
+16	22	tok id="t2" base="inside" pos="IN" prep="t1"
+23	26	tok id="t3" base="the" pos="DT" det="t4"
+27	30	tok id="t4" base="car" pos="NN" pobj="t2"
+31	34	tok id="t5" base="be" pos="VBD" cop="t7"
+35	37	tok id="t6" base="79" pos="CD" num="t7"
+38	45	tok id="t7" base="degree" pos="NNS" ROOT="ROOT"
+46	47	tok id="t8" base="-PERIOD-" pos="." punct="t7"
+

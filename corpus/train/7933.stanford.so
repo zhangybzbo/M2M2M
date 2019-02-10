@@ -1,0 +1,11 @@
+0	54	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Givers" pos="NNP" nn="t3"
+7	11	tok id="t1" base="gain" pos="NN" nn="t3"
+12	17	tok id="t2" base="moral" pos="JJ" amod="t3"
+18	26	tok id="t3" base="strength" pos="NN" ROOT="ROOT"
+27	30	tok id="t4" base="and" pos="CC" cc="t3"
+31	40	tok id="t5" base="happiness" pos="NN" conj="t3"
+41	45	tok id="t6" base="from" pos="IN" prep="t3"
+46	52	tok id="t7" base="give" pos="VBG" pcomp="t6"
+53	54	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

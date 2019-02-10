@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	ditch	ditch	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	dug	dig	VBN	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	the	the	DT	_	7	det
+7	rampart	rampart	NN	_	8	nsubj
+8	piled	pile	VBD	_	4	conj
+9	up	up	RP	_	8	prt
+10	by	by	IN	_	8	prep
+11	gangs	gang	NNS	_	10	pobj
+12	of	of	IN	_	11	prep
+13	men	man	NNS	_	12	pobj
+14	working	work	VBG	_	13	vmod
+15	in	in	IN	_	14	prep
+16	sections	section	NNS	_	15	pobj
+17	.	.	.	_	4	punct
+

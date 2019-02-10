@@ -1,0 +1,1 @@
+We store the information in a database in a secure environment at our data center .

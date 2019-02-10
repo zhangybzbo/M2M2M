@@ -1,0 +1,25 @@
+1	When	when	WRB	_	0	ROOT
+2	you	you	PRP	_	3	nsubj
+3	press	press	NN	_	1	dep
+4	and	and	CC	_	3	cc
+5	hold	hold	VB	_	3	conj
+6	K1	k1	NN	_	7	nn
+7	Button	button	NN	_	5	dobj
+8	for	for	IN	_	3	prep
+9	about	about	IN	_	10	quantmod
+10	3	3	CD	_	11	num
+11	seconds	seconds	NNS	_	8	pobj
+12	,	,	,	_	3	punct
+13	the	the	DT	_	15	det
+14	green	green	JJ	_	15	amod
+15	indicator	indicator	NN	_	3	appos
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	headset	headset	NN	_	19	nn
+19	flashes	flash	NNS	_	16	pobj
+20	once	once	RB	_	23	advmod
+21	every	every	DT	_	23	det
+22	3	3	CD	_	23	num
+23	seconds	seconds	NNS	_	15	dep
+24	.	.	.	_	1	punct
+

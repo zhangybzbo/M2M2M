@@ -1,0 +1,22 @@
+1	Bella	Bella	NNP	_	2	nn
+2	Strings	Strings	NNP	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	professional	professional	JJ	_	7	amod
+6	string	string	NN	_	7	nn
+7	ensemble	ensemble	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	passionate	passionate	JJ	_	10	amod
+10	musicians	musician	NNS	_	8	pobj
+11	performing	perform	VBG	_	10	dep
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	16	det
+14	greater	greater	JJR	_	16	amod
+15	Orlando	Orlando	NNP	_	16	nn
+16	area	area	NN	_	12	pobj
+17	and	and	CC	_	11	cc
+18	across	across	IN	_	11	conj
+19	Central	Central	NNP	_	20	nn
+20	Florida	Florida	NNP	_	18	pobj
+21	.	.	.	_	7	punct
+

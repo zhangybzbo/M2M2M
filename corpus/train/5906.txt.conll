@@ -1,0 +1,21 @@
+1	Even	even	RB	_	7	advmod
+2	though	though	IN	_	7	mark
+3	the	the	DT	_	4	det
+4	network	network	NN	_	6	poss
+5	's	's	POS	_	4	possessive
+6	programming	programming	NN	_	7	nsubj
+7	covers	cover	VBZ	_	14	advcl
+8	the	the	DT	_	10	det
+9	political	political	JJ	_	10	amod
+10	process	process	NN	_	7	dobj
+11	,	,	,	_	14	punct
+12	the	the	DT	_	13	det
+13	network	network	NN	_	14	nsubj
+14	receives	receive	VBZ	_	0	ROOT
+15	no	no	DT	_	16	neg
+16	funding	funding	NN	_	14	dobj
+17	from	from	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	government	government	NN	_	17	pobj
+20	.	.	.	_	14	punct
+

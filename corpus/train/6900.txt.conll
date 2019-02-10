@@ -1,0 +1,21 @@
+1	Scientists	scientist	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	made	make	VBN	_	0	ROOT
+4	batteries	battery	NNS	_	3	dobj
+5	and	and	CC	_	4	cc
+6	supercapacitors	supercapacitor	NNS	_	4	conj
+7	with	with	IN	_	3	prep
+8	little	little	RB	_	9	advmod
+9	more	more	JJR	_	7	pobj
+10	than	than	IN	_	9	prep
+11	ordinary	ordinary	JJ	_	13	amod
+12	office	office	NN	_	13	nn
+13	paper	paper	NN	_	10	pobj
+14	and	and	CC	_	13	cc
+15	some	some	DT	_	19	det
+16	carbon	carbon	NN	_	19	nn
+17	and	and	CC	_	16	cc
+18	silver	silver	NN	_	16	conj
+19	nanomaterials	nanomaterial	NNS	_	13	conj
+20	.	.	.	_	3	punct
+

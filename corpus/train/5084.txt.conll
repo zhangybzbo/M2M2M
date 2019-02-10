@@ -1,0 +1,9 @@
+1	I	I	PRP	_	2	nsubj
+2	judged	judge	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	book	book	NN	_	2	dobj
+5	by	by	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	cover	cover	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

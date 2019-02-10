@@ -1,0 +1,20 @@
+1	With	with	IN	_	10	prep
+2	the	the	DT	_	3	det
+3	help	help	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	its	its	PRP$	_	6	poss
+6	diaspora	diaspora	NN	_	4	pobj
+7	,	,	,	_	10	punct
+8	China	China	NNP	_	10	nsubj
+9	has	have	VBZ	_	10	aux
+10	won	win	VBN	_	0	ROOT
+11	the	the	DT	_	12	det
+12	race	race	NN	_	10	dobj
+13	to	to	TO	_	18	aux
+14	be	be	VB	_	18	cop
+15	the	the	DT	_	16	det
+16	world	world	NN	_	18	poss
+17	's	's	POS	_	16	possessive
+18	factory	factory	NN	_	12	vmod
+19	.	.	.	_	10	punct
+

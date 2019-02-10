@@ -1,0 +1,21 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	also	also	RB	_	2	advmod
+4	some	some	DT	_	5	det
+5	argumentation	argumentation	NN	_	2	nsubj
+6	between	between	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	co-pilot	co-pilot	NNS	_	6	pobj
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	pilot	pilot	NN	_	8	conj
+12	and	and	CC	_	8	cc
+13	captain	captain	NN	_	8	conj
+14	relating	relate	VBG	_	13	vmod
+15	with	with	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	speed	speed	NN	_	15	pobj
+18	and	and	CC	_	17	cc
+19	flaps	flap	NNS	_	17	conj
+20	.	.	.	_	2	punct
+

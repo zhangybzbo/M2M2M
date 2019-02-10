@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	scintillator	scintillator	NN	_	3	nn
+3	material	material	NN	_	4	nsubj
+4	produces	produce	VBZ	_	0	ROOT
+5	visible	visible	JJ	_	6	amod
+6	light	light	NN	_	4	dobj
+7	when	when	WRB	_	8	advmod
+8	transversed	transverse	VBN	_	4	advcl
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	particle	particle	NN	_	14	poss
+12	's	's	POS	_	11	possessive
+13	radiated	radiate	VBN	_	14	amod
+14	energy	energy	NN	_	9	pobj
+15	.	.	.	_	4	punct
+

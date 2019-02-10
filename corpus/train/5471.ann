@@ -1,0 +1,3 @@
+T1	Term 0 10	Honey bees
+T2	Term 30 42	warmer areas
+R1	Entity-Destination Arg1:T1 Arg2:T2

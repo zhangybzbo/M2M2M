@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	contaminated	contaminate	VBN	_	3	amod
+3	buildings	building	NNS	_	8	nsubj
+4	that	that	WDT	_	6	nsubjpass
+5	were	be	VBD	_	6	auxpass
+6	buried	bury	VBN	_	3	rcmod
+7	have	have	VBP	_	8	aux
+8	leaked	leak	VBN	_	0	ROOT
+9	radiation	radiation	NN	_	8	dobj
+10	into	into	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	soil	soil	NN	_	10	pobj
+13	.	.	.	_	8	punct
+

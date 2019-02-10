@@ -1,0 +1,1 @@
+The approximation is derived from an assumption that A is constant along the radial positions in the tube .

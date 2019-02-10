@@ -1,0 +1,12 @@
+1	We	we	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	fried	fried	JJ	_	4	amod
+4	cheese	cheese	NN	_	2	dobj
+5	as	as	IN	_	2	prep
+6	an	a	DT	_	7	det
+7	element	element	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	dish	dish	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

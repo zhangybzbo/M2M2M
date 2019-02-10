@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	ship	ship	NN	_	3	nsubj
+3	sailed	sail	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	port	port	NN	_	4	pobj
+7	only	only	RB	_	8	advmod
+8	once	once	RB	_	3	advmod
+9	and	and	CC	_	3	cc
+10	was	be	VBD	_	11	auxpass
+11	registered	register	VBN	_	3	conj
+12	in	in	IN	_	11	prep
+13	Liverpool	Liverpool	NNP	_	12	pobj
+14	.	.	.	_	3	punct
+

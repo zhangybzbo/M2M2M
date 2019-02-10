@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	spent	spend	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	year	year	NN	_	2	tmod
+5	working	work	VBG	_	2	xcomp
+6	for	for	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	software	software	NN	_	9	nn
+9	company	company	NN	_	6	pobj
+10	to	to	TO	_	11	aux
+11	pay	pay	VB	_	9	vmod
+12	off	off	RP	_	11	prt
+13	my	my	PRP$	_	15	poss
+14	college	college	NN	_	15	nn
+15	loans	loan	NNS	_	11	dobj
+16	.	.	.	_	2	punct
+

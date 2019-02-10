@@ -1,0 +1,18 @@
+1	One	one	CD	_	2	num
+2	topic	topic	NN	_	14	nsubj
+3	that	that	WDT	_	4	nsubj
+4	came	come	VBD	_	2	rcmod
+5	up	up	RP	_	4	prt
+6	in	in	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	discussion	discussion	NN	_	6	pobj
+9	with	with	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	audience	audience	NN	_	9	pobj
+12	was	be	VBD	_	14	cop
+13	the	the	DT	_	14	det
+14	future	future	NN	_	0	ROOT
+15	of	of	IN	_	14	prep
+16	news	news	NN	_	15	pobj
+17	.	.	.	_	14	punct
+

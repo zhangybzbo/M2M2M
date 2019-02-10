@@ -1,0 +1,14 @@
+1	Husseys	Husseys	NNP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	their	they	PRP$	_	5	poss
+4	key	key	JJ	_	5	amod
+5	players	player	NNS	_	2	dobj
+6	to	to	TO	_	2	prep
+7	the	the	DT	_	8	det
+8	stadium	stadium	NN	_	6	pobj
+9	for	for	IN	_	2	prep
+10	the	the	DT	_	12	det
+11	decisive	decisive	JJ	_	12	amod
+12	game	game	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

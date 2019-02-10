@@ -1,0 +1,21 @@
+1	Your	you	PRP$	_	2	poss
+2	doctor	doctor	NN	_	3	nsubj
+3	tells	tell	VBZ	_	0	ROOT
+4	your	you	PRP$	_	6	poss
+5	blood	blood	NN	_	6	nn
+6	pressure	pressure	NN	_	3	dobj
+7	by	by	IN	_	3	prep
+8	using	use	VBG	_	7	pcomp
+9	a	a	DT	_	10	det
+10	sphygmomanometer	sphygmomanometer	NN	_	8	dobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	15	nsubj
+13	is	be	VBZ	_	15	cop
+14	the	the	DT	_	15	det
+15	instrument	instrument	NN	_	10	rcmod
+16	for	for	IN	_	15	prep
+17	measuring	measure	VBG	_	16	pcomp
+18	blood	blood	NN	_	19	nn
+19	pressure	pressure	NN	_	17	dobj
+20	.	.	.	_	3	punct
+

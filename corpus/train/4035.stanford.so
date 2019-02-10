@@ -1,0 +1,11 @@
+0	55	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="scientist" pos="NNS" nsubj="t2"
+11	15	tok id="t1" base="have" pos="VBP" aux="t2"
+16	24	tok id="t2" base="inject" pos="VBN" ROOT="ROOT"
+25	30	tok id="t3" base="human" pos="JJ" amod="t4"
+31	36	tok id="t4" base="cell" pos="NNS" dobj="t2"
+37	41	tok id="t5" base="into" pos="IN" prep="t2"
+42	45	tok id="t6" base="lab" pos="NN" nn="t7"
+46	53	tok id="t7" base="animal" pos="NNS" pobj="t5"
+54	55	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

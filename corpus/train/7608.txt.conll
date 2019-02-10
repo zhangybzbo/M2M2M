@@ -1,0 +1,18 @@
+1	It	it	PRP	_	4	nsubj
+2	's	be	VBZ	_	4	cop
+3	very	very	RB	_	4	advmod
+4	rewarding	rewarding	JJ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	I	I	PRP	_	7	nsubj
+7	get	get	VBP	_	4	conj
+8	a	a	DT	_	10	det
+9	great	great	JJ	_	10	amod
+10	deal	deal	NN	_	7	dobj
+11	of	of	IN	_	10	prep
+12	enjoyment	enjoyment	NN	_	11	pobj
+13	and	and	CC	_	12	cc
+14	satisfaction	satisfaction	NN	_	12	conj
+15	from	from	IN	_	10	prep
+16	mentoring	mentoring	NN	_	15	pobj
+17	.	.	.	_	4	punct
+

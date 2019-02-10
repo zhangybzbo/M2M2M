@@ -1,0 +1,20 @@
+1	A	a	DT	_	3	det
+2	blood	blood	NN	_	3	nn
+3	clot	clot	NN	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	a	a	DT	_	7	det
+6	normal	normal	JJ	_	7	amod
+7	reaction	reaction	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	body	body	NN	_	8	pobj
+11	that	that	WDT	_	12	nsubj
+12	occurs	occur	VBZ	_	7	rcmod
+13	if	if	IN	_	18	mark
+14	a	a	DT	_	16	det
+15	blood	blood	NN	_	16	nn
+16	vessel	vessel	NN	_	18	nsubjpass
+17	is	be	VBZ	_	18	auxpass
+18	injured	injure	VBN	_	12	advcl
+19	.	.	.	_	7	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	limited	limited	JJ	_	3	amod
+3	editions	edition	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	arrived	arrive	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	our	we	PRP$	_	8	poss
+8	warehouse	warehouse	NN	_	6	pobj
+9	in	in	IN	_	5	prep
+10	time	time	NN	_	9	pobj
+11	for	for	IN	_	5	prep
+12	the	the	DT	_	14	det
+13	release	release	NN	_	14	nn
+14	date	date	NN	_	11	pobj
+15	on	on	IN	_	5	prep
+16	Thursday	Thursday	NNP	_	15	pobj
+17	.	.	.	_	5	punct
+

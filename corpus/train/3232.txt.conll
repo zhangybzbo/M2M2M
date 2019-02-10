@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	flag	flag	NN	_	0	ROOT
+3	randomly	randomly	RB	_	4	advmod
+4	popped	pop	VBN	_	2	vmod
+5	out	out	IN	_	4	prep
+6	of	of	IN	_	5	pcomp
+7	an	a	DT	_	8	det
+8	enemy	enemy	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	corpse	corpse	NN	_	6	pobj
+11	.	.	.	_	2	punct
+

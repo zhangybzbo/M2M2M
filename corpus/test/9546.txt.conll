@@ -1,0 +1,25 @@
+1	To	to	TO	_	2	aux
+2	preserve	preserve	VB	_	0	ROOT
+3	its	its	PRP$	_	4	poss
+4	catch	catch	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	fish	fish	NN	_	5	pobj
+7	,	,	,	_	10	punct
+8	each	each	DT	_	10	det
+9	boat	boat	NN	_	10	nn
+10	loads	load	NNS	_	2	parataxis
+11	between	between	IN	_	10	prep
+12	2000	2000	CD	_	15	num
+13	and	and	CC	_	12	cc
+14	3000	3000	CD	_	12	conj
+15	kilos	kilo	NNS	_	11	pobj
+16	of	of	IN	_	15	prep
+17	ice	ice	NN	_	16	pobj
+18	before	before	IN	_	20	mark
+19	it	it	PRP	_	20	nsubj
+20	goes	go	VBZ	_	10	dep
+21	out	out	IN	_	20	prep
+22	to	to	TO	_	21	pcomp
+23	sea	sea	NN	_	22	pobj
+24	.	.	.	_	10	punct
+

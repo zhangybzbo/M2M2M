@@ -1,0 +1,3 @@
+T1	Term 170 181	destruction
+T2	Term 206 209	war
+R1	Cause-Effect Arg1:T2 Arg2:T1

@@ -1,0 +1,3 @@
+T1	Term 138 145	tension
+T2	Term 160 166	stress
+R1	Cause-Effect Arg1:T2 Arg2:T1

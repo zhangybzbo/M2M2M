@@ -1,0 +1,16 @@
+1	With	with	IN	_	8	prep
+2	operations	operation	NNS	_	1	pobj
+3	in	in	IN	_	2	prep
+4	Scandinavia	Scandinavia	NNP	_	3	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	company	company	NN	_	8	nsubj
+8	manufactures	manufacture	VBZ	_	0	ROOT
+9	plastic	plastic	JJ	_	10	amod
+10	drums	drum	NNS	_	8	dobj
+11	,	,	,	_	10	punct
+12	jerricans	jerrican	NNS	_	10	conj
+13	and	and	CC	_	10	cc
+14	pails	pail	NNS	_	10	conj
+15	.	.	.	_	8	punct
+

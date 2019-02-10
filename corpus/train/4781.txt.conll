@@ -1,0 +1,23 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	cleaner	cleaner	NN	_	4	nsubj
+4	was	be	VBD	_	12	advcl
+5	down	down	RB	_	4	advmod
+6	in	in	IN	_	4	prep
+7	a	a	DT	_	8	det
+8	cistern	cistern	NN	_	6	pobj
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	children	child	NNS	_	12	nsubj
+12	enjoyed	enjoy	VBD	_	0	ROOT
+13	looking	look	VBG	_	12	xcomp
+14	down	down	RP	_	13	prt
+15	into	into	IN	_	13	prep
+16	the	the	DT	_	17	det
+17	cistern	cistern	NN	_	15	pobj
+18	to	to	TO	_	19	aux
+19	see	see	VB	_	13	xcomp
+20	him	he	PRP	_	21	nsubj
+21	work	work	VB	_	19	ccomp
+22	.	.	.	_	12	punct
+

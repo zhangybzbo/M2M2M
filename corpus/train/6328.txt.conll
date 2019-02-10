@@ -1,0 +1,16 @@
+1	Orientation	orientation	NN	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	towards	towards	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	future	future	NN	_	3	pobj
+6	,	,	,	_	2	punct
+7	and	and	CC	_	2	cc
+8	satisfaction	satisfaction	NN	_	10	nsubjpass
+9	is	be	VBZ	_	10	auxpass
+10	gained	gain	VBN	_	2	conj
+11	from	from	IN	_	10	prep
+12	feelings	feeling	NNS	_	11	pobj
+13	of	of	IN	_	12	prep
+14	progress	progress	NN	_	13	pobj
+15	.	.	.	_	2	punct
+

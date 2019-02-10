@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	det
+2	usage	usage	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	uncommon	uncommon	JJ	_	0	ROOT
+5	among	among	IN	_	4	prep
+6	players	player	NNS	_	5	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	instrument	instrument	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

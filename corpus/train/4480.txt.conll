@@ -1,0 +1,17 @@
+1	Malaria	malaria	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	infection	infection	NN	_	4	pobj
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	parasite	parasite	NN	_	6	pobj
+9	called	call	VBN	_	8	vmod
+10	Plasmodium	plasmodium	NN	_	9	dep
+11	that	that	WDT	_	13	nsubjpass
+12	is	be	VBZ	_	13	auxpass
+13	transmitted	transmit	VBN	_	8	rcmod
+14	by	by	IN	_	13	prep
+15	mosquitos	mosquito	NNS	_	14	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="rather" pos="RB" advmod="t4"
+7	8	tok id="t1" base="-COMMA-" pos="," punct="t4"
+9	12	tok id="t2" base="the" pos="DT" det="t3"
+13	21	tok id="t3" base="entrails" pos="NNS" nsubj="t4"
+22	31	tok id="t4" base="contain" pos="VBD" ROOT="ROOT"
+32	38	tok id="t5" base="mostly" pos="RB" advmod="t6"
+39	45	tok id="t6" base="apple" pos="NNS" dobj="t4"
+46	49	tok id="t7" base="and" pos="CC" cc="t6"
+50	54	tok id="t8" base="corn" pos="NN" conj="t6"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

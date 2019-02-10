@@ -1,0 +1,21 @@
+1	About	about	IN	_	2	quantmod
+2	two	two	CD	_	3	num
+3	hours	hour	NNS	_	4	npadvmod
+4	later	later	RB	_	7	advmod
+5	,	,	,	_	7	punct
+6	officers	officer	NNS	_	7	nsubj
+7	got	get	VBD	_	0	ROOT
+8	an	a	DT	_	10	det
+9	anonymous	anonymous	JJ	_	10	amod
+10	tip	tip	NN	_	7	dobj
+11	that	that	IN	_	14	mark
+12	the	the	DT	_	13	det
+13	gunman	gunman	NN	_	14	nsubj
+14	was	be	VBD	_	10	ccomp
+15	inside	inside	IN	_	14	prep
+16	a	a	DT	_	19	det
+17	nearby	nearby	JJ	_	19	amod
+18	apartment	apartment	NN	_	19	nn
+19	building	building	NN	_	15	pobj
+20	.	.	.	_	7	punct
+

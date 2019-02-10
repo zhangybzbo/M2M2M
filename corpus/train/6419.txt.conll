@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj
+2	love	love	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	imperial	imperial	JJ	_	5	amod
+5	logo	logo	NN	_	2	dobj
+6	at	at	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	end	end	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	tank	tank	NN	_	12	nn
+12	canons	canon	NNS	_	9	pobj
+13	.	.	.	_	2	punct
+

@@ -1,0 +1,12 @@
+0	53	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	14	tok id="t1" base="inequality" pos="NN" nsubj="t4"
+15	18	tok id="t2" base="and" pos="CC" cc="t1"
+19	26	tok id="t3" base="poverty" pos="NN" conj="t1"
+27	33	tok id="t4" base="cause" pos="VBD" ROOT="ROOT"
+34	37	tok id="t5" base="the" pos="DT" det="t6"
+38	43	tok id="t6" base="riot" pos="NNS" dobj="t4"
+44	46	tok id="t7" base="in" pos="IN" prep="t4"
+47	51	tok id="t8" base="2001" pos="CD" pobj="t7"
+52	53	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

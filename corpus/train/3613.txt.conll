@@ -1,0 +1,24 @@
+1	Doc	Doc	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	former	former	JJ	_	4	amod
+4	lover	lover	NN	_	12	nsubj
+5	,	,	,	_	4	punct
+6	the	the	DT	_	9	det
+7	erstwhile	erstwhile	JJ	_	9	amod
+8	hippie	hippie	NN	_	9	nn
+9	Shasta	Shasta	NNP	_	4	appos
+10	,	,	,	_	4	punct
+11	has	have	VBZ	_	12	aux
+12	become	become	VBN	_	0	ROOT
+13	entangled	entangled	JJ	_	12	acomp
+14	with	with	IN	_	13	prep
+15	a	a	DT	_	14	pobj
+16	married	marry	VBN	_	15	vmod
+17	,	,	,	_	19	punct
+18	billionaire	billionaire	NN	_	19	nn
+19	developer	developer	NN	_	16	dep
+20	,	,	,	_	19	punct
+21	Marty	Marty	NNP	_	22	nn
+22	Wolfmann	Wolfmann	NNP	_	19	appos
+23	.	.	.	_	19	punct
+

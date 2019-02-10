@@ -1,0 +1,26 @@
+1	One	one	CD	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	best	best	JJS	_	6	amod
+5	vantage	vantage	NN	_	6	nn
+6	points	point	NNS	_	2	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	Boston	Boston	NNP	_	10	nn
+10	skyline	skyline	NN	_	7	pobj
+11	is	be	VBZ	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	water	water	NN	_	12	pobj
+15	,	,	,	_	11	punct
+16	in	in	IN	_	11	prep
+17	a	a	DT	_	18	det
+18	boat	boat	NN	_	16	pobj
+19	heading	head	VBG	_	18	vmod
+20	toward	toward	IN	_	19	prep
+21	the	the	DT	_	24	det
+22	Boston	Boston	NNP	_	24	nn
+23	Harbor	Harbor	NNP	_	24	nn
+24	Islands	Islands	NNPS	_	20	pobj
+25	.	.	.	_	11	punct
+

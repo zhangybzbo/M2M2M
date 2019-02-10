@@ -1,0 +1,13 @@
+1	They	they	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	placed	place	VBN	_	0	ROOT
+4	corpses	corpse	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	shallow	shallow	JJ	_	7	amod
+7	graves	grave	NNS	_	5	pobj
+8	along	along	IN	_	3	prep
+9	with	with	IN	_	8	pcomp
+10	stone	stone	NN	_	11	nn
+11	tools	tool	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

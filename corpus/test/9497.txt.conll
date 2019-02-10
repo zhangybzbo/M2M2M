@@ -1,0 +1,26 @@
+1	From	from	IN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	window	window	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	train	train	NN	_	4	pobj
+7	the	the	DT	_	8	det
+8	world	world	NN	_	12	nsubj
+9	is	be	VBZ	_	12	cop
+10	a	a	DT	_	12	det
+11	visual	visual	JJ	_	12	amod
+12	banquet	banquet	NN	_	6	rcmod
+13	,	,	,	_	14	punct
+14	one	one	CD	_	1	dep
+15	you	you	PRP	_	16	nsubj
+16	taste	taste	VBP	_	14	rcmod
+17	and	and	CC	_	16	cc
+18	inhale	inhale	VBP	_	16	conj
+19	as	as	IN	_	21	mark
+20	it	it	PRP	_	21	nsubj
+21	flows	flow	VBZ	_	16	advcl
+22	past	past	JJ	_	24	amod
+23	your	you	PRP$	_	24	poss
+24	window	window	NN	_	21	dobj
+25	.	.	.	_	14	punct
+

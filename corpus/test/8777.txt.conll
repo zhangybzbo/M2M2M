@@ -1,0 +1,18 @@
+1	Last	last	JJ	_	2	amod
+2	time	time	NN	_	4	tmod
+3	we	we	PRP	_	4	nsubj
+4	got	get	VBD	_	0	ROOT
+5	ice	ice	NN	_	6	nn
+6	cream	cream	NN	_	4	dobj
+7	that	that	WDT	_	8	nsubj
+8	was	be	VBD	_	6	rcmod
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	cup	cup	NN	_	9	pobj
+12	and	and	CC	_	8	cc
+13	did	do	VBD	_	15	aux
+14	n't	not	RB	_	15	neg
+15	fall	fall	VB	_	8	conj
+16	over	over	RP	_	15	prt
+17	.	.	.	_	4	punct
+

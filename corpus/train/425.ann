@@ -1,0 +1,3 @@
+T1	Term 78 84	tenant
+T2	Term 111 115	home
+R1	Entity-Origin Arg1:T1 Arg2:T2

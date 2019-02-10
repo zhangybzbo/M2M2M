@@ -1,0 +1,19 @@
+1	Amateur	amateur	JJ	_	2	amod
+2	video	video	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	posted	post	VBN	_	0	ROOT
+6	online	online	NN	_	5	dobj
+7	that	that	WDT	_	8	nsubj
+8	shows	show	VBZ	_	6	rcmod
+9	some	some	DT	_	8	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	devastation	devastation	NN	_	10	pobj
+13	caused	cause	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	tsunami	tsunami	NN	_	17	nn
+17	waves	wave	NNS	_	14	pobj
+18	.	.	.	_	5	punct
+

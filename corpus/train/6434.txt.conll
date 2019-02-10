@@ -1,0 +1,23 @@
+1	Soya	Soya	NNP	_	2	nn
+2	farming	farming	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	main	main	JJ	_	8	amod
+8	causes	cause	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	tropical	tropical	JJ	_	11	amod
+11	deforestation	deforestation	NN	_	9	pobj
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	15	nsubj
+14	currently	currently	RB	_	15	advmod
+15	produces	produce	VBZ	_	11	rcmod
+16	a	a	DT	_	17	det
+17	fifth	fifth	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	global	global	JJ	_	21	amod
+20	climate	climate	NN	_	21	nn
+21	change	change	NN	_	18	pobj
+22	.	.	.	_	4	punct
+

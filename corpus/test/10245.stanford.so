@@ -1,0 +1,11 @@
+0	49	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="iraqi" pos="JJ" amod="t3"
+6	9	tok id="t1" base="air" pos="NN" nn="t3"
+10	15	tok id="t2" base="force" pos="NN" nn="t3"
+16	22	tok id="t3" base="pilot" pos="NNS" nsubj="t4"
+23	27	tok id="t4" base="take" pos="VBD" ROOT="ROOT"
+28	34	tok id="t5" base="flight" pos="NN" dobj="t4"
+35	39	tok id="t6" base="into" pos="IN" prep="t4"
+40	47	tok id="t7" base="history" pos="NN" pobj="t6"
+48	49	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

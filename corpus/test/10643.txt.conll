@@ -1,0 +1,14 @@
+1	Most	most	JJS	_	7	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	flooding	flooding	NN	_	2	pobj
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	8	pobj
+10	clogging	clog	VBG	_	9	amod
+11	of	of	IN	_	10	prep
+12	drains	drain	VBZ	_	7	dep
+13	.	.	.	_	7	punct
+

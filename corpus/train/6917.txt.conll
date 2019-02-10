@@ -1,0 +1,18 @@
+1	His	he	PRP$	_	3	poss
+2	promised	promise	VBN	_	3	amod
+3	bride	bride	NN	_	0	ROOT
+4	was	be	VBD	_	3	dep
+5	already	already	RB	_	6	advmod
+6	in	in	IN	_	4	prep
+7	great	great	JJ	_	8	amod
+8	peril	peril	NN	_	6	pobj
+9	from	from	IN	_	6	prep
+10	the	the	DT	_	12	det
+11	twisted	twisted	JJ	_	12	amod
+12	love	love	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	an	a	DT	_	16	det
+15	insane	insane	JJ	_	16	amod
+16	suitor	suitor	NN	_	13	pobj
+17	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Brown" pos="NNP" ROOT="ROOT"
+6	9	tok id="t1" base="and" pos="CC" cc="t0"
+10	15	tok id="t2" base="white" pos="JJ" amod="t3"
+16	27	tok id="t3" base="butterfly" pos="NNS" conj="t0"
+28	40	tok id="t4" base="flip-flopped" pos="JJ" amod="t0"
+41	45	tok id="t5" base="over" pos="IN" prep="t4"
+46	47	tok id="t6" base="a" pos="DT" det="t7"
+48	53	tok id="t7" base="stand" pos="NN" pobj="t5"
+54	56	tok id="t8" base="of" pos="IN" prep="t7"
+57	65	tok id="t9" base="fireweed" pos="NN" pobj="t8"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t0"
+

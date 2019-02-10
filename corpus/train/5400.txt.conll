@@ -1,0 +1,14 @@
+1	Twenty	twenty	CD	_	2	num
+2	physicists	physicist	NNS	_	3	nsubj
+3	sent	send	VBD	_	0	ROOT
+4	letters	letter	NNS	_	3	dobj
+5	to	to	TO	_	3	prep
+6	the	the	DT	_	7	det
+7	government	government	NN	_	5	pobj
+8	as	as	IN	_	3	prep
+9	an	a	DT	_	10	det
+10	act	act	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	protest	protest	NN	_	11	pobj
+13	.	.	.	_	3	punct
+

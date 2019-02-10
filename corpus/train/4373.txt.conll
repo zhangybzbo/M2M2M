@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	town	town	NN	_	6	poss
+3	's	's	POS	_	2	possessive
+4	most	most	RBS	_	5	advmod
+5	popular	popular	JJ	_	6	amod
+6	sculpture	sculpture	NN	_	13	nsubj
+7	,	,	,	_	13	punct
+8	however	however	RB	_	13	advmod
+9	,	,	,	_	13	punct
+10	is	be	VBZ	_	13	cop
+11	the	the	DT	_	13	det
+12	high-heeled	high-heeled	JJ	_	13	amod
+13	clique	clique	NN	_	0	ROOT
+14	of	of	IN	_	13	prep
+15	Bost	Bost	NNP	_	16	nn
+16	ladies	lady	NNS	_	14	pobj
+17	created	create	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	Malmo	Malmo	NNP	_	22	nn
+20	artist	artist	NN	_	22	nn
+21	Fred	Fred	NNP	_	22	nn
+22	Aberg	Aberg	NNP	_	18	pobj
+23	.	.	.	_	13	punct
+

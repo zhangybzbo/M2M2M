@@ -1,0 +1,19 @@
+1	Trauma	trauma	NN	_	8	nsubj
+2	to	to	TO	_	1	prep
+3	the	the	DT	_	4	det
+4	face	face	NN	_	2	pobj
+5	and	and	CC	_	4	cc
+6	nasal	nasal	JJ	_	7	amod
+7	area	area	NN	_	4	conj
+8	causes	cause	VBZ	_	0	ROOT
+9	nosebleeds	nosebleed	NNS	_	17	nsubj
+10	,	,	,	_	9	punct
+11	such	such	JJ	_	12	mwe
+12	as	as	IN	_	17	dep
+13	getting	get	VBG	_	17	dep
+14	punched	punch	VBD	_	17	nsubj
+15	or	or	CC	_	14	cc
+16	violently	violently	RB	_	14	conj
+17	slapped	slap	VBD	_	8	ccomp
+18	.	.	.	_	8	punct
+

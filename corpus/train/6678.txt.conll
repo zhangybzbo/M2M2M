@@ -1,0 +1,24 @@
+1	Angela	Angela	NNP	_	2	nsubj
+2	works	work	VBZ	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	authors	author	NNS	_	3	pobj
+5	who	who	WP	_	7	nsubj
+6	've	have	VBP	_	7	aux
+7	completed	complete	VBN	_	4	rcmod
+8	a	a	DT	_	10	det
+9	nonfiction	nonfiction	NN	_	10	nn
+10	book	book	NN	_	7	dobj
+11	,	,	,	_	2	punct
+12	and	and	CC	_	2	cc
+13	also	also	RB	_	14	advmod
+14	with	with	IN	_	2	conj
+15	authors	author	NNS	_	14	pobj
+16	who	who	WP	_	17	nsubj
+17	are	be	VBP	_	15	rcmod
+18	just	just	RB	_	19	advmod
+19	in	in	IN	_	17	prep
+20	the	the	DT	_	22	det
+21	planning	planning	NN	_	22	nn
+22	stages	stage	NNS	_	19	pobj
+23	.	.	.	_	2	punct
+

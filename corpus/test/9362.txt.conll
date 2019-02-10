@@ -1,0 +1,24 @@
+1	We	we	PRP	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	careful	careful	JJ	_	0	ROOT
+4	when	when	WRB	_	5	advmod
+5	mowing	mow	VBG	_	3	advcl
+6	a	a	DT	_	7	det
+7	meadow	meadow	NN	_	5	dobj
+8	,	,	,	_	5	punct
+9	as	as	IN	_	5	prep
+10	a	a	DT	_	11	det
+11	nide	nide	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	pheasants	pheasant	NNS	_	12	pobj
+14	is	be	VBZ	_	5	dep
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	tall	tall	JJ	_	18	amod
+18	grasses	grass	NNS	_	15	pobj
+19	,	,	,	_	14	punct
+20	brooding	brood	VBG	_	14	dep
+21	their	they	PRP$	_	22	poss
+22	young	young	JJ	_	20	dobj
+23	.	.	.	_	3	punct
+

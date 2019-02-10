@@ -1,0 +1,15 @@
+1	Additionally	additionally	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	all	all	DT	_	4	det
+4	hydrants	hydrant	NNS	_	8	nsubj
+5	and	and	CC	_	4	cc
+6	valves	valve	NNS	_	4	conj
+7	are	be	VBP	_	8	cop
+8	pressure	pressure	NN	_	0	ROOT
+9	tested	test	VBN	_	8	vmod
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	manufacturing	manufacturing	NN	_	13	nn
+13	facility	facility	NN	_	10	pobj
+14	.	.	.	_	8	punct
+

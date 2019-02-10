@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	noise	noise	NN	_	3	nn
+3	signal	signal	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	generated	generate	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	noise	noise	NN	_	9	nn
+9	diode	diode	NN	_	6	pobj
+10	-LRB-	-lrb-	-LRB-	_	12	punct
+11	ENR	enr	NN	_	12	nsubj
+12	=	=	JJ	_	9	dep
+13	27	27	CD	_	14	num
+14	dB	db	NN	_	12	dobj
+15	-RRB-	-rrb-	-RRB-	_	12	punct
+16	and	and	CC	_	5	cc
+17	gated	gate	VBN	_	5	conj
+18	with	with	IN	_	17	prep
+19	a	a	DT	_	22	det
+20	high-speed	high-speed	JJ	_	22	amod
+21	electronic	electronic	JJ	_	22	amod
+22	switch	switch	NN	_	18	pobj
+23	.	.	.	_	5	punct
+

@@ -1,0 +1,14 @@
+1	Children	child	NNS	_	2	nsubj
+2	stand	stand	VBP	_	0	ROOT
+3	near	near	IN	_	2	prep
+4	houses	house	NNS	_	3	pobj
+5	in	in	IN	_	2	prep
+6	Padang	Padang	NNP	_	5	pobj
+7	that	that	WDT	_	8	nsubj
+8	caught	catch	VBD	_	6	rcmod
+9	fire	fire	NN	_	8	dobj
+10	after	after	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	earthquake	earthquake	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

@@ -1,0 +1,23 @@
+1	In	in	IN	_	17	prep
+2	particular	particular	JJ	_	1	pobj
+3	,	,	,	_	17	punct
+4	the	the	DT	_	7	det
+5	`	`	``	_	7	punct
+6	historical	historical	JJ	_	7	amod
+7	inevitability	inevitability	NN	_	17	nsubjpass
+8	'	'	''	_	7	punct
+9	of	of	IN	_	7	prep
+10	a	a	DT	_	12	det
+11	united	unite	VBN	_	12	amod
+12	proletariat	proletariat	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	various	various	JJ	_	15	amod
+15	nationalities	nationality	NNS	_	13	pobj
+16	was	be	VBD	_	17	auxpass
+17	understood	understand	VBN	_	0	ROOT
+18	as	as	IN	_	17	prep
+19	a	a	DT	_	21	det
+20	state	state	NN	_	21	nn
+21	interest	interest	NN	_	18	pobj
+22	.	.	.	_	17	punct
+

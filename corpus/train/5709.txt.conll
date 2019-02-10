@@ -1,0 +1,12 @@
+1	We	we	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	query	query	NN	_	2	dobj
+5	to	to	TO	_	2	prep
+6	two	two	CD	_	7	num
+7	servers	server	NNS	_	5	pobj
+8	at	at	IN	_	2	prep
+9	a	a	DT	_	10	det
+10	time	time	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

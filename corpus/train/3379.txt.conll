@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	war	war	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	words	word	NNS	_	3	pobj
+5	erupts	erupt	VBZ	_	0	ROOT
+6	between	between	IN	_	5	prep
+7	Sinn	Sinn	NNP	_	8	nn
+8	Fein	Fein	NNP	_	6	pobj
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	DUP	dup	NN	_	8	conj
+12	over	over	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	devolution	devolution	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	policing	police	VBG	_	15	pcomp
+17	and	and	CC	_	16	cc
+18	justice	justice	NN	_	16	conj
+19	powers	power	NNS	_	16	dobj
+20	to	to	TO	_	19	prep
+21	Northern	northern	JJ	_	22	amod
+22	Ireland	Ireland	NNP	_	20	pobj
+23	.	.	.	_	5	punct
+

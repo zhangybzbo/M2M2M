@@ -1,0 +1,19 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	the	the	DT	_	5	det
+4	right	right	JJ	_	5	amod
+5	time	time	NN	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	apply	apply	VB	_	5	vmod
+8	as	as	RB	_	13	advmod
+9	many	many	JJ	_	11	amod
+10	new	new	JJ	_	11	amod
+11	projects	project	NNS	_	13	nsubj
+12	are	be	VBP	_	13	aux
+13	landing	land	VBG	_	7	xcomp
+14	into	into	IN	_	13	prep
+15	markets	market	NNS	_	14	pobj
+16	in	in	IN	_	13	prep
+17	India	India	NNP	_	16	pobj
+18	.	.	.	_	5	punct
+

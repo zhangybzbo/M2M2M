@@ -1,0 +1,13 @@
+0	84	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Roadside" pos="NNP" nn="t1"
+9	20	tok id="t1" base="attraction" pos="NNS" nsubjpass="t4"
+21	24	tok id="t2" base="be" pos="VBP" auxpass="t4"
+25	35	tok id="t3" base="frequently" pos="RB" advmod="t4"
+36	46	tok id="t4" base="advertise" pos="VBN" ROOT="ROOT"
+47	51	tok id="t5" base="with" pos="IN" prep="t4"
+52	62	tok id="t6" base="billboard" pos="NNS" pobj="t5"
+63	65	tok id="t7" base="to" pos="TO" aux="t8"
+66	73	tok id="t8" base="attract" pos="VB" vmod="t6"
+74	82	tok id="t9" base="tourist" pos="NNS" dobj="t8"
+83	84	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

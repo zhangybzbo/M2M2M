@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	riot	riot	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	instigated	instigate	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	clergy	clergy	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	Church	Church	NNP	_	8	pobj
+11	of	of	IN	_	10	prep
+12	England	England	NNP	_	11	pobj
+13	with	with	IN	_	4	prep
+14	the	the	DT	_	16	det
+15	active	active	JJ	_	16	amod
+16	support	support	NN	_	13	pobj
+17	and	and	CC	_	16	cc
+18	collaboration	collaboration	NN	_	16	conj
+19	of	of	IN	_	16	prep
+20	the	the	DT	_	21	det
+21	magistrates	magistrate	NNS	_	19	pobj
+22	.	.	.	_	4	punct
+

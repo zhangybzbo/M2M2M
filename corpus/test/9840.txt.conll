@@ -1,0 +1,14 @@
+1	Feminist	Feminist	NNP	_	3	nn
+2	science	science	NN	_	3	nn
+3	fiction	fiction	NN	_	4	nsubj
+4	tends	tend	VBZ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	deal	deal	VB	_	4	xcomp
+7	with	with	IN	_	6	prep
+8	women	woman	NNS	_	10	poss
+9	's	's	POS	_	8	possessive
+10	roles	role	NNS	_	7	pobj
+11	in	in	IN	_	10	prep
+12	society	society	NN	_	11	pobj
+13	.	.	.	_	4	punct
+

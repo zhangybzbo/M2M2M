@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	primary	primary	JJ	_	3	amod
+3	aim	aim	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	present	present	JJ	_	7	amod
+7	invention	invention	NN	_	4	pobj
+8	is	be	VBZ	_	0	ROOT
+9	to	to	TO	_	10	aux
+10	provide	provide	VB	_	8	xcomp
+11	a	a	DT	_	13	det
+12	capless	capless	JJ	_	13	amod
+13	closure	closure	NN	_	10	dobj
+14	for	for	IN	_	13	prep
+15	a	a	DT	_	19	det
+16	conventional	conventional	JJ	_	19	amod
+17	fuel	fuel	NN	_	19	nn
+18	filler	filler	NN	_	19	nn
+19	pipe	pipe	NN	_	14	pobj
+20	.	.	.	_	8	punct
+

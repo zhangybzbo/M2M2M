@@ -1,0 +1,3 @@
+T1	Term 16 24	software
+T2	Term 25 32	company
+R1	Product-Producer Arg1:T1 Arg2:T2

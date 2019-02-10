@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	estranged	estrange	VBN	_	3	amod
+3	couple	couple	NN	_	4	nsubj
+4	transferred	transfer	VBN	_	0	ROOT
+5	funds	fund	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	these	these	DT	_	8	det
+8	accounts	account	NNS	_	6	pobj
+9	from	from	IN	_	4	prep
+10	their	they	PRP$	_	13	poss
+11	own	own	JJ	_	13	amod
+12	personal	personal	JJ	_	13	amod
+13	accounts	account	NNS	_	9	pobj
+14	.	.	.	_	4	punct
+

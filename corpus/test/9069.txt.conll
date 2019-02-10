@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj
+2	look	look	VBP	_	0	ROOT
+3	around	around	IN	_	2	advmod
+4	to	to	TO	_	5	aux
+5	discover	discover	VB	_	2	xcomp
+6	he	he	PRP	_	10	nsubj
+7	's	be	VBZ	_	10	cop
+8	about	about	IN	_	9	quantmod
+9	two	two	CD	_	10	num
+10	metres	metre	NNS	_	5	ccomp
+11	away	away	RB	_	10	advmod
+12	,	,	,	_	10	punct
+13	obscured	obscure	VBN	_	10	vmod
+14	from	from	IN	_	13	prep
+15	view	view	NN	_	14	pobj
+16	by	by	IN	_	13	prep
+17	a	a	DT	_	18	det
+18	clutch	clutch	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	Force	Force	NNP	_	22	nn
+21	India	India	NNP	_	22	nn
+22	mechanics	mechanic	NNS	_	19	pobj
+23	.	.	.	_	2	punct
+

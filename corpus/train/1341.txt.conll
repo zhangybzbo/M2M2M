@@ -1,0 +1,22 @@
+1	On	on	IN	_	7	prep
+2	8	8	CD	_	3	num
+3	February	February	NNP	_	1	pobj
+4	1992	1992	CD	_	3	num
+5	,	,	,	_	7	punct
+6	Ulysses	Ulysses	NNP	_	7	nsubj
+7	reached	reach	VBD	_	0	ROOT
+8	Jupiter	Jupiter	NNP	_	7	dobj
+9	for	for	IN	_	7	prep
+10	the	the	DT	_	12	det
+11	gravity-assist	gravity-assist	JJ	_	12	amod
+12	manoeuvre	manoeuvre	NN	_	9	pobj
+13	that	that	WDT	_	14	nsubj
+14	placed	place	VBD	_	12	rcmod
+15	the	the	DT	_	16	det
+16	spacecraft	spacecraft	NN	_	14	dobj
+17	in	in	IN	_	14	prep
+18	a	a	DT	_	20	det
+19	polar	polar	JJ	_	20	amod
+20	orbit	orbit	NN	_	17	pobj
+21	.	.	.	_	7	punct
+

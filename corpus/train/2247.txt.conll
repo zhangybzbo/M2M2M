@@ -1,0 +1,22 @@
+1	After	after	IN	_	11	prep
+2	an	a	DT	_	3	det
+3	hour	hour	NN	_	1	pobj
+4	after	after	IN	_	3	prep
+5	lunch	lunch	NN	_	6	nn
+6	break	break	NN	_	4	pobj
+7	,	,	,	_	11	punct
+8	Kenny	Kenny	NNP	_	11	nsubj
+9	and	and	CC	_	8	cc
+10	Randy	Randy	NNP	_	8	conj
+11	spotted	spot	VBD	_	0	ROOT
+12	a	a	DT	_	13	det
+13	herd	herd	NN	_	11	dobj
+14	of	of	IN	_	13	prep
+15	boars	boar	NNS	_	14	pobj
+16	in	in	IN	_	11	prep
+17	a	a	DT	_	20	det
+18	common	common	JJ	_	20	amod
+19	feeding	feeding	NN	_	20	nn
+20	area	area	NN	_	16	pobj
+21	.	.	.	_	11	punct
+

@@ -1,0 +1,1 @@
+Rythmbox moves the song into the MP player .

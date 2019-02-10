@@ -1,0 +1,19 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	curb	curb	NN	_	2	nsubj
+5	between	between	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	sidewalk	sidewalk	NN	_	5	pobj
+8	and	and	CC	_	7	cc
+9	the	the	DT	_	11	det
+10	shared	shared	JJ	_	11	amod
+11	bus	bus	NN	_	7	conj
+12	and	and	CC	_	11	cc
+13	bike	bike	NN	_	14	nn
+14	lane	lane	NN	_	11	conj
+15	on	on	IN	_	11	prep
+16	the	the	DT	_	17	det
+17	road	road	NN	_	15	pobj
+18	.	.	.	_	2	punct
+

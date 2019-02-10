@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	book	book	NN	_	4	nsubj
+3	largely	largely	RB	_	4	advmod
+4	seeks	seek	VBZ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	refute	refute	VB	_	4	xcomp
+7	the	the	DT	_	8	det
+8	claims	claim	NNS	_	6	dobj
+9	made	make	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	his	he	PRP$	_	14	poss
+12	contemporary	contemporary	JJ	_	14	amod
+13	John	John	NNP	_	14	nn
+14	Locke	Locke	NNP	_	10	pobj
+15	about	about	IN	_	9	prep
+16	the	the	DT	_	17	det
+17	nature	nature	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	human	human	JJ	_	20	amod
+20	perception	perception	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

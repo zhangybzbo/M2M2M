@@ -1,0 +1,20 @@
+1	This	this	DT	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	very	very	RB	_	5	advmod
+5	useful	useful	JJ	_	6	amod
+6	volume	volume	NN	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	anyone	anyone	NN	_	7	pobj
+9	interested	interested	JJ	_	8	amod
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	10	pobj
+12	religious	religious	JJ	_	11	amod
+13	in	in	IN	_	12	prep
+14	nineteenth	nineteenth	JJ	_	18	amod
+15	and	and	CC	_	14	cc
+16	twentieth-century	twentieth-century	JJ	_	14	conj
+17	American	american	JJ	_	18	amod
+18	literature	literature	NN	_	13	pobj
+19	.	.	.	_	6	punct
+

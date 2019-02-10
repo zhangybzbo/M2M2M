@@ -1,0 +1,16 @@
+1	Conversation	conversation	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	centered	center	VBN	_	0	ROOT
+4	more	more	RBR	_	5	advmod
+5	around	around	IN	_	3	prep
+6	investment	investment	NN	_	5	pobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	consumer	consumer	NN	_	10	nn
+10	area	area	NN	_	7	pobj
+11	rather	rather	RB	_	12	advmod
+12	than	than	IN	_	6	prep
+13	FB	fb	NN	_	14	npadvmod
+14	specific	specific	JJ	_	12	pobj
+15	.	.	.	_	3	punct
+

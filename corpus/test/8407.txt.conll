@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	McCain	McCain	NNP	_	3	nn
+3	team	team	NN	_	6	nsubj
+4	has	have	VBZ	_	6	aux
+5	hastily	hastily	RB	_	6	advmod
+6	assembled	assemble	VBN	_	0	ROOT
+7	a	a	DT	_	8	det
+8	team	team	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	former	former	JJ	_	14	amod
+11	Bush	Bush	NNP	_	14	nn
+12	White	White	NNP	_	14	nn
+13	House	House	NNP	_	14	nn
+14	aides	aide	NNS	_	9	pobj
+15	to	to	TO	_	16	aux
+16	tutor	tutor	NN	_	8	vmod
+17	the	the	DT	_	19	det
+18	vice-presidential	vice-presidential	JJ	_	19	amod
+19	candidate	candidate	NN	_	16	dobj
+20	.	.	.	_	6	punct
+

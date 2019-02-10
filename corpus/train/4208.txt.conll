@@ -1,0 +1,11 @@
+1	Overall	overall	RB	_	4	advmod
+2	the	the	DT	_	3	det
+3	guide	guide	NN	_	4	nsubj
+4	speaks	speak	VBZ	_	0	ROOT
+5	about	about	IN	_	4	prep
+6	creative	creative	JJ	_	9	amod
+7	and	and	CC	_	6	cc
+8	dynamic	dynamic	JJ	_	6	conj
+9	interactions	interaction	NNS	_	5	pobj
+10	.	.	.	_	4	punct
+

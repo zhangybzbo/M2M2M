@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	electrician	electrician	NN	_	3	nsubj
+3	carries	carry	VBZ	_	0	ROOT
+4	out	out	RP	_	3	prt
+5	audibility	audibility	NN	_	6	nn
+6	checks	check	NNS	_	3	dobj
+7	throughout	throughout	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	building	building	NN	_	7	pobj
+10	during	during	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	drill	drill	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

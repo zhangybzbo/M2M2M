@@ -1,0 +1,9 @@
+1	CN	cn	NN	_	4	nn
+2	Railway	railway	NN	_	4	nn
+3	labour	labour	NN	_	4	nn
+4	dispute	dispute	NN	_	5	nsubj
+5	goes	go	VBZ	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	arbitration	arbitration	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

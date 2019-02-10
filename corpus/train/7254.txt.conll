@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	hairdresser	hairdresser	NN	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	scissors	scissors	NNS	_	3	dobj
+6	and	and	CC	_	3	cc
+7	held	hold	VBD	_	3	conj
+8	up	up	RP	_	7	prt
+9	a	a	DT	_	10	det
+10	coil	coil	NN	_	7	dobj
+11	of	of	IN	_	10	prep
+12	hair	hair	NN	_	11	pobj
+13	.	.	.	_	3	punct
+

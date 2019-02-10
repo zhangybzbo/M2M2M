@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	constructed	construct	VBN	_	0	ROOT
+5	a	a	DT	_	7	det
+6	demonstration	demonstration	NN	_	7	nn
+7	house	house	NN	_	4	dobj
+8	at	at	IN	_	4	prep
+9	the	the	DT	_	12	det
+10	BRE	BRE	NNP	_	12	nn
+11	Innovation	Innovation	NNP	_	12	nn
+12	Park	Park	NNP	_	8	pobj
+13	,	,	,	_	4	punct
+14	at	at	IN	_	4	prep
+15	Watford	Watford	NNP	_	14	pobj
+16	,	,	,	_	4	punct
+17	using	use	VBG	_	4	vmod
+18	the	the	DT	_	20	det
+19	same	same	JJ	_	20	amod
+20	combination	combination	NN	_	17	dobj
+21	of	of	IN	_	20	prep
+22	timber	timber	NN	_	21	pobj
+23	and	and	CC	_	22	cc
+24	Hemcrete	hemcrete	NN	_	22	conj
+25	.	.	.	_	4	punct
+

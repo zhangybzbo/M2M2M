@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	planted	plant	VBN	_	3	amod
+3	bomb	bomb	NN	_	4	nsubj
+4	put	put	VBD	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	sedan	sedan	NN	_	8	nn
+8	car	car	NN	_	5	pobj
+9	exploded	explode	VBD	_	4	dobj
+10	in	in	IN	_	9	prep
+11	front	front	NN	_	10	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	16	det
+14	fine	fine	JJ	_	16	amod
+15	arts	art	NNS	_	16	nn
+16	institution	institution	NN	_	12	pobj
+17	at	at	IN	_	9	prep
+18	Mansour	Mansour	NNP	_	19	nn
+19	neighborhood	neighborhood	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

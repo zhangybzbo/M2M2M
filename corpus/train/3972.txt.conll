@@ -1,0 +1,9 @@
+1	Poor	Poor	NNP	_	3	nsubj
+2	umpiring	umpire	VBG	_	1	vmod
+3	pushed	push	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	test	test	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	controversy	controversy	NN	_	6	pobj
+8	.	.	.	_	3	punct
+

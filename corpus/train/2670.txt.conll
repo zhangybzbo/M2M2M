@@ -1,0 +1,11 @@
+1	Text	text	VB	_	0	ROOT
+2	messages	message	NNS	_	3	nsubj
+3	outline	outline	VB	_	1	ccomp
+4	her	she	PRP$	_	6	poss
+5	blossoming	blossoming	JJ	_	6	amod
+6	romance	romance	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	teenager	teenager	NN	_	7	pobj
+10	.	.	.	_	1	punct
+

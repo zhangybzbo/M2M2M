@@ -1,0 +1,23 @@
+1	In	in	IN	_	15	prep
+2	particular	particular	JJ	_	1	pobj
+3	,	,	,	_	15	punct
+4	a	a	DT	_	5	det
+5	ratpack	ratpack	NN	_	15	nsubj
+6	of	of	IN	_	5	prep
+7	colonels	colonel	NNS	_	6	pobj
+8	in	in	IN	_	5	prep
+9	arrested	arrest	VBN	_	10	amod
+10	development	development	NN	_	8	pobj
+11	are	be	VBP	_	15	cop
+12	the	the	DT	_	15	det
+13	worst	worst	JJS	_	15	amod
+14	possible	possible	JJ	_	15	amod
+15	people	people	NNS	_	0	ROOT
+16	to	to	TO	_	17	aux
+17	handle	handle	VB	_	15	vmod
+18	relations	relation	NNS	_	17	dobj
+19	with	with	IN	_	18	prep
+20	Latin	latin	JJ	_	21	amod
+21	countries	country	NNS	_	19	pobj
+22	.	.	.	_	15	punct
+

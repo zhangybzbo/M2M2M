@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	Liberian	liberian	JJ	_	3	amod
+3	national	national	JJ	_	4	nsubj
+4	offered	offer	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	suitcase	suitcase	NN	_	4	dobj
+7	full	full	JJ	_	6	amod
+8	of	of	IN	_	7	prep
+9	purported	purported	JJ	_	10	amod
+10	bills	bill	NNS	_	8	pobj
+11	.	.	.	_	4	punct
+

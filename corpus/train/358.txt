@@ -1,0 +1,1 @@
+After completing the resetting through the reset signal , the bit period transmitted by the master module 30 is received .

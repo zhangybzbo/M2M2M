@@ -1,0 +1,12 @@
+0	49	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t2"
+2	6	tok id="t1" base="have" pos="VBP" aux="t2"
+7	14	tok id="t2" base="remove" pos="VBN" ROOT="ROOT"
+15	18	tok id="t3" base="the" pos="DT" det="t4"
+19	26	tok id="t4" base="bubble" pos="NNS" dobj="t2"
+27	31	tok id="t5" base="into" pos="IN" prep="t2"
+32	35	tok id="t6" base="the" pos="DT" det="t8"
+36	41	tok id="t7" base="glass" pos="NN" nn="t8"
+42	47	tok id="t8" base="tube" pos="NNS" pobj="t5"
+48	49	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

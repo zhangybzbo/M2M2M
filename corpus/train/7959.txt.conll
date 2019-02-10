@@ -1,0 +1,23 @@
+1	A	a	DT	_	3	det
+2	bus	bus	NN	_	3	nn
+3	company	company	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	pledged	pledge	VBN	_	0	ROOT
+6	a	a	DT	_	9	det
+7	week-long	week-long	JJ	_	9	amod
+8	roadside	roadside	NN	_	9	nn
+9	survey	survey	NN	_	5	dobj
+10	after	after	IN	_	15	mark
+11	a	a	DT	_	12	det
+12	group	group	NN	_	15	nsubj
+13	of	of	IN	_	12	prep
+14	workers	worker	NNS	_	13	pobj
+15	complained	complain	VBD	_	5	advcl
+16	about	about	IN	_	15	prep
+17	its	its	PRP$	_	18	poss
+18	Bradford	Bradford	NNP	_	16	pobj
+19	to	to	TO	_	15	prep
+20	Morley	Morley	NNP	_	21	nn
+21	service	service	NN	_	19	pobj
+22	.	.	.	_	5	punct
+

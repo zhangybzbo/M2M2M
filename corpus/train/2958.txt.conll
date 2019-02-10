@@ -1,0 +1,21 @@
+1	His	he	PRP$	_	2	poss
+2	painting	painting	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	1607	1607	CD	_	3	pobj
+5	also	also	RB	_	6	advmod
+6	shows	show	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	farmer	farmer	NN	_	6	dobj
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	shovel	shovel	NN	_	9	pobj
+12	,	,	,	_	8	punct
+13	accompanied	accompany	VBN	_	8	vmod
+14	by	by	IN	_	13	prep
+15	a	a	DT	_	16	det
+16	woman	woman	NN	_	14	pobj
+17	holding	hold	VBG	_	16	vmod
+18	a	a	DT	_	19	det
+19	cross	cross	NN	_	17	dobj
+20	.	.	.	_	6	punct
+

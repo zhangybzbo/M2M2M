@@ -1,0 +1,13 @@
+1	In	in	IN	_	7	prep
+2	that	that	DT	_	3	det
+3	case	case	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	doctor	doctor	NN	_	7	nsubj
+7	stops	stop	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	bleeding	bleeding	NN	_	7	dobj
+10	with	with	IN	_	9	prep
+11	hormones	hormone	NNS	_	10	pobj
+12	.	.	.	_	7	punct
+

@@ -1,0 +1,21 @@
+1	Positions	position	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	denoted	denote	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	black	black	JJ	_	6	amod
+6	dots	dot	NNS	_	4	pobj
+7	along	along	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	tracks	track	NNS	_	7	pobj
+10	,	,	,	_	3	punct
+11	the	the	DT	_	13	det
+12	adjacent	adjacent	JJ	_	13	amod
+13	numbers	number	NNS	_	3	dobj
+14	indicating	indicate	VBG	_	13	vmod
+15	the	the	DT	_	16	det
+16	day	day	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	month	month	NN	_	17	pobj
+20	.	.	.	_	3	punct
+

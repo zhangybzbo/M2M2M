@@ -1,0 +1,15 @@
+1	Newsted	Newsted	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	statement	statement	NN	_	4	nsubj
+4	revealed	reveal	VBD	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	departure	departure	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	based	base	VBN	_	4	ccomp
+9	on	on	IN	_	8	prep
+10	private	private	JJ	_	13	amod
+11	and	and	CC	_	10	cc
+12	personal	personal	JJ	_	10	conj
+13	reasons	reason	NNS	_	9	pobj
+14	.	.	.	_	4	punct
+

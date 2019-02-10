@@ -1,0 +1,10 @@
+1	Multi-keypad	multi-keypad	JJ	_	2	amod
+2	devices	device	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	added	add	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	upcoming	upcome	VBG	_	5	pcomp
+7	AT&T	AT&T	NNP	_	8	nn
+8	phones	phone	NNS	_	6	dobj
+9	.	.	.	_	4	punct
+

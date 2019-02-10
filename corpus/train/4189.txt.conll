@@ -1,0 +1,12 @@
+1	Such	such	JJ	_	3	amod
+2	cosmic	cosmic	JJ	_	3	amod
+3	impacts	impact	NNS	_	6	nsubj
+4	also	also	RB	_	6	advmod
+5	have	have	VBP	_	6	aux
+6	spread	spread	VBN	_	0	ROOT
+7	life	life	NN	_	6	dobj
+8	to	to	TO	_	6	prep
+9	alien	alien	JJ	_	10	amod
+10	worlds	world	NNS	_	8	pobj
+11	.	.	.	_	6	punct
+

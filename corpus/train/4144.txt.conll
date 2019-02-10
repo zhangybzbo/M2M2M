@@ -1,0 +1,15 @@
+1	Heavy-gauge	heavy-gauge	JJ	_	2	amod
+2	flatware	flatware	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	composed	compose	VBN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	polished	polished	JJ	_	8	amod
+7	stainless	stainless	JJ	_	8	amod
+8	steel	steel	NN	_	5	pobj
+9	for	for	IN	_	4	prep
+10	good	good	JJ	_	11	amod
+11	heft	heft	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	balance	balance	NN	_	11	conj
+14	.	.	.	_	4	punct
+

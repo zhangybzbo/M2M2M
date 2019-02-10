@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	theme	theme	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	speech	speech	NN	_	3	pobj
+6	was	be	VBD	_	2	dep
+7	about	about	IN	_	6	prep
+8	dreams	dream	NNS	_	7	pobj
+9	coming	come	VBG	_	8	vmod
+10	true	true	JJ	_	9	acomp
+11	.	.	.	_	2	punct
+

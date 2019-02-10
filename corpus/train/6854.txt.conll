@@ -1,0 +1,26 @@
+1	Marcus	Marcus	NNP	_	2	nsubj
+2	stabs	stab	VBZ	_	0	ROOT
+3	one	one	CD	_	2	dobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	attackers	attacker	NNS	_	4	pobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	screwdriver	screwdriver	NN	_	7	pobj
+10	and	and	CC	_	2	cc
+11	we	we	PRP	_	12	nsubj
+12	see	see	VBP	_	2	conj
+13	the	the	DT	_	14	det
+14	impact	impact	NN	_	12	dobj
+15	,	,	,	_	14	punct
+16	as	as	RB	_	17	advmod
+17	well	well	RB	_	14	cc
+18	as	as	IN	_	17	mwe
+19	the	the	DT	_	20	det
+20	victim	victim	NN	_	14	conj
+21	painfully	painfully	RB	_	22	advmod
+22	removing	remove	VBG	_	20	vmod
+23	the	the	DT	_	24	det
+24	screwdriver	screwdriver	NN	_	22	dobj
+25	.	.	.	_	2	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	film	film	NN	_	3	nsubj
+3	portrays	portray	VBZ	_	0	ROOT
+4	four	four	CD	_	5	num
+5	girls	girl	NNS	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	trend-setting	trend-setting	JJ	_	9	amod
+9	clique	clique	NN	_	6	pobj
+10	at	at	IN	_	9	prep
+11	a	a	DT	_	15	det
+12	fictional	fictional	JJ	_	15	amod
+13	Ohio	Ohio	NNP	_	15	nn
+14	high	high	JJ	_	15	amod
+15	school	school	NN	_	10	pobj
+16	.	.	.	_	3	punct
+

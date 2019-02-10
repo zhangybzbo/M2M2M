@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	introduction	introduction	NN	_	15	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	gas	gas	NN	_	6	nn
+6	stove	stove	NN	_	3	pobj
+7	,	,	,	_	2	punct
+8	the	the	DT	_	10	det
+9	electric	electric	JJ	_	10	amod
+10	mixer	mixer	NN	_	2	appos
+11	and	and	CC	_	10	cc
+12	the	the	DT	_	14	det
+13	food	food	NN	_	14	nn
+14	processor	processor	NN	_	10	conj
+15	made	make	VBD	_	0	ROOT
+16	the	the	DT	_	17	det
+17	process	process	NN	_	18	nsubj
+18	easier	easier	JJR	_	15	xcomp
+19	,	,	,	_	18	punct
+20	faster	faster	RBR	_	18	advmod
+21	and	and	CC	_	18	cc
+22	more	more	RBR	_	23	advmod
+23	reliable	reliable	JJ	_	18	conj
+24	.	.	.	_	15	punct
+

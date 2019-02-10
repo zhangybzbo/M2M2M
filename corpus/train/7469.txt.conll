@@ -1,0 +1,25 @@
+1	On	on	IN	_	16	prep
+2	the	the	DT	_	4	det
+3	other	other	JJ	_	4	amod
+4	hand	hand	NN	_	1	pobj
+5	,	,	,	_	16	punct
+6	the	the	DT	_	7	det
+7	information	information	NN	_	16	nsubj
+8	being	be	VBG	_	9	auxpass
+9	carried	carry	VBN	_	7	vmod
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	15	det
+12	high	high	JJ	_	15	amod
+13	frequency	frequency	NN	_	15	nn
+14	quasi-sinusoidal	quasi-sinusoidal	JJ	_	15	amod
+15	wave	wave	NN	_	10	pobj
+16	invites	invite	VBZ	_	0	ROOT
+17	comparisons	comparison	NNS	_	16	dobj
+18	with	with	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	auditory	auditory	JJ	_	21	amod
+21	system	system	NN	_	18	pobj
+22	of	of	IN	_	21	prep
+23	vertebrates	vertebrate	NNS	_	22	pobj
+24	.	.	.	_	16	punct
+

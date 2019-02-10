@@ -1,0 +1,17 @@
+1	Recently	recently	RB	_	3	advmod
+2	a	a	DT	_	3	det
+3	statue	statue	NN	_	11	nsubjpass
+4	of	of	IN	_	3	prep
+5	Welles	Welles	NNP	_	4	pobj
+6	by	by	IN	_	3	prep
+7	his	he	PRP$	_	9	poss
+8	faithful	faithful	NN	_	9	nn
+9	friend	friend	NN	_	6	pobj
+10	was	be	VBD	_	11	auxpass
+11	unveiled	unveil	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	Split	Split	NNP	_	12	pobj
+14	,	,	,	_	13	punct
+15	Croatia	Croatia	NNP	_	13	appos
+16	.	.	.	_	11	punct
+

@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	store	store	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	information	information	NN	_	2	dobj
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	database	database	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	secure	secure	JJ	_	11	amod
+11	environment	environment	NN	_	8	pobj
+12	at	at	IN	_	11	prep
+13	our	we	PRP$	_	15	poss
+14	data	datum	NNS	_	15	nn
+15	center	center	NN	_	12	pobj
+16	.	.	.	_	2	punct
+

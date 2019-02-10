@@ -1,0 +1,23 @@
+1	Fungal	fungal	JJ	_	2	amod
+2	growth	growth	NN	_	7	nsubjpass
+3	and	and	CC	_	2	cc
+4	aflatoxin	aflatoxin	NN	_	5	nn
+5	contamination	contamination	NN	_	2	conj
+6	are	be	VBP	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	following	following	JJ	_	11	amod
+11	factors	factor	NNS	_	8	pobj
+12	:	:	:	_	7	punct
+13	warm	warm	JJ	_	14	amod
+14	temperature	temperature	NN	_	7	dep
+15	,	,	,	_	14	punct
+16	high	high	JJ	_	17	amod
+17	humidity	humidity	NN	_	14	conj
+18	and	and	CC	_	14	cc
+19	poor	poor	JJ	_	21	amod
+20	soil	soil	NN	_	21	nn
+21	condition	condition	NN	_	14	conj
+22	.	.	.	_	7	punct
+

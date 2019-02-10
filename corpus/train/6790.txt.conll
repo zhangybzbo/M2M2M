@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	injured	injured	JJ	_	3	amod
+3	worker	worker	NN	_	4	nsubj
+4	fell	fall	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	elevated	elevated	JJ	_	9	amod
+8	work	work	NN	_	9	nn
+9	surface	surface	NN	_	5	pobj
+10	or	or	CC	_	4	cc
+11	was	be	VBD	_	12	auxpass
+12	struck	strike	VBN	_	4	conj
+13	by	by	IN	_	12	prep
+14	an	a	DT	_	15	det
+15	object	object	NN	_	13	pobj
+16	falling	fall	VBG	_	15	vmod
+17	from	from	IN	_	16	prep
+18	an	a	DT	_	21	det
+19	elevated	elevated	JJ	_	21	amod
+20	work	work	NN	_	21	nn
+21	surface	surface	NN	_	17	pobj
+22	.	.	.	_	4	punct
+

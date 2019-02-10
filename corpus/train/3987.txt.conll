@@ -1,0 +1,26 @@
+1	Anyway	anyway	RB	_	24	advmod
+2	,	,	,	_	24	punct
+3	when	when	WRB	_	5	advmod
+4	he	he	PRP	_	5	nsubj
+5	read	read	VBD	_	24	advcl
+6	that	that	IN	_	9	mark
+7	Stacey	Stacey	NNP	_	9	nsubj
+8	had	have	VBD	_	9	aux
+9	spent	spend	VBN	_	5	ccomp
+10	the	the	DT	_	11	det
+11	night	night	NN	_	9	dobj
+12	beneath	beneath	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	stare	stare	VB	_	12	pobj
+15	of	of	IN	_	14	prep
+16	more	more	JJR	_	17	mwe
+17	than	than	IN	_	18	quantmod
+18	30	30	CD	_	19	num
+19	owls	owl	NNS	_	15	pobj
+20	,	,	,	_	24	punct
+21	his	he	PRP$	_	22	poss
+22	interest	interest	NN	_	24	nsubjpass
+23	was	be	VBD	_	24	auxpass
+24	piqued	pique	VBN	_	0	ROOT
+25	.	.	.	_	24	punct
+

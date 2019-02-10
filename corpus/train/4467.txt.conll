@@ -1,0 +1,14 @@
+1	For	for	IN	_	7	prep
+2	example	example	NN	_	1	pobj
+3	,	,	,	_	7	punct
+4	measles	measles	NNS	_	7	nsubj
+5	and	and	CC	_	4	cc
+6	chickenpox	chickenpox	NN	_	4	conj
+7	cause	cause	VBP	_	0	ROOT
+8	rashes	rash	NNS	_	7	dobj
+9	along	along	IN	_	7	prep
+10	with	with	IN	_	9	pcomp
+11	other	other	JJ	_	12	amod
+12	symptoms	symptom	NNS	_	10	pobj
+13	.	.	.	_	7	punct
+

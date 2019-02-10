@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	horse	horse	NN	_	3	nsubj
+3	stretches	stretch	VBZ	_	0	ROOT
+4	its	its	PRP$	_	5	poss
+5	nuzzle	nuzzle	NN	_	3	dobj
+6	towards	towards	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	boy	boy	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

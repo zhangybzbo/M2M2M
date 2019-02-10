@@ -1,0 +1,11 @@
+1	One	one	CD	_	3	number
+2	in	in	IN	_	3	quantmod
+3	four	four	CD	_	4	num
+4	Americans	Americans	NNPS	_	5	nsubj
+5	keeps	keep	VBZ	_	0	ROOT
+6	coins	coin	NNS	_	5	dobj
+7	in	in	IN	_	5	prep
+8	a	a	DT	_	9	det
+9	jar	jar	NN	_	7	pobj
+10	.	.	.	_	5	punct
+

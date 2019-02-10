@@ -1,0 +1,1 @@
+The weight of the groceries in a shopping basket and the number of items in a shopping basket are discrete quantities .

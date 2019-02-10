@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	soot	soot	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	blown	blow	VBN	_	0	ROOT
+6	down	down	RP	_	5	prt
+7	into	into	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	fireplace	fireplace	NN	_	7	pobj
+10	.	.	.	_	5	punct
+

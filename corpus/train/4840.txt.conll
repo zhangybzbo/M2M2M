@@ -1,0 +1,12 @@
+1	His	he	PRP$	_	2	poss
+2	adventures	adventure	NNS	_	3	nsubj
+3	form	form	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	subject	subject	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	my	my	PRP$	_	10	poss
+8	first	first	JJ	_	10	amod
+9	two	two	CD	_	10	num
+10	films	film	NNS	_	6	pobj
+11	.	.	.	_	3	punct
+

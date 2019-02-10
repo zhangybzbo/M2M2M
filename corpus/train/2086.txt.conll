@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	infant	infant	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	born	bear	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	condition	condition	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	shock	shock	NN	_	8	pobj
+10	and	and	CC	_	4	cc
+11	died	die	VBD	_	4	conj
+12	in	in	IN	_	11	prep
+13	ten	ten	CD	_	14	num
+14	minutes	minute	NNS	_	12	pobj
+15	.	.	.	_	4	punct
+

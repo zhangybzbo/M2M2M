@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	skin	skin	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	orange	orange	NN	_	3	pobj
+6	has	have	VBZ	_	0	ROOT
+7	multiple	multiple	JJ	_	8	amod
+8	benefits	benefit	NNS	_	6	dobj
+9	you	you	PRP	_	11	nsubj
+10	can	can	MD	_	11	aux
+11	take	take	VB	_	8	rcmod
+12	advantage	advantage	NN	_	11	dobj
+13	of	of	IN	_	11	prep
+14	:	:	:	_	6	punct
+15	Its	its	PRP$	_	17	poss
+16	external	external	JJ	_	17	amod
+17	skin	skin	NN	_	18	nsubj
+18	contains	contain	VBZ	_	6	parataxis
+19	Flavonoids	flavonoid	NNS	_	18	dobj
+20	,	,	,	_	19	punct
+21	a	a	DT	_	23	det
+22	valuable	valuable	JJ	_	23	amod
+23	component	component	NN	_	19	appos
+24	of	of	IN	_	23	prep
+25	Vitamin	vitamin	NN	_	26	nn
+26	C.	c.	NN	_	24	pobj
+

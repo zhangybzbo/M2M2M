@@ -1,0 +1,12 @@
+1	The	the	DT	_	5	det
+2	pure	pure	JJ	_	5	amod
+3	lotus	lotus	NN	_	5	nn
+4	flower	flower	NN	_	5	nn
+5	blooms	bloom	NNS	_	0	ROOT
+6	out	out	IN	_	5	prep
+7	of	of	IN	_	6	pcomp
+8	the	the	DT	_	10	det
+9	muddy	muddy	JJ	_	10	amod
+10	pond	pond	NN	_	7	pobj
+11	.	.	.	_	5	punct
+

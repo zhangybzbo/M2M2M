@@ -1,0 +1,23 @@
+1	He	he	PRP	_	4	nsubj
+2	has	have	VBZ	_	4	aux
+3	always	always	RB	_	4	advmod
+4	waited	wait	VBN	_	0	ROOT
+5	patiently	patiently	RB	_	4	advmod
+6	in	in	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	studio	studio	NN	_	6	pobj
+9	until	until	IN	_	4	prep
+10	his	he	PRP$	_	11	poss
+11	master	master	NN	_	14	poss
+12	's	's	POS	_	11	possessive
+13	voice	voice	NN	_	14	nn
+14	signals	signal	NNS	_	9	pobj
+15	that	that	IN	_	18	mark
+16	it	it	PRP	_	18	nsubj
+17	was	be	VBD	_	18	cop
+18	time	time	NN	_	14	ccomp
+19	to	to	TO	_	20	aux
+20	go	go	VB	_	18	vmod
+21	home	home	NN	_	20	dobj
+22	.	.	.	_	4	punct
+

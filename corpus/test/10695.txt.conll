@@ -1,0 +1,16 @@
+1	These	these	DT	_	3	det
+2	philosophical	philosophical	JJ	_	3	amod
+3	issues	issue	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	addressed	address	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	myth	myth	NN	_	7	pobj
+9	,	,	,	_	8	punct
+10	fiction	fiction	NN	_	8	conj
+11	and	and	CC	_	8	cc
+12	philosophy	philosophy	NN	_	8	conj
+13	since	since	IN	_	6	prep
+14	antiquity	antiquity	NN	_	13	pobj
+15	.	.	.	_	6	punct
+

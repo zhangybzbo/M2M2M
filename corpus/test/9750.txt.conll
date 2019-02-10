@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	photograph	photograph	NN	_	3	nsubj
+3	reminds	remind	VBZ	_	0	ROOT
+4	Frederic	Frederic	NNP	_	3	dobj
+5	about	about	IN	_	3	prep
+6	a	a	DT	_	9	det
+7	forgotten	forget	VBN	_	9	amod
+8	childhood	childhood	NN	_	9	nn
+9	memory	memory	NN	_	5	pobj
+10	about	about	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	mysterious	mysterious	JJ	_	13	amod
+13	woman	woman	NN	_	10	pobj
+14	in	in	IN	_	13	prep
+15	white	white	JJ	_	17	amod
+16	a	a	DT	_	17	det
+17	young	young	JJ	_	14	pobj
+18	.	.	.	_	3	punct
+

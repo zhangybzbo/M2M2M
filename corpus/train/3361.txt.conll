@@ -1,0 +1,13 @@
+1	And	and	CC	_	4	cc
+2	these	these	DT	_	3	det
+3	gases	gas	NNS	_	4	nsubj
+4	cause	cause	VBP	_	0	ROOT
+5	evaporation	evaporation	NN	_	4	dobj
+6	of	of	IN	_	5	prep
+7	water	water	NN	_	6	pobj
+8	from	from	IN	_	5	prep
+9	sea	sea	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	soil	soil	NN	_	9	conj
+12	.	.	.	_	4	punct
+

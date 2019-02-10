@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det
+2	women	woman	NNS	_	3	nsubj
+3	fear	fear	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	darkness	darkness	NN	_	4	pobj
+6	,	,	,	_	5	punct
+7	insects	insect	NNS	_	5	conj
+8	,	,	,	_	5	punct
+9	cockroaches	cockroach	NNS	_	5	conj
+10	,	,	,	_	5	punct
+11	mice	mouse	NNS	_	5	conj
+12	,	,	,	_	5	punct
+13	lizards	lizard	NNS	_	5	conj
+14	,	,	,	_	5	punct
+15	spiders	spider	NNS	_	5	conj
+16	and	and	CC	_	5	cc
+17	more	more	JJR	_	5	conj
+18	and	and	CC	_	5	cc
+19	more	more	RBR	_	5	conj
+20	.	.	.	_	3	punct
+

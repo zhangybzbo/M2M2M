@@ -1,0 +1,3 @@
+T1	Term 53 58	creep
+T2	Term 68 77	tortoises
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,10 @@
+0	35	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	11	tok id="t1" base="cigarette" pos="NN" nsubj="t2"
+12	15	tok id="t2" base="set" pos="VBN" ROOT="ROOT"
+16	19	tok id="t3" base="off" pos="RP" prt="t2"
+20	21	tok id="t4" base="a" pos="DT" det="t6"
+22	27	tok id="t5" base="smoke" pos="NN" nn="t6"
+28	33	tok id="t6" base="alarm" pos="NN" dobj="t2"
+34	35	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

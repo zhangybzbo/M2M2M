@@ -1,0 +1,11 @@
+0	72	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="he" pos="PRP$" poss="t1"
+4	9	tok id="t1" base="work" pos="NNS" nsubj="t2"
+10	19	tok id="t2" base="criticize" pos="VBP" ROOT="ROOT"
+20	32	tok id="t3" base="agricultural" pos="JJ" amod="t4"
+33	45	tok id="t4" base="civilization" pos="NN" dobj="t2"
+46	48	tok id="t5" base="as" pos="IN" prep="t2"
+49	59	tok id="t6" base="inherently" pos="RB" advmod="t7"
+60	70	tok id="t7" base="oppressive" pos="JJ" pobj="t5"
+71	72	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

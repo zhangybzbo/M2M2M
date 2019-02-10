@@ -1,0 +1,10 @@
+1	These	these	DT	_	8	nsubj
+2	are	be	VBP	_	8	cop
+3	the	the	DT	_	8	det
+4	most	most	RBS	_	5	advmod
+5	typical	typical	JJ	_	8	amod
+6	student	student	NN	_	8	nn
+7	edition	edition	NN	_	8	nn
+8	textbooks	textbook	NNS	_	0	ROOT
+9	.	.	.	_	8	punct
+

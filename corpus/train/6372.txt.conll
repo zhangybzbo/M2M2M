@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	pulled	pull	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	bags	bag	NNS	_	2	dobj
+5	over	over	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	rim	rim	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	bucket	bucket	NN	_	8	pobj
+11	and	and	CC	_	2	cc
+12	pulled	pull	VBD	_	2	conj
+13	the	the	DT	_	14	det
+14	cord	cord	NN	_	12	dobj
+15	to	to	TO	_	16	aux
+16	tighten	tighten	VB	_	12	xcomp
+17	it	it	PRP	_	16	dobj
+18	.	.	.	_	2	punct
+

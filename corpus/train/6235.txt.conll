@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	bridge	bridge	NN	_	3	nn
+3	tower	tower	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	MC80	mc80	NN	_	4	pobj
+7	was	be	VBD	_	8	cop
+8	located	located	JJ	_	0	ROOT
+9	towards	towards	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	stern	stern	JJ	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	vessel	vessel	NN	_	12	pobj
+15	.	.	.	_	8	punct
+

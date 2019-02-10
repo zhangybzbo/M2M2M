@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	gas	gas	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	enclosed	enclose	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	container	container	NN	_	5	pobj
+8	fitted	fit	VBN	_	7	vmod
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	piston	piston	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	cross-sectional	cross-sectional	JJ	_	14	amod
+14	area	area	NN	_	12	pobj
+15	0.10	0.10	CD	_	16	num
+16	mz	mz	NN	_	14	dep
+17	.	.	.	_	4	punct
+

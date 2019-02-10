@@ -1,0 +1,12 @@
+0	71	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="another" pos="DT" det="t1"
+8	18	tok id="t1" base="manuscript" pos="NN" nsubj="t2"
+19	29	tok id="t2" base="introduce" pos="VBD" ROOT="ROOT"
+30	37	tok id="t3" base="justice" pos="NN" dobj="t2"
+38	40	tok id="t4" base="in" pos="IN" prep="t2"
+41	46	tok id="t5" base="term" pos="NNS" pobj="t4"
+47	49	tok id="t6" base="of" pos="IN" prep="t5"
+50	61	tok id="t7" base="contractual" pos="JJ" amod="t8"
+62	69	tok id="t8" base="justice" pos="NN" pobj="t6"
+70	71	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

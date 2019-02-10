@@ -1,0 +1,3 @@
+T1	Term 23 35	swim bladder
+T2	Term 43 47	fish
+R1	Component-Whole Arg1:T1 Arg2:T2

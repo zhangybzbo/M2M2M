@@ -1,0 +1,18 @@
+1	Mounds	mound	NNS	_	6	nsubjpass
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	lawn	lawn	NN	_	2	pobj
+5	are	be	VBP	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	earthworms	earthworm	NNS	_	7	pobj
+9	working	work	VBG	_	8	vmod
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	top	top	JJ	_	14	amod
+13	few	few	JJ	_	14	amod
+14	inches	inch	NNS	_	10	pobj
+15	of	of	IN	_	14	prep
+16	turf	turf	NN	_	15	pobj
+17	.	.	.	_	6	punct
+

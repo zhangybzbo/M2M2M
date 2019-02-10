@@ -1,0 +1,13 @@
+1	Mark	Mark	NNP	_	2	nn
+2	Patterson	Patterson	NNP	_	3	nsubj
+3	discusses	discuss	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	issues	issue	NNS	_	3	dobj
+6	affecting	affect	VBG	_	5	vmod
+7	daily	daily	JJ	_	8	amod
+8	life	life	NN	_	6	dobj
+9	in	in	IN	_	6	prep
+10	the	the	DT	_	11	det
+11	north-west	north-west	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

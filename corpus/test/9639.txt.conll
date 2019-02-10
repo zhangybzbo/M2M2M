@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	former	former	JJ	_	3	amod
+3	president	president	NN	_	8	nsubj
+4	in	in	IN	_	3	prep
+5	my	my	PRP$	_	6	poss
+6	company	company	NN	_	4	pobj
+7	has	have	VBZ	_	8	aux
+8	moved	move	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	private	private	JJ	_	12	amod
+11	equity	equity	NN	_	12	nn
+12	jobs	job	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

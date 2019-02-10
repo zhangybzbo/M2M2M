@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss
+2	brother	brother	NN	_	4	nsubj
+3	Joe	Joe	NNP	_	4	nsubj
+4	put	put	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	cat	cat	NN	_	4	dobj
+7	in	in	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	dresser	dresser	NN	_	10	nn
+10	drawer	drawer	NN	_	7	pobj
+11	and	and	CC	_	4	cc
+12	shut	shut	VBD	_	4	conj
+13	it	it	PRP	_	12	dobj
+14	.	.	.	_	4	punct
+

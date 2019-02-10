@@ -1,0 +1,10 @@
+0	44	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	8	tok id="t1" base="rhumba" pos="NN" nsubj="t4"
+9	11	tok id="t2" base="of" pos="IN" prep="t1"
+12	24	tok id="t3" base="rattlesnake" pos="NNS" pobj="t2"
+25	32	tok id="t4" base="plague" pos="VBD" ROOT="ROOT"
+33	34	tok id="t5" base="a" pos="DT" det="t6"
+35	42	tok id="t6" base="village" pos="NN" dobj="t4"
+43	44	tok id="t7" base="-PERIOD-" pos="." punct="t4"
+

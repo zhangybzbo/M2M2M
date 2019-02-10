@@ -1,0 +1,14 @@
+1	Governments	government	NNS	_	8	nsubj
+2	,	,	,	_	1	punct
+3	frightened	frightened	JJ	_	1	amod
+4	of	of	IN	_	3	prep
+5	losing	lose	VBG	_	4	pcomp
+6	votes	vote	NNS	_	5	dobj
+7	,	,	,	_	1	punct
+8	resolved	resolve	VBD	_	0	ROOT
+9	the	the	DT	_	10	det
+10	crisis	crisis	NN	_	8	dobj
+11	through	through	IN	_	8	prep
+12	subsidization	subsidization	NN	_	11	pobj
+13	.	.	.	_	8	punct
+

@@ -1,0 +1,17 @@
+1	Here	here	RB	_	2	advmod
+2	are	be	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	amazing	amazing	JJ	_	5	amod
+5	arrangements	arrangement	NNS	_	2	nsubj
+6	from	from	IN	_	5	prep
+7	this	this	DT	_	8	det
+8	months	month	NNS	_	6	pobj
+9	demonstrator	demonstrator	NN	_	8	dep
+10	,	,	,	_	9	punct
+11	fantastic	fantastic	JJ	_	9	conj
+12	,	,	,	_	9	punct
+13	brilliant	brilliant	JJ	_	9	conj
+14	and	and	CC	_	9	cc
+15	stunning	stunning	JJ	_	9	conj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,25 @@
+1	They	they	PRP	_	2	nsubj
+2	made	make	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	effect	effect	NN	_	2	dobj
+5	even	even	RB	_	7	advmod
+6	more	more	RBR	_	7	advmod
+7	dramatic	dramatic	JJ	_	2	dep
+8	by	by	IN	_	7	prep
+9	lighting	light	VBG	_	8	pcomp
+10	the	the	DT	_	11	det
+11	talent	talent	NN	_	9	dobj
+12	with	with	IN	_	9	prep
+13	a	a	DT	_	14	det
+14	light	light	JJ	_	12	pobj
+15	placed	place	VBN	_	14	vmod
+16	on	on	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	floor	floor	NN	_	16	pobj
+19	and	and	CC	_	2	cc
+20	focused	focus	VBD	_	2	conj
+21	on	on	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	face	face	NN	_	21	pobj
+24	.	.	.	_	2	punct
+

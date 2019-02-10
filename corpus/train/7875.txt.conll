@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	coffin	coffin	NN	_	3	nn
+3	maker	maker	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	increased	increase	VBN	_	0	ROOT
+6	productivity	productivity	NN	_	5	dobj
+7	by	by	IN	_	5	prep
+8	20	20	CD	_	9	num
+9	%	%	NN	_	7	pobj
+10	since	since	IN	_	5	prep
+11	securing	secure	VBG	_	10	pcomp
+12	a	a	DT	_	16	det
+13	180000	180000	CD	_	16	num
+14	pounds	pound	NNS	_	16	nn
+15	finance	finance	NN	_	16	nn
+16	package	package	NN	_	11	dobj
+17	from	from	IN	_	16	prep
+18	business	business	NN	_	19	nn
+19	angels	angel	NNS	_	17	pobj
+20	.	.	.	_	5	punct
+

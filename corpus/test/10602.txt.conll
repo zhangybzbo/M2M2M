@@ -1,0 +1,15 @@
+1	He	he	PRP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	releasing	release	VBG	_	0	ROOT
+4	information	information	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	8	det
+7	public	public	JJ	_	8	amod
+8	domain	domain	NN	_	5	pobj
+9	without	without	IN	_	3	prep
+10	understanding	understand	VBG	_	9	pcomp
+11	what	what	WP	_	13	dobj
+12	that	that	DT	_	13	nsubj
+13	was	be	VBD	_	10	ccomp
+14	.	.	.	_	3	punct
+

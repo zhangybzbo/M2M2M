@@ -1,0 +1,16 @@
+1	Fish	fish	NN	_	6	nsubj
+2	without	without	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	pyloric	pyloric	JJ	_	5	amod
+5	ceca	ceca	NN	_	2	pobj
+6	have	have	VBP	_	0	ROOT
+7	digestive	digestive	JJ	_	9	amod
+8	enzyme	enzyme	NN	_	9	nn
+9	production	production	NN	_	6	dobj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	liver	liver	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	pancreas	pancreas	NN	_	12	conj
+15	.	.	.	_	6	punct
+

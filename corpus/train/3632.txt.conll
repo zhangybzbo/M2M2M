@@ -1,0 +1,13 @@
+1	EU	EU	NNP	_	3	nsubj
+2	is	be	VBZ	_	3	aux
+3	pouring	pour	VBG	_	0	ROOT
+4	a	a	DT	_	5	det
+5	million	million	CD	_	3	dobj
+6	into	into	IN	_	3	prep
+7	next	next	JJ	_	6	pobj
+8	,	,	,	_	3	punct
+9	next	next	JJ	_	10	amod
+10	generation	generation	NN	_	3	dobj
+11	mobile	mobile	JJ	_	10	amod
+12	.	.	.	_	3	punct
+

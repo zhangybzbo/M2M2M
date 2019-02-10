@@ -1,0 +1,16 @@
+1	With	with	IN	_	7	prep
+2	one	one	CD	_	3	num
+3	exception	exception	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	moths	moth	NNS	_	7	nsubj
+7	emerged	emerge	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	cocoon	cocoon	NN	_	8	pobj
+11	during	during	IN	_	7	prep
+12	hours	hour	NNS	_	11	pobj
+13	of	of	IN	_	12	prep
+14	darkness	darkness	NN	_	13	pobj
+15	.	.	.	_	7	punct
+

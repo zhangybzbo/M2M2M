@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	hole	hole	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	accumulation	accumulation	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	dust	dust	NN	_	9	pobj
+11	into	into	IN	_	8	prep
+12	planets	planet	NNS	_	11	pobj
+13	like	like	IN	_	12	prep
+14	Earth	Earth	NNP	_	13	pobj
+15	.	.	.	_	5	punct
+

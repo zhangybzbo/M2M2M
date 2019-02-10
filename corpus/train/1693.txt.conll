@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	meeting	meeting	NN	_	22	nsubj
+3	called	call	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	India	India	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	government	government	NN	_	4	pobj
+8	to	to	TO	_	9	aux
+9	discuss	discuss	VB	_	2	vmod
+10	the	the	DT	_	11	det
+11	creation	creation	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	separate	separate	JJ	_	15	amod
+15	state	state	NN	_	12	pobj
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	20	det
+18	tea-producing	tea-producing	JJ	_	20	amod
+19	Darjeeling	darjeeling	NN	_	20	nn
+20	hills	hill	NNS	_	16	pobj
+21	has	have	VBZ	_	22	aux
+22	ended	end	VBN	_	0	ROOT
+23	without	without	IN	_	22	prep
+24	a	a	DT	_	25	det
+25	breakthrough	breakthrough	NN	_	23	pobj
+26	.	.	.	_	22	punct
+

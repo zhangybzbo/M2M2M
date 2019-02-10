@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	decline	decline	NN	_	7	nsubjpass
+3	in	in	IN	_	2	prep
+4	populations	population	NNS	_	3	pobj
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	influx	influx	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	industrial	industrial	JJ	_	16	amod
+13	and	and	CC	_	12	cc
+14	resident	resident	JJ	_	12	conj
+15	waste	waste	NN	_	16	nn
+16	water	water	NN	_	11	pobj
+17	,	,	,	_	16	punct
+18	sludge	sludge	NN	_	19	nn
+19	sedimentation	sedimentation	NN	_	16	conj
+20	,	,	,	_	16	punct
+21	and	and	CC	_	16	cc
+22	land	land	NN	_	23	nn
+23	reclamation	reclamation	NN	_	16	conj
+24	.	.	.	_	7	punct
+

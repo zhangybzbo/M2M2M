@@ -1,0 +1,13 @@
+1	After	after	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	fox	fox	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	hunter	hunter	NN	_	7	nsubj
+7	ran	run	VBD	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	small	small	JJ	_	11	amod
+11	cave	cave	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	third	third	JJ	_	3	amod
+3	conflict	conflict	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	highly	highly	RB	_	10	advmod
+10	polluted	polluted	JJ	_	11	amod
+11	wastewater	wastewater	NN	_	7	pobj
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	industrial	industrial	JJ	_	15	amod
+15	park	park	NN	_	12	pobj
+16	around	around	IN	_	11	prep
+17	the	the	DT	_	18	det
+18	town	town	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	Kemalpasha	kemalpasha	NN	_	19	pobj
+21	.	.	.	_	6	punct
+

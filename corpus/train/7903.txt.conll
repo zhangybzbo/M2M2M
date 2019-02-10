@@ -1,0 +1,16 @@
+1	Near	near	IN	_	7	prep
+2	Adelaide	Adelaide	NNP	_	1	pobj
+3	the	the	DT	_	4	det
+4	land	land	NN	_	7	nsubjpass
+5	is	be	VBZ	_	7	auxpass
+6	intensively	intensively	RB	_	7	advmod
+7	farmed	farm	VBN	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	dairying	dairy	VBG	_	8	pobj
+10	,	,	,	_	9	punct
+11	fruit	fruit	NN	_	9	conj
+12	,	,	,	_	9	punct
+13	and	and	CC	_	9	cc
+14	vegetables	vegetable	NNS	_	9	conj
+15	.	.	.	_	7	punct
+

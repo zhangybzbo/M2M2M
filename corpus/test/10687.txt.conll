@@ -1,0 +1,13 @@
+1	Demerol	Demerol	NNP	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	group	group	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	drugs	drug	NNS	_	6	pobj
+8	called	call	VBN	_	7	vmod
+9	narcotic	narcotic	JJ	_	11	amod
+10	pain	pain	NN	_	11	nn
+11	relievers	reliever	NNS	_	8	dep
+12	.	.	.	_	2	punct
+

@@ -1,0 +1,16 @@
+1	Formerly	formerly	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	5	det
+4	essential	essential	JJ	_	5	amod
+5	oil	oil	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	distilled	distil	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	peel	peel	NN	_	8	pobj
+11	for	for	IN	_	7	prep
+12	use	use	NN	_	11	pobj
+13	in	in	IN	_	12	prep
+14	perfumery	perfumery	NN	_	13	pobj
+15	.	.	.	_	7	punct
+

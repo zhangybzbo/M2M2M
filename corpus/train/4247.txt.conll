@@ -1,0 +1,15 @@
+1	One	one	CD	_	3	num
+2	examination	examination	NN	_	3	nn
+3	paper	paper	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	physical	physical	JJ	_	7	amod
+7	geography	geography	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	the	the	DT	_	10	det
+10	other	other	JJ	_	4	dep
+11	in	in	IN	_	10	prep
+12	political	political	JJ	_	13	amod
+13	geography	geography	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

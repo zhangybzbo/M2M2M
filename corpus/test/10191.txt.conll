@@ -1,0 +1,14 @@
+1	By	by	IN	_	9	prep
+2	now	now	RB	_	1	pobj
+3	,	,	,	_	9	punct
+4	our	we	PRP$	_	7	poss
+5	early	early	JJ	_	7	amod
+6	radio	radio	NN	_	7	nn
+7	wave	wave	NN	_	9	nsubj
+8	is	be	VBZ	_	9	aux
+9	travelling	travel	VBG	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	outer	outer	JJ	_	12	amod
+12	space	space	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

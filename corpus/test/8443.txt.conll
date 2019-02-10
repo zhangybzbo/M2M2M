@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	chapel	chapel	NN	_	8	nsubjpass
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	manor	manor	NN	_	6	nn
+6	house	house	NN	_	3	pobj
+7	was	be	VBD	_	8	auxpass
+8	dedicated	dedicate	VBN	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	15	det
+11	nowadays	nowadays	RB	_	13	advmod
+12	somewhat	somewhat	RB	_	13	advmod
+13	obscure	obscure	JJ	_	15	amod
+14	St	St	NNP	_	15	nn
+15	Blaise	Blaise	NNP	_	9	pobj
+16	.	.	.	_	8	punct
+

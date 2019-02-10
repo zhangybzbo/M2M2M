@@ -1,0 +1,12 @@
+1	Brazil	Brazil	NNP	_	3	nsubj
+2	is	be	VBZ	_	3	aux
+3	trying	try	VBG	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	change	change	VB	_	3	xcomp
+6	laws	law	NNS	_	5	dobj
+7	that	that	WDT	_	8	nsubj
+8	limit	limit	VBP	_	6	rcmod
+9	political	political	JJ	_	10	amod
+10	speech	speech	NN	_	8	dobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	main	main	JJ	_	3	amod
+3	origin	origin	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	metamorphic	metamorphic	JJ	_	7	amod
+7	lithics	lithic	NNS	_	4	pobj
+8	is	be	VBZ	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	mountain	mountain	NN	_	9	pobj
+12	ranges	range	VBZ	_	8	dep
+13	located	located	JJ	_	12	acomp
+14	in	in	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	north-western	north-western	JJ	_	14	pobj
+17	.	.	.	_	8	punct
+

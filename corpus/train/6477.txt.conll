@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	picture	picture	NN	_	6	nsubj
+3	at	at	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	top	top	NN	_	3	pobj
+6	shows	show	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	farmer	farmer	NN	_	6	dobj
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	14	det
+11	genetically	genetically	RB	_	12	advmod
+12	engineered	engineer	VBN	_	14	amod
+13	cotton	cotton	NN	_	14	nn
+14	plant	plant	NN	_	9	pobj
+15	in	in	IN	_	14	prep
+16	South	South	NNP	_	17	nn
+17	Africa	Africa	NNP	_	15	pobj
+18	in	in	IN	_	14	prep
+19	2003	2003	CD	_	18	pobj
+20	.	.	.	_	6	punct
+

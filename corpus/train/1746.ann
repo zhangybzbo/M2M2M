@@ -1,0 +1,3 @@
+T1	Term 72 80	citizens
+T2	Term 91 95	guns
+R1	Instrument-Agency Arg1:T2 Arg2:T1

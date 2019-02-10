@@ -1,0 +1,14 @@
+1	Religion	Religion	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	become	become	VBN	_	0	ROOT
+4	the	the	DT	_	6	det
+5	hottest	hottest	JJS	_	6	amod
+6	topic	topic	NN	_	3	xcomp
+7	of	of	IN	_	6	prep
+8	study	study	NN	_	7	pobj
+9	for	for	IN	_	6	prep
+10	United	United	NNP	_	12	nn
+11	States	States	NNPS	_	12	nn
+12	historians	historian	NNS	_	9	pobj
+13	.	.	.	_	3	punct
+

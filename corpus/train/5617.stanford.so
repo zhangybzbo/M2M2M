@@ -1,0 +1,11 @@
+0	53	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="asthma" pos="NN" nsubj="t1"
+7	13	tok id="t1" base="cause" pos="VBZ" ROOT="ROOT"
+14	22	tok id="t2" base="swell" pos="VBG" dobj="t1"
+23	26	tok id="t3" base="and" pos="CC" cc="t2"
+27	36	tok id="t4" base="narrow" pos="VBG" conj="t2"
+37	39	tok id="t5" base="of" pos="IN" prep="t4"
+40	43	tok id="t6" base="the" pos="DT" det="t7"
+44	51	tok id="t7" base="airway" pos="NNS" pobj="t5"
+52	53	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

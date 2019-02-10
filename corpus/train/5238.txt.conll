@@ -1,0 +1,22 @@
+1	In	in	IN	_	6	prep
+2	his	he	PRP$	_	3	poss
+3	remarks	remark	NNS	_	1	pobj
+4	,	,	,	_	6	punct
+5	he	he	PRP	_	6	nsubj
+6	described	describe	VBD	_	0	ROOT
+7	his	he	PRP$	_	8	poss
+8	call	call	NN	_	6	dobj
+9	to	to	TO	_	8	prep
+10	Bush	Bush	NNP	_	9	pobj
+11	while	while	IN	_	16	mark
+12	the	the	DT	_	14	det
+13	U.S.	U.S.	NNP	_	14	nn
+14	president	president	NN	_	16	nsubj
+15	was	be	VBD	_	16	aux
+16	giving	give	VBG	_	6	advcl
+17	a	a	DT	_	18	det
+18	speech	speech	NN	_	16	dobj
+19	in	in	IN	_	18	prep
+20	Philadelphia	Philadelphia	NNP	_	19	pobj
+21	.	.	.	_	6	punct
+

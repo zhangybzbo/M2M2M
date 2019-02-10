@@ -1,0 +1,21 @@
+1	Mobil	Mobil	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	aux
+3	now	now	RB	_	4	advmod
+4	turning	turn	VBG	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	fine	fine	JJ	_	7	amod
+7	art	art	NN	_	5	pobj
+8	as	as	IN	_	4	prep
+9	a	a	DT	_	10	det
+10	way	way	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	protecting	protect	VBG	_	11	pcomp
+13	some	some	DT	_	12	dobj
+14	of	of	IN	_	13	prep
+15	its	its	PRP$	_	17	poss
+16	huge	huge	JJ	_	17	amod
+17	profits	profit	NNS	_	14	pobj
+18	from	from	IN	_	17	prep
+19	inflation	inflation	NN	_	18	pobj
+20	.	.	.	_	4	punct
+

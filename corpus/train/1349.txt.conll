@@ -1,0 +1,19 @@
+1	On	on	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	other	other	JJ	_	4	amod
+4	hand	hand	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	sentry	sentry	NN	_	7	nn
+7	tools	tool	NNS	_	9	nsubjpass
+8	are	be	VBP	_	9	auxpass
+9	used	use	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	sentries	sentry	NNS	_	10	pobj
+12	in	in	IN	_	15	mark
+13	order	order	NN	_	15	dep
+14	to	to	TO	_	15	aux
+15	defend	defend	VB	_	9	advcl
+16	against	against	IN	_	15	prep
+17	spies	spy	NNS	_	16	pobj
+18	.	.	.	_	9	punct
+

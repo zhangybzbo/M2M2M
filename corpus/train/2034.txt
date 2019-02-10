@@ -1,0 +1,1 @@
+The electron beam arrives from the left side , is collimated by 1cm thick copper and traverses the light tight sensor box .

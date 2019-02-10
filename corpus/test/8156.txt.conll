@@ -1,0 +1,27 @@
+1	To	to	TO	_	2	aux
+2	test	test	VB	_	8	advcl
+3	the	the	DT	_	4	det
+4	punch	punch	NN	_	2	dobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	punchcutter	punchcutter	NN	_	8	nsubj
+8	makes	make	VBZ	_	0	ROOT
+9	an	a	DT	_	10	det
+10	imprint	imprint	NN	_	8	dobj
+11	on	on	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	piece	piece	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	paper	paper	NN	_	14	pobj
+16	after	after	IN	_	8	prep
+17	coating	coating	NN	_	16	pobj
+18	the	the	DT	_	19	det
+19	punch	punch	NN	_	17	dep
+20	with	with	IN	_	19	prep
+21	soot	soot	NN	_	20	pobj
+22	from	from	IN	_	19	prep
+23	an	a	DT	_	25	det
+24	open	open	JJ	_	25	amod
+25	flame	flame	NN	_	22	pobj
+26	.	.	.	_	8	punct
+

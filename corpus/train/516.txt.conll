@@ -1,0 +1,26 @@
+1	Birchwood	Birchwood	NNP	_	4	nn
+2	and	and	CC	_	1	cc
+3	Stockton	Stockton	NNP	_	1	conj
+4	Heath	Heath	NNP	_	6	nsubjpass
+5	were	be	VBD	_	6	auxpass
+6	called	call	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	scene	scene	NN	_	7	pobj
+10	after	after	IN	_	18	mark
+11	pyrotechnics	pyrotechnics	NNS	_	18	nsubj
+12	used	use	VBN	_	11	vmod
+13	during	during	IN	_	12	prep
+14	one	one	CD	_	13	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	performances	performance	NNS	_	15	pobj
+18	caused	cause	VBD	_	6	advcl
+19	a	a	DT	_	20	det
+20	fire	fire	NN	_	18	dobj
+21	on	on	IN	_	18	prep
+22	the	the	DT	_	24	det
+23	main	main	JJ	_	24	amod
+24	stage	stage	NN	_	21	pobj
+25	.	.	.	_	6	punct
+

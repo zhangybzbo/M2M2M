@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	music	music	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	composed	compose	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	musician	musician	NN	_	5	pobj
+8	who	who	WP	_	11	nsubjpass
+9	was	be	VBD	_	11	auxpass
+10	not	not	RB	_	11	neg
+11	known	know	VBN	_	7	rcmod
+12	outside	outside	IN	_	11	prep
+13	his	he	PRP$	_	14	poss
+14	village	village	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

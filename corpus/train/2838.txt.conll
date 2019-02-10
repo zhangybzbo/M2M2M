@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	site	site	NN	_	3	nsubj
+3	features	feature	VBZ	_	0	ROOT
+4	comprehensive	comprehensive	JJ	_	5	amod
+5	news	news	NN	_	3	dobj
+6	and	and	CC	_	5	cc
+7	gossip	gossip	NN	_	5	conj
+8	about	about	IN	_	5	prep
+9	all	all	DT	_	10	det
+10	Britain	Britain	NNP	_	13	poss
+11	's	's	POS	_	10	possessive
+12	biggest	biggest	JJS	_	13	amod
+13	soaps	soap	NNS	_	8	pobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,15 @@
+1	His	he	PRP$	_	2	poss
+2	career	career	NN	_	6	nsubjpass
+3	was	be	VBD	_	6	auxpass
+4	most	most	RBS	_	5	advmod
+5	recently	recently	RB	_	6	advmod
+6	summarised	summarise	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	John	John	NNP	_	9	nn
+9	Bray	Bray	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	biography	biography	NN	_	7	pobj
+12	of	of	IN	_	11	prep
+13	Gallienus	Gallienus	NNP	_	12	pobj
+14	.	.	.	_	6	punct
+

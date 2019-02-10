@@ -1,0 +1,3 @@
+T1	Term 0 4	Wind
+T2	Term 21 31	weathering
+R1	Cause-Effect Arg1:T1 Arg2:T2

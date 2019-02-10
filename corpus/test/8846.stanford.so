@@ -1,0 +1,13 @@
+0	65	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Saudi" pos="NNP" nn="t1"
+6	12	tok id="t1" base="Arabia" pos="NNP" nsubj="t3"
+13	16	tok id="t2" base="have" pos="VBZ" aux="t3"
+17	25	tok id="t3" base="export" pos="VBN" ROOT="ROOT"
+26	31	tok id="t4" base="wheat" pos="NN" dobj="t3"
+32	34	tok id="t5" base="to" pos="TO" prep="t3"
+35	37	tok id="t6" base="30" pos="CD" num="t7"
+38	47	tok id="t7" base="country" pos="NNS" pobj="t5"
+48	57	tok id="t8" base="include" pos="VBG" prep="t7"
+58	63	tok id="t9" base="China" pos="NNP" pobj="t8"
+64	65	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

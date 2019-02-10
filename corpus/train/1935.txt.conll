@@ -1,0 +1,24 @@
+1	Oil	Oil	NNP	_	2	nn
+2	extraction	extraction	NN	_	8	nsubj
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	Amazon	Amazon	NNP	_	3	pobj
+6	has	have	VBZ	_	8	aux
+7	already	already	RB	_	8	advmod
+8	caused	cause	VBN	_	0	ROOT
+9	the	the	DT	_	10	det
+10	extinction	extinction	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	Tetete	Tetete	NNP	_	11	pobj
+14	and	and	CC	_	13	cc
+15	Zaparo	Zaparo	NNP	_	16	nn
+16	nationalities	nationality	NNS	_	13	conj
+17	and	and	CC	_	8	cc
+18	continues	continue	VBZ	_	8	conj
+19	to	to	TO	_	20	aux
+20	threaten	threaten	VB	_	18	xcomp
+21	indigenous	indigenous	JJ	_	22	amod
+22	peoples	people	NNS	_	20	dobj
+23	.	.	.	_	8	punct
+

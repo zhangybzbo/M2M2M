@@ -1,0 +1,3 @@
+T1	Term 38 48	plantation
+T2	Term 52 59	bananas
+R1	Member-Collection Arg1:T2 Arg2:T1

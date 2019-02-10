@@ -1,0 +1,13 @@
+0	42	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="beer" pos="NN" nsubj="t2"
+9	13	tok id="t2" base="act" pos="VBZ" ROOT="ROOT"
+14	16	tok id="t3" base="as" pos="IN" prep="t2"
+17	18	tok id="t4" base="a" pos="DT" det="t6"
+19	24	tok id="t5" base="great" pos="JJ" amod="t6"
+25	29	tok id="t6" base="hair" pos="NN" pobj="t3"
+30	32	tok id="t7" base="of" pos="IN" prep="t6"
+33	36	tok id="t8" base="the" pos="DT" det="t9"
+37	40	tok id="t9" base="dog" pos="NN" pobj="t7"
+41	42	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

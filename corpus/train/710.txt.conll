@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	6	nsubj
+3	,	,	,	_	2	punct
+4	has	have	VBZ	_	6	aux
+5	carefully	carefully	RB	_	6	advmod
+6	devised	devise	VBN	_	0	ROOT
+7	an	a	DT	_	10	det
+8	amended	amend	VBN	_	10	amod
+9	research	research	NN	_	10	nn
+10	methodology	methodology	NN	_	6	dobj
+11	;	;	:	_	6	punct
+12	it	it	PRP	_	16	nsubj
+13	has	have	VBZ	_	16	aux
+14	also	also	RB	_	16	advmod
+15	since	since	IN	_	16	mark
+16	found	find	VBN	_	6	parataxis
+17	that	that	IN	_	21	mark
+18	further	further	JJ	_	19	amod
+19	compromises	compromise	NNS	_	21	nsubj
+20	will	will	MD	_	21	aux
+21	have	have	VB	_	16	ccomp
+22	to	to	TO	_	24	aux
+23	be	be	VB	_	24	auxpass
+24	made	make	VBN	_	21	xcomp
+25	.	.	.	_	6	punct
+

@@ -1,0 +1,1 @@
+The handpiece contains a primary coil and the sleeve encloses a secondary coil , which are inductively coupled together so that electromagnetic energy can be transferred between them .

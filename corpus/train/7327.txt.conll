@@ -1,0 +1,20 @@
+1	We	we	PRP	_	0	ROOT
+2	planetary	planetary	JJ	_	3	amod
+3	citizens	citizen	NNS	_	4	nsubj
+4	have	have	VBP	_	1	rcmod
+5	a	a	DT	_	7	det
+6	unique	unique	JJ	_	7	amod
+7	capacity	capacity	NN	_	4	dobj
+8	for	for	IN	_	7	prep
+9	ecstasy	ecstasy	NN	_	8	pobj
+10	from	from	IN	_	9	prep
+11	repetition	repetition	NN	_	10	pobj
+12	-	-	:	_	7	punct
+13	especially	especially	RB	_	14	advmod
+14	when	when	WRB	_	16	advmod
+15	it	it	PRP	_	16	nsubj
+16	comes	come	VBZ	_	7	rcmod
+17	from	from	IN	_	16	prep
+18	drumming	drum	VBG	_	17	pcomp
+19	.	.	.	_	1	punct
+

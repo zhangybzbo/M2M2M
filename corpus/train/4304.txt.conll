@@ -1,0 +1,19 @@
+1	She	she	PRP	_	3	nsubj
+2	just	just	RB	_	3	advmod
+3	poured	pour	VBD	_	0	ROOT
+4	half	half	PDT	_	6	predet
+5	a	a	DT	_	6	det
+6	bottle	bottle	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	water	water	NN	_	7	pobj
+9	into	into	IN	_	3	prep
+10	her	she	PRP$	_	12	poss
+11	lunch	lunch	NN	_	12	nn
+12	plate	plate	NN	_	9	pobj
+13	and	and	CC	_	3	cc
+14	all	all	DT	_	3	conj
+15	over	over	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	table	table	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

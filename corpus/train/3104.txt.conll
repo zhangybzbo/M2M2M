@@ -1,0 +1,20 @@
+1	In	in	IN	_	6	prep
+2	particular	particular	JJ	_	1	pobj
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	system	system	NN	_	6	nsubj
+6	convinced	convince	VBN	_	0	ROOT
+7	the	the	DT	_	8	det
+8	jury	jury	NN	_	6	dobj
+9	with	with	IN	_	6	prep
+10	its	its	PRP$	_	14	poss
+11	advanced	advanced	JJ	_	14	amod
+12	speech	speech	NN	_	14	nn
+13	recognition	recognition	NN	_	14	nn
+14	module	module	NN	_	9	pobj
+15	and	and	CC	_	14	cc
+16	a	a	DT	_	18	det
+17	successful	successful	JJ	_	18	amod
+18	dialog	dialog	NN	_	14	conj
+19	.	.	.	_	6	punct
+

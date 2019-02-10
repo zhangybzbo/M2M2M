@@ -1,0 +1,15 @@
+1	At	at	IN	_	5	prep
+2	that	that	DT	_	3	det
+3	time	time	NN	_	1	pobj
+4	there	there	EX	_	5	expl
+5	was	be	VBD	_	0	ROOT
+6	also	also	RB	_	5	advmod
+7	a	a	DT	_	9	det
+8	Renaissance	Renaissance	NNP	_	9	nn
+9	building	building	NN	_	5	nsubj
+10	founded	found	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	wall	wall	NN	_	11	pobj
+14	.	.	.	_	5	punct
+

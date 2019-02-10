@@ -1,0 +1,13 @@
+1	Specially	specially	RB	_	2	advmod
+2	designed	design	VBN	_	3	amod
+3	lampposts	lamppost	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	spaced	space	VBN	_	0	ROOT
+6	along	along	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	curbs	curb	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	roadway	roadway	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

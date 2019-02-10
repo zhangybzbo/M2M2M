@@ -1,0 +1,12 @@
+1	Below	below	IN	_	3	mark
+2	you	you	PRP	_	3	nsubj
+3	find	find	VBP	_	0	ROOT
+4	my	my	PRP$	_	5	poss
+5	ideas	idea	NNS	_	3	dobj
+6	with	with	IN	_	5	prep
+7	regard	regard	NN	_	6	pobj
+8	to	to	TO	_	7	prep
+9	this	this	DT	_	10	det
+10	issue	issue	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

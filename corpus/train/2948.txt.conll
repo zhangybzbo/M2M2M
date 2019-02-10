@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	patches	patch	NNS	_	4	nsubj
+3	immediately	immediately	RB	_	4	advmod
+4	spread	spread	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	lymphatic	lymphatic	JJ	_	8	amod
+8	capillaries	capillary	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	surrounding	surround	VBG	_	13	amod
+12	intestinal	intestinal	JJ	_	13	amod
+13	tissue	tissue	NN	_	9	pobj
+14	.	.	.	_	4	punct
+

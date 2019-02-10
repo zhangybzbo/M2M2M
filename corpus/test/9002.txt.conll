@@ -1,0 +1,21 @@
+1	Peter	Peter	NNP	_	2	nn
+2	Gast	Gast	NNP	_	4	nsubj
+3	``	``	``	_	4	punct
+4	corrected	correct	VBN	_	0	ROOT
+5	''	''	''	_	4	punct
+6	Nietzsche	Nietzsche	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	writings	writings	NNS	_	4	dobj
+9	even	even	RB	_	10	advmod
+10	after	after	IN	_	4	prep
+11	the	the	DT	_	12	det
+12	philosopher	philosopher	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	breakdown	breakdown	NN	_	10	pobj
+15	and	and	CC	_	14	cc
+16	so	so	RB	_	17	advmod
+17	without	without	IN	_	14	conj
+18	his	he	PRP$	_	19	poss
+19	approval	approval	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	Many	many	JJ	_	2	amod
+2	films	film	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	portrayed	portray	VBN	_	0	ROOT
+5	mental	mental	JJ	_	6	amod
+6	illness	illness	NN	_	4	dobj
+7	or	or	CC	_	4	cc
+8	used	use	VBN	_	4	conj
+9	it	it	PRP	_	8	dobj
+10	as	as	IN	_	8	prep
+11	a	a	DT	_	12	det
+12	backdrop	backdrop	NN	_	10	pobj
+13	for	for	IN	_	12	prep
+14	other	other	JJ	_	15	amod
+15	themes	theme	NNS	_	13	pobj
+16	.	.	.	_	4	punct
+

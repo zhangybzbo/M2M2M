@@ -1,0 +1,3 @@
+T1	Term 13 20	surface
+T2	Term 50 56	plates
+R1	Component-Whole Arg1:T2 Arg2:T1

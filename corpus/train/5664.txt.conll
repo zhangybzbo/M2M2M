@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	results	result	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	auxpass
+4	often	often	RB	_	5	advmod
+5	displayed	display	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	charts	chart	NNS	_	6	pobj
+8	or	or	CC	_	5	cc
+9	written	write	VBN	_	5	conj
+10	as	as	IN	_	9	prep
+11	narratives	narrative	NNS	_	10	pobj
+12	.	.	.	_	5	punct
+

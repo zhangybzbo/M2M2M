@@ -1,0 +1,13 @@
+1	My	my	PRP$	_	2	poss
+2	friend	friend	NN	_	3	nsubj
+3	puts	put	VBZ	_	0	ROOT
+4	tea	tea	NN	_	3	dobj
+5	in	in	IN	_	3	prep
+6	a	a	DT	_	7	det
+7	thermos	thermos	NN	_	5	pobj
+8	to	to	TO	_	9	aux
+9	take	take	VB	_	3	vmod
+10	to	to	TO	_	11	aux
+11	work	work	VB	_	9	xcomp
+12	.	.	.	_	3	punct
+

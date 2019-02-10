@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	whole	whole	JJ	_	3	amod
+3	episode	episode	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	documented	document	VBN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	video	video	NN	_	6	pobj
+8	and	and	CC	_	7	cc
+9	stills	still	NNS	_	7	conj
+10	,	,	,	_	5	punct
+11	but	but	CC	_	5	cc
+12	these	these	DT	_	15	nsubj
+13	have	have	VBP	_	15	aux
+14	never	never	RB	_	15	neg
+15	come	come	VBN	_	5	conj
+16	to	to	TO	_	15	prep
+17	light	light	NN	_	16	pobj
+18	.	.	.	_	5	punct
+

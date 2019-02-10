@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	architect	architect	NN	_	4	nsubj
+3	carefully	carefully	RB	_	4	advmod
+4	designed	design	VBN	_	0	ROOT
+5	the	the	DT	_	7	det
+6	15	15	CD	_	7	num
+7	rowhouses	rowhouse	NNS	_	4	dobj
+8	,	,	,	_	4	punct
+9	reflecting	reflect	VBG	_	4	vmod
+10	the	the	DT	_	12	det
+11	suburban	suburban	JJ	_	12	amod
+12	ideal	ideal	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	late	late	JJ	_	16	amod
+16	1800s	1800	NNS	_	13	pobj
+17	.	.	.	_	4	punct
+

@@ -1,0 +1,8 @@
+1	The	the	DT	_	3	det
+2	real	real	JJ	_	3	amod
+3	man	man	NN	_	4	nsubj
+4	departs	depart	VBZ	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	holiness	holiness	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

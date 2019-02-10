@@ -1,0 +1,11 @@
+1	Less	less	RBR	_	2	advmod
+2	obedience	obedience	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	extracted	extract	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	subjects	subject	NNS	_	5	pobj
+7	in	in	IN	_	6	prep
+8	this	this	DT	_	9	det
+9	case	case	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

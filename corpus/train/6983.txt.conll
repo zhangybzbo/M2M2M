@@ -1,0 +1,23 @@
+1	After	after	IN	_	6	mark
+2	1890	1890	CD	_	4	num
+3	the	the	DT	_	4	det
+4	house	house	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	moved	move	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	its	its	PRP$	_	10	poss
+9	original	original	JJ	_	10	amod
+10	location	location	NN	_	7	pobj
+11	to	to	TO	_	6	prep
+12	the	the	DT	_	13	det
+13	complex	complex	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	outbuildings	outbuilding	NNS	_	14	pobj
+16	next	next	IN	_	6	prep
+17	to	to	TO	_	16	pcomp
+18	the	the	DT	_	21	det
+19	present	present	JJ	_	21	amod
+20	Ross	Ross	NNP	_	21	nn
+21	home	home	NN	_	17	pobj
+22	.	.	.	_	6	punct
+

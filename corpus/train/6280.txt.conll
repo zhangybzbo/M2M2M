@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	reindeer	reindeer	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	his	he	PRP$	_	6	poss
+5	television	television	NN	_	6	nn
+6	debut	debut	NN	_	3	dobj
+7	on	on	IN	_	6	prep
+8	NBC	NBC	NNP	_	7	pobj
+9	in	in	IN	_	3	prep
+10	1964	1964	CD	_	9	pobj
+11	,	,	,	_	10	punct
+12	when	when	WRB	_	14	advmod
+13	Rankin/Bass	rankin/bass	NN	_	14	nsubj
+14	produced	produce	VBD	_	10	rcmod
+15	a	a	DT	_	19	det
+16	stop-motion	stop-motion	JJ	_	19	amod
+17	animated	animated	JJ	_	19	amod
+18	TV	tv	NN	_	19	nn
+19	special	special	NN	_	14	dobj
+20	.	.	.	_	3	punct
+

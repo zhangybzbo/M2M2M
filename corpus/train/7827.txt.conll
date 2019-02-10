@@ -1,0 +1,15 @@
+1	Canola	Canola	NNP	_	2	nn
+2	seed	seed	NN	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	small	small	JJ	_	0	ROOT
+5	,	,	,	_	4	punct
+6	and	and	CC	_	4	cc
+7	placement	placement	NN	_	13	nsubjpass
+8	at	at	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	shallow	shallow	JJ	_	11	amod
+11	depth	depth	NN	_	8	pobj
+12	is	be	VBZ	_	13	auxpass
+13	required	require	VBN	_	4	conj
+14	.	.	.	_	4	punct
+

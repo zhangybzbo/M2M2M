@@ -1,0 +1,9 @@
+1	Other	other	JJ	_	2	amod
+2	countries	country	NNS	_	5	nsubj
+3	are	be	VBP	_	5	aux
+4	also	also	RB	_	5	advmod
+5	sinking	sink	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	recession	recession	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

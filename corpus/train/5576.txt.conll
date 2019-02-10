@@ -1,0 +1,21 @@
+1	That	that	DT	_	4	nsubj
+2	's	be	VBZ	_	4	cop
+3	right	right	JJ	_	4	amod
+4	boys	boy	NNS	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	girls	girl	NNS	_	8	dobj
+7	you	you	PRP	_	8	nsubj
+8	read	read	VBP	_	4	conj
+9	that	that	IN	_	14	mark
+10	correctly	correctly	RB	_	14	advmod
+11	,	,	,	_	14	punct
+12	you	you	PRP	_	14	nsubj
+13	just	just	RB	_	14	advmod
+14	shared	share	VBD	_	8	ccomp
+15	a	a	DT	_	16	det
+16	printer	printer	NN	_	14	dobj
+17	over	over	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	internet	internet	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

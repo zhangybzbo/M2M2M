@@ -1,0 +1,3 @@
+T1	Term 128 134	damage
+T2	Term 140 146	spills
+R1	Cause-Effect Arg1:T2 Arg2:T1

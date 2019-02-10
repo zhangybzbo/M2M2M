@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	3	nsubj
+3	won	win	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	Association	Association	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	championship	championship	NN	_	3	dobj
+8	with	with	IN	_	3	prep
+9	some	some	DT	_	10	det
+10	regularity	regularity	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

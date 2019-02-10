@@ -1,0 +1,16 @@
+1	A	a	DT	_	5	det
+2	diffusion	diffusion	NN	_	5	nn
+3	driven	drive	VBN	_	5	amod
+4	desalination	desalination	NN	_	5	nn
+5	process	process	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	driven	drive	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	water	water	NN	_	14	nn
+10	vapor	vapor	NN	_	14	nn
+11	saturating	saturating	JJ	_	14	amod
+12	low	low	JJ	_	14	amod
+13	humidity	humidity	NN	_	14	nn
+14	air	air	NN	_	8	pobj
+15	.	.	.	_	7	punct
+

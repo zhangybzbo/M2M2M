@@ -1,0 +1,24 @@
+1	I	I	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	read	read	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	comments	comment	NNS	_	3	dobj
+6	made	make	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	Micheal	Micheal	NNP	_	9	nn
+9	Hortin	Hortin	NNP	_	7	pobj
+10	with	with	IN	_	6	prep
+11	regard	regard	NN	_	10	pobj
+12	to	to	TO	_	11	prep
+13	this	this	DT	_	14	det
+14	decision	decision	NN	_	12	pobj
+15	and	and	CC	_	3	cc
+16	would	would	MD	_	17	aux
+17	like	like	VB	_	3	conj
+18	to	to	TO	_	19	aux
+19	make	make	VB	_	17	xcomp
+20	the	the	DT	_	22	det
+21	following	follow	VBG	_	22	amod
+22	observations	observation	NNS	_	19	dobj
+23	.	.	.	_	3	punct
+

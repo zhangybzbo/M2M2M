@@ -1,0 +1,16 @@
+1	The	the	DT	_	0	ROOT
+2	echoing	echo	VBG	_	1	vmod
+3	you	you	PRP	_	4	nsubj
+4	see	see	VBP	_	2	ccomp
+5	is	be	VBZ	_	4	dobj
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	6	pobj
+8	expect	expect	VBP	_	7	vmod
+9	command	command	NN	_	10	nsubj
+10	running	run	VBG	_	8	ccomp
+11	after	after	IN	_	14	mark
+12	send	send	VB	_	14	nsubj
+13	has	have	VBZ	_	14	aux
+14	run	run	VBN	_	10	advcl
+15	.	.	.	_	1	punct
+

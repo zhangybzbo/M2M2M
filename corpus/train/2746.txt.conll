@@ -1,0 +1,14 @@
+1	Thursday	Thursday	NNP	_	3	tmod
+2	we	we	PRP	_	3	nsubj
+3	started	start	VBD	_	0	ROOT
+4	steam-cleaning	steam-clean	VBG	_	3	xcomp
+5	the	the	DT	_	6	det
+6	floor	floor	NN	_	4	dobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	shop	shop	NN	_	7	pobj
+10	for	for	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	party	party	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

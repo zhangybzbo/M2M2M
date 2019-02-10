@@ -1,0 +1,20 @@
+1	Energy	Energy	NNP	_	2	nn
+2	expenditure	expenditure	NN	_	9	nsubj
+3	through	through	IN	_	2	prep
+4	physical	physical	JJ	_	5	amod
+5	activity	activity	NN	_	3	pobj
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	key	key	JJ	_	9	amod
+9	component	component	NN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	prevention	prevention	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	treatment	treatment	NN	_	12	conj
+15	of	of	IN	_	12	prep
+16	overweight	overweight	JJ	_	15	pobj
+17	and	and	CC	_	16	cc
+18	obesity	obesity	NN	_	16	conj
+19	.	.	.	_	9	punct
+

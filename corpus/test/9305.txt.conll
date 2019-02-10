@@ -1,0 +1,14 @@
+1	White	White	NNP	_	2	nn
+2	chocolate	chocolate	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	cocoa	cocoa	NN	_	7	nn
+7	butter	butter	NN	_	5	pobj
+8	,	,	,	_	7	punct
+9	milk	milk	NN	_	7	conj
+10	,	,	,	_	7	punct
+11	and	and	CC	_	7	cc
+12	sugar	sugar	NN	_	7	conj
+13	.	.	.	_	4	punct
+

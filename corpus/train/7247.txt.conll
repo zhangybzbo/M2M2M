@@ -1,0 +1,19 @@
+1	Orpheus	Orpheus	NNP	_	2	nsubj
+2	falls	fall	VBZ	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	love	love	NN	_	3	pobj
+5	with	with	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	country	country	NN	_	8	nn
+8	girl	girl	NN	_	5	pobj
+9	for	for	IN	_	2	prep
+10	no	no	DT	_	12	neg
+11	apparent	apparent	JJ	_	12	amod
+12	reason	reason	NN	_	9	pobj
+13	save	save	VB	_	12	vmod
+14	her	she	PRP$	_	15	poss
+15	name	name	NN	_	13	dobj
+16	and	and	CC	_	15	cc
+17	beauty	beauty	NN	_	15	conj
+18	.	.	.	_	2	punct
+

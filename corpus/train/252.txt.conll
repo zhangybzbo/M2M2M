@@ -1,0 +1,14 @@
+1	Fish	fish	NN	_	2	nsubj
+2	swim	swim	VBP	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	shoal	shoal	NN	_	3	pobj
+6	,	,	,	_	2	punct
+7	but	but	CC	_	2	cc
+8	they	they	PRP	_	9	nsubj
+9	fall	fall	VBP	_	2	conj
+10	one	one	CD	_	9	dobj
+11	by	by	IN	_	9	prep
+12	one	one	CD	_	11	pobj
+13	.	.	.	_	2	punct
+

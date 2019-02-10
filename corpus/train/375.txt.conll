@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	box	box	NN	_	3	nsubj
+3	regulated	regulate	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	temperature	temperature	NN	_	3	dobj
+6	using	use	VBG	_	3	xcomp
+7	an	a	DT	_	9	det
+8	odoff	odoff	JJ	_	9	amod
+9	controller	controller	NN	_	6	dobj
+10	and	and	CC	_	9	cc
+11	T2	t2	NN	_	9	conj
+12	as	as	IN	_	6	prep
+13	temperature	temperature	NN	_	14	nn
+14	reference	reference	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	an	a	DT	_	5	det
+4	the	the	DT	_	5	det
+5	outrage	outrage	NN	_	2	nsubj
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	sexism	sexism	NN	_	9	nn
+9	crusaders	crusader	NNS	_	6	pobj
+10	.	.	.	_	2	punct
+

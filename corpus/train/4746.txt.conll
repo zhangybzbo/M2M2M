@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	remote	remote	JJ	_	3	amod
+3	slope	slope	NN	_	16	nsubj
+4	of	of	IN	_	3	prep
+5	Nevado	Nevado	NNP	_	6	nn
+6	Mismi	Mismi	NNP	_	4	pobj
+7	,	,	,	_	6	punct
+8	a	a	DT	_	11	det
+9	5316	5316	CD	_	11	num
+10	m	m	NN	_	11	nn
+11	peak	peak	NN	_	6	appos
+12	,	,	,	_	6	punct
+13	is	be	VBZ	_	16	cop
+14	the	the	DT	_	16	det
+15	ultimate	ultimate	JJ	_	16	amod
+16	source	source	NN	_	0	ROOT
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	river	river	NN	_	17	pobj
+20	.	.	.	_	16	punct
+

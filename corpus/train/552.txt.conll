@@ -1,0 +1,8 @@
+1	Two	two	CD	_	2	num
+2	prices	price	NNS	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	hotel	hotel	NN	_	4	pobj
+7	.	.	.	_	3	punct
+

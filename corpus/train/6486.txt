@@ -1,0 +1,1 @@
+The transmitter sends a radio signal to the doorbell radio receiver inside the building .

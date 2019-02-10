@@ -1,0 +1,26 @@
+1	He	he	PRP	_	2	nsubj
+2	held	hold	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	vessel	vessel	NN	_	2	dobj
+5	with	with	IN	_	2	prep
+6	his	he	PRP$	_	8	poss
+7	right	right	JJ	_	8	amod
+8	hand	hand	NN	_	5	pobj
+9	and	and	CC	_	2	cc
+10	poured	pour	VBD	_	2	conj
+11	water	water	NN	_	10	dobj
+12	into	into	IN	_	10	prep
+13	his	he	PRP$	_	15	poss
+14	left	left	JJ	_	15	amod
+15	hand	hand	NN	_	12	pobj
+16	,	,	,	_	2	punct
+17	and	and	CC	_	2	cc
+18	washed	wash	VBD	_	2	conj
+19	his	he	PRP$	_	20	poss
+20	hands	hand	NNS	_	18	dobj
+21	up	up	IN	_	18	prep
+22	to	to	TO	_	21	pcomp
+23	the	the	DT	_	24	det
+24	wrist	wrist	NN	_	22	pobj
+25	.	.	.	_	2	punct
+

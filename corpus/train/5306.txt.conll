@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	concerns	concern	NNS	_	6	nsubj
+3	over	over	IN	_	2	prep
+4	security	security	NN	_	3	pobj
+5	has	have	VBZ	_	6	aux
+6	moved	move	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	boardrooms	boardroom	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

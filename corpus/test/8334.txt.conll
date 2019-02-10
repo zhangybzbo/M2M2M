@@ -1,0 +1,24 @@
+1	I	I	PRP	_	4	nsubj
+2	wo	will	MD	_	4	aux
+3	n't	not	RB	_	4	neg
+4	tell	tell	VB	_	0	ROOT
+5	you	you	PRP	_	4	dobj
+6	how	how	WRB	_	7	advmod
+7	much	much	JJ	_	8	amod
+8	music	music	NN	_	9	nsubj
+9	means	mean	VBZ	_	4	dep
+10	now	now	RB	_	9	advmod
+11	,	,	,	_	9	punct
+12	in	in	IN	_	9	dep
+13	these	these	DT	_	14	det
+14	times	time	NNS	_	12	pobj
+15	,	,	,	_	12	punct
+16	when	when	WRB	_	19	advmod
+17	you	you	PRP	_	19	nsubj
+18	are	be	VBP	_	19	aux
+19	battling	battle	VBG	_	15	advcl
+20	depression	depression	NN	_	19	dobj
+21	from	from	IN	_	20	prep
+22	unemployment	unemployment	NN	_	21	pobj
+23	.	.	.	_	19	punct
+

@@ -1,0 +1,27 @@
+1	I	I	PRP	_	3	nsubj
+2	am	be	VBP	_	3	cop
+3	grateful	grateful	JJ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	a	a	DT	_	7	det
+6	former	former	JJ	_	7	amod
+7	editor	editor	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	Cogito	Cogito	NNP	_	8	pobj
+10	for	for	IN	_	3	prep
+11	permission	permission	NN	_	10	pobj
+12	to	to	TO	_	13	aux
+13	reproduce	reproduce	VB	_	11	vmod
+14	material	material	NN	_	13	dobj
+15	from	from	IN	_	13	prep
+16	my	my	PRP$	_	17	poss
+17	article	article	NN	_	15	pobj
+18	`	`	``	_	17	punct
+19	An	a	DT	_	20	det
+20	introduction	introduction	NN	_	17	dep
+21	to	to	TO	_	20	prep
+22	infinity	infinity	NN	_	21	pobj
+23	'	'	''	_	22	punct
+24	,	,	,	_	22	punct
+25	1992	1992	CD	_	22	dep
+26	.	.	.	_	3	punct
+

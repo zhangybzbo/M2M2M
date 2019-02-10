@@ -1,0 +1,22 @@
+1	She	she	PRP	_	2	nsubj
+2	frowned	frown	VBD	_	0	ROOT
+3	as	as	IN	_	5	mark
+4	she	she	PRP	_	5	nsubj
+5	glanced	glance	VBD	_	2	advcl
+6	around	around	RB	_	5	advmod
+7	at	at	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	huddle	huddle	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	hens	hen	NNS	_	10	pobj
+12	,	,	,	_	5	punct
+13	now	now	RB	_	14	advmod
+14	in	in	IN	_	5	prep
+15	a	a	DT	_	17	det
+16	tight	tight	JJ	_	17	amod
+17	pact	pact	NN	_	14	pobj
+18	gathered	gather	VBN	_	17	vmod
+19	near	near	IN	_	18	prep
+20	Azul	Azul	NNP	_	19	pobj
+21	.	.	.	_	2	punct
+

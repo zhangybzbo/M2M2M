@@ -1,0 +1,11 @@
+0	40	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="climate" pos="NN" nn="t1"
+8	14	tok id="t1" base="change" pos="NN" nsubj="t4"
+15	17	tok id="t2" base="be" pos="VBZ" cop="t4"
+18	21	tok id="t3" base="the" pos="DT" det="t4"
+22	27	tok id="t4" base="topic" pos="NN" ROOT="ROOT"
+28	30	tok id="t5" base="of" pos="IN" prep="t4"
+31	34	tok id="t6" base="the" pos="DT" det="t7"
+35	38	tok id="t7" base="day" pos="NN" pobj="t5"
+39	40	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

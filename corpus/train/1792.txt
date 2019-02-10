@@ -1,0 +1,1 @@
+The firing of transition T_continuous_call represents the arrival of a handoff call from neighbour cells .

@@ -1,0 +1,9 @@
+0	48	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Japan" pos="NNP" nsubj="t1"
+6	14	tok id="t1" base="inject" pos="VBD" ROOT="ROOT"
+15	20	tok id="t2" base="fund" pos="NNS" dobj="t1"
+21	25	tok id="t3" base="into" pos="IN" prep="t1"
+26	36	tok id="t4" base="struggle" pos="VBG" amod="t5"
+37	46	tok id="t5" base="company" pos="NNS" pobj="t3"
+47	48	tok id="t6" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,25 @@
+1	I	I	PRP	_	3	nsubj
+2	saw	see	VBD	_	3	aux
+3	come	come	VBN	_	0	ROOT
+4	out	out	IN	_	3	prep
+5	of	of	IN	_	4	pcomp
+6	London	London	NNP	_	5	pobj
+7	,	,	,	_	3	punct
+8	even	even	RB	_	9	advmod
+9	unto	unto	VBZ	_	3	dep
+10	the	the	DT	_	11	det
+11	presence	presence	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	prince	prince	NN	_	12	pobj
+15	,	,	,	_	14	punct
+16	a	a	DT	_	18	det
+17	great	great	JJ	_	18	amod
+18	rabble	rabble	NN	_	14	appos
+19	of	of	IN	_	18	prep
+20	mean	mean	NN	_	23	nn
+21	and	and	CC	_	20	cc
+22	light	light	JJ	_	20	conj
+23	persons	person	NNS	_	19	pobj
+24	.	.	.	_	3	punct
+

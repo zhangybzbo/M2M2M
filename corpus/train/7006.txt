@@ -1,0 +1,1 @@
+The target is semantically a tree that is constructed from elements of terminal and non-terminal nodes represented through lists and symbols .

@@ -1,0 +1,20 @@
+1	Coughing	cough	VBG	_	5	nsubj
+2	from	from	IN	_	1	prep
+3	asthma	asthma	NN	_	2	pobj
+4	is	be	VBZ	_	5	cop
+5	worse	worse	JJR	_	0	ROOT
+6	at	at	IN	_	5	prep
+7	night	night	NN	_	6	pobj
+8	or	or	CC	_	5	cc
+9	early	early	RB	_	5	conj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	morning	morning	NN	_	10	pobj
+13	,	,	,	_	5	punct
+14	making	make	VBG	_	5	vmod
+15	it	it	PRP	_	18	nsubj
+16	hard	hard	JJ	_	18	dep
+17	to	to	TO	_	18	aux
+18	sleep	sleep	VB	_	14	xcomp
+19	.	.	.	_	5	punct
+

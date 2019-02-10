@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	recommendations	recommendation	NNS	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	the	the	DT	_	7	det
+5	following	follow	VBG	_	7	amod
+6	key	key	NN	_	7	nn
+7	points	point	NNS	_	3	dobj
+8	and	and	CC	_	3	cc
+9	highlights	highlight	VBZ	_	3	conj
+10	.	.	.	_	3	punct
+

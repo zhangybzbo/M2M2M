@@ -1,0 +1,12 @@
+1	They	they	PRP	_	2	nsubj
+2	include	include	VBP	_	0	ROOT
+3	sending	send	VBG	_	2	xcomp
+4	e-mails	e-mail	NNS	_	3	dobj
+5	to	to	TO	_	6	aux
+6	remind	remind	VB	_	3	vmod
+7	customers	customer	NNS	_	6	dobj
+8	about	about	IN	_	6	prep
+9	abandoned	abandon	VBN	_	10	amod
+10	items	item	NNS	_	8	pobj
+11	.	.	.	_	2	punct
+

@@ -1,0 +1,12 @@
+0	64	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="everybody" pos="NN" nsubj="t4"
+10	12	tok id="t1" base="in" pos="IN" prep="t0"
+13	16	tok id="t2" base="the" pos="DT" det="t3"
+17	23	tok id="t3" base="region" pos="NN" pobj="t1"
+24	35	tok id="t4" base="experience" pos="VBD" ROOT="ROOT"
+36	39	tok id="t5" base="the" pos="DT" det="t6"
+40	47	tok id="t6" base="tremor" pos="NNS" dobj="t4"
+48	53	tok id="t7" base="after" pos="IN" prep="t4"
+54	62	tok id="t8" base="midnight" pos="NN" pobj="t7"
+63	64	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

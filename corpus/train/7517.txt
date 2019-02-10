@@ -1,0 +1,1 @@
+The software uses the wrong comment marks for PHP files .

@@ -1,0 +1,12 @@
+1	Alternators	alternator	NNS	_	2	nsubj
+2	generate	generate	VBP	_	0	ROOT
+3	electricity	electricity	NN	_	2	dobj
+4	by	by	IN	_	2	prep
+5	the	the	DT	_	7	det
+6	same	same	JJ	_	7	amod
+7	principle	principle	NN	_	4	pobj
+8	as	as	IN	_	7	prep
+9	DC	dc	NN	_	10	nn
+10	generators	generator	NNS	_	8	pobj
+11	.	.	.	_	2	punct
+

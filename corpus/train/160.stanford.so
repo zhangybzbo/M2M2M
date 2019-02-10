@@ -1,0 +1,13 @@
+0	58	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="there" pos="EX" expl="t4"
+6	9	tok id="t1" base="have" pos="VBZ" aux="t4"
+10	14	tok id="t2" base="be" pos="VBN" cop="t4"
+15	22	tok id="t3" base="intense" pos="JJ" amod="t4"
+23	29	tok id="t4" base="debate" pos="NN" ROOT="ROOT"
+30	34	tok id="t5" base="over" pos="IN" prep="t4"
+35	38	tok id="t6" base="the" pos="DT" det="t7"
+39	46	tok id="t7" base="circle" pos="NNS" poss="t9"
+47	48	tok id="t8" base="'" pos="POS" possessive="t7"
+49	56	tok id="t9" base="origin" pos="NNS" pobj="t5"
+57	58	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

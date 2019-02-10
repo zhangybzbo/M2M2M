@@ -1,0 +1,18 @@
+1	He	he	PRP	_	2	nsubj
+2	operated	operate	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	centrifuge	centrifuge	NN	_	2	dobj
+5	with	with	IN	_	2	prep
+6	rotors	rotor	NNS	_	5	pobj
+7	and	and	CC	_	6	cc
+8	buckets	bucket	NNS	_	6	conj
+9	which	which	WDT	_	10	nsubj
+10	show	show	VBP	_	6	rcmod
+11	signs	sign	NNS	_	10	dobj
+12	of	of	IN	_	11	prep
+13	corrosion	corrosion	NN	_	16	nn
+14	or	or	CC	_	13	cc
+15	mechanical	mechanical	JJ	_	13	conj
+16	damage	damage	NN	_	12	pobj
+17	.	.	.	_	2	punct
+

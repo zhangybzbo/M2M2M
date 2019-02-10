@@ -1,0 +1,24 @@
+1	Tongsville	Tongsville	NNP	_	2	nsubj
+2	uses	use	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	menage	menage	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	pixel	pixel	NN	_	7	nn
+7	styles	style	NNS	_	5	pobj
+8	that	that	WDT	_	11	nsubjpass
+9	are	be	VBP	_	11	auxpass
+10	best	best	RBS	_	11	advmod
+11	compared	compare	VBN	_	7	rcmod
+12	to	to	TO	_	11	prep
+13	famed	famed	JJ	_	16	amod
+14	digitally	digitally	RB	_	16	advmod
+15	designed	design	VBN	_	16	amod
+16	experiences	experience	NNS	_	12	pobj
+17	like	like	IN	_	16	prep
+18	Netbabyworld	Netbabyworld	NNP	_	17	pobj
+19	and	and	CC	_	18	cc
+20	eBoy	eBoy	NNP	_	22	poss
+21	's	's	POS	_	20	possessive
+22	eCity	ecity	NN	_	18	conj
+23	.	.	.	_	2	punct
+

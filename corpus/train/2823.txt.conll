@@ -1,0 +1,12 @@
+1	Defense	Defense	NNP	_	2	nn
+2	contracts	contract	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	awarded	award	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	region	region	NN	_	6	pobj
+9	since	since	IN	_	5	prep
+10	2005	2005	CD	_	9	pobj
+11	.	.	.	_	5	punct
+

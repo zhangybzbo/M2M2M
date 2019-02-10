@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	arrest	arrest	NN	_	3	nsubj
+3	completes	complete	VBZ	_	0	ROOT
+4	a	a	DT	_	8	det
+5	dismal	dismal	JJ	_	8	amod
+6	past	past	JJ	_	8	amod
+7	five	five	CD	_	8	num
+8	weeks	week	NNS	_	3	dobj
+9	for	for	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	25-year-old	25-year-old	JJ	_	9	pobj
+12	.	.	.	_	3	punct
+

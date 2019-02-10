@@ -1,0 +1,13 @@
+1	Dentists	dentist	NNS	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	sedation	sedation	NN	_	2	dobj
+4	in	in	IN	_	7	mark
+5	order	order	NN	_	7	dep
+6	to	to	TO	_	7	aux
+7	provide	provide	VB	_	2	advcl
+8	an	a	DT	_	11	det
+9	anxiety-free	anxiety-free	JJ	_	11	amod
+10	dental	dental	JJ	_	11	amod
+11	experience	experience	NN	_	7	dobj
+12	.	.	.	_	2	punct
+

@@ -1,0 +1,23 @@
+1	By	by	IN	_	0	ROOT
+2	foot	foot	NN	_	1	pobj
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	trail	trail	NN	_	3	pobj
+6	,	,	,	_	8	punct
+7	or	or	CC	_	8	cc
+8	by	by	IN	_	1	dep
+9	canoe	canoe	NN	_	8	pobj
+10	on	on	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	river	river	NN	_	10	pobj
+13	,	,	,	_	8	punct
+14	our	we	PRP$	_	15	poss
+15	campers	camper	NNS	_	17	nsubj
+16	have	have	VBP	_	17	aux
+17	journeyed	journey	VBN	_	8	dep
+18	into	into	IN	_	17	prep
+19	some	some	DT	_	21	det
+20	spectacular	spectacular	JJ	_	21	amod
+21	wilderness	wilderness	NN	_	18	pobj
+22	.	.	.	_	1	punct
+

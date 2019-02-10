@@ -1,0 +1,8 @@
+1	We	we	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	fairness	fairness	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	copyright	copyright	NN	_	6	nn
+6	use	use	NN	_	4	pobj
+7	.	.	.	_	2	punct
+

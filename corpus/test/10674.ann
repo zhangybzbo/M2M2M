@@ -1,0 +1,3 @@
+T1	Term 0 10	References
+T2	Term 68 75	numbers
+R1	Other Arg1:T1 Arg2:T2

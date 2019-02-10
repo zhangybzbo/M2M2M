@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	following	follow	VBG	_	3	amod
+3	regulations	regulation	NNS	_	4	nsubj
+4	govern	govern	VBP	_	0	ROOT
+5	refunds	refund	NNS	_	4	dobj
+6	available	available	JJ	_	5	amod
+7	upon	upon	IN	_	6	prep
+8	withdrawal	withdrawal	NN	_	7	pobj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	University	University	NNP	_	9	pobj
+12	or	or	CC	_	8	cc
+13	when	when	WRB	_	18	advmod
+14	other	other	JJ	_	15	amod
+15	changes	change	NNS	_	18	nsubj
+16	of	of	IN	_	15	prep
+17	status	status	NN	_	16	pobj
+18	take	take	VB	_	8	conj
+19	place	place	NN	_	18	dobj
+20	.	.	.	_	4	punct
+

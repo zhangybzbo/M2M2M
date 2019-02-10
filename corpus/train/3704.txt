@@ -1,0 +1,1 @@
+From the operating area , when the operator moves the handgrip of the master arm , the motion gets reproduced on the tong of the slave arm in the remote area .

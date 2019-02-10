@@ -1,0 +1,17 @@
+1	His	he	PRP$	_	2	poss
+2	speech	speech	NN	_	3	nsubj
+3	criticised	criticise	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	idea	idea	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	religious	religious	JJ	_	8	amod
+8	education	education	NN	_	6	pobj
+9	as	as	IN	_	3	prep
+10	a	a	DT	_	11	det
+11	journey	journey	NN	_	9	pobj
+12	around	around	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	various	various	JJ	_	15	amod
+15	religions	religion	NNS	_	12	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	mah-jongg	mah-jongg	JJ	_	3	amod
+3	set	set	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	trunk	trunk	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	attic	attic	NN	_	8	pobj
+11	all	all	DT	_	19	dep
+12	through	through	IN	_	11	prep
+13	my	my	PRP$	_	14	poss
+14	childhood	childhood	NN	_	12	pobj
+15	,	,	,	_	11	punct
+16	then	then	RB	_	18	advmod
+17	the	the	DT	_	18	det
+18	trunk	trunk	NN	_	19	nsubj
+19	was	be	VBD	_	4	ccomp
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	garage	garage	NN	_	20	pobj
+23	for	for	IN	_	19	prep
+24	ten	ten	CD	_	25	num
+25	years	year	NNS	_	23	pobj
+26	.	.	.	_	4	punct
+

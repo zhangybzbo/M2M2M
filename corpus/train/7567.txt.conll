@@ -1,0 +1,19 @@
+1	It	it	PRP	_	3	nsubj
+2	often	often	RB	_	3	advmod
+3	becomes	become	VBZ	_	0	ROOT
+4	necessary	necessary	JJ	_	3	acomp
+5	to	to	TO	_	6	aux
+6	delete	delete	VB	_	4	xcomp
+7	objects	object	NNS	_	6	dobj
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	chart	chart	NN	_	8	pobj
+11	during	during	IN	_	6	prep
+12	the	the	DT	_	13	det
+13	course	course	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	monitoring	monitor	VBG	_	14	pcomp
+16	system	system	NN	_	17	nn
+17	performance	performance	NN	_	15	dobj
+18	.	.	.	_	3	punct
+

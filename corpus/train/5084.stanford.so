@@ -1,0 +1,10 @@
+0	32	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t1"
+2	8	tok id="t1" base="judge" pos="VBD" ROOT="ROOT"
+9	12	tok id="t2" base="the" pos="DT" det="t3"
+13	17	tok id="t3" base="book" pos="NN" dobj="t1"
+18	20	tok id="t4" base="by" pos="IN" prep="t1"
+21	24	tok id="t5" base="the" pos="DT" det="t6"
+25	30	tok id="t6" base="cover" pos="NN" pobj="t4"
+31	32	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

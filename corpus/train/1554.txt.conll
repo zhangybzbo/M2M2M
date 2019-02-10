@@ -1,0 +1,23 @@
+1	Extensive	extensive	JJ	_	2	amod
+2	references	reference	NNS	_	6	nsubj
+3	to	to	TO	_	2	prep
+4	scientific	scientific	JJ	_	5	amod
+5	literature	literature	NN	_	3	pobj
+6	form	form	VBP	_	0	ROOT
+7	an	a	DT	_	9	det
+8	important	important	JJ	_	9	amod
+9	part	part	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	each	each	DT	_	12	det
+12	monograph	monograph	NN	_	10	pobj
+13	and	and	CC	_	6	cc
+14	over	over	IN	_	15	quantmod
+15	1800	1800	CD	_	17	num
+16	new	new	JJ	_	17	amod
+17	citations	citation	NNS	_	18	nsubj
+18	appear	appear	VBP	_	6	conj
+19	in	in	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	book	book	NN	_	19	pobj
+22	.	.	.	_	6	punct
+

@@ -1,0 +1,26 @@
+1	In	in	IN	_	0	ROOT
+2	48	48	CD	_	3	num
+3	%	%	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	divorces	divorce	NNS	_	4	pobj
+7	,	,	,	_	10	punct
+8	the	the	DT	_	10	det
+9	kinship	kinship	NN	_	10	nn
+10	systems	system	NNS	_	1	dep
+11	of	of	IN	_	10	prep
+12	grandparents	grandparent	NNS	_	11	pobj
+13	expanded	expand	VBN	_	10	vmod
+14	with	with	IN	_	13	prep
+15	divorce	divorce	NN	_	14	pobj
+16	through	through	IN	_	13	prep
+17	one	one	CD	_	16	pobj
+18	or	or	CC	_	17	cc
+19	more	more	JJR	_	17	conj
+20	of	of	IN	_	17	prep
+21	the	the	DT	_	20	pobj
+22	following	follow	VBG	_	21	prep
+23	four	four	CD	_	24	num
+24	processes	process	NNS	_	22	pobj
+25	.	.	.	_	10	punct
+

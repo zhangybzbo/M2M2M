@@ -1,0 +1,16 @@
+1	In	in	IN	_	12	prep
+2	North	North	NNP	_	3	nn
+3	America	America	NNP	_	1	pobj
+4	,	,	,	_	12	punct
+5	about	about	IN	_	6	quantmod
+6	58	58	CD	_	7	num
+7	percent	percent	NN	_	12	nsubjpass
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	wildfires	wildfire	NNS	_	8	pobj
+11	are	be	VBP	_	12	auxpass
+12	caused	cause	VBN	_	0	ROOT
+13	by	by	IN	_	12	prep
+14	humans	human	NNS	_	13	pobj
+15	.	.	.	_	12	punct
+

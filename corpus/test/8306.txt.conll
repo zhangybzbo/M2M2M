@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj
+2	read	read	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	report	report	NN	_	2	dobj
+5	from	from	IN	_	4	prep
+6	Somalia	Somalia	NNP	_	5	pobj
+7	on	on	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	agreement	agreement	NN	_	7	pobj
+10	reached	reach	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	faction	faction	NN	_	13	nn
+13	leaders	leader	NNS	_	11	pobj
+14	on	on	IN	_	10	prep
+15	the	the	DT	_	16	det
+16	form	form	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	a	a	DT	_	20	det
+19	future	future	JJ	_	20	amod
+20	government	government	NN	_	17	pobj
+21	that	that	WDT	_	25	nsubjpass
+22	has	have	VBZ	_	25	aux
+23	been	be	VBN	_	25	auxpass
+24	warmly	warmly	RB	_	25	advmod
+25	welcomed	welcome	VBN	_	20	rcmod
+26	.	.	.	_	2	punct
+

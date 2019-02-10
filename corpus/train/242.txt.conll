@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	map	map	NN	_	6	nsubj
+3	to	to	TO	_	2	prep
+4	the	the	DT	_	5	det
+5	left	left	NN	_	3	pobj
+6	shows	show	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	snapshot	snapshot	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	weather	weather	NN	_	11	nn
+11	conditions	condition	NNS	_	9	pobj
+12	in	in	IN	_	11	prep
+13	selected	select	VBN	_	14	amod
+14	towns	town	NNS	_	12	pobj
+15	across	across	IN	_	14	prep
+16	Italy	Italy	NNP	_	15	pobj
+17	.	.	.	_	6	punct
+

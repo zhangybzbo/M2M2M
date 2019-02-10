@@ -1,0 +1,11 @@
+1	Germs	germ	NNS	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	microscopic	microscopic	JJ	_	4	amod
+4	organisms	organism	NNS	_	0	ROOT
+5	that	that	WDT	_	6	nsubj
+6	cause	cause	VBP	_	4	rcmod
+7	sickness	sickness	NN	_	6	dobj
+8	or	or	CC	_	7	cc
+9	disease	disease	NN	_	7	conj
+10	.	.	.	_	4	punct
+

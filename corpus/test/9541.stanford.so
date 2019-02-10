@@ -1,0 +1,13 @@
+0	66	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="member" pos="NNS" nsubj="t3"
+8	11	tok id="t1" base="be" pos="VBP" cop="t3"
+12	21	tok id="t2" base="primarily" pos="RB" advmod="t3"
+22	32	tok id="t3" base="interested" pos="JJ" ROOT="ROOT"
+33	35	tok id="t4" base="in" pos="IN" prep="t3"
+36	42	tok id="t5" base="issue" pos="NNS" pobj="t4"
+43	50	tok id="t6" base="relate" pos="VBN" vmod="t5"
+51	53	tok id="t7" base="to" pos="TO" prep="t6"
+54	60	tok id="t8" base="family" pos="NN" nn="t9"
+61	64	tok id="t9" base="law" pos="NN" pobj="t7"
+65	66	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

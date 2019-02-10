@@ -1,0 +1,10 @@
+1	Recent	recent	JJ	_	3	amod
+2	global	global	JJ	_	3	amod
+3	warming	warming	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	thrown	throw	VBN	_	0	ROOT
+6	nature	nature	NN	_	5	dobj
+7	into	into	IN	_	5	prep
+8	disarray	disarray	NN	_	7	pobj
+9	.	.	.	_	5	punct
+

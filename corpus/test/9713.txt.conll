@@ -1,0 +1,11 @@
+1	Flapping	flap	VBG	_	0	ROOT
+2	with	with	IN	_	1	prep
+3	his	he	PRP$	_	4	poss
+4	wings	wing	NNS	_	2	pobj
+5	the	the	DT	_	6	det
+6	duckling	duckling	NN	_	1	dobj
+7	quacked	quack	VBN	_	6	vmod
+8	for	for	IN	_	7	prep
+9	joy	joy	NN	_	8	pobj
+10	.	.	.	_	1	punct
+

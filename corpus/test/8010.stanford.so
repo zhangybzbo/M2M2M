@@ -1,0 +1,12 @@
+0	69	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	11	tok id="t1" base="thesis" pos="NN" nsubj="t2"
+12	19	tok id="t2" base="define" pos="VBZ" ROOT="ROOT"
+20	23	tok id="t3" base="the" pos="DT" det="t5"
+24	32	tok id="t4" base="clinical" pos="JJ" amod="t5"
+33	48	tok id="t5" base="characteristic" pos="NNS" dobj="t2"
+49	51	tok id="t6" base="of" pos="IN" prep="t5"
+52	59	tok id="t7" base="amyloid" pos="NN" nn="t8"
+60	67	tok id="t8" base="disease" pos="NN" pobj="t6"
+68	69	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,20 @@
+1	Okay	okay	UH	_	11	discourse
+2	,	,	,	_	11	punct
+3	after	after	IN	_	11	prep
+4	a	a	DT	_	5	det
+5	discussion	discussion	NN	_	3	pobj
+6	with	with	IN	_	5	prep
+7	my	my	PRP$	_	8	poss
+8	husband	husband	NN	_	6	pobj
+9	we	we	PRP	_	11	nsubj
+10	have	have	VBP	_	11	aux
+11	decided	decide	VBN	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	work	work	VB	_	11	xcomp
+14	on	on	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	emergency	emergency	NN	_	17	nn
+17	fund	fund	NN	_	14	pobj
+18	first	first	RB	_	13	advmod
+19	.	.	.	_	11	punct
+

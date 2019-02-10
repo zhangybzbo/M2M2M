@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	slow	slow	JJ	_	3	amod
+3	suffocation	suffocation	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	cells	cell	NNS	_	4	pobj
+7	swiftly	swiftly	RB	_	8	advmod
+8	cause	cause	VBP	_	0	ROOT
+9	unconsciousness	unconsciousness	NN	_	8	dobj
+10	and	and	CC	_	9	cc
+11	shock	shock	NN	_	9	conj
+12	,	,	,	_	8	punct
+13	soon	soon	RB	_	14	advmod
+14	followed	follow	VBN	_	8	vmod
+15	by	by	IN	_	14	prep
+16	death	death	NN	_	15	pobj
+17	.	.	.	_	8	punct
+

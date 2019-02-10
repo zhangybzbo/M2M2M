@@ -1,0 +1,25 @@
+1	A	a	DT	_	3	det
+2	Western	western	JJ	_	3	amod
+3	journalist	journalist	NN	_	4	nsubj
+4	took	take	VBD	_	0	ROOT
+5	an	a	DT	_	6	det
+6	assignment	assignment	NN	_	4	dobj
+7	from	from	IN	_	6	prep
+8	his	he	PRP$	_	9	poss
+9	newspaper	newspaper	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	office	office	NN	_	7	pobj
+12	for	for	IN	_	11	prep
+13	visiting	visit	VBG	_	12	pcomp
+14	Pakistan	Pakistan	NNP	_	13	dobj
+15	and	and	CC	_	13	cc
+16	filing	file	VBG	_	13	conj
+17	exclusive	exclusive	JJ	_	18	amod
+18	reports	report	NNS	_	16	dobj
+19	on	on	IN	_	18	prep
+20	the	the	DT	_	23	det
+21	current	current	JJ	_	23	amod
+22	nuclear	nuclear	JJ	_	23	amod
+23	issue	issue	NN	_	19	pobj
+24	.	.	.	_	4	punct
+

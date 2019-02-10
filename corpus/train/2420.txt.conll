@@ -1,0 +1,18 @@
+1	Peg	Peg	NNP	_	2	nn
+2	bags	bag	NNS	_	7	nsubj
+3	are	be	VBP	_	7	cop
+4	the	the	DT	_	7	det
+5	medium	medium	NN	_	7	nn
+6	sized	size	VBN	_	7	amod
+7	bags	bag	NNS	_	0	ROOT
+8	that	that	IN	_	9	nsubj
+9	hang	hang	VBP	_	7	rcmod
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	candy	candy	NN	_	13	nn
+13	isle	isle	NN	_	10	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	store	store	NN	_	14	pobj
+17	.	.	.	_	7	punct
+

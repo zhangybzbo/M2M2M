@@ -1,0 +1,13 @@
+1	Eggs	Eggs	NNP	_	2	nsubj
+2	come	come	VBN	_	0	ROOT
+3	out	out	IN	_	2	prep
+4	of	of	IN	_	3	pcomp
+5	the	the	DT	_	6	det
+6	female	female	NN	_	8	poss
+7	's	's	POS	_	6	possessive
+8	body	body	NN	_	4	pobj
+9	through	through	IN	_	2	prep
+10	the	the	DT	_	11	det
+11	ovipositor	ovipositor	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

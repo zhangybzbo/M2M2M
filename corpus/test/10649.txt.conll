@@ -1,0 +1,16 @@
+1	Sequence	sequence	NN	_	2	nn
+2	analysis	analysis	NN	_	3	nsubj
+3	showed	show	VBD	_	0	ROOT
+4	that	that	IN	_	8	mark
+5	the	the	DT	_	6	det
+6	fragment	fragment	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	generated	generate	VBN	_	3	ccomp
+9	from	from	IN	_	8	prep
+10	an	a	DT	_	14	det
+11	intron-containing	intron-containing	JJ	_	14	amod
+12	thymosin	thymosin	NN	_	14	nn
+13	B15	b15	NN	_	14	nn
+14	gene	gene	NN	_	9	pobj
+15	.	.	.	_	3	punct
+

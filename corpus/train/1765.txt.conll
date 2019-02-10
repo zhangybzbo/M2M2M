@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	addition	addition	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	water	water	NN	_	3	pobj
+5	to	to	TO	_	2	prep
+6	the	the	DT	_	7	det
+7	tank	tank	NN	_	5	pobj
+8	caused	cause	VBD	_	0	ROOT
+9	a	a	DT	_	12	det
+10	runaway	runaway	JJ	_	12	amod
+11	chemical	chemical	NN	_	12	nn
+12	reaction	reaction	NN	_	8	dobj
+13	,	,	,	_	8	punct
+14	resulting	result	VBG	_	8	vmod
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	rapid	rapid	JJ	_	18	amod
+18	rise	rise	NN	_	15	pobj
+19	in	in	IN	_	18	prep
+20	pressure	pressure	NN	_	19	pobj
+21	and	and	CC	_	20	cc
+22	temperature	temperature	NN	_	20	conj
+23	.	.	.	_	8	punct
+

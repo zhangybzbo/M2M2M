@@ -1,0 +1,27 @@
+1	Adler	Adler	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	belief	belief	NN	_	10	nsubj
+4	in	in	IN	_	3	prep
+5	human	human	JJ	_	6	amod
+6	teleology	teleology	NN	_	4	pobj
+7	was	be	VBD	_	10	cop
+8	a	a	DT	_	10	det
+9	radical	radical	JJ	_	10	amod
+10	departure	departure	NN	_	0	ROOT
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	16	det
+13	``	``	``	_	16	punct
+14	cause-and-effect	cause-and-effect	JJ	_	16	amod
+15	''	''	''	_	16	punct
+16	determinism	determinism	NN	_	11	pobj
+17	of	of	IN	_	16	prep
+18	science	science	NN	_	17	pobj
+19	at	at	IN	_	10	prep
+20	the	the	DT	_	21	det
+21	beginning	beginning	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	20th	20th	JJ	_	25	amod
+25	century	century	NN	_	22	pobj
+26	.	.	.	_	10	punct
+

@@ -1,0 +1,1 @@
+This concept uses a servo embedded in a wallet , which rotates its arm from parallel to perpendicular to the wallet surface .

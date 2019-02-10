@@ -1,0 +1,3 @@
+T1	Term 9 17	decision
+T2	Term 18 23	maker
+R1	Product-Producer Arg1:T1 Arg2:T2

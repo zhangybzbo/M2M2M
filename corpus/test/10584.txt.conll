@@ -1,0 +1,19 @@
+1	We	we	PRP	_	3	nsubj
+2	already	already	RB	_	3	advmod
+3	know	know	VBP	_	0	ROOT
+4	ignorance	ignorance	NN	_	13	nsubj
+5	,	,	,	_	4	punct
+6	heat	heat	NN	_	4	conj
+7	,	,	,	_	4	punct
+8	boredom	boredom	NN	_	4	conj
+9	,	,	,	_	4	punct
+10	greed	greed	NN	_	4	conj
+11	and	and	CC	_	4	cc
+12	poverty	poverty	NN	_	4	conj
+13	cause	cause	VBP	_	3	ccomp
+14	violence	violence	NN	_	13	dobj
+15	even	even	RB	_	16	advmod
+16	in	in	IN	_	13	prep
+17	the	the	DT	_	18	det
+18	U.S.	U.S.	NNP	_	16	pobj
+

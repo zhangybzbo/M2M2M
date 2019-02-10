@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	script	script	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	written	write	VBN	_	0	ROOT
+5	describing	describe	VBG	_	4	xcomp
+6	the	the	DT	_	8	det
+7	initial	initial	JJ	_	8	amod
+8	situation	situation	NN	_	5	dobj
+9	,	,	,	_	4	punct
+10	with	with	IN	_	13	mark
+11	ongoing	ongoing	JJ	_	12	amod
+12	scenarios	scenario	NNS	_	13	nsubj
+13	developed	develop	VBD	_	4	advcl
+14	containing	contain	VBG	_	13	xcomp
+15	essential	essential	JJ	_	16	amod
+16	actions	action	NNS	_	14	dobj
+17	.	.	.	_	4	punct
+

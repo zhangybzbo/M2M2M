@@ -1,0 +1,12 @@
+1	Coast	Coast	NNP	_	2	nn
+2	guard	guard	NN	_	3	nsubj
+3	participates	participate	VBZ	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	Veterans	Veterans	NNP	_	8	nn
+6	Day	Day	NNP	_	8	nn
+7	observance	observance	NN	_	8	nn
+8	ceremony	ceremony	NN	_	4	pobj
+9	in	in	IN	_	8	prep
+10	Juneau	Juneau	NNP	_	9	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,24 @@
+1	Our	we	PRP$	_	2	poss
+2	procedure	procedure	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	applicable	applicable	JJ	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	8	det
+7	wide	wide	JJ	_	8	amod
+8	variety	variety	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	problems	problem	NNS	_	9	pobj
+11	in	in	IN	_	16	prep
+12	which	which	WDT	_	11	pobj
+13	an	a	DT	_	15	det
+14	order	order	NN	_	15	nn
+15	parameter	parameter	NN	_	16	nsubj
+16	departs	depart	VBZ	_	10	rcmod
+17	spontaneously	spontaneously	RB	_	16	advmod
+18	from	from	IN	_	16	prep
+19	an	a	DT	_	22	det
+20	unstable	unstable	JJ	_	22	amod
+21	initial	initial	JJ	_	22	amod
+22	value	value	NN	_	18	pobj
+23	.	.	.	_	4	punct
+

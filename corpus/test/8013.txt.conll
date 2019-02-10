@@ -1,0 +1,9 @@
+1	NASA	NASA	NNP	_	3	nn
+2	Kepler	Kepler	NNP	_	3	nn
+3	mission	mission	NN	_	4	nsubj
+4	sends	send	VBZ	_	0	ROOT
+5	names	name	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	space	space	NN	_	6	pobj
+8	.	.	.	_	4	punct
+

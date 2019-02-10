@@ -1,0 +1,20 @@
+1	Other	other	JJ	_	3	amod
+2	tree	tree	NN	_	3	nn
+3	species	species	NNS	_	11	nsubj
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	Gabonese	gabonese	JJ	_	7	amod
+7	forest	forest	NN	_	4	pobj
+8	are	be	VBP	_	11	cop
+9	much	much	RB	_	10	advmod
+10	more	more	RBR	_	11	advmod
+11	liable	liable	JJ	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	burn	burn	VB	_	11	xcomp
+14	,	,	,	_	13	punct
+15	particularly	particularly	RB	_	16	advmod
+16	Burseraceae	Burseraceae	NNP	_	13	dobj
+17	such	such	JJ	_	18	mwe
+18	as	as	IN	_	16	prep
+19	.	.	.	_	11	punct
+

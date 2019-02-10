@@ -1,0 +1,20 @@
+1	I	I	PRP	_	4	nsubj
+2	too	too	RB	_	4	advmod
+3	,	,	,	_	4	punct
+4	get	get	VB	_	0	ROOT
+5	a	a	DT	_	6	det
+6	headache	headache	NN	_	4	dobj
+7	from	from	IN	_	6	prep
+8	wine	wine	NN	_	7	pobj
+9	,	,	,	_	4	punct
+10	and	and	CC	_	4	cc
+11	was	be	VBD	_	13	auxpass
+12	always	always	RB	_	13	advmod
+13	told	tell	VBN	_	4	conj
+14	that	that	IN	_	18	mark
+15	it	it	PRP	_	18	nsubj
+16	was	be	VBD	_	18	cop
+17	the	the	DT	_	18	det
+18	sulfites	sulfite	NNS	_	13	ccomp
+19	.	.	.	_	4	punct
+

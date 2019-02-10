@@ -1,0 +1,24 @@
+1	The	the	DT	_	6	det
+2	Jackson	Jackson	NNP	_	6	nn
+3	County	County	NNP	_	6	nn
+4	court	court	NN	_	6	nn
+5	case	case	NN	_	6	nn
+6	files	file	NNS	_	12	nsubjpass
+7	from	from	IN	_	6	prep
+8	that	that	DT	_	9	det
+9	date	date	NN	_	7	pobj
+10	have	have	VBP	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	lost	lose	VBN	_	0	ROOT
+13	,	,	,	_	12	punct
+14	and	and	CC	_	12	cc
+15	the	the	DT	_	16	det
+16	entries	entry	NNS	_	22	nsubj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	Judgement	Judgement	NNP	_	20	nn
+20	Book	Book	NNP	_	17	pobj
+21	are	be	VBP	_	22	cop
+22	ambiguous	ambiguous	JJ	_	12	conj
+23	.	.	.	_	12	punct
+

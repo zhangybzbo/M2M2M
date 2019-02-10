@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	stress	stress	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	electoral	electoral	JJ	_	3	pobj
+5	defeats	defeat	VBZ	_	0	ROOT
+6	exposed	expose	VBN	_	5	dep
+7	Mr.	Mr.	NNP	_	8	nn
+8	Hoyte	Hoyte	NNP	_	6	dobj
+9	to	to	TO	_	6	prep
+10	opposite	opposite	JJ	_	11	amod
+11	pressures	pressure	NNS	_	9	pobj
+12	within	within	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	constituency	constituency	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	his	he	PRP$	_	17	poss
+17	supporters	supporter	NNS	_	15	pobj
+18	.	.	.	_	5	punct
+

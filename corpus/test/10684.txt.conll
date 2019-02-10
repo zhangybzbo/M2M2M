@@ -1,0 +1,9 @@
+1	Brandy	brandy	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	distilled	distil	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	fermented	fermented	JJ	_	7	amod
+6	fruit	fruit	NN	_	7	nn
+7	juices	juice	NNS	_	4	pobj
+8	.	.	.	_	3	punct
+

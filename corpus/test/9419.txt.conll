@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	album	album	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	not	not	RB	_	6	neg
+5	only	only	RB	_	6	advmod
+6	songs	song	NNS	_	3	dobj
+7	but	but	CC	_	6	cc
+8	also	also	RB	_	9	advmod
+9	spoken	speak	VBN	_	6	conj
+10	parts	part	NNS	_	12	nn
+11	narrating	narrate	VBG	_	12	amod
+12	parts	part	NNS	_	9	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	story	story	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

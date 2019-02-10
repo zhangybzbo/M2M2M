@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	gas	gas	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	blown	blow	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	molten	molten	JJ	_	8	amod
+8	metal	metal	NN	_	5	pobj
+9	through	through	IN	_	4	prep
+10	a	a	DT	_	13	det
+11	gas	gas	NN	_	13	nn
+12	blast	blast	NN	_	13	nn
+13	nozzle	nozzle	NN	_	9	pobj
+14	in	in	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	refining	refining	NN	_	17	nn
+17	furnace	furnace	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

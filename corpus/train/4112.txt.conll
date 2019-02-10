@@ -1,0 +1,14 @@
+1	In	in	IN	_	8	prep
+2	the	the	DT	_	4	det
+3	next	next	JJ	_	4	amod
+4	step	step	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	chef	chef	NN	_	8	nsubj
+8	added	add	VBD	_	0	ROOT
+9	sugar	sugar	NN	_	8	dobj
+10	into	into	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	mix	mix	NN	_	10	pobj
+13	.	.	.	_	8	punct
+

@@ -1,0 +1,10 @@
+0	45	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="these" pos="DT" det="t1"
+6	13	tok id="t1" base="species" pos="NNS" nsubj="t2"
+14	22	tok id="t2" base="migrate" pos="VBD" ROOT="ROOT"
+23	27	tok id="t3" base="into" pos="IN" prep="t2"
+28	31	tok id="t4" base="the" pos="DT" det="t6"
+32	38	tok id="t5" base="fallow" pos="JJ" amod="t6"
+39	43	tok id="t6" base="land" pos="NN" pobj="t3"
+44	45	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	Piedmont	Piedmont	NNP	_	3	nn
+3	area	area	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	Italy	Italy	NNP	_	4	pobj
+6	is	be	VBZ	_	8	cop
+7	wine	wine	NN	_	8	nn
+8	country	country	NN	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	is	be	VBZ	_	11	auxpass
+11	noted	note	VBN	_	8	conj
+12	for	for	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	merits	merit	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	wine	wine	NN	_	15	pobj
+18	produced	produce	VBN	_	17	vmod
+19	by	by	IN	_	18	prep
+20	its	its	PRP$	_	21	poss
+21	vintners	vintner	NNS	_	19	pobj
+22	.	.	.	_	8	punct
+

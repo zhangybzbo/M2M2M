@@ -1,0 +1,22 @@
+1	During	during	IN	_	6	prep
+2	a	a	DT	_	3	det
+3	dribble	dribble	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	dribbler	dribbler	NN	_	6	nsubj
+6	keeps	keep	VBZ	_	0	ROOT
+7	the	the	DT	_	8	det
+8	ball	ball	NN	_	6	dobj
+9	on	on	IN	_	6	prep
+10	the	the	DT	_	11	det
+11	side	side	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	his	he	PRP$	_	14	poss
+14	body	body	NN	_	12	pobj
+15	that	that	WDT	_	16	nsubj
+16	is	be	VBZ	_	11	rcmod
+17	away	away	RB	_	16	advmod
+18	from	from	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	defender	defender	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

@@ -1,0 +1,16 @@
+1	PlanetCAD	planetcad	NN	_	2	nsubj
+2	offers	offer	VBZ	_	0	ROOT
+3	the	the	DT	_	5	det
+4	best	best	JJS	_	5	amod
+5	tools	tool	NNS	_	2	dobj
+6	for	for	IN	_	5	prep
+7	engineers	engineer	NNS	_	6	pobj
+8	and	and	CC	_	2	cc
+9	now	now	RB	_	13	advmod
+10	the	the	DT	_	12	det
+11	whole	whole	JJ	_	12	amod
+12	industry	industry	NN	_	13	nsubj
+13	is	be	VBZ	_	2	conj
+14	following	follow	VBG	_	13	xcomp
+15	.	.	.	_	2	punct
+

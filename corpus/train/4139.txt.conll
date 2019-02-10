@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj
+2	saw	see	VBD	_	0	ROOT
+3	an	a	DT	_	4	det
+4	aerie	aerie	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	eleven	eleven	NNS	_	7	nn
+7	eagles	eagle	NNS	_	5	pobj
+8	soaring	soar	VBG	_	7	vmod
+9	majestically	majestically	RB	_	8	advmod
+10	alongside	alongside	IN	_	8	prep
+11	us	we	PRP	_	10	pobj
+12	on	on	IN	_	8	prep
+13	the	the	DT	_	14	det
+14	heights	height	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	Monte	Monte	NNP	_	17	nn
+17	Espino	Espino	NNP	_	15	pobj
+18	.	.	.	_	2	punct
+

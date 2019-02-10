@@ -1,0 +1,9 @@
+1	Seacrest	Seacrest	NNP	_	2	nn
+2	students	student	NNS	_	3	nsubj
+3	donated	donate	VBD	_	0	ROOT
+4	uniforms	uniform	NNS	_	3	dobj
+5	to	to	TO	_	3	prep
+6	Shadowlawn	shadowlawn	JJ	_	7	amod
+7	students	student	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

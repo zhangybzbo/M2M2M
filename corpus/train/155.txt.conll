@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	bacterial	bacterial	JJ	_	3	amod
+3	aerosol	aerosol	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	generated	generate	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	up-draft	up-draft	JJ	_	9	amod
+9	nebulizer	nebulizer	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

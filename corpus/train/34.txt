@@ -1,0 +1,1 @@
+It describes a method for loading a horizontal stack of containers into a carton .

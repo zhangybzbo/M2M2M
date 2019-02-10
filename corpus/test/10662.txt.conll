@@ -1,0 +1,20 @@
+1	They	they	PRP	_	2	nsubj
+2	went	go	VBD	_	0	ROOT
+3	into	into	IN	_	2	prep
+4	a	a	DT	_	7	det
+5	big	big	JJ	_	7	amod
+6	walk-in	walk-in	JJ	_	7	amod
+7	closet	closet	NN	_	3	pobj
+8	where	where	WRB	_	10	advmod
+9	there	there	EX	_	10	expl
+10	was	be	VBD	_	7	rcmod
+11	a	a	DT	_	12	det
+12	suitcase	suitcase	NN	_	10	nsubj
+13	with	with	IN	_	12	prep
+14	another	another	DT	_	16	det
+15	locked	lock	VBN	_	16	amod
+16	suitcase	suitcase	NN	_	13	pobj
+17	in	in	IN	_	10	prep
+18	it	it	PRP	_	17	pobj
+19	.	.	.	_	2	punct
+

@@ -1,0 +1,14 @@
+1	GIS	gi	NNS	_	2	nsubj
+2	revealed	reveal	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	relationship	relationship	NN	_	2	dobj
+5	between	between	IN	_	4	prep
+6	cracks	crack	NNS	_	5	pobj
+7	caused	cause	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	earthquakes	earthquake	NNS	_	8	pobj
+10	and	and	CC	_	9	cc
+11	paddy	paddy	JJ	_	12	amod
+12	fields	field	NNS	_	9	conj
+13	.	.	.	_	2	punct
+

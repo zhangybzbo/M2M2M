@@ -1,0 +1,21 @@
+1	In	in	IN	_	11	prep
+2	converting	convert	VBG	_	1	pcomp
+3	a	a	DT	_	4	det
+4	tree	tree	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	thick	thick	JJ	_	7	amod
+7	planks	plank	NNS	_	5	pobj
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	saw	saw	NN	_	11	nsubj
+11	causes	cause	VBZ	_	0	ROOT
+12	a	a	DT	_	13	det
+13	waste	waste	NN	_	11	dobj
+14	of	of	IN	_	13	prep
+15	a	a	DT	_	19	det
+16	very	very	RB	_	17	advmod
+17	small	small	JJ	_	19	amod
+18	fractional	fractional	JJ	_	19	amod
+19	part	part	NN	_	14	pobj
+20	.	.	.	_	11	punct
+

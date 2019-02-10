@@ -1,0 +1,13 @@
+0	54	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	9	tok id="t1" base="vehicle" pos="NN" nsubjpass="t4"
+10	13	tok id="t2" base="have" pos="VBZ" aux="t4"
+14	18	tok id="t3" base="be" pos="VBN" auxpass="t4"
+19	28	tok id="t4" base="deliver" pos="VBN" ROOT="ROOT"
+29	31	tok id="t5" base="to" pos="TO" prep="t4"
+32	35	tok id="t6" base="the" pos="DT" det="t7"
+36	44	tok id="t7" base="premise" pos="NNS" pobj="t5"
+45	47	tok id="t8" base="of" pos="IN" prep="t7"
+48	52	tok id="t9" base="ead" pos="NNS" pobj="t8"
+53	54	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

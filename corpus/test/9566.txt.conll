@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	rich	rich	JJ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	social	social	JJ	_	7	amod
+7	history	history	NN	_	5	pobj
+8	as	as	IN	_	4	prep
+9	More	more	JJR	_	10	amod
+10	traces	trace	NNS	_	8	pobj
+11	the	the	DT	_	12	det
+12	origins	origin	NNS	_	10	dep
+13	and	and	CC	_	12	cc
+14	subsequent	subsequent	JJ	_	15	amod
+15	careers	career	NNS	_	12	conj
+16	of	of	IN	_	12	prep
+17	numerous	numerous	JJ	_	18	amod
+18	students	student	NNS	_	16	pobj
+19	and	and	CC	_	18	cc
+20	the	the	DT	_	21	det
+21	experiences	experience	NNS	_	18	conj
+22	of	of	IN	_	21	prep
+23	numerous	numerous	JJ	_	24	amod
+24	faculty	faculty	NN	_	22	pobj
+25	.	.	.	_	4	punct
+

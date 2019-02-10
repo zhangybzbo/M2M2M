@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="donate" pos="VBN" amod="t2"
+12	17	tok id="t2" base="money" pos="NN" nsubj="t3"
+18	23	tok id="t3" base="flow" pos="VBZ" ROOT="ROOT"
+24	28	tok id="t4" base="into" pos="IN" prep="t3"
+29	32	tok id="t5" base="the" pos="DT" det="t8"
+33	38	tok id="t6" base="quake" pos="NN" nn="t8"
+39	47	tok id="t7" base="recovery" pos="NN" nn="t8"
+48	56	tok id="t8" base="project" pos="NNS" pobj="t4"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

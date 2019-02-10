@@ -1,0 +1,16 @@
+1	Mark	Mark	NNP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	spoke	speak	VBD	_	0	ROOT
+4	about	about	IN	_	3	prep
+5	post-September	post-September	NNP	_	8	nn
+6	11	11	CD	_	8	num
+7	civil	civil	JJ	_	8	amod
+8	rights	rights	NNS	_	4	pobj
+9	and	and	CC	_	8	cc
+10	civil	civil	JJ	_	12	amod
+11	liberties	liberty	NNS	_	12	nn
+12	issues	issue	NNS	_	8	conj
+13	facing	face	VBG	_	8	vmod
+14	immigrants	immigrant	NNS	_	13	dobj
+15	.	.	.	_	3	punct
+

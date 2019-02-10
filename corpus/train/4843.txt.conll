@@ -1,0 +1,22 @@
+1	This	this	DT	_	3	det
+2	self-help	self-help	JJ	_	3	amod
+3	book	book	NN	_	15	nsubj
+4	,	,	,	_	3	punct
+5	written	write	VBN	_	3	vmod
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	man	man	NN	_	6	pobj
+9	for	for	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	benefit	benefit	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	women	woman	NNS	_	12	pobj
+14	,	,	,	_	3	punct
+15	seems	seem	VBZ	_	0	ROOT
+16	to	to	TO	_	18	aux
+17	be	be	VB	_	18	aux
+18	dividing	divide	VBG	_	15	xcomp
+19	reader	reader	NN	_	20	nn
+20	opinion	opinion	NN	_	18	dobj
+21	.	.	.	_	15	punct
+

@@ -1,0 +1,13 @@
+0	57	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="milk" pos="NN" nn="t1"
+5	12	tok id="t1" base="sample" pos="NNS" nsubjpass="t3"
+13	17	tok id="t2" base="be" pos="VBD" auxpass="t3"
+18	26	tok id="t3" base="obtain" pos="VBN" ROOT="ROOT"
+27	31	tok id="t4" base="from" pos="IN" prep="t3"
+32	35	tok id="t5" base="one" pos="CD" num="t6"
+36	43	tok id="t6" base="milking" pos="NN" pobj="t4"
+44	46	tok id="t7" base="of" pos="IN" prep="t6"
+47	51	tok id="t8" base="each" pos="DT" det="t9"
+52	55	tok id="t9" base="cow" pos="NN" pobj="t7"
+56	57	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,18 @@
+1	An	a	DT	_	2	det
+2	icon	icon	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	small	small	JJ	_	6	amod
+6	picture	picture	NN	_	0	ROOT
+7	representing	represent	VBG	_	6	vmod
+8	a	a	DT	_	9	det
+9	file	file	NN	_	7	dobj
+10	,	,	,	_	9	punct
+11	folder	folder	NN	_	9	conj
+12	or	or	CC	_	9	cc
+13	program	program	NN	_	9	conj
+14	on	on	IN	_	9	prep
+15	your	you	PRP$	_	16	poss
+16	computer	computer	NN	_	14	pobj
+17	.	.	.	_	6	punct
+

@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Interior" pos="NNP" nn="t1"
+9	14	tok id="t1" base="chief" pos="NN" nsubj="t2"
+15	19	tok id="t2" base="add" pos="VBZ" ROOT="ROOT"
+20	27	tok id="t3" base="hurdle" pos="NNS" dobj="t2"
+28	31	tok id="t4" base="for" pos="IN" prep="t3"
+32	40	tok id="t5" base="drilling" pos="NN" pobj="t4"
+41	43	tok id="t6" base="on" pos="IN" prep="t5"
+44	50	tok id="t7" base="public" pos="JJ" amod="t8"
+51	56	tok id="t8" base="land" pos="NNS" pobj="t6"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

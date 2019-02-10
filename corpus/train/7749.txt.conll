@@ -1,0 +1,10 @@
+1	Infection	infection	NN	_	2	nsubj
+2	starts	start	VBZ	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	manual	manual	JJ	_	5	amod
+5	execution	execution	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	binary	binary	JJ	_	6	pobj
+9	.	.	.	_	2	punct
+

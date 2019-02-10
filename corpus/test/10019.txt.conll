@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	study	study	NN	_	3	nsubj
+3	focuses	focus	VBZ	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	personnel	personnel	NNS	_	4	pobj
+7	in	in	IN	_	6	prep
+8	three	three	CD	_	10	num
+9	service	service	NN	_	10	nn
+10	stations	station	NNS	_	7	pobj
+11	in	in	IN	_	10	prep
+12	Finland	Finland	NNP	_	11	pobj
+13	that	that	WDT	_	15	nsubj
+14	are	be	VBP	_	15	cop
+15	part	part	NN	_	10	rcmod
+16	of	of	IN	_	15	prep
+17	Teboil	Teboil	NNP	_	19	poss
+18	's	's	POS	_	17	possessive
+19	organisation	organisation	NN	_	16	pobj
+20	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	programme	programme	NN	_	3	nsubj
+3	begins	begin	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	UWI	UWI	NNP	_	8	nn
+7	Venture	Venture	NNP	_	8	nn
+8	competition	competition	NN	_	4	pobj
+9	which	which	WDT	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	opened	open	VBN	_	8	rcmod
+12	to	to	TO	_	11	prep
+13	final	final	JJ	_	16	amod
+14	year	year	NN	_	16	nn
+15	undergraduate	undergraduate	JJ	_	16	amod
+16	students	student	NNS	_	12	pobj
+17	,	,	,	_	19	punct
+18	graduate	graduate	JJ	_	19	amod
+19	students	student	NNS	_	3	dep
+20	and	and	CC	_	19	cc
+21	researchers	researcher	NNS	_	19	conj
+22	at	at	IN	_	19	prep
+23	the	the	DT	_	24	det
+24	UWI	UWI	NNP	_	22	pobj
+25	.	.	.	_	19	punct
+

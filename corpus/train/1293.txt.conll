@@ -1,0 +1,12 @@
+1	Smoke	smoke	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	leading	lead	VBG	_	7	amod
+7	causes	cause	NNS	_	4	pobj
+8	of	of	IN	_	7	prep
+9	kidney	kidney	NN	_	10	nn
+10	failures	failure	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	spam	spam	NN	_	4	nsubj
+3	already	already	RB	_	4	advmod
+4	travels	travel	VBZ	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	mail	mail	NN	_	8	nn
+8	server	server	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

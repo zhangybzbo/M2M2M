@@ -1,0 +1,8 @@
+1	The	the	DT	_	3	det
+2	space	space	NN	_	3	nn
+3	monkey	monkey	NN	_	4	nsubj
+4	travels	travel	VBZ	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	space	space	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

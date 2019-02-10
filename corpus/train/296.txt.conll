@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det
+2	meeting	meeting	NN	_	3	nsubj
+3	establishes	establish	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	laws	law	NNS	_	3	dobj
+6	which	which	WDT	_	7	nsubj
+7	govern	govern	VBP	_	5	rcmod
+8	the	the	DT	_	9	det
+9	church	church	NN	_	7	dobj
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	priorities	priority	NNS	_	9	conj
+13	for	for	IN	_	7	prep
+14	the	the	DT	_	16	det
+15	coming	coming	JJ	_	16	amod
+16	year	year	NN	_	13	pobj
+17	.	.	.	_	3	punct
+

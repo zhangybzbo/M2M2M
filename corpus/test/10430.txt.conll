@@ -1,0 +1,20 @@
+1	Lots	lot	NNS	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	people	people	NNS	_	2	pobj
+4	were	be	VBD	_	5	aux
+5	having	have	VBG	_	0	ROOT
+6	picture	picture	NN	_	5	dobj
+7	taking	take	VBG	_	6	vmod
+8	sessions	session	NNS	_	7	dobj
+9	at	at	IN	_	7	prep
+10	the	the	DT	_	12	det
+11	big	big	JJ	_	12	amod
+12	patch	patch	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	yellow	yellow	JJ	_	15	amod
+15	flowers	flower	NNS	_	13	pobj
+16	in	in	IN	_	12	prep
+17	Showa	Showa	NNP	_	18	nn
+18	Kinen	Kinen	NNP	_	16	pobj
+19	.	.	.	_	5	punct
+

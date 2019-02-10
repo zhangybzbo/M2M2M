@@ -1,0 +1,10 @@
+0	41	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="helix" pos="NN" nsubj="t2"
+10	14	tok id="t2" base="run" pos="VBZ" ROOT="ROOT"
+15	19	tok id="t3" base="away" pos="RB" advmod="t2"
+20	24	tok id="t4" base="from" pos="IN" prep="t3"
+25	28	tok id="t5" base="the" pos="DT" det="t6"
+29	39	tok id="t6" base="nucleotide" pos="NN" pobj="t4"
+40	41	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

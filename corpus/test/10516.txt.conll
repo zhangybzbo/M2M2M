@@ -1,0 +1,23 @@
+1	In	in	IN	_	6	prep
+2	Berlin	Berlin	NNP	_	1	pobj
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	communists	communist	NNS	_	6	nsubj
+6	threw	throw	VBD	_	0	ROOT
+7	up	up	RP	_	6	prt
+8	a	a	DT	_	9	det
+9	wall	wall	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	barbed	barb	VBN	_	12	amod
+12	wire	wire	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	stone	stone	NN	_	12	conj
+15	to	to	TO	_	16	aux
+16	block	block	VB	_	6	vmod
+17	the	the	DT	_	18	det
+18	exit	exit	NN	_	16	dobj
+19	of	of	IN	_	18	prep
+20	freedom-seeking	freedom-seeking	JJ	_	21	amod
+21	Germans	german	NNS	_	19	pobj
+22	.	.	.	_	6	punct
+

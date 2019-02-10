@@ -1,0 +1,23 @@
+1	For	for	IN	_	16	prep
+2	more	more	JJR	_	3	mwe
+3	than	than	IN	_	4	quantmod
+4	five	five	CD	_	5	num
+5	years	year	NNS	_	1	pobj
+6	after	after	IN	_	16	prep
+7	9/11	9/11	CD	_	6	pobj
+8	,	,	,	_	16	punct
+9	a	a	DT	_	11	det
+10	messenger	messenger	NN	_	11	nn
+11	bag	bag	NN	_	16	nsubjpass
+12	coated	coat	VBN	_	11	vmod
+13	with	with	IN	_	12	prep
+14	debris	debris	NN	_	13	pobj
+15	was	be	VBD	_	16	auxpass
+16	sealed	seal	VBN	_	0	ROOT
+17	in	in	IN	_	16	prep
+18	a	a	DT	_	21	det
+19	plastic	plastic	JJ	_	21	amod
+20	trash	trash	NN	_	21	nn
+21	bag	bag	NN	_	17	pobj
+22	.	.	.	_	16	punct
+

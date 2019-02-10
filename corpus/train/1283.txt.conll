@@ -1,0 +1,17 @@
+1	This	this	DT	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	based	base	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	notion	notion	NN	_	4	pobj
+7	that	that	IN	_	15	mark
+8	a	a	DT	_	9	det
+9	human	human	JJ	_	15	nsubj
+10	is	be	VBZ	_	15	cop
+11	basically	basically	RB	_	15	advmod
+12	a	a	DT	_	13	det
+13	purpose	purpose	NN	_	15	dep
+14	driven	drive	VBN	_	15	amod
+15	animal	animal	NN	_	6	ccomp
+16	.	.	.	_	3	punct
+

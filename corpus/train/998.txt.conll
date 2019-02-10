@@ -1,0 +1,10 @@
+1	Lauren	Lauren	NNP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	explores	explore	VBZ	_	0	ROOT
+4	bisexuality	bisexuality	NN	_	3	dobj
+5	in	in	IN	_	4	prep
+6	this	this	DT	_	8	det
+7	new	new	JJ	_	8	amod
+8	book	book	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

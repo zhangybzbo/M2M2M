@@ -1,0 +1,15 @@
+1	But	but	CC	_	5	cc
+2	the	the	DT	_	3	det
+3	result	result	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	derived	derive	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	small	small	JJ	_	9	amod
+9	number	number	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	actual	actual	JJ	_	13	amod
+12	HIV	hiv	NN	_	13	nn
+13	cases	case	NNS	_	10	pobj
+14	.	.	.	_	5	punct
+

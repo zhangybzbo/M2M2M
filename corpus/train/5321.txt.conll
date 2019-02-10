@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	relative	relative	JJ	_	3	amod
+3	proportion	proportion	NN	_	13	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	vancomycin	vancomycin	NN	_	7	nn
+7	release	release	NN	_	4	pobj
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	bone	bone	NN	_	11	nn
+11	cement	cement	NN	_	8	pobj
+12	was	be	VBD	_	13	cop
+13	lower	lower	JJR	_	0	ROOT
+14	,	,	,	_	13	punct
+15	although	although	IN	_	22	mark
+16	its	its	PRP$	_	18	poss
+17	initial	initial	JJ	_	18	amod
+18	quantity	quantity	NN	_	22	nsubj
+19	was	be	VBD	_	22	cop
+20	four	four	CD	_	21	num
+21	times	time	NNS	_	22	npadvmod
+22	higher	higher	JJR	_	13	advcl
+23	.	.	.	_	13	punct
+

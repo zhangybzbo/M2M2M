@@ -1,0 +1,11 @@
+1	My	my	PRP$	_	3	poss
+2	animation	animation	NN	_	3	nn
+3	assignment	assignment	NN	_	7	nsubj
+4	from	from	IN	_	3	prep
+5	last	last	JJ	_	6	amod
+6	term	term	NN	_	4	pobj
+7	made	make	VBD	_	0	ROOT
+8	everyone	everyone	NN	_	9	nn
+9	smile	smile	NN	_	7	dobj
+10	.	.	.	_	7	punct
+

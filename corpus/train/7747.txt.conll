@@ -1,0 +1,20 @@
+1	They	they	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	wine	wine	NN	_	2	dobj
+4	in	in	IN	_	2	prep
+5	the	the	DT	_	7	det
+6	exact	exact	JJ	_	7	amod
+7	context	context	NN	_	4	pobj
+8	it	it	PRP	_	9	nsubj
+9	needs	need	VBZ	_	2	dep
+10	to	to	TO	_	12	aux
+11	be	be	VB	_	12	auxpass
+12	kept	keep	VBN	_	9	xcomp
+13	in	in	IN	_	12	prep
+14	-	-	:	_	13	punct
+15	not	not	RB	_	18	neg
+16	so	so	RB	_	17	advmod
+17	bloody	bloody	JJ	_	18	amod
+18	serious	serious	JJ	_	13	dep
+19	.	.	.	_	2	punct
+

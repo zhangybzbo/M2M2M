@@ -1,0 +1,25 @@
+1	During	during	IN	_	9	prep
+2	a	a	DT	_	4	det
+3	root	root	NN	_	4	nn
+4	canal	canal	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	sodium	sodium	NN	_	7	nn
+7	hypochlorite	hypochlorite	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	put	put	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	tooth	tooth	NN	_	10	pobj
+13	,	,	,	_	9	punct
+14	and	and	CC	_	9	cc
+15	went	go	VBD	_	9	conj
+16	through	through	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	tooth	tooth	NN	_	16	pobj
+19	into	into	IN	_	15	prep
+20	the	the	DT	_	21	det
+21	patient	patient	NN	_	23	poss
+22	's	's	POS	_	21	possessive
+23	sinuses	sinus	NNS	_	19	pobj
+24	.	.	.	_	9	punct
+

@@ -1,0 +1,20 @@
+1	Raj	raj	NN	_	0	ROOT
+2	driven	drive	VBN	_	1	vmod
+3	to	to	TO	_	2	prep
+4	rage	rage	NN	_	3	pobj
+5	after	after	IN	_	2	prep
+6	reading	read	VBG	_	5	pcomp
+7	about	about	RB	_	8	advmod
+8	yet	yet	RB	_	16	advmod
+9	another	another	DT	_	14	det
+10	weirdly	weirdly	RB	_	11	advmod
+11	spelled	spell	VBN	_	14	amod
+12	Web	web	NN	_	14	nn
+13	2.0	2.0	CD	_	14	num
+14	company	company	NN	_	16	nsubj
+15	is	be	VBZ	_	16	aux
+16	struggling	struggle	VBG	_	6	xcomp
+17	on	on	IN	_	16	prep
+18	TechCrunch	TechCrunch	NNP	_	17	pobj
+19	.	.	.	_	1	punct
+

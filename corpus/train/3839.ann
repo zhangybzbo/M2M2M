@@ -1,0 +1,3 @@
+T1	Term 4 11	stomach
+T2	Term 53 63	acid fluid
+R1	Content-Container Arg1:T2 Arg2:T1

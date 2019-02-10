@@ -1,0 +1,26 @@
+1	Universal	Universal	NNP	_	2	nn
+2	design	design	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	stand-alone	stand-alone	JJ	_	5	amod
+5	courseware	courseware	NN	_	3	dobj
+6	,	,	,	_	5	punct
+7	web-based	web-based	JJ	_	9	amod
+8	e-learning	e-learning	NN	_	9	nn
+9	systems	system	NNS	_	5	conj
+10	,	,	,	_	5	punct
+11	and	and	CC	_	5	cc
+12	other	other	JJ	_	13	amod
+13	content	content	NN	_	5	conj
+14	more	more	RBR	_	15	advmod
+15	accessible	accessible	JJ	_	13	amod
+16	to	to	TO	_	15	prep
+17	a	a	DT	_	19	det
+18	larger	larger	JJR	_	19	amod
+19	population	population	NN	_	16	pobj
+20	,	,	,	_	19	punct
+21	including	include	VBG	_	19	prep
+22	people	people	NNS	_	21	pobj
+23	with	with	IN	_	22	prep
+24	disabilities	disability	NNS	_	23	pobj
+25	.	.	.	_	3	punct
+

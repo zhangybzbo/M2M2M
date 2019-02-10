@@ -1,0 +1,14 @@
+1	They	they	PRP	_	2	nsubj
+2	chose	choose	VBD	_	0	ROOT
+3	samples	sample	NNS	_	2	dobj
+4	and	and	CC	_	2	cc
+5	prepared	prepare	VBD	_	2	conj
+6	them	they	PRP	_	5	dobj
+7	for	for	IN	_	5	prep
+8	viewing	view	VBG	_	7	pcomp
+9	with	with	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	electron	electron	NN	_	12	nn
+12	microscope	microscope	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

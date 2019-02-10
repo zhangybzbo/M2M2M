@@ -1,0 +1,10 @@
+1	Many	many	JJ	_	3	amod
+2	excellent	excellent	JJ	_	3	amod
+3	musicians	musician	NNS	_	4	nsubj
+4	emanated	emanate	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	Ihe	Ihe	NNP	_	8	nn
+7	Hoosier	Hoosier	NNP	_	8	nn
+8	state	state	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

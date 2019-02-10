@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	inserted	insert	VBD	_	0	ROOT
+3	some	some	DT	_	4	det
+4	sound	sound	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	blackboard	blackboard	NN	_	8	nn
+8	announcements	announcement	NNS	_	5	pobj
+9	.	.	.	_	2	punct
+

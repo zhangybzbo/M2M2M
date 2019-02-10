@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	patient	patient	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	placed	place	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	drug	drug	NN	_	6	pobj
+9	induced	induce	VBD	_	5	dep
+10	coma	coma	NN	_	9	dobj
+11	.	.	.	_	5	punct
+

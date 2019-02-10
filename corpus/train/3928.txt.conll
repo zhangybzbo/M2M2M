@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	plant	plant	NN	_	3	nsubj
+3	builds	build	VBZ	_	0	ROOT
+4	two	two	CD	_	6	num
+5	Toyota	Toyota	NNP	_	6	nn
+6	models	model	NNS	_	3	dobj
+7	,	,	,	_	6	punct
+8	the	the	DT	_	10	det
+9	Corolla	Corolla	NNP	_	10	nn
+10	sedan	sedan	NN	_	6	appos
+11	and	and	CC	_	10	cc
+12	Tacoma	Tacoma	NNP	_	14	nn
+13	pickup	pickup	NN	_	14	nn
+14	truck	truck	NN	_	10	conj
+15	,	,	,	_	6	punct
+16	and	and	CC	_	6	cc
+17	a	a	DT	_	20	det
+18	small	small	JJ	_	20	amod
+19	crossover	crossover	NN	_	20	nn
+20	vehicle	vehicle	NN	_	6	conj
+21	for	for	IN	_	20	prep
+22	G.M.	G.M.	NNP	_	21	pobj
+

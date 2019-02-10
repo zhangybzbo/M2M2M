@@ -1,0 +1,17 @@
+1	Amendment	Amendment	NNP	_	3	nsubj
+2	4	4	CD	_	1	num
+3	removed	remove	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	subsection	subsection	NN	_	3	dobj
+6	which	which	WDT	_	7	nsubj
+7	applies	apply	VBZ	_	5	rcmod
+8	the	the	DT	_	9	det
+9	measure	measure	NN	_	7	dobj
+10	to	to	TO	_	7	prep
+11	partner	partner	NN	_	12	nn
+12	authorities	authority	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	local	local	JJ	_	15	amod
+15	authorities	authority	NNS	_	13	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	For	for	IN	_	8	prep
+2	some	some	DT	_	3	det
+3	reason	reason	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	6	det
+6	star	star	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	blinded	blind	VBN	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	his	he	PRP$	_	12	poss
+11	own	own	JJ	_	12	amod
+12	insight	insight	NN	_	9	pobj
+13	about	about	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	incommensurability	incommensurability	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	time	time	NN	_	16	pobj
+18	.	.	.	_	8	punct
+

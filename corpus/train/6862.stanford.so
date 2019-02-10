@@ -1,0 +1,13 @@
+0	71	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	10	tok id="t1" base="preamble" pos="NN" nsubj="t2"
+11	19	tok id="t2" base="explain" pos="VBZ" ROOT="ROOT"
+20	23	tok id="t3" base="the" pos="DT" det="t4"
+24	32	tok id="t4" base="document" pos="NN" poss="t6"
+33	35	tok id="t5" base="'s" pos="POS" possessive="t4"
+36	43	tok id="t6" base="purpose" pos="NN" dobj="t2"
+44	47	tok id="t7" base="and" pos="CC" cc="t6"
+48	58	tok id="t8" base="underlie" pos="VBG" amod="t9"
+59	69	tok id="t9" base="philosophy" pos="NN" conj="t6"
+70	71	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

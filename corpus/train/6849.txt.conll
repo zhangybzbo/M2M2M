@@ -1,0 +1,15 @@
+1	Presentations	presentation	NNS	_	9	nsubjpass
+2	and	and	CC	_	1	cc
+3	outputs	output	NNS	_	1	conj
+4	of	of	IN	_	1	prep
+5	the	the	DT	_	6	det
+6	conference	conference	NN	_	4	pobj
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	provided	provide	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	conference	conference	NN	_	13	nn
+13	proceedings	proceedings	NNS	_	10	pobj
+14	.	.	.	_	9	punct
+

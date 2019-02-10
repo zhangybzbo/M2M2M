@@ -1,0 +1,23 @@
+1	In	in	IN	_	6	prep
+2	1965	1965	CD	_	1	pobj
+3	,	,	,	_	6	punct
+4	a	a	DT	_	5	det
+5	farmer	farmer	NN	_	6	nsubj
+6	dug	dig	VBD	_	0	ROOT
+7	up	up	RP	_	6	prt
+8	the	the	DT	_	10	det
+9	lower	lower	JJR	_	10	amod
+10	jawbone	jawbone	NN	_	6	dobj
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	mammoth	mammoth	JJ	_	14	amod
+14	while	while	NN	_	11	pobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	process	process	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	expanding	expand	VBG	_	18	pcomp
+20	his	he	PRP$	_	21	poss
+21	cellar	cellar	NN	_	19	dobj
+22	.	.	.	_	6	punct
+

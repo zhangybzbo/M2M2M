@@ -1,0 +1,13 @@
+1	Jacks	Jacks	NNP	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	spreading	spread	VBG	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	areas	area	NNS	_	4	pobj
+6	formerly	formerly	RB	_	7	advmod
+7	occupied	occupy	VBN	_	5	vmod
+8	by	by	IN	_	7	prep
+9	white-tails	white-tail	NNS	_	8	pobj
+10	in	in	IN	_	9	prep
+11	Colorado	Colorado	NNP	_	10	pobj
+12	.	.	.	_	3	punct
+

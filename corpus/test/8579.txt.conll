@@ -1,0 +1,12 @@
+1	Also	also	RB	_	6	advmod
+2	in	in	IN	_	6	prep
+3	the	the	DT	_	4	det
+4	programme	programme	NN	_	2	pobj
+5	we	we	PRP	_	6	nsubj
+6	consider	consider	VBP	_	0	ROOT
+7	the	the	DT	_	8	det
+8	subject	subject	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	happiness	happiness	NN	_	9	pobj
+11	.	.	.	_	6	punct
+

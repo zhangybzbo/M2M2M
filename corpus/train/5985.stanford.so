@@ -1,0 +1,13 @@
+0	53	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="since" pos="IN" prep="t7"
+6	10	tok id="t1" base="last" pos="JJ" amod="t2"
+11	15	tok id="t2" base="year" pos="NN" pobj="t0"
+16	17	tok id="t3" base="-COMMA-" pos="," punct="t7"
+18	22	tok id="t4" base="many" pos="JJ" amod="t5"
+23	29	tok id="t5" base="people" pos="NNS" nsubj="t7"
+30	33	tok id="t6" base="be" pos="VBP" aux="t7"
+34	41	tok id="t7" base="sink" pos="VBG" ROOT="ROOT"
+42	46	tok id="t8" base="into" pos="IN" prep="t7"
+47	51	tok id="t9" base="debt" pos="NN" pobj="t8"
+52	53	tok id="t10" base="-PERIOD-" pos="." punct="t7"
+

@@ -1,0 +1,16 @@
+1	You	you	PRP	_	2	nsubj
+2	catched	catch	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	train	train	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	terminal	terminal	JJ	_	5	pobj
+8	,	,	,	_	2	punct
+9	direct	direct	JJ	_	10	amod
+10	non-stop	non-stop	JJ	_	2	dep
+11	to	to	TO	_	10	prep
+12	Rome	Rome	NNP	_	14	nn
+13	Termini	Termini	NNP	_	14	nn
+14	Station	Station	NNP	_	11	pobj
+15	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	money	money	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	hidden	hide	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	his	he	PRP$	_	7	poss
+7	bag	bag	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	in	in	IN	_	4	conj
+10	his	he	PRP$	_	11	poss
+11	underwear	underwear	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

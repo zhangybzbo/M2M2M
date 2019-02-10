@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	23-year-old	23-year-old	JJ	_	3	amod
+3	rapper	rapper	NN	_	6	nsubj
+4	has	have	VBZ	_	6	aux
+5	recently	recently	RB	_	6	advmod
+6	completed	complete	VBN	_	0	ROOT
+7	a	a	DT	_	8	det
+8	song	song	NN	_	6	dobj
+9	with	with	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	hip-hop	hip-hop	JJ	_	12	amod
+12	superstar	superstar	NN	_	9	pobj
+13	and	and	CC	_	6	cc
+14	announced	announce	VBD	_	6	conj
+15	it	it	PRP	_	17	nsubj
+16	would	would	MD	_	17	aux
+17	appear	appear	VB	_	14	ccomp
+18	on	on	IN	_	17	prep
+19	his	he	PRP$	_	21	poss
+20	debut	debut	NN	_	21	nn
+21	LP	lp	NN	_	18	pobj
+22	Thank	thank	VB	_	17	xcomp
+23	Me	I	PRP	_	22	dobj
+24	Later	later	RB	_	22	advmod
+25	.	.	.	_	6	punct
+

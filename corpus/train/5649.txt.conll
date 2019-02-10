@@ -1,0 +1,22 @@
+1	Be	be	VB	_	2	cop
+2	careful	careful	JJ	_	0	ROOT
+3	,	,	,	_	2	punct
+4	because	because	RB	_	9	advmod
+5	just	just	RB	_	6	quantmod
+6	one	one	CD	_	8	num
+7	little	little	JJ	_	8	amod
+8	clove	clove	NN	_	9	nsubj
+9	imparts	impart	VBZ	_	2	dep
+10	a	a	DT	_	12	det
+11	terrific	terrific	JJ	_	12	amod
+12	amount	amount	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	spice	spice	NN	_	13	pobj
+15	to	to	TO	_	9	prep
+16	a	a	DT	_	17	det
+17	bottle	bottle	NN	_	15	pobj
+18	full	full	JJ	_	17	amod
+19	of	of	IN	_	18	prep
+20	rum	rum	NN	_	19	pobj
+21	.	.	.	_	2	punct
+

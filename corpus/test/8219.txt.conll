@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	det
+2	deadly	deadly	JJ	_	4	amod
+3	train	train	NN	_	4	nn
+4	crash	crash	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	terrorist	terrorist	JJ	_	9	amod
+9	attack	attack	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

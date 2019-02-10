@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	mortality	mortality	NN	_	9	nsubj
+3	caused	cause	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	war	war	NN	_	4	pobj
+7	is	be	VBZ	_	9	cop
+8	also	also	RB	_	9	advmod
+9	high	high	JJ	_	0	ROOT
+10	.	.	.	_	9	punct
+

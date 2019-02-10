@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	themes	theme	NNS	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	love	love	NN	_	3	pobj
+5	and	and	CC	_	4	cc
+6	gaiety	gaiety	NN	_	4	conj
+7	were	be	VBD	_	8	auxpass
+8	reflected	reflect	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	sculpture	sculpture	NN	_	9	pobj
+11	,	,	,	_	8	punct
+12	as	as	IN	_	14	mark
+13	were	be	VBD	_	14	cop
+14	elements	element	NNS	_	8	advcl
+15	of	of	IN	_	14	prep
+16	nature	nature	NN	_	15	pobj
+17	,	,	,	_	14	punct
+18	curving	curving	NN	_	19	nn
+19	lines	line	NNS	_	14	appos
+20	and	and	CC	_	19	cc
+21	asymmetry	asymmetry	NN	_	19	conj
+22	.	.	.	_	8	punct
+

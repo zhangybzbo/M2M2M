@@ -1,0 +1,3 @@
+T1	Term 102 109	caravan
+T2	Term 123 127	depo
+R1	Entity-Origin Arg1:T1 Arg2:T2

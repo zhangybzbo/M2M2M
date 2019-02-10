@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	vaccine	vaccine	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	produced	produce	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	government	government	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	is	be	VBZ	_	4	conj
+10	not	not	RB	_	11	neg
+11	for	for	IN	_	9	prep
+12	sale	sale	NN	_	11	pobj
+13	to	to	TO	_	12	prep
+14	private	private	JJ	_	15	amod
+15	individuals	individual	NNS	_	13	pobj
+16	or	or	CC	_	15	cc
+17	companies	company	NNS	_	15	conj
+18	.	.	.	_	4	punct
+

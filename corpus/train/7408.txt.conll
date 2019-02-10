@@ -1,0 +1,17 @@
+1	In	in	IN	_	6	prep
+2	my	my	PRP$	_	4	poss
+3	Vancouver	Vancouver	NNP	_	4	nn
+4	home	home	NN	_	1	pobj
+5	there	there	EX	_	6	expl
+6	is	be	VBZ	_	0	ROOT
+7	small	small	JJ	_	8	amod
+8	portion	portion	NN	_	6	nsubj
+9	of	of	IN	_	8	prep
+10	our	we	PRP$	_	11	poss
+11	kitchen	kitchen	NN	_	9	pobj
+12	that	that	WDT	_	13	nsubj
+13	contains	contain	VBZ	_	8	rcmod
+14	my	my	PRP$	_	15	poss
+15	desk	desk	NN	_	13	dobj
+16	.	.	.	_	6	punct
+

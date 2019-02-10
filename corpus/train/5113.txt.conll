@@ -1,0 +1,10 @@
+1	Unemployment	unemployment	NN	_	6	nsubj
+2	,	,	,	_	1	punct
+3	debt	debt	NN	_	1	conj
+4	and	and	CC	_	1	cc
+5	poverty	poverty	NN	_	1	conj
+6	cause	cause	VBP	_	0	ROOT
+7	enormous	enormous	JJ	_	8	amod
+8	stress	stress	NN	_	6	dobj
+9	.	.	.	_	6	punct
+

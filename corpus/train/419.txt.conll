@@ -1,0 +1,12 @@
+1	Two	two	CD	_	2	num
+2	years	year	NNS	_	3	npadvmod
+3	ago	ago	IN	_	0	ROOT
+4	I	I	PRP	_	5	nsubj
+5	made	make	VBD	_	3	pcomp
+6	cranberry	cranberry	NN	_	7	nn
+7	sauce	sauce	NN	_	5	dobj
+8	to	to	TO	_	9	aux
+9	die	die	VB	_	5	vmod
+10	for	for	IN	_	9	prep
+11	.	.	.	_	3	punct
+

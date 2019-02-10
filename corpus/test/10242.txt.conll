@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	methods	method	NNS	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	almost	almost	RB	_	6	advmod
+5	all	all	DT	_	6	det
+6	procedures	procedure	NNS	_	3	pobj
+7	were	be	VBD	_	9	auxpass
+8	extensively	extensively	RB	_	9	advmod
+9	described	describe	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	an	a	DT	_	13	det
+12	earlier	earlier	JJR	_	13	amod
+13	publication	publication	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

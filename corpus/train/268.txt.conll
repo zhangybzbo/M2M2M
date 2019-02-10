@@ -1,0 +1,21 @@
+1	Welding	welding	NN	_	2	nn
+2	wire	wire	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	coiled	coil	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	pail	pail	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	used	use	VBN	_	4	conj
+10	as	as	IN	_	9	prep
+11	an	a	DT	_	12	det
+12	electrode	electrode	NN	_	10	pobj
+13	in	in	IN	_	9	prep
+14	an	a	DT	_	19	det
+15	automatic	automatic	JJ	_	19	amod
+16	or	or	CC	_	15	cc
+17	semiautomatic	semiautomatic	JJ	_	15	conj
+18	welding	welding	NN	_	19	nn
+19	operation	operation	NN	_	13	pobj
+20	.	.	.	_	4	punct
+

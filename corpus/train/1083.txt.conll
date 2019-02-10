@@ -1,0 +1,17 @@
+1	Natural	natural	JJ	_	3	amod
+2	history	history	NN	_	3	nn
+3	programmes	programme	NNS	_	4	nsubj
+4	began	begin	VBD	_	0	ROOT
+5	as	as	IN	_	4	prep
+6	live	live	JJ	_	8	amod
+7	outside	outside	JJ	_	8	amod
+8	broadcasts	broadcast	NNS	_	5	pobj
+9	on	on	IN	_	8	prep
+10	BBC	BBC	NNP	_	11	nn
+11	television	television	NN	_	9	pobj
+12	in	in	IN	_	8	prep
+13	the	the	DT	_	15	det
+14	early	early	JJ	_	15	amod
+15	1950s	1950s	CD	_	12	pobj
+16	.	.	.	_	4	punct
+

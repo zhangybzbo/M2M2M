@@ -1,0 +1,14 @@
+1	Furthermore	furthermore	RB	_	12	advmod
+2	,	,	,	_	12	punct
+3	the	the	DT	_	4	det
+4	production	production	NN	_	12	nsubj
+5	of	of	IN	_	4	prep
+6	cigarettes	cigarette	NNS	_	5	pobj
+7	by	by	IN	_	4	prep
+8	the	the	DT	_	10	det
+9	major	major	JJ	_	10	amod
+10	producer	producer	NN	_	7	pobj
+11	has	have	VBZ	_	12	aux
+12	continued	continue	VBN	_	0	ROOT
+13	.	.	.	_	12	punct
+

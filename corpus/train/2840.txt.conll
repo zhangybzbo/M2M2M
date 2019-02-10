@@ -1,0 +1,17 @@
+1	His	he	PRP$	_	2	poss
+2	son	son	NN	_	4	nsubj
+3	once	once	RB	_	4	advmod
+4	married	marry	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	princess	princess	NN	_	7	nsubj
+7	descended	descend	VBD	_	4	ccomp
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	Middle	Middle	NNP	_	12	nn
+11	Eastern	Eastern	NNP	_	12	nn
+12	kingdom	kingdom	NN	_	15	poss
+13	's	's	POS	_	12	possessive
+14	founding	founding	NN	_	15	nn
+15	family	family	NN	_	8	pobj
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	Maybe	maybe	RB	_	6	advmod
+2	the	the	DT	_	5	det
+3	most	most	RBS	_	4	advmod
+4	significant	significant	JJ	_	5	amod
+5	difference	difference	NN	_	6	nsubj
+6	is	be	VBZ	_	0	ROOT
+7	that	that	IN	_	10	mark
+8	we	we	PRP	_	10	nsubj
+9	have	have	VBP	_	10	aux
+10	changed	change	VBN	_	6	ccomp
+11	from	from	IN	_	10	prep
+12	emigration	emigration	NN	_	11	pobj
+13	out	out	IN	_	12	prep
+14	of	of	IN	_	13	pcomp
+15	necessity	necessity	NN	_	14	pobj
+16	to	to	TO	_	15	prep
+17	emigration	emigration	NN	_	16	pobj
+18	in	in	IN	_	17	prep
+19	search	search	NN	_	18	pobj
+20	of	of	IN	_	19	prep
+21	new	new	JJ	_	22	amod
+22	opportunities	opportunity	NNS	_	20	pobj
+23	.	.	.	_	6	punct
+

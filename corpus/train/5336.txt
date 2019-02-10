@@ -1,0 +1,1 @@
+The merchant facilitates attacks using fake or modified terminals , towards tapping both the financial data stored on the cards as well as the pin of the cardsholders .

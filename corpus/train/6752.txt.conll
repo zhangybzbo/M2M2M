@@ -1,0 +1,17 @@
+1	She	she	PRP	_	2	nsubj
+2	clicked	click	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	book	book	NN	_	6	nn
+6	title	title	NN	_	3	pobj
+7	to	to	TO	_	8	aux
+8	see	see	VB	_	2	xcomp
+9	a	a	DT	_	10	det
+10	couple	couple	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	illustrations	illustration	NNS	_	11	pobj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	book	book	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,11 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="surgeon" pos="NN" nn="t2"
+12	19	tok id="t2" base="repair" pos="NNS" ROOT="ROOT"
+20	23	tok id="t3" base="the" pos="DT" det="t4"
+24	33	tok id="t4" base="cartilage" pos="NN" dep="t2"
+34	38	tok id="t5" base="with" pos="IN" prep="t4"
+39	40	tok id="t6" base="a" pos="DT" det="t7"
+41	47	tok id="t7" base="suture" pos="NN" pobj="t5"
+48	49	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

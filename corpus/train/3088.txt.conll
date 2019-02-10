@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	press	press	NN	_	3	nn
+3	release	release	NN	_	12	nsubj
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	respondent	respondent	NN	_	8	poss
+7	's	's	POS	_	6	possessive
+8	counsel	counsel	NN	_	4	pobj
+9	describing	describe	VBG	_	8	vmod
+10	the	the	DT	_	11	det
+11	settlement	settlement	NN	_	9	dobj
+12	is	be	VBZ	_	0	ROOT
+13	here	here	RB	_	12	advmod
+14	.	.	.	_	12	punct
+

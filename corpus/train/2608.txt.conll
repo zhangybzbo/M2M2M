@@ -1,0 +1,23 @@
+1	Previous	previous	JJ	_	2	amod
+2	custodians	custodian	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	submarine	submarine	NN	_	3	pobj
+6	poured	pour	VBD	_	0	ROOT
+7	concrete	concrete	JJ	_	6	dobj
+8	into	into	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	hull	hull	NN	_	8	pobj
+11	in	in	IN	_	6	prep
+12	a	a	DT	_	14	det
+13	misguided	misguided	JJ	_	14	amod
+14	attempt	attempt	NN	_	11	pobj
+15	to	to	TO	_	16	aux
+16	retain	retain	VB	_	14	vmod
+17	the	the	DT	_	18	det
+18	vessel	vessel	NN	_	21	poss
+19	's	's	POS	_	18	possessive
+20	overall	overall	JJ	_	21	amod
+21	structure	structure	NN	_	16	dobj
+22	.	.	.	_	6	punct
+

@@ -1,0 +1,21 @@
+1	Picture	Picture	NNP	_	2	nn
+2	books	book	NNS	_	3	nsubj
+3	invite	invite	VB	_	0	ROOT
+4	students	student	NNS	_	3	dobj
+5	to	to	TO	_	6	aux
+6	engage	engage	VB	_	3	xcomp
+7	in	in	IN	_	6	prep
+8	critical	critical	JJ	_	9	amod
+9	discussion	discussion	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	complex	complex	JJ	_	12	amod
+12	issues	issue	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	race	race	NN	_	13	pobj
+15	,	,	,	_	14	punct
+16	class	class	NN	_	14	conj
+17	,	,	,	_	14	punct
+18	and	and	CC	_	14	cc
+19	gender	gender	NN	_	14	conj
+20	.	.	.	_	3	punct
+

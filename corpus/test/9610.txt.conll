@@ -1,0 +1,23 @@
+1	His	he	PRP$	_	0	ROOT
+2	becomes	become	VBZ	_	1	dep
+3	Version	Version	NNP	_	2	xcomp
+4	1	1	CD	_	3	num
+5	of	of	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	report	report	NN	_	5	pobj
+8	and	and	CC	_	2	cc
+9	is	be	VBZ	_	11	cop
+10	the	the	DT	_	11	det
+11	report	report	NN	_	2	conj
+12	that	that	IN	_	11	prep
+13	fulfills	fulfil	VBZ	_	12	dep
+14	compliance	compliance	NN	_	13	dobj
+15	with	with	IN	_	14	prep
+16	the	the	DT	_	21	det
+17	ARRA	ARRA	NNP	_	21	nn
+18	Section	Section	NNP	_	21	nn
+19	1512	1512	CD	_	21	num
+20	reporting	reporting	NN	_	21	nn
+21	requirements	requirement	NNS	_	15	pobj
+22	.	.	.	_	1	punct
+

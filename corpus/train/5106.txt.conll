@@ -1,0 +1,11 @@
+1	Solitaire	Solitaire	NNP	_	2	nsubj
+2	generates	generate	VBZ	_	0	ROOT
+3	its	its	PRP$	_	4	poss
+4	keystream	keystream	NN	_	2	dobj
+5	using	use	VBG	_	2	xcomp
+6	a	a	DT	_	7	det
+7	deck	deck	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	cards	card	NNS	_	8	pobj
+10	.	.	.	_	2	punct
+

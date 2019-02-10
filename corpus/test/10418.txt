@@ -1,0 +1,1 @@
+The operator moved the data into the text box from the database table column .

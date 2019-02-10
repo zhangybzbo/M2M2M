@@ -1,0 +1,26 @@
+1	To	to	TO	_	2	aux
+2	reheat	reheat	VB	_	11	advcl
+3	the	the	DT	_	4	det
+4	turkey	turkey	NN	_	2	dobj
+5	without	without	IN	_	2	prep
+6	drying	dry	VBG	_	5	pcomp
+7	it	it	PRP	_	6	dobj
+8	out	out	RP	_	6	prt
+9	,	,	,	_	11	punct
+10	we	we	PRP	_	11	nsubj
+11	placed	place	VBD	_	0	ROOT
+12	the	the	DT	_	13	det
+13	slices	slice	NNS	_	11	dobj
+14	in	in	IN	_	11	prep
+15	a	a	DT	_	17	det
+16	steamer	steamer	NN	_	17	nn
+17	basket	basket	NN	_	14	pobj
+18	set	set	VBN	_	17	vmod
+19	in	in	IN	_	18	prep
+20	a	a	DT	_	21	det
+21	pot	pot	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	simmering	simmer	VBG	_	24	amod
+24	water	water	NN	_	22	pobj
+25	.	.	.	_	11	punct
+

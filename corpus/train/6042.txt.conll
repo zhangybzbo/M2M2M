@@ -1,0 +1,13 @@
+1	Elderberry	Elderberry	NNP	_	2	nn
+2	wine	wine	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	unique	unique	JJ	_	6	amod
+6	flavor	flavor	NN	_	3	dobj
+7	that	that	WDT	_	8	nsubj
+8	changes	change	VBZ	_	6	rcmod
+9	considerably	considerably	RB	_	10	advmod
+10	over	over	IN	_	8	prep
+11	time	time	NN	_	10	pobj
+12	.	.	.	_	3	punct
+

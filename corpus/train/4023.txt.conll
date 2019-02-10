@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	French	french	JJ	_	3	amod
+3	Toast	toast	NN	_	6	nsubj
+4	was	be	VBD	_	6	cop
+5	very	very	RB	_	6	advmod
+6	tasty	tasty	JJ	_	0	ROOT
+7	and	and	CC	_	6	cc
+8	the	the	DT	_	11	det
+9	mango	mango	NN	_	11	nn
+10	cranberry	cranberry	NN	_	11	nn
+11	syrup	syrup	NN	_	15	nsubj
+12	was	be	VBD	_	15	cop
+13	a	a	DT	_	15	det
+14	nice	nice	JJ	_	15	amod
+15	touch	touch	NN	_	6	conj
+16	.	.	.	_	6	punct
+

@@ -1,0 +1,22 @@
+1	Personal	personal	JJ	_	2	amod
+2	anecdotes	anecdote	NNS	_	13	nsubj
+3	gathered	gather	VBN	_	2	vmod
+4	in	in	IN	_	3	prep
+5	oral	oral	JJ	_	6	amod
+6	interviews	interview	NNS	_	4	pobj
+7	with	with	IN	_	6	prep
+8	rural	rural	JJ	_	9	amod
+9	workers	worker	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	their	they	PRP$	_	12	poss
+12	allies	ally	NNS	_	9	conj
+13	add	add	VBP	_	0	ROOT
+14	a	a	DT	_	17	det
+15	compelling	compelling	JJ	_	17	amod
+16	human	human	JJ	_	17	amod
+17	element	element	NN	_	13	dobj
+18	to	to	TO	_	13	prep
+19	the	the	DT	_	20	det
+20	book	book	NN	_	18	pobj
+21	.	.	.	_	13	punct
+

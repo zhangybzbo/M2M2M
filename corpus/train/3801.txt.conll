@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	new	new	JJ	_	3	amod
+3	computer	computer	NN	_	0	ROOT
+4	aimed	aim	VBN	_	3	vmod
+5	at	at	IN	_	4	prep
+6	people	people	NNS	_	5	pobj
+7	aged	age	VBN	_	6	vmod
+8	over	over	IN	_	7	prep
+9	60	60	CD	_	10	num
+10	aims	aim	NNS	_	8	pobj
+11	to	to	TO	_	12	aux
+12	inspire	inspire	VB	_	10	vmod
+13	a	a	DT	_	16	det
+14	whole	whole	JJ	_	16	amod
+15	new	new	JJ	_	16	amod
+16	wave	wave	NN	_	12	dobj
+17	of	of	IN	_	16	prep
+18	silver	silver	NN	_	19	nn
+19	surfers	surfer	NNS	_	17	pobj
+20	.	.	.	_	3	punct
+

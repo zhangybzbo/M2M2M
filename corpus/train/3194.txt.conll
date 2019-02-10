@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	smallest	smallest	JJS	_	3	amod
+3	star	star	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	completely	completely	RB	_	6	advmod
+6	inside	inside	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	arm	arm	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	blue	blue	JJ	_	12	amod
+12	cross	cross	NN	_	9	pobj
+13	.	.	.	_	4	punct
+

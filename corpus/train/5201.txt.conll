@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	eight-year-old	eight-year-old	NN	_	3	nn
+3	boy	boy	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	locked	lock	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	safe	safe	JJ	_	6	pobj
+9	for	for	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	prank	prank	NN	_	9	pobj
+12	but	but	CC	_	5	cc
+13	had	have	VBD	_	5	conj
+14	to	to	TO	_	16	aux
+15	be	be	VB	_	16	auxpass
+16	rescued	rescue	VBN	_	13	xcomp
+17	when	when	WRB	_	20	advmod
+18	his	he	PRP$	_	19	poss
+19	air	air	NN	_	20	nsubj
+20	ran	run	VBD	_	16	advcl
+21	short	short	RB	_	20	advmod
+22	.	.	.	_	5	punct
+

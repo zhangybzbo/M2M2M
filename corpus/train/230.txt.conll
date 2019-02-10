@@ -1,0 +1,20 @@
+1	As	as	IN	_	7	mark
+2	the	the	DT	_	3	det
+3	US	US	NNP	_	7	nsubj
+4	and	and	CC	_	3	cc
+5	Colombian	colombian	JJ	_	6	amod
+6	military	military	NN	_	3	conj
+7	put	put	VBD	_	15	advcl
+8	pressure	pressure	NN	_	7	dobj
+9	on	on	IN	_	8	prep
+10	drug	drug	NN	_	11	nn
+11	traffickers	trafficker	NNS	_	9	pobj
+12	,	,	,	_	15	punct
+13	operations	operation	NNS	_	15	nsubj
+14	are	be	VBP	_	15	aux
+15	migrating	migrate	VBG	_	0	ROOT
+16	into	into	IN	_	15	prep
+17	nearby	nearby	JJ	_	18	amod
+18	countries	country	NNS	_	16	pobj
+19	.	.	.	_	15	punct
+

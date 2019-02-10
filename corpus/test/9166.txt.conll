@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	det
+2	machine	machine	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	memory	memory	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	5000	5000	CD	_	8	num
+8	slots	slot	NNS	_	6	pobj
+9	and	and	CC	_	3	cc
+10	in	in	IN	_	15	prep
+11	this	this	DT	_	12	det
+12	memory	memory	NN	_	10	pobj
+13	we	we	PRP	_	15	nsubj
+14	can	can	MD	_	15	aux
+15	stock	stock	VB	_	3	conj
+16	500	500	CD	_	17	num
+17	customers	customer	NNS	_	15	dobj
+18	and	and	CC	_	17	cc
+19	products	product	NNS	_	17	conj
+20	.	.	.	_	3	punct
+

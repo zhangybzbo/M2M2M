@@ -1,0 +1,25 @@
+1	In	in	IN	_	15	prep
+2	early	early	JJ	_	3	amod
+3	October	October	NNP	_	1	pobj
+4	,	,	,	_	15	punct
+5	Anwar	Anwar	NNP	_	6	nn
+6	al-Awlaki	al-Awlaki	NNP	_	15	nsubj
+7	,	,	,	_	6	punct
+8	a	a	DT	_	10	det
+9	radical	radical	JJ	_	10	amod
+10	cleric	cleric	JJ	_	6	appos
+11	based	base	VBN	_	10	vmod
+12	in	in	IN	_	11	prep
+13	Yemen	Yemen	NNP	_	12	pobj
+14	,	,	,	_	6	punct
+15	posted	post	VBD	_	0	ROOT
+16	a	a	DT	_	18	det
+17	provocative	provocative	JJ	_	18	amod
+18	message	message	NN	_	15	dobj
+19	on	on	IN	_	18	prep
+20	his	he	PRP$	_	23	poss
+21	English-language	english-language	JJ	_	23	amod
+22	Web	web	NN	_	23	nn
+23	site	site	NN	_	19	pobj
+24	.	.	.	_	15	punct
+

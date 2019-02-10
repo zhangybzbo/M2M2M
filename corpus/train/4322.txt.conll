@@ -1,0 +1,21 @@
+1	Cold	Cold	NNP	_	2	nn
+2	sores	sore	NNS	_	7	nsubjpass
+3	or	or	CC	_	2	cc
+4	fever	fever	NN	_	5	nn
+5	blisters	blister	NNS	_	2	conj
+6	are	be	VBP	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	herpes	herpes	NN	_	12	nn
+11	simplex	simplex	NN	_	12	nn
+12	virus	virus	NN	_	8	pobj
+13	and	and	CC	_	7	cc
+14	are	be	VBP	_	17	cop
+15	usually	usually	RB	_	17	advmod
+16	relatively	relatively	RB	_	17	advmod
+17	easy	easy	JJ	_	7	conj
+18	to	to	TO	_	19	aux
+19	identify	identify	VB	_	17	xcomp
+20	.	.	.	_	7	punct
+

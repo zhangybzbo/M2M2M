@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	ancients	ancient	NNS	_	3	nsubj
+3	cultivated	cultivate	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	species	species	NNS	_	3	dobj
+6	Heracleum	Heracleum	NNP	_	7	nn
+7	Sphondylium	Sphondylium	NNP	_	5	dep
+8	which	which	WDT	_	11	nsubj
+9	is	be	VBZ	_	11	cop
+10	the	the	DT	_	11	det
+11	parsnip	parsnip	NN	_	7	rcmod
+12	a	a	DT	_	14	det
+13	similar	similar	JJ	_	14	amod
+14	plant	plant	NN	_	11	dobj
+15	to	to	TO	_	14	prep
+16	carrots	carrot	NNS	_	15	pobj
+17	.	.	.	_	3	punct
+

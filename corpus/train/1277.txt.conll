@@ -1,0 +1,24 @@
+1	Kidd	Kidd	NNP	_	2	nsubj
+2	passed	pass	VBD	_	0	ROOT
+3	Jackson	Jackson	NNP	_	2	dobj
+4	on	on	IN	_	2	prep
+5	the	the	DT	_	6	det
+6	career	career	NN	_	4	pobj
+7	assists	assist	VBZ	_	2	dep
+8	list	list	NN	_	7	dobj
+9	with	with	IN	_	7	prep
+10	an	a	DT	_	12	det
+11	alley-oop	alley-oop	JJ	_	12	amod
+12	pass	pass	NN	_	9	pobj
+13	to	to	TO	_	12	prep
+14	Rodrigue	Rodrigue	NNP	_	15	nn
+15	Beaubois	Beaubois	NNPS	_	13	pobj
+16	with	with	IN	_	12	prep
+17	10:53	10:53	CD	_	16	pobj
+18	left	leave	VBN	_	17	vmod
+19	in	in	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	third	third	JJ	_	22	amod
+22	quarter	quarter	NN	_	19	pobj
+23	.	.	.	_	2	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	suffering	suffering	NN	_	9	nsubjpass
+3	caused	cause	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	embargo	embargo	NN	_	4	pobj
+7	is	be	VBZ	_	9	auxpass
+8	sometimes	sometimes	RB	_	9	advmod
+9	reported	report	VBN	_	0	ROOT
+10	here	here	RB	_	9	advmod
+11	as	as	RB	_	12	advmod
+12	well	well	RB	_	9	advmod
+13	.	.	.	_	9	punct
+

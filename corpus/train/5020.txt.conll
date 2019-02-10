@@ -1,0 +1,17 @@
+1	Created	create	VBN	_	8	vmod
+2	by	by	IN	_	1	prep
+3	Bloc	Bloc	NNP	_	2	pobj
+4	8406	8406	CD	_	3	num
+5	,	,	,	_	8	punct
+6	this	this	DT	_	7	det
+7	manifesto	manifesto	NN	_	8	nsubj
+8	declares	declare	VBZ	_	0	ROOT
+9	the	the	DT	_	10	det
+10	need	need	NN	_	8	dobj
+11	for	for	IN	_	10	prep
+12	democratic	democratic	JJ	_	13	amod
+13	reforms	reform	NNS	_	11	pobj
+14	in	in	IN	_	13	prep
+15	Vietnam	Vietnam	NNP	_	14	pobj
+16	.	.	.	_	8	punct
+

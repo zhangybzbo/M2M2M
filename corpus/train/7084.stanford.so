@@ -1,0 +1,11 @@
+0	62	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t1"
+3	7	tok id="t1" base="make" pos="VBD" ROOT="ROOT"
+8	19	tok id="t2" base="allegation" pos="NNS" dobj="t1"
+20	22	tok id="t3" base="of" pos="IN" prep="t2"
+23	33	tok id="t4" base="corruption" pos="NN" pobj="t3"
+34	41	tok id="t5" base="against" pos="IN" prep="t4"
+42	45	tok id="t6" base="the" pos="DT" det="t7"
+46	60	tok id="t7" base="administration" pos="NN" pobj="t5"
+61	62	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

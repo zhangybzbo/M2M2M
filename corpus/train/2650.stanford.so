@@ -1,0 +1,9 @@
+0	32	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="phone" pos="NN" nsubj="t2"
+10	14	tok id="t2" base="go" pos="VBD" ROOT="ROOT"
+15	19	tok id="t3" base="into" pos="IN" prep="t2"
+20	23	tok id="t4" base="the" pos="DT" det="t5"
+24	30	tok id="t5" base="washer" pos="NN" pobj="t3"
+31	32	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,7 @@
+1	Historians	historian	NNS	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	evidence	evidence	NN	_	2	dobj
+4	and	and	CC	_	3	cc
+5	artifacts	artifact	NNS	_	3	conj
+6	.	.	.	_	2	punct
+

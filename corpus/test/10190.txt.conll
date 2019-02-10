@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	license	license	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	issued	issue	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	new	new	JJ	_	8	amod
+8	state	state	NN	_	5	pobj
+9	after	after	IN	_	4	prep
+10	verifying	verify	VBG	_	9	pcomp
+11	the	the	DT	_	12	det
+12	particulars	particulars	NNS	_	10	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	applicant	applicant	NN	_	16	nn
+16	license	license	NN	_	13	pobj
+17	from	from	IN	_	10	prep
+18	the	the	DT	_	21	det
+19	original	original	JJ	_	21	amod
+20	issuing	issue	VBG	_	21	amod
+21	state	state	NN	_	17	pobj
+22	.	.	.	_	4	punct
+

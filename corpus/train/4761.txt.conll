@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj
+2	purchased	purchase	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	Wen	Wen	NNP	_	5	nn
+5	lumberjack	lumberjack	NN	_	6	nsubj
+6	saw	see	VBD	_	2	ccomp
+7	a	a	DT	_	9	det
+8	few	few	JJ	_	9	amod
+9	years	year	NNS	_	10	npadvmod
+10	ago	ago	RB	_	6	advmod
+11	,	,	,	_	2	punct
+12	and	and	CC	_	2	cc
+13	just	just	RB	_	14	advmod
+14	broke	break	VBD	_	2	conj
+15	the	the	DT	_	16	det
+16	blade	blade	NN	_	14	dobj
+17	.	.	.	_	2	punct
+

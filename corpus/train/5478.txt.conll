@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	exit	exit	NN	_	12	nsubj
+3	of	of	IN	_	2	prep
+4	such	such	PDT	_	6	predet
+5	a	a	DT	_	6	det
+6	substance	substance	NN	_	3	pobj
+7	from	from	IN	_	2	prep
+8	the	the	DT	_	10	det
+9	anterior	anterior	JJ	_	10	amod
+10	chamber	chamber	NN	_	7	pobj
+11	is	be	VBZ	_	12	cop
+12	equal	equal	JJ	_	0	ROOT
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	16	det
+15	transfer	transfer	NN	_	16	nn
+16	constant	constant	JJ	_	13	pobj
+17	for	for	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	loss	loss	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	fluid	fluid	NN	_	20	pobj
+22	.	.	.	_	12	punct
+

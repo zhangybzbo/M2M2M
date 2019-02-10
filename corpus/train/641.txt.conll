@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	person	person	NN	_	3	nsubj
+3	regains	regain	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	movement	movement	NN	_	3	dobj
+6	roughly	roughly	RB	_	7	advmod
+7	equal	equal	JJ	_	3	acomp
+8	to	to	TO	_	7	prep
+9	walking	walk	VBG	_	8	pcomp
+10	on	on	IN	_	9	prep
+11	solid	solid	JJ	_	12	amod
+12	ground	ground	NN	_	10	pobj
+13	by	by	IN	_	9	prep
+14	using	use	VBG	_	13	pcomp
+15	snowshoes	snowshoe	NNS	_	14	dobj
+16	.	.	.	_	3	punct
+

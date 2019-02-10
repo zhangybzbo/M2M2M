@@ -1,0 +1,3 @@
+T1	Term 2 10	musician
+T2	Term 30 35	album
+R1	Product-Producer Arg1:T2 Arg2:T1

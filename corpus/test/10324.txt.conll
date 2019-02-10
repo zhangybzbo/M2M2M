@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	exhibition	exhibition	NN	_	3	nsubj
+3	displayed	display	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	historical	historical	JJ	_	6	amod
+6	view	view	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	video	video	NN	_	10	nn
+9	game	game	NN	_	10	nn
+10	development	development	NN	_	7	pobj
+11	from	from	IN	_	6	prep
+12	early	early	JJ	_	14	amod
+13	arcade	arcade	NN	_	14	nn
+14	games	game	NNS	_	11	pobj
+15	to	to	TO	_	3	prep
+16	the	the	DT	_	17	det
+17	present	present	JJ	_	15	pobj
+18	.	.	.	_	3	punct
+

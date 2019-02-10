@@ -1,0 +1,20 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	yeast	yeast	NN	_	5	nn
+5	infection	infection	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	esophagus	esophagus	NN	_	6	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	same	same	JJ	_	13	amod
+13	fungus	fungus	NN	_	10	pobj
+14	that	that	WDT	_	15	nsubj
+15	causes	cause	VBZ	_	13	rcmod
+16	vaginal	vaginal	JJ	_	18	amod
+17	yeast	yeast	NN	_	18	nn
+18	infections	infection	NNS	_	15	dobj
+19	.	.	.	_	5	punct
+

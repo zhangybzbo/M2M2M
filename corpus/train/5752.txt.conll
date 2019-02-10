@@ -1,0 +1,16 @@
+1	Following	follow	VBG	_	4	dep
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	statement	statement	NN	_	0	ROOT
+5	released	release	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	lawyers	lawyer	NNS	_	6	pobj
+9	acting	act	VBG	_	8	vmod
+10	on	on	IN	_	9	prep
+11	behalf	behalf	NN	_	10	pobj
+12	of	of	IN	_	11	prep
+13	Humayra	Humayra	NNP	_	14	nn
+14	Abedin	Abedin	NNP	_	12	pobj
+15	.	.	.	_	4	punct
+

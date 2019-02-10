@@ -1,0 +1,8 @@
+1	This	this	DT	_	2	det
+2	statement	statement	NN	_	3	nsubj
+3	threw	throw	VBD	_	0	ROOT
+4	people	people	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	chaos	chaos	NN	_	5	pobj
+7	.	.	.	_	3	punct
+

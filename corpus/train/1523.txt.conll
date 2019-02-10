@@ -1,0 +1,14 @@
+1	Williams	Williams	NNP	_	2	nn
+2	syndrome	syndrome	NN	_	0	ROOT
+3	:	:	:	_	2	punct
+4	a	a	DT	_	6	det
+5	genetic	genetic	JJ	_	6	amod
+6	disorder	disorder	NN	_	2	dep
+7	that	that	WDT	_	8	nsubj
+8	results	result	VBZ	_	6	rcmod
+9	in	in	IN	_	8	prep
+10	selective	selective	JJ	_	12	amod
+11	cognitive	cognitive	JJ	_	12	amod
+12	impairment	impairment	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

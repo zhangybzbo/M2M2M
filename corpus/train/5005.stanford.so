@@ -1,0 +1,10 @@
+0	39	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="aircraft" pos="NN" nsubjpass="t3"
+13	15	tok id="t2" base="be" pos="VBZ" auxpass="t3"
+16	21	tok id="t3" base="move" pos="VBN" ROOT="ROOT"
+22	26	tok id="t4" base="into" pos="IN" prep="t3"
+27	30	tok id="t5" base="the" pos="DT" det="t6"
+31	37	tok id="t6" base="hangar" pos="NN" pobj="t4"
+38	39	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,24 @@
+1	To	to	TO	_	2	aux
+2	separate	separate	VB	_	15	advcl
+3	the	the	DT	_	4	det
+4	solids	solid	NNS	_	2	dobj
+5	at	at	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	end	end	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	experiment	experiment	NN	_	8	pobj
+11	,	,	,	_	15	punct
+12	the	the	DT	_	13	det
+13	clay	clay	NN	_	15	nsubjpass
+14	was	be	VBD	_	15	auxpass
+15	contained	contain	VBN	_	0	ROOT
+16	in	in	IN	_	15	prep
+17	a	a	DT	_	22	det
+18	semi	semus	NN	_	22	nn
+19	-	-	:	_	22	punct
+20	permeable	permeable	JJ	_	22	amod
+21	membrane	membrane	NN	_	22	nn
+22	tubing	tubing	NN	_	16	pobj
+23	.	.	.	_	15	punct
+

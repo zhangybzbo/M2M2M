@@ -1,0 +1,22 @@
+1	Job	Job	NNP	_	2	nn
+2	dissatisfaction	dissatisfaction	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	one	one	CD	_	14	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	main	main	JJ	_	8	amod
+8	causes	cause	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	stress	stress	NN	_	9	pobj
+11	and	and	CC	_	10	cc
+12	stress	stress	NN	_	10	conj
+13	is	be	VBZ	_	14	cop
+14	one	one	CD	_	0	ROOT
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	main	main	JJ	_	18	amod
+18	causes	cause	NNS	_	15	pobj
+19	of	of	IN	_	18	prep
+20	illness	illness	NN	_	19	pobj
+21	.	.	.	_	14	punct
+

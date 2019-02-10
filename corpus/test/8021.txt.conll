@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	outline	outline	NN	_	3	nsubj
+3	focuses	focus	VBZ	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	spirituality	spirituality	NN	_	4	pobj
+6	,	,	,	_	5	punct
+7	esotericism	esotericism	NN	_	5	conj
+8	,	,	,	_	5	punct
+9	mysticism	mysticism	NN	_	5	conj
+10	,	,	,	_	5	punct
+11	religion	religion	NN	_	5	conj
+12	and/or	and/or	CC	_	5	cc
+13	parapsychology	parapsychology	NN	_	5	conj
+14	.	.	.	_	3	punct
+

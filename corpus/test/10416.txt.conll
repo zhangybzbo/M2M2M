@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	nsubj
+2	intermixed	intermix	VBD	_	0	ROOT
+3	rookery	rookery	NN	_	2	dobj
+4	of	of	IN	_	3	prep
+5	glossy	glossy	JJ	_	6	amod
+6	ibis	ibis	NN	_	4	pobj
+7	,	,	,	_	6	punct
+8	herons	heron	NNS	_	6	conj
+9	,	,	,	_	6	punct
+10	and	and	CC	_	6	cc
+11	egrets	egret	NNS	_	6	conj
+12	first	first	RB	_	13	advmod
+13	established	establish	VBN	_	11	vmod
+14	itself	itself	PRP	_	13	dobj
+15	on	on	IN	_	13	prep
+16	Sheffield	Sheffield	NNP	_	17	nn
+17	Island	Island	NNP	_	15	pobj
+18	in	in	IN	_	13	prep
+19	1961	1961	CD	_	18	pobj
+20	with	with	IN	_	19	prep
+21	28	28	CD	_	23	num
+22	nesting	nesting	JJ	_	23	amod
+23	pairs	pair	NNS	_	20	pobj
+24	.	.	.	_	2	punct
+

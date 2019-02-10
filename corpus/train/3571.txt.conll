@@ -1,0 +1,24 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	satirical	satirical	JJ	_	5	amod
+5	show	show	NN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	Quebec	Quebec	NNP	_	8	nn
+8	television	television	NN	_	6	pobj
+9	that	that	WDT	_	10	nsubj
+10	comments	comment	VBZ	_	5	rcmod
+11	on	on	IN	_	10	prep
+12	current	current	JJ	_	13	amod
+13	events	event	NNS	_	11	pobj
+14	by	by	IN	_	10	prep
+15	the	the	DT	_	16	det
+16	favour	favour	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	show	show	NN	_	22	poss
+20	's	's	POS	_	19	possessive
+21	main	main	JJ	_	22	amod
+22	character	character	NN	_	17	pobj
+23	.	.	.	_	5	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	probe	probe	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	generated	generate	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	amplified	amplify	VBN	_	9	amod
+8	DNA	dna	NN	_	9	nn
+9	fragment	fragment	NN	_	5	pobj
+10	,	,	,	_	4	punct
+11	using	use	VBG	_	4	xcomp
+12	pRD136	prd136	NN	_	11	dobj
+13	as	as	IN	_	11	prep
+14	the	the	DT	_	15	det
+15	template	template	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

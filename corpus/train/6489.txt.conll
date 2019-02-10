@@ -1,0 +1,21 @@
+1	A	a	DT	_	6	det
+2	real-time	real-time	JJ	_	6	amod
+3	three	three	CD	_	6	num
+4	dimensional	dimensional	JJ	_	6	amod
+5	echocardiography	echocardiography	NN	_	6	nn
+6	system	system	NN	_	8	nsubj
+7	has	have	VBZ	_	8	aux
+8	arrived	arrive	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	our	we	PRP$	_	12	poss
+11	clinical	clinical	JJ	_	12	amod
+12	cardiology	cardiology	NN	_	9	pobj
+13	,	,	,	_	8	punct
+14	allowing	allow	VBG	_	8	xcomp
+15	noninvasive	noninvasive	JJ	_	19	amod
+16	and	and	CC	_	15	cc
+17	repeatable	repeatable	JJ	_	15	conj
+18	spatial	spatial	JJ	_	19	amod
+19	visualisation	visualisation	NN	_	14	dobj
+20	.	.	.	_	8	punct
+

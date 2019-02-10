@@ -1,0 +1,11 @@
+0	58	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="real-world" pos="JJ" amod="t1"
+11	17	tok id="t1" base="truth" pos="NNS" nsubjpass="t3"
+18	22	tok id="t2" base="be" pos="VBD" auxpass="t3"
+23	31	tok id="t3" base="import" pos="VBN" ROOT="ROOT"
+32	36	tok id="t4" base="into" pos="IN" prep="t3"
+37	40	tok id="t5" base="the" pos="DT" det="t7"
+41	50	tok id="t6" base="fictional" pos="JJ" amod="t7"
+51	56	tok id="t7" base="world" pos="NN" pobj="t4"
+57	58	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

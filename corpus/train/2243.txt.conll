@@ -1,0 +1,24 @@
+1	He	he	PRP	_	2	nsubj
+2	scored	score	VBD	_	0	ROOT
+3	10	10	CD	_	2	dobj
+4	out	out	IN	_	2	prep
+5	of	of	IN	_	4	pcomp
+6	14	14	CD	_	5	pobj
+7	,	,	,	_	2	punct
+8	performed	perform	VBN	_	2	conj
+9	below	below	IN	_	8	prep
+10	his	he	PRP$	_	11	poss
+11	rating	rating	NN	_	9	pobj
+12	at	at	IN	_	11	prep
+13	2474	2474	CD	_	12	pobj
+14	,	,	,	_	2	punct
+15	but	but	CC	_	2	cc
+16	still	still	RB	_	19	advmod
+17	was	be	VBD	_	19	cop
+18	the	the	DT	_	19	det
+19	striker	striker	NN	_	2	conj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	team	team	NN	_	20	pobj
+23	.	.	.	_	2	punct
+

@@ -1,0 +1,17 @@
+1	That	that	DT	_	2	nsubj
+2	's	be	VBZ	_	0	ROOT
+3	because	because	IN	_	7	mark
+4	local	local	JJ	_	5	amod
+5	stations	station	NNS	_	7	nsubj
+6	are	be	VBP	_	7	aux
+7	beginning	begin	VBG	_	2	advcl
+8	to	to	TO	_	9	aux
+9	provide	provide	VB	_	7	xcomp
+10	digital	digital	JJ	_	11	amod
+11	channels	channel	NNS	_	9	dobj
+12	devoted	devote	VBN	_	11	vmod
+13	entirely	entirely	RB	_	12	advmod
+14	to	to	TO	_	15	aux
+15	weather	weather	VB	_	12	xcomp
+16	.	.	.	_	2	punct
+

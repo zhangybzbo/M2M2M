@@ -1,0 +1,25 @@
+1	Frazerian	frazerian	JJ	_	2	amod
+2	theory	theory	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	corn	corn	NN	_	5	nn
+5	spirits	spirit	NNS	_	3	pobj
+6	and	and	CC	_	5	cc
+7	fertility	fertility	NN	_	5	conj
+8	and	and	CC	_	2	cc
+9	have	have	VBP	_	11	aux
+10	thus	thus	RB	_	11	advmod
+11	needed	need	VBN	_	2	conj
+12	to	to	TO	_	13	aux
+13	enquire	enquire	VB	_	11	xcomp
+14	no	no	DT	_	15	neg
+15	further	further	RB	_	13	advmod
+16	,	,	,	_	2	punct
+17	so	so	IN	_	22	mark
+18	their	they	PRP$	_	19	poss
+19	distribution	distribution	NN	_	22	nsubj
+20	and	and	CC	_	19	cc
+21	function	function	NN	_	19	conj
+22	remains	remain	VBZ	_	2	dep
+23	unclear	unclear	JJ	_	22	acomp
+24	.	.	.	_	2	punct
+

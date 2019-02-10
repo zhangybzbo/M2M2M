@@ -1,0 +1,13 @@
+1	Recently	recently	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	interviews	interview	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	conduced	conduce	VBN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	topic	topic	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	academic	academic	JJ	_	11	amod
+11	freedom	freedom	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

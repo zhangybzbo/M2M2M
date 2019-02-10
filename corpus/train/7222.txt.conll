@@ -1,0 +1,14 @@
+1	He	he	PRP	_	2	nsubj
+2	went	go	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	to	to	TO	_	5	aux
+5	examine	examine	VB	_	3	pcomp
+6	the	the	DT	_	7	det
+7	theory	theory	NN	_	5	dobj
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	risk	risk	NN	_	12	nn
+11	assessment	assessment	NN	_	12	nn
+12	perspective	perspective	NN	_	8	pobj
+13	.	.	.	_	2	punct
+

@@ -1,0 +1,24 @@
+1	A	a	DT	_	3	det
+2	state	state	NN	_	3	nn
+3	church	church	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	created	create	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	state	state	NN	_	6	pobj
+9	,	,	,	_	5	punct
+10	as	as	IN	_	5	prep
+11	in	in	IN	_	10	pcomp
+12	the	the	DT	_	13	det
+13	cases	case	NNS	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	Anglican	anglican	JJ	_	17	amod
+17	Church	Church	NNP	_	14	pobj
+18	,	,	,	_	17	punct
+19	created	create	VBN	_	17	vmod
+20	by	by	IN	_	19	prep
+21	Henry	Henry	NNP	_	22	nn
+22	VIII	VIII	NNP	_	20	pobj
+23	.	.	.	_	5	punct
+

@@ -1,0 +1,26 @@
+1	On	on	IN	_	11	prep
+2	Sunday	Sunday	NNP	_	3	nn
+3	afternoon	afternoon	NN	_	1	pobj
+4	,	,	,	_	11	punct
+5	passengers	passenger	NNS	_	11	nsubj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	United	United	NNP	_	9	nn
+9	flight	flight	NN	_	6	pobj
+10	were	be	VBD	_	11	aux
+11	leaving	leave	VBG	_	0	ROOT
+12	the	the	DT	_	13	det
+13	airport	airport	NN	_	11	dobj
+14	after	after	IN	_	11	prep
+15	being	be	VBG	_	16	auxpass
+16	taken	take	VBN	_	14	pcomp
+17	to	to	TO	_	16	prep
+18	a	a	DT	_	19	det
+19	room	room	NN	_	17	pobj
+20	there	there	RB	_	19	advmod
+21	for	for	IN	_	16	prep
+22	about	about	IN	_	23	quantmod
+23	three	three	CD	_	24	num
+24	hours	hour	NNS	_	21	pobj
+25	.	.	.	_	11	punct
+

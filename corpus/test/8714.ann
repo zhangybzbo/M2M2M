@@ -1,0 +1,3 @@
+T1	Term 274 283	committee
+T2	Term 296 304	vultures
+R1	Member-Collection Arg1:T2 Arg2:T1

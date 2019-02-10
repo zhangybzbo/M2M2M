@@ -1,0 +1,27 @@
+1	When	when	WRB	_	6	advmod
+2	a	a	DT	_	3	det
+3	property	property	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	the	the	DT	_	6	det
+6	source	source	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	data	datum	NN	_	11	nn
+10	binding	binding	NN	_	11	nn
+11	expression	expression	NN	_	7	pobj
+12	,	,	,	_	15	punct
+13	Flex	Flex	NNP	_	15	nn
+14	automatically	automatically	RB	_	15	advmod
+15	copies	copy	NNS	_	6	dep
+16	the	the	DT	_	17	det
+17	value	value	NN	_	15	dep
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	source	source	NN	_	21	nn
+21	property	property	NN	_	18	pobj
+22	to	to	TO	_	17	prep
+23	any	any	DT	_	25	det
+24	destination	destination	NN	_	25	nn
+25	property	property	NN	_	22	pobj
+26	.	.	.	_	15	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	best	best	JJS	_	4	amod
+3	online	online	NN	_	4	nn
+4	advices	advice	NNS	_	5	nsubj
+5	come	come	VBP	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	websites	website	NNS	_	6	pobj
+9	that	that	WDT	_	11	nsubjpass
+10	are	be	VBP	_	11	auxpass
+11	specialized	specialize	VBN	_	8	rcmod
+12	in	in	IN	_	11	prep
+13	college	college	NN	_	16	nn
+14	and	and	CC	_	13	cc
+15	NBA	NBA	NNP	_	13	conj
+16	leagues	league	NNS	_	12	pobj
+17	.	.	.	_	5	punct
+

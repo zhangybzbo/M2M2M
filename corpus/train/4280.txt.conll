@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	massacre	massacre	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	9	det
+6	local	local	JJ	_	9	amod
+7	and	and	CC	_	6	cc
+8	international	international	JJ	_	6	conj
+9	onslaught	onslaught	NN	_	4	pobj
+10	.	.	.	_	3	punct
+

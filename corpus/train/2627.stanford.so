@@ -1,0 +1,9 @@
+0	56	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="its" pos="PRP$" poss="t2"
+4	16	tok id="t1" base="introduction" pos="NN" nn="t2"
+17	25	tok id="t2" base="supplies" pos="NNS" ROOT="ROOT"
+26	32	tok id="t3" base="useful" pos="JJ" amod="t5"
+33	43	tok id="t4" base="historical" pos="JJ" amod="t5"
+44	54	tok id="t5" base="background" pos="NN" dep="t2"
+55	56	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

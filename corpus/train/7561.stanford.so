@@ -1,0 +1,13 @@
+0	77	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	15	tok id="t1" base="measurement" pos="NN" nsubjpass="t3"
+16	19	tok id="t2" base="be" pos="VBD" auxpass="t3"
+20	24	tok id="t3" base="make" pos="VBN" ROOT="ROOT"
+25	30	tok id="t4" base="use" pos="VBG" xcomp="t3"
+31	32	tok id="t5" base="a" pos="DT" det="t9"
+33	50	tok id="t6" base="gonio-photometric" pos="JJ" amod="t9"
+51	56	tok id="t7" base="color" pos="NN" nn="t9"
+57	68	tok id="t8" base="measurement" pos="NN" nn="t9"
+69	75	tok id="t9" base="system" pos="NN" dobj="t4"
+76	77	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

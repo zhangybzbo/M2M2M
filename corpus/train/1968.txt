@@ -1,0 +1,1 @@
+The user is cooling a processor with a power usage of 35W , using a conventional heatsink .

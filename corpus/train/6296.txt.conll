@@ -1,0 +1,18 @@
+1	People	people	NNS	_	2	nsubj
+2	walk	walk	VBP	_	0	ROOT
+3	past	past	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	poster	poster	NN	_	6	nn
+6	advertising	advertising	NN	_	3	pobj
+7	a	a	DT	_	10	det
+8	luxury	luxury	NN	_	10	nn
+9	fashion	fashion	NN	_	10	nn
+10	brand	brand	NN	_	6	dep
+11	on	on	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	main	main	JJ	_	14	amod
+14	street	street	NN	_	11	pobj
+15	in	in	IN	_	14	prep
+16	Shanghai	Shanghai	NNP	_	15	pobj
+17	.	.	.	_	2	punct
+

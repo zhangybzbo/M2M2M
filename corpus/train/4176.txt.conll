@@ -1,0 +1,9 @@
+1	He	he	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	inherited	inherit	VBN	_	0	ROOT
+4	susceptibility	susceptibility	NN	_	3	dobj
+5	to	to	TO	_	4	prep
+6	certain	certain	JJ	_	7	amod
+7	cancers	cancer	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

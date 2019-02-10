@@ -1,0 +1,17 @@
+1	They	they	PRP	_	2	nsubj
+2	chose	choose	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	shop	shop	NN	_	2	dobj
+5	that	that	IN	_	7	mark
+6	oven	oven	NN	_	7	nsubj
+7	bakes	bake	VBZ	_	4	ccomp
+8	the	the	DT	_	9	det
+9	paint	paint	NN	_	7	dobj
+10	in	in	IN	_	7	prep
+11	a	a	DT	_	10	pobj
+12	down	down	RB	_	11	advmod
+13	draft	draft	NN	_	15	nn
+14	paint	paint	NN	_	15	nn
+15	booth	booth	NN	_	12	pobj
+16	.	.	.	_	2	punct
+

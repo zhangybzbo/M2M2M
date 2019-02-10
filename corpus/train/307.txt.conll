@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	temperature	temperature	NN	_	8	nsubjpass
+3	at	at	IN	_	2	prep
+4	which	which	WDT	_	6	det
+5	flower	flower	NN	_	6	nn
+6	buds	bud	NNS	_	3	pobj
+7	are	be	VBP	_	8	auxpass
+8	injured	injure	VBN	_	0	ROOT
+9	depends	depend	VBZ	_	8	dep
+10	.	.	.	_	8	punct
+

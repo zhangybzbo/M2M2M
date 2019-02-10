@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj
+2	served	serve	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	bowl	bowl	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	delicious	delicious	JJ	_	7	amod
+7	soup	soup	NN	_	5	pobj
+8	in	in	IN	_	2	prep
+9	a	a	DT	_	10	det
+10	dish	dish	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	ivory	ivory	NN	_	13	nn
+13	china	china	NN	_	11	pobj
+14	.	.	.	_	2	punct
+

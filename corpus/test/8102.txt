@@ -1,0 +1,1 @@
+The monitoring station receives the signal through a communication device and the combined signal is processed to retrieve GPS data .

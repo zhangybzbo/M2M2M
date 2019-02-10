@@ -1,0 +1,12 @@
+1	Ten	ten	CD	_	2	num
+2	applications	application	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	auxpass
+4	automatically	automatically	RB	_	5	advmod
+5	entered	enter	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	monthly	monthly	JJ	_	10	amod
+9	prize	prize	NN	_	10	nn
+10	draw	draw	NN	_	6	pobj
+11	.	.	.	_	5	punct
+

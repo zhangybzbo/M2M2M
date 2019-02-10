@@ -1,0 +1,21 @@
+1	Orange	Orange	NNP	_	2	nn
+2	juice	juice	NN	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	popular	popular	JJ	_	7	amod
+6	breakfast	breakfast	NN	_	7	nn
+7	beverage	beverage	NN	_	0	ROOT
+8	made	make	VBN	_	7	vmod
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	extraction	extraction	NN	_	9	pobj
+12	-LRB-	-lrb-	-LRB-	_	13	punct
+13	squeezing	squeeze	VBG	_	11	dep
+14	-RRB-	-rrb-	-RRB-	_	13	punct
+15	of	of	IN	_	11	prep
+16	liquid	liquid	NN	_	15	pobj
+17	from	from	IN	_	8	prep
+18	fresh	fresh	JJ	_	19	amod
+19	oranges	orange	NNS	_	17	pobj
+20	.	.	.	_	7	punct
+

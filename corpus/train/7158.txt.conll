@@ -1,0 +1,22 @@
+1	Videotape	videotape	NN	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	fragile	fragile	JJ	_	6	amod
+5	medium	medium	NN	_	6	nn
+6	subject	subject	NN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	damage	damage	NN	_	7	pobj
+9	and	and	CC	_	8	cc
+10	deterioration	deterioration	NN	_	8	conj
+11	from	from	IN	_	8	prep
+12	exposure	exposure	NN	_	11	pobj
+13	to	to	TO	_	12	prep
+14	poor	poor	JJ	_	16	amod
+15	environmental	environmental	JJ	_	16	amod
+16	conditions	condition	NNS	_	13	pobj
+17	and	and	CC	_	16	cc
+18	inadequate	inadequate	JJ	_	20	amod
+19	handling	handling	NN	_	20	nn
+20	practices	practice	NNS	_	16	conj
+21	.	.	.	_	6	punct
+

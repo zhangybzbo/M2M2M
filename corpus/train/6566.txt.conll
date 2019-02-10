@@ -1,0 +1,14 @@
+1	Mind	mind	VB	_	0	ROOT
+2	you	you	PRP	_	7	nsubjpass
+3	,	,	,	_	2	punct
+4	a	a	DT	_	5	det
+5	backpack	backpack	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	interpreted	interpret	VBN	_	1	ccomp
+8	as	as	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	sign	sign	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	geeks	geek	NNS	_	11	pobj
+13	.	.	.	_	1	punct
+

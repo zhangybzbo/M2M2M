@@ -1,0 +1,18 @@
+1	On	on	IN	_	4	prep
+2	his	he	PRP$	_	3	poss
+3	blog	blog	NN	_	1	pobj
+4	theres	there	VBZ	_	0	ROOT
+5	a	a	DT	_	7	det
+6	2-Part	2-part	JJ	_	7	amod
+7	article	article	NN	_	4	dobj
+8	about	about	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	girl	girl	NN	_	8	pobj
+11	who	who	WP	_	12	nsubj
+12	escaped	escape	VBD	_	10	rcmod
+13	from	from	IN	_	12	prep
+14	an	a	DT	_	16	det
+15	Amish	amish	JJ	_	16	amod
+16	community	community	NN	_	13	pobj
+17	.	.	.	_	4	punct
+

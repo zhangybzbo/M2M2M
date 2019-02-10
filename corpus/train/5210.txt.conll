@@ -1,0 +1,13 @@
+1	This	this	DT	_	3	det
+2	two-day	two-day	JJ	_	3	amod
+3	tutorial	tutorial	NN	_	4	nsubj
+4	introduced	introduce	VBN	_	0	ROOT
+5	astronomers	astronomer	NNS	_	4	dobj
+6	to	to	TO	_	5	prep
+7	modern	modern	JJ	_	8	amod
+8	methods	method	NNS	_	6	pobj
+9	in	in	IN	_	8	prep
+10	nonparametric	nonparametric	JJ	_	11	amod
+11	statistics	statistics	NNS	_	9	pobj
+12	.	.	.	_	4	punct
+

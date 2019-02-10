@@ -1,0 +1,22 @@
+1	Everything	everything	NN	_	4	nsubjpass
+2	's	be	VBZ	_	4	auxpass
+3	been	be	VBN	_	4	auxpass
+4	done	do	VBN	_	8	advcl
+5	,	,	,	_	8	punct
+6	all	all	DT	_	7	det
+7	interventions	intervention	NNS	_	8	nsubj
+8	applied	apply	VBD	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	everyone	everyone	NN	_	12	nsubj
+11	has	have	VBZ	_	12	aux
+12	worked	work	VBN	_	8	conj
+13	hard	hard	RB	_	12	advmod
+14	at	at	IN	_	8	prep
+15	motivating	motivate	VBG	_	14	pcomp
+16	that	that	IN	_	15	dobj
+17	cohort	cohort	NN	_	16	dep
+18	of	of	IN	_	17	prep
+19	underperforming	underperform	VBG	_	20	amod
+20	students	student	NNS	_	18	pobj
+21	.	.	.	_	8	punct
+

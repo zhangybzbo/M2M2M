@@ -1,0 +1,20 @@
+1	When	when	WRB	_	4	advmod
+2	I	I	PRP	_	4	nsubj
+3	first	first	RB	_	4	advmod
+4	arrived	arrive	VBD	_	9	advcl
+5	in	in	IN	_	4	prep
+6	Italy	Italy	NNP	_	5	pobj
+7	I	I	PRP	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	amazed	amaze	VBN	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	find	find	VB	_	9	xcomp
+12	that	that	IN	_	14	mark
+13	they	they	PRP	_	14	nsubj
+14	sell	sell	VBP	_	11	ccomp
+15	wine	wine	NN	_	14	dobj
+16	in	in	IN	_	14	prep
+17	a	a	DT	_	18	det
+18	carton	carton	NN	_	16	pobj
+19	.	.	.	_	9	punct
+

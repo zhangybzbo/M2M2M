@@ -1,0 +1,16 @@
+1	My	my	PRP$	_	2	poss
+2	father	father	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	lunch-group	lunch-group	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	old-timey	old-timey	JJ	_	10	amod
+9	political	political	JJ	_	10	amod
+10	people	people	NNS	_	7	pobj
+11	called	call	VBN	_	10	vmod
+12	The	the	DT	_	14	det
+13	Sacramento	Sacramento	NNP	_	14	nn
+14	Seminar	Seminar	NNP	_	11	dep
+15	.	.	.	_	3	punct
+

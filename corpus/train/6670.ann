@@ -1,0 +1,3 @@
+T1	Term 67 73	bagful
+T2	Term 77 81	lies
+R1	Member-Collection Arg1:T2 Arg2:T1

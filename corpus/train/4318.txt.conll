@@ -1,0 +1,25 @@
+1	Hardcore	hardcore	NN	_	3	nn
+2	country	country	NN	_	3	nn
+3	cats	cat	NNS	_	5	nsubj
+4	are	be	VBP	_	5	cop
+5	happy	happy	JJ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	live	live	VB	_	5	xcomp
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	shed	shed	NN	_	8	pobj
+11	or	or	CC	_	10	cc
+12	the	the	DT	_	14	det
+13	chicken	chicken	NN	_	14	nn
+14	house	house	NN	_	10	conj
+15	,	,	,	_	5	punct
+16	or	or	CC	_	5	cc
+17	a	a	DT	_	18	det
+18	nest	nest	NN	_	23	nsubj
+19	deep	deep	JJ	_	18	amod
+20	inside	inside	IN	_	19	prep
+21	a	a	DT	_	22	det
+22	straw	straw	NN	_	20	pobj
+23	stack	stack	VBP	_	5	conj
+24	.	.	.	_	5	punct
+

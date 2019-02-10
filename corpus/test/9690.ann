@@ -1,0 +1,3 @@
+T1	Term 28 37	screaming
+T2	Term 57 65	shooting
+R1	Cause-Effect Arg1:T2 Arg2:T1

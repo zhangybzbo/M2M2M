@@ -1,0 +1,11 @@
+0	50	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Chemical" pos="NNP" nn="t1"
+9	16	tok id="t1" base="weapon" pos="NNS" nsubjpass="t4"
+17	21	tok id="t2" base="have" pos="VBP" aux="t4"
+22	26	tok id="t3" base="be" pos="VBN" auxpass="t4"
+27	34	tok id="t4" base="drop" pos="VBN" ROOT="ROOT"
+35	39	tok id="t5" base="into" pos="IN" prep="t4"
+40	43	tok id="t6" base="the" pos="DT" det="t7"
+44	48	tok id="t7" base="lake" pos="NN" pobj="t5"
+49	50	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

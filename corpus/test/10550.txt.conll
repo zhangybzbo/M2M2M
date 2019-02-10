@@ -1,0 +1,18 @@
+1	Thus	thus	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	fisherman	fisherman	NN	_	5	nsubj
+5	bought	buy	VBD	_	0	ROOT
+6	his	he	PRP$	_	8	poss
+7	own	own	JJ	_	8	amod
+8	boat	boat	NN	_	5	dobj
+9	in	in	IN	_	5	prep
+10	1991	1991	CD	_	9	pobj
+11	,	,	,	_	5	punct
+12	after	after	IN	_	5	prep
+13	renting	rent	VBG	_	12	pcomp
+14	one	one	CD	_	16	num
+15	many	many	JJ	_	16	amod
+16	years	year	NNS	_	13	tmod
+17	.	.	.	_	5	punct
+

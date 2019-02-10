@@ -1,0 +1,11 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	another	another	DT	_	5	det
+4	false	false	JJ	_	5	amod
+5	story	story	NN	_	0	ROOT
+6	fabricated	fabricate	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	sheriff	sheriff	NN	_	7	pobj
+10	.	.	.	_	5	punct
+

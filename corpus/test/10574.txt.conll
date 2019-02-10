@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	area	area	NN	_	0	ROOT
+3	selected	select	VBN	_	2	vmod
+4	easily	easily	RB	_	5	advmod
+5	accommodated	accommodate	VBN	_	3	dep
+6	a	a	DT	_	7	det
+7	pen	pen	NN	_	5	dobj
+8	that	that	WDT	_	10	nsubj
+9	was	be	VBD	_	10	cop
+10	16	16	CD	_	7	rcmod
+11	by	by	IN	_	10	prep
+12	24	24	CD	_	13	num
+13	inches	inch	NNS	_	11	pobj
+14	.	.	.	_	2	punct
+

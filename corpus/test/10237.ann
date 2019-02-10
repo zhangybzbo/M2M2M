@@ -1,0 +1,3 @@
+T1	Term 0 7	Members
+T2	Term 66 75	computers
+R1	Product-Producer Arg1:T2 Arg2:T1

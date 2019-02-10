@@ -1,0 +1,24 @@
+1	On	on	IN	_	12	prep
+2	29	29	CD	_	3	num
+3	August	August	NNP	_	1	pobj
+4	1914	1914	CD	_	3	num
+5	,	,	,	_	12	punct
+6	C	c	NN	_	7	nn
+7	Squadron	squadron	NN	_	12	nsubj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	12th	12th	JJ	_	11	amod
+11	Lancers	Lancers	NNPS	_	8	pobj
+12	made	make	VBD	_	0	ROOT
+13	a	a	DT	_	15	det
+14	successful	successful	JJ	_	15	amod
+15	charge	charge	NN	_	12	dobj
+16	against	against	IN	_	15	prep
+17	a	a	DT	_	19	det
+18	dismounted	dismounted	JJ	_	19	amod
+19	squadron	squadron	NN	_	16	pobj
+20	of	of	IN	_	19	prep
+21	Prussian	prussian	JJ	_	22	amod
+22	dragoons	dragoon	NNS	_	20	pobj
+23	.	.	.	_	12	punct
+

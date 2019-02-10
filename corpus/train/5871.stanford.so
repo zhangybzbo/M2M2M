@@ -1,0 +1,13 @@
+0	82	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	18	tok id="t1" base="microprocessor" pos="NN" nn="t2"
+19	26	tok id="t2" base="cluster" pos="NN" nsubjpass="t5"
+27	30	tok id="t3" base="have" pos="VBZ" aux="t5"
+31	35	tok id="t4" base="be" pos="VBN" auxpass="t5"
+36	44	tok id="t5" base="migrate" pos="VBN" ROOT="ROOT"
+45	49	tok id="t6" base="into" pos="IN" prep="t5"
+50	58	tok id="t7" base="high-end" pos="JJ" amod="t9"
+59	67	tok id="t8" base="embedded" pos="JJ" amod="t9"
+68	80	tok id="t9" base="application" pos="NNS" pobj="t6"
+81	82	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

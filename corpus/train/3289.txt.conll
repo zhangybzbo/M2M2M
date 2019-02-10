@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	trip	trip	NN	_	11	nsubj
+3	of	of	IN	_	2	prep
+4	two	two	CD	_	6	num
+5	mountain	mountain	NN	_	6	nn
+6	goats	goat	NNS	_	3	pobj
+7	to	to	TO	_	11	aux
+8	was	be	VBD	_	11	cop
+9	also	also	RB	_	11	advmod
+10	a	a	DT	_	11	det
+11	subject	subject	NN	_	0	ROOT
+12	for	for	IN	_	11	prep
+13	discussion	discussion	NN	_	12	pobj
+14	.	.	.	_	11	punct
+

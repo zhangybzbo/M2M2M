@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	products	product	NNS	_	8	nsubj
+3	manufactured	manufacture	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	firm	firm	NN	_	4	pobj
+7	still	still	RB	_	8	advmod
+8	continue	continue	VBP	_	0	ROOT
+9	to	to	TO	_	12	aux
+10	be	be	VB	_	12	cop
+11	chiefly	chiefly	RB	_	12	advmod
+12	dyestuffs	dyestuff	NNS	_	8	xcomp
+13	.	.	.	_	8	punct
+

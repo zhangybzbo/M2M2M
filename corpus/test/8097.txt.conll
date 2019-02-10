@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	aim	aim	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	section	section	NN	_	3	pobj
+6	is	be	VBZ	_	8	cop
+7	the	the	DT	_	8	det
+8	interpretation	interpretation	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	results	result	NNS	_	9	pobj
+12	and	and	CC	_	11	cc
+13	their	they	PRP$	_	14	poss
+14	relation	relation	NN	_	11	conj
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	18	det
+17	existing	exist	VBG	_	18	amod
+18	knowledge	knowledge	NN	_	15	pobj
+19	.	.	.	_	8	punct
+

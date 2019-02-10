@@ -1,0 +1,14 @@
+1	It	it	PRP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	marked	mark	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	sign	sign	NN	_	4	pobj
+7	indicating	indicate	VBG	_	6	vmod
+8	the	the	DT	_	9	det
+9	length	length	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	pause	pause	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

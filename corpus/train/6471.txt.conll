@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	disc	disc	NN	_	8	nsubj
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	7	det
+5	disc	disc	NN	_	7	nn
+6	music	music	NN	_	7	nn
+7	box	box	NN	_	3	pobj
+8	plays	play	VBZ	_	0	ROOT
+9	this	this	DT	_	10	det
+10	function	function	NN	_	8	dobj
+11	,	,	,	_	8	punct
+12	with	with	IN	_	8	prep
+13	pins	pin	NNS	_	12	pobj
+14	perpendicular	perpendicular	JJ	_	13	amod
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	18	det
+17	plane	plane	NN	_	18	nn
+18	surface	surface	NN	_	15	pobj
+19	.	.	.	_	8	punct
+

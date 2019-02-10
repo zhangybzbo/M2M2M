@@ -1,0 +1,27 @@
+1	We	we	PRP	_	2	nsubj
+2	leave	leave	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	bail	bail	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	reel	reel	NN	_	5	pobj
+8	open	open	JJ	_	7	amod
+9	and	and	CC	_	2	cc
+10	place	place	VB	_	2	conj
+11	your	you	PRP$	_	13	poss
+12	the	the	DT	_	13	det
+13	rod	rod	NN	_	10	dobj
+14	in	in	IN	_	10	prep
+15	a	a	DT	_	14	pobj
+16	double	double	JJ	_	15	amod
+17	mounted	mount	VBN	_	16	dep
+18	set	set	VBN	_	17	acomp
+19	up	up	RP	_	18	prt
+20	as	as	IN	_	21	mark
+21	shown	show	VBN	_	18	advcl
+22	on	on	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	facing	face	VBG	_	25	amod
+25	page	page	NN	_	22	pobj
+26	.	.	.	_	2	punct
+

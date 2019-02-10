@@ -1,0 +1,12 @@
+1	Sunflower	sunflower	NN	_	2	nn
+2	oil	oil	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	obtained	obtain	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	extracting	extract	VBG	_	5	pcomp
+7	oil	oil	NN	_	6	dobj
+8	from	from	IN	_	7	prep
+9	sunflower	sunflower	NN	_	10	nn
+10	seeds	seed	NNS	_	8	pobj
+11	.	.	.	_	4	punct
+

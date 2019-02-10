@@ -1,0 +1,16 @@
+1	He	he	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	personally	personally	RB	_	4	advmod
+4	responsible	responsible	JJ	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	carnage	carnage	NN	_	5	pobj
+8	that	that	WDT	_	11	nsubjpass
+9	has	have	VBZ	_	11	aux
+10	been	be	VBN	_	11	auxpass
+11	caused	cause	VBN	_	7	rcmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	fight	fight	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

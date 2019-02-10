@@ -1,0 +1,21 @@
+1	Not	not	RB	_	2	neg
+2	only	only	RB	_	0	ROOT
+3	was	be	VBD	_	2	dep
+4	the	the	DT	_	5	det
+5	manna	manna	NN	_	3	nsubj
+6	hidden	hide	VBN	_	5	vmod
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	golden	golden	JJ	_	10	amod
+10	pot	pot	NN	_	7	pobj
+11	,	,	,	_	3	punct
+12	but	but	CC	_	3	cc
+13	this	this	DT	_	14	det
+14	pot	pot	NN	_	16	nsubjpass
+15	was	be	VBD	_	16	auxpass
+16	hidden	hide	VBN	_	3	conj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	Ark.	Ark.	NNP	_	17	pobj
+20	.	.	.	_	2	punct
+

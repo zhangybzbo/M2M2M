@@ -1,0 +1,17 @@
+1	Cylindrical	cylindrical	JJ	_	2	amod
+2	defects	defect	NNS	_	12	nsubjpass
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	trochanter	trochanter	NN	_	6	nn
+6	area	area	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	18	18	CD	_	10	num
+9	rabbit	rabbit	NN	_	10	nn
+10	femora	femur	NN	_	7	pobj
+11	were	be	VBD	_	12	auxpass
+12	filled	fill	VBN	_	0	ROOT
+13	with	with	IN	_	12	prep
+14	BG	BG	NNP	_	15	nn
+15	granules	granule	NNS	_	13	pobj
+16	.	.	.	_	12	punct
+

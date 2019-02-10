@@ -1,0 +1,16 @@
+1	A	a	DT	_	7	det
+2	very	very	RB	_	3	advmod
+3	robust	robust	JJ	_	7	amod
+4	metal	metal	NN	_	7	nn
+5	hydride	hydride	NN	_	7	nn
+6	discovery	discovery	NN	_	7	nn
+7	approach	approach	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	made	make	VBN	_	0	ROOT
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	14	det
+12	demonstrated	demonstrate	VBN	_	14	amod
+13	HTS	ht	NN	_	14	nn
+14	methodology	methodology	NN	_	10	pobj
+15	.	.	.	_	9	punct
+

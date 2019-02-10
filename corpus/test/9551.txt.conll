@@ -1,0 +1,22 @@
+1	At	at	IN	_	0	ROOT
+2	5:30	5:30	CD	_	1	pobj
+3	am	be	VBP	_	1	dep
+4	my	my	PRP$	_	5	poss
+5	son	son	NN	_	7	nsubj
+6	was	be	VBD	_	7	cop
+7	right	right	JJ	_	3	rcmod
+8	behind	behind	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	officer	officer	NN	_	8	pobj
+11	who	who	WP	_	12	nsubj
+12	battered	batter	VBD	_	10	rcmod
+13	the	the	DT	_	14	det
+14	door	door	NN	_	12	dobj
+15	down	down	RP	_	12	prt
+16	with	with	IN	_	12	prep
+17	a	a	DT	_	20	det
+18	huge	huge	JJ	_	20	amod
+19	steel	steel	NN	_	20	nn
+20	ram	ram	NN	_	16	pobj
+21	.	.	.	_	1	punct
+

@@ -1,0 +1,22 @@
+1	It	it	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	an	a	DT	_	5	det
+4	immense	immense	JJ	_	5	amod
+5	flight	flight	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	gulls	gull	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	seamews	seamew	NNS	_	7	conj
+10	,	,	,	_	7	punct
+11	and	and	CC	_	7	cc
+12	cormorants	cormorant	NNS	_	7	conj
+13	;	;	:	_	5	punct
+14	a	a	DT	_	16	det
+15	vast	vast	JJ	_	16	amod
+16	multitude	multitude	NN	_	5	dep
+17	of	of	IN	_	16	prep
+18	affrighted	affrighted	JJ	_	20	amod
+19	sea	sea	NN	_	20	nn
+20	birds	bird	NNS	_	17	pobj
+21	.	.	.	_	5	punct
+

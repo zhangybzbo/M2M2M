@@ -1,0 +1,20 @@
+1	He	he	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	shower	shower	NN	_	2	dobj
+5	after	after	IN	_	2	prep
+6	using	use	VBG	_	5	pcomp
+7	hair	hair	NN	_	8	nn
+8	cream	cream	NN	_	6	dobj
+9	to	to	TO	_	10	aux
+10	avoid	avoid	VB	_	6	vmod
+11	skin	skin	NN	_	12	nn
+12	irritation	irritation	NN	_	10	dobj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	chemicals	chemical	NNS	_	13	pobj
+16	in	in	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	product	product	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

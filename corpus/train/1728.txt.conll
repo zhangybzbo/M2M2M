@@ -1,0 +1,10 @@
+1	Frustrations	frustration	NNS	_	7	nsubj
+2	,	,	,	_	1	punct
+3	threats	threat	NNS	_	1	conj
+4	,	,	,	_	1	punct
+5	and	and	CC	_	1	cc
+6	conflicts	conflict	NNS	_	1	conj
+7	cause	cause	VBP	_	0	ROOT
+8	stress	stress	NN	_	7	dobj
+9	.	.	.	_	7	punct
+

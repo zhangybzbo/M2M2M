@@ -1,0 +1,3 @@
+T1	Term 13 17	news
+T2	Term 27 34	article
+R1	Entity-Origin Arg1:T1 Arg2:T2

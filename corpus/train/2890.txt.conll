@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	editors	editor	NNS	_	3	nsubj
+3	assembled	assemble	VBD	_	0	ROOT
+4	many	many	JJ	_	3	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	leading	lead	VBG	_	9	amod
+8	medical	medical	JJ	_	9	amod
+9	specialists	specialist	NNS	_	5	pobj
+10	,	,	,	_	9	punct
+11	researchers	researcher	NNS	_	9	conj
+12	and	and	CC	_	9	cc
+13	allied	ally	VBD	_	9	conj
+14	health	health	NN	_	15	nn
+15	professionals	professional	NNS	_	13	dobj
+16	who	who	WP	_	17	nsubj
+17	have	have	VBP	_	15	rcmod
+18	extensive	extensive	JJ	_	20	amod
+19	clinical	clinical	JJ	_	20	amod
+20	experience	experience	NN	_	17	dobj
+21	with	with	IN	_	17	prep
+22	polio	polio	NNP	_	23	nn
+23	survivors	survivor	NNS	_	21	pobj
+24	.	.	.	_	3	punct
+

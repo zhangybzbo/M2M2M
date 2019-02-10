@@ -1,0 +1,13 @@
+1	A	a	DT	_	3	det
+2	US	US	NNP	_	3	nn
+3	aircraft	aircraft	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	dropped	drop	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	difficult	difficult	JJ	_	9	amod
+9	landing	landing	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	Mali	Mali	NNP	_	10	pobj
+12	.	.	.	_	5	punct
+

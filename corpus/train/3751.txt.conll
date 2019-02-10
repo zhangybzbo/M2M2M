@@ -1,0 +1,12 @@
+1	Albion	Albion	NNP	_	2	nn
+2	students	student	NNS	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	sled	sled	NN	_	3	dobj
+6	dogs	dog	VBZ	_	3	dep
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	Canadian	canadian	JJ	_	10	amod
+10	wilds	wild	NNS	_	7	pobj
+11	.	.	.	_	3	punct
+

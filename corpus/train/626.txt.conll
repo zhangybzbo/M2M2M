@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	artist	artist	NN	_	5	poss
+3	's	's	POS	_	2	possessive
+4	installation	installation	NN	_	5	nn
+5	studies	study	NNS	_	0	ROOT
+6	the	the	DT	_	7	det
+7	relationships	relationship	NNS	_	5	dep
+8	between	between	IN	_	7	prep
+9	man	man	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	nature	nature	NN	_	9	conj
+12	.	.	.	_	5	punct
+

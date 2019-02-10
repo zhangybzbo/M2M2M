@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	principles	principle	NNS	_	10	nsubj
+3	on	on	IN	_	7	prep
+4	which	which	WDT	_	3	pobj
+5	homoeopathy	homoeopathy	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	based	base	VBN	_	2	rcmod
+8	are	be	VBP	_	10	cop
+9	very	very	RB	_	10	advmod
+10	different	different	JJ	_	0	ROOT
+11	to	to	TO	_	10	prep
+12	conventional	conventional	JJ	_	14	amod
+13	medical	medical	JJ	_	14	amod
+14	beliefs	belief	NNS	_	11	pobj
+15	.	.	.	_	10	punct
+

@@ -1,0 +1,1 @@
+The flux sensor moves a half circle around the filament in order to measure the spatial directivity of each heater .

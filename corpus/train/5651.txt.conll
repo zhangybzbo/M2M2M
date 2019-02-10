@@ -1,0 +1,14 @@
+1	Hotels	Hotels	NNPS	_	4	nn
+2	and	and	CC	_	1	cc
+3	restaurants	restaurant	NNS	_	1	conj
+4	Downtown	downtown	NN	_	6	nsubjpass
+5	are	be	VBP	_	6	auxpass
+6	prepared	prepare	VBN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	handle	handle	VB	_	6	xcomp
+9	the	the	DT	_	10	det
+10	crush	crush	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	delegates	delegate	NNS	_	11	pobj
+13	.	.	.	_	6	punct
+

@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj
+2	thought	think	VBD	_	0	ROOT
+3	sometimes	sometimes	RB	_	5	advmod
+4	I	I	PRP	_	5	nsubj
+5	saw	see	VBD	_	2	ccomp
+6	the	the	DT	_	7	det
+7	flash	flash	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	distant	distant	JJ	_	10	amod
+10	spires	spire	NNS	_	8	pobj
+11	,	,	,	_	5	punct
+12	the	the	DT	_	14	det
+13	sunny	sunny	JJ	_	14	amod
+14	gleam	gleam	NN	_	5	dobj
+15	of	of	IN	_	14	prep
+16	upland	upland	NN	_	17	nn
+17	pastures	pasture	NNS	_	15	pobj
+18	,	,	,	_	14	punct
+19	the	the	DT	_	21	det
+20	soft	soft	JJ	_	21	amod
+21	undulation	undulation	NN	_	14	appos
+22	of	of	IN	_	21	prep
+23	purple	purple	JJ	_	24	amod
+24	hills	hill	NNS	_	22	pobj
+25	.	.	.	_	2	punct
+

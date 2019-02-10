@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	rings	ring	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	auxpass
+4	preferably	preferably	RB	_	5	advmod
+5	made	make	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	copolymer	copolymer	NN	_	9	nn
+9	polypropylene	polypropylene	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

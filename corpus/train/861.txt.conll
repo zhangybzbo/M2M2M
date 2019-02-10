@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	shop	shop	NN	_	3	nsubj
+3	machined	machine	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	part	part	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	10	det
+8	1.25	1.25	CD	_	10	num
+9	inch	inch	NN	_	10	nn
+10	diameter	diameter	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

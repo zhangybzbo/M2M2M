@@ -1,0 +1,10 @@
+1	Our	we	PRP$	_	2	poss
+2	company	company	NN	_	3	nsubj
+3	converts	convert	VBZ	_	0	ROOT
+4	waste	waste	NN	_	5	nn
+5	plastics	plastic	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	crude	crude	JJ	_	8	amod
+8	oil	oil	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

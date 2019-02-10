@@ -1,0 +1,1 @@
+Real robot experiments are carried out with a swarm of up to 40 Alice miniature robots , developed at the Autonomous Systems Laboratory by Gilles Caprari .

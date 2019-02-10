@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	farmer	farmer	NN	_	3	nsubj
+3	ploughed	plough	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	fields	field	NNS	_	3	dobj
+6	with	with	IN	_	3	prep
+7	this	this	DT	_	10	det
+8	2-piece	2-piece	JJ	_	10	amod
+9	farm	farm	NN	_	10	nn
+10	tractor	tractor	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

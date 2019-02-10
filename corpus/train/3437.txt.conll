@@ -1,0 +1,10 @@
+1	Students	student	NNS	_	2	nsubj
+2	review	review	VBP	_	0	ROOT
+3	art	art	NN	_	2	dobj
+4	from	from	IN	_	2	prep
+5	different	different	JJ	_	6	amod
+6	periods	period	NNS	_	4	pobj
+7	throughout	throughout	IN	_	6	prep
+8	history	history	NN	_	7	pobj
+9	.	.	.	_	2	punct
+

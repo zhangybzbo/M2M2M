@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	det
+2	newly	newly	RB	_	3	advmod
+3	recruited	recruit	VBN	_	4	amod
+4	soldiers	soldier	NNS	_	5	nsubj
+5	arrived	arrive	VBD	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	9	det
+8	training	training	NN	_	9	nn
+9	camp	camp	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

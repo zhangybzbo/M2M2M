@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	clock	clock	NN	_	3	nsubj
+3	struck	strike	VBD	_	0	ROOT
+4	twelve	twelve	CD	_	3	dobj
+5	with	with	IN	_	3	prep
+6	a	a	DT	_	8	det
+7	loud	loud	JJ	_	8	amod
+8	chime	chime	NN	_	5	pobj
+9	that	that	WDT	_	10	nsubj
+10	made	make	VBD	_	8	rcmod
+11	me	I	PRP	_	12	nsubj
+12	jump	jump	VB	_	10	ccomp
+13	.	.	.	_	3	punct
+

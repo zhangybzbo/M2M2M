@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	outlet	outlet	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	the	the	DT	_	7	det
+5	single	single	JJ	_	7	amod
+6	L-shaped	l-shaped	JJ	_	7	amod
+7	prong	prong	NN	_	3	dobj
+8	for	for	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	dryer	dryer	NN	_	8	pobj
+11	,	,	,	_	3	punct
+12	but	but	CC	_	3	cc
+13	the	the	DT	_	14	det
+14	oven	oven	NN	_	15	nsubj
+15	has	have	VBZ	_	3	conj
+16	the	the	DT	_	20	det
+17	standard	standard	JJ	_	20	amod
+18	3-prong	3-prong	NN	_	20	nn
+19	flat	flat	JJ	_	20	amod
+20	plug	plug	NN	_	15	dobj
+21	.	.	.	_	3	punct
+

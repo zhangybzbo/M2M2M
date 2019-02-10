@@ -1,0 +1,13 @@
+1	We	we	PRP	_	2	nsubj
+2	saw	see	VBD	_	0	ROOT
+3	that	that	IN	_	8	mark
+4	the	the	DT	_	5	det
+5	email	email	NN	_	8	nsubjpass
+6	had	have	VBD	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	sent	send	VBN	_	2	ccomp
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	11	det
+11	customer	customer	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

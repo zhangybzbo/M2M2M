@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj
+2	inserted	insert	VBD	_	0	ROOT
+3	an	a	DT	_	5	det
+4	old	old	JJ	_	5	amod
+5	tape	tape	NN	_	2	dobj
+6	into	into	IN	_	2	prep
+7	my	my	PRP$	_	10	poss
+8	brand	brand	NN	_	10	nn
+9	new	new	JJ	_	10	amod
+10	handycam	handycam	NN	_	6	pobj
+11	.	.	.	_	2	punct
+

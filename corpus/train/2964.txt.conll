@@ -1,0 +1,21 @@
+1	Their	they	PRP$	_	2	poss
+2	music	music	NN	_	3	nsubj
+3	reflected	reflect	VBD	_	0	ROOT
+4	different	different	JJ	_	5	amod
+5	influences	influence	NNS	_	3	dobj
+6	,	,	,	_	3	punct
+7	combining	combine	VBG	_	3	vmod
+8	elements	element	NNS	_	7	dobj
+9	of	of	IN	_	8	prep
+10	rock	rock	NN	_	9	pobj
+11	and	and	CC	_	10	cc
+12	roll	roll	NN	_	10	conj
+13	,	,	,	_	8	punct
+14	garage	garage	NN	_	15	nn
+15	rock	rock	NN	_	8	conj
+16	,	,	,	_	8	punct
+17	folk	folk	NN	_	8	conj
+18	and	and	CC	_	8	cc
+19	psychedelia	psychedelium	NN	_	8	conj
+20	.	.	.	_	3	punct
+

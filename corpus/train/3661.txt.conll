@@ -1,0 +1,22 @@
+1	An	a	DT	_	3	det
+2	important	important	JJ	_	3	amod
+3	aim	aim	NN	_	9	nsubj
+4	concerning	concern	VBG	_	3	vmod
+5	enamel	enamel	NN	_	8	nn
+6	and	and	CC	_	5	cc
+7	dentin	dentin	NN	_	5	conj
+8	erosion	erosion	NN	_	4	dobj
+9	is	be	VBZ	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	identify	identify	VB	_	9	xcomp
+12	agents	agent	NNS	_	11	dobj
+13	that	that	WDT	_	15	nsubj
+14	might	might	MD	_	15	aux
+15	protect	protect	VB	_	12	rcmod
+16	the	the	DT	_	18	det
+17	tooth	tooth	NN	_	18	nn
+18	surface	surface	NN	_	15	dobj
+19	from	from	IN	_	15	prep
+20	demineralization	demineralization	NN	_	19	pobj
+21	.	.	.	_	9	punct
+

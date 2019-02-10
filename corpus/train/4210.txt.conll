@@ -1,0 +1,16 @@
+1	In	in	IN	_	14	prep
+2	the	the	DT	_	4	det
+3	nineteenth	nineteenth	JJ	_	4	amod
+4	century	century	NN	_	1	pobj
+5	,	,	,	_	14	punct
+6	modern	modern	JJ	_	7	amod
+7	manholes	manhole	NNS	_	14	nsubjpass
+8	and	and	CC	_	7	cc
+9	the	the	DT	_	12	det
+10	modern	modern	JJ	_	12	amod
+11	manhole	manhole	NN	_	12	nn
+12	cover	cover	NN	_	7	conj
+13	were	be	VBD	_	14	auxpass
+14	developed	develop	VBN	_	0	ROOT
+15	.	.	.	_	14	punct
+

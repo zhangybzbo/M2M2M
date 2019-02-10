@@ -1,0 +1,10 @@
+0	40	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="they" pos="PRP" nsubj="t2"
+5	8	tok id="t1" base="be" pos="VBP" aux="t2"
+9	15	tok id="t2" base="take" pos="VBG" ROOT="ROOT"
+16	19	tok id="t3" base="the" pos="DT" det="t4"
+20	26	tok id="t4" base="brain" pos="NNS" dobj="t2"
+27	31	tok id="t5" base="from" pos="IN" prep="t2"
+32	38	tok id="t6" base="baby" pos="NNS" pobj="t5"
+39	40	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

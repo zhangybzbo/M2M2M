@@ -1,0 +1,15 @@
+1	Coquina	Coquina	NNP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	poorly	poorly	RB	_	5	advmod
+5	consolidated	consolidated	JJ	_	6	amod
+6	limestone	limestone	NN	_	0	ROOT
+7	composed	compose	VBN	_	6	vmod
+8	of	of	IN	_	7	prep
+9	pieces	piece	NNS	_	8	pobj
+10	of	of	IN	_	9	prep
+11	coral	coral	NN	_	10	pobj
+12	or	or	CC	_	11	cc
+13	shells	shell	NNS	_	11	conj
+14	.	.	.	_	6	punct
+

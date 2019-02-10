@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	manufacturer	manufacturer	NN	_	3	nsubj
+3	assembles	assemble	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	order	order	NN	_	3	dobj
+6	using	use	VBG	_	5	vmod
+7	parts	part	NNS	_	6	dobj
+8	supplied	supply	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	his	he	PRP$	_	12	poss
+11	preferred	preferred	JJ	_	12	amod
+12	supplier	supplier	NN	_	9	pobj
+13	,	,	,	_	3	punct
+14	and	and	CC	_	3	cc
+15	ships	ship	NNS	_	3	conj
+16	the	the	DT	_	17	det
+17	order	order	NN	_	15	dep
+18	to	to	TO	_	17	prep
+19	the	the	DT	_	20	det
+20	retailer	retailer	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

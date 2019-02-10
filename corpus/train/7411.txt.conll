@@ -1,0 +1,15 @@
+1	After	after	IN	_	10	prep
+2	successful	successful	JJ	_	3	amod
+3	completion	completion	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	comprehensives	comprehensive	NNS	_	4	pobj
+7	,	,	,	_	10	punct
+8	the	the	DT	_	9	det
+9	candidate	candidate	NN	_	10	nsubj
+10	writes	write	VBZ	_	0	ROOT
+11	a	a	DT	_	13	det
+12	dissertation	dissertation	NN	_	13	nn
+13	proposal	proposal	NN	_	10	dobj
+14	.	.	.	_	10	punct
+

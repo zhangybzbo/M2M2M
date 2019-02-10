@@ -1,0 +1,3 @@
+T1	Term 12 23	soil sample
+T2	Term 40 49	container
+R1	Entity-Destination Arg1:T1 Arg2:T2

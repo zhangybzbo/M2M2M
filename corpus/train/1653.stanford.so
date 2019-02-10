@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="employee" pos="NNS" nsubj="t5"
+10	13	tok id="t1" base="be" pos="VBP" cop="t5"
+14	17	tok id="t2" base="the" pos="DT" det="t5"
+18	22	tok id="t3" base="most" pos="RBS" advmod="t4"
+23	32	tok id="t4" base="important" pos="JJ" amod="t5"
+33	37	tok id="t5" base="part" pos="NN" ROOT="ROOT"
+38	40	tok id="t6" base="of" pos="IN" prep="t5"
+41	43	tok id="t7" base="a" pos="DT" det="t8"
+44	56	tok id="t8" base="organisation" pos="NN" pobj="t6"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

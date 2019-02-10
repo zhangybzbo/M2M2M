@@ -1,0 +1,23 @@
+1	Because	because	IN	_	9	mark
+2	the	the	DT	_	3	det
+3	rotors	rotor	NNS	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	turbines	turbine	NNS	_	4	pobj
+7	are	be	VBP	_	9	cop
+8	relatively	relatively	RB	_	9	advmod
+9	slow-moving	slow-moving	JJ	_	12	advcl
+10	,	,	,	_	12	punct
+11	they	they	PRP	_	12	nsubj
+12	pose	pose	VBP	_	0	ROOT
+13	little	little	JJ	_	14	amod
+14	threat	threat	NN	_	12	dobj
+15	to	to	TO	_	14	prep
+16	fish	fish	NN	_	15	pobj
+17	and	and	CC	_	16	cc
+18	other	other	JJ	_	21	amod
+19	small	small	JJ	_	21	amod
+20	marine	marine	JJ	_	21	amod
+21	life	life	NN	_	16	conj
+22	.	.	.	_	12	punct
+

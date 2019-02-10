@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	demise	demise	NN	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	bees	bee	NNS	_	3	pobj
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	caused	cause	VBN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	globalization	globalization	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	commerce	commerce	NN	_	12	pobj
+14	.	.	.	_	8	punct
+

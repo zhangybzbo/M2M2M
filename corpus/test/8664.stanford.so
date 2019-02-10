@@ -1,0 +1,13 @@
+0	73	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	11	tok id="t1" base="highest" pos="JJS" amod="t3"
+12	19	tok id="t2" base="quality" pos="NN" nn="t3"
+20	27	tok id="t3" base="barrel" pos="NNS" ROOT="ROOT"
+28	31	tok id="t4" base="be" pos="VBP" dep="t3"
+32	37	tok id="t5" base="those" pos="DT" nsubj="t4"
+38	47	tok id="t6" base="hand-made" pos="JJ" amod="t5"
+48	50	tok id="t7" base="by" pos="IN" prep="t6"
+51	63	tok id="t8" base="professional" pos="JJ" amod="t9"
+64	71	tok id="t9" base="cooper" pos="NNS" pobj="t7"
+72	73	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

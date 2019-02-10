@@ -1,0 +1,20 @@
+1	In	in	IN	_	6	prep
+2	September	September	NNP	_	1	pobj
+3	,	,	,	_	6	punct
+4	an	a	DT	_	5	det
+5	executive	executive	NN	_	6	nsubj
+6	worked	work	VBD	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	Goofy	Goofy	NNP	_	9	nn
+9	Boi	Boi	NNP	_	7	pobj
+10	to	to	TO	_	11	aux
+11	create	create	VB	_	6	xcomp
+12	this	this	DT	_	13	det
+13	video	video	NN	_	11	dobj
+14	to	to	TO	_	15	aux
+15	support	support	VB	_	11	vmod
+16	a	a	DT	_	18	det
+17	current	current	JJ	_	18	amod
+18	promotion	promotion	NN	_	15	dobj
+19	.	.	.	_	6	punct
+

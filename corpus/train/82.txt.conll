@@ -1,0 +1,13 @@
+1	BMW	BMW	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	iDrive	iDrive	NNP	_	5	nsubj
+4	4.0	4.0	CD	_	3	num
+5	brings	bring	VBZ	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	horde	horde	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	new	new	JJ	_	11	amod
+11	features	feature	NNS	_	9	pobj
+12	.	.	.	_	5	punct
+

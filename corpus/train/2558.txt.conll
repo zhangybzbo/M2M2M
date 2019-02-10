@@ -1,0 +1,22 @@
+1	Many	many	JJ	_	2	amod
+2	growers	grower	NNS	_	3	nsubj
+3	harbor	harbor	VBP	_	0	ROOT
+4	a	a	DT	_	5	det
+5	parliament	parliament	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	owls	owl	NNS	_	6	pobj
+8	in	in	IN	_	7	prep
+9	their	they	PRP$	_	10	poss
+10	barns	barn	NNS	_	8	pobj
+11	so	so	RB	_	12	advmod
+12	as	as	IN	_	3	prep
+13	to	to	TO	_	14	aux
+14	keep	keep	VB	_	12	pcomp
+15	down	down	RP	_	14	prt
+16	the	the	DT	_	17	det
+17	population	population	NN	_	14	dobj
+18	of	of	IN	_	17	prep
+19	burrowing	burrow	VBG	_	20	amod
+20	rodents	rodent	NNS	_	18	pobj
+21	.	.	.	_	3	punct
+

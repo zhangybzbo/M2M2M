@@ -1,0 +1,15 @@
+1	His	he	PRP$	_	11	nsubj
+2	donating	donate	VBG	_	1	vmod
+3	blood	blood	NN	_	2	dobj
+4	to	to	TO	_	2	prep
+5	an	a	DT	_	7	det
+6	unknown	unknown	JJ	_	7	amod
+7	patient	patient	NN	_	4	pobj
+8	was	be	VBD	_	11	cop
+9	a	a	DT	_	11	det
+10	good	good	JJ	_	11	amod
+11	thing	thing	NN	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	do	do	VB	_	11	vmod
+14	.	.	.	_	11	punct
+

@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj
+2	kept	keep	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	spray	spray	NN	_	5	nn
+5	bottle	bottle	NN	_	2	dobj
+6	with	with	IN	_	2	prep
+7	vinegar	vinegar	NN	_	6	pobj
+8	in	in	IN	_	2	prep
+9	it	it	PRP	_	8	pobj
+10	.	.	.	_	2	punct
+

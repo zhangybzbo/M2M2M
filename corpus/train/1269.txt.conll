@@ -1,0 +1,27 @@
+1	Every	every	DT	_	2	det
+2	couple	couple	NN	_	8	dep
+3	of	of	IN	_	2	prep
+4	seconds	seconds	NNS	_	3	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	flame	flame	NN	_	8	nsubj
+8	flares	flare	VBZ	_	0	ROOT
+9	up	up	RP	_	8	prt
+10	,	,	,	_	8	punct
+11	and	and	CC	_	8	cc
+12	sometimes	sometimes	RB	_	16	advmod
+13	a	a	DT	_	15	det
+14	small	small	JJ	_	15	amod
+15	fireball	fireball	NN	_	16	nsubj
+16	detaches	detach	VBZ	_	8	conj
+17	itself	itself	PRP	_	16	dobj
+18	,	,	,	_	16	punct
+19	float	float	VB	_	16	dep
+20	to	to	TO	_	19	prep
+21	the	the	DT	_	22	det
+22	ceiling	ceiling	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	oven	oven	NN	_	23	pobj
+26	.	.	.	_	8	punct
+

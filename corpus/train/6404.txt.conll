@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	effective	effective	JJ	_	3	amod
+3	utilization	utilization	NN	_	16	nsubj
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	cluster	cluster	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	workstations	workstation	NNS	_	7	pobj
+9	for	for	IN	_	3	prep
+10	the	the	DT	_	11	det
+11	implementation	implementation	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	scientific	scientific	JJ	_	15	amod
+15	application	application	NN	_	12	pobj
+16	requires	require	VBZ	_	0	ROOT
+17	a	a	DT	_	21	det
+18	highly	highly	RB	_	19	advmod
+19	flexible	flexible	JJ	_	21	amod
+20	software	software	NN	_	21	nn
+21	environment	environment	NN	_	16	dobj
+22	.	.	.	_	16	punct
+

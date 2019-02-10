@@ -1,0 +1,11 @@
+1	They	they	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	thrown	throw	VBN	_	0	ROOT
+4	mankind	mankind	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	deeper	deeper	JJR	_	7	amod
+7	bondage	bondage	NN	_	5	pobj
+8	than	than	IN	_	7	prep
+9	ever	ever	RB	_	8	pcomp
+10	.	.	.	_	3	punct
+

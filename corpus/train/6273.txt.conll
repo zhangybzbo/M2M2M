@@ -1,0 +1,25 @@
+1	I	I	PRP	_	3	nsubj
+2	recently	recently	RB	_	3	advmod
+3	decided	decide	VBD	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	work	work	VB	_	3	xcomp
+6	a	a	DT	_	7	det
+7	bit	bit	NN	_	8	npadvmod
+8	outside	outside	JJ	_	5	advmod
+9	of	of	IN	_	8	prep
+10	Visual	Visual	NNP	_	11	nn
+11	Studio	Studio	NNP	_	9	pobj
+12	and	and	CC	_	5	cc
+13	configure	configure	VB	_	5	conj
+14	a	a	DT	_	17	det
+15	plain	plain	JJ	_	17	amod
+16	text	text	NN	_	17	nn
+17	editor	editor	NN	_	13	dobj
+18	to	to	TO	_	19	aux
+19	work	work	VB	_	13	vmod
+20	with	with	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	C#	c#	NN	_	23	nn
+23	compiler	compiler	NN	_	20	pobj
+24	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	It	it	PRP	_	2	nsubj
+2	included	include	VBD	_	0	ROOT
+3	elements	element	NNS	_	2	dobj
+4	from	from	IN	_	3	prep
+5	Latin	latin	JJ	_	6	amod
+6	literature	literature	NN	_	4	pobj
+7	and	and	CC	_	6	cc
+8	Arab-influenced	arab-influenced	JJ	_	9	amod
+9	Spain	Spain	NNP	_	6	conj
+10	and	and	CC	_	6	cc
+11	North	North	NNP	_	12	nn
+12	Africa	Africa	NNP	_	6	conj
+13	.	.	.	_	2	punct
+

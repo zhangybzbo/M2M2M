@@ -1,0 +1,12 @@
+1	Nurses	nurse	NNS	_	3	poss
+2	'	'	POS	_	1	possessive
+3	militancy	militancy	NN	_	4	nsubj
+4	stemmed	stem	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	two	two	CD	_	8	num
+7	different	different	JJ	_	8	amod
+8	kinds	kind	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	experiences	experience	NNS	_	9	pobj
+11	.	.	.	_	4	punct
+

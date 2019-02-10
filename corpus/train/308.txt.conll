@@ -1,0 +1,17 @@
+1	Her	she	PRP$	_	2	poss
+2	clothes	clothes	NNS	_	3	nsubj
+3	were	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	box	box	NN	_	4	pobj
+7	with	with	IN	_	6	prep
+8	no	no	DT	_	9	neg
+9	lid	lid	NN	_	7	pobj
+10	sitting	sit	VBG	_	9	vmod
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	next	next	JJ	_	15	amod
+14	higher	higher	JJR	_	15	amod
+15	step	step	NN	_	11	pobj
+16	.	.	.	_	3	punct
+

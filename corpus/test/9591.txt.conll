@@ -1,0 +1,14 @@
+1	Thick	thick	JJ	_	3	amod
+2	oatmeal	oatmeal	NN	_	3	nn
+3	cookies	cookie	NNS	_	5	nsubj
+4	are	be	VBP	_	5	cop
+5	soft	soft	JJ	_	0	ROOT
+6	,	,	,	_	5	punct
+7	while	while	IN	_	12	mark
+8	the	the	DT	_	10	det
+9	thin	thin	JJ	_	10	amod
+10	ones	one	NNS	_	12	nsubj
+11	are	be	VBP	_	12	cop
+12	crispy	crispy	JJ	_	5	advcl
+13	.	.	.	_	5	punct
+

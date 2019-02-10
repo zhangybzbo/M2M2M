@@ -1,0 +1,11 @@
+1	194	194	CD	_	3	num
+2	Bulgarian	bulgarian	JJ	_	3	amod
+3	children	child	NNS	_	4	nsubj
+4	participated	participate	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	international	international	JJ	_	9	amod
+8	school	school	NN	_	9	nn
+9	competition	competition	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

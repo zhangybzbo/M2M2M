@@ -1,0 +1,24 @@
+1	He	he	PRP	_	2	nsubj
+2	learned	learn	VBD	_	0	ROOT
+3	how	how	WRB	_	6	advmod
+4	cartographic	cartographic	JJ	_	5	amod
+5	evidence	evidence	NN	_	6	nsubj
+6	refutes	refute	VBZ	_	2	ccomp
+7	the	the	DT	_	8	det
+8	authenticity	authenticity	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Vinland	Vinland	NNP	_	12	nn
+12	Map	map	NN	_	9	pobj
+13	and	and	CC	_	6	cc
+14	from	from	IN	_	6	conj
+15	where	where	WRB	_	21	advmod
+16	the	the	DT	_	17	det
+17	map	map	NN	_	19	poss
+18	's	's	POS	_	17	possessive
+19	maker	maker	NN	_	21	nsubj
+20	have	have	VBP	_	21	aux
+21	drawn	draw	VBN	_	14	pcomp
+22	inspiration	inspiration	NN	_	21	dobj
+23	.	.	.	_	2	punct
+

@@ -1,0 +1,22 @@
+1	However	however	RB	_	0	ROOT
+2	in	in	IN	_	1	prep
+3	addition	addition	NN	_	2	pobj
+4	to	to	TO	_	3	prep
+5	Maori	Maori	NNP	_	4	pobj
+6	,	,	,	_	5	punct
+7	other	other	JJ	_	9	amod
+8	population	population	NN	_	9	nn
+9	groups	group	NNS	_	10	nsubj
+10	need	need	VBP	_	5	rcmod
+11	specific	specific	JJ	_	12	amod
+12	recognition	recognition	NN	_	10	dobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	Bill	Bill	NNP	_	13	pobj
+16	,	,	,	_	10	punct
+17	including	include	VBG	_	10	prep
+18	people	people	NNS	_	17	pobj
+19	with	with	IN	_	18	prep
+20	disabilities	disability	NNS	_	19	pobj
+21	.	.	.	_	1	punct
+

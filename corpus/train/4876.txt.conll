@@ -1,0 +1,14 @@
+1	His	he	PRP$	_	2	poss
+2	girlfriend	girlfriend	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	trunk	trunk	NN	_	4	pobj
+7	and	and	CC	_	3	cc
+8	they	they	PRP	_	9	nsubj
+9	drove	drive	VBD	_	3	conj
+10	over	over	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	bridge	bridge	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

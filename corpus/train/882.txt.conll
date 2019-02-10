@@ -1,0 +1,11 @@
+1	His	he	PRP$	_	2	poss
+2	speech	speech	NN	_	3	nsubj
+3	outlined	outline	VBD	_	0	ROOT
+4	urgent	urgent	JJ	_	5	amod
+5	measures	measure	NNS	_	3	dobj
+6	for	for	IN	_	5	prep
+7	stimulating	stimulate	VBG	_	6	pcomp
+8	the	the	DT	_	9	det
+9	economy	economy	NN	_	7	dobj
+10	.	.	.	_	3	punct
+

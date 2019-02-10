@@ -1,0 +1,13 @@
+0	64	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="other" pos="JJ" amod="t1"
+6	15	tok id="t1" base="standard" pos="NNS" nsubj="t3"
+16	19	tok id="t2" base="can" pos="MD" aux="t3"
+20	25	tok id="t3" base="apply" pos="VB" ROOT="ROOT"
+26	28	tok id="t4" base="to" pos="TO" prep="t3"
+29	37	tok id="t5" base="product" pos="NNS" pobj="t4"
+38	45	tok id="t6" base="cover" pos="VBN" vmod="t5"
+46	48	tok id="t7" base="by" pos="IN" prep="t6"
+49	53	tok id="t8" base="this" pos="DT" det="t9"
+54	62	tok id="t9" base="document" pos="NN" pobj="t7"
+63	64	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

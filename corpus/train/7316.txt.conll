@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	burning	burning	NN	_	3	nn
+3	fuel	fuel	NN	_	4	nsubj
+4	produces	produce	VBZ	_	0	ROOT
+5	exhaust	exhaust	NN	_	6	nn
+6	gases	gas	NNS	_	4	dobj
+7	,	,	,	_	6	punct
+8	which	which	WDT	_	16	nsubj
+9	,	,	,	_	16	punct
+10	when	when	WRB	_	11	advmod
+11	forced	force	VBN	_	16	dep
+12	out	out	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	nozzle	nozzle	NN	_	12	pobj
+15	,	,	,	_	16	punct
+16	produce	produce	VBP	_	6	rcmod
+17	thrust	thrust	NN	_	16	dobj
+18	,	,	,	_	6	punct
+19	moving	move	VBG	_	6	vmod
+20	the	the	DT	_	21	det
+21	rocket	rocket	NN	_	19	dobj
+22	in	in	IN	_	19	prep
+23	the	the	DT	_	25	det
+24	other	other	JJ	_	25	amod
+25	direction	direction	NN	_	22	pobj
+26	.	.	.	_	4	punct
+

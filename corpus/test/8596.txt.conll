@@ -1,0 +1,15 @@
+1	Cancer	cancer	NN	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	the	the	DT	_	5	det
+4	abnormal	abnormal	JJ	_	5	amod
+5	growth	growth	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	cells	cell	NNS	_	6	pobj
+8	that	that	WDT	_	9	nsubj
+9	causes	cause	VBZ	_	5	rcmod
+10	illness	illness	NN	_	9	dobj
+11	in	in	IN	_	9	prep
+12	the	the	DT	_	13	det
+13	body	body	NN	_	11	pobj
+14	.	.	.	_	5	punct
+

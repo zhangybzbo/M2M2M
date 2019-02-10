@@ -1,0 +1,11 @@
+0	62	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="mesopause" pos="NN" nsubj="t2"
+14	23	tok id="t2" base="separate" pos="VBZ" ROOT="ROOT"
+24	27	tok id="t3" base="the" pos="DT" det="t4"
+28	38	tok id="t4" base="mesosphere" pos="NN" dobj="t2"
+39	43	tok id="t5" base="from" pos="IN" prep="t2"
+44	47	tok id="t6" base="the" pos="DT" det="t7"
+48	60	tok id="t7" base="thermosphere" pos="NN" pobj="t5"
+61	62	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

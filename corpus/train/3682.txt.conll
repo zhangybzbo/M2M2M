@@ -1,0 +1,17 @@
+1	Canine	canine	JJ	_	3	amod
+2	flea	flea	NN	_	3	nn
+3	infestation	infestation	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	fleas	flea	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	11	nsubj
+10	are	be	VBP	_	11	cop
+11	small	small	JJ	_	7	rcmod
+12	,	,	,	_	11	punct
+13	wingless	wingless	JJ	_	15	amod
+14	blood-sucking	blood-sucking	JJ	_	15	amod
+15	insects	insect	NNS	_	11	dep
+16	.	.	.	_	5	punct
+

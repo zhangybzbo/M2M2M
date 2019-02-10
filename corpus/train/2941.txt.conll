@@ -1,0 +1,14 @@
+1	Three	three	CD	_	3	num
+2	distinct	distinct	JJ	_	3	amod
+3	formulations	formulation	NNS	_	9	nsubjpass
+4	of	of	IN	_	3	prep
+5	valproic	valproic	JJ	_	6	amod
+6	acid	acid	NN	_	4	pobj
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	investigated	investigate	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	clinical	clinical	JJ	_	12	amod
+12	trials	trial	NNS	_	10	pobj
+13	.	.	.	_	9	punct
+

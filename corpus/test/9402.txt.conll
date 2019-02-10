@@ -1,0 +1,22 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	evidence	evidence	NN	_	2	nsubj
+5	,	,	,	_	4	punct
+6	photographic	photographic	JJ	_	4	amod
+7	and	and	CC	_	6	cc
+8	otherwise	otherwise	RB	_	6	conj
+9	,	,	,	_	4	punct
+10	recording	record	VBG	_	4	vmod
+11	the	the	DT	_	12	det
+12	debris	debris	NN	_	10	dobj
+13	caused	cause	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	subsequent	subsequent	JJ	_	17	amod
+17	fire	fire	NN	_	14	pobj
+18	and	and	CC	_	17	cc
+19	the	the	DT	_	20	det
+20	explosions	explosion	NNS	_	17	conj
+21	.	.	.	_	2	punct
+

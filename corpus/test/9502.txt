@@ -1,0 +1,1 @@
+A sweeper starts at an end then runs to the opposite end .

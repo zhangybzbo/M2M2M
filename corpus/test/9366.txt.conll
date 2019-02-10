@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	weight	weight	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	concrete	concrete	NN	_	3	pobj
+6	on	on	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	soft	soft	JJ	_	9	amod
+9	materials	material	NNS	_	6	pobj
+10	caused	cause	VBD	_	0	ROOT
+11	a	a	DT	_	14	det
+12	second	second	JJ	_	14	amod
+13	ground	ground	NN	_	14	nn
+14	collapse	collapse	NN	_	10	dobj
+15	on	on	IN	_	10	prep
+16	the	the	DT	_	15	pobj
+17	following	follow	VBG	_	16	prep
+18	Sunday	Sunday	NNP	_	19	nn
+19	night	night	NN	_	17	pobj
+20	.	.	.	_	10	punct
+

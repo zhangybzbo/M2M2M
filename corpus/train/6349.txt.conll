@@ -1,0 +1,14 @@
+1	Prairie	Prairie	NNP	_	2	nn
+2	Dog	Dog	NNP	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	free	free	JJ	_	6	amod
+6	newspaper	newspaper	NN	_	0	ROOT
+7	produced	produce	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	a	a	DT	_	12	dep
+10	Saskatchewan	Saskatchewan	NNP	_	12	dep
+11	worker	worker	NN	_	12	dep
+12	co-operative	co-operative	JJ	_	8	pobj
+13	.	.	.	_	6	punct
+

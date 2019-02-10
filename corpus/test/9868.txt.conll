@@ -1,0 +1,19 @@
+1	Three	three	CD	_	2	num
+2	people	people	NNS	_	5	nsubjpass
+3	had	have	VBD	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	killed	kill	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	fire	fire	NN	_	6	pobj
+9	after	after	IN	_	17	mark
+10	the	the	DT	_	11	det
+11	quake	quake	NN	_	17	nsubjpass
+12	and	and	CC	_	11	cc
+13	hundreds	hundred	NNS	_	11	conj
+14	of	of	IN	_	11	prep
+15	people	people	NNS	_	14	pobj
+16	were	be	VBD	_	17	auxpass
+17	injured	injure	VBN	_	5	advcl
+18	.	.	.	_	5	punct
+

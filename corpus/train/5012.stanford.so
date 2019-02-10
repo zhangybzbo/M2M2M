@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="in" pos="IN" prep="t6"
+3	4	tok id="t1" base="a" pos="DT" det="t2"
+5	11	tok id="t2" base="decade" pos="NN" pobj="t0"
+12	13	tok id="t3" base="-COMMA-" pos="," punct="t6"
+14	27	tok id="t4" base="neighborhood" pos="NNS" nsubj="t6"
+28	31	tok id="t5" base="be" pos="VBP" aux="t6"
+32	39	tok id="t6" base="sink" pos="VBG" ROOT="ROOT"
+40	44	tok id="t7" base="into" pos="IN" prep="t6"
+45	54	tok id="t8" base="disrepair" pos="NN" pobj="t7"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t6"
+

@@ -1,0 +1,3 @@
+T1	Term 23 31	floppies
+T2	Term 68 75	factory
+R1	Product-Producer Arg1:T1 Arg2:T2

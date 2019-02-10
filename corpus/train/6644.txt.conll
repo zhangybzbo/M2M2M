@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	disruption	disruption	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	freak	freak	NN	_	9	nn
+9	storms	storm	NNS	_	6	pobj
+10	and	and	CC	_	9	cc
+11	flash	flash	NN	_	12	nn
+12	floods	flood	NNS	_	9	conj
+13	overnight	overnight	JJ	_	9	amod
+14	.	.	.	_	5	punct
+

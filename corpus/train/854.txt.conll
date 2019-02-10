@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	tail	tail	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	long	long	JJ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	thin	thin	JJ	_	4	conj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	12	det
+9	blue	blue	JJ	_	12	amod
+10	central	central	JJ	_	12	amod
+11	tail	tail	NN	_	12	nn
+12	feather	feather	NN	_	7	pobj
+13	.	.	.	_	4	punct
+

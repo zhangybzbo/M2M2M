@@ -1,0 +1,10 @@
+1	Cavalry	Cavalry	NNP	_	2	nsubj
+2	consisted	consist	VBD	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	cuirassiers	cuirassier	NNS	_	3	pobj
+5	,	,	,	_	4	punct
+6	dragoons	dragoon	NNS	_	4	conj
+7	and	and	CC	_	4	cc
+8	chevauxlegers	chevauxleger	NNS	_	4	conj
+9	.	.	.	_	2	punct
+

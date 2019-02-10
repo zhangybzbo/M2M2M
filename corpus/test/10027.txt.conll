@@ -1,0 +1,18 @@
+1	Then	then	RB	_	4	advmod
+2	the	the	DT	_	3	det
+3	driver	driver	NN	_	4	nsubj
+4	turned	turn	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	car	car	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	a	a	DT	_	12	det
+9	dark	dark	JJ	_	12	amod
+10	and	and	CC	_	9	cc
+11	narrow	narrow	JJ	_	9	conj
+12	street	street	NN	_	7	pobj
+13	and	and	CC	_	4	cc
+14	reduced	reduce	VBD	_	4	conj
+15	his	he	PRP$	_	16	poss
+16	speed	speed	NN	_	14	dobj
+17	.	.	.	_	4	punct
+

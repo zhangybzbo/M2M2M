@@ -1,0 +1,15 @@
+1	Instead	instead	RB	_	10	advmod
+2	,	,	,	_	10	punct
+3	the	the	DT	_	4	det
+4	success	success	NN	_	10	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	revolution	revolution	NN	_	5	pobj
+8	is	be	VBZ	_	10	cop
+9	the	the	DT	_	10	det
+10	reason	reason	NN	_	0	ROOT
+11	for	for	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	celebration	celebration	NN	_	11	pobj
+14	.	.	.	_	10	punct
+

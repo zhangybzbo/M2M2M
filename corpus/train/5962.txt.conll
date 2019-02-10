@@ -1,0 +1,24 @@
+1	These	these	DT	_	2	det
+2	studios	studio	NNS	_	3	nsubj
+3	became	become	VBD	_	0	ROOT
+4	veritable	veritable	JJ	_	7	amod
+5	``	``	``	_	7	punct
+6	hit	hit	NN	_	7	nn
+7	factories	factory	NNS	_	3	xcomp
+8	''	''	''	_	7	punct
+9	that	that	WDT	_	10	nsubj
+10	produced	produce	VBD	_	7	rcmod
+11	many	many	JJ	_	10	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	17	det
+14	most	most	RBS	_	15	advmod
+15	successful	successful	JJ	_	17	amod
+16	pop	pop	NN	_	17	nn
+17	recordings	recording	NNS	_	12	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	latter	latter	JJ	_	22	amod
+21	20th	20th	JJ	_	22	amod
+22	century	century	NN	_	18	pobj
+23	.	.	.	_	3	punct
+

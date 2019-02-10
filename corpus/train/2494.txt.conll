@@ -1,0 +1,15 @@
+1	He	he	PRP	_	2	nsubj
+2	saw	see	VBD	_	0	ROOT
+3	behind	behind	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	scenes	scene	NNS	_	3	pobj
+6	and	and	CC	_	2	cc
+7	all	all	PDT	_	10	predet
+8	the	the	DT	_	10	det
+9	showroom	showroom	NN	_	10	nn
+10	areas	area	NNS	_	2	conj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	store	store	NN	_	11	pobj
+14	.	.	.	_	2	punct
+

@@ -1,0 +1,19 @@
+1	Goatfish	Goatfish	NNP	_	2	nsubj
+2	use	use	VB	_	0	ROOT
+3	a	a	DT	_	4	det
+4	pair	pair	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	large	large	JJ	_	8	amod
+7	chin	chin	NN	_	8	nn
+8	barbels	barbel	NNS	_	5	pobj
+9	to	to	TO	_	10	aux
+10	probe	probe	VB	_	2	vmod
+11	the	the	DT	_	13	det
+12	sea	sea	NN	_	13	nn
+13	bottom	bottom	NN	_	10	dobj
+14	to	to	TO	_	10	prep
+15	detect	detect	VB	_	14	pcomp
+16	buried	bury	VBN	_	17	amod
+17	prey	prey	NN	_	15	dobj
+18	.	.	.	_	2	punct
+

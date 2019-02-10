@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	inside	inside	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	your	you	PRP$	_	5	poss
+5	nose	nose	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	lined	line	VBN	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	a	a	DT	_	13	det
+10	moist	moist	JJ	_	13	amod
+11	,	,	,	_	13	punct
+12	thin	thin	JJ	_	13	amod
+13	layer	layer	NN	_	8	pobj
+14	of	of	IN	_	13	prep
+15	tissue	tissue	NN	_	14	pobj
+16	called	call	VBD	_	7	dep
+17	a	a	DT	_	19	det
+18	mucous	mucous	JJ	_	19	amod
+19	membrane	membrane	NN	_	16	dobj
+20	-LRB-	-lrb-	-LRB-	_	21	punct
+21	say	say	NN	_	19	appos
+22	:	:	:	_	21	punct
+23	myoo-kus	myoo-kus	JJ	_	24	amod
+24	mem-brayne	mem-brayne	NN	_	21	dep
+25	-RRB-	-rrb-	-RRB-	_	21	punct
+26	.	.	.	_	7	punct
+

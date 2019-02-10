@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	psychiatrist	psychiatrist	NN	_	3	nsubj
+3	killed	kill	VBD	_	0	ROOT
+4	him	he	PRP	_	3	dobj
+5	with	with	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	drugs	drug	NNS	_	5	pobj
+8	she	she	PRP	_	9	nsubj
+9	gave	give	VBD	_	7	rcmod
+10	him	he	PRP	_	9	dobj
+11	.	.	.	_	3	punct
+

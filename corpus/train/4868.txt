@@ -1,0 +1,1 @@
+Another known connector uses the center conductor of the coaxial cable to push out the pin of the connector .

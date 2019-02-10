@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	restaurant	restaurant	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	filled	fill	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	customers	customer	NNS	_	5	pobj
+7	,	,	,	_	11	punct
+8	most	most	JJS	_	11	dep
+9	of	of	IN	_	8	prep
+10	them	they	PRP	_	9	pobj
+11	children	child	NNS	_	4	parataxis
+12	and	and	CC	_	11	cc
+13	mothers	mother	NNS	_	11	conj
+14	.	.	.	_	11	punct
+

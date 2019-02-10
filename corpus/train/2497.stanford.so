@@ -1,0 +1,9 @@
+0	36	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="we" pos="PRP" nsubj="t1"
+3	6	tok id="t1" base="put" pos="VBD" ROOT="ROOT"
+7	15	tok id="t2" base="fairness" pos="NN" dobj="t1"
+16	20	tok id="t3" base="into" pos="IN" prep="t1"
+21	30	tok id="t4" base="copyright" pos="NN" nn="t5"
+31	34	tok id="t5" base="use" pos="NN" pobj="t3"
+35	36	tok id="t6" base="-PERIOD-" pos="." punct="t1"
+

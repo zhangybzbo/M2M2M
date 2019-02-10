@@ -1,0 +1,15 @@
+1	His	he	PRP$	_	3	poss
+2	graduation	graduation	NN	_	3	nn
+3	thesis	thesis	NN	_	4	nsubj
+4	supplied	supply	VBD	_	0	ROOT
+5	valuable	valuable	JJ	_	7	amod
+6	background	background	NN	_	7	nn
+7	information	information	NN	_	4	dobj
+8	on	on	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	subject	subject	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	duel	duel	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

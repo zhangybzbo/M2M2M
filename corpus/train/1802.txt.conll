@@ -1,0 +1,16 @@
+1	Standards	Standards	NNPS	_	7	nsubjpass
+2	at	at	IN	_	1	prep
+3	a	a	DT	_	5	det
+4	secondary	secondary	JJ	_	5	amod
+5	school	school	NN	_	2	pobj
+6	are	be	VBP	_	7	auxpass
+7	criticised	criticise	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	report	report	NN	_	8	pobj
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	inspection	inspection	NN	_	14	nn
+14	body	body	NN	_	11	pobj
+15	.	.	.	_	7	punct
+

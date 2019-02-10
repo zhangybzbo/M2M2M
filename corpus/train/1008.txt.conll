@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	memory	memory	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	stored	store	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	same	same	JJ	_	8	amod
+8	neurons	neuron	NNS	_	5	pobj
+9	that	that	WDT	_	10	nsubj
+10	responded	respond	VBD	_	8	rcmod
+11	to	to	TO	_	10	prep
+12	the	the	DT	_	13	det
+13	odor	odor	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

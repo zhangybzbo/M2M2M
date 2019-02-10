@@ -1,0 +1,10 @@
+0	51	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="examine" pos="VBG" ROOT="ROOT"
+10	13	tok id="t1" base="the" pos="DT" det="t2"
+14	24	tok id="t2" base="disruption" pos="NN" dobj="t0"
+25	31	tok id="t3" base="cause" pos="VBN" vmod="t2"
+32	34	tok id="t4" base="by" pos="IN" prep="t3"
+35	40	tok id="t5" base="pupil" pos="NN" nn="t6"
+41	49	tok id="t6" base="mobility" pos="NN" pobj="t4"
+50	51	tok id="t7" base="-PERIOD-" pos="." punct="t0"
+

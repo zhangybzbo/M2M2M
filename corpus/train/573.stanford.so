@@ -1,0 +1,13 @@
+0	81	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="New" pos="NNP" nn="t3"
+4	12	tok id="t1" base="portable" pos="JJ" amod="t3"
+13	23	tok id="t2" base="electronic" pos="JJ" amod="t3"
+24	31	tok id="t3" base="device" pos="NNS" nsubj="t5"
+32	35	tok id="t4" base="be" pos="VBP" aux="t5"
+36	43	tok id="t5" base="run" pos="VBG" ROOT="ROOT"
+44	48	tok id="t6" base="into" pos="IN" prep="t5"
+49	60	tok id="t7" base="temperature" pos="NN" nn="t9"
+61	72	tok id="t8" base="sensitivity" pos="NN" nn="t9"
+73	79	tok id="t9" base="issue" pos="NNS" pobj="t6"
+80	81	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

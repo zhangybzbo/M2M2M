@@ -1,0 +1,17 @@
+1	Our	we	PRP$	_	2	poss
+2	inquiry	inquiry	NN	_	10	nsubj
+3	into	into	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	city	city	NN	_	9	poss
+6	's	's	POS	_	5	possessive
+7	job	job	NN	_	9	nn
+8	creation	creation	NN	_	9	nn
+9	funding	funding	NN	_	3	pobj
+10	came	come	VBD	_	0	ROOT
+11	from	from	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	reader	reader	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	tip	tip	NN	_	11	pobj
+16	.	.	.	_	10	punct
+

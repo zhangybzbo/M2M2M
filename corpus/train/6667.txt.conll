@@ -1,0 +1,16 @@
+1	Many	many	JJ	_	3	amod
+2	viral	viral	JJ	_	3	amod
+3	infections	infection	NNS	_	0	ROOT
+4	that	that	WDT	_	5	nsubj
+5	cause	cause	VBP	_	3	rcmod
+6	rash	rash	JJ	_	7	amod
+7	resolve	resolve	NN	_	5	dobj
+8	within	within	IN	_	5	prep
+9	several	several	JJ	_	10	amod
+10	days	day	NNS	_	8	pobj
+11	and	and	CC	_	3	cc
+12	require	require	VB	_	3	conj
+13	no	no	DT	_	14	neg
+14	medication	medication	NN	_	12	dobj
+15	.	.	.	_	3	punct
+

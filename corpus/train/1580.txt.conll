@@ -1,0 +1,16 @@
+1	Treatment	treatment	NN	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	cardiovascular	cardiovascular	JJ	_	4	amod
+4	collapse	collapse	NN	_	2	pobj
+5	from	from	IN	_	1	prep
+6	caffeine	caffeine	NN	_	7	nn
+7	overdose	overdose	NN	_	5	pobj
+8	with	with	IN	_	1	prep
+9	lidocaine	lidocaine	NN	_	8	pobj
+10	,	,	,	_	9	punct
+11	phenylephrine	phenylephrine	NN	_	9	conj
+12	,	,	,	_	9	punct
+13	and	and	CC	_	9	cc
+14	hemodialysis	hemodialysis	NN	_	9	conj
+15	.	.	.	_	1	punct
+

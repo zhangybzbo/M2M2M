@@ -1,0 +1,21 @@
+1	The	the	DT	_	4	det
+2	first	first	JJ	_	4	amod
+3	public	public	JJ	_	4	amod
+4	allegations	allegation	NNS	_	11	nsubj
+5	of	of	IN	_	4	prep
+6	prisoner	prisoner	NN	_	7	nn
+7	suffocation	suffocation	NN	_	5	pobj
+8	in	in	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	containers	container	NNS	_	8	pobj
+11	appeared	appear	VBD	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	19	det
+14	December	December	NNP	_	19	nn
+15	2001	2001	CD	_	14	num
+16	New	New	NNP	_	19	nn
+17	York	York	NNP	_	19	nn
+18	Times	Times	NNP	_	19	nn
+19	article	article	NN	_	12	pobj
+20	.	.	.	_	11	punct
+

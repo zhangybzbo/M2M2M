@@ -1,0 +1,17 @@
+1	Within	within	IN	_	7	prep
+2	a	a	DT	_	3	det
+3	minute	minute	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	guard	guard	NN	_	7	nsubj
+7	leaves	leave	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	podium	podium	NN	_	7	dobj
+10	again	again	RB	_	7	advmod
+11	and	and	CC	_	7	cc
+12	disappears	disappear	VBZ	_	7	conj
+13	into	into	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	crowd	crowd	NN	_	13	pobj
+16	.	.	.	_	7	punct
+

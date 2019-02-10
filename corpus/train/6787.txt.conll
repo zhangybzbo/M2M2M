@@ -1,0 +1,17 @@
+1	Then	then	RB	_	3	advmod
+2	they	they	PRP	_	3	nsubj
+3	came	come	VBD	_	0	ROOT
+4	near	near	RB	_	3	advmod
+5	,	,	,	_	3	punct
+6	and	and	CC	_	3	cc
+7	spake	spake	NN	_	3	conj
+8	before	before	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	king	king	NN	_	8	pobj
+11	concerning	concern	VBG	_	10	prep
+12	the	the	DT	_	13	det
+13	king	king	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	decree	decree	NN	_	11	pobj
+16	.	.	.	_	3	punct
+

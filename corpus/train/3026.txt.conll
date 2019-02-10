@@ -1,0 +1,26 @@
+1	Serious	serious	JJ	_	2	amod
+2	people	people	NNS	_	3	nsubj
+3	flinch	flinch	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	being	be	VBG	_	6	auxpass
+6	associated	associate	VBN	_	4	pcomp
+7	with	with	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	intellectual	intellectual	JJ	_	10	amod
+10	slum	slum	NN	_	7	pobj
+11	that	that	WDT	_	15	nsubj
+12	is	be	VBZ	_	15	cop
+13	the	the	DT	_	15	det
+14	Bush	Bush	NNP	_	15	nn
+15	campaign	campaign	NN	_	10	rcmod
+16	,	,	,	_	3	punct
+17	with	with	IN	_	3	prep
+18	its	its	PRP$	_	19	poss
+19	riffraff	riffraff	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	liars	liar	NNS	_	20	pobj
+22	and	and	CC	_	3	cc
+23	aspiring	aspire	VBG	_	24	amod
+24	ayatollahs	ayatollah	NNS	_	3	conj
+25	.	.	.	_	3	punct
+

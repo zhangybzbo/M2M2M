@@ -1,0 +1,8 @@
+1	We	we	PRP	_	3	nsubj
+2	do	do	VBP	_	3	aux
+3	know	know	VB	_	0	ROOT
+4	this	this	DT	_	6	det
+5	telecommunications	telecommunications	NN	_	6	nn
+6	company	company	NN	_	3	dobj
+7	.	.	.	_	3	punct
+

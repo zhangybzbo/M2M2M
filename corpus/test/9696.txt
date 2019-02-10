@@ -1,0 +1,1 @@
+The idea is the heatsink removes the heat from the CPU and the fan blasts the heatsink with the surrounding air cooling it down .

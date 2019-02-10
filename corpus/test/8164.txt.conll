@@ -1,0 +1,7 @@
+1	Researchers	researcher	NNS	_	0	ROOT
+2	synthesized	synthesize	VBN	_	1	vmod
+3	the	the	DT	_	5	det
+4	basic	basic	JJ	_	5	amod
+5	ingredients	ingredient	NNS	_	2	dobj
+6	.	.	.	_	1	punct
+

@@ -1,0 +1,1 @@
+This machine is a cluster of 3240 computers , each with 40 processing cores and includes both AMD and Cell processors .

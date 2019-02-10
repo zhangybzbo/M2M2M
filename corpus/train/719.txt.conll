@@ -1,0 +1,19 @@
+1	Chronic	chronic	JJ	_	3	amod
+2	daily	daily	JJ	_	3	amod
+3	headaches	headache	NNS	_	6	nsubj
+4	are	be	VBP	_	6	cop
+5	tension	tension	NN	_	6	nn
+6	headaches	headache	NNS	_	0	ROOT
+7	or	or	CC	_	6	cc
+8	headaches	headache	NNS	_	6	conj
+9	which	which	WDT	_	11	nsubjpass
+10	are	be	VBP	_	11	auxpass
+11	caused	cause	VBN	_	8	rcmod
+12	by	by	IN	_	11	prep
+13	taking	take	VBG	_	12	pcomp
+14	too	too	RB	_	15	advmod
+15	many	many	JJ	_	17	amod
+16	pain	pain	NN	_	17	nn
+17	killers	killer	NNS	_	13	dobj
+18	.	.	.	_	6	punct
+

@@ -1,0 +1,26 @@
+1	Inside	inside	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	car	car	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	keys	key	NNS	_	7	nsubjpass
+6	were	be	VBD	_	7	auxpass
+7	found	find	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	ignition	ignition	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	Codario-Ferrino	codario-ferrino	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	license	license	NN	_	10	conj
+15	was	be	VBD	_	16	auxpass
+16	discovered	discover	VBN	_	7	dep
+17	inside	inside	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	purse	purse	NN	_	17	pobj
+20	on	on	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	passenger	passenger	NN	_	24	poss
+23	's	's	POS	_	22	possessive
+24	seat	seat	NN	_	20	pobj
+25	.	.	.	_	7	punct
+

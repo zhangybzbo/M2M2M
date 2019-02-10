@@ -1,0 +1,12 @@
+0	57	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="seborrheic" pos="JJ" amod="t1"
+11	21	tok id="t1" base="dermatitis" pos="NN" nsubj="t3"
+22	24	tok id="t2" base="be" pos="VBZ" cop="t3"
+25	28	tok id="t3" base="one" pos="CD" ROOT="ROOT"
+29	31	tok id="t4" base="of" pos="IN" prep="t3"
+32	35	tok id="t5" base="the" pos="DT" det="t6"
+36	42	tok id="t6" base="cause" pos="NNS" pobj="t4"
+43	46	tok id="t7" base="for" pos="IN" prep="t6"
+47	55	tok id="t8" base="dandruff" pos="NN" pobj="t7"
+56	57	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

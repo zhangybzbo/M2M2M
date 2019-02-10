@@ -1,0 +1,3 @@
+T1	Term 8 17	disorders
+T2	Term 36 44	mutation
+R1	Cause-Effect Arg1:T2 Arg2:T1

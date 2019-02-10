@@ -1,0 +1,13 @@
+0	62	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t1"
+3	11	tok id="t1" base="propose" pos="VBD" ROOT="ROOT"
+12	19	tok id="t2" base="write" pos="VBG" xcomp="t1"
+20	21	tok id="t3" base="a" pos="DT" det="t4"
+22	29	tok id="t4" base="teacher" pos="NN" poss="t6"
+30	32	tok id="t5" base="'s" pos="POS" possessive="t4"
+33	38	tok id="t6" base="guide" pos="NN" dobj="t2"
+39	41	tok id="t7" base="to" pos="TO" prep="t6"
+42	52	tok id="t8" base="blackboard" pos="NN" nn="t9"
+53	60	tok id="t9" base="drawing" pos="NN" pobj="t7"
+61	62	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

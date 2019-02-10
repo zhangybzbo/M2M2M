@@ -1,0 +1,16 @@
+1	This	this	DT	_	5	det
+2	small	small	JJ	_	5	amod
+3	photographic	photographic	JJ	_	5	amod
+4	exhibition	exhibition	NN	_	5	nn
+5	studies	study	NNS	_	0	ROOT
+6	the	the	DT	_	8	det
+7	linear	linear	JJ	_	8	amod
+8	qualities	quality	NNS	_	9	nsubj
+9	present	present	VBP	_	5	rcmod
+10	through	through	IN	_	9	prep
+11	natural	natural	JJ	_	14	amod
+12	and	and	CC	_	11	cc
+13	man-created	man-created	JJ	_	11	conj
+14	subjects	subject	NNS	_	10	pobj
+15	.	.	.	_	5	punct
+

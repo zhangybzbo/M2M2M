@@ -1,0 +1,19 @@
+1	Slowly	slowly	RB	_	9	advmod
+2	,	,	,	_	9	punct
+3	with	with	IN	_	9	prep
+4	a	a	DT	_	6	det
+5	shaking	shake	VBG	_	6	amod
+6	hand	hand	NN	_	3	pobj
+7	,	,	,	_	9	punct
+8	he	he	PRP	_	9	nsubj
+9	reached	reach	VBD	_	0	ROOT
+10	out	out	RP	_	9	prt
+11	and	and	CC	_	9	cc
+12	grasped	grasp	VBD	_	9	conj
+13	the	the	DT	_	14	det
+14	axe	axe	NN	_	12	dobj
+15	by	by	IN	_	12	prep
+16	the	the	DT	_	17	det
+17	haft	haft	NN	_	15	pobj
+18	.	.	.	_	9	punct
+

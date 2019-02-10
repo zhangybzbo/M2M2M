@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	nail	nail	NN	_	3	nn
+3	gun	gun	NN	_	4	nsubj
+4	drives	drive	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	nail	nail	NN	_	4	dobj
+7	using	use	VBG	_	4	vmod
+8	a	a	DT	_	11	det
+9	single	single	JJ	_	11	amod
+10	rapid	rapid	JJ	_	11	amod
+11	stroke	stroke	NN	_	7	dobj
+12	so	so	IN	_	16	mark
+13	that	that	IN	_	16	mark
+14	heat	heat	NN	_	16	nsubjpass
+15	is	be	VBZ	_	16	auxpass
+16	generated	generate	VBN	_	7	advcl
+17	by	by	IN	_	16	prep
+18	friction	friction	NN	_	17	pobj
+19	between	between	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	nail	nail	NN	_	19	pobj
+22	and	and	CC	_	21	cc
+23	the	the	DT	_	24	det
+24	wood	wood	NN	_	21	conj
+25	.	.	.	_	4	punct
+

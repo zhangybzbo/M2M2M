@@ -1,0 +1,25 @@
+1	A	a	DT	_	3	det
+2	major	major	JJ	_	3	amod
+3	product	product	NN	_	10	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	factory	factory	NN	_	4	pobj
+7	was	be	VBD	_	10	cop
+8	decorative	decorative	JJ	_	10	amod
+9	quarry	quarry	NN	_	10	nn
+10	glass	glass	NN	_	0	ROOT
+11	which	which	WDT	_	13	nsubj
+12	was	be	VBD	_	13	cop
+13	mass-produced	mass-produced	JJ	_	10	rcmod
+14	by	by	IN	_	13	prep
+15	moulding	moulding	NN	_	14	pobj
+16	and	and	CC	_	15	cc
+17	printing	printing	NN	_	15	conj
+18	,	,	,	_	13	punct
+19	rather	rather	RB	_	13	cc
+20	than	than	IN	_	19	mwe
+21	hand-cutting	hand-cutting	JJ	_	13	conj
+22	and	and	CC	_	21	cc
+23	painting	painting	NN	_	21	conj
+24	.	.	.	_	10	punct
+

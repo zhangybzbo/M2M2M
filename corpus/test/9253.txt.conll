@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	statement	statement	NN	_	13	nsubj
+3	by	by	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	leadership	leadership	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	smaller	smaller	JJR	_	9	amod
+9	Italy	Italy	NNP	_	6	pobj
+10	of	of	IN	_	9	prep
+11	Principles	principle	NNS	_	12	nn
+12	party	party	NN	_	10	pobj
+13	said	say	VBD	_	0	ROOT
+14	Berlusconi	Berlusconi	NNP	_	17	poss
+15	's	's	POS	_	14	possessive
+16	only	only	JJ	_	17	amod
+17	alternative	alternative	NN	_	22	nsubj
+18	would	would	MD	_	22	aux
+19	be	be	VB	_	22	aux
+20	``	``	``	_	22	punct
+21	to	to	TO	_	22	aux
+22	resign	resign	VB	_	13	ccomp
+23	immediately	immediately	RB	_	22	advmod
+24	''	''	''	_	22	punct
+25	.	.	.	_	13	punct
+

@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det
+2	notification	notification	NN	_	3	nsubj
+3	declares	declare	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	names	name	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	plants	plant	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	plant	plant	NN	_	10	nn
+10	pests	pest	NNS	_	7	conj
+11	or	or	CC	_	7	cc
+12	carriers	carrier	NNS	_	7	conj
+13	that	that	WDT	_	15	nsubjpass
+14	are	be	VBP	_	15	auxpass
+15	considered	consider	VBN	_	7	rcmod
+16	to	to	TO	_	18	aux
+17	be	be	VB	_	18	auxpass
+18	prohibited	prohibit	VBN	_	15	xcomp
+19	.	.	.	_	3	punct
+

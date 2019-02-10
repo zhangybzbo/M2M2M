@@ -1,0 +1,3 @@
+T1	Term 23 30	mustard
+T2	Term 31 38	company
+R1	Product-Producer Arg1:T1 Arg2:T2

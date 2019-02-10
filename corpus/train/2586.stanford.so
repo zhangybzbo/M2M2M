@@ -1,0 +1,11 @@
+0	67	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="professional" pos="JJ" amod="t1"
+13	24	tok id="t1" base="modelmaker" pos="NNS" nsubj="t3"
+25	30	tok id="t2" base="often" pos="RB" advmod="t3"
+31	37	tok id="t3" base="create" pos="VBP" ROOT="ROOT"
+38	44	tok id="t4" base="model" pos="NNS" dobj="t3"
+45	48	tok id="t5" base="for" pos="IN" prep="t4"
+49	53	tok id="t6" base="many" pos="JJ" amod="t7"
+54	65	tok id="t7" base="profession" pos="NNS" pobj="t5"
+66	67	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

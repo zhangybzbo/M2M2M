@@ -1,0 +1,17 @@
+1	Employees	employee	NNS	_	4	nsubj
+2	increasingly	increasingly	RB	_	4	advmod
+3	are	be	VBP	_	4	aux
+4	turning	turn	VBG	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	medication	medication	NN	_	5	pobj
+7	-	-	:	_	4	punct
+8	and	and	CC	_	4	cc
+9	away	away	RB	_	4	advmod
+10	from	from	IN	_	9	prep
+11	therapy	therapy	NN	_	10	pobj
+12	-	-	:	_	4	punct
+13	to	to	TO	_	14	aux
+14	treat	treat	VB	_	4	xcomp
+15	depression	depression	NN	_	14	dobj
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	love	love	VBP	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	sup	sup	VB	_	2	xcomp
+5	an	a	DT	_	6	det
+6	ale	ale	NN	_	4	dobj
+7	in	in	IN	_	4	prep
+8	a	a	DT	_	9	det
+9	tankard	tankard	NN	_	7	pobj
+10	by	by	IN	_	4	prep
+11	a	a	DT	_	13	det
+12	blazing	blaze	VBG	_	13	amod
+13	fire	fire	NN	_	10	pobj
+14	on	on	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	coldly	coldly	RB	_	17	advmod
+17	day	day	NN	_	14	pobj
+18	.	.	.	_	2	punct
+

@@ -1,0 +1,10 @@
+1	Eve	Eve	NNP	_	2	nsubj
+2	joins	join	VBZ	_	0	ROOT
+3	an	a	DT	_	5	det
+4	entire	entire	JJ	_	5	amod
+5	sisterhood	sisterhood	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	female	female	JJ	_	8	amod
+8	singers	singer	NNS	_	6	pobj
+9	.	.	.	_	2	punct
+

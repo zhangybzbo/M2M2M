@@ -1,0 +1,19 @@
+1	Our	we	PRP$	_	2	poss
+2	club	club	NN	_	3	nsubj
+3	consists	consist	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	fun-loving	fun-loving	JJ	_	6	amod
+6	residents	resident	NNS	_	4	pobj
+7	,	,	,	_	3	punct
+8	both	both	DT	_	9	preconj
+9	retired	retire	VBN	_	3	ccomp
+10	and	and	CC	_	9	cc
+11	working	work	VBG	_	9	conj
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	wide	wide	JJ	_	15	amod
+15	range	range	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	businesses	business	NNS	_	16	pobj
+18	.	.	.	_	3	punct
+

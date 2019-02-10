@@ -1,0 +1,24 @@
+1	White	White	NNP	_	2	nn
+2	gasoline	gasoline	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	put	put	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	metal	metal	NN	_	8	nn
+8	canister	canister	NN	_	5	pobj
+9	with	with	IN	_	4	prep
+10	a	a	DT	_	14	det
+11	smooth	smooth	JJ	_	14	amod
+12	,	,	,	_	14	punct
+13	flat	flat	JJ	_	14	amod
+14	base	base	NN	_	9	pobj
+15	,	,	,	_	4	punct
+16	and	and	CC	_	4	cc
+17	lit	light	VBD	_	4	conj
+18	to	to	TO	_	19	aux
+19	heat	heat	VB	_	17	xcomp
+20	up	up	RP	_	19	prt
+21	the	the	DT	_	22	det
+22	metal	metal	NN	_	19	dobj
+23	.	.	.	_	4	punct
+

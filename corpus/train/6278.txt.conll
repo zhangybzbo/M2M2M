@@ -1,0 +1,23 @@
+1	A	a	DT	_	3	det
+2	huge	huge	JJ	_	3	amod
+3	percentage	percentage	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	United	United	NNP	_	8	nn
+7	States	States	NNPS	_	8	nn
+8	government	government	NN	_	4	pobj
+9	was	be	VBD	_	0	ROOT
+10	from	from	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	Greek	greek	JJ	_	13	amod
+13	organization	organization	NN	_	10	pobj
+14	along	along	IN	_	9	prep
+15	with	with	IN	_	14	pcomp
+16	many	many	JJ	_	17	amod
+17	presidents	president	NNS	_	15	pobj
+18	being	be	VBG	_	17	vmod
+19	from	from	IN	_	18	prep
+20	Greek	greek	JJ	_	21	amod
+21	organizations	organization	NNS	_	19	pobj
+22	.	.	.	_	9	punct
+

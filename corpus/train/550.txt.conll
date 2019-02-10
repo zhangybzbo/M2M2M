@@ -1,0 +1,16 @@
+1	Two	two	CD	_	2	num
+2	years	year	NNS	_	3	npadvmod
+3	ago	ago	RB	_	14	advmod
+4	,	,	,	_	14	punct
+5	being	be	VBG	_	8	cop
+6	a	a	DT	_	8	det
+7	sugar	sugar	NN	_	8	nn
+8	company	company	NN	_	14	nsubj
+9	in	in	IN	_	8	prep
+10	india	indium	NN	_	9	pobj
+11	was	be	VBD	_	14	cop
+12	a	a	DT	_	14	det
+13	sweet	sweet	JJ	_	14	amod
+14	proposition	proposition	NN	_	0	ROOT
+15	.	.	.	_	14	punct
+

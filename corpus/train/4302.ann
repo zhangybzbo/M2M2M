@@ -1,0 +1,3 @@
+T1	Term 26 36	mitigation
+T2	Term 46 59	prescriptions
+R1	Entity-Destination Arg1:T1 Arg2:T2

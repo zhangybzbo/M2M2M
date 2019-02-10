@@ -1,0 +1,14 @@
+1	Sinusitis	Sinusitis	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	inflammation	inflammation	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	sinuses	sinus	NNS	_	5	pobj
+8	caused	cause	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	bacterial	bacterial	JJ	_	12	amod
+12	infection	infection	NN	_	9	pobj
+13	.	.	.	_	4	punct
+

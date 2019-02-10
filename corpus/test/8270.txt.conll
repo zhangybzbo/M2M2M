@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	prosecution	prosecution	NN	_	3	nsubj
+3	seeks	seek	VBZ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	enter	enter	VB	_	3	xcomp
+6	motives	motive	NNS	_	5	dobj
+7	into	into	IN	_	5	prep
+8	Gibbs	Gibbs	NNP	_	9	nn
+9	trial	trial	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

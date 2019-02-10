@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	rock	rock	NN	_	6	nsubj
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	road	road	NN	_	3	pobj
+6	caused	cause	VBD	_	0	ROOT
+7	an	a	DT	_	8	det
+8	accident	accident	NN	_	6	dobj
+9	by	by	IN	_	6	prep
+10	breaking	break	VBG	_	9	pcomp
+11	the	the	DT	_	13	det
+12	rear	rear	JJ	_	13	amod
+13	wheel	wheel	NN	_	10	dobj
+14	on	on	IN	_	10	prep
+15	the	the	DT	_	16	det
+16	wagon	wagon	NN	_	14	pobj
+17	.	.	.	_	6	punct
+

@@ -1,0 +1,13 @@
+0	63	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="mother" pos="NNS" nsubj="t5"
+8	12	tok id="t1" base="be" pos="VBD" cop="t5"
+13	16	tok id="t2" base="the" pos="DT" det="t5"
+17	23	tok id="t3" base="single" pos="JJ" amod="t5"
+24	31	tok id="t4" base="largest" pos="JJS" amod="t5"
+32	37	tok id="t5" base="group" pos="NN" ROOT="ROOT"
+38	40	tok id="t6" base="to" pos="TO" aux="t7"
+41	47	tok id="t7" base="donate" pos="VB" vmod="t5"
+48	53	tok id="t8" base="they" pos="PRP$" poss="t9"
+54	61	tok id="t9" base="kidney" pos="NNS" dobj="t7"
+62	63	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

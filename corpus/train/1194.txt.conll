@@ -1,0 +1,17 @@
+1	Leader	Leader	NNP	_	3	nn
+2	Moammar	Moammar	NNP	_	3	nn
+3	Gadhafi	Gadhafi	NNP	_	5	poss
+4	's	's	POS	_	3	possessive
+5	son	son	NN	_	8	nsubjpass
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	handed	hand	VBN	_	0	ROOT
+9	over	over	IN	_	8	prep
+10	to	to	TO	_	9	pcomp
+11	the	the	DT	_	13	det
+12	Libyan	libyan	JJ	_	13	amod
+13	embassy	embassy	NN	_	10	pobj
+14	in	in	IN	_	8	prep
+15	Switzerland	Switzerland	NNP	_	14	pobj
+16	.	.	.	_	8	punct
+

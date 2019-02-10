@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	high-wheelers	high-wheeler	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	descended	descend	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	early	early	JJ	_	8	amod
+8	type	type	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	push-bike	push-bike	NN	_	9	pobj
+11	,	,	,	_	4	punct
+12	without	without	IN	_	4	prep
+13	pedals	pedal	NNS	_	12	pobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	referee	referee	NN	_	9	nsubj
+3	,	,	,	_	2	punct
+4	or	or	CC	_	2	cc
+5	on-ice	on-ice	JJ	_	6	amod
+6	official	official	NN	_	2	conj
+7	,	,	,	_	2	punct
+8	is	be	VBZ	_	9	cop
+9	responsible	responsible	JJ	_	0	ROOT
+10	for	for	IN	_	9	prep
+11	enforcing	enforce	VBG	_	10	pcomp
+12	the	the	DT	_	13	det
+13	rules	rule	NNS	_	11	dobj
+14	during	during	IN	_	11	prep
+15	a	a	DT	_	16	det
+16	game	game	NN	_	14	pobj
+17	.	.	.	_	9	punct
+

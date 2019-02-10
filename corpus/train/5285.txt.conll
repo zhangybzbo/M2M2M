@@ -1,0 +1,26 @@
+1	We	we	PRP	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	able	able	JJ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	wax	wax	VB	_	3	xcomp
+6	any	any	DT	_	5	dobj
+7	of	of	IN	_	6	prep
+8	our	we	PRP$	_	9	poss
+9	wicks	wick	NNS	_	7	pobj
+10	with	with	IN	_	5	prep
+11	either	either	CC	_	14	preconj
+12	a	a	DT	_	14	det
+13	paraffin	paraffin	NN	_	14	nn
+14	coating	coating	NN	_	10	pobj
+15	or	or	CC	_	14	cc
+16	for	for	IN	_	14	conj
+17	natural	natural	JJ	_	18	amod
+18	candles	candle	NNS	_	16	pobj
+19	a	a	DT	_	24	det
+20	100	100	CD	_	21	number
+21	%	%	NN	_	24	amod
+22	natural	natural	JJ	_	24	amod
+23	wax	wax	NN	_	24	nn
+24	coating	coating	NN	_	14	dep
+25	.	.	.	_	3	punct
+

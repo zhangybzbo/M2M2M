@@ -1,0 +1,24 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	traveller	traveller	NN	_	4	nsubj
+4	drew	draw	VBD	_	14	advcl
+5	up	up	RP	_	4	prt
+6	the	the	DT	_	10	det
+7	blind	blind	JJ	_	10	amod
+8	the	the	DT	_	10	det
+9	next	next	JJ	_	10	amod
+10	morning	morning	NN	_	4	dobj
+11	,	,	,	_	14	punct
+12	the	the	DT	_	13	det
+13	sea	sea	NN	_	14	nsubj
+14	opened	open	VBD	_	0	ROOT
+15	before	before	IN	_	14	prep
+16	him	he	PRP	_	17	nsubj
+17	joyously	joyously	RB	_	15	pcomp
+18	under	under	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	broad	broad	JJ	_	22	amod
+21	August	August	NNP	_	22	nn
+22	sunlight	sunlight	NN	_	18	pobj
+23	.	.	.	_	14	punct
+

@@ -1,0 +1,27 @@
+1	Once	once	RB	_	5	advmod
+2	the	the	DT	_	3	det
+3	prisoners	prisoner	NNS	_	5	nsubj
+4	had	have	VBD	_	5	aux
+5	created	create	VBN	_	11	advcl
+6	the	the	DT	_	7	det
+7	trapdoors	trapdoor	NNS	_	5	dobj
+8	,	,	,	_	11	punct
+9	they	they	PRP	_	11	nsubj
+10	were	be	VBD	_	11	cop
+11	ready	ready	JJ	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	start	start	VB	_	11	xcomp
+14	digging	digging	NN	_	13	xcomp
+15	the	the	DT	_	16	det
+16	tunnels	tunnel	NNS	_	14	dobj
+17	,	,	,	_	11	punct
+18	but	but	CC	_	11	cc
+19	there	there	EX	_	20	expl
+20	was	be	VBD	_	11	conj
+21	a	a	DT	_	23	det
+22	major	major	JJ	_	23	amod
+23	problem	problem	NN	_	20	nsubj
+24	to	to	TO	_	25	aux
+25	overcome	overcome	VB	_	23	vmod
+26	.	.	.	_	11	punct
+

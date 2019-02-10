@@ -1,0 +1,1 @@
+Dispenser models hold the brew in a heated tank ; you fill your cup by pressing it against the dispenser lever .

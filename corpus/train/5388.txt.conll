@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	spores	spore	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	blown	blow	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	air	air	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	a	a	DT	_	10	det
+10	spark	spark	VB	_	4	conj
+11	caused	cause	VBD	_	10	vmod
+12	them	they	PRP	_	11	dobj
+13	to	to	TO	_	14	aux
+14	give	give	VB	_	11	xcomp
+15	off	off	RP	_	14	prt
+16	an	a	DT	_	18	det
+17	enormous	enormous	JJ	_	18	amod
+18	flash	flash	NN	_	14	dobj
+19	.	.	.	_	4	punct
+

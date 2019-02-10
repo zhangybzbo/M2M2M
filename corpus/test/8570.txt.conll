@@ -1,0 +1,17 @@
+1	Your	you	PRP$	_	2	poss
+2	writer	writer	NN	_	3	nsubj
+3	had	have	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	volery	volery	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	birds	bird	NNS	_	6	pobj
+8	in	in	IN	_	3	prep
+9	a	a	DT	_	11	det
+10	large	large	JJ	_	11	amod
+11	aviary	aviary	NN	_	8	pobj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	back	back	JJ	_	15	amod
+15	yard	yard	NN	_	12	pobj
+16	.	.	.	_	3	punct
+

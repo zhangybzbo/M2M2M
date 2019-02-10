@@ -1,0 +1,21 @@
+1	The	the	DT	_	4	det
+2	Global	global	JJ	_	4	amod
+3	Warming	warming	NN	_	4	nn
+4	segment	segment	NN	_	5	nsubj
+5	starts	start	VBZ	_	0	ROOT
+6	off	off	RP	_	5	prt
+7	with	with	IN	_	5	prep
+8	two	two	CD	_	7	pobj
+9	,	,	,	_	8	punct
+10	cute	cute	JJ	_	11	amod
+11	anecdotes	anecdote	NNS	_	8	appos
+12	about	about	IN	_	11	prep
+13	flowers	flower	NNS	_	12	pobj
+14	blooming	bloom	VBG	_	13	vmod
+15	early	early	JJ	_	14	acomp
+16	and	and	CC	_	15	cc
+17	aardvarks	aardvark	NNS	_	15	conj
+18	moving	move	VBG	_	19	amod
+19	North	North	NNP	_	15	dep
+20	.	.	.	_	5	punct
+

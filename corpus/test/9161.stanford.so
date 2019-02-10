@@ -1,0 +1,10 @@
+0	46	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="landslide" pos="NNS" nsubj="t1"
+11	17	tok id="t1" base="cause" pos="VBD" ROOT="ROOT"
+18	21	tok id="t2" base="the" pos="DT" det="t3"
+22	30	tok id="t3" base="majority" pos="NN" dobj="t1"
+31	33	tok id="t4" base="of" pos="IN" prep="t3"
+34	37	tok id="t5" base="the" pos="DT" det="t6"
+38	44	tok id="t6" base="death" pos="NNS" pobj="t4"
+45	46	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

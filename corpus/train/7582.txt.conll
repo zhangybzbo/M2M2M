@@ -1,0 +1,23 @@
+1	Woz	Woz	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	outfitted	outfit	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	house	house	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	an	a	DT	_	10	det
+8	elaborate	elaborate	JJ	_	10	amod
+9	swimming	swimming	NN	_	10	nn
+10	pool	pool	NN	_	6	pobj
+11	that	that	WDT	_	12	nsubj
+12	extends	extend	VBZ	_	10	rcmod
+13	inside	inside	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	house	house	NN	_	13	pobj
+16	by	by	IN	_	12	prep
+17	way	way	NN	_	16	pobj
+18	of	of	IN	_	17	prep
+19	an	a	DT	_	21	det
+20	underwater	underwater	JJ	_	21	amod
+21	channel	channel	NN	_	18	pobj
+22	.	.	.	_	3	punct
+

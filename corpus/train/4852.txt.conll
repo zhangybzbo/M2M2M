@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	vibrations	vibration	NNS	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	3	dobj
+5	violent	violent	JJ	_	4	amod
+6	twisting	twist	VBG	_	5	xcomp
+7	motion	motion	NN	_	6	dobj
+8	on	on	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	bridge	bridge	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

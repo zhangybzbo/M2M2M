@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	my	my	PRP$	_	4	poss
+4	hand	hand	NN	_	2	dobj
+5	on	on	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	hilt	hilt	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	sword	sword	NN	_	8	pobj
+11	waiting	wait	VBG	_	10	vmod
+12	for	for	IN	_	16	mark
+13	your	you	PRP$	_	14	poss
+14	signal	signal	NN	_	16	nsubj
+15	to	to	TO	_	16	aux
+16	kill	kill	VB	_	11	advcl
+17	him	he	PRP	_	16	dobj
+18	.	.	.	_	2	punct
+

@@ -1,0 +1,8 @@
+1	Lymphoeytes	lymphoeyte	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	drained	drain	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	efferent	efferent	JJ	_	6	amod
+6	lymphatics	lymphatic	NNS	_	4	pobj
+7	.	.	.	_	3	punct
+

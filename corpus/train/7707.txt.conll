@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	fascinating	fascinating	JJ	_	3	amod
+3	aspect	aspect	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	therapeutic	therapeutic	JJ	_	4	pobj
+6	riding	ride	VBG	_	5	amod
+7	is	be	VBZ	_	0	ROOT
+8	that	that	IN	_	16	mark
+9	the	the	DT	_	10	det
+10	rider	rider	NN	_	16	nsubj
+11	sitting	sit	VBG	_	10	vmod
+12	astride	astride	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	horse	horse	NN	_	12	pobj
+15	walking	walk	VBG	_	14	vmod
+16	establishes	establish	VBZ	_	7	ccomp
+17	what	what	WP	_	22	nsubj
+18	is	be	VBZ	_	22	cop
+19	a	a	DT	_	22	det
+20	perfect	perfect	JJ	_	22	amod
+21	walking	walking	NN	_	22	nn
+22	gait	gait	NN	_	16	ccomp
+23	for	for	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	human	human	JJ	_	23	pobj
+26	.	.	.	_	7	punct
+

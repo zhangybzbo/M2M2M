@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	high	high	JJ	_	3	amod
+3	temperature	temperature	NN	_	4	nsubj
+4	caused	cause	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	decomposition	decomposition	NN	_	7	nn
+7	reaction	reaction	NN	_	4	dobj
+8	,	,	,	_	4	punct
+9	increased	increase	VBD	_	4	conj
+10	the	the	DT	_	12	det
+11	inner	inner	JJ	_	12	amod
+12	pressure	pressure	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	reactor	reactor	NN	_	13	pobj
+16	,	,	,	_	4	punct
+17	and	and	CC	_	4	cc
+18	resulted	result	VBD	_	4	conj
+19	in	in	IN	_	18	prep
+20	a	a	DT	_	21	det
+21	rupture	rupture	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

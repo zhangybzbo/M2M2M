@@ -1,0 +1,17 @@
+1	Many	many	JJ	_	3	amod
+2	shoulder	shoulder	NN	_	3	nn
+3	problems	problem	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	breakdown	breakdown	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	soft	soft	JJ	_	11	amod
+11	tissues	tissue	NNS	_	9	pobj
+12	in	in	IN	_	8	prep
+13	the	the	DT	_	15	det
+14	shoulder	shoulder	NN	_	15	nn
+15	region	region	NN	_	12	pobj
+16	.	.	.	_	5	punct
+

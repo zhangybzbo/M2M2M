@@ -1,0 +1,16 @@
+1	A	a	DT	_	4	det
+2	great	great	JJ	_	4	amod
+3	ensemble	ensemble	NN	_	4	nn
+4	cast	cast	NN	_	9	nsubj
+5	of	of	IN	_	4	prep
+6	likeable	likeable	JJ	_	8	amod
+7	young	young	JJ	_	8	amod
+8	actors	actor	NNS	_	5	pobj
+9	makes	make	VBZ	_	0	ROOT
+10	this	this	DT	_	12	predet
+11	a	a	DT	_	12	det
+12	joy	joy	NN	_	9	dobj
+13	to	to	TO	_	14	aux
+14	watch	watch	VB	_	9	xcomp
+15	.	.	.	_	9	punct
+

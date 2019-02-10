@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	teacher	teacher	NN	_	3	nsubj
+3	explores	explore	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	various	various	JJ	_	6	amod
+6	reactions	reaction	NNS	_	3	dobj
+7	and	and	CC	_	6	cc
+8	ideas	idea	NNS	_	6	conj
+9	by	by	IN	_	3	prep
+10	using	use	VBG	_	9	pcomp
+11	literature	literature	NN	_	10	dobj
+12	.	.	.	_	3	punct
+

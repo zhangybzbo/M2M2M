@@ -1,0 +1,26 @@
+1	Here	here	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	we	we	PRP	_	4	nsubj
+4	analysed	analyse	VBD	_	0	ROOT
+5	changes	change	NNS	_	4	dobj
+6	in	in	IN	_	5	prep
+7	heterozygosity	heterozygosity	NN	_	6	pobj
+8	over	over	IN	_	5	prep
+9	time	time	NN	_	8	pobj
+10	in	in	IN	_	5	prep
+11	an	a	DT	_	13	det
+12	insular	insular	JJ	_	13	amod
+13	mouflon	mouflon	NN	_	18	nn
+14	-LRB-	-lrb-	-LRB-	_	16	punct
+15	Ovis	ovi	NN	_	16	nn
+16	aries	aries	NNS	_	13	appos
+17	-RRB-	-rrb-	-RRB-	_	16	punct
+18	population	population	NN	_	10	pobj
+19	founded	found	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	two	two	CD	_	22	num
+22	individuals	individual	NNS	_	20	pobj
+23	in	in	IN	_	22	prep
+24	1957	1957	CD	_	23	pobj
+25	.	.	.	_	4	punct
+

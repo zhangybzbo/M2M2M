@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	air	air	NN	_	6	nsubj
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	jar	jar	NN	_	3	pobj
+6	started	start	VBD	_	0	ROOT
+7	circulating	circulate	VBG	_	6	xcomp
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	rest	rest	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	room	room	NN	_	11	pobj
+14	.	.	.	_	6	punct
+

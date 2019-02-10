@@ -1,0 +1,22 @@
+1	Strings	Strings	NNP	_	17	nsubj
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	clavichord	clavichord	NN	_	5	nn
+5	run	run	NN	_	2	pobj
+6	transversely	transversely	RB	_	5	advmod
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	hitchpin	hitchpin	NN	_	10	nn
+10	rail	rail	NN	_	7	pobj
+11	at	at	IN	_	6	prep
+12	the	the	DT	_	14	det
+13	left-hand	left-hand	JJ	_	14	amod
+14	end	end	NN	_	11	pobj
+15	to	to	TO	_	1	prep
+16	tuning	tuning	NN	_	15	pobj
+17	pegs	peg	VBZ	_	0	ROOT
+18	on	on	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	right	right	NN	_	18	pobj
+21	.	.	.	_	17	punct
+

@@ -1,0 +1,21 @@
+1	Heat	heat	NN	_	2	nn
+2	burns	burn	NNS	_	9	nsubjpass
+3	,	,	,	_	2	punct
+4	or	or	CC	_	2	cc
+5	thermal	thermal	JJ	_	6	amod
+6	burns	burn	NNS	_	2	conj
+7	,	,	,	_	2	punct
+8	are	be	VBP	_	9	auxpass
+9	caused	cause	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	steam	steam	NN	_	10	pobj
+12	,	,	,	_	11	punct
+13	fire	fire	NN	_	11	conj
+14	,	,	,	_	11	punct
+15	hot	hot	JJ	_	16	amod
+16	objects	object	NNS	_	11	conj
+17	or	or	CC	_	11	cc
+18	hot	hot	JJ	_	19	amod
+19	liquids	liquid	NNS	_	11	conj
+20	.	.	.	_	9	punct
+

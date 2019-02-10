@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	det
+2	first	first	JJ	_	4	amod
+3	involved	involved	JJ	_	4	amod
+4	representation	representation	NN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	congress	congress	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	different-sized	different-sized	JJ	_	9	amod
+9	states	state	NNS	_	7	pobj
+10	.	.	.	_	4	punct
+

@@ -1,0 +1,27 @@
+1	Virtually	virtually	RB	_	2	advmod
+2	all	all	DT	_	4	amod
+3	hillside	hillside	NN	_	4	nn
+4	farmers	farmer	NNS	_	5	nsubj
+5	grow	grow	VBP	_	0	ROOT
+6	maize	maize	NN	_	5	dobj
+7	during	during	IN	_	5	prep
+8	both	both	DT	_	9	det
+9	seasons	season	NNS	_	7	pobj
+10	,	,	,	_	5	punct
+11	and	and	CC	_	5	cc
+12	many	many	JJ	_	16	nsubj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	farmers	farmer	NNS	_	13	pobj
+16	cultivate	cultivate	VBP	_	5	conj
+17	beans	bean	NNS	_	16	dobj
+18	,	,	,	_	17	punct
+19	rice	rice	NN	_	17	conj
+20	,	,	,	_	17	punct
+21	and	and	CC	_	17	cc
+22	other	other	JJ	_	23	amod
+23	crops	crop	NNS	_	17	conj
+24	as	as	RB	_	25	advmod
+25	well	well	RB	_	23	advmod
+26	.	.	.	_	5	punct
+

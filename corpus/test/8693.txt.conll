@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	tape	tape	NN	_	3	nn
+3	recorder	recorder	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	cabinet	cabinet	NN	_	5	pobj
+8	outside	outside	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	cab	cab	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	engine	engine	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,25 @@
+1	A	a	DT	_	2	det
+2	bottle	bottle	NN	_	11	nn
+3	full	full	JJ	_	11	amod
+4	of	of	IN	_	3	prep
+5	water	water	NN	_	4	pobj
+6	or	or	CC	_	5	cc
+7	fluids	fluid	NNS	_	5	conj
+8	overloaded	overload	VBN	_	11	amod
+9	and	and	CC	_	8	cc
+10	stressed	stressed	JJ	_	8	conj
+11	rods	rod	NNS	_	0	ROOT
+12	218	218	CD	_	11	num
+13	when	when	WRB	_	17	advmod
+14	the	the	DT	_	15	det
+15	bottle	bottle	NN	_	17	nsubjpass
+16	was	be	VBD	_	17	auxpass
+17	grabbed	grab	VBN	_	11	rcmod
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	neck	neck	NN	_	18	pobj
+21	with	with	IN	_	20	prep
+22	claw	claw	NN	_	21	pobj
+23	224	224	CD	_	22	num
+24	.	.	.	_	11	punct
+

@@ -1,0 +1,20 @@
+1	A	a	DT	_	5	det
+2	multi-purpose	multi-purpose	JJ	_	5	amod
+3	electrician	electrician	NN	_	5	nn
+4	pliers	pliers	NNS	_	5	nn
+5	tool	tool	NN	_	7	nsubj
+6	is	be	VBZ	_	7	cop
+7	crucial	crucial	JJ	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	severing	sever	VBG	_	8	pcomp
+10	any	any	DT	_	12	det
+11	gauge	gauge	NN	_	12	nn
+12	wire	wire	NN	_	9	dobj
+13	with	with	IN	_	18	prep
+14	which	which	WDT	_	13	pobj
+15	the	the	DT	_	16	det
+16	electrician	electrician	NN	_	18	nsubj
+17	is	be	VBZ	_	18	aux
+18	working	work	VBG	_	12	rcmod
+19	.	.	.	_	7	punct
+

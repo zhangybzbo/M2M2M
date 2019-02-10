@@ -1,0 +1,1 @@
+Below is a code snippet for creating a timestamp from formatted date date .

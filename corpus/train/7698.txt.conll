@@ -1,0 +1,15 @@
+1	Learning	learn	VBG	_	9	csubj
+2	to	to	TO	_	3	aux
+3	change	change	VB	_	1	xcomp
+4	your	you	PRP$	_	5	poss
+5	vehicle	vehicle	NN	_	8	poss
+6	's	's	POS	_	5	possessive
+7	engine	engine	NN	_	8	nn
+8	oil	oil	NN	_	3	dobj
+9	saves	save	VBZ	_	0	ROOT
+10	you	you	PRP	_	9	iobj
+11	time	time	NN	_	9	dobj
+12	and	and	CC	_	11	cc
+13	money	money	NN	_	11	conj
+14	.	.	.	_	9	punct
+

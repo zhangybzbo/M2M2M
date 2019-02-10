@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	25-member	25-member	JJ	_	4	amod
+3	steering	steering	NN	_	4	nn
+4	committee	committee	NN	_	10	nsubj
+5	that	that	WDT	_	6	nsubj
+6	drafted	draft	VBD	_	4	rcmod
+7	the	the	DT	_	8	det
+8	document	document	NN	_	6	dobj
+9	also	also	RB	_	10	advmod
+10	passed	pass	VBD	_	0	ROOT
+11	it	it	PRP	_	10	dobj
+12	through	through	IN	_	10	prep
+13	two	two	CD	_	16	num
+14	Palestinian	palestinian	JJ	_	16	amod
+15	GFM	GFM	NNP	_	16	nn
+16	organizers	organizer	NNS	_	12	pobj
+17	.	.	.	_	10	punct
+

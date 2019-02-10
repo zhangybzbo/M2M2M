@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	lymphomas	lymphoma	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	neoplastic	neoplastic	JJ	_	7	amod
+7	proliferation	proliferation	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	cells	cell	NNS	_	8	pobj
+10	in	in	IN	_	7	prep
+11	the	the	DT	_	13	det
+12	lymphoid	lymphoid	JJ	_	13	amod
+13	system	system	NN	_	10	pobj
+14	.	.	.	_	4	punct
+

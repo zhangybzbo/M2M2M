@@ -1,0 +1,24 @@
+1	Within	within	IN	_	20	prep
+2	a	a	DT	_	3	det
+3	matter	matter	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	months	month	NNS	_	4	pobj
+6	,	,	,	_	20	punct
+7	Tavi	Tavi	NNP	_	8	nn
+8	Gevinson	Gevinson	NNP	_	20	nsubjpass
+9	,	,	,	_	8	punct
+10	the	the	DT	_	11	det
+11	author	author	NN	_	8	appos
+12	of	of	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	blog	blog	NN	_	12	pobj
+15	called	call	VBN	_	14	vmod
+16	Style	Style	NNP	_	17	nn
+17	Rookie	Rookie	NNP	_	15	dep
+18	,	,	,	_	8	punct
+19	was	be	VBD	_	20	auxpass
+20	feted	fete	VBN	_	0	ROOT
+21	by	by	IN	_	20	prep
+22	designers	designer	NNS	_	21	pobj
+23	.	.	.	_	20	punct
+

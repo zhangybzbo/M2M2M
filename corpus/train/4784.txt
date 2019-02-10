@@ -1,0 +1,1 @@
+When the coil of the relay is at rest -LRB- not energized -RRB- , the common terminal -LRB- 30 -RRB- and the normally closed terminal -LRB- 87a -RRB- have continuity .

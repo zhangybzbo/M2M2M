@@ -1,0 +1,25 @@
+1	He	he	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	built	build	VBN	_	0	ROOT
+4	a	a	DT	_	6	det
+5	formidable	formidable	JJ	_	6	amod
+6	reputation	reputation	NN	_	3	dobj
+7	writing	write	VBG	_	6	vmod
+8	powerful	powerful	JJ	_	9	amod
+9	dramas	drama	NN	_	7	dobj
+10	for	for	IN	_	7	prep
+11	the	the	DT	_	12	det
+12	stage	stage	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	screen	screen	NN	_	12	conj
+15	,	,	,	_	3	punct
+16	based	base	VBN	_	3	prep
+17	on	on	IN	_	16	pcomp
+18	real	real	JJ	_	19	amod
+19	events	event	NNS	_	17	pobj
+20	or	or	CC	_	19	cc
+21	socially	socially	RB	_	22	advmod
+22	vital	vital	JJ	_	23	amod
+23	issues	issue	NNS	_	19	conj
+24	.	.	.	_	3	punct
+

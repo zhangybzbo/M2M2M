@@ -1,0 +1,8 @@
+0	48	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="professional" pos="JJ" amod="t1"
+13	26	tok id="t1" base="photographer" pos="NNS" nsubj="t2"
+27	30	tok id="t2" base="use" pos="VBP" ROOT="ROOT"
+31	38	tok id="t3" base="digital" pos="JJ" amod="t4"
+39	46	tok id="t4" base="camera" pos="NNS" dobj="t2"
+47	48	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

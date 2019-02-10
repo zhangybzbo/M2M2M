@@ -1,0 +1,20 @@
+1	First	first	RB	_	14	advmod
+2	,	,	,	_	14	punct
+3	the	the	DT	_	4	det
+4	sound	sound	JJ	_	14	nsubjpass
+5	radiated	radiate	VBN	_	4	vmod
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	surface	surface	NN	_	6	pobj
+9	simulating	simulate	VBG	_	8	vmod
+10	a	a	DT	_	12	det
+11	two-dimensional	two-dimensional	JJ	_	12	amod
+12	monopole	monopole	NN	_	9	dobj
+13	is	be	VBZ	_	14	auxpass
+14	calculated	calculate	VBN	_	0	ROOT
+15	using	use	VBG	_	14	xcomp
+16	an	a	DT	_	18	det
+17	unstructured	unstructured	JJ	_	18	amod
+18	mesh	mesh	NN	_	15	dobj
+19	.	.	.	_	14	punct
+

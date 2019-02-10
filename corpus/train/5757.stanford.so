@@ -1,0 +1,8 @@
+0	39	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="fish" pos="NN" nn="t1"
+5	10	tok id="t1" base="gill" pos="NNS" nsubj="t4"
+11	14	tok id="t2" base="be" pos="VBP" cop="t4"
+15	30	tok id="t3" base="multifunctional" pos="JJ" amod="t4"
+31	37	tok id="t4" base="organ" pos="NNS" ROOT="ROOT"
+38	39	tok id="t5" base="-PERIOD-" pos="." punct="t4"
+

@@ -1,0 +1,27 @@
+1	Part	part	NN	_	7	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	seam	seam	NN	_	2	pobj
+5	had	have	VBD	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	opened	open	VBN	_	0	ROOT
+8	up	up	RP	_	7	prt
+9	and	and	CC	_	7	cc
+10	a	a	DT	_	12	det
+11	roasting	roast	VBG	_	12	amod
+12	pan	pan	NN	_	24	nsubjpass
+13	filled	fill	VBN	_	12	vmod
+14	with	with	IN	_	13	prep
+15	wet	wet	JJ	_	16	amod
+16	spaghetti	spaghetti	NNS	_	14	pobj
+17	,	,	,	_	16	punct
+18	cherry	cherry	NN	_	19	nn
+19	pie	pie	NN	_	16	conj
+20	filling	fill	VBG	_	19	vmod
+21	and	and	CC	_	16	cc
+22	jello	jello	NN	_	16	conj
+23	was	be	VBD	_	24	auxpass
+24	put	put	VBN	_	7	conj
+25	inside	inside	RB	_	24	advmod
+26	.	.	.	_	7	punct
+

@@ -1,0 +1,13 @@
+0	60	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Public" pos="NNP" nn="t1"
+7	13	tok id="t1" base="debate" pos="NN" nsubj="t2"
+14	20	tok id="t2" base="swirl" pos="VBZ" ROOT="ROOT"
+21	25	tok id="t3" base="over" pos="IN" prep="t2"
+26	29	tok id="t4" base="the" pos="DT" det="t5"
+30	37	tok id="t5" base="purpose" pos="NN" pobj="t3"
+38	41	tok id="t6" base="and" pos="CC" cc="t5"
+42	47	tok id="t7" base="goal" pos="NNS" conj="t5"
+48	50	tok id="t8" base="of" pos="IN" prep="t5"
+51	58	tok id="t9" base="science" pos="NN" pobj="t8"
+59	60	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

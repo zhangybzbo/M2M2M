@@ -1,0 +1,13 @@
+1	Last	last	JJ	_	2	amod
+2	night	night	NN	_	5	tmod
+3	,	,	,	_	5	punct
+4	someone	someone	NN	_	5	nsubj
+5	threw	throw	VBD	_	0	ROOT
+6	a	a	DT	_	7	det
+7	stone	stone	NN	_	5	dobj
+8	into	into	IN	_	5	prep
+9	our	we	PRP$	_	11	poss
+10	glass	glass	NN	_	11	nn
+11	window	window	NN	_	8	pobj
+12	.	.	.	_	5	punct
+

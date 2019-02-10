@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	food	food	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	kept	keep	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	kitchen	kitchen	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	guests	guest	NNS	_	10	nsubj
+10	help	help	VBP	_	4	conj
+11	themselves	themselves	PRP	_	10	dobj
+12	as	as	IN	_	17	mark
+13	it	it	PRP	_	17	nsubj
+14	is	be	VBZ	_	17	cop
+15	a	a	DT	_	17	det
+16	self	self	NN	_	17	nn
+17	service	service	NN	_	10	advcl
+18	.	.	.	_	4	punct
+

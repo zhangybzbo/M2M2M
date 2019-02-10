@@ -1,0 +1,15 @@
+1	Archaeologists	archaeologist	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	located	locate	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	tomb	tomb	NN	_	3	dobj
+6	and	and	CC	_	3	cc
+7	have	have	VBP	_	8	aux
+8	inserted	insert	VBN	_	3	conj
+9	probes	probe	NNS	_	8	dobj
+10	deep	deep	RB	_	11	advmod
+11	into	into	IN	_	9	prep
+12	the	the	DT	_	13	det
+13	tomb	tomb	NN	_	11	pobj
+14	.	.	.	_	3	punct
+

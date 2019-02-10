@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	judgment	judgment	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	reported	report	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	local	local	JJ	_	7	amod
+7	newspapers	newspaper	NNS	_	5	pobj
+8	on	on	IN	_	4	prep
+9	Saturday	Saturday	NNP	_	8	pobj
+10	.	.	.	_	4	punct
+

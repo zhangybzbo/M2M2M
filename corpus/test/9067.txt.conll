@@ -1,0 +1,24 @@
+1	For	for	IN	_	5	mark
+2	a	a	DT	_	4	det
+3	flaming	flaming	JJ	_	4	amod
+4	pie	pie	NN	_	5	nsubj
+5	descended	descend	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	sky	sky	NN	_	6	pobj
+9	,	,	,	_	5	punct
+10	and	and	CC	_	5	cc
+11	Jesus	Jesus	NNP	_	12	nn
+12	Christ	Christ	NNP	_	13	nsubj
+13	stepped	step	VBD	_	5	conj
+14	out	out	IN	_	13	prep
+15	of	of	IN	_	14	pcomp
+16	it	it	PRP	_	15	pobj
+17	,	,	,	_	5	punct
+18	and	and	CC	_	5	cc
+19	He	he	PRP	_	20	nsubj
+20	sayeth	sayeth	VBP	_	5	conj
+21	unto	unto	JJ	_	22	amod
+22	me	I	PRP	_	20	dobj
+23	.	.	.	_	5	punct
+

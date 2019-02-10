@@ -1,0 +1,17 @@
+1	Chestnut	Chestnut	NNP	_	2	nn
+2	flour	flour	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	more	more	RBR	_	5	advmod
+5	common	common	JJ	_	0	ROOT
+6	than	than	IN	_	5	prep
+7	wheat	wheat	NN	_	8	nn
+8	flour	flour	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Italian	italian	JJ	_	12	amod
+12	Alps	Alps	NNP	_	9	pobj
+13	a	a	DT	_	14	det
+14	century	century	NN	_	15	npadvmod
+15	ago	ago	RB	_	5	advmod
+16	.	.	.	_	5	punct
+

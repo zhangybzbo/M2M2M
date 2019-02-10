@@ -1,0 +1,13 @@
+1	Bar	bar	NN	_	2	nsubj
+2	builds	build	VBZ	_	0	ROOT
+3	guillotine	guillotine	NN	_	2	dobj
+4	out	out	IN	_	2	prep
+5	of	of	IN	_	4	pcomp
+6	beer	beer	NN	_	7	nn
+7	cans	can	NNS	_	5	pobj
+8	to	to	TO	_	9	aux
+9	protest	protest	VB	_	2	vmod
+10	Atlantic	Atlantic	NNP	_	11	nn
+11	Yards	Yards	NNPS	_	9	dobj
+12	.	.	.	_	2	punct
+

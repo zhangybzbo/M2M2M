@@ -1,0 +1,13 @@
+0	53	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t2"
+2	8	tok id="t1" base="german" pos="JJ" amod="t2"
+9	16	tok id="t2" base="soldier" pos="NN" nsubj="t3"
+17	25	tok id="t3" base="attach" pos="VBZ" ROOT="ROOT"
+26	27	tok id="t4" base="a" pos="DT" det="t6"
+28	33	tok id="t5" base="eufor" pos="NN" nn="t6"
+34	38	tok id="t6" base="sign" pos="NN" dobj="t3"
+39	41	tok id="t7" base="to" pos="TO" prep="t3"
+42	43	tok id="t8" base="a" pos="DT" det="t9"
+44	51	tok id="t9" base="vehicle" pos="NN" pobj="t7"
+52	53	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

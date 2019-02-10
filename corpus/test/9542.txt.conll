@@ -1,0 +1,21 @@
+1	Resulting	result	VBG	_	2	amod
+2	congestion	congestion	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	delays	delay	NNS	_	3	dobj
+5	of	of	IN	_	4	prep
+6	15-20	15-20	CD	_	7	num
+7	minutes	minute	NNS	_	5	pobj
+8	to	to	TO	_	3	prep
+9	Northeast	Northeast	NNP	_	10	nn
+10	Corridor	Corridor	NNP	_	8	pobj
+11	,	,	,	_	10	punct
+12	North	North	NNP	_	15	nn
+13	Jersey	Jersey	NNP	_	15	nn
+14	Coast	Coast	NNP	_	15	nn
+15	Line	Line	NNP	_	10	conj
+16	and	and	CC	_	10	cc
+17	Midtown	Midtown	NNP	_	19	nn
+18	Direct	Direct	NNP	_	19	nn
+19	trains	train	NNS	_	10	conj
+20	.	.	.	_	3	punct
+

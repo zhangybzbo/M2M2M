@@ -1,0 +1,3 @@
+T1	Term 14 21	measles
+T2	Term 43 49	rashes
+R1	Cause-Effect Arg1:T1 Arg2:T2

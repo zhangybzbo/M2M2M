@@ -1,0 +1,13 @@
+1	My	my	PRP$	_	3	poss
+2	ancient	ancient	JJ	_	3	amod
+3	array	array	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	pens	pen	NNS	_	4	pobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	tankard	tankard	NN	_	6	pobj
+9	works	work	VBZ	_	0	ROOT
+10	every	every	DT	_	11	det
+11	time	time	NN	_	9	tmod
+12	.	.	.	_	9	punct
+

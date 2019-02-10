@@ -1,0 +1,17 @@
+1	Flax	Flax	NNP	_	3	nn
+2	seed	seed	NN	_	3	nn
+3	oils	oils	NNS	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	the	the	DT	_	6	det
+6	form	form	NN	_	0	ROOT
+7	in	in	IN	_	12	prep
+8	which	which	WDT	_	7	pobj
+9	the	the	DT	_	10	det
+10	oil	oil	NN	_	12	nsubjpass
+11	was	be	VBD	_	12	auxpass
+12	extracted	extract	VBN	_	6	rcmod
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	seed	seed	NN	_	13	pobj
+16	.	.	.	_	6	punct
+

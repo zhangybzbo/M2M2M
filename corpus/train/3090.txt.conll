@@ -1,0 +1,24 @@
+1	Instead	instead	RB	_	2	advmod
+2	of	of	IN	_	13	prep
+3	placing	place	VBG	_	2	pcomp
+4	the	the	DT	_	5	det
+5	seeds	seed	NNS	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	strainer	strainer	NN	_	9	nn
+9	basket	basket	NN	_	6	pobj
+10	,	,	,	_	13	punct
+11	they	they	PRP	_	13	nsubjpass
+12	were	be	VBD	_	13	auxpass
+13	placed	place	VBN	_	0	ROOT
+14	in	in	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	wet	wet	JJ	_	17	amod
+17	muslin	muslin	NN	_	14	pobj
+18	or	or	CC	_	17	cc
+19	cheesecloth	cheesecloth	NN	_	17	conj
+20	and	and	CC	_	13	cc
+21	hung	hang	VBD	_	13	conj
+22	up	up	RP	_	21	prt
+23	.	.	.	_	13	punct
+

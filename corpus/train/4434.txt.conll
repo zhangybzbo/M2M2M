@@ -1,0 +1,13 @@
+1	His	he	PRP$	_	2	poss
+2	deeds	deed	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	thrown	throw	VBN	_	0	ROOT
+5	thousands	thousand	NNS	_	4	dobj
+6	of	of	IN	_	5	prep
+7	people	people	NNS	_	6	pobj
+8	into	into	IN	_	4	prep
+9	eternal	eternal	JJ	_	11	amod
+10	financial	financial	JJ	_	11	amod
+11	damnation	damnation	NN	_	8	pobj
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,10 @@
+0	33	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="a" pos="DT" det="t2"
+3	6	tok id="t1" base="oak" pos="NN" nn="t2"
+7	11	tok id="t2" base="tree" pos="NN" nsubj="t3"
+12	17	tok id="t3" base="grow" pos="VBZ" ROOT="ROOT"
+18	22	tok id="t4" base="from" pos="IN" prep="t3"
+23	25	tok id="t5" base="a" pos="DT" det="t6"
+26	31	tok id="t6" base="acorn" pos="NN" pobj="t4"
+32	33	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,14 @@
+1	I	I	PRP	_	3	nsubj
+2	'm	be	VBP	_	3	aux
+3	going	go	VBG	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	some	some	DT	_	6	det
+6	girls	girl	NNS	_	4	pobj
+7	to	to	TO	_	8	aux
+8	get	get	VB	_	3	xcomp
+9	a	a	DT	_	10	det
+10	bunch	bunch	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	flowers	flower	NNS	_	11	pobj
+13	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	volume	volume	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	fifteen	fifteen	CD	_	5	num
+5	essays	essay	NNS	_	9	nsubj
+6	by	by	IN	_	5	prep
+7	well-established	well-established	JJ	_	8	amod
+8	scholars	scholar	NNS	_	6	pobj
+9	addressed	address	VBD	_	3	ccomp
+10	to	to	TO	_	9	prep
+11	various	various	JJ	_	12	amod
+12	aspects	aspect	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	Russell	Russell	NNP	_	20	poss
+15	's	's	POS	_	14	possessive
+16	wide-ranging	wide-ranging	JJ	_	20	amod
+17	and	and	CC	_	16	cc
+18	dynamic	dynamic	JJ	_	16	conj
+19	philosophical	philosophical	JJ	_	20	amod
+20	work	work	NN	_	13	pobj
+21	.	.	.	_	3	punct
+

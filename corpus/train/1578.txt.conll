@@ -1,0 +1,10 @@
+1	Her	she	PRP$	_	2	poss
+2	speeches	speech	NNS	_	3	nsubj
+3	have	have	VBP	_	0	ROOT
+4	special	special	JJ	_	5	amod
+5	reference	reference	NN	_	3	dobj
+6	to	to	TO	_	5	prep
+7	environmental	environmental	JJ	_	8	amod
+8	policy	policy	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

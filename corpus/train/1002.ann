@@ -1,0 +1,3 @@
+T1	Term 50 54	goat
+T2	Term 55 59	herd
+R1	Member-Collection Arg1:T1 Arg2:T2

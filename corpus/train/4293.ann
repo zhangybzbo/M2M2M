@@ -1,0 +1,3 @@
+T1	Term 0 12	Constipation
+T2	Term 41 55	abdominal pain
+R1	Cause-Effect Arg1:T1 Arg2:T2

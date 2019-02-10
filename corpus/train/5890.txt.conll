@@ -1,0 +1,14 @@
+1	In	in	IN	_	8	prep
+2	the	the	DT	_	3	det
+3	beginning	beginning	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	6	det
+6	yarn	yarn	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	stored	store	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	plastic	plastic	JJ	_	12	amod
+11	Ikea	Ikea	NNP	_	12	nn
+12	bins	bin	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

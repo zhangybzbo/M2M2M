@@ -1,0 +1,21 @@
+1	He	he	PRP	_	2	nsubj
+2	stuffed	stuff	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	letter	letter	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	breast	breast	NN	_	8	nn
+8	pocket	pocket	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	his	he	PRP$	_	11	poss
+11	suit	suit	NN	_	9	pobj
+12	and	and	CC	_	2	cc
+13	slipped	slip	VBD	_	2	conj
+14	the	the	DT	_	16	det
+15	enclosed	enclosed	JJ	_	16	amod
+16	DVD	dvd	NN	_	13	dobj
+17	into	into	IN	_	13	prep
+18	the	the	DT	_	19	det
+19	player	player	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

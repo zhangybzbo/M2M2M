@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	contamination	contamination	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	residues	residue	NNS	_	5	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	aromatic	aromatic	JJ	_	10	amod
+10	hydrocarbons	hydrocarbon	NNS	_	7	pobj
+11	.	.	.	_	4	punct
+

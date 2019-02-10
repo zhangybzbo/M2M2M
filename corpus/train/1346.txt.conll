@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	Mother	Mother	NNP	_	3	nn
+3	Superior	Superior	NNP	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	member	member	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	corporation	corporation	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

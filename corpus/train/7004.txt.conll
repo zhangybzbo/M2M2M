@@ -1,0 +1,27 @@
+1	Physical	physical	JJ	_	2	amod
+2	geography	geography	NN	_	3	nsubj
+3	examines	examine	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	natural	natural	JJ	_	6	amod
+6	environment	environment	NN	_	3	dobj
+7	and	and	CC	_	6	cc
+8	how	how	WRB	_	23	advmod
+9	the	the	DT	_	10	det
+10	climate	climate	NN	_	23	nsubjpass
+11	,	,	,	_	10	punct
+12	vegetation	vegetation	NN	_	10	conj
+13	&	&	CC	_	12	cc
+14	life	life	NN	_	12	conj
+15	,	,	,	_	10	punct
+16	soil	soil	NN	_	10	conj
+17	,	,	,	_	10	punct
+18	water	water	NN	_	10	conj
+19	,	,	,	_	10	punct
+20	and	and	CC	_	10	cc
+21	landforms	landform	NNS	_	10	conj
+22	are	be	VBP	_	23	auxpass
+23	produced	produce	VBN	_	6	conj
+24	and	and	CC	_	3	cc
+25	interact	interact	VBP	_	3	conj
+26	.	.	.	_	3	punct
+

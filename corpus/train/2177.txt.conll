@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	plot	plot	NN	_	4	nsubj
+3	here	here	RB	_	2	advmod
+4	involves	involve	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	cache	cache	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	stolen	steal	VBN	_	9	amod
+9	jewels	jewel	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	gold	gold	NN	_	12	nn
+12	bars	bar	NNS	_	9	conj
+13	,	,	,	_	6	punct
+14	which	which	WDT	_	16	nsubjpass
+15	were	be	VBD	_	16	auxpass
+16	confiscated	confiscate	VBN	_	6	rcmod
+17	at	at	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	end	end	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	World	World	NNP	_	23	nn
+22	War	War	NNP	_	23	nn
+23	II	II	NNP	_	20	pobj
+24	.	.	.	_	4	punct
+

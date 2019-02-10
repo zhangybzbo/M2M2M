@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	mansion	mansion	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	small	small	JJ	_	6	amod
+6	museum	museum	NN	_	3	dobj
+7	with	with	IN	_	6	prep
+8	exhibits	exhibit	NNS	_	7	pobj
+9	linked	link	VBN	_	8	vmod
+10	to	to	TO	_	9	prep
+11	the	the	DT	_	12	det
+12	building	building	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	history	history	NN	_	10	pobj
+15	,	,	,	_	8	punct
+16	including	include	VBG	_	8	prep
+17	antique	antique	JJ	_	18	amod
+18	Singer	Singer	NNP	_	20	nn
+19	sewing	sew	VBG	_	20	amod
+20	machines	machine	NNS	_	16	pobj
+21	.	.	.	_	3	punct
+

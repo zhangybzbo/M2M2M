@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	electricity	electricity	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	produced	produce	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	440	440	CD	_	8	num
+7	nuclear	nuclear	JJ	_	8	amod
+8	reactors	reactor	NNS	_	5	pobj
+9	in	in	IN	_	4	prep
+10	31	31	CD	_	11	num
+11	countries	country	NNS	_	9	pobj
+12	.	.	.	_	4	punct
+

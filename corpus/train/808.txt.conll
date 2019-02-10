@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	stapler	stapler	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	stapling	staple	VBG	_	6	amod
+6	head	head	NN	_	3	dobj
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	2	2	CD	_	6	appos
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	and	and	CC	_	6	cc
+11	an	a	DT	_	12	det
+12	anvil	anvil	NN	_	6	conj
+13	-LRB-	-lrb-	-LRB-	_	14	punct
+14	3	3	CD	_	12	appos
+15	-RRB-	-rrb-	-RRB-	_	14	punct
+16	.	.	.	_	3	punct
+

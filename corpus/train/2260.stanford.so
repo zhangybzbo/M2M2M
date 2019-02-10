@@ -1,0 +1,11 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="court" pos="NN" nsubj="t2"
+10	14	tok id="t2" base="send" pos="VBD" ROOT="ROOT"
+15	18	tok id="t3" base="the" pos="DT" det="t5"
+19	23	tok id="t4" base="drug" pos="NN" nn="t5"
+24	30	tok id="t5" base="addict" pos="NN" dobj="t2"
+31	35	tok id="t6" base="into" pos="IN" prep="t2"
+36	47	tok id="t7" base="hibernation" pos="NN" pobj="t6"
+48	49	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

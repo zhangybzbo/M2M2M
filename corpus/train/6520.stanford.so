@@ -1,0 +1,12 @@
+0	55	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="jury" pos="NN" poss="t3"
+9	11	tok id="t2" base="'s" pos="POS" possessive="t1"
+12	25	tok id="t3" base="deliberation" pos="NNS" nsubjpass="t5"
+26	30	tok id="t4" base="be" pos="VBD" auxpass="t5"
+31	39	tok id="t5" base="report" pos="VBN" ROOT="ROOT"
+40	46	tok id="t6" base="weekly" pos="RB" advmod="t5"
+47	49	tok id="t7" base="on" pos="IN" prep="t5"
+50	53	tok id="t8" base="air" pos="NN" pobj="t7"
+54	55	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,15 @@
+1	You	you	PRP	_	2	nsubj
+2	shaped	shape	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	bristles	bristle	VBZ	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	brush	brush	NN	_	5	pobj
+8	with	with	IN	_	7	prep
+9	clean	clean	JJ	_	10	amod
+10	lather	lather	NN	_	8	pobj
+11	still	still	RB	_	4	advmod
+12	in	in	IN	_	4	prep
+13	it	it	PRP	_	12	pobj
+14	.	.	.	_	2	punct
+

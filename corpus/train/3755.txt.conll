@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	Indians	Indians	NNPS	_	3	nsubj
+3	drink	drink	VBP	_	0	ROOT
+4	so	so	RB	_	5	advmod
+5	much	much	JJ	_	7	amod
+6	maize	maize	NN	_	7	nn
+7	liquor	liquor	NN	_	3	dobj
+8	that	that	IN	_	10	mark
+9	it	it	PRP	_	10	nsubj
+10	makes	make	VBZ	_	3	ccomp
+11	them	they	PRP	_	12	nsubj
+12	drunk	drunk	JJ	_	10	xcomp
+13	.	.	.	_	3	punct
+

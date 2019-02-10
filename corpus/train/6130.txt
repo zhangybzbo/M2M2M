@@ -1,0 +1,1 @@
+The bounded applicability of the Perceptron arose from the linearity of its modifiable decision rule .

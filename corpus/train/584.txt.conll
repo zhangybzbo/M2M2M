@@ -1,0 +1,14 @@
+1	He	he	PRP	_	3	nsubj
+2	painstakingly	painstakingly	RB	_	3	advmod
+3	taught	teach	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	chords	chord	NNS	_	3	dobj
+6	to	to	TO	_	3	prep
+7	the	the	DT	_	9	det
+8	young	young	JJ	_	9	amod
+9	troubadour	troubadour	NN	_	12	poss
+10	's	's	POS	_	9	possessive
+11	anti-establishment	anti-establishment	JJ	_	12	amod
+12	broadsides	broadside	NNS	_	6	pobj
+13	.	.	.	_	3	punct
+

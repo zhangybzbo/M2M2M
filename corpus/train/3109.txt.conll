@@ -1,0 +1,14 @@
+1	Winds	wind	NNS	_	4	nsubj
+2	have	have	VBP	_	4	aux
+3	been	be	VBN	_	4	aux
+4	blowing	blow	VBG	_	0	ROOT
+5	smoke	smoke	NN	_	4	dobj
+6	from	from	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	fire	fire	NN	_	6	pobj
+9	into	into	IN	_	4	prep
+10	heavily	heavily	RB	_	11	advmod
+11	populated	populated	JJ	_	12	amod
+12	areas	area	NNS	_	9	pobj
+13	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	In	in	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	early	early	JJ	_	4	amod
+4	years	year	NNS	_	1	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	Monarchy	Monarchy	NNP	_	5	pobj
+8	there	there	EX	_	9	expl
+9	was	be	VBD	_	0	ROOT
+10	only	only	RB	_	11	quantmod
+11	one	one	CD	_	12	num
+12	legion	legion	NN	_	9	nsubj
+13	of	of	IN	_	12	prep
+14	3000	3000	CD	_	15	num
+15	infantrymen	infantryman	NNS	_	13	pobj
+16	-LRB-	-lrb-	-LRB-	_	18	punct
+17	front	front	JJ	_	18	amod
+18	soldiers	soldier	NNS	_	15	appos
+19	-RRB-	-rrb-	-RRB-	_	18	punct
+20	and	and	CC	_	15	cc
+21	300	300	CD	_	22	num
+22	cavalry	cavalry	NN	_	15	conj
+23	.	.	.	_	9	punct
+

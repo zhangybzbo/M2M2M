@@ -1,0 +1,11 @@
+0	41	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="skype" pos="VB" ROOT="ROOT"
+6	14	tok id="t1" base="founder" pos="NNS" nsubj="t3"
+15	19	tok id="t2" base="have" pos="VBP" aux="t3"
+20	25	tok id="t3" base="move" pos="VBN" ccomp="t0"
+26	30	tok id="t4" base="into" pos="IN" prep="t3"
+31	32	tok id="t5" base="a" pos="DT" det="t7"
+33	36	tok id="t6" base="net" pos="JJ" amod="t7"
+37	39	tok id="t7" base="tv" pos="NN" pobj="t4"
+40	41	tok id="t8" base="-PERIOD-" pos="." punct="t0"
+

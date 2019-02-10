@@ -1,0 +1,13 @@
+1	Seventy-first	seventy-first	JJ	_	2	amod
+2	regiment	regiment	NN	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	the	the	DT	_	5	det
+5	rest	rest	NN	_	2	conj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	11	det
+8	cavalry	cavalry	JJ	_	11	amod
+9	composed	compose	VBN	_	11	amod
+10	the	the	DT	_	11	det
+11	reserve	reserve	NN	_	6	pobj
+12	.	.	.	_	2	punct
+

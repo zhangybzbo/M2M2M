@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	stick	stick	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	pinwheel	pinwheel	NN	_	3	pobj
+6	is	be	VBZ	_	0	ROOT
+7	as	as	IN	_	6	prep
+8	simple	simple	JJ	_	7	pobj
+9	as	as	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	pencil	pencil	NN	_	9	pobj
+12	or	or	CC	_	8	cc
+13	as	as	IN	_	8	conj
+14	intricate	intricate	JJ	_	13	pobj
+15	as	as	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	carved	carve	VBN	_	18	amod
+18	stick	stick	NN	_	15	pobj
+19	or	or	CC	_	18	cc
+20	metal	metal	NN	_	21	nn
+21	rod	rod	NN	_	18	conj
+22	.	.	.	_	6	punct
+

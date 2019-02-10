@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	researchers	researcher	NNS	_	3	nsubj
+3	produced	produce	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	report	report	NN	_	3	dobj
+6	which	which	WDT	_	7	nsubj
+7	has	have	VBZ	_	5	rcmod
+8	,	,	,	_	7	punct
+9	literally	literally	RB	_	7	advmod
+10	,	,	,	_	7	punct
+11	saved	save	VBD	_	7	dep
+12	their	they	PRP$	_	13	poss
+13	jobs	job	NNS	_	11	dobj
+14	.	.	.	_	3	punct
+

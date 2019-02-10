@@ -1,0 +1,26 @@
+1	Sometime	sometime	RB	_	2	advmod
+2	shortly	shortly	RB	_	9	advmod
+3	before	before	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	murder	murder	NN	_	3	pobj
+6	,	,	,	_	9	punct
+7	a	a	DT	_	8	det
+8	woman	woman	NN	_	9	nsubj
+9	came	come	VBD	_	0	ROOT
+10	to	to	TO	_	9	prep
+11	Verloo	Verloo	NNP	_	13	poss
+12	's	's	POS	_	11	possessive
+13	apartment	apartment	NN	_	10	pobj
+14	and	and	CC	_	9	cc
+15	put	put	VBD	_	9	conj
+16	a	a	DT	_	17	det
+17	drug	drug	NN	_	15	dobj
+18	identified	identify	VBN	_	17	vmod
+19	as	as	IN	_	18	prep
+20	Clophelinum	Clophelinum	NNP	_	19	pobj
+21	into	into	IN	_	18	prep
+22	his	he	PRP$	_	24	poss
+23	alcohol	alcohol	NN	_	24	nn
+24	drink	drink	NN	_	21	pobj
+25	.	.	.	_	9	punct
+

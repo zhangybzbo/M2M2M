@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det
+2	volume	volume	NN	_	3	nsubj
+3	analyzes	analyze	VBZ	_	0	ROOT
+4	central	central	JJ	_	5	amod
+5	concepts	concept	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	contemporary	contemporary	JJ	_	10	amod
+9	political	political	JJ	_	10	amod
+10	debate	debate	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

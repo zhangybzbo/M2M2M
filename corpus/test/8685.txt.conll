@@ -1,0 +1,15 @@
+1	A	a	DT	_	3	det
+2	data	datum	NN	_	3	nn
+3	warehouse	warehouse	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	place	place	NN	_	0	ROOT
+7	where	where	WRB	_	10	advmod
+8	data	datum	NNS	_	10	nsubjpass
+9	is	be	VBZ	_	10	auxpass
+10	stored	store	VBN	_	6	rcmod
+11	for	for	IN	_	10	prep
+12	archival	archival	JJ	_	13	amod
+13	purposes	purpose	NNS	_	11	pobj
+14	.	.	.	_	6	punct
+

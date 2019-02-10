@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	2	poss
+2	dog	dog	NN	_	3	nsubj
+3	ate	eat	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	cellophane	cellophane	NN	_	6	nn
+6	bag	bag	NN	_	3	dobj
+7	full	full	JJ	_	10	nsubj
+8	of	of	IN	_	7	prep
+9	dog	dog	NN	_	8	pobj
+10	treats	treat	VBZ	_	6	rcmod
+11	on	on	IN	_	10	prep
+12	Tuesday	Tuesday	NNP	_	11	pobj
+13	.	.	.	_	3	punct
+

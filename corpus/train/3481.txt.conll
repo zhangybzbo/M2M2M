@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	boy	boy	NN	_	3	nsubj
+3	learned	learn	VBD	_	0	ROOT
+4	how	how	WRB	_	6	advmod
+5	to	to	TO	_	6	aux
+6	protect	protect	VB	_	3	ccomp
+7	the	the	DT	_	8	det
+8	socket	socket	NN	_	6	dobj
+9	for	for	IN	_	6	prep
+10	making	make	VBG	_	9	pcomp
+11	a	a	DT	_	15	det
+12	picture	picture	NN	_	15	nn
+13	light	light	JJ	_	15	amod
+14	switch	switch	NN	_	15	nn
+15	cover	cover	NN	_	10	dobj
+16	in	in	IN	_	10	prep
+17	this	this	DT	_	19	det
+18	free	free	JJ	_	19	amod
+19	home	home	NN	_	21	nn
+20	decorating	decorate	VBG	_	21	amod
+21	video	video	NN	_	16	pobj
+22	.	.	.	_	3	punct
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	pain	pain	NN	_	6	nsubjpass
+3	he	he	PRP	_	4	nsubj
+4	felt	feel	VBD	_	2	rcmod
+5	was	be	VBD	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	plant	plant	NN	_	7	pobj
+10	rubbing	rub	VBG	_	9	vmod
+11	against	against	IN	_	10	prep
+12	his	he	PRP$	_	13	poss
+13	capillaries	capillary	NNS	_	11	pobj
+14	.	.	.	_	6	punct
+

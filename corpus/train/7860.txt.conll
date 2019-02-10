@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	glomeruli	glomerulus	NNS	_	3	nsubj
+3	assist	assist	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	kidneys	kidney	NNS	_	3	dobj
+6	in	in	IN	_	3	prep
+7	filtering	filter	VBG	_	6	pcomp
+8	urine	urine	NN	_	7	dobj
+9	from	from	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	blood	blood	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+0	61	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="at" pos="IN" prep="t5"
+3	8	tok id="t1" base="LEAST" pos="NNP" nn="t3"
+9	15	tok id="t2" base="140000" pos="CD" num="t3"
+16	26	tok id="t3" base="homeowner" pos="NNS" pobj="t0"
+27	31	tok id="t4" base="have" pos="VBP" aux="t5"
+32	38	tok id="t5" base="fall" pos="VBN" ROOT="ROOT"
+39	43	tok id="t6" base="into" pos="IN" prep="t5"
+44	52	tok id="t7" base="negative" pos="JJ" amod="t8"
+53	59	tok id="t8" base="equity" pos="NN" pobj="t6"
+60	61	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,11 @@
+1	We	we	PRP	_	2	nsubj
+2	introduced	introduce	VBD	_	0	ROOT
+3	leak	leak	NN	_	4	nn
+4	detection	detection	NN	_	5	nsubj
+5	dye	dye	VB	_	2	ccomp
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	air	air	NN	_	9	nn
+9	conditioning	conditioning	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

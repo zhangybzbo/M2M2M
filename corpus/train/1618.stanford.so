@@ -1,0 +1,10 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="DOJ" pos="NNP" nsubj="t1"
+4	12	tok id="t1" base="release" pos="VBD" ROOT="ROOT"
+13	14	tok id="t2" base="a" pos="DT" det="t3"
+15	20	tok id="t3" base="probe" pos="NN" dobj="t1"
+21	25	tok id="t4" base="into" pos="IN" prep="t1"
+26	35	tok id="t5" base="Siegelman" pos="NNP" nn="t6"
+36	47	tok id="t6" base="prosecution" pos="NN" pobj="t4"
+48	49	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

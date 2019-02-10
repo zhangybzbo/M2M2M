@@ -1,0 +1,23 @@
+1	Another	another	DT	_	2	det
+2	reason	reason	NN	_	17	nsubj
+3	for	for	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	impression	impression	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	energy	energy	NN	_	6	pobj
+8	and	and	CC	_	7	cc
+9	optimism	optimism	NN	_	7	conj
+10	caused	cause	VBN	_	5	vmod
+11	by	by	IN	_	10	prep
+12	many	many	JJ	_	13	amod
+13	posters	poster	NNS	_	11	pobj
+14	is	be	VBZ	_	17	cop
+15	their	they	PRP$	_	17	poss
+16	very	very	JJ	_	17	amod
+17	nature	nature	NN	_	0	ROOT
+18	as	as	IN	_	17	prep
+19	images	image	NNS	_	18	pobj
+20	of	of	IN	_	19	prep
+21	propaganda	propaganda	NN	_	20	pobj
+22	.	.	.	_	17	punct
+

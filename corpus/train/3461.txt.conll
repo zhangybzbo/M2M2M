@@ -1,0 +1,15 @@
+1	Governments	government	NNS	_	10	nsubj
+2	and	and	CC	_	1	cc
+3	industries	industry	NNS	_	1	conj
+4	in	in	IN	_	1	prep
+5	nations	nation	NNS	_	4	pobj
+6	around	around	IN	_	1	prep
+7	the	the	DT	_	8	det
+8	world	world	NN	_	6	pobj
+9	are	be	VBP	_	10	aux
+10	pouring	pour	VBG	_	0	ROOT
+11	billions	billion	NNS	_	10	dobj
+12	into	into	IN	_	10	prep
+13	nanotechnology	nanotechnology	NN	_	12	pobj
+14	.	.	.	_	10	punct
+

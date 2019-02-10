@@ -1,0 +1,27 @@
+1	Following	follow	VBG	_	25	vmod
+2	an	a	DT	_	4	det
+3	international	international	JJ	_	4	amod
+4	contest	contest	NN	_	1	dobj
+5	for	for	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	city	city	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	design	design	NN	_	5	pobj
+10	,	,	,	_	25	punct
+11	a	a	DT	_	12	det
+12	design	design	NN	_	25	nsubjpass
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	19	det
+15	Chicago	Chicago	NNP	_	19	nn
+16	architects	architect	NNS	_	19	nn
+17	Walter	Walter	NNP	_	19	nn
+18	Burley	Burley	NNP	_	19	nn
+19	Griffin	Griffin	NNP	_	13	pobj
+20	and	and	CC	_	19	cc
+21	Marion	Marion	NNP	_	23	nn
+22	Mahony	Mahony	NNP	_	23	nn
+23	Griffin	Griffin	NNP	_	19	conj
+24	was	be	VBD	_	25	auxpass
+25	selected	select	VBN	_	0	ROOT
+26	.	.	.	_	25	punct
+

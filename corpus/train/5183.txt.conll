@@ -1,0 +1,21 @@
+1	As	as	IN	_	19	prep
+2	per	per	IN	_	1	pcomp
+3	traditional	traditional	JJ	_	5	amod
+4	Indian	indian	JJ	_	5	amod
+5	thinking	thinking	NN	_	2	pobj
+6	,	,	,	_	19	punct
+7	seeing	see	VBG	_	19	csubj
+8	a	a	DT	_	9	det
+9	brood	brood	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	chickens	chicken	NNS	_	10	pobj
+12	along	along	IN	_	7	prep
+13	with	with	IN	_	12	pcomp
+14	a	a	DT	_	15	det
+15	hen	hen	NN	_	13	pobj
+16	is	be	VBZ	_	19	cop
+17	a	a	DT	_	19	det
+18	bad	bad	JJ	_	19	amod
+19	omen	omen	NN	_	0	ROOT
+20	.	.	.	_	19	punct
+

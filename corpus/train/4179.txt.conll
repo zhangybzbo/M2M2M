@@ -1,0 +1,20 @@
+1	Making	make	VBG	_	12	csubj
+2	a	a	DT	_	5	det
+3	slow	slow	JJ	_	5	amod
+4	cook	cook	NN	_	5	nn
+5	turkey	turkey	NN	_	1	dobj
+6	in	in	IN	_	1	prep
+7	the	the	DT	_	9	det
+8	crock	crock	NN	_	9	nn
+9	pot	pot	NN	_	6	pobj
+10	is	be	VBZ	_	12	cop
+11	pretty	pretty	RB	_	12	advmod
+12	similar	similar	JJ	_	0	ROOT
+13	to	to	TO	_	12	prep
+14	making	make	VBG	_	13	pcomp
+15	one	one	CD	_	14	dobj
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	oven	oven	NN	_	16	pobj
+19	.	.	.	_	12	punct
+

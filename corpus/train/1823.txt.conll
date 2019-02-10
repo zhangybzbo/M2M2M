@@ -1,0 +1,24 @@
+1	A	a	DT	_	3	det
+2	Surfside	Surfside	NNP	_	3	nn
+3	man	man	NN	_	16	nsubjpass
+4	running	run	VBG	_	3	vmod
+5	away	away	RB	_	4	advmod
+6	from	from	IN	_	4	prep
+7	a	a	DT	_	8	det
+8	dog	dog	NN	_	6	pobj
+9	that	that	WDT	_	10	nsubj
+10	broke	break	VBD	_	8	rcmod
+11	away	away	RB	_	10	advmod
+12	from	from	IN	_	11	prep
+13	its	its	PRP$	_	14	poss
+14	owner	owner	NN	_	12	pobj
+15	was	be	VBD	_	16	auxpass
+16	struck	strike	VBN	_	0	ROOT
+17	by	by	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	bus	bus	NN	_	17	pobj
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	chase	chase	NN	_	20	pobj
+23	.	.	.	_	16	punct
+

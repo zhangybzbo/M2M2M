@@ -1,0 +1,19 @@
+1	Brent	Brent	NNP	_	7	nsubj
+2	,	,	,	_	1	punct
+3	writing	write	VBG	_	1	vmod
+4	in	in	IN	_	3	prep
+5	1952	1952	CD	_	4	pobj
+6	,	,	,	_	1	punct
+7	accepted	accept	VBN	_	0	ROOT
+8	much	much	RB	_	7	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	classification	classification	NN	_	12	nn
+12	scheme	scheme	NN	_	9	pobj
+13	set	set	VBN	_	12	vmod
+14	out	out	RP	_	13	prt
+15	in	in	IN	_	13	prep
+16	earlier	earlier	JJR	_	17	amod
+17	works	work	NNS	_	15	pobj
+18	.	.	.	_	7	punct
+

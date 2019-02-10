@@ -1,0 +1,21 @@
+1	Some	some	DT	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	just	just	RB	_	4	advmod
+4	strange	strange	JJ	_	0	ROOT
+5	such	such	JJ	_	6	mwe
+6	as	as	IN	_	4	prep
+7	parliament	parliament	NN	_	6	pobj
+8	of	of	IN	_	7	prep
+9	owls	owl	NNS	_	8	pobj
+10	,	,	,	_	4	punct
+11	a	a	DT	_	12	det
+12	knob	knob	NN	_	4	dep
+13	of	of	IN	_	12	prep
+14	pochards	pochard	NNS	_	13	pobj
+15	,	,	,	_	12	punct
+16	a	a	DT	_	17	det
+17	cohort	cohort	NN	_	12	appos
+18	of	of	IN	_	17	prep
+19	zebras	zebra	NNS	_	18	pobj
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,26 @@
+1	A	a	DT	_	3	det
+2	special	special	JJ	_	3	amod
+3	meeting	meeting	NN	_	11	nsubjpass
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	shareholders	shareholder	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	Lydia	Lydia	NNP	_	9	nn
+9	Diamond	Diamond	NNP	_	7	pobj
+10	was	be	VBD	_	11	auxpass
+11	held	hold	VBN	_	0	ROOT
+12	on	on	IN	_	11	prep
+13	December	December	NNP	_	12	pobj
+14	23rd	23rd	JJ	_	13	amod
+15	,	,	,	_	13	punct
+16	2009	2009	CD	_	13	num
+17	and	and	CC	_	11	cc
+18	the	the	DT	_	19	det
+19	Sale	Sale	NNP	_	21	nsubjpass
+20	was	be	VBD	_	21	auxpass
+21	approved	approve	VBN	_	11	conj
+22	by	by	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	shareholders	shareholder	NNS	_	22	pobj
+25	.	.	.	_	11	punct
+

@@ -1,0 +1,3 @@
+T1	Term 14 21	insulin
+T2	Term 45 55	pancreases
+R1	Entity-Origin Arg1:T1 Arg2:T2

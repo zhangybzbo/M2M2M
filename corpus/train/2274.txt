@@ -1,0 +1,1 @@
+Authors use a RadioButtonGroup control for this purpose .

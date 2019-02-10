@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	programmer	programmer	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	high	high	JJ	_	7	amod
+6	level	level	NN	_	7	nn
+7	language	language	NN	_	3	dobj
+8	to	to	TO	_	9	aux
+9	implement	implement	VB	_	3	vmod
+10	its	its	PRP$	_	11	poss
+11	algorithms	algorithm	NNS	_	9	dobj
+12	.	.	.	_	3	punct
+

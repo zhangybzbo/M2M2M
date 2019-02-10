@@ -1,0 +1,10 @@
+1	Elecom	Elecom	NNP	_	5	poss
+2	's	's	POS	_	1	possessive
+3	gear	gear	NN	_	5	nn
+4	drive	drive	NN	_	5	nn
+5	keyboard	keyboard	NN	_	6	nsubj
+6	prevents	prevent	VBZ	_	0	ROOT
+7	typing	typing	NN	_	8	nn
+8	errors	error	NNS	_	6	dobj
+9	.	.	.	_	6	punct
+

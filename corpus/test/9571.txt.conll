@@ -1,0 +1,19 @@
+1	Paint	paint	VB	_	12	nsubjpass
+2	dust	dust	NN	_	1	dobj
+3	collected	collect	VBN	_	2	vmod
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	grit-blasting	grit-blasting	JJ	_	7	amod
+7	operation	operation	NN	_	4	pobj
+8	inside	inside	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	caisson	caisson	NN	_	8	pobj
+11	was	be	VBD	_	12	auxpass
+12	stirred	stir	VBN	_	0	ROOT
+13	up	up	RP	_	12	prt
+14	using	use	VBG	_	12	xcomp
+15	a	a	DT	_	17	det
+16	leave	leave	NN	_	17	nn
+17	blower	blower	NN	_	14	dobj
+18	.	.	.	_	12	punct
+

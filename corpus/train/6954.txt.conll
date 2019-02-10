@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	overseas	overseas	JJ	_	3	amod
+3	department	department	NN	_	4	nsubj
+4	collaborates	collaborate	VBZ	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	law	law	NN	_	8	nn
+8	department	department	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	company	company	NN	_	9	pobj
+12	to	to	TO	_	13	aux
+13	resolve	resolve	VB	_	4	xcomp
+14	any	any	DT	_	16	det
+15	legal	legal	JJ	_	16	amod
+16	matters	matter	NNS	_	13	dobj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	field	field	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	international	international	JJ	_	22	amod
+22	trade	trade	NN	_	20	pobj
+23	.	.	.	_	4	punct
+

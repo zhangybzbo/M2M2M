@@ -1,0 +1,13 @@
+0	77	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="optimize" pos="VBG" ROOT="ROOT"
+11	12	tok id="t1" base="a" pos="DT" det="t2"
+13	24	tok id="t2" base="transformer" pos="NN" dobj="t0"
+25	31	tok id="t3" base="drive" pos="VBN" amod="t6"
+32	38	tok id="t4" base="active" pos="JJ" amod="t6"
+39	47	tok id="t5" base="magnetic" pos="JJ" amod="t6"
+48	54	tok id="t6" base="shield" pos="NN" dep="t2"
+55	57	tok id="t7" base="in" pos="IN" prep="t6"
+58	67	tok id="t8" base="induction" pos="NN" nn="t9"
+68	75	tok id="t9" base="heating" pos="NN" pobj="t7"
+76	77	tok id="t10" base="-PERIOD-" pos="." punct="t0"
+

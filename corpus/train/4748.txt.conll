@@ -1,0 +1,25 @@
+1	Much	much	JJ	_	3	amod
+2	Indian	indian	JJ	_	3	amod
+3	whisky	whisky	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	distilled	distil	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	fermented	fermented	JJ	_	8	amod
+8	molasses	molasses	NNS	_	6	pobj
+9	,	,	,	_	5	punct
+10	and	and	CC	_	5	cc
+11	as	as	IN	_	15	prep
+12	such	such	JJ	_	11	pobj
+13	would	would	MD	_	15	aux
+14	be	be	VB	_	15	auxpass
+15	considered	consider	VBN	_	5	conj
+16	a	a	DT	_	17	det
+17	sort	sort	NN	_	15	xcomp
+18	of	of	IN	_	17	prep
+19	rum	rum	NN	_	18	pobj
+20	outside	outside	IN	_	17	prep
+21	of	of	IN	_	20	pcomp
+22	the	the	DT	_	24	det
+23	Indian	indian	JJ	_	24	amod
+24	subcontinent	subcontinent	NN	_	21	pobj
+

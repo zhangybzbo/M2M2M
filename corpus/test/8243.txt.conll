@@ -1,0 +1,13 @@
+1	In	in	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	stem	stem	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	that	that	DT	_	6	det
+6	tree	tree	NN	_	4	pobj
+7	is	be	VBZ	_	11	cop
+8	a	a	DT	_	11	det
+9	cute	cute	JJ	_	11	amod
+10	little	little	JJ	_	11	amod
+11	house	house	NN	_	0	ROOT
+12	.	.	.	_	11	punct
+

@@ -1,0 +1,23 @@
+1	``	``	``	_	7	punct
+2	Any	any	DT	_	3	det
+3	time	time	NN	_	7	tmod
+4	,	,	,	_	7	punct
+5	''	''	''	_	7	punct
+6	he	he	PRP	_	7	nsubj
+7	told	tell	VBD	_	0	ROOT
+8	her	she	PRP	_	7	dobj
+9	before	before	IN	_	7	prep
+10	turning	turn	VBG	_	9	pcomp
+11	to	to	TO	_	10	prep
+12	the	the	DT	_	13	det
+13	boy	boy	NN	_	11	pobj
+14	who	who	WP	_	15	nsubj
+15	was	be	VBD	_	10	ccomp
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	desk	desk	NN	_	16	pobj
+19	next	next	JJ	_	15	advmod
+20	to	to	TO	_	19	prep
+21	him	he	PRP	_	20	pobj
+22	.	.	.	_	7	punct
+

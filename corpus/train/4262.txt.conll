@@ -1,0 +1,22 @@
+1	There	there	EX	_	4	expl
+2	has	have	VBZ	_	4	aux
+3	been	be	VBN	_	4	cop
+4	abuzz	abuzz	JJ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	recent	recent	JJ	_	7	amod
+7	weeks	week	NNS	_	5	pobj
+8	about	about	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	arrival	arrival	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	15	det
+13	diminutive	diminutive	JJ	_	15	amod
+14	new	new	JJ	_	15	amod
+15	laptop	laptop	NN	_	11	pobj
+16	from	from	IN	_	10	prep
+17	a	a	DT	_	20	det
+18	little-known	little-known	JJ	_	20	amod
+19	hardware	hardware	NN	_	20	nn
+20	manufacturer	manufacturer	NN	_	16	pobj
+21	.	.	.	_	4	punct
+

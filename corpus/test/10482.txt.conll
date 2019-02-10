@@ -1,0 +1,14 @@
+1	Policemen	Policemen	NNPS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	seen	see	VBN	_	0	ROOT
+4	breaking	break	VBG	_	3	xcomp
+5	up	up	RP	_	4	prt
+6	a	a	DT	_	8	det
+7	road	road	NN	_	8	nn
+8	block	block	NN	_	9	nsubj
+9	put	put	VBD	_	4	ccomp
+10	up	up	RP	_	9	prt
+11	by	by	IN	_	9	prep
+12	fishermen	fisherman	NNS	_	11	pobj
+13	.	.	.	_	3	punct
+

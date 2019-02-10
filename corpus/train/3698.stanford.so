@@ -1,0 +1,13 @@
+0	68	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="these" pos="DT" det="t1"
+6	15	tok id="t1" base="musician" pos="NNS" nsubj="t3"
+16	20	tok id="t2" base="have" pos="VBP" aux="t3"
+21	32	tok id="t3" base="transport" pos="VBN" ROOT="ROOT"
+33	36	tok id="t4" base="the" pos="DT" det="t5"
+37	41	tok id="t5" base="vibe" pos="NN" dobj="t3"
+42	46	tok id="t6" base="into" pos="IN" prep="t3"
+47	50	tok id="t7" base="the" pos="DT" det="t9"
+51	58	tok id="t8" base="current" pos="JJ" amod="t9"
+59	66	tok id="t9" base="century" pos="NN" pobj="t6"
+67	68	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

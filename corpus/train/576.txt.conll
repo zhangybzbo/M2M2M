@@ -1,0 +1,18 @@
+1	Sip	sip	VB	_	0	ROOT
+2	the	the	DT	_	3	det
+3	tea	tea	NN	_	1	dobj
+4	slowly	slowly	RB	_	1	advmod
+5	to	to	TO	_	6	aux
+6	reduce	reduce	VB	_	1	vmod
+7	stomach	stomach	NN	_	8	nn
+8	pain	pain	NN	_	6	dobj
+9	from	from	IN	_	6	prep
+10	indigestion	indigestion	NN	_	9	pobj
+11	,	,	,	_	1	punct
+12	bloating	bloat	VBG	_	1	dep
+13	and	and	CC	_	12	cc
+14	feeling	feeling	NN	_	12	conj
+15	of	of	IN	_	14	prep
+16	fullness	fullness	NN	_	15	pobj
+17	.	.	.	_	1	punct
+

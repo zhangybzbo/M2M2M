@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	suitcase	suitcase	NN	_	10	nsubjpass
+3	with	with	IN	_	2	prep
+4	some	some	DT	_	5	det
+5	clothing	clothing	NN	_	3	pobj
+6	in	in	IN	_	2	prep
+7	it	it	PRP	_	6	pobj
+8	had	have	VBD	_	10	aux
+9	been	be	VBN	_	10	auxpass
+10	left	leave	VBN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	my	my	PRP$	_	13	poss
+13	bed	bed	NN	_	11	pobj
+14	earlier	earlier	RBR	_	10	advmod
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	week	week	NN	_	15	pobj
+18	.	.	.	_	10	punct
+

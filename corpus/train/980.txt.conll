@@ -1,0 +1,27 @@
+1	Recovery	recovery	NN	_	15	nsubjpass
+2	from	from	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	global	global	JJ	_	6	amod
+5	economic	economic	JJ	_	6	amod
+6	crisis	crisis	NN	_	2	pobj
+7	triggered	trigger	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	collapse	collapse	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	Lehman	Lehman	NNP	_	13	nn
+13	Brothers	Brothers	NNPS	_	11	pobj
+14	was	be	VBD	_	15	auxpass
+15	achieved	achieve	VBN	_	0	ROOT
+16	with	with	IN	_	15	prep
+17	cooperation	cooperation	NN	_	16	pobj
+18	from	from	IN	_	17	prep
+19	Brazil	Brazil	NNP	_	18	pobj
+20	,	,	,	_	19	punct
+21	Russia	Russia	NNP	_	19	conj
+22	,	,	,	_	19	punct
+23	India	India	NNP	_	19	conj
+24	and	and	CC	_	19	cc
+25	China	China	NNP	_	19	conj
+26	.	.	.	_	15	punct
+

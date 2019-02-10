@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	neighbor	neighbor	NN	_	10	nsubj
+3	,	,	,	_	2	punct
+4	who	who	WP	_	5	nsubj
+5	owns	own	VBZ	_	2	rcmod
+6	a	a	DT	_	8	det
+7	raisin	raisin	NN	_	8	nn
+8	factory	factory	NN	_	5	dobj
+9	,	,	,	_	2	punct
+10	wanted	want	VBD	_	0	ROOT
+11	the	the	DT	_	12	det
+12	property	property	NN	_	10	dobj
+13	to	to	TO	_	14	aux
+14	expand	expand	VB	_	10	xcomp
+15	his	he	PRP$	_	16	poss
+16	business	business	NN	_	14	dobj
+17	.	.	.	_	10	punct
+

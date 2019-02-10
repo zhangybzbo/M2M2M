@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	festival	festival	NN	_	3	nsubj
+3	involved	involve	VBN	_	0	ROOT
+4	two	two	CD	_	6	num
+5	practical	practical	JJ	_	6	amod
+6	competitions	competition	NNS	_	3	dobj
+7	and	and	CC	_	6	cc
+8	a	a	DT	_	9	det
+9	lecture	lecture	NN	_	6	conj
+10	.	.	.	_	3	punct
+

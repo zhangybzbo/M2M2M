@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	battle	battle	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	panic	panic	NN	_	3	dobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	frontier	frontier	NN	_	6	pobj
+9	,	,	,	_	3	punct
+10	and	and	CC	_	3	cc
+11	settlers	settler	NNS	_	16	nsubj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	surrounding	surround	VBG	_	15	amod
+15	counties	county	NNS	_	12	pobj
+16	fled	flee	VBD	_	3	conj
+17	.	.	.	_	3	punct
+

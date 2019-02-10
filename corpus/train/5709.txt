@@ -1,0 +1,1 @@
+We sent a query to two servers at a time .

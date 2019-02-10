@@ -1,0 +1,1 @@
+Whilst audio sampled at 8kHz is sufficient for communication , such narrow-band speech does not sound natural , leading to user frustration after prolonged exposure , and making language learning difficult .

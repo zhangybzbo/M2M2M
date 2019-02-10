@@ -1,0 +1,20 @@
+1	Abu	Abu	NNP	_	8	nn
+2	`	`	``	_	8	punct
+3	l-Qasim	l-Qasim	NNP	_	5	poss
+4	's	's	POS	_	3	possessive
+5	Treastie	Treastie	NNP	_	8	nsubj
+6	is	be	VBZ	_	8	cop
+7	a	a	DT	_	8	det
+8	text	text	NN	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	1301	1301	CD	_	9	pobj
+11	by	by	IN	_	8	prep
+12	an	a	DT	_	14	det
+13	Iranian	iranian	JJ	_	14	amod
+14	potter	potter	NN	_	11	pobj
+15	who	who	WP	_	16	nsubj
+16	describes	describe	VBZ	_	14	rcmod
+17	numerous	numerous	JJ	_	18	amod
+18	recepies	recepy	NNS	_	16	dobj
+19	.	.	.	_	8	punct
+

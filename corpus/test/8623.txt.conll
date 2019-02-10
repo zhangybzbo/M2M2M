@@ -1,0 +1,20 @@
+1	Inhalation	inhalation	NN	_	12	nsubj
+2	of	of	IN	_	1	prep
+3	excessive	excessive	JJ	_	4	amod
+4	concentrations	concentration	NNS	_	2	pobj
+5	of	of	IN	_	4	prep
+6	vapor	vapor	NN	_	5	pobj
+7	,	,	,	_	1	punct
+8	fumes	fume	VBZ	_	1	conj
+9	,	,	,	_	1	punct
+10	and/or	and/or	CC	_	1	cc
+11	dust	dust	NN	_	1	conj
+12	produces	produce	VBZ	_	0	ROOT
+13	irritation	irritation	NN	_	12	dobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	18	det
+16	upper	upper	JJ	_	18	amod
+17	respiratory	respiratory	JJ	_	18	amod
+18	trad	trad	NN	_	14	pobj
+19	.	.	.	_	12	punct
+

@@ -1,0 +1,9 @@
+1	Wintry	wintry	JJ	_	2	amod
+2	conditions	condition	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	spreading	spread	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	adjacent	adjacent	JJ	_	7	amod
+7	areas	area	NNS	_	5	pobj
+8	.	.	.	_	4	punct
+

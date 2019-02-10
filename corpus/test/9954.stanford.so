@@ -1,0 +1,11 @@
+0	51	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="lactic" pos="JJ" amod="t1"
+7	11	tok id="t1" base="acid" pos="NN" nsubjpass="t3"
+12	14	tok id="t2" base="be" pos="VBZ" auxpass="t3"
+15	19	tok id="t3" base="make" pos="VBN" ROOT="ROOT"
+20	24	tok id="t4" base="from" pos="IN" prep="t3"
+25	33	tok id="t5" base="dextrose" pos="NN" pobj="t4"
+34	36	tok id="t6" base="by" pos="IN" prep="t3"
+37	49	tok id="t7" base="fermentation" pos="NN" pobj="t6"
+50	51	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

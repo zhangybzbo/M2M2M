@@ -1,0 +1,16 @@
+1	Hepatitis	Hepatitis	NNP	_	2	nn
+2	B	B	NNP	_	8	nsubj
+3	is	be	VBZ	_	8	cop
+4	a	a	DT	_	8	det
+5	potentially	potentially	RB	_	6	advmod
+6	life-threatening	life-threatening	JJ	_	8	amod
+7	liver	liver	NN	_	8	nn
+8	infection	infection	NN	_	0	ROOT
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	hepatitis	hepatitis	NN	_	14	nn
+13	B	b	NN	_	14	nn
+14	virus	virus	NN	_	10	pobj
+15	.	.	.	_	8	punct
+

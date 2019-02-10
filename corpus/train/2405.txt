@@ -1,0 +1,1 @@
+The method examines the hypothesis stack of the decoder during recognition and picks the most likely terms before they are pruned .

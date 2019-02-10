@@ -1,0 +1,24 @@
+1	The	the	DT	_	5	det
+2	health	health	NN	_	5	nn
+3	medical	medical	JJ	_	5	amod
+4	insurance	insurance	NN	_	5	nn
+5	coverage	coverage	NN	_	22	nsubjpass
+6	for	for	IN	_	5	prep
+7	allergy	allergy	NN	_	8	nn
+8	kits	kit	NNS	_	6	pobj
+9	,	,	,	_	8	punct
+10	abortificants	abortificant	NNS	_	8	conj
+11	,	,	,	_	8	punct
+12	and	and	CC	_	8	cc
+13	prescription	prescription	NN	_	14	nn
+14	drugs	drug	NNS	_	8	conj
+15	produced	produce	VBN	_	14	vmod
+16	from	from	IN	_	15	prep
+17	blood	blood	NN	_	20	nn
+18	or	or	CC	_	17	cc
+19	blood	blood	NN	_	17	conj
+20	products	product	NNS	_	16	pobj
+21	is	be	VBZ	_	22	auxpass
+22	discussed	discuss	VBN	_	0	ROOT
+23	.	.	.	_	22	punct
+

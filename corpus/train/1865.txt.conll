@@ -1,0 +1,17 @@
+1	Ruling	ruling	NN	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	ink	ink	NN	_	3	pobj
+5	and	and	CC	_	2	cc
+6	was	be	VBD	_	8	auxpass
+7	generally	generally	RB	_	8	advmod
+8	done	do	VBN	_	2	conj
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	scribe	scribe	NN	_	9	pobj
+12	who	who	WP	_	13	nsubj
+13	wrote	write	VBD	_	11	rcmod
+14	the	the	DT	_	15	det
+15	quire	quire	NN	_	13	dobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,18 @@
+1	Each	each	DT	_	2	det
+2	day	day	NN	_	5	tmod
+3	the	the	DT	_	4	det
+4	workshop	workshop	NN	_	5	nsubj
+5	accommodated	accommodate	VBD	_	0	ROOT
+6	a	a	DT	_	9	det
+7	few	few	JJ	_	9	amod
+8	invited	invite	VBN	_	9	amod
+9	talks	talk	NNS	_	5	dobj
+10	targeted	target	VBN	_	9	vmod
+11	towards	towards	IN	_	10	prep
+12	generating	generate	VBG	_	11	pcomp
+13	discussions	discussion	NNS	_	12	dobj
+14	on	on	IN	_	13	prep
+15	open	open	JJ	_	16	amod
+16	problems	problem	NNS	_	14	pobj
+17	.	.	.	_	5	punct
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	crowd	crowd	NN	_	3	nsubj
+3	departs	depart	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	capital	capital	NN	_	4	pobj
+7	after	after	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	swearining	swearining	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	President	President	NNP	_	13	nn
+12	Barack	Barack	NNP	_	13	nn
+13	Obama	Obama	NNP	_	10	pobj
+14	.	.	.	_	3	punct
+

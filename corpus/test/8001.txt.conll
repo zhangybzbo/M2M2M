@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	det
+2	most	most	RBS	_	3	advmod
+3	common	common	JJ	_	4	amod
+4	audits	audit	NN	_	0	ROOT
+5	were	be	VBD	_	4	vmod
+6	about	about	IN	_	5	prep
+7	waste	waste	NN	_	6	pobj
+8	and	and	CC	_	7	cc
+9	recycling	recycling	NN	_	7	conj
+10	.	.	.	_	4	punct
+

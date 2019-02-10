@@ -1,0 +1,17 @@
+1	My	my	PRP$	_	2	poss
+2	cousin	cousin	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	arriving	arrive	VBG	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	train	train	NN	_	8	nn
+8	station	station	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	Boston	Boston	NNP	_	9	pobj
+11	and	and	CC	_	4	cc
+12	I	I	PRP	_	13	nsubj
+13	went	go	VBD	_	4	conj
+14	for	for	IN	_	13	prep
+15	pickup	pickup	NN	_	14	pobj
+16	.	.	.	_	4	punct
+

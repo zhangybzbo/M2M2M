@@ -1,0 +1,18 @@
+1	We	we	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	trampoline	trampoline	NN	_	5	nn
+5	data	datum	NNS	_	2	dobj
+6	into	into	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	read-only	read-only	JJ	_	9	amod
+9	section	section	NN	_	6	pobj
+10	since	since	IN	_	16	mark
+11	a	a	DT	_	14	det
+12	CPU	CPU	NNP	_	14	nn
+13	hot	hot	JJ	_	14	amod
+14	plug	plug	NN	_	16	nsubjpass
+15	was	be	VBD	_	16	auxpass
+16	supported	support	VBN	_	2	advcl
+17	.	.	.	_	2	punct
+

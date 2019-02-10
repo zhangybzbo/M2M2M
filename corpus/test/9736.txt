@@ -1,0 +1,1 @@
+The laptop includes a 1.6 GHz Intel processor , presumably with the usual 945GSE northbridge and ICH7M southbridge , 1GB of RAM , and a 2.5-inch , 160GB hard disk drive .

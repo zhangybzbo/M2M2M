@@ -1,0 +1,14 @@
+1	Natron	Natron	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	an	a	DT	_	4	det
+4	ingredient	ingredient	NN	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	making	make	VBG	_	5	pcomp
+7	a	a	DT	_	9	det
+8	distinct	distinct	JJ	_	9	amod
+9	color	color	NN	_	6	dobj
+10	called	call	VBN	_	9	vmod
+11	Egyptian	egyptian	JJ	_	12	amod
+12	blue	blue	NN	_	10	dep
+13	.	.	.	_	4	punct
+

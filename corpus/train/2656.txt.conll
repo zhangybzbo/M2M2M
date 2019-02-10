@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	fairy	fairy	NN	_	3	nn
+3	godmother	godmother	NN	_	4	nsubj
+4	turned	turn	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	pumpkin	pumpkin	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	a	a	DT	_	9	det
+9	coach	coach	NN	_	7	pobj
+10	,	,	,	_	9	punct
+11	mice	mouse	NNS	_	9	appos
+12	into	into	IN	_	11	prep
+13	horses	horse	NNS	_	12	pobj
+14	,	,	,	_	13	punct
+15	a	a	DT	_	16	det
+16	rat	rat	NN	_	13	appos
+17	into	into	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	coachman	coachman	NN	_	17	pobj
+20	,	,	,	_	9	punct
+21	and	and	CC	_	9	cc
+22	lizards	lizard	NNS	_	9	conj
+23	into	into	IN	_	22	prep
+24	footmen	footman	NNS	_	23	pobj
+25	.	.	.	_	4	punct
+

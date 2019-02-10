@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	cultivation	cultivation	NN	_	3	nsubj
+3	consisted	consist	VBD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	plowing	plow	VBG	_	4	pcomp
+6	the	the	DT	_	7	det
+7	crop	crop	NN	_	5	dobj
+8	with	with	IN	_	5	prep
+9	a	a	DT	_	11	det
+10	double-shovel	double-shovel	JJ	_	11	amod
+11	plow	plow	VB	_	8	pobj
+12	.	.	.	_	3	punct
+

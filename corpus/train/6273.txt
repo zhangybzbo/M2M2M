@@ -1,0 +1,1 @@
+I recently decided to work a bit outside of Visual Studio and configure a plain text editor to work with the C# compiler .

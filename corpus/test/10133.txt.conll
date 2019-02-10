@@ -1,0 +1,11 @@
+1	But	but	CC	_	4	cc
+2	scientists	scientist	NNS	_	4	nsubj
+3	successfully	successfully	RB	_	4	advmod
+4	treated	treat	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	mice	mouse	NNS	_	4	dobj
+7	with	with	IN	_	4	prep
+8	broad-spectrum	broad-spectrum	JJ	_	9	amod
+9	antiboitics	antiboitic	NNS	_	7	pobj
+10	.	.	.	_	4	punct
+

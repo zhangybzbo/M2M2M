@@ -1,0 +1,14 @@
+1	Once	once	RB	_	2	advmod
+2	again	again	RB	_	8	advmod
+3	,	,	,	_	8	punct
+4	the	the	DT	_	6	det
+5	infamous	infamous	JJ	_	6	amod
+6	politician	politician	NN	_	8	nsubj
+7	has	have	VBZ	_	8	aux
+8	landed	land	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	nepotism	nepotism	NN	_	12	nn
+12	controversy	controversy	NN	_	9	pobj
+13	.	.	.	_	8	punct
+

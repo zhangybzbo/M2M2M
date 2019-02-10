@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	exhibition	exhibition	NN	_	4	nsubj
+4	featured	feature	VBD	_	0	ROOT
+5	seven	seven	CD	_	6	num
+6	quilts	quilt	NNS	_	4	dobj
+7	by	by	IN	_	4	prep
+8	Loretta	Loretta	NNP	_	9	nn
+9	Pettway	Pettway	NNP	_	7	pobj
+10	,	,	,	_	9	punct
+11	Arlonzia	Arlonzia	NNP	_	12	nn
+12	Pettway	Pettway	NNP	_	15	poss
+13	's	's	POS	_	12	possessive
+14	first	first	JJ	_	15	amod
+15	cousin	cousin	NN	_	9	appos
+16	.	.	.	_	4	punct
+

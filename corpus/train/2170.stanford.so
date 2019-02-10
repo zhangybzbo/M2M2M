@@ -1,0 +1,9 @@
+0	42	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	7	tok id="t1" base="fat" pos="JJ" nsubj="t2"
+8	16	tok id="t2" base="migrate" pos="VBD" ROOT="ROOT"
+17	21	tok id="t3" base="into" pos="IN" prep="t2"
+22	30	tok id="t4" base="enrobe" pos="VBG" amod="t5"
+31	40	tok id="t5" base="chocolate" pos="NN" pobj="t3"
+41	42	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

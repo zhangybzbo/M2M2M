@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	Minnesota	Minnesota	NNP	_	3	nn
+3	Zoo	zoo	NN	_	6	poss
+4	's	's	POS	_	3	possessive
+5	Northern	northern	NN	_	6	nn
+6	Trail	trail	NN	_	8	nsubj
+7	is	be	VBZ	_	8	cop
+8	home	home	NN	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	a	a	DT	_	11	det
+11	coterie	coterie	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	black-tailed	black-tailed	JJ	_	15	amod
+14	prairie	prairie	NN	_	15	nn
+15	dogs	dog	NNS	_	12	pobj
+16	.	.	.	_	8	punct
+

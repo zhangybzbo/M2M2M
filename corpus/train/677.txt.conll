@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	call	call	NN	_	3	nsubj
+3	came	come	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	Minnesota	Minnesota	NNP	_	7	nn
+7	father	father	NN	_	4	pobj
+8	who	who	WP	_	9	nsubj
+9	said	say	VBD	_	7	rcmod
+10	his	he	PRP$	_	11	poss
+11	daughter	daughter	NN	_	12	nsubj
+12	was	be	VBD	_	9	ccomp
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	chapel	chapel	NN	_	13	pobj
+16	that	that	WDT	_	17	det
+17	day	day	NN	_	15	dep
+18	.	.	.	_	3	punct
+

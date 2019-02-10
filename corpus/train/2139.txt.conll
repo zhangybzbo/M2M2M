@@ -1,0 +1,25 @@
+1	Cali	calus	NNS	_	0	ROOT
+2	,	,	,	_	1	punct
+3	Colombia	Colombia	NNP	_	1	appos
+4	,	,	,	_	1	punct
+5	for	for	IN	_	1	prep
+6	their	they	PRP$	_	7	poss
+7	series	series	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	articles	article	NNS	_	8	pobj
+10	on	on	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	emergency	emergency	NN	_	10	pobj
+13	caused	cause	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	a	a	DT	_	16	det
+16	landslide	landslide	NN	_	14	pobj
+17	on	on	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	highway	highway	NN	_	17	pobj
+20	leading	lead	VBG	_	19	vmod
+21	to	to	TO	_	20	prep
+22	the	the	DT	_	23	det
+23	coast	coast	NN	_	21	pobj
+24	.	.	.	_	1	punct
+

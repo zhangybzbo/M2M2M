@@ -1,0 +1,14 @@
+1	Whatever	whatever	WDT	_	3	dep
+2	the	the	DT	_	3	det
+3	case	case	NN	_	7	advcl
+4	,	,	,	_	7	punct
+5	we	we	PRP	_	7	nsubj
+6	have	have	VBP	_	7	aux
+7	added	add	VBN	_	0	ROOT
+8	tessellate	tessellate	RB	_	7	advmod
+9	into	into	IN	_	7	prep
+10	our	we	PRP$	_	12	poss
+11	favorite	favorite	JJ	_	12	amod
+12	songs	song	NNS	_	9	pobj
+13	.	.	.	_	7	punct
+

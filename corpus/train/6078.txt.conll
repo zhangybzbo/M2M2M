@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	flu	flu	NN	_	3	nn
+3	shot	shot	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	given	give	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	young	young	JJ	_	8	amod
+8	children	child	NNS	_	6	pobj
+9	,	,	,	_	8	punct
+10	pregnant	pregnant	JJ	_	11	amod
+11	women	woman	NNS	_	8	conj
+12	,	,	,	_	8	punct
+13	and	and	CC	_	8	cc
+14	elders	elder	NNS	_	8	conj
+15	first	first	RB	_	14	advmod
+16	.	.	.	_	5	punct
+

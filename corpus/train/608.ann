@@ -1,0 +1,3 @@
+T1	Term 25 31	artist
+T2	Term 41 51	photograph
+R1	Product-Producer Arg1:T2 Arg2:T1

@@ -1,0 +1,26 @@
+1	Preferably	preferably	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	the	the	DT	_	4	det
+4	fuse	fuse	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	foreseen	foresee	VBN	_	0	ROOT
+7	between	between	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	pin	pin	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	plug	plug	NN	_	10	pobj
+13	which	which	WDT	_	14	nsubj
+14	projects	project	VBZ	_	12	rcmod
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	17	det
+17	outside	outside	JJ	_	15	pobj
+18	and	and	CC	_	17	cc
+19	the	the	DT	_	21	det
+20	inner	inner	JJ	_	21	amod
+21	connector	connector	NN	_	17	conj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	plug	plug	NN	_	22	pobj
+25	.	.	.	_	6	punct
+

@@ -1,0 +1,13 @@
+1	All	all	PDT	_	3	predet
+2	the	the	DT	_	3	det
+3	birds	bird	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	flown	fly	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	subway	subway	NN	_	6	pobj
+9	for	for	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	snowstorm	snowstorm	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

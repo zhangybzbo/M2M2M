@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	file	file	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	desk	desk	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	researcher	researcher	NN	_	7	pobj
+10	employed	employ	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	Kenny	Kenny	NNP	_	13	nn
+13	MacAskill	MacAskill	NNP	_	11	pobj
+14	and	and	CC	_	13	cc
+15	Tricia	Tricia	NNP	_	16	nn
+16	Marwick	Marwick	NNP	_	13	conj
+17	who	who	WP	_	20	nsubjpass
+18	had	have	VBD	_	20	aux
+19	been	be	VBN	_	20	auxpass
+20	dismissed	dismiss	VBN	_	13	rcmod
+21	earlier	earlier	RBR	_	20	advmod
+22	in	in	IN	_	20	prep
+23	the	the	DT	_	24	det
+24	month	month	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

@@ -1,0 +1,24 @@
+1	On	on	IN	_	9	prep
+2	this	this	DT	_	4	det
+3	oval	oval	JJ	_	4	amod
+4	porthole	porthole	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	a	a	DT	_	8	det
+7	lace	lace	NN	_	8	nn
+8	drape	drape	NN	_	9	nsubj
+9	keeps	keep	VBZ	_	0	ROOT
+10	the	the	DT	_	11	det
+11	bathroom	bathroom	NN	_	9	dobj
+12	private	private	JJ	_	11	advmod
+13	while	while	IN	_	14	mark
+14	showing	show	VBG	_	9	advcl
+15	off	off	RP	_	14	prt
+16	the	the	DT	_	18	det
+17	shapely	shapely	RB	_	18	advmod
+18	window	window	NN	_	14	dobj
+19	and	and	CC	_	14	cc
+20	letting	let	VBG	_	14	conj
+21	in	in	IN	_	20	prep
+22	light	light	NN	_	21	pobj
+23	.	.	.	_	9	punct
+

@@ -1,0 +1,10 @@
+1	Every	every	DT	_	2	det
+2	engine	engine	NN	_	8	nsubj
+3	that	that	IN	_	6	dobj
+4	the	the	DT	_	5	det
+5	plant	plant	NN	_	6	nsubj
+6	builds	build	VBZ	_	2	rcmod
+7	is	be	VBZ	_	8	cop
+8	hot-tested	hot-tested	JJ	_	0	ROOT
+9	.	.	.	_	8	punct
+

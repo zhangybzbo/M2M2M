@@ -1,0 +1,27 @@
+1	``	``	``	_	7	punct
+2	Morning	morning	NN	_	3	nn
+3	Sickness	sickness	NN	_	7	nsubj
+4	''	''	''	_	7	punct
+5	is	be	VBZ	_	7	cop
+6	a	a	DT	_	7	det
+7	bit	bit	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	misnomer	misnomer	NN	_	8	pobj
+11	,	,	,	_	7	punct
+12	as	as	IN	_	7	prep
+13	nausea	nausea	NN	_	12	pobj
+14	from	from	IN	_	13	prep
+15	pregnancy	pregnancy	NN	_	14	pobj
+16	;	;	:	_	7	punct
+17	it	it	PRP	_	19	nsubj
+18	can	can	MD	_	19	aux
+19	happen	happen	VB	_	7	parataxis
+20	at	at	IN	_	19	prep
+21	any	any	DT	_	22	det
+22	time	time	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	day	day	NN	_	23	pobj
+26	.	.	.	_	7	punct
+

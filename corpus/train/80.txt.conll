@@ -1,0 +1,21 @@
+1	Leakage	leakage	NN	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	fire	fire	NN	_	1	conj
+4	caused	cause	VBD	_	0	ROOT
+5	due	due	JJ	_	4	dobj
+6	to	to	TO	_	5	prep
+7	corrosion	corrosion	NN	_	6	pobj
+8	of	of	IN	_	7	prep
+9	bypass	bypass	NN	_	10	nn
+10	piping	piping	NN	_	8	pobj
+11	for	for	IN	_	7	prep
+12	recirculation	recirculation	NN	_	13	nn
+13	gas	gas	NN	_	11	pobj
+14	at	at	IN	_	5	prep
+15	a	a	DT	_	19	det
+16	fuel	fuel	NN	_	19	nn
+17	oil	oil	NN	_	19	nn
+18	desulphurization	desulphurization	NN	_	19	nn
+19	unit	unit	NN	_	14	pobj
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+0	74	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="utilize" pos="VBG" ROOT="ROOT"
+10	18	tok id="t1" base="concrete" pos="JJ" amod="t2"
+19	24	tok id="t2" base="plank" pos="NN" nn="t5"
+25	38	tok id="t3" base="floor/ceiling" pos="VBG" amod="t5"
+39	51	tok id="t4" base="construction" pos="NN" nn="t5"
+52	60	tok id="t5" base="benefit" pos="NNS" dobj="t0"
+61	64	tok id="t6" base="the" pos="DT" det="t7"
+65	72	tok id="t7" base="builder" pos="NN" dep="t5"
+73	74	tok id="t8" base="-PERIOD-" pos="." punct="t0"
+

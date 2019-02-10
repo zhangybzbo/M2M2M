@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	documents	document	NNS	_	3	nsubj
+3	define	define	VBP	_	0	ROOT
+4	policies	policy	NNS	_	3	dobj
+5	,	,	,	_	4	punct
+6	procedures	procedure	NNS	_	4	conj
+7	,	,	,	_	4	punct
+8	training	training	NN	_	4	conj
+9	,	,	,	_	4	punct
+10	and	and	CC	_	4	cc
+11	auditing	auditing	NN	_	4	conj
+12	.	.	.	_	3	punct
+

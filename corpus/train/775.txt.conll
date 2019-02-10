@@ -1,0 +1,7 @@
+1	He	he	PRP	_	2	nsubj
+2	puts	put	VBZ	_	0	ROOT
+3	creativity	creativity	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	use	use	NN	_	4	pobj
+6	.	.	.	_	2	punct
+

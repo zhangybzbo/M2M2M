@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	precipitate	precipitate	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	DPA	dpa	NN	_	5	nn
+5	Na	na	NN	_	3	pobj
+6	together	together	RB	_	2	advmod
+7	with	with	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	filter	filter	NN	_	7	pobj
+10	is	be	VBZ	_	11	auxpass
+11	transferred	transfer	VBN	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	a	a	DT	_	14	det
+14	bottle	bottle	NN	_	12	pobj
+15	with	with	IN	_	14	prep
+16	cold	cold	JJ	_	17	amod
+17	water	water	NN	_	15	pobj
+18	in	in	IN	_	11	prep
+19	it	it	PRP	_	18	pobj
+20	where	where	WRB	_	23	advmod
+21	it	it	PRP	_	23	nsubjpass
+22	is	be	VBZ	_	23	auxpass
+23	dissolved	dissolve	VBN	_	19	rcmod
+24	by	by	IN	_	23	prep
+25	shaking	shake	VBG	_	24	pcomp
+26	.	.	.	_	11	punct
+

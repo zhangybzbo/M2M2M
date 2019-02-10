@@ -1,0 +1,15 @@
+1	A	a	DT	_	4	det
+2	``	``	``	_	4	punct
+3	green	green	JJ	_	4	amod
+4	bean	bean	NN	_	0	ROOT
+5	''	''	''	_	4	punct
+6	which	which	WDT	_	10	nsubj
+7	is	be	VBZ	_	10	cop
+8	actually	actually	RB	_	10	advmod
+9	a	a	DT	_	10	det
+10	fruit	fruit	NN	_	4	rcmod
+11	with	with	IN	_	10	prep
+12	seeds	seed	NNS	_	11	pobj
+13	inside	inside	IN	_	12	advmod
+14	.	.	.	_	4	punct
+

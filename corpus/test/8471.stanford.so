@@ -1,0 +1,13 @@
+0	60	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="even" pos="RB" advmod="t2"
+5	12	tok id="t1" base="nuclear" pos="JJ" amod="t2"
+13	19	tok id="t2" base="energy" pos="NN" nsubj="t3"
+20	22	tok id="t3" base="be" pos="VBZ" ROOT="ROOT"
+23	28	tok id="t4" base="among" pos="IN" prep="t3"
+29	32	tok id="t5" base="the" pos="DT" det="t6"
+33	39	tok id="t6" base="cause" pos="NNS" pobj="t4"
+40	42	tok id="t7" base="of" pos="IN" prep="t6"
+43	48	tok id="t8" base="water" pos="NN" nn="t9"
+49	58	tok id="t9" base="pollution" pos="NN" pobj="t7"
+59	60	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

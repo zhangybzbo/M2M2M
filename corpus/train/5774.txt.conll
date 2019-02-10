@@ -1,0 +1,12 @@
+1	Paralysis	paralysis	NN	_	5	nsubjpass
+2	or	or	CC	_	1	cc
+3	convulsions	convulsion	NNS	_	1	conj
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	hormone	hormone	NN	_	8	nn
+8	deficiencies	deficiency	NNS	_	6	pobj
+9	and	and	CC	_	8	cc
+10	imbalances	imbalance	NNS	_	8	conj
+11	.	.	.	_	5	punct
+

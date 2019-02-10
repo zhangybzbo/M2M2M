@@ -1,0 +1,17 @@
+1	Third	Third	NNP	_	13	nsubj
+2	,	,	,	_	1	punct
+3	air	air	NN	_	1	conj
+4	and	and	CC	_	1	cc
+5	water	water	NN	_	6	nn
+6	pollution	pollution	NN	_	1	conj
+7	from	from	IN	_	1	prep
+8	fossil	fossil	JJ	_	9	amod
+9	fuels	fuel	NNS	_	7	pobj
+10	are	be	VBP	_	13	cop
+11	a	a	DT	_	13	det
+12	huge	huge	JJ	_	13	amod
+13	problem	problem	NN	_	0	ROOT
+14	in	in	IN	_	13	prep
+15	China	China	NNP	_	14	pobj
+16	.	.	.	_	13	punct
+

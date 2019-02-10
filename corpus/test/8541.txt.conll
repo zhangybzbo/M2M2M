@@ -1,0 +1,23 @@
+1	Pork	pork	NN	_	2	nn
+2	Farms	Farms	NNPS	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	close	close	VB	_	3	xcomp
+6	its	its	PRP$	_	10	poss
+7	Bowyers	Bowyers	NNP	_	10	nn
+8	pork	pork	NN	_	10	nn
+9	pie	pie	NN	_	10	nn
+10	factory	factory	NN	_	5	dobj
+11	in	in	IN	_	5	prep
+12	Trowbridge	Trowbridge	NNP	_	11	pobj
+13	by	by	IN	_	5	prep
+14	April	April	NNP	_	13	pobj
+15	2008	2008	CD	_	14	num
+16	with	with	IN	_	5	prep
+17	the	the	DT	_	18	det
+18	loss	loss	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	400	400	CD	_	21	num
+21	jobs	job	NNS	_	19	pobj
+22	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	It	it	PRP	_	4	nsubjpass
+2	has	have	VBZ	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	asserted	assert	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	literature	literature	NN	_	5	pobj
+8	that	that	IN	_	13	mark
+9	the	the	DT	_	10	det
+10	recognition	recognition	NN	_	13	nsubj
+11	of	of	IN	_	10	prep
+12	speech	speech	NN	_	11	pobj
+13	takes	take	VBZ	_	4	ccomp
+14	place	place	NN	_	13	dobj
+15	not	not	RB	_	17	neg
+16	because	because	IN	_	17	mwe
+17	of	of	IN	_	13	prep
+18	phonemic	phonemic	JJ	_	19	amod
+19	distinctions	distinction	NNS	_	17	pobj
+20	only	only	RB	_	19	advmod
+21	.	.	.	_	4	punct
+

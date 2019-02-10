@@ -1,0 +1,21 @@
+1	She	she	PRP	_	2	nsubj
+2	formed	form	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	dough	dough	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	round	round	JJ	_	8	amod
+8	loaf	loaf	NN	_	5	pobj
+9	and	and	CC	_	2	cc
+10	placed	place	VBD	_	2	conj
+11	the	the	DT	_	12	det
+12	dough	dough	NN	_	10	dobj
+13	in	in	IN	_	10	prep
+14	a	a	DT	_	19	det
+15	greased	grease	VBN	_	19	amod
+16	nine-inch	nine-inch	JJ	_	19	amod
+17	metal	metal	NN	_	19	nn
+18	pie	pie	NN	_	19	nn
+19	pan	pan	NN	_	13	pobj
+20	.	.	.	_	2	punct
+

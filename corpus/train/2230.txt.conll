@@ -1,0 +1,22 @@
+1	Besieged	besiege	VBN	_	7	vmod
+2	by	by	IN	_	1	prep
+3	questions	question	NNS	_	2	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	girl	girl	NN	_	7	nsubj
+7	started	start	VBD	_	0	ROOT
+8	a	a	DT	_	9	det
+9	blog	blog	NN	_	7	dobj
+10	to	to	TO	_	11	aux
+11	defend	defend	VB	_	7	vmod
+12	herself	herself	PRP	_	11	dobj
+13	,	,	,	_	7	punct
+14	and	and	CC	_	7	cc
+15	to	to	TO	_	16	aux
+16	capitalise	capitalise	VB	_	7	conj
+17	on	on	IN	_	16	prep
+18	her	she	PRP$	_	20	poss
+19	newfound	newfound	JJ	_	20	amod
+20	fame	fame	NN	_	17	pobj
+21	.	.	.	_	7	punct
+

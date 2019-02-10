@@ -1,0 +1,18 @@
+1	Preventing	prevent	VBG	_	2	amod
+2	stream	stream	NN	_	7	nsubj
+3	and	and	CC	_	2	cc
+4	riverbank	riverbank	NN	_	5	nn
+5	erosion	erosion	NN	_	2	conj
+6	is	be	VBZ	_	7	cop
+7	one	one	CD	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	main	main	JJ	_	8	pobj
+11	focuses	focus	VBZ	_	7	dep
+12	in	in	IN	_	11	prep
+13	riparian	riparian	JJ	_	14	amod
+14	protection	protection	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	restoration	restoration	NN	_	14	conj
+17	.	.	.	_	7	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	charge	charge	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	the	the	DT	_	5	det
+5	source	source	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	electric	electric	JJ	_	9	amod
+9	field	field	NN	_	6	pobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	12	nsubj
+12	carries	carry	VBZ	_	9	rcmod
+13	energy-the	energy-the	JJ	_	15	amod
+14	electrostatic	electrostatic	JJ	_	15	amod
+15	self-energy	self-energy	NN	_	12	dobj
+16	.	.	.	_	5	punct
+

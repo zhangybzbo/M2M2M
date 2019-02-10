@@ -1,0 +1,3 @@
+T1	Term 21 29	bird flu
+T2	Term 56 63	country
+R1	Entity-Destination Arg1:T1 Arg2:T2

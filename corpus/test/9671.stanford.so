@@ -1,0 +1,13 @@
+0	64	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="personality" pos="NN" nsubj="t3"
+12	14	tok id="t1" base="in" pos="IN" prep="t0"
+15	21	tok id="t2" base="poetry" pos="NN" pobj="t1"
+22	30	tok id="t3" base="include" pos="VBZ" ROOT="ROOT"
+31	35	tok id="t4" base="such" pos="JJ" amod="t5"
+36	42	tok id="t5" base="thing" pos="NNS" dobj="t3"
+43	45	tok id="t6" base="as" pos="IN" prep="t5"
+46	51	tok id="t7" base="style" pos="NN" pobj="t6"
+52	55	tok id="t8" base="and" pos="CC" cc="t7"
+56	62	tok id="t9" base="rhythm" pos="NN" conj="t7"
+63	64	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

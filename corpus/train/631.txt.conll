@@ -1,0 +1,11 @@
+1	She	she	PRP	_	2	nsubj
+2	gave	give	VBD	_	0	ROOT
+3	him	he	PRP	_	2	iobj
+4	a	a	DT	_	5	det
+5	bottle	bottle	NN	_	2	dobj
+6	with	with	IN	_	5	prep
+7	wine	wine	NN	_	6	pobj
+8	in	in	IN	_	2	prep
+9	it	it	PRP	_	8	pobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,11 @@
+1	It	it	PRP	_	3	nsubj
+2	was	be	VBD	_	3	cop
+3	he	he	PRP	_	0	ROOT
+4	who	who	WP	_	5	nsubj
+5	threw	throw	VBD	_	3	rcmod
+6	rocks	rock	NNS	_	5	dobj
+7	into	into	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	castle	castle	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

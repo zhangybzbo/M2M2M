@@ -1,0 +1,16 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	fact	fact	NN	_	3	pobj
+5	a	a	DT	_	7	det
+6	socialist	socialist	JJ	_	7	amod
+7	party	party	NN	_	2	nsubj
+8	in	in	IN	_	7	prep
+9	America	America	NNP	_	8	pobj
+10	and	and	CC	_	2	cc
+11	there	there	EX	_	12	expl
+12	are	be	VBP	_	2	conj
+13	real	real	JJ	_	14	amod
+14	socialists	socialist	NNS	_	12	nsubj
+15	.	.	.	_	2	punct
+

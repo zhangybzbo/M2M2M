@@ -1,0 +1,15 @@
+1	She	she	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	fetched	fetch	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	poodle	poodle	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	9	det
+8	same	same	JJ	_	9	amod
+9	acre	acre	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	ground	ground	NN	_	10	pobj
+12	as	as	IN	_	3	prep
+13	pup	pup	NN	_	12	pobj
+14	.	.	.	_	3	punct
+

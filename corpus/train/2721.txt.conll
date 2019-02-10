@@ -1,0 +1,22 @@
+1	Sharpening	sharpen	VBG	_	2	amod
+2	stones	stone	NNS	_	9	nsubjpass
+3	,	,	,	_	2	punct
+4	water	water	NN	_	5	nn
+5	stones	stone	NNS	_	2	conj
+6	or	or	CC	_	2	cc
+7	whetstones	whetstone	NNS	_	2	conj
+8	are	be	VBP	_	9	auxpass
+9	used	use	VBN	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	grind	grind	VB	_	9	xcomp
+12	and	and	CC	_	11	cc
+13	hone	hone	VB	_	11	conj
+14	the	the	DT	_	15	det
+15	edges	edge	NNS	_	11	dobj
+16	of	of	IN	_	15	prep
+17	steel	steel	NN	_	18	nn
+18	tools	tool	NNS	_	16	pobj
+19	and	and	CC	_	11	cc
+20	implements	implement	VBZ	_	11	conj
+21	.	.	.	_	9	punct
+

@@ -1,0 +1,18 @@
+1	Antelope	Antelope	NNP	_	2	nn
+2	horns	horn	NNS	_	3	nsubj
+3	grows	grow	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	9	det
+6	Southern	Southern	NNP	_	9	nn
+7	California	California	NNP	_	9	nn
+8	desert	desert	NN	_	9	nn
+9	mountains	mountain	NNS	_	4	pobj
+10	across	across	IN	_	9	prep
+11	to	to	TO	_	10	pcomp
+12	Arkansas	Arkansas	NNP	_	11	pobj
+13	and	and	CC	_	4	cc
+14	up	up	RB	_	4	conj
+15	into	into	IN	_	14	prep
+16	Kansas	Kansas	NNP	_	15	pobj
+17	.	.	.	_	3	punct
+

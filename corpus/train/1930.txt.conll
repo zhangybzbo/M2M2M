@@ -1,0 +1,27 @@
+1	In	in	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	poem	poem	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	an	a	DT	_	6	det
+6	albatross	albatross	NN	_	7	nsubj
+7	starts	start	VBZ	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	follow	follow	VB	_	7	xcomp
+10	a	a	DT	_	11	det
+11	ship	ship	NN	_	20	nsubjpass
+12	-	-	:	_	11	punct
+13	being	be	VBG	_	14	auxpass
+14	followed	follow	VBN	_	11	vmod
+15	by	by	IN	_	14	prep
+16	an	a	DT	_	17	det
+17	albatross	albatross	NN	_	15	pobj
+18	was	be	VBD	_	20	auxpass
+19	generally	generally	RB	_	20	advmod
+20	considered	consider	VBN	_	9	ccomp
+21	an	a	DT	_	22	det
+22	omen	omen	NN	_	20	xcomp
+23	of	of	IN	_	22	prep
+24	good	good	JJ	_	25	amod
+25	luck	luck	NN	_	23	pobj
+26	.	.	.	_	7	punct
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	medical	medical	JJ	_	3	amod
+3	devices	device	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	inserted	insert	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	female	female	JJ	_	10	amod
+9	teen	teen	JJ	_	10	amod
+10	patient	patient	NN	_	6	pobj
+11	.	.	.	_	5	punct
+

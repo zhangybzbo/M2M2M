@@ -1,0 +1,22 @@
+1	At	at	IN	_	6	prep
+2	the	the	DT	_	3	det
+3	seminar	seminar	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	we	we	PRP	_	6	nsubj
+6	gave	give	VBD	_	0	ROOT
+7	an	a	DT	_	8	det
+8	account	account	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	current	current	JJ	_	13	amod
+12	education	education	NN	_	13	nn
+13	system	system	NN	_	9	pobj
+14	and	and	CC	_	13	cc
+15	teacher	teacher	NN	_	17	nn
+16	education	education	NN	_	17	nn
+17	environment	environment	NN	_	13	conj
+18	in	in	IN	_	13	prep
+19	Hong	Hong	NNP	_	20	nn
+20	Kong	Kong	NNP	_	18	pobj
+21	.	.	.	_	6	punct
+

@@ -1,0 +1,25 @@
+1	Falconers	falconer	NNS	_	2	nsubj
+2	send	send	VBP	_	0	ROOT
+3	their	they	PRP$	_	4	poss
+4	dogs	dog	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	field	field	NN	_	5	pobj
+8	to	to	TO	_	2	prep
+9	bark	bark	NN	_	8	pobj
+10	and	and	CC	_	2	cc
+11	cause	cause	VB	_	2	conj
+12	the	the	DT	_	14	det
+13	nearby	nearby	JJ	_	14	amod
+14	covey	covey	NN	_	11	dobj
+15	of	of	IN	_	14	prep
+16	quail	quail	NN	_	15	pobj
+17	-LRB-	-lrb-	-LRB-	_	19	punct
+18	or	or	CC	_	19	cc
+19	partridges	partridge	NNS	_	16	appos
+20	-RRB-	-rrb-	-RRB-	_	19	punct
+21	to	to	TO	_	22	aux
+22	take	take	VB	_	11	vmod
+23	flight	flight	NN	_	22	dobj
+24	.	.	.	_	2	punct
+

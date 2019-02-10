@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	entertainer	entertainer	NN	_	3	nsubj
+3	defaced	deface	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	soundman	soundman	NN	_	7	poss
+6	's	's	POS	_	5	possessive
+7	vehicle	vehicle	NN	_	3	dobj
+8	with	with	IN	_	7	prep
+9	an	a	DT	_	11	det
+10	ice	ice	NN	_	11	nn
+11	pick	pick	NN	_	8	pobj
+12	.	.	.	_	3	punct
+

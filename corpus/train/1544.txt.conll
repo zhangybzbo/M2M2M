@@ -1,0 +1,24 @@
+1	Goto.com	Goto.com	NNP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	an	a	DT	_	5	det
+4	Idealab	Idealab	NNP	_	5	nn
+5	spin-off	spin-off	NN	_	0	ROOT
+6	created	create	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	scientist	scientist	NN	_	7	pobj
+10	,	,	,	_	5	punct
+11	and	and	CC	_	5	cc
+12	was	be	VBD	_	15	cop
+13	the	the	DT	_	15	det
+14	first	first	JJ	_	15	amod
+15	company	company	NN	_	5	conj
+16	to	to	TO	_	18	aux
+17	successfully	successfully	RB	_	18	advmod
+18	provide	provide	VB	_	15	vmod
+19	a	a	DT	_	22	det
+20	pay-for-placement	pay-for-placement	NN	_	22	nn
+21	search	search	NN	_	22	nn
+22	service	service	NN	_	18	dobj
+23	.	.	.	_	5	punct
+

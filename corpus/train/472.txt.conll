@@ -1,0 +1,14 @@
+1	Two	two	CD	_	3	num
+2	broad	broad	JJ	_	3	amod
+3	topics	topic	NNS	_	12	nsubjpass
+4	emerging	emerge	VBG	_	3	vmod
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	literature	literature	NN	_	5	pobj
+8	on	on	IN	_	4	prep
+9	fiscal	fiscal	JJ	_	10	amod
+10	forecasting	forecasting	NN	_	8	pobj
+11	are	be	VBP	_	12	auxpass
+12	reviewed	review	VBN	_	0	ROOT
+13	.	.	.	_	12	punct
+

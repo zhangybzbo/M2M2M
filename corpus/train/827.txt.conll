@@ -1,0 +1,16 @@
+1	It	it	PRP	_	7	nsubj
+2	's	be	VBZ	_	7	cop
+3	basically	basically	RB	_	7	advmod
+4	a	a	DT	_	7	det
+5	trashy	trashy	JJ	_	7	amod
+6	pseudo-18th-century	pseudo-18th-century	JJ	_	7	amod
+7	novel	novel	JJ	_	0	ROOT
+8	written	write	VBN	_	7	dep
+9	by	by	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	American	american	JJ	_	12	amod
+12	historian	historian	NN	_	9	pobj
+13	at	at	IN	_	12	prep
+14	Harvard	Harvard	NNP	_	13	pobj
+15	.	.	.	_	7	punct
+

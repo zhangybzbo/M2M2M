@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="protein" pos="NN" nn="t2"
+12	20	tok id="t2" base="molecule" pos="NN" nsubj="t4"
+21	24	tok id="t3" base="have" pos="VBZ" aux="t4"
+25	29	tok id="t4" base="come" pos="VBN" ROOT="ROOT"
+30	34	tok id="t5" base="into" pos="IN" prep="t4"
+35	44	tok id="t6" base="existence" pos="NN" pobj="t5"
+45	47	tok id="t7" base="by" pos="IN" prep="t4"
+48	55	tok id="t8" base="natural" pos="JJ" amod="t9"
+56	65	tok id="t9" base="process" pos="NNS" pobj="t7"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

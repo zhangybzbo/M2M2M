@@ -1,0 +1,21 @@
+1	Contractors	contractor	NNS	_	3	nsubj
+2	quickly	quickly	RB	_	3	advmod
+3	generate	generate	VBP	_	0	ROOT
+4	documents	document	NNS	_	3	dobj
+5	that	that	WDT	_	7	nsubjpass
+6	are	be	VBP	_	7	auxpass
+7	shared	share	VBN	_	4	rcmod
+8	via	via	IN	_	7	prep
+9	fax	fax	NN	_	8	pobj
+10	,	,	,	_	9	punct
+11	email	email	NN	_	9	conj
+12	,	,	,	_	9	punct
+13	or	or	CC	_	9	cc
+14	text	text	NN	_	15	nn
+15	message	message	NN	_	9	conj
+16	,	,	,	_	3	punct
+17	by	by	IN	_	3	prep
+18	using	use	VBG	_	17	pcomp
+19	templates	template	NNS	_	18	dobj
+20	.	.	.	_	3	punct
+

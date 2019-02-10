@@ -1,0 +1,16 @@
+1	The	the	DT	_	4	det
+2	assigned	assign	VBN	_	4	amod
+3	cashier	cashier	NN	_	4	nn
+4	code	code	NN	_	5	nsubj
+5	serves	serve	VBZ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	identify	identify	VB	_	5	xcomp
+8	the	the	DT	_	9	det
+9	cashier	cashier	NN	_	7	dobj
+10	using	use	VBG	_	7	xcomp
+11	the	the	DT	_	14	det
+12	electronic	electronic	JJ	_	14	amod
+13	cash	cash	NN	_	14	nn
+14	register	register	NN	_	10	dobj
+15	.	.	.	_	5	punct
+

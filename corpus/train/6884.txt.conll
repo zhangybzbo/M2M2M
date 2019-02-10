@@ -1,0 +1,16 @@
+1	They	they	PRP	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	intentionally	intentionally	RB	_	4	advmod
+4	sewn	sewn	JJ	_	0	ROOT
+5	larger	larger	JJR	_	4	advmod
+6	than	than	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	pillow	pillow	NN	_	6	pobj
+9	to	to	TO	_	10	aux
+10	accommodate	accommodate	VB	_	8	vmod
+11	for	for	IN	_	10	prep
+12	shrinkage	shrinkage	NN	_	11	pobj
+13	from	from	IN	_	12	prep
+14	washing	wash	VBG	_	13	pcomp
+15	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+1	Mouse	mouse	NN	_	4	nn
+2	rRNA	rrna	NN	_	4	nn
+3	transcription	transcription	NN	_	4	nn
+4	template	template	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	injected	inject	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	brain	brain	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

@@ -1,0 +1,21 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	an	a	DT	_	5	det
+4	online	online	JJ	_	5	amod
+5	publication	publication	NN	_	0	ROOT
+6	dedicated	dedicate	VBN	_	5	vmod
+7	to	to	TO	_	6	prep
+8	informing	inform	VBG	_	7	pcomp
+9	the	the	DT	_	10	det
+10	world	world	NN	_	8	dobj
+11	about	about	IN	_	8	prep
+12	the	the	DT	_	15	det
+13	numerous	numerous	JJ	_	15	amod
+14	state	state	NN	_	15	nn
+15	violations	violation	NNS	_	11	pobj
+16	of	of	IN	_	15	prep
+17	citizens	citizen	NNS	_	19	poss
+18	'	'	POS	_	17	possessive
+19	rights	rights	NNS	_	16	pobj
+20	.	.	.	_	5	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	carpenter	carpenter	NN	_	3	nsubj
+3	carries	carry	VBZ	_	0	ROOT
+4	an	a	DT	_	5	det
+5	axe	axe	NN	_	3	dobj
+6	over	over	IN	_	5	prep
+7	his	he	PRP$	_	8	poss
+8	shoulder	shoulder	NN	_	6	pobj
+9	and	and	CC	_	5	cc
+10	a	a	DT	_	12	det
+11	smaller	smaller	JJR	_	12	amod
+12	one	one	CD	_	5	conj
+13	in	in	IN	_	12	prep
+14	his	he	PRP$	_	15	poss
+15	belt	belt	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

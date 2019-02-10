@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	chef	chef	NN	_	3	nsubj
+3	stirred	stir	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	chopped	chop	VBN	_	6	amod
+6	pistachios	pistachio	NNS	_	3	dobj
+7	into	into	IN	_	3	prep
+8	the	the	DT	_	10	det
+9	soaked	soaked	JJ	_	10	amod
+10	fruit	fruit	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	Little	little	JJ	_	4	amod
+2	Irish	irish	JJ	_	4	amod
+3	girl	girl	NN	_	4	nn
+4	Becky	Becky	NNP	_	5	nsubj
+5	called	call	VBD	_	0	ROOT
+6	a	a	DT	_	8	det
+7	demolition	demolition	NN	_	8	nn
+8	company	company	NN	_	5	dobj
+9	and	and	CC	_	5	cc
+10	asked	ask	VBD	_	5	conj
+11	if	if	IN	_	14	mark
+12	they	they	PRP	_	14	nsubj
+13	would	would	MD	_	14	aux
+14	knock	knock	VB	_	10	advcl
+15	her	she	PRP$	_	16	poss
+16	school	school	NN	_	14	dobj
+17	down	down	RB	_	14	advmod
+18	.	.	.	_	5	punct
+

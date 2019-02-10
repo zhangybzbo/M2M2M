@@ -1,0 +1,15 @@
+1	Warm	warm	JJ	_	2	amod
+2	weather	weather	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	here	here	RB	_	0	ROOT
+5	,	,	,	_	4	punct
+6	and	and	CC	_	4	cc
+7	with	with	IN	_	9	prep
+8	it	it	PRP	_	7	pobj
+9	comes	come	VBZ	_	4	conj
+10	the	the	DT	_	11	det
+11	scourge	scourge	NN	_	9	nsubj
+12	of	of	IN	_	11	prep
+13	mosquitoes	mosquito	NNS	_	12	pobj
+14	.	.	.	_	4	punct
+

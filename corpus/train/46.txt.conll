@@ -1,0 +1,8 @@
+1	Adults	adult	NNS	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	drugs	drug	NNS	_	2	dobj
+4	for	for	IN	_	2	prep
+5	this	this	DT	_	6	det
+6	purpose	purpose	NN	_	4	pobj
+7	.	.	.	_	2	punct
+

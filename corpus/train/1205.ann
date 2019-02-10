@@ -1,0 +1,3 @@
+T1	Term 87 96	factories
+T2	Term 112 120	products
+R1	Product-Producer Arg1:T2 Arg2:T1

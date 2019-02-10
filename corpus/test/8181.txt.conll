@@ -1,0 +1,9 @@
+1	These	these	DT	_	2	det
+2	attributes	attribute	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	inherited	inherit	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	their	they	PRP$	_	7	poss
+7	children	child	NNS	_	5	pobj
+8	.	.	.	_	4	punct
+

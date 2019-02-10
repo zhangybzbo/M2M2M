@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	leukocytes	leukocyte	NNS	_	3	nsubj
+3	migrated	migrate	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	body	body	NN	_	7	nn
+7	tissues	tissue	NNS	_	4	pobj
+8	to	to	TO	_	9	aux
+9	take	take	VB	_	3	xcomp
+10	up	up	RP	_	9	prt
+11	a	a	DT	_	13	det
+12	permanent	permanent	JJ	_	13	amod
+13	residence	residence	NN	_	9	dobj
+14	at	at	IN	_	9	prep
+15	that	that	DT	_	16	det
+16	location	location	NN	_	14	pobj
+17	rather	rather	RB	_	18	advmod
+18	than	than	IN	_	16	prep
+19	remaining	remain	VBG	_	18	pcomp
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	blood	blood	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

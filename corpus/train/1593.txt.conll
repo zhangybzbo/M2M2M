@@ -1,0 +1,26 @@
+1	Both	both	DT	_	2	preconj
+2	novel	novel	JJ	_	5	nsubj
+3	and	and	CC	_	2	cc
+4	film	film	NN	_	2	conj
+5	insist	insist	VBP	_	0	ROOT
+6	upon	upon	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	necessity	necessity	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	past	past	NN	_	9	pobj
+12	in	in	IN	_	8	prep
+13	defining	define	VBG	_	12	pcomp
+14	who	who	WP	_	16	dobj
+15	we	we	PRP	_	16	nsubj
+16	are	be	VBP	_	13	ccomp
+17	and	and	CC	_	16	cc
+18	how	how	WRB	_	21	advmod
+19	we	we	PRP	_	21	nsubj
+20	will	will	MD	_	21	aux
+21	live	live	VB	_	16	conj
+22	in	in	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	present	present	JJ	_	22	pobj
+25	.	.	.	_	5	punct
+

@@ -1,0 +1,11 @@
+1	These	these	DT	_	2	det
+2	trends	trend	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	thrown	throw	VBN	_	0	ROOT
+5	women	woman	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	totally	totally	RB	_	8	advmod
+8	inhibiting	inhibit	VBG	_	6	pcomp
+9	situations	situation	NNS	_	8	dobj
+10	.	.	.	_	4	punct
+

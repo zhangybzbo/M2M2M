@@ -1,0 +1,20 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	guide	guide	NN	_	4	nn
+4	lines	line	NNS	_	2	nsubj
+5	under	under	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	paint	paint	NN	_	5	pobj
+8	that	that	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	artist	artist	NN	_	8	pobj
+11	used	use	VBN	_	10	vmod
+12	to	to	TO	_	13	aux
+13	create	create	VB	_	11	xcomp
+14	the	the	DT	_	15	det
+15	pedestal	pedestal	NN	_	13	dobj
+16	in	in	IN	_	13	prep
+17	perfect	perfect	JJ	_	18	amod
+18	perspective	perspective	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

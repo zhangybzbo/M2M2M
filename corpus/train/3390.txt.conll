@@ -1,0 +1,25 @@
+1	Before	before	IN	_	11	prep
+2	heading	head	VBG	_	1	pcomp
+3	down	down	IN	_	2	prep
+4	the	the	DT	_	8	det
+5	phone	phone	NN	_	8	nn
+6	operator	operator	NN	_	8	nn
+7	career	career	NN	_	8	nn
+8	path	path	NN	_	3	pobj
+9	,	,	,	_	11	punct
+10	you	you	PRP	_	11	nsubj
+11	need	need	VBP	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	examine	examine	VB	_	11	xcomp
+14	whether	whether	IN	_	16	mark
+15	you	you	PRP	_	16	nsubj
+16	possess	possess	VBP	_	13	ccomp
+17	the	the	DT	_	18	det
+18	skills	skill	NNS	_	16	dobj
+19	for	for	IN	_	18	prep
+20	this	this	DT	_	21	det
+21	type	type	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	position	position	NN	_	22	pobj
+24	.	.	.	_	11	punct
+

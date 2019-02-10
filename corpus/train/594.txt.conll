@@ -1,0 +1,16 @@
+1	In	in	IN	_	8	prep
+2	theory	theory	NN	_	1	pobj
+3	,	,	,	_	8	punct
+4	boards	board	NNS	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	independent	independent	JJ	_	7	amod
+7	directors	director	NNS	_	5	pobj
+8	look	look	VBP	_	0	ROOT
+9	after	after	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	interests	interest	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	individual	individual	JJ	_	14	amod
+14	shareholders	shareholder	NNS	_	12	pobj
+15	.	.	.	_	8	punct
+

@@ -1,0 +1,15 @@
+1	In	in	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	same	same	JJ	_	4	amod
+4	way	way	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	a	a	DT	_	7	det
+7	society	society	NN	_	9	nsubjpass
+8	is	be	VBZ	_	9	auxpass
+9	built	build	VBN	_	0	ROOT
+10	up	up	IN	_	9	advmod
+11	of	of	IN	_	10	prep
+12	many	many	JJ	_	13	amod
+13	individuals	individual	NNS	_	11	pobj
+14	.	.	.	_	9	punct
+

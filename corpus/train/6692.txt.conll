@@ -1,0 +1,25 @@
+1	I	I	PRP	_	4	nsubj
+2	've	have	VBP	_	4	aux
+3	just	just	RB	_	4	advmod
+4	sold	sell	VBN	_	0	ROOT
+5	a	a	DT	_	7	det
+6	gold	gold	NN	_	7	nn
+7	ring	ring	NN	_	4	dobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	13	nsubj
+10	was	be	VBD	_	13	cop
+11	my	my	PRP$	_	13	poss
+12	last	last	JJ	_	13	amod
+13	asset	asset	NN	_	7	rcmod
+14	and	and	CC	_	13	cc
+15	now	now	RB	_	17	advmod
+16	we	we	PRP	_	17	nsubj
+17	have	have	VBP	_	13	conj
+18	nothing	nothing	NN	_	19	nsubj
+19	left	leave	VBD	_	17	ccomp
+20	for	for	IN	_	19	prep
+21	a	a	DT	_	23	det
+22	better	better	JJR	_	23	amod
+23	life	life	NN	_	20	pobj
+24	.	.	.	_	4	punct
+

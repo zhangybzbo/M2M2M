@@ -1,0 +1,22 @@
+1	Yellow	yellow	JJ	_	2	amod
+2	fever	fever	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	infection	infection	NN	_	5	pobj
+7	with	with	IN	_	6	prep
+8	yellow	yellow	JJ	_	10	amod
+9	fever	fever	NN	_	10	nn
+10	virus	virus	NN	_	7	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	14	nsubjpass
+13	is	be	VBZ	_	14	auxpass
+14	transmitted	transmit	VBN	_	10	rcmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	bite	bite	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	infected	infected	JJ	_	20	amod
+20	mosquitoes	mosquito	NNS	_	18	pobj
+21	.	.	.	_	4	punct
+

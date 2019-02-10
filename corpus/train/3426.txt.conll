@@ -1,0 +1,11 @@
+1	This	this	DT	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	completed	complete	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	students	student	NNS	_	4	pobj
+6	using	use	VBG	_	5	vmod
+7	the	the	DT	_	9	det
+8	online	online	NN	_	9	nn
+9	system	system	NN	_	6	dobj
+10	.	.	.	_	3	punct
+

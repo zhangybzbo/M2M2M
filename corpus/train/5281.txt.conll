@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	nsubj
+2	ending	end	VBG	_	1	amod
+3	consists	consist	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	long	long	JJ	_	7	amod
+7	speech	speech	NN	_	4	pobj
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	narrator	narrator	NN	_	8	pobj
+11	informing	inform	VBG	_	7	vmod
+12	us	we	PRP	_	11	dobj
+13	that	that	IN	_	16	mark
+14	``	``	``	_	16	punct
+15	there	there	EX	_	16	expl
+16	was	be	VBD	_	11	ccomp
+17	no	no	DT	_	18	neg
+18	monster	monster	NN	_	16	nsubj
+19	.	.	.	_	3	punct
+20	''	''	''	_	3	punct
+

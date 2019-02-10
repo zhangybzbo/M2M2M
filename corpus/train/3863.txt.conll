@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	lid	lid	NN	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	pink	pink	JJ	_	7	amod
+6	granite	granite	NN	_	7	nn
+7	sarcophagus	sarcophagus	NN	_	3	pobj
+8	is	be	VBZ	_	9	auxpass
+9	decorated	decorate	VBN	_	0	ROOT
+10	with	with	IN	_	9	prep
+11	Isis	Isis	NNP	_	10	pobj
+12	and	and	CC	_	11	cc
+13	Nephthys	Nephthys	NNP	_	11	conj
+14	,	,	,	_	11	punct
+15	which	which	WDT	_	17	nsubjpass
+16	were	be	VBD	_	17	auxpass
+17	meant	mean	VBN	_	11	rcmod
+18	to	to	TO	_	19	aux
+19	serve	serve	VB	_	17	xcomp
+20	as	as	IN	_	19	prep
+21	guardians	guardian	NNS	_	20	pobj
+22	over	over	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	body	body	NN	_	22	pobj
+25	.	.	.	_	9	punct
+

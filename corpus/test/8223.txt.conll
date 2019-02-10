@@ -1,0 +1,16 @@
+1	Debate	debate	NN	_	2	nn
+2	flourishes	flourish	NNS	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	relative	relative	JJ	_	6	amod
+6	roles	role	NNS	_	3	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	ancient	ancient	JJ	_	10	amod
+10	Greeks	Greeks	NNPS	_	7	pobj
+11	,	,	,	_	10	punct
+12	Mesopotamians	Mesopotamians	NNPS	_	10	conj
+13	and	and	CC	_	10	cc
+14	Romans	Romans	NNPS	_	10	conj
+15	.	.	.	_	2	punct
+

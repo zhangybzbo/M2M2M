@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	gaps	gap	NNS	_	7	nsubjpass
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	rings	ring	NNS	_	3	pobj
+6	are	be	VBP	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	resonance	resonance	NN	_	8	pobj
+10	between	between	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	particles	particle	NNS	_	10	pobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	rings	ring	NNS	_	13	pobj
+16	and	and	CC	_	12	cc
+17	the	the	DT	_	18	det
+18	moons	moon	NNS	_	12	conj
+19	orbiting	orbit	VBG	_	18	vmod
+20	nearby	nearby	RB	_	19	advmod
+21	.	.	.	_	7	punct
+

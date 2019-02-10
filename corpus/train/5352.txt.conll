@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	experiments	experiment	NNS	_	7	nsubj
+3	reported	report	VBN	_	2	vmod
+4	in	in	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	article	article	NN	_	4	pobj
+7	investigated	investigate	VBD	_	0	ROOT
+8	two	two	CD	_	10	num
+9	specific	specific	JJ	_	10	amod
+10	properties	property	NNS	_	7	dobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	location	location	NN	_	15	nn
+14	probability	probability	NN	_	15	nn
+15	effect	effect	NN	_	11	pobj
+16	.	.	.	_	7	punct
+

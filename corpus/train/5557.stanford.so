@@ -1,0 +1,10 @@
+0	53	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="Americans" pos="NNPS" nsubj="t2"
+10	14	tok id="t1" base="have" pos="VBP" aux="t2"
+15	23	tok id="t2" base="export" pos="VBN" ROOT="ROOT"
+24	33	tok id="t3" base="democracy" pos="NN" dobj="t2"
+34	36	tok id="t4" base="to" pos="TO" prep="t2"
+37	41	tok id="t5" base="many" pos="JJ" amod="t6"
+42	51	tok id="t6" base="country" pos="NNS" pobj="t4"
+52	53	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

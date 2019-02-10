@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	map	map	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	locked	lock	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	5	pobj
+7	safe	safe	JJ	_	6	amod
+8	in	in	IN	_	7	prep
+9	her	she	PRP$	_	10	poss
+10	office	office	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

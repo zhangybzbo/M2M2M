@@ -1,0 +1,17 @@
+1	Many	many	JJ	_	2	amod
+2	students	student	NNS	_	3	nsubj
+3	deviate	deviate	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	ideal	ideal	JJ	_	7	amod
+7	curricula	curriculum	NN	_	4	pobj
+8	presented	present	VBN	_	7	vmod
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	later	later	JJ	_	12	amod
+12	section	section	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	this	this	DT	_	15	det
+15	bulletin	bulletin	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

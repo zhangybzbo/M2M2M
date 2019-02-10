@@ -1,0 +1,21 @@
+1	Rhys	rhy	NNS	_	13	nsubj
+2	and	and	CC	_	1	cc
+3	Frost	Frost	NNP	_	1	conj
+4	,	,	,	_	1	punct
+5	two	two	CD	_	1	appos
+6	of	of	IN	_	5	prep
+7	my	my	PRP$	_	8	poss
+8	business	business	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	four	four	CD	_	11	num
+11	ferrets	ferret	NNS	_	9	pobj
+12	,	,	,	_	1	punct
+13	love	love	VBP	_	0	ROOT
+14	to	to	TO	_	15	aux
+15	go	go	VB	_	13	xcomp
+16	outside	outside	JJ	_	15	advmod
+17	on	on	IN	_	15	prep
+18	their	they	PRP$	_	19	poss
+19	leashes	leash	NNS	_	17	pobj
+20	.	.	.	_	13	punct
+

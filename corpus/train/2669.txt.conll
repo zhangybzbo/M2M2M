@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det
+2	Abductor	abductor	NN	_	4	nn
+3	pollicis	pollici	NN	_	4	nn
+4	brevis	brevi	NN	_	5	nsubj
+5	draws	draw	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	thumb	thumb	NN	_	5	dobj
+8	forward	forward	RB	_	5	advmod
+9	in	in	IN	_	5	prep
+10	a	a	DT	_	11	det
+11	plane	plane	NN	_	9	pobj
+12	at	at	IN	_	5	prep
+13	right	right	JJ	_	14	amod
+14	angles	angle	NNS	_	12	pobj
+15	to	to	TO	_	5	prep
+16	that	that	DT	_	15	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	palm	palm	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	hand	hand	NN	_	20	pobj
+23	.	.	.	_	5	punct
+

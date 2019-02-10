@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	award	award	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	trophy	trophy	NN	_	3	dobj
+6	and	and	CC	_	5	cc
+7	a	a	DT	_	8	det
+8	certificate	certificate	NN	_	5	conj
+9	and	and	CC	_	3	cc
+10	is	be	VBZ	_	12	aux
+11	being	be	VBG	_	12	auxpass
+12	run	run	VBN	_	3	conj
+13	by	by	IN	_	12	prep
+14	The	the	DT	_	17	det
+15	British	british	JJ	_	17	amod
+16	Cartographic	Cartographic	NNP	_	17	nn
+17	Society	Society	NNP	_	13	pobj
+18	with	with	IN	_	12	prep
+19	the	the	DT	_	20	det
+20	support	support	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	Stanfords	Stanfords	NNP	_	24	nn
+23	Map	Map	NNP	_	24	nn
+24	Shop	Shop	NNP	_	21	pobj
+25	.	.	.	_	3	punct
+

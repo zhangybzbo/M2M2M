@@ -1,0 +1,11 @@
+0	46	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="pollution" pos="NN" nsubjpass="t4"
+14	16	tok id="t2" base="be" pos="VBZ" aux="t4"
+17	22	tok id="t3" base="be" pos="VBG" auxpass="t4"
+23	29	tok id="t4" base="spread" pos="VBN" ROOT="ROOT"
+30	32	tok id="t5" base="to" pos="TO" prep="t4"
+33	36	tok id="t6" base="air" pos="NN" pobj="t5"
+37	44	tok id="t7" base="rapidly" pos="RB" advmod="t4"
+45	46	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

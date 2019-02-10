@@ -1,0 +1,10 @@
+0	52	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="bacterium" pos="NNS" nsubj="t2"
+13	21	tok id="t2" base="release" pos="VBD" ROOT="ROOT"
+22	29	tok id="t3" base="arsenic" pos="JJ" dobj="t2"
+30	34	tok id="t4" base="into" pos="IN" prep="t2"
+35	38	tok id="t5" base="the" pos="DT" det="t6"
+39	50	tok id="t6" base="groundwater" pos="NN" pobj="t4"
+51	52	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,13 @@
+1	That	that	DT	_	2	det
+2	decision	decision	NN	_	6	nsubj
+3	was	be	VBD	_	6	cop
+4	also	also	RB	_	6	advmod
+5	the	the	DT	_	6	det
+6	subject	subject	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	an	a	DT	_	11	det
+9	unsuccessful	unsuccessful	JJ	_	11	amod
+10	legal	legal	JJ	_	11	amod
+11	challenge	challenge	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

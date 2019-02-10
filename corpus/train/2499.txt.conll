@@ -1,0 +1,20 @@
+1	Data	datum	NN	_	2	nsubj
+2	shows	show	VBZ	_	0	ROOT
+3	that	that	IN	_	10	mark
+4	public	public	JJ	_	5	amod
+5	concern	concern	NN	_	10	nsubj
+6	about	about	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	economy	economy	NN	_	6	pobj
+9	has	have	VBZ	_	10	aux
+10	moved	move	VBN	_	2	ccomp
+11	into	into	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	top	top	JJ	_	15	amod
+14	five	five	CD	_	15	num
+15	issues	issue	NNS	_	11	pobj
+16	facing	face	VBG	_	15	vmod
+17	the	the	DT	_	18	det
+18	country	country	NN	_	16	dobj
+19	.	.	.	_	2	punct
+

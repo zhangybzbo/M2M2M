@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	kids	kid	NNS	_	3	nsubj
+3	illuminated	illuminate	VBD	_	0	ROOT
+4	them	they	PRP	_	3	dobj
+5	with	with	IN	_	3	prep
+6	a	a	DT	_	7	det
+7	candle	candle	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

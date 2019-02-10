@@ -1,0 +1,14 @@
+1	Roundworms	roundworm	NNS	_	5	nsubjpass
+2	or	or	CC	_	1	cc
+3	ascarids	ascarid	NNS	_	1	conj
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	intestinal	intestinal	JJ	_	9	amod
+9	parasite	parasite	NN	_	6	pobj
+10	called	call	VBN	_	9	vmod
+11	Toxocara	Toxocara	NNP	_	12	nn
+12	canis	cani	NNS	_	10	dep
+13	.	.	.	_	5	punct
+

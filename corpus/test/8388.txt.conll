@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	det
+2	test	test	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	performed	perform	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	patient	patient	NN	_	5	pobj
+8	sitting	sit	VBG	_	7	dep
+9	or	or	CC	_	8	cc
+10	standing	stand	VBG	_	8	conj
+11	and	and	CC	_	4	cc
+12	with	with	IN	_	21	prep
+13	the	the	DT	_	14	det
+14	examiner	examiner	NN	_	12	pobj
+15	holding	hold	VBG	_	14	vmod
+16	the	the	DT	_	17	det
+17	arm	arm	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	patient	patient	NN	_	18	pobj
+21	flexed	flex	VBD	_	4	conj
+22	to	to	TO	_	21	prep
+23	90	90	CD	_	24	num
+24	degrees	degree	NNS	_	22	pobj
+25	.	.	.	_	4	punct
+

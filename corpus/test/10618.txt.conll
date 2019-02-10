@@ -1,0 +1,20 @@
+1	Along	along	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	way	way	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	women	woman	NNS	_	6	nsubj
+6	developed	develop	VBD	_	3	rcmod
+7	a	a	DT	_	9	det
+8	distinctive	distinctive	JJ	_	9	amod
+9	style	style	NN	_	6	dobj
+10	,	,	,	_	11	punct
+11	noted	note	VBD	_	0	ROOT
+12	for	for	IN	_	11	prep
+13	its	its	PRP$	_	15	poss
+14	lively	lively	JJ	_	15	amod
+15	improvisations	improvisation	NNS	_	12	pobj
+16	and	and	CC	_	15	cc
+17	geometric	geometric	JJ	_	18	amod
+18	simplicity	simplicity	NN	_	15	conj
+19	.	.	.	_	11	punct
+

@@ -1,0 +1,20 @@
+1	First	first	RB	_	2	advmod
+2	found	find	VBN	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	Old	old	JJ	_	5	amod
+5	Castile	Castile	NNP	_	3	pobj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	heart	heart	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	Spain	Spain	NNP	_	9	pobj
+11	,	,	,	_	10	punct
+12	where	where	WRB	_	15	advmod
+13	the	the	DT	_	14	det
+14	name	name	NN	_	15	nsubj
+15	originated	originate	VBD	_	10	rcmod
+16	in	in	IN	_	15	prep
+17	Visigothic	visigothic	JJ	_	18	amod
+18	times	time	NNS	_	16	pobj
+19	.	.	.	_	2	punct
+

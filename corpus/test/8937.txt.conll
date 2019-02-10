@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	election	election	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	appointment	appointment	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	Donald	Donald	NNP	_	10	nn
+10	Sumner	Sumner	NNP	_	8	pobj
+11	,	,	,	_	10	punct
+12	formerly	formerly	RB	_	14	advmod
+13	Conservative	conservative	JJ	_	14	amod
+14	MP	mp	NN	_	10	appos
+15	for	for	IN	_	14	prep
+16	Orpington	Orpington	NNP	_	15	pobj
+17	,	,	,	_	10	punct
+18	to	to	TO	_	23	aux
+19	be	be	VB	_	23	cop
+20	a	a	DT	_	23	det
+21	county	county	NN	_	23	nn
+22	court	court	NN	_	23	nn
+23	judge	judge	NN	_	7	vmod
+24	.	.	.	_	4	punct
+

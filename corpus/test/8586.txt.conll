@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	minimum	minimum	JJ	_	3	amod
+3	number	number	NN	_	13	nsubj
+4	of	of	IN	_	3	prep
+5	gauges	gauge	VBZ	_	4	pcomp
+6	on	on	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	passenger	passenger	NN	_	10	nn
+9	car	car	NN	_	10	nn
+10	dashboard	dashboard	NN	_	6	pobj
+11	are	be	VBP	_	13	cop
+12	the	the	DT	_	13	det
+13	speedometer	speedometer	NN	_	0	ROOT
+14	and	and	CC	_	13	cc
+15	the	the	DT	_	17	det
+16	fuel	fuel	NN	_	17	nn
+17	gauge	gauge	NN	_	13	conj
+18	.	.	.	_	13	punct
+

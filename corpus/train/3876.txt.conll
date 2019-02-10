@@ -1,0 +1,22 @@
+1	French	french	JJ	_	2	amod
+2	people	people	NNS	_	3	nsubj
+3	find	find	VBP	_	0	ROOT
+4	truffles	truffle	NNS	_	3	dobj
+5	by	by	IN	_	3	prep
+6	taking	take	VBG	_	5	pcomp
+7	a	a	DT	_	8	det
+8	drift	drift	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	hogs	hog	NNS	_	9	pobj
+11	into	into	IN	_	6	prep
+12	the	the	DT	_	14	det
+13	oak	oak	NN	_	14	nn
+14	forests	forest	NNS	_	11	pobj
+15	to	to	TO	_	16	aux
+16	locate	locate	VB	_	6	vmod
+17	and	and	CC	_	16	cc
+18	dig	dig	VB	_	16	conj
+19	for	for	IN	_	16	prep
+20	them	they	PRP	_	19	pobj
+21	.	.	.	_	3	punct
+

@@ -1,0 +1,3 @@
+T1	Term 10 27	craniopharyngioma
+T2	Term 56 60	bone
+R1	Entity-Origin Arg1:T1 Arg2:T2

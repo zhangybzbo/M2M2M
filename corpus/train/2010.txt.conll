@@ -1,0 +1,15 @@
+1	Typically	typically	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	varieties	variety	NNS	_	8	nsubjpass
+4	of	of	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	sort	sort	NN	_	4	pobj
+7	were	be	VBD	_	8	auxpass
+8	grown	grow	VBN	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	flat	flat	JJ	_	11	amod
+11	land	land	NN	_	9	pobj
+12	by	by	IN	_	8	prep
+13	peasants	peasant	NNS	_	12	pobj
+14	.	.	.	_	8	punct
+

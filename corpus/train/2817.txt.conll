@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	lumberjack	lumberjack	NN	_	3	nn
+3	axe	axe	NN	_	0	ROOT
+4	is	be	VBZ	_	3	dep
+5	the	the	DT	_	4	nsubj
+6	most	most	RBS	_	7	advmod
+7	ancient	ancient	JJ	_	5	dep
+8	and	and	CC	_	7	cc
+9	most	most	RBS	_	10	advmod
+10	simple	simple	JJ	_	7	conj
+11	of	of	IN	_	7	prep
+12	all	all	DT	_	14	det
+13	axe	axe	JJ	_	14	amod
+14	types	type	NNS	_	11	pobj
+15	and	and	CC	_	7	cc
+16	serves	serve	VBZ	_	7	conj
+17	as	as	IN	_	16	prep
+18	a	a	DT	_	20	det
+19	working	work	VBG	_	20	amod
+20	tool	tool	NN	_	17	pobj
+21	.	.	.	_	3	punct
+

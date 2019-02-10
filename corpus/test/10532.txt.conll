@@ -1,0 +1,23 @@
+1	Instead	instead	RB	_	2	advmod
+2	of	of	IN	_	8	prep
+3	sounding	sound	VBG	_	2	pcomp
+4	self-centered	self-centered	JJ	_	3	acomp
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	remark	remark	NN	_	8	nsubj
+8	came	come	VBD	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	person	person	NN	_	9	pobj
+12	who	who	WP	_	14	nsubjpass
+13	is	be	VBZ	_	14	auxpass
+14	confused	confuse	VBN	_	11	rcmod
+15	and	and	CC	_	14	cc
+16	unaccustomed	unaccustomed	JJ	_	14	conj
+17	to	to	TO	_	16	prep
+18	anything	anything	NN	_	17	pobj
+19	but	but	CC	_	18	cc
+20	personal	personal	JJ	_	21	amod
+21	success	success	NN	_	18	conj
+22	.	.	.	_	8	punct
+

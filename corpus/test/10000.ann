@@ -1,0 +1,3 @@
+T1	Term 0 10	Scientists
+T2	Term 26 31	music
+R1	Instrument-Agency Arg1:T2 Arg2:T1

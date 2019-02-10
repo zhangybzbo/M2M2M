@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	Islamist	islamist	JJ	_	3	amod
+3	group	group	NN	_	16	nsubjpass
+4	which	which	WDT	_	5	nsubj
+5	provoked	provoke	VBD	_	3	rcmod
+6	outrage	outrage	NN	_	5	dobj
+7	with	with	IN	_	6	prep
+8	its	its	PRP$	_	9	poss
+9	plan	plan	NN	_	7	pobj
+10	to	to	TO	_	11	aux
+11	march	march	VB	_	9	vmod
+12	through	through	IN	_	11	prep
+13	Wootton	Wootton	NNP	_	14	nn
+14	Bassett	Bassett	NNP	_	12	pobj
+15	was	be	VBD	_	16	auxpass
+16	banned	ban	VBN	_	0	ROOT
+17	.	.	.	_	16	punct
+

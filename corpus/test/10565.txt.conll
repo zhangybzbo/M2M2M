@@ -1,0 +1,17 @@
+1	Training	training	NN	_	7	nsubjpass
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	field	field	NN	_	2	pobj
+5	is	be	VBZ	_	7	auxpass
+6	easily	easily	RB	_	7	advmod
+7	obtained	obtain	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	furniture	furniture	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	cabinet	cabinet	NN	_	15	nn
+13	maker	maker	NN	_	15	nn
+14	diploma	diploma	NN	_	15	nn
+15	program	program	NN	_	10	conj
+16	.	.	.	_	7	punct
+

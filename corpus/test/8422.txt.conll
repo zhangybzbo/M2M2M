@@ -1,0 +1,26 @@
+1	We	we	PRP	_	2	nsubj
+2	study	study	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	influence	influence	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	external	external	JJ	_	9	amod
+8	electromagnetic	electromagnetic	JJ	_	9	amod
+9	field	field	NN	_	5	pobj
+10	of	of	IN	_	9	prep
+11	1.8	1.8	CD	_	12	num
+12	GHz	GHz	NNP	_	10	pobj
+13	in	in	IN	_	4	prep
+14	the	the	DT	_	15	det
+15	formation	formation	NN	_	13	pobj
+16	or	or	CC	_	15	cc
+17	disaggregation	disaggregation	NN	_	15	conj
+18	of	of	IN	_	15	prep
+19	long	long	JJ	_	20	amod
+20	rouleau	rouleau	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	identical	identical	JJ	_	24	amod
+23	erythrocyte	erythrocyte	NN	_	24	nn
+24	cells	cell	NNS	_	21	pobj
+25	.	.	.	_	2	punct
+

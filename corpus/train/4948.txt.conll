@@ -1,0 +1,9 @@
+1	Several	several	JJ	_	2	amod
+2	cats	cat	NNS	_	3	nsubj
+3	ran	run	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	Rob	Rob	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	garage	garage	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

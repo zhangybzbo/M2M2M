@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	2	poss
+2	manager	manager	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	desk	desk	NN	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	moved	move	VBN	_	0	ROOT
+8	up	up	RB	_	7	advmod
+9	to	to	TO	_	7	prep
+10	the	the	DT	_	12	det
+11	top	top	JJ	_	12	amod
+12	floor	floor	NN	_	9	pobj
+13	.	.	.	_	7	punct
+

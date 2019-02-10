@@ -1,0 +1,21 @@
+1	It	it	PRP	_	2	nsubj
+2	opens	open	VBZ	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	group	group	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	diplomats	diplomat	NNS	_	6	pobj
+8	having	have	VBG	_	5	vmod
+9	a	a	DT	_	10	det
+10	discussion	discussion	NN	_	8	dobj
+11	around	around	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	rectangular	rectangular	JJ	_	14	amod
+14	table	table	NN	_	11	pobj
+15	covered	cover	VBN	_	14	vmod
+16	with	with	IN	_	15	prep
+17	a	a	DT	_	19	det
+18	green	green	JJ	_	19	amod
+19	cloth	cloth	NN	_	16	pobj
+20	.	.	.	_	2	punct
+

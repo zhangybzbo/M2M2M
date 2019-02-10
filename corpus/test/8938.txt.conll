@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	polonium	polonium	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	tantalum	tantalum	NN	_	8	nn
+8	capsule	capsule	NN	_	5	pobj
+9	which	which	WDT	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	closed	close	VBN	_	8	rcmod
+12	by	by	IN	_	11	prep
+13	beliarc	beliarc	NN	_	17	nn
+14	welding	welding	NN	_	17	nn
+15	remotely	remotely	RB	_	16	advmod
+16	controlled	controlled	JJ	_	17	amod
+17	manipulators	manipulator	NNS	_	12	pobj
+18	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+1	Pilot	pilot	NN	_	3	nn
+2	information	information	NN	_	3	nn
+3	needs	need	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	investigated	investigate	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	web-based	web-based	JJ	_	9	amod
+9	survey	survey	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+1	Both	both	DT	_	2	det
+2	trucks	truck	NNS	_	3	nsubj
+3	run	run	VBP	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	lead-acid	lead-acid	JJ	_	6	amod
+6	batteries	battery	NNS	_	4	pobj
+7	,	,	,	_	6	punct
+8	common	common	JJ	_	6	amod
+9	in	in	IN	_	8	prep
+10	most	most	JJS	_	11	amod
+11	vehicles	vehicle	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

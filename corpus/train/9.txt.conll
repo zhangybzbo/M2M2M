@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	lawsonite	lawsonite	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	platinum	platinum	NN	_	8	nn
+8	crucible	crucible	NN	_	5	pobj
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	counter-weight	counter-weight	NN	_	8	conj
+12	was	be	VBD	_	15	cop
+13	a	a	DT	_	15	det
+14	plastic	plastic	JJ	_	15	amod
+15	crucible	crucible	NN	_	4	ccomp
+16	with	with	IN	_	15	prep
+17	metal	metal	NN	_	18	nn
+18	pieces	piece	NNS	_	16	pobj
+19	.	.	.	_	4	punct
+

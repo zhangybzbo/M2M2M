@@ -1,0 +1,22 @@
+1	In	in	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	poem	poem	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	poet	poet	NN	_	6	nsubj
+6	personifies	personify	VBZ	_	0	ROOT
+7	his	he	PRP$	_	8	poss
+8	city	city	NN	_	6	dobj
+9	during	during	IN	_	6	prep
+10	the	the	DT	_	12	det
+11	last	last	JJ	_	12	amod
+12	years	year	NNS	_	9	pobj
+13	in	in	IN	_	17	prep
+14	which	which	WDT	_	13	pobj
+15	he	he	PRP	_	17	nsubj
+16	was	be	VBD	_	17	cop
+17	able	able	JJ	_	12	rcmod
+18	to	to	TO	_	19	aux
+19	live	live	VB	_	17	xcomp
+20	there	there	RB	_	19	advmod
+21	.	.	.	_	6	punct
+

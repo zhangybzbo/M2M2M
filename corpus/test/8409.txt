@@ -1,0 +1,1 @@
+In this paper , we propose a web-based system for prevention of the confidential information leakage caused by the person who is authorized to access .

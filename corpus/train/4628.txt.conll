@@ -1,0 +1,27 @@
+1	When	when	WRB	_	6	advmod
+2	a	a	DT	_	4	det
+3	metallic	metallic	JJ	_	4	amod
+4	screen	screen	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	placed	place	VBN	_	12	advcl
+7	inside	inside	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	coil	coil	NN	_	7	pobj
+10	,	,	,	_	12	punct
+11	so	so	RB	_	12	advmod
+12	as	as	IN	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	surround	surround	VB	_	12	dep
+15	the	the	DT	_	16	det
+16	needle	needle	NN	_	14	dobj
+17	,	,	,	_	14	punct
+18	the	the	DT	_	19	det
+19	demagnetization	demagnetization	NN	_	25	nsubj
+20	produced	produce	VBN	_	19	vmod
+21	by	by	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	discharge	discharge	NN	_	21	pobj
+24	was	be	VBD	_	25	cop
+25	less	less	RBR	_	14	parataxis
+26	.	.	.	_	12	punct
+

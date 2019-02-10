@@ -1,0 +1,16 @@
+1	Some	some	DT	_	2	det
+2	comments	comment	NNS	_	5	nsubj
+3	from	from	IN	_	2	prep
+4	readers	reader	NNS	_	3	pobj
+5	highlight	highlight	VBP	_	0	ROOT
+6	the	the	DT	_	7	det
+7	frustration	frustration	NN	_	5	dobj
+8	and	and	CC	_	7	cc
+9	inconvenience	inconvenience	NN	_	7	conj
+10	caused	cause	VBN	_	7	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	3-pin	3-pin	JJ	_	14	amod
+14	system	system	NN	_	11	pobj
+15	.	.	.	_	5	punct
+

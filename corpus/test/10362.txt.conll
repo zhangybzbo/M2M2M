@@ -1,0 +1,9 @@
+1	Karzai	Karzai	NNP	_	2	nsubj
+2	brought	bring	VBD	_	0	ROOT
+3	more	more	RBR	_	4	advmod
+4	technocrats	technocrat	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	his	he	PRP$	_	7	poss
+7	government	government	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

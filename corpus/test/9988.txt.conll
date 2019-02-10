@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	forgot	forget	VBD	_	0	ROOT
+3	the	the	DT	_	7	det
+4	9/11	9/11	CD	_	7	num
+5	style	style	NN	_	7	nn
+6	box	box	NN	_	7	nn
+7	cutter	cutter	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	hidden	hide	VBN	_	2	ccomp
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	hollowed	hollow	VBN	_	14	amod
+13	out	out	RP	_	12	prt
+14	book	book	NN	_	10	pobj
+15	.	.	.	_	2	punct
+

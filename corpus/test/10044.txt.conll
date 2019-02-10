@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	workpackage	workpackage	NN	_	3	nsubj
+3	comprise	comprise	VBP	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	following	follow	VBG	_	7	amod
+7	tasks	task	NNS	_	4	pobj
+8	:	:	:	_	3	punct
+9	Task	Task	NNP	_	11	nn
+10	2.1	2.1	CD	_	11	num
+11	Compilation	compilation	NN	_	3	dep
+12	of	of	IN	_	11	prep
+13	long	long	JJ	_	16	amod
+14	term	term	NN	_	16	nn
+15	data	datum	NNS	_	16	nn
+16	sets	set	NNS	_	12	pobj
+17	.	.	.	_	11	punct
+

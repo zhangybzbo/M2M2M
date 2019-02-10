@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	three	three	CD	_	2	dobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	finest	finest	JJS	_	8	amod
+7	Hanoverian	hanoverian	JJ	_	8	amod
+8	stallions	stallion	NNS	_	4	pobj
+9	in	in	IN	_	8	prep
+10	England	England	NNP	_	9	pobj
+11	standing	standing	NN	_	8	amod
+12	at	at	IN	_	11	prep
+13	stud	stud	NN	_	12	pobj
+14	.	.	.	_	2	punct
+

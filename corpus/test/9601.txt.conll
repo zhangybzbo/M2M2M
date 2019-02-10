@@ -1,0 +1,23 @@
+1	A	a	DT	_	3	det
+2	polio	polio	NNP	_	3	nn
+3	outbreak	outbreak	NN	_	7	nsubjpass
+4	in	in	IN	_	3	prep
+5	Nigeria	Nigeria	NNP	_	4	pobj
+6	was	be	VBD	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	vaccine	vaccine	NN	_	8	pobj
+11	designed	design	VBN	_	10	vmod
+12	to	to	TO	_	13	aux
+13	stop	stop	VB	_	11	xcomp
+14	it	it	PRP	_	13	dobj
+15	,	,	,	_	7	punct
+16	leaving	leave	VBG	_	7	xcomp
+17	at	at	IN	_	19	quantmod
+18	least	least	JJS	_	17	mwe
+19	69	69	CD	_	20	num
+20	children	child	NNS	_	21	nsubj
+21	paralyzed	paralyze	VBN	_	16	ccomp
+22	.	.	.	_	7	punct
+

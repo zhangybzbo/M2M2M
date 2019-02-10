@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	directed	direct	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	criticism	criticism	NN	_	2	dobj
+5	at	at	IN	_	4	prep
+6	media	media	NNS	_	7	nn
+7	coverage	coverage	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	Catholic	Catholic	NNP	_	11	nn
+11	Church	Church	NNP	_	8	pobj
+12	.	.	.	_	2	punct
+

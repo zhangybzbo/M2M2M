@@ -1,0 +1,10 @@
+1	Utilizing	utilize	VBG	_	0	ROOT
+2	concrete	concrete	JJ	_	3	amod
+3	plank	plank	NN	_	6	nn
+4	floor/ceiling	floor/ceiling	VBG	_	6	amod
+5	construction	construction	NN	_	6	nn
+6	benefits	benefit	NNS	_	1	dobj
+7	the	the	DT	_	8	det
+8	builder	builder	NN	_	6	dep
+9	.	.	.	_	1	punct
+

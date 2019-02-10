@@ -1,0 +1,21 @@
+1	He	he	PRP	_	3	nsubj
+2	likewise	likewise	RB	_	3	advmod
+3	directed	direct	VBD	_	0	ROOT
+4	Edric	Edric	NNP	_	3	dobj
+5	to	to	TO	_	6	aux
+6	fling	fling	VB	_	3	vmod
+7	out	out	RP	_	6	prt
+8	his	he	PRP$	_	9	poss
+9	nets	net	NNS	_	6	dobj
+10	,	,	,	_	3	punct
+11	who	who	WP	_	13	nsubjpass
+12	was	be	VBD	_	13	auxpass
+13	rewarded	reward	VBN	_	3	ccomp
+14	with	with	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	miraculous	miraculous	JJ	_	17	amod
+17	draught	draught	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	salmons	salmon	NNS	_	18	pobj
+20	.	.	.	_	3	punct
+

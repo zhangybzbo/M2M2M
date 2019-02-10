@@ -1,0 +1,23 @@
+1	CCP	CCP	NNP	_	2	nn
+2	Games	Games	NNPS	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	unrelenting	unrelent	VBG	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	its	its	PRP$	_	7	poss
+7	quest	quest	NN	_	5	pobj
+8	to	to	TO	_	9	aux
+9	maintain	maintain	VB	_	7	vmod
+10	a	a	DT	_	15	det
+11	fresh	fresh	JJ	_	15	amod
+12	and	and	CC	_	11	cc
+13	challenging	challenging	JJ	_	11	conj
+14	gaming	gaming	NN	_	15	nn
+15	experience	experience	NN	_	9	dobj
+16	to	to	TO	_	9	prep
+17	its	its	PRP$	_	19	poss
+18	ever-expanding	ever-expanding	JJ	_	19	amod
+19	universe	universe	NN	_	16	pobj
+20	of	of	IN	_	19	prep
+21	players	player	NNS	_	20	pobj
+22	.	.	.	_	4	punct
+

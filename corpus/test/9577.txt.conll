@@ -1,0 +1,21 @@
+1	Both	both	DT	_	2	preconj
+2	cocaine	cocaine	NN	_	11	nsubj
+3	and	and	CC	_	2	cc
+4	crack	crack	NN	_	6	nn
+5	cocaine	cocaine	NN	_	6	nn
+6	cause	cause	NN	_	9	nn
+7	constricted	constrict	VBN	_	9	amod
+8	blood	blood	NN	_	9	nn
+9	vessels	vessel	NNS	_	2	conj
+10	,	,	,	_	2	punct
+11	increased	increase	VBD	_	0	ROOT
+12	heart	heart	NN	_	13	nn
+13	rate	rate	NN	_	11	dobj
+14	,	,	,	_	13	punct
+15	body	body	NN	_	16	nn
+16	temperature	temperature	NN	_	13	conj
+17	and	and	CC	_	13	cc
+18	blood	blood	NN	_	19	nn
+19	pressure	pressure	NN	_	13	conj
+20	.	.	.	_	11	punct
+

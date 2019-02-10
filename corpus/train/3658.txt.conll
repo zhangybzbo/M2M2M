@@ -1,0 +1,14 @@
+1	However	however	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	legal	legal	JJ	_	4	amod
+4	experts	expert	NNS	_	5	nsubj
+5	expressed	express	VBD	_	0	ROOT
+6	surprise	surprise	NN	_	5	dobj
+7	at	at	IN	_	5	prep
+8	the	the	DT	_	10	det
+9	car	car	NN	_	10	nn
+10	manufacturer	manufacturer	NN	_	12	poss
+11	's	's	POS	_	10	possessive
+12	stance	stance	NN	_	7	pobj
+13	.	.	.	_	5	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	land	land	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	farmed	farm	VBN	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	cattle	cattle	NNS	_	5	pobj
+7	,	,	,	_	4	punct
+8	but	but	CC	_	4	cc
+9	segments	segment	NNS	_	14	nsubjpass
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	forests	forest	NNS	_	10	pobj
+13	were	be	VBD	_	14	auxpass
+14	sold	sell	VBN	_	4	conj
+15	off	off	RB	_	14	advmod
+16	and	and	CC	_	14	cc
+17	the	the	DT	_	18	det
+18	chapel	chapel	NN	_	19	nsubj
+19	fell	fall	VBD	_	14	conj
+20	into	into	IN	_	19	prep
+21	disrepair	disrepair	NN	_	20	pobj
+22	.	.	.	_	4	punct
+

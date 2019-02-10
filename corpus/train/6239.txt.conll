@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	newsletter	newsletter	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	center	center	NN	_	3	pobj
+6	informs	inform	VBZ	_	0	ROOT
+7	about	about	IN	_	6	prep
+8	new	new	JJ	_	9	amod
+9	exhibitions	exhibition	NNS	_	7	pobj
+10	,	,	,	_	9	punct
+11	congresses	congress	NNS	_	9	conj
+12	,	,	,	_	9	punct
+13	seminars	seminar	NNS	_	9	conj
+14	and	and	CC	_	9	cc
+15	conferences	conference	NNS	_	9	conj
+16	.	.	.	_	6	punct
+

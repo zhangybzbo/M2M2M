@@ -1,0 +1,14 @@
+1	Potato	potato	NN	_	2	nn
+2	starch	starch	NN	_	3	nsubj
+3	tolerates	tolerate	VBZ	_	0	ROOT
+4	higher	higher	JJR	_	5	amod
+5	temperatures	temperature	NNS	_	3	dobj
+6	than	than	IN	_	5	prep
+7	cornstarch	cornstarch	NN	_	6	pobj
+8	when	when	WRB	_	9	advmod
+9	used	use	VBN	_	3	advcl
+10	as	as	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	thickener	thickener	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

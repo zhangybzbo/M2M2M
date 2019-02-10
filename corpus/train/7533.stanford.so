@@ -1,0 +1,8 @@
+0	29	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	7	tok id="t1" base="nurse" pos="NN" nsubj="t2"
+8	13	tok id="t2" base="help" pos="VBZ" ROOT="ROOT"
+14	17	tok id="t3" base="the" pos="DT" det="t4"
+18	27	tok id="t4" base="caregiver" pos="NN" dobj="t2"
+28	29	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

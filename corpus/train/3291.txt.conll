@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	result	result	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	an	a	DT	_	6	det
+5	exciting	exciting	JJ	_	6	amod
+6	melee	melee	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	influences	influence	NNS	_	7	pobj
+9	,	,	,	_	6	punct
+10	all	all	DT	_	11	dep
+11	bound	bind	VBN	_	6	vmod
+12	together	together	RB	_	11	advmod
+13	by	by	IN	_	11	prep
+14	the	the	DT	_	16	det
+15	unswerving	unswerving	JJ	_	16	amod
+16	class	class	NN	_	13	pobj
+17	and	and	CC	_	16	cc
+18	charisma	charisma	NN	_	16	conj
+19	of	of	IN	_	16	prep
+20	Kinny	Kinny	NNP	_	22	poss
+21	's	's	POS	_	20	possessive
+22	persona	persona	NN	_	19	pobj
+23	.	.	.	_	6	punct
+

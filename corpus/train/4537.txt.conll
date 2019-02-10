@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	ray	ray	NN	_	3	nsubj
+3	moves	move	VBZ	_	0	ROOT
+4	its	its	PRP$	_	5	poss
+5	fins	fin	NNS	_	3	dobj
+6	in	in	IN	_	3	prep
+7	an	a	DT	_	9	det
+8	S-shaped	s-shaped	JJ	_	9	amod
+9	wave	wave	NN	_	6	pobj
+10	,	,	,	_	3	punct
+11	up	up	RB	_	3	advmod
+12	and	and	CC	_	11	cc
+13	down	down	RB	_	11	conj
+14	,	,	,	_	3	punct
+15	from	from	IN	_	3	prep
+16	the	the	DT	_	17	det
+17	head	head	NN	_	15	pobj
+18	to	to	TO	_	15	prep
+19	the	the	DT	_	20	det
+20	tail	tail	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

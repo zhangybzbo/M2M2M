@@ -1,0 +1,11 @@
+0	67	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t4"
+4	18	tok id="t1" base="archaeological" pos="JJ" amod="t4"
+19	23	tok id="t2" base="site" pos="NN" nn="t4"
+24	30	tok id="t3" base="yield" pos="NNS" nn="t4"
+31	37	tok id="t4" base="relic" pos="NNS" ROOT="ROOT"
+38	42	tok id="t5" base="from" pos="IN" prep="t4"
+43	57	tok id="t6" base="long-forgotten" pos="JJ" amod="t7"
+58	65	tok id="t7" base="culture" pos="NN" pobj="t5"
+66	67	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

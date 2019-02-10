@@ -1,0 +1,12 @@
+1	But	but	CC	_	4	cc
+2	the	the	DT	_	3	det
+3	role	role	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	also	also	RB	_	4	advmod
+6	under	under	IN	_	4	prep
+7	scrutiny	scrutiny	NN	_	6	pobj
+8	in	in	IN	_	4	prep
+9	this	this	DT	_	10	det
+10	affair	affair	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

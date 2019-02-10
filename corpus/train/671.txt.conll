@@ -1,0 +1,16 @@
+1	Infection	infection	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	commonest	commonest	JJS	_	7	amod
+7	causes	cause	NNS	_	4	pobj
+8	of	of	IN	_	7	prep
+9	death	death	NN	_	8	pobj
+10	in	in	IN	_	7	prep
+11	burn	burn	VBP	_	10	pcomp
+12	patients	patient	NNS	_	11	dobj
+13	,	,	,	_	12	punct
+14	particularly	particularly	RB	_	12	advmod
+15	.	.	.	_	3	punct
+

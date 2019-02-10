@@ -1,0 +1,19 @@
+1	A	a	DT	_	9	nsubj
+2	good	good	JJ	_	1	amod
+3	off	off	IN	_	2	prep
+4	road	road	NN	_	5	nn
+5	vehicle	vehicle	NN	_	3	pobj
+6	is	be	VBZ	_	9	cop
+7	the	the	DT	_	9	det
+8	best	best	JJS	_	9	amod
+9	tool	tool	NN	_	0	ROOT
+10	for	for	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	photographer	photographer	NNP	_	10	pobj
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	sense	sense	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	adventure	adventure	NN	_	16	pobj
+18	.	.	.	_	9	punct
+

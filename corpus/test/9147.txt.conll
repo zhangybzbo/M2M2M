@@ -1,0 +1,13 @@
+1	Tonsillitis	Tonsillitis	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	infection	infection	NN	_	4	pobj
+6	by	by	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	variety	variety	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	different	different	JJ	_	11	amod
+11	micro-organisms	micro-organism	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

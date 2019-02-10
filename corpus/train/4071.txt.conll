@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det
+2	lizard	lizard	NN	_	3	nsubj
+3	sticks	stick	VBZ	_	0	ROOT
+4	its	its	PRP$	_	5	poss
+5	tongue	tongue	NN	_	3	dobj
+6	out	out	IN	_	3	prep
+7	of	of	IN	_	6	pcomp
+8	its	its	PRP$	_	9	poss
+9	mouth	mouth	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

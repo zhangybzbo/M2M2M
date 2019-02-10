@@ -1,0 +1,22 @@
+1	Using	use	VBG	_	16	csubj
+2	the	the	DT	_	4	det
+3	analytical	analytical	JJ	_	4	amod
+4	tools	tool	NNS	_	1	dobj
+5	developed	develop	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	MIT	MIT	NNP	_	9	nn
+9	team	team	NN	_	6	pobj
+10	for	for	IN	_	5	prep
+11	this	this	DT	_	12	det
+12	study	study	NN	_	10	pobj
+13	was	be	VBD	_	16	cop
+14	the	the	DT	_	16	det
+15	first	first	JJ	_	16	amod
+16	step	step	NN	_	0	ROOT
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	detailed	detailed	JJ	_	20	amod
+20	analysis	analysis	NN	_	17	pobj
+21	.	.	.	_	16	punct
+

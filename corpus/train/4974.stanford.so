@@ -1,0 +1,10 @@
+0	55	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="recently" pos="RB" ROOT="ROOT"
+9	10	tok id="t1" base="-COMMA-" pos="," punct="t3"
+11	20	tok id="t2" base="marketing" pos="NN" nn="t3"
+21	29	tok id="t3" base="spending" pos="NN" dep="t0"
+30	40	tok id="t4" base="translate" pos="VBN" vmod="t3"
+41	45	tok id="t5" base="into" pos="IN" prep="t4"
+46	53	tok id="t6" base="revenue" pos="NN" pobj="t5"
+54	55	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

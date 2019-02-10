@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	VAPS	VAPS	NNP	_	3	nn
+3	cleaner	cleaner	JJR	_	5	nsubj
+4	completely	completely	RB	_	5	advmod
+5	retains	retain	VBZ	_	0	ROOT
+6	all	all	DT	_	9	det
+7	ingested	ingest	VBN	_	9	amod
+8	dust	dust	NN	_	9	nn
+9	particles	particle	NNS	_	5	dobj
+10	by	by	IN	_	5	prep
+11	using	use	VBG	_	10	pcomp
+12	water	water	NN	_	11	dobj
+13	as	as	IN	_	11	prep
+14	a	a	DT	_	15	det
+15	filter	filter	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

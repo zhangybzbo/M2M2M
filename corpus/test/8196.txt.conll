@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	clustering	clustering	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	22445	22445	CD	_	6	num
+6	clusters	cluster	NNS	_	4	pobj
+7	,	,	,	_	6	punct
+8	which	which	WDT	_	10	nsubjpass
+9	were	be	VBD	_	10	auxpass
+10	composed	compose	VBN	_	6	rcmod
+11	from	from	IN	_	10	prep
+12	two	two	CD	_	14	num
+13	to	to	TO	_	14	dep
+14	thousands	thousand	NNS	_	11	pobj
+15	of	of	IN	_	14	prep
+16	reads	read	VBZ	_	15	pobj
+17	.	.	.	_	3	punct
+

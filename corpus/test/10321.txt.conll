@@ -1,0 +1,9 @@
+1	NASA	NASA	NNP	_	3	nsubj
+2	is	be	VBZ	_	3	aux
+3	sending	send	VBG	_	0	ROOT
+4	astronauts	astronaut	NNS	_	3	dobj
+5	to	to	TO	_	3	prep
+6	an	a	DT	_	7	det
+7	asteroid	asteroid	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	fat	fat	JJ	_	3	nsubj
+3	migrated	migrate	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	enrobing	enrobe	VBG	_	6	amod
+6	chocolate	chocolate	NN	_	4	pobj
+7	.	.	.	_	3	punct
+

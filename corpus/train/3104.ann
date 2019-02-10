@@ -1,0 +1,3 @@
+T1	Term 20 26	system
+T2	Term 83 89	module
+R1	Component-Whole Arg1:T2 Arg2:T1

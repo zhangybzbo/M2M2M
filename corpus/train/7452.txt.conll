@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	kitchen	kitchen	NN	_	3	nn
+3	contents	contents	NNS	_	4	nsubj
+4	include	include	VBP	_	0	ROOT
+5	an	a	DT	_	6	det
+6	ice	ice	NN	_	4	dobj
+7	dispensing	dispense	VBG	_	8	amod
+8	refrigerator	refrigerator	NN	_	6	dep
+9	,	,	,	_	8	punct
+10	ovens	oven	NNS	_	8	appos
+11	,	,	,	_	8	punct
+12	a	a	DT	_	13	det
+13	toaster	toaster	NN	_	8	appos
+14	,	,	,	_	8	punct
+15	and	and	CC	_	8	cc
+16	a	a	DT	_	18	det
+17	coffee	coffee	NN	_	18	nn
+18	maker	maker	NN	_	8	conj
+19	.	.	.	_	4	punct
+

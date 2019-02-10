@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	nose	nose	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	bloodhound	bloodhound	NN	_	3	pobj
+6	is	be	VBZ	_	8	cop
+7	so	so	RB	_	8	advmod
+8	good	good	JJ	_	0	ROOT
+9	that	that	IN	_	16	mark
+10	evidence	evidence	NN	_	16	nsubj
+11	found	find	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	bloodhound	bloodhound	NN	_	12	pobj
+15	will	will	MD	_	16	aux
+16	hold	hold	VB	_	8	ccomp
+17	up	up	RP	_	16	prt
+18	in	in	IN	_	16	prep
+19	matters	matter	NNS	_	18	pobj
+20	involving	involve	VBG	_	19	vmod
+21	the	the	DT	_	25	det
+22	United	United	NNP	_	25	nn
+23	States	States	NNPS	_	25	nn
+24	Supreme	Supreme	NNP	_	25	nn
+25	Court	Court	NNP	_	20	dobj
+26	.	.	.	_	8	punct
+

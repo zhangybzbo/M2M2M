@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	harm	harm	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	invitation	invitation	NN	_	9	nn
+9	system	system	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

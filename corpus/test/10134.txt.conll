@@ -1,0 +1,22 @@
+1	Acne	acne	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	hormonal	hormonal	JJ	_	6	amod
+6	imbalance	imbalance	NN	_	4	pobj
+7	within	within	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	body	body	NN	_	7	pobj
+10	,	,	,	_	3	punct
+11	but	but	CC	_	3	cc
+12	there	there	EX	_	13	expl
+13	are	be	VBP	_	3	conj
+14	many	many	JJ	_	17	amod
+15	other	other	JJ	_	17	amod
+16	contributing	contribute	VBG	_	17	amod
+17	factors	factor	NNS	_	13	nsubj
+18	to	to	TO	_	17	prep
+19	acne	acne	NN	_	20	nn
+20	outbreaks	outbreak	NNS	_	18	pobj
+21	.	.	.	_	3	punct
+

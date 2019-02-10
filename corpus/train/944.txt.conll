@@ -1,0 +1,20 @@
+1	My	my	PRP$	_	2	poss
+2	grandmother	grandmother	NN	_	3	nsubj
+3	came	come	VBD	_	0	ROOT
+4	here	here	RB	_	3	advmod
+5	when	when	WRB	_	10	advmod
+6	she	she	PRP	_	10	nsubj
+7	was	be	VBD	_	10	cop
+8	17	17	CD	_	9	num
+9	years	year	NNS	_	10	npadvmod
+10	old	old	JJ	_	3	advcl
+11	with	with	IN	_	10	prep
+12	nothing	nothing	NN	_	11	pobj
+13	but	but	CC	_	12	cc
+14	a	a	DT	_	15	det
+15	suitcase	suitcase	NN	_	12	conj
+16	full	full	JJ	_	15	amod
+17	of	of	IN	_	16	prep
+18	oranges	orange	NNS	_	17	pobj
+19	.	.	.	_	3	punct
+

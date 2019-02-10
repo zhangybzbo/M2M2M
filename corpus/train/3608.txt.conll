@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	governments	government	NNS	_	3	nsubj
+3	sent	send	VBD	_	0	ROOT
+4	scientists	scientist	NNS	_	3	dobj
+5	to	to	TO	_	3	prep
+6	the	the	DT	_	7	det
+7	desert	desert	NN	_	5	pobj
+8	for	for	IN	_	3	prep
+9	surveying	survey	VBG	_	11	amod
+10	climate	climate	NN	_	11	nn
+11	changes	change	NNS	_	8	pobj
+12	.	.	.	_	3	punct
+

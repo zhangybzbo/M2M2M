@@ -1,0 +1,3 @@
+T1	Term 22 32	parliament
+T2	Term 36 40	owls
+R1	Member-Collection Arg1:T2 Arg2:T1

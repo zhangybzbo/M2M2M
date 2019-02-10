@@ -1,0 +1,3 @@
+T1	Term 63 67	fear
+T2	Term 110 115	power
+R1	Cause-Effect Arg1:T2 Arg2:T1

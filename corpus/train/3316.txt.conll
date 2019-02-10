@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	room	room	NN	_	3	nsubj
+3	includes	include	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	queen	queen	NN	_	6	nn
+6	bed	bed	NN	_	3	dobj
+7	,	,	,	_	6	punct
+8	shower	shower	NN	_	6	conj
+9	and	and	CC	_	6	cc
+10	tub	tub	NN	_	6	conj
+11	and	and	CC	_	6	cc
+12	sitting	sit	VBG	_	13	amod
+13	room	room	NN	_	6	conj
+14	with	with	IN	_	13	prep
+15	sofa	sofa	NN	_	16	nn
+16	bed	bed	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

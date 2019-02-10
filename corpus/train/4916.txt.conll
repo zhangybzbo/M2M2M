@@ -1,0 +1,18 @@
+1	He	he	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	hinted	hint	VBD	_	0	ROOT
+4	that	that	IN	_	8	mark
+5	the	the	DT	_	6	det
+6	team	team	NN	_	8	nsubj
+7	is	be	VBZ	_	8	aux
+8	going	go	VBG	_	3	ccomp
+9	away	away	RB	_	8	advmod
+10	from	from	IN	_	8	prep
+11	the	the	DT	_	13	det
+12	running	run	VBG	_	13	amod
+13	game	game	NN	_	10	pobj
+14	far	far	RB	_	16	advmod
+15	too	too	RB	_	16	advmod
+16	soon	soon	RB	_	8	advmod
+17	.	.	.	_	3	punct
+

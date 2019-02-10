@@ -1,0 +1,8 @@
+0	41	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="room" pos="NN" nsubj="t2"
+9	17	tok id="t2" base="contain" pos="VBZ" ROOT="ROOT"
+18	29	tok id="t3" base="radioactive" pos="JJ" amod="t4"
+30	39	tok id="t4" base="material" pos="NNS" dobj="t2"
+40	41	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

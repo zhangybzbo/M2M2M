@@ -1,0 +1,22 @@
+1	About	about	IN	_	2	quantmod
+2	2000	2000	CD	_	3	num
+3	feet	foot	NNS	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	passageways	passageway	NNS	_	4	pobj
+6	have	have	VBP	_	8	aux
+7	been	be	VBN	_	8	cop
+8	located	located	JJ	_	0	ROOT
+9	inside	inside	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	cave	cave	NN	_	9	pobj
+12	,	,	,	_	8	punct
+13	and	and	CC	_	8	cc
+14	about	about	IN	_	15	quantmod
+15	half	half	NN	_	20	nsubjpass
+16	of	of	IN	_	15	prep
+17	that	that	DT	_	16	pobj
+18	has	have	VBZ	_	20	aux
+19	been	be	VBN	_	20	auxpass
+20	mapped	map	VBN	_	8	conj
+21	.	.	.	_	8	punct
+

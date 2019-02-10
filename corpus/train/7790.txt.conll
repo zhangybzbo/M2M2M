@@ -1,0 +1,23 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	request	request	NN	_	4	nsubj
+4	comes	come	VBZ	_	11	advcl
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	private	private	JJ	_	8	amod
+8	company	company	NN	_	5	pobj
+9	,	,	,	_	11	punct
+10	there	there	EX	_	11	expl
+11	's	be	VBZ	_	0	ROOT
+12	no	no	DT	_	13	neg
+13	law	law	NN	_	11	nsubj
+14	that	that	WDT	_	15	nsubj
+15	requires	require	VBZ	_	13	rcmod
+16	them	they	PRP	_	15	dobj
+17	to	to	TO	_	18	aux
+18	provide	provide	VB	_	15	xcomp
+19	a	a	DT	_	21	det
+20	disclosure	disclosure	NN	_	21	nn
+21	notice	notice	NN	_	18	dobj
+22	.	.	.	_	11	punct
+

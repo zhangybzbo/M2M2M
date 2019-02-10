@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	major	major	JJ	_	3	amod
+3	product	product	NN	_	4	nsubj
+4	arose	arise	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	7	det
+7	attack	attack	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	aromatic	aromatic	JJ	_	10	amod
+10	compound	compound	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

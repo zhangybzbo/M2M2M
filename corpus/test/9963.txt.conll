@@ -1,0 +1,14 @@
+1	Carbon	Carbon	NNP	_	2	nn
+2	nanotubes	nanotube	NNS	_	3	nsubj
+3	introduced	introduce	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	abdominal	abdominal	JJ	_	7	amod
+7	cavity	cavity	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	mice	mouse	NNS	_	8	pobj
+10	show	show	VBP	_	3	dep
+11	asbestos-like	asbestos-like	JJ	_	12	amod
+12	pathogenicity	pathogenicity	NN	_	10	dobj
+13	.	.	.	_	3	punct
+

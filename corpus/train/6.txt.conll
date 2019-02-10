@@ -1,0 +1,15 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	the	the	DT	_	5	det
+4	sprawling	sprawling	JJ	_	5	amod
+5	complex	complex	NN	_	0	ROOT
+6	that	that	WDT	_	11	nsubj
+7	is	be	VBZ	_	11	cop
+8	Peru	Peru	NNP	_	11	poss
+9	's	's	POS	_	8	possessive
+10	largest	largest	JJS	_	11	amod
+11	producer	producer	NN	_	5	rcmod
+12	of	of	IN	_	11	prep
+13	silver	silver	NN	_	12	pobj
+14	.	.	.	_	5	punct
+

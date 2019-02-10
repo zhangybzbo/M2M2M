@@ -1,0 +1,9 @@
+1	Gas	gas	NN	_	2	nn
+2	drilling	drilling	NN	_	3	nsubj
+3	threatens	threaten	VBZ	_	0	ROOT
+4	public	public	JJ	_	3	dobj
+5	with	with	IN	_	4	prep
+6	undisclosed	undisclosed	JJ	_	7	amod
+7	chemicals	chemical	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

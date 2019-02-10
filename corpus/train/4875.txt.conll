@@ -1,0 +1,22 @@
+1	A	a	DT	_	2	det
+2	family	family	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	evacuated	evacuate	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	their	they	PRP$	_	7	poss
+7	home	home	NN	_	5	pobj
+8	near	near	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	north	north	NN	_	12	nn
+11	Canterbury	Canterbury	NNP	_	12	nn
+12	township	township	NN	_	8	pobj
+13	of	of	IN	_	12	prep
+14	Waiau	Waiau	NNP	_	13	pobj
+15	when	when	WRB	_	19	advmod
+16	the	the	DT	_	18	det
+17	Waiau	Waiau	NNP	_	18	nn
+18	River	River	NNP	_	19	nsubj
+19	flooded	flood	VBD	_	4	advcl
+20	overnight	overnight	JJ	_	19	dobj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	restaurant	restaurant	NN	_	3	nsubj
+3	creates	create	VBZ	_	0	ROOT
+4	dishes	dish	NNS	_	3	dobj
+5	using	use	VBG	_	4	vmod
+6	farm	farm	NN	_	8	nn
+7	fresh	fresh	JJ	_	8	amod
+8	products	product	NNS	_	5	dobj
+9	and	and	CC	_	8	cc
+10	organic	organic	JJ	_	11	amod
+11	products	product	NNS	_	8	conj
+12	found	find	VBN	_	8	vmod
+13	from	from	IN	_	12	prep
+14	local	local	JJ	_	15	amod
+15	farms	farm	NNS	_	13	pobj
+16	like	like	IN	_	15	prep
+17	Meadow	Meadow	NNP	_	18	nn
+18	Mountains	Mountains	NNPS	_	16	pobj
+19	and	and	CC	_	18	cc
+20	Haystack	Haystack	NNP	_	18	conj
+21	.	.	.	_	3	punct
+

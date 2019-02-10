@@ -1,0 +1,16 @@
+1	A	a	DT	_	2	det
+2	snake	snake	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	tongue	tongue	NN	_	5	nsubj
+5	looks	look	VBZ	_	0	ROOT
+6	like	like	IN	_	5	prep
+7	a	a	DT	_	14	det
+8	long	long	RB	_	14	advmod
+9	,	,	,	_	14	punct
+10	sharp	sharp	JJ	_	14	amod
+11	,	,	,	_	14	punct
+12	slender	slender	JJ	_	14	amod
+13	forked	fork	VBN	_	14	amod
+14	finger	finger	NN	_	6	pobj
+15	.	.	.	_	5	punct
+

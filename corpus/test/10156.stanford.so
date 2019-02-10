@@ -1,0 +1,10 @@
+0	43	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	16	tok id="t1" base="inflammation" pos="NN" nsubj="t2"
+17	23	tok id="t2" base="cause" pos="VBZ" ROOT="ROOT"
+24	28	tok id="t3" base="pain" pos="NN" dobj="t2"
+29	31	tok id="t4" base="in" pos="IN" prep="t2"
+32	35	tok id="t5" base="the" pos="DT" det="t6"
+36	41	tok id="t6" base="joint" pos="NN" pobj="t4"
+42	43	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

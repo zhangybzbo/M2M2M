@@ -1,0 +1,1 @@
+By contrast , the robot lets the operator just queue raw stock and walk away , returning later to pick up completed parts in the unload queue .

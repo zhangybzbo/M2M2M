@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	supreme	supreme	JJ	_	3	amod
+3	court	court	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	applied	apply	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	protections	protection	NNS	_	5	dobj
+8	of	of	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	amendment	amendment	NN	_	8	pobj
+11	to	to	TO	_	5	prep
+12	the	the	DT	_	13	det
+13	states	state	NNS	_	11	pobj
+14	through	through	IN	_	5	prep
+15	the	the	DT	_	14	pobj
+16	Due	due	JJ	_	15	amod
+17	Process	process	VB	_	16	dep
+18	Clause	clause	NN	_	17	dobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	Fourteenth	fourteenth	JJ	_	22	amod
+22	Amendment	amendment	NN	_	19	pobj
+23	.	.	.	_	5	punct
+

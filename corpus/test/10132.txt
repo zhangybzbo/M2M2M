@@ -1,0 +1,1 @@
+This SNES controller has a flash drive loaded with ROMs inside .

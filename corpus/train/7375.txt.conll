@@ -1,0 +1,18 @@
+1	Seller	seller	NN	_	2	nsubj
+2	adds	add	VBZ	_	0	ROOT
+3	taxes	tax	NNS	_	2	dobj
+4	as	as	IN	_	2	prep
+5	a	a	DT	_	8	det
+6	separate	separate	JJ	_	8	amod
+7	line	line	NN	_	8	nn
+8	item	item	NN	_	4	pobj
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	seller	seller	NN	_	13	poss
+12	's	's	POS	_	11	possessive
+13	invoice	invoice	NN	_	9	pobj
+14	,	,	,	_	8	punct
+15	when	when	WRB	_	16	advmod
+16	applicable	applicable	JJ	_	8	rcmod
+17	.	.	.	_	2	punct
+

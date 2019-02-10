@@ -1,0 +1,10 @@
+1	New	New	NNP	_	3	nn
+2	skate	skate	NNP	_	3	nn
+3	shoes	shoe	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	arrived	arrive	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	store	store	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

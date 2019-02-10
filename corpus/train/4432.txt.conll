@@ -1,0 +1,22 @@
+1	A	a	DT	_	6	det
+2	second	second	JJ	_	6	amod
+3	significant	significant	JJ	_	6	amod
+4	recent	recent	JJ	_	6	amod
+5	institutional	institutional	JJ	_	6	amod
+6	development	development	NN	_	10	nsubj
+7	has	have	VBZ	_	10	aux
+8	been	be	VBN	_	10	cop
+9	the	the	DT	_	10	det
+10	establishment	establishment	NN	_	0	ROOT
+11	of	of	IN	_	10	prep
+12	an	a	DT	_	14	det
+13	EU	EU	NNP	_	14	nn
+14	network	network	NN	_	11	pobj
+15	of	of	IN	_	14	prep
+16	independent	independent	JJ	_	17	amod
+17	experts	expert	NNS	_	15	pobj
+18	on	on	IN	_	10	prep
+19	fundamental	fundamental	JJ	_	20	amod
+20	rights	rights	NNS	_	18	pobj
+21	.	.	.	_	10	punct
+

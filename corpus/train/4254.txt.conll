@@ -1,0 +1,14 @@
+1	Environmentalists	environmentalist	NNS	_	9	nsubj
+2	,	,	,	_	1	punct
+3	utilities	utility	NNS	_	1	conj
+4	,	,	,	_	1	punct
+5	and	and	CC	_	1	cc
+6	green	green	JJ	_	7	amod
+7	businesses	business	NNS	_	1	conj
+8	are	be	VBP	_	9	aux
+9	turning	turn	VBG	_	0	ROOT
+10	to	to	TO	_	9	prep
+11	behavioral	behavioral	JJ	_	12	amod
+12	economics	economics	NNS	_	10	pobj
+13	.	.	.	_	9	punct
+

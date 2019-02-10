@@ -1,0 +1,16 @@
+1	Described	describe	VBN	_	5	nsubj
+2	herein	herein	RB	_	1	advmod
+3	are	be	VBP	_	5	cop
+4	improved	improve	VBN	_	5	amod
+5	apparatus	apparatus	NN	_	0	ROOT
+6	and	and	CC	_	5	cc
+7	method	method	NN	_	5	conj
+8	for	for	IN	_	7	prep
+9	tissue	tissue	NN	_	10	nn
+10	treatment	treatment	NN	_	8	pobj
+11	with	with	IN	_	10	prep
+12	high	high	JJ	_	14	amod
+13	intensity-focused	intensity-focused	JJ	_	14	amod
+14	ultrasound	ultrasound	NN	_	11	pobj
+15	.	.	.	_	5	punct
+

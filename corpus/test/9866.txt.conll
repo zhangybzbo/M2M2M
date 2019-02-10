@@ -1,0 +1,19 @@
+1	General	General	NNP	_	2	nn
+2	Lee	Lee	NNP	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	hourly	hourly	JJ	_	0	ROOT
+5	expected	expect	VBN	_	4	prep
+6	,	,	,	_	5	punct
+7	as	as	IN	_	5	prep
+8	if	if	IN	_	7	pcomp
+9	from	from	IN	_	8	prep
+10	heaven	heaven	NN	_	9	pobj
+11	,	,	,	_	12	punct
+12	with	with	IN	_	9	dep
+13	a	a	DT	_	14	det
+14	legion	legion	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	flaming	flaming	JJ	_	17	amod
+17	swordsmen	swordsman	NNS	_	15	pobj
+18	.	.	.	_	12	punct
+

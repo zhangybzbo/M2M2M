@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	programme	programme	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	events	event	NNS	_	3	pobj
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	organised	organise	VBN	_	0	ROOT
+8	around	around	IN	_	7	prep
+9	five	five	CD	_	11	num
+10	main	main	JJ	_	11	amod
+11	themes	theme	NNS	_	8	pobj
+12	.	.	.	_	7	punct
+

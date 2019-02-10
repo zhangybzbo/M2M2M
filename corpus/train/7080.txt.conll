@@ -1,0 +1,15 @@
+1	Without	without	IN	_	6	prep
+2	doubt	doubt	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	this	this	DT	_	6	nsubj
+5	is	be	VBZ	_	6	cop
+6	one	one	CD	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	best	best	JJS	_	10	amod
+10	books	book	NNS	_	7	pobj
+11	for	for	IN	_	10	prep
+12	artists	artist	NNS	_	13	nsubj
+13	available	available	JJ	_	11	pcomp
+14	.	.	.	_	6	punct
+

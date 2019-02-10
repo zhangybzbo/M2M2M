@@ -1,0 +1,20 @@
+1	Scientific	Scientific	NNP	_	2	nn
+2	progress	progress	NN	_	3	nsubj
+3	comes	come	VBZ	_	13	csubj
+4	from	from	IN	_	3	prep
+5	breakthroughs	breakthrough	NNS	_	4	pobj
+6	and	and	CC	_	5	cc
+7	breakthroughs	breakthrough	NNS	_	5	conj
+8	by	by	IN	_	3	prep
+9	their	they	PRP$	_	11	poss
+10	very	very	JJ	_	11	amod
+11	nature	nature	NN	_	8	pobj
+12	are	be	VBP	_	13	cop
+13	unpredictable	unpredictable	JJ	_	0	ROOT
+14	and	and	CC	_	13	cc
+15	surprising	surprising	JJ	_	13	conj
+16	in	in	IN	_	15	prep
+17	their	they	PRP$	_	18	poss
+18	impact	impact	NN	_	16	pobj
+19	.	.	.	_	13	punct
+

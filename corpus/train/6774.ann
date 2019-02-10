@@ -1,0 +1,3 @@
+T1	Term 4 11	colitis
+T2	Term 40 51	antibiotics
+R1	Cause-Effect Arg1:T2 Arg2:T1

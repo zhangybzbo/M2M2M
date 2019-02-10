@@ -1,0 +1,3 @@
+T1	Term 15 21	chimps
+T2	Term 43 48	tools
+R1	Product-Producer Arg1:T2 Arg2:T1

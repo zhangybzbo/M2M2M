@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	dust	dust	NN	_	14	nsubj
+3	,	,	,	_	2	punct
+4	noise	noise	NN	_	2	conj
+5	,	,	,	_	2	punct
+6	and	and	CC	_	2	cc
+7	sleep	sleep	VB	_	2	conj
+8	deprivation	deprivation	NN	_	7	dobj
+9	produced	produce	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	construction	construction	NN	_	10	pobj
+13	are	be	VBP	_	14	cop
+14	intolerable	intolerable	JJ	_	0	ROOT
+15	.	.	.	_	14	punct
+

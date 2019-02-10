@@ -1,0 +1,15 @@
+1	Hunt	Hunt	NNP	_	2	nn
+2	clubs	club	NNS	_	4	nsubj
+3	often	often	RB	_	4	advmod
+4	maintain	maintain	VBP	_	0	ROOT
+5	a	a	DT	_	6	det
+6	cry	cry	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	hounds	hound	NNS	_	7	pobj
+9	,	,	,	_	4	punct
+10	trained	train	VBN	_	4	vmod
+11	to	to	TO	_	10	prep
+12	hunt	hunt	NN	_	13	nn
+13	foxes	fox	NNS	_	11	pobj
+14	.	.	.	_	4	punct
+

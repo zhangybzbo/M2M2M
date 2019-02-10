@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	bottom	bottom	JJ	_	3	amod
+3	tier	tier	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	two	two	CD	_	9	num
+8	bath	bath	NN	_	9	nn
+9	towels	towel	NNS	_	6	pobj
+10	,	,	,	_	13	punct
+11	the	the	DT	_	13	det
+12	third	third	JJ	_	13	amod
+13	tier	tier	NN	_	5	dep
+14	with	with	IN	_	13	prep
+15	one	one	CD	_	17	num
+16	bath	bath	NN	_	17	nn
+17	towel	towel	NN	_	14	pobj
+18	,	,	,	_	13	punct
+19	the	the	DT	_	21	det
+20	second	second	JJ	_	21	amod
+21	tier	tier	NN	_	13	appos
+22	with	with	IN	_	21	prep
+23	two	two	CD	_	25	num
+24	hand	hand	NN	_	25	nn
+25	towels	towel	NNS	_	22	pobj
+26	.	.	.	_	13	punct
+

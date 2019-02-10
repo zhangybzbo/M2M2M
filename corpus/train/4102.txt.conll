@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	det
+2	page	page	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	based	base	VBN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	well	well	RB	_	8	advmod
+8	working	work	VBG	_	9	amod
+9	recipe	recipe	NN	_	5	pobj
+10	from	from	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	pizza	pizza	NN	_	14	nn
+13	dough	dough	JJ	_	14	amod
+14	page	page	NN	_	10	pobj
+15	.	.	.	_	4	punct
+

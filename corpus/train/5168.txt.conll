@@ -1,0 +1,14 @@
+1	Jumbo	jumbo	JJ	_	2	amod
+2	squids	squid	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	migrating	migrate	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	new	new	JJ	_	7	amod
+7	waters	water	NNS	_	5	pobj
+8	,	,	,	_	4	punct
+9	and	and	CC	_	4	cc
+10	scientists	scientist	NNS	_	11	nsubj
+11	wonder	wonder	VBP	_	4	conj
+12	why	why	WRB	_	11	dep
+13	.	.	.	_	4	punct
+

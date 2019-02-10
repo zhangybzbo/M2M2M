@@ -1,0 +1,16 @@
+1	Some	some	DT	_	2	det
+2	content	content	NN	_	6	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	encyclopedia	encyclopedia	NN	_	3	pobj
+6	became	become	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	part	part	NN	_	6	xcomp
+9	of	of	IN	_	8	prep
+10	Microsoft	Microsoft	NNP	_	14	poss
+11	's	's	POS	_	10	possessive
+12	Encarta	Encarta	NNP	_	14	nn
+13	digital	digital	JJ	_	14	amod
+14	encyclopedia	encyclopedia	NN	_	9	pobj
+15	.	.	.	_	6	punct
+

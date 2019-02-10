@@ -1,0 +1,18 @@
+1	In	in	IN	_	8	prep
+2	March	March	NNP	_	1	pobj
+3	1997	1997	CD	_	2	num
+4	a	a	DT	_	6	det
+5	scientific	scientific	JJ	_	6	amod
+6	conference	conference	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	held	hold	VBN	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	topic	topic	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	prevention	prevention	NN	_	12	pobj
+14	and	and	CC	_	13	cc
+15	health	health	NN	_	16	nn
+16	promotion	promotion	NN	_	13	conj
+17	.	.	.	_	8	punct
+

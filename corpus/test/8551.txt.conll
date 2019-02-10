@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj
+2	learned	learn	VBD	_	0	ROOT
+3	so	so	RB	_	4	advmod
+4	much	much	JJ	_	2	dobj
+5	about	about	IN	_	4	prep
+6	lighting	lighting	NN	_	5	pobj
+7	and	and	CC	_	2	cc
+8	rendering	render	VBG	_	2	conj
+9	from	from	IN	_	8	prep
+10	these	these	DT	_	11	det
+11	works	work	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	art	art	NN	_	12	pobj
+14	.	.	.	_	2	punct
+

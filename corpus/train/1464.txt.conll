@@ -1,0 +1,20 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	story	story	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	amateur	amateur	JJ	_	9	amod
+8	bird	bird	NN	_	9	nn
+9	watcher	watcher	NN	_	5	pobj
+10	who	who	WP	_	11	nsubj
+11	learns	learn	VBZ	_	9	rcmod
+12	more	more	JJR	_	11	dobj
+13	about	about	IN	_	12	prep
+14	ospreys	osprey	NNS	_	13	pobj
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	extant	extant	JJ	_	18	amod
+18	literature	literature	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

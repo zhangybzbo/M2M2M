@@ -1,0 +1,23 @@
+1	Digital	Digital	NNP	_	2	nn
+2	computers	computer	NNS	_	4	nsubj
+3	actually	actually	RB	_	4	advmod
+4	execute	execute	VBP	_	0	ROOT
+5	numerical	numerical	JJ	_	6	amod
+6	instructions	instruction	NNS	_	4	dobj
+7	:	:	:	_	4	punct
+8	bitstrings	bitstring	NNS	_	4	dep
+9	that	that	WDT	_	10	nsubj
+10	contain	contain	VBP	_	8	rcmod
+11	information	information	NN	_	10	dobj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	native	native	JJ	_	15	amod
+15	language	language	NN	_	12	pobj
+16	created	create	VBN	_	15	vmod
+17	by	by	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	machine	machine	NN	_	21	poss
+20	's	's	POS	_	19	possessive
+21	designers	designer	NNS	_	17	pobj
+22	.	.	.	_	4	punct
+

@@ -1,0 +1,9 @@
+1	We	we	PRP	_	2	nsubj
+2	got	get	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	ball	ball	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	catnip	catnip	NN	_	5	pobj
+7	inside	inside	IN	_	2	advmod
+8	.	.	.	_	2	punct
+

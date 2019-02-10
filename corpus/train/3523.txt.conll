@@ -1,0 +1,15 @@
+1	Music	Music	NNP	_	2	nn
+2	Label	label	NN	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	very	very	RB	_	6	advmod
+6	mature	mature	JJ	_	7	amod
+7	product	product	NN	_	0	ROOT
+8	that	that	WDT	_	9	nsubj
+9	uses	use	VBZ	_	7	rcmod
+10	a	a	DT	_	13	det
+11	powerful	powerful	JJ	_	13	amod
+12	database	database	NN	_	13	nn
+13	engine	engine	NN	_	9	dobj
+14	.	.	.	_	7	punct
+

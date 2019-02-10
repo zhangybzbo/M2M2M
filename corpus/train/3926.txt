@@ -1,0 +1,1 @@
+A router manipulates a packet 's header information to influence the packet 's direction .

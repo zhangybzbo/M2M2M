@@ -1,0 +1,3 @@
+T1	Term 10 14	song
+T2	Term 46 50	team
+R1	Product-Producer Arg1:T1 Arg2:T2

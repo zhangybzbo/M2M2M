@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	town	town	NN	_	3	nsubj
+3	poured	pour	VBD	_	0	ROOT
+4	money	money	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	schools	school	NNS	_	5	pobj
+7	,	,	,	_	6	punct
+8	streetscapes	streetscape	NNS	_	6	conj
+9	and	and	CC	_	6	cc
+10	new	new	JJ	_	11	amod
+11	buildings	building	NNS	_	6	conj
+12	for	for	IN	_	3	prep
+13	city	city	NN	_	14	nn
+14	services	service	NNS	_	12	pobj
+15	.	.	.	_	3	punct
+

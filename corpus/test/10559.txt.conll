@@ -1,0 +1,12 @@
+1	I	I	PRP	_	3	nsubj
+2	already	already	RB	_	3	advmod
+3	posted	post	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	product	product	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	your	you	PRP$	_	8	poss
+8	house	house	NN	_	6	pobj
+9	last	last	JJ	_	10	amod
+10	Friday	Friday	NNP	_	3	tmod
+11	.	.	.	_	3	punct
+

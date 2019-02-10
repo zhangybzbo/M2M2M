@@ -1,0 +1,24 @@
+1	Lenin	Lenin	NNP	_	10	nsubj
+2	and	and	CC	_	1	cc
+3	the	the	DT	_	5	det
+4	other	other	JJ	_	5	amod
+5	leaders	leader	NNS	_	1	conj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Soviet	Soviet	NNP	_	9	nn
+9	Union	Union	NNP	_	6	pobj
+10	set	set	VBD	_	0	ROOT
+11	about	about	IN	_	10	prep
+12	repairing	repair	VBG	_	11	pcomp
+13	the	the	DT	_	14	det
+14	damage	damage	NN	_	12	dobj
+15	caused	cause	VBN	_	14	vmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	revolution	revolution	NN	_	16	pobj
+19	and	and	CC	_	18	cc
+20	the	the	DT	_	22	det
+21	civil	civil	JJ	_	22	amod
+22	war	war	NN	_	18	conj
+23	.	.	.	_	10	punct
+

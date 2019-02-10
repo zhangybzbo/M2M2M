@@ -1,0 +1,17 @@
+1	Thomas	Thomas	NNP	_	3	nsubj
+2	once	once	RB	_	3	advmod
+3	found	find	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	clew	clew	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	slow	slow	JJ	_	8	amod
+8	worms	worm	NNS	_	6	pobj
+9	-LRB-	-lrb-	-LRB-	_	10	punct
+10	about	about	IN	_	5	prep
+11	8	8	CD	_	10	pobj
+12	-RRB-	-rrb-	-RRB-	_	10	punct
+13	under	under	IN	_	3	prep
+14	a	a	DT	_	15	det
+15	stone	stone	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

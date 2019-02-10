@@ -1,0 +1,15 @@
+1	Unit	unit	NN	_	3	nn
+2	direct	direct	JJ	_	3	amod
+3	injection	injection	NN	_	5	nsubj
+4	also	also	RB	_	5	advmod
+5	injects	inject	VBZ	_	0	ROOT
+6	fuel	fuel	NN	_	5	dobj
+7	directly	directly	RB	_	5	advmod
+8	into	into	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	cylinder	cylinder	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	engine	engine	NN	_	11	pobj
+14	.	.	.	_	5	punct
+

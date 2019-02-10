@@ -1,0 +1,16 @@
+1	American	american	JJ	_	4	amod
+2	skiier	skiier	NN	_	4	nn
+3	Lindsey	Lindsey	NNP	_	4	nn
+4	Vonn	Vonn	NNP	_	5	nsubj
+5	denied	deny	VBD	_	0	ROOT
+6	downhill	downhill	RB	_	7	advmod
+7	treble	treble	JJ	_	5	dobj
+8	as	as	IN	_	10	mark
+9	fog	fog	NN	_	10	nsubj
+10	caused	cause	VBD	_	5	advcl
+11	cancellation	cancellation	NN	_	10	dobj
+12	in	in	IN	_	11	prep
+13	Val	val	NN	_	14	nn
+14	d'Isere	d'Isere	NNP	_	12	pobj
+15	.	.	.	_	5	punct
+

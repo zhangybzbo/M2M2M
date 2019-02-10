@@ -1,0 +1,15 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	suitcase	suitcase	NN	_	2	nsubj
+5	full	full	JJ	_	4	amod
+6	of	of	IN	_	5	prep
+7	money	money	NN	_	6	pobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	12	nsubjpass
+10	is	be	VBZ	_	12	aux
+11	being	be	VBG	_	12	auxpass
+12	auctioned	auction	VBN	_	7	rcmod
+13	off	off	RP	_	12	prt
+14	.	.	.	_	2	punct
+

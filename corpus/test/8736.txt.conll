@@ -1,0 +1,11 @@
+1	Lesions	lesion	NNS	_	6	nsubj
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	internal	internal	JJ	_	5	amod
+5	capsule	capsule	NN	_	2	pobj
+6	caused	cause	VBD	_	0	ROOT
+7	proportional	proportional	JJ	_	9	amod
+8	leg	leg	NN	_	9	nn
+9	weakness	weakness	NN	_	6	dobj
+10	.	.	.	_	6	punct
+

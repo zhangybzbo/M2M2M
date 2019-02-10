@@ -1,0 +1,24 @@
+1	Control	control	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	process	process	NN	_	0	ROOT
+5	that	that	WDT	_	6	nsubj
+6	employs	employ	VBZ	_	4	rcmod
+7	a	a	DT	_	8	det
+8	set	set	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	procedures	procedure	NNS	_	9	pobj
+11	to	to	TO	_	12	aux
+12	ensure	ensure	VB	_	6	vmod
+13	that	that	IN	_	18	mark
+14	defined	define	VBN	_	16	amod
+15	quality	quality	NN	_	16	nn
+16	standards	standard	NNS	_	18	nsubjpass
+17	are	be	VBP	_	18	auxpass
+18	met	meet	VBN	_	12	ccomp
+19	on	on	IN	_	18	prep
+20	a	a	DT	_	22	det
+21	consistent	consistent	JJ	_	22	amod
+22	basis	basis	NN	_	19	pobj
+23	.	.	.	_	4	punct
+

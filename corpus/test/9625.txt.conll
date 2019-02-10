@@ -1,0 +1,27 @@
+1	We	we	PRP	_	2	nsubj
+2	examined	examine	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	electrical	electrical	JJ	_	5	amod
+5	resistance	resistance	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	paw	paw	NN	_	9	nn
+9	pads	pad	NNS	_	6	pobj
+10	of	of	IN	_	9	prep
+11	mice	mouse	NNS	_	10	pobj
+12	under	under	IN	_	5	prep
+13	the	the	DT	_	15	det
+14	same	same	JJ	_	15	amod
+15	conditions	condition	NNS	_	12	pobj
+16	as	as	IN	_	17	mark
+17	used	use	VBN	_	15	vmod
+18	previously	previously	RB	_	17	advmod
+19	in	in	IN	_	17	prep
+20	studies	study	NNS	_	19	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	25	det
+23	passive	passive	NN	_	25	nn
+24	avoidance	avoidance	NN	_	25	nn
+25	response	response	NN	_	21	pobj
+26	.	.	.	_	2	punct
+

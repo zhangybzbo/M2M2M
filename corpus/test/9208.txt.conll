@@ -1,0 +1,16 @@
+1	Death	death	NN	_	9	nsubj
+2	in	in	IN	_	1	prep
+3	a	a	DT	_	4	det
+4	vat	vat	NN	_	2	pobj
+5	of	of	IN	_	4	prep
+6	chocolate	chocolate	NN	_	5	pobj
+7	was	be	VBD	_	9	aux
+8	just	just	RB	_	9	advmod
+9	waiting	wait	VBG	_	0	ROOT
+10	for	for	IN	_	9	prep
+11	some	some	DT	_	14	det
+12	witty	witty	JJ	_	14	amod
+13	hilarious	hilarious	JJ	_	14	amod
+14	jokes	joke	NNS	_	10	pobj
+15	.	.	.	_	9	punct
+

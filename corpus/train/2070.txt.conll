@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	Free	Free	NNP	_	3	nn
+3	States	States	NNPS	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	Alaska	Alaska	NNP	_	4	pobj
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	loose	loose	JJ	_	9	amod
+9	confederation	confederation	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	various	various	JJ	_	12	amod
+12	species	species	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	bears	bear	NNS	_	13	pobj
+15	in	in	IN	_	9	prep
+16	the	the	DT	_	19	det
+17	far	far	JJ	_	19	amod
+18	northern	northern	JJ	_	19	amod
+19	lands	land	NNS	_	15	pobj
+20	and	and	CC	_	19	cc
+21	outlands	outland	NNS	_	19	conj
+22	of	of	IN	_	21	prep
+23	Megatexas	Megatexas	NNPS	_	22	pobj
+24	.	.	.	_	9	punct
+

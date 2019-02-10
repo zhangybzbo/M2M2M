@@ -1,0 +1,27 @@
+1	Dry	Dry	NNP	_	2	nn
+2	air	air	NN	_	0	ROOT
+3	,	,	,	_	2	punct
+4	dust	dust	NN	_	2	conj
+5	and	and	CC	_	2	cc
+6	wind	wind	NN	_	2	conj
+7	dry	dry	JJ	_	6	amod
+8	out	out	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	nose	nose	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	throat	throat	NN	_	10	conj
+13	and	and	CC	_	2	cc
+14	cause	cause	VB	_	2	conj
+15	nosebleeds	nosebleed	NNS	_	14	dobj
+16	,	,	,	_	17	punct
+17	coughing	cough	VBG	_	2	dep
+18	,	,	,	_	17	punct
+19	wheezing	wheeze	VBG	_	17	conj
+20	,	,	,	_	17	punct
+21	and	and	CC	_	17	cc
+22	other	other	JJ	_	25	amod
+23	short-term	short-term	JJ	_	25	amod
+24	respiratory	respiratory	JJ	_	25	amod
+25	problems	problem	NNS	_	17	conj
+26	.	.	.	_	2	punct
+

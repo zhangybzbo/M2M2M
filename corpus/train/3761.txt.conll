@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	nsubj
+2	established	establish	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	reputation	reputation	NN	_	2	dobj
+5	as	as	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	road	road	NN	_	8	nn
+8	builder	builder	NN	_	5	pobj
+9	as	as	IN	_	13	mark
+10	other	other	JJ	_	11	amod
+11	engineers	engineer	NNS	_	13	nsubj
+12	had	have	VBD	_	13	aux
+13	believed	believe	VBN	_	8	advcl
+14	it	it	PRP	_	18	nsubjpass
+15	could	could	MD	_	18	aux
+16	not	not	RB	_	18	neg
+17	be	be	VB	_	18	auxpass
+18	done	do	VBN	_	13	ccomp
+19	.	.	.	_	2	punct
+

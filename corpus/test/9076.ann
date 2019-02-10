@@ -1,0 +1,3 @@
+T1	Term 0 8	Nitrogen
+T2	Term 32 37	lakes
+R1	Entity-Destination Arg1:T1 Arg2:T2

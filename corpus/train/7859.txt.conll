@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	revolution	revolution	NN	_	3	nsubj
+3	brought	bring	VBD	_	0	ROOT
+4	forth	forth	RB	_	6	advmod
+5	impassioned	impassioned	JJ	_	6	amod
+6	pleas	plea	NNS	_	3	dobj
+7	condemning	condemn	VBG	_	6	vmod
+8	the	the	DT	_	10	det
+9	common	common	JJ	_	10	amod
+10	law	law	NN	_	7	dobj
+11	for	for	IN	_	7	prep
+12	not	not	RB	_	13	neg
+13	respecting	respect	VBG	_	11	pcomp
+14	the	the	DT	_	15	det
+15	interests	interest	NNS	_	13	dobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	people	people	NNS	_	16	pobj
+19	and	and	CC	_	13	cc
+20	calling	call	VBG	_	13	conj
+21	for	for	IN	_	20	prep
+22	law	law	NN	_	23	nn
+23	reform	reform	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

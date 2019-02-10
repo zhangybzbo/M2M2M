@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	institution	institution	NN	_	3	nsubj
+3	provides	provide	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	deposit	deposit	NN	_	3	dobj
+6	,	,	,	_	3	punct
+7	as	as	IN	_	8	mark
+8	set	set	VBN	_	3	advcl
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Commission	Commission	NNP	_	12	nn
+12	dues	due	NNS	_	9	pobj
+13	and	and	CC	_	12	cc
+14	fees	fee	NNS	_	15	nn
+15	schedule	schedule	NN	_	12	conj
+16	,	,	,	_	3	punct
+17	towards	towards	IN	_	3	prep
+18	the	the	DT	_	19	det
+19	fee	fee	NN	_	17	pobj
+20	when	when	WRB	_	22	advmod
+21	it	it	PRP	_	22	nsubj
+22	submits	submit	VBZ	_	3	advcl
+23	its	its	PRP$	_	25	poss
+24	appeal	appeal	NN	_	25	nn
+25	document	document	NN	_	22	dobj
+26	.	.	.	_	3	punct
+

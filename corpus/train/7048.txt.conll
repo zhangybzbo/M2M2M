@@ -1,0 +1,18 @@
+1	He	he	PRP	_	2	nsubj
+2	noticed	notice	VBD	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	this	this	DT	_	6	det
+5	black	black	JJ	_	6	amod
+6	substance	substance	NN	_	7	nsubj
+7	was	be	VBD	_	2	ccomp
+8	also	also	RB	_	7	advmod
+9	on	on	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	lid	lid	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	16	det
+14	cracked	crack	VBN	_	16	amod
+15	stone	stone	NN	_	16	nn
+16	casing	casing	NN	_	12	pobj
+17	.	.	.	_	2	punct
+

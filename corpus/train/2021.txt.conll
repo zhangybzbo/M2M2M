@@ -1,0 +1,14 @@
+1	Then	then	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	certain	certain	JJ	_	4	amod
+4	texts	text	NNS	_	6	nsubj
+5	do	do	VBP	_	6	aux
+6	talk	talk	VB	_	0	ROOT
+7	about	about	IN	_	6	prep
+8	English	english	JJ	_	9	amod
+9	society	society	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	various	various	JJ	_	12	amod
+12	ages	age	NNS	_	10	pobj
+13	.	.	.	_	6	punct
+

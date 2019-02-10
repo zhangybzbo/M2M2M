@@ -1,0 +1,21 @@
+1	This	this	DT	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	due	due	JJ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	a	a	DT	_	7	det
+6	unique	unique	JJ	_	7	amod
+7	design	design	NN	_	4	pobj
+8	that	that	WDT	_	9	nsubj
+9	filters	filter	VBZ	_	7	rcmod
+10	the	the	DT	_	11	det
+11	dirt	dirt	NN	_	9	dobj
+12	through	through	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	bag	bag	NN	_	12	pobj
+15	and	and	CC	_	9	cc
+16	not	not	RB	_	19	neg
+17	the	the	DT	_	19	det
+18	blower	blower	NN	_	19	nn
+19	fan	fan	NN	_	9	conj
+20	.	.	.	_	3	punct
+

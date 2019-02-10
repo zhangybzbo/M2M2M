@@ -1,0 +1,17 @@
+1	Special	special	JJ	_	2	amod
+2	articles	article	NNS	_	12	nsubj
+3	specifically	specifically	RB	_	4	advmod
+4	on	on	IN	_	2	prep
+5	gas	gas	NN	_	6	nn
+6	corrosion	corrosion	NN	_	4	pobj
+7	and	and	CC	_	6	cc
+8	stress	stress	NN	_	9	nn
+9	corrosion	corrosion	NN	_	6	conj
+10	are	be	VBP	_	12	cop
+11	also	also	RB	_	12	advmod
+12	available	available	JJ	_	0	ROOT
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	literature	literature	NN	_	13	pobj
+16	.	.	.	_	12	punct
+

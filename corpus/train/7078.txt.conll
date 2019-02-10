@@ -1,0 +1,13 @@
+1	Canned	can	VBN	_	5	vmod
+2	vocally	vocally	RB	_	1	advmod
+3	,	,	,	_	5	punct
+4	Caruso	Caruso	NNP	_	5	nsubj
+5	is	be	VBZ	_	0	ROOT
+6	worth	worth	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	wilderness	wilderness	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	Wagner	Wagner	NNP	_	11	nn
+11	monkeys	monkey	NNS	_	9	pobj
+12	.	.	.	_	5	punct
+

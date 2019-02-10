@@ -1,0 +1,3 @@
+T1	Term 84 90	author
+T2	Term 117 121	book
+R1	Product-Producer Arg1:T2 Arg2:T1

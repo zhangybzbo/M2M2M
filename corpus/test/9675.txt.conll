@@ -1,0 +1,9 @@
+1	Parent	Parent	NNP	_	2	nn
+2	verbalizations	verbalization	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	focused	focus	VBN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	story-relevant	story-relevant	JJ	_	7	amod
+7	questions	question	NNS	_	5	pobj
+8	.	.	.	_	4	punct
+

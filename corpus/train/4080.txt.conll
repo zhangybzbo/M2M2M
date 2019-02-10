@@ -1,0 +1,27 @@
+1	To	to	TO	_	2	aux
+2	determine	determine	VB	_	0	ROOT
+3	,	,	,	_	2	punct
+4	once	once	RB	_	2	advmod
+5	and	and	CC	_	4	cc
+6	for	for	IN	_	4	conj
+7	all	all	DT	_	6	pobj
+8	,	,	,	_	2	punct
+9	how	how	WRB	_	13	advmod
+10	the	the	DT	_	11	det
+11	manakin	manakin	NN	_	13	nsubj
+12	was	be	VBD	_	13	aux
+13	making	make	VBG	_	2	ccomp
+14	its	its	PRP$	_	16	poss
+15	bizarre	bizarre	JJ	_	16	amod
+16	sounds	sound	NNS	_	21	nsubj
+17	,	,	,	_	16	punct
+18	Bostwick	Bostwick	NNP	_	16	appos
+19	and	and	CC	_	18	cc
+20	colleagues	colleague	NNS	_	18	conj
+21	decided	decide	VBD	_	13	ccomp
+22	to	to	TO	_	23	aux
+23	take	take	VB	_	21	xcomp
+24	feather	feather	NN	_	25	nn
+25	samples	sample	NNS	_	23	dobj
+26	.	.	.	_	2	punct
+

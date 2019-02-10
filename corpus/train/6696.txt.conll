@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	report	report	NN	_	3	nsubj
+3	looks	look	VBZ	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	past	past	NN	_	4	pobj
+6	and	and	CC	_	5	cc
+7	future	future	NN	_	5	conj
+8	of	of	IN	_	5	prep
+9	booming	boom	VBG	_	10	amod
+10	population	population	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	senior	senior	JJ	_	13	amod
+13	citizens	citizen	NNS	_	11	pobj
+14	.	.	.	_	3	punct
+

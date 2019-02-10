@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	mushroom	mushroom	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	found	find	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	mass	mass	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	wet	wet	JJ	_	10	amod
+10	twigs	twig	NNS	_	8	pobj
+11	and	and	CC	_	4	cc
+12	leaves	leave	VBZ	_	4	conj
+13	.	.	.	_	4	punct
+

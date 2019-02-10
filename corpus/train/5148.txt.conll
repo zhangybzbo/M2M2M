@@ -1,0 +1,10 @@
+1	It	it	PRP	_	8	nsubj
+2	is	be	VBZ	_	8	cop
+3	currently	currently	RB	_	8	advmod
+4	a	a	DT	_	6	det
+5	cabinet	cabinet	NN	_	6	nn
+6	maker	maker	NN	_	8	poss
+7	's	's	POS	_	6	possessive
+8	workshop	workshop	NN	_	0	ROOT
+9	.	.	.	_	8	punct
+

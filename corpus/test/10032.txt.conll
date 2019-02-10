@@ -1,0 +1,25 @@
+1	An	a	DT	_	2	det
+2	anthology	anthology	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	poems	poem	NNS	_	3	pobj
+6	entitled	entitle	VBN	_	12	vmod
+7	,	,	,	_	12	punct
+8	Sundramaithry	Sundramaithry	NNP	_	12	nsubjpass
+9	,	,	,	_	12	punct
+10	has	have	VBZ	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	translated	translate	VBN	_	5	vmod
+13	into	into	IN	_	12	prep
+14	Malayalam	Malayalam	NNP	_	13	pobj
+15	by	by	IN	_	12	prep
+16	Dr.	Dr.	NNP	_	18	nn
+17	Dhanya	Dhanya	NNP	_	18	nn
+18	Menon	Menon	NNP	_	15	pobj
+19	,	,	,	_	2	punct
+20	and	and	CC	_	2	cc
+21	published	publish	VBN	_	2	conj
+22	in	in	IN	_	21	prep
+23	2008	2008	CD	_	22	pobj
+24	.	.	.	_	2	punct
+

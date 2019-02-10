@@ -1,0 +1,15 @@
+1	He	he	PRP	_	2	nsubj
+2	pulled	pull	VBD	_	0	ROOT
+3	back	back	RP	_	2	prt
+4	the	the	DT	_	5	det
+5	stick	stick	NN	_	2	dobj
+6	gently	gently	RB	_	2	advmod
+7	until	until	IN	_	2	prep
+8	the	the	DT	_	9	det
+9	plane	plane	NN	_	7	pobj
+10	lifted	lift	VBN	_	9	vmod
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	runway	runway	NN	_	11	pobj
+14	.	.	.	_	2	punct
+

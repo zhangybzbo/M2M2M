@@ -1,0 +1,1 @@
+The signoff queue is used for reports that the user has not seen before .

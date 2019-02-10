@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	plans	plan	NNS	_	12	nsubjpass
+5	for	for	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	future	future	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	community	community	NN	_	10	nn
+10	care	care	NN	_	8	pobj
+11	are	be	VBP	_	12	auxpass
+12	outlined	outline	VBN	_	0	ROOT
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	letter	letter	NN	_	13	pobj
+16	to	to	TO	_	15	prep
+17	Professor	Professor	NNP	_	19	nn
+18	Graham	Graham	NNP	_	19	nn
+19	Thornicroft	Thornicroft	NNP	_	16	pobj
+20	.	.	.	_	12	punct
+

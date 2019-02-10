@@ -1,0 +1,11 @@
+1	Mail	Mail	NNP	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	delivered	deliver	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	city	city	NN	_	4	pobj
+7	once	once	RB	_	9	advmod
+8	each	each	DT	_	9	det
+9	week	week	NN	_	3	tmod
+10	.	.	.	_	3	punct
+

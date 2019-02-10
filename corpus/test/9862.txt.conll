@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	latter	latter	JJ	_	3	amod
+3	book	book	NN	_	0	ROOT
+4	I	I	PRP	_	5	nsubj
+5	got	get	VBD	_	3	rcmod
+6	out	out	IN	_	5	prep
+7	of	of	IN	_	6	pcomp
+8	storage	storage	NN	_	7	pobj
+9	from	from	IN	_	5	prep
+10	the	the	DT	_	11	det
+11	University	University	NNP	_	9	pobj
+12	of	of	IN	_	11	prep
+13	North	North	NNP	_	15	nn
+14	Carolina	Carolina	NNP	_	15	nn
+15	library	library	NN	_	12	pobj
+16	.	.	.	_	3	punct
+

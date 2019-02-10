@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	law-maker	law-maker	NN	_	4	nsubj
+3	narrowly	narrowly	RB	_	4	advmod
+4	escaped	escape	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	fleeing	flee	VBG	_	5	pcomp
+7	from	from	IN	_	6	prep
+8	his	he	PRP$	_	9	poss
+9	house	house	NN	_	7	pobj
+10	on	on	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	horse	horse	NN	_	10	pobj
+13	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	For	for	IN	_	7	prep
+2	example	example	NN	_	1	pobj
+3	,	,	,	_	7	punct
+4	a	a	DT	_	6	det
+5	technology	technology	NN	_	6	nn
+6	manufacturer	manufacturer	NN	_	7	nsubj
+7	undertook	undertake	VBD	_	0	ROOT
+8	a	a	DT	_	15	det
+9	seven-year	seven-year	JJ	_	11	amod
+10	,	,	,	_	11	punct
+11	$	$	$	_	15	amod
+12	200	200	CD	_	13	number
+13	million	million	CD	_	11	num
+14	human	human	JJ	_	15	amod
+15	resources	resource	NNS	_	17	nsubj
+16	outsourcing	outsource	VBG	_	17	amod
+17	effort	effort	NN	_	7	ccomp
+18	.	.	.	_	7	punct
+

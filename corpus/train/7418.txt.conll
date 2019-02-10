@@ -1,0 +1,24 @@
+1	It	it	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	helped	help	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	revive	revive	VB	_	3	xcomp
+6	a	a	DT	_	7	det
+7	city	city	NN	_	5	dobj
+8	whose	whose	WP$	_	11	poss
+9	primary	primary	JJ	_	11	amod
+10	natural	natural	JJ	_	11	amod
+11	resource	resource	NN	_	18	nsubjpass
+12	--	--	:	_	14	punct
+13	its	its	PRP$	_	14	poss
+14	charm	charm	NN	_	11	dep
+15	--	--	:	_	14	punct
+16	is	be	VBZ	_	18	auxpass
+17	constantly	constantly	RB	_	18	advmod
+18	threatened	threaten	VBN	_	7	rcmod
+19	with	with	IN	_	18	prep
+20	extinction	extinction	NN	_	19	pobj
+21	from	from	IN	_	20	prep
+22	overdevelopment	overdevelopment	NN	_	21	pobj
+23	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	It	it	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	dirt	dirt	NN	_	2	dobj
+5	out	out	IN	_	2	prep
+6	of	of	IN	_	5	pcomp
+7	the	the	DT	_	8	det
+8	house	house	NN	_	6	pobj
+9	into	into	IN	_	2	prep
+10	a	a	DT	_	11	det
+11	canister	canister	NN	_	9	pobj
+12	which	which	WDT	_	14	nsubj
+13	was	be	VBD	_	14	cop
+14	located	located	JJ	_	11	rcmod
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	garage	garage	NN	_	15	pobj
+18	.	.	.	_	2	punct
+

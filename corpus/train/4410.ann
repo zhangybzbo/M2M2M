@@ -1,0 +1,3 @@
+T1	Term 42 46	book
+T2	Term 61 70	librarian
+R1	Other Arg1:T1 Arg2:T2

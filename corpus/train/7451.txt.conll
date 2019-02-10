@@ -1,0 +1,11 @@
+1	The	the	DT	_	5	nsubj
+2	following	follow	VBG	_	1	amod
+3	are	be	VBP	_	5	cop
+4	verbatim	verbatim	JJ	_	5	amod
+5	excerpts	excerpt	NNS	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	lengthy	lengthy	JJ	_	9	amod
+9	article	article	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

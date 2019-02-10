@@ -1,0 +1,16 @@
+1	A	a	DT	_	4	det
+2	broken	broken	JJ	_	4	amod
+3	Exxon	Exxon	NNP	_	4	nn
+4	pipeline	pipeline	NN	_	5	nsubj
+5	leaked	leak	VBD	_	0	ROOT
+6	567000	567000	CD	_	7	num
+7	gallons	gallon	NNS	_	5	dobj
+8	of	of	IN	_	7	prep
+9	oil	oil	NN	_	8	pobj
+10	into	into	IN	_	5	prep
+11	the	the	DT	_	14	det
+12	New	New	NNP	_	14	nn
+13	York	York	NNP	_	14	nn
+14	harbor	harbor	NN	_	10	pobj
+15	.	.	.	_	5	punct
+

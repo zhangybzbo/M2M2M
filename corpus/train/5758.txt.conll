@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det
+2	suspicion	suspicion	NN	_	5	nsubjpass
+3	is	be	VBZ	_	5	auxpass
+4	further	further	JJ	_	5	advmod
+5	fueled	fuel	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	arrival	arrival	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	piano	piano	NN	_	9	pobj
+12	for	for	IN	_	11	prep
+13	Jane	Jane	NNP	_	12	pobj
+14	from	from	IN	_	8	prep
+15	a	a	DT	_	18	det
+16	mysterious	mysterious	JJ	_	18	amod
+17	anonymous	anonymous	JJ	_	18	amod
+18	benefactor	benefactor	NN	_	14	pobj
+19	.	.	.	_	5	punct
+

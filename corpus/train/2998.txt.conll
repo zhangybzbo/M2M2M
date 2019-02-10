@@ -1,0 +1,19 @@
+1	In	in	IN	_	5	prep
+2	July	July	NNP	_	1	pobj
+3	he	he	PRP	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	sent	send	VBN	_	0	ROOT
+6	north	north	RB	_	5	advmod
+7	to	to	TO	_	8	aux
+8	quell	quell	VB	_	5	xcomp
+9	a	a	DT	_	10	det
+10	rebellion	rebellion	NN	_	8	dobj
+11	instigated	instigate	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	discontented	discontented	JJ	_	15	amod
+15	people	people	NNS	_	12	pobj
+16	of	of	IN	_	15	prep
+17	Warwick	Warwick	NNP	_	16	pobj
+18	.	.	.	_	5	punct
+

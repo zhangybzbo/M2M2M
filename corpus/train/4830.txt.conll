@@ -1,0 +1,18 @@
+1	Blast	blast	NN	_	2	nn
+2	fishing	fishing	NN	_	8	nsubj
+3	or	or	CC	_	2	cc
+4	dynamite	dynamite	NN	_	5	nn
+5	fishing	fishing	NN	_	2	conj
+6	is	be	VBZ	_	8	cop
+7	the	the	DT	_	8	det
+8	practice	practice	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	using	use	VBG	_	9	pcomp
+11	explosives	explosive	NNS	_	10	dobj
+12	to	to	TO	_	13	aux
+13	stun	stun	VB	_	10	vmod
+14	or	or	CC	_	13	cc
+15	kill	kill	VB	_	13	conj
+16	fish	fish	NN	_	13	dobj
+17	.	.	.	_	8	punct
+

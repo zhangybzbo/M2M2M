@@ -1,0 +1,1 @@
+This recogniser works with a vocabulary of up to several hundred words .

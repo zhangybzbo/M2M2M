@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	Scorpio	Scorpio	NNP	_	4	nsubj
+3	single	single	JJ	_	2	amod
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	bin	bin	NN	_	5	pobj
+8	with	with	IN	_	7	prep
+9	around	around	IN	_	10	quantmod
+10	6	6	CD	_	12	num
+11	zillion	zillion	NN	_	12	nn
+12	45s	45	NNS	_	8	pobj
+13	.	.	.	_	4	punct
+

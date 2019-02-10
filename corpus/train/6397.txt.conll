@@ -1,0 +1,19 @@
+1	Glacial	glacial	JJ	_	2	amod
+2	landscapes	landscape	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	parts	part	NNS	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	earth	earth	NN	_	5	pobj
+8	that	that	WDT	_	10	nsubjpass
+9	were	be	VBD	_	10	auxpass
+10	covered	cover	VBN	_	4	rcmod
+11	by	by	IN	_	10	prep
+12	glaciers	glacier	NNS	_	11	pobj
+13	during	during	IN	_	10	prep
+14	the	the	DT	_	17	det
+15	last	last	JJ	_	17	amod
+16	Ice	Ice	NNP	_	17	nn
+17	Age	Age	NNP	_	13	pobj
+18	.	.	.	_	4	punct
+

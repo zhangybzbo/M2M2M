@@ -1,0 +1,13 @@
+1	Breuer	Breuer	NNP	_	2	nsubj
+2	chairs	chair	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	phalanx	phalanx	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	high-flying	high-flying	JJ	_	7	amod
+7	artists	artist	NNS	_	5	pobj
+8	in	in	IN	_	2	prep
+9	a	a	DT	_	11	det
+10	family	family	NN	_	11	nn
+11	saga	saga	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

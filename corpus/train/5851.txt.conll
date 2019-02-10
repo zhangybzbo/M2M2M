@@ -1,0 +1,22 @@
+1	Ms.	Ms.	NNP	_	2	nn
+2	Sendler	Sendler	NNP	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	lists	list	NNS	_	3	dobj
+5	of	of	IN	_	4	prep
+6	these	these	DT	_	7	det
+7	children	child	NNS	_	5	pobj
+8	and	and	CC	_	3	cc
+9	placed	place	VBD	_	3	conj
+10	the	the	DT	_	11	det
+11	lists	list	NNS	_	9	dobj
+12	in	in	IN	_	9	prep
+13	a	a	DT	_	14	det
+14	jar	jar	NN	_	12	pobj
+15	that	that	IN	_	17	dobj
+16	she	she	PRP	_	17	nsubj
+17	buried	bury	VBN	_	14	rcmod
+18	in	in	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	garden	garden	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

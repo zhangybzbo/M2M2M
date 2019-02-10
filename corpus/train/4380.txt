@@ -1,0 +1,1 @@
+One approach is to have an ensemble of decision trees with each data site contributing its own local decision tree to the ensemble .

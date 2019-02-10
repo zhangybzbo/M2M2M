@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	introduction	introduction	NN	_	8	nsubj
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	is	be	VBZ	_	8	cop
+7	a	a	DT	_	8	det
+8	summary	summary	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	what	what	WP	_	11	nsubj
+11	is	be	VBZ	_	9	pcomp
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	text	text	NN	_	12	pobj
+15	.	.	.	_	8	punct
+

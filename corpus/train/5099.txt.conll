@@ -1,0 +1,26 @@
+1	Qualifying	qualify	VBG	_	20	vmod
+2	for	for	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	Champions	Champions	NNPS	_	5	nn
+5	League	League	NNP	_	2	pobj
+6	,	,	,	_	1	punct
+7	and	and	CC	_	1	cc
+8	earning	earn	VBG	_	1	conj
+9	the	the	DT	_	11	det
+10	extra	extra	JJ	_	11	amod
+11	revenue	revenue	NN	_	8	dobj
+12	from	from	IN	_	8	prep
+13	guaranteed	guarantee	VBN	_	15	amod
+14	television	television	NN	_	15	nn
+15	money	money	NN	_	12	pobj
+16	,	,	,	_	20	punct
+17	is	be	VBZ	_	20	cop
+18	a	a	DT	_	20	det
+19	major	major	JJ	_	20	amod
+20	goal	goal	NN	_	0	ROOT
+21	of	of	IN	_	20	prep
+22	top	top	JJ	_	24	amod
+23	European	european	JJ	_	24	amod
+24	clubs	club	NNS	_	21	pobj
+25	.	.	.	_	20	punct
+

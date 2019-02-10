@@ -1,0 +1,3 @@
+T1	Term 48 58	cocoa tree
+T2	Term 68 79	cocoa beans
+R1	Product-Producer Arg1:T2 Arg2:T1

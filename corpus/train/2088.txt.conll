@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	det
+2	point	point	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	discussed	discuss	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	several	several	JJ	_	9	amod
+8	legal	legal	JJ	_	9	amod
+9	battles	battle	NNS	_	6	pobj
+10	over	over	IN	_	5	prep
+11	the	the	DT	_	12	det
+12	years	year	NNS	_	10	pobj
+13	.	.	.	_	5	punct
+

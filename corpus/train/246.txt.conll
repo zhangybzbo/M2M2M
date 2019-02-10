@@ -1,0 +1,11 @@
+1	Hundreds	hundred	NNS	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	toxic	toxic	JJ	_	4	amod
+4	chemicals	chemical	NNS	_	2	pobj
+5	were	be	VBD	_	6	auxpass
+6	released	release	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	atmosphere	atmosphere	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

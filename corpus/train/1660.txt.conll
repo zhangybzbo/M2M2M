@@ -1,0 +1,23 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	many	many	JJ	_	4	amod
+4	theories	theory	NNS	_	2	nsubj
+5	and	and	CC	_	4	cc
+6	thoughts	thought	NNS	_	4	conj
+7	about	about	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	effects	effect	NNS	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	moon	moon	NN	_	10	pobj
+13	on	on	IN	_	9	prep
+14	people	people	NNS	_	13	pobj
+15	,	,	,	_	14	punct
+16	animals	animal	NNS	_	14	conj
+17	,	,	,	_	14	punct
+18	and	and	CC	_	14	cc
+19	the	the	DT	_	21	det
+20	natural	natural	JJ	_	21	amod
+21	world	world	NN	_	14	conj
+22	.	.	.	_	2	punct
+

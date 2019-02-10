@@ -1,0 +1,26 @@
+1	Endometriosis	endometriosis	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	cause	cause	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	pelvic	pelvic	JJ	_	7	amod
+7	pain	pain	NN	_	5	pobj
+8	-LRB-	-lrb-	-LRB-	_	9	punct
+9	dysmenorrhea	dysmenorrhea	NN	_	7	dep
+10	,	,	,	_	9	punct
+11	dyspareunia	dyspareunium	NN	_	9	appos
+12	-RRB-	-rrb-	-RRB-	_	9	punct
+13	and	and	CC	_	7	cc
+14	infertility	infertility	NN	_	7	conj
+15	in	in	IN	_	4	prep
+16	more	more	JJR	_	17	mwe
+17	than	than	IN	_	18	quantmod
+18	35	35	CD	_	19	num
+19	%	%	NN	_	15	pobj
+20	of	of	IN	_	19	prep
+21	women	woman	NNS	_	20	pobj
+22	of	of	IN	_	21	prep
+23	reproductive	reproductive	JJ	_	24	amod
+24	age	age	NN	_	22	pobj
+25	.	.	.	_	4	punct
+

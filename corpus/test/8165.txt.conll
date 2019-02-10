@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	ale	ale	NN	_	3	nsubj
+3	poured	pour	VBD	_	0	ROOT
+4	slowly	slowly	RB	_	3	advmod
+5	into	into	IN	_	3	prep
+6	a	a	DT	_	7	det
+7	mug	mug	NN	_	5	pobj
+8	,	,	,	_	3	punct
+9	at	at	IN	_	3	prep
+10	first	first	RB	_	12	advmod
+11	all	all	DT	_	12	det
+12	foam	foam	NN	_	9	pobj
+13	,	,	,	_	3	punct
+14	then	then	RB	_	15	advmod
+15	turning	turn	VBG	_	3	xcomp
+16	translucent	translucent	JJ	_	15	acomp
+17	before	before	IN	_	15	prep
+18	suddenly	suddenly	RB	_	19	advmod
+19	clarifying	clarify	VBG	_	17	pcomp
+20	into	into	IN	_	19	prep
+21	a	a	DT	_	24	det
+22	brilliant	brilliant	JJ	_	24	amod
+23	suds-topped	suds-topped	JJ	_	24	amod
+24	amber	amber	NN	_	20	pobj
+25	.	.	.	_	3	punct
+

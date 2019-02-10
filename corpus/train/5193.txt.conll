@@ -1,0 +1,11 @@
+1	Their	they	PRP$	_	2	poss
+2	passion	passion	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	reflected	reflect	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	correspondence	correspondence	NN	_	5	pobj
+8	they	they	PRP	_	9	nsubj
+9	kept	keep	VBD	_	7	rcmod
+10	.	.	.	_	4	punct
+

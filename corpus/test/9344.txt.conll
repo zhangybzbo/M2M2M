@@ -1,0 +1,27 @@
+1	Both	both	DT	_	2	preconj
+2	her	she	PRP$	_	11	nsubj
+3	and	and	CC	_	2	cc
+4	her	she	PRP$	_	5	poss
+5	troop	troop	NN	_	2	conj
+6	of	of	IN	_	5	prep
+7	pampered	pampered	JJ	_	10	amod
+8	Beverly	Beverly	NNP	_	10	nn
+9	Hills	Hills	NNP	_	10	nn
+10	princesses	princess	NNS	_	6	pobj
+11	learn	learn	VBP	_	0	ROOT
+12	valuable	valuable	JJ	_	13	amod
+13	lessons	lesson	NNS	_	11	dobj
+14	in	in	IN	_	13	prep
+15	character	character	NN	_	14	pobj
+16	,	,	,	_	15	punct
+17	courage	courage	NN	_	15	conj
+18	,	,	,	_	15	punct
+19	and	and	CC	_	15	cc
+20	friendship	friendship	NN	_	15	conj
+21	with	with	IN	_	20	prep
+22	a	a	DT	_	25	det
+23	super	super	JJ	_	25	amod
+24	happy	happy	JJ	_	25	amod
+25	ending	ending	NN	_	21	pobj
+26	.	.	.	_	11	punct
+

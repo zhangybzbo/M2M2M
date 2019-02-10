@@ -1,0 +1,20 @@
+1	We	we	PRP	_	2	nsubj
+2	are	be	VBP	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	advertising	advertising	NN	_	3	pobj
+5	and	and	CC	_	2	cc
+6	yes	yes	RB	_	18	advmod
+7	,	,	,	_	18	punct
+8	some	some	DT	_	18	nsubj
+9	of	of	IN	_	8	prep
+10	those	those	DT	_	11	det
+11	images	image	NNS	_	9	pobj
+12	from	from	IN	_	8	prep
+13	past	past	JJ	_	14	amod
+14	days	day	NNS	_	12	pobj
+15	are	be	VBP	_	18	aux
+16	quite	quite	RB	_	18	advmod
+17	the	the	DT	_	18	det
+18	find	find	VB	_	2	conj
+19	.	.	.	_	2	punct
+

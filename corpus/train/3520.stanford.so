@@ -1,0 +1,13 @@
+0	68	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="community" pos="NN" nsubj="t6"
+14	16	tok id="t2" base="of" pos="IN" prep="t1"
+17	23	tok id="t3" base="senior" pos="JJ" amod="t4"
+24	32	tok id="t4" base="citizen" pos="NNS" pobj="t2"
+33	40	tok id="t5" base="already" pos="RB" advmod="t6"
+41	44	tok id="t6" base="have" pos="VBZ" ROOT="ROOT"
+45	50	tok id="t7" base="great" pos="JJ" amod="t9"
+51	60	tok id="t8" base="electoral" pos="JJ" amod="t9"
+61	66	tok id="t9" base="power" pos="NN" dobj="t6"
+67	68	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

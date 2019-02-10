@@ -1,0 +1,23 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	an	a	DT	_	6	det
+4	ancient-looking	ancient-looking	JJ	_	6	amod
+5	small	small	JJ	_	6	amod
+6	shrine	shrine	NN	_	2	nsubj
+7	there	there	RB	_	6	advmod
+8	in	in	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	ground	ground	NN	_	8	pobj
+11	,	,	,	_	2	punct
+12	and	and	CC	_	2	cc
+13	they	they	PRP	_	14	nsubj
+14	found	find	VBD	_	2	conj
+15	an	a	DT	_	16	det
+16	earth	earth	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	foxes	fox	NNS	_	17	pobj
+19	under	under	IN	_	14	prep
+20	its	its	PRP$	_	21	poss
+21	floor	floor	NN	_	19	pobj
+22	.	.	.	_	2	punct
+

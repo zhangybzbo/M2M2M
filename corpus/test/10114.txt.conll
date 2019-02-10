@@ -1,0 +1,13 @@
+1	This	this	DT	_	2	det
+2	theme	theme	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	covered	cover	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	science	science	NN	_	8	nn
+8	fiction	fiction	NN	_	6	pobj
+9	like	like	IN	_	8	prep
+10	Star	Star	NNP	_	11	nn
+11	Trek	Trek	NNP	_	9	pobj
+12	.	.	.	_	5	punct
+

@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	nest	nest	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	garter	garter	NN	_	7	nn
+7	snakes	snake	NNS	_	5	pobj
+8	in	in	IN	_	2	prep
+9	the	the	DT	_	10	det
+10	crack	crack	NN	_	8	pobj
+11	between	between	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	sidewalk	sidewalk	NN	_	11	pobj
+14	and	and	CC	_	13	cc
+15	foundation	foundation	NN	_	13	conj
+16	last	last	JJ	_	17	amod
+17	year	year	NN	_	2	tmod
+18	.	.	.	_	2	punct
+

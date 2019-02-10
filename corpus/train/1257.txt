@@ -1,0 +1,1 @@
+The clock has a LCD display with the following fields : DayOfWeek Date X Time -LRB- offset to utc -RRB- .

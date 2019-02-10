@@ -1,0 +1,13 @@
+1	Smith	Smith	NNP	_	2	nsubj
+2	passed	pass	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	advice	advice	NN	_	3	pobj
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	11	det
+8	Naples	Naples	NNP	_	11	nn
+9	High	High	NNP	_	11	nn
+10	baseball	baseball	NN	_	11	nn
+11	team	team	NN	_	6	pobj
+12	.	.	.	_	2	punct
+

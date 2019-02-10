@@ -1,0 +1,19 @@
+1	Concrete	Concrete	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	made	make	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	cement	cement	NN	_	4	pobj
+6	,	,	,	_	5	punct
+7	aggregates	aggregate	NNS	_	5	conj
+8	-LRB-	-lrb-	-LRB-	_	9	punct
+9	gravel	gravel	NN	_	7	dep
+10	and	and	CC	_	9	cc
+11	crush	crush	NN	_	9	conj
+12	-	-	:	_	9	punct
+13	ed	ed	VBD	_	14	amod
+14	stones	stone	NNS	_	9	dep
+15	-RRB-	-rrb-	-RRB-	_	9	punct
+16	and	and	CC	_	5	cc
+17	water	water	NN	_	5	conj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+1	Huge	huge	JJ	_	2	amod
+2	money	money	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	given	give	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	companies	company	NNS	_	5	pobj
+7	for	for	IN	_	4	prep
+8	boosting	boost	VBG	_	7	pcomp
+9	economy	economy	NN	_	8	dobj
+10	.	.	.	_	4	punct
+

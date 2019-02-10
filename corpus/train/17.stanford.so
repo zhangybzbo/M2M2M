@@ -1,0 +1,12 @@
+0	78	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="texas-born" pos="JJ" amod="t1"
+11	19	tok id="t1" base="virtuoso" pos="JJ" nsubj="t2"
+20	25	tok id="t2" base="find" pos="VBZ" ROOT="ROOT"
+26	33	tok id="t3" base="harmony" pos="NN" dobj="t2"
+34	35	tok id="t4" base="-COMMA-" pos="," punct="t3"
+36	50	tok id="t5" base="sophistication" pos="NN" appos="t3"
+51	53	tok id="t6" base="in" pos="IN" prep="t5"
+54	65	tok id="t7" base="Appalachian" pos="NNP" nn="t8"
+66	76	tok id="t8" base="instrument" pos="NN" pobj="t6"
+77	78	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

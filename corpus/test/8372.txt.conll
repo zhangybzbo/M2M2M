@@ -1,0 +1,8 @@
+1	The	the	DT	_	3	det
+2	yellow	yellow	JJ	_	3	amod
+3	blazes	blaze	NNS	_	4	nsubj
+4	denote	denote	VBP	_	0	ROOT
+5	the	the	DT	_	6	det
+6	trail	trail	NN	_	4	dobj
+7	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	Hand-stitched	hand-stitched	JJ	_	16	dep
+2	with	with	IN	_	1	prep
+3	fabric	fabric	NN	_	2	pobj
+4	and	and	CC	_	3	cc
+5	clothing	clothing	NN	_	3	conj
+6	from	from	IN	_	3	prep
+7	different	different	JJ	_	8	amod
+8	eras	era	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	her	she	PRP$	_	11	poss
+11	life	life	NN	_	9	pobj
+12	,	,	,	_	16	punct
+13	this	this	DT	_	14	det
+14	quilt	quilt	NN	_	16	nsubjpass
+15	is	be	VBZ	_	16	auxpass
+16	imbued	imbue	VBN	_	0	ROOT
+17	with	with	IN	_	16	prep
+18	meaning	meaning	NN	_	17	pobj
+19	and	and	CC	_	18	cc
+20	memory	memory	NN	_	18	conj
+21	.	.	.	_	16	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	flat	flat	JJ	_	0	ROOT
+3	has	have	VBZ	_	2	dep
+4	a	a	DT	_	7	det
+5	fully	fully	RB	_	6	advmod
+6	equipped	equip	VBN	_	7	amod
+7	kitchen	kitchen	NN	_	3	dobj
+8	,	,	,	_	7	punct
+9	BBQ	BBQ	NNP	_	7	appos
+10	,	,	,	_	7	punct
+11	two	two	CD	_	12	num
+12	bathrooms	bathroom	NNS	_	7	appos
+13	,	,	,	_	12	punct
+14	internet	internet	NN	_	12	appos
+15	,	,	,	_	14	punct
+16	sky	sky	NN	_	14	conj
+17	and	and	CC	_	14	cc
+18	an	a	DT	_	20	det
+19	indoor	indoor	JJ	_	20	amod
+20	pool	pool	NN	_	14	conj
+21	.	.	.	_	2	punct
+

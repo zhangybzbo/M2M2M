@@ -1,0 +1,19 @@
+1	He	he	PRP	_	3	nsubj
+2	was	be	VBD	_	3	cop
+3	distressed	distressed	JJ	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	smeared	smear	VBN	_	3	conj
+6	in	in	IN	_	5	prep
+7	dust	dust	NN	_	6	pobj
+8	and	and	CC	_	3	cc
+9	held	hold	VBD	_	3	conj
+10	a	a	DT	_	11	det
+11	bottle	bottle	NN	_	9	dobj
+12	full	full	JJ	_	11	amod
+13	of	of	IN	_	12	prep
+14	blood	blood	NN	_	13	pobj
+15	in	in	IN	_	12	prep
+16	his	he	PRP$	_	17	poss
+17	hands	hand	NNS	_	15	pobj
+18	.	.	.	_	3	punct
+

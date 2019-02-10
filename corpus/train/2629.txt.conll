@@ -1,0 +1,24 @@
+1	Acne	acne	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	infections	infection	NNS	_	4	pobj
+6	that	that	WDT	_	7	nsubj
+7	occur	occur	VBP	_	5	rcmod
+8	when	when	WRB	_	9	advmod
+9	pores	pore	VBZ	_	7	advcl
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	skin	skin	NN	_	10	pobj
+13	are	be	VBP	_	14	auxpass
+14	filled	fill	VBN	_	3	dep
+15	with	with	IN	_	14	prep
+16	oil	oil	NN	_	15	pobj
+17	,	,	,	_	16	punct
+18	dirt	dirt	NN	_	16	conj
+19	,	,	,	_	16	punct
+20	or	or	CC	_	16	cc
+21	other	other	JJ	_	22	amod
+22	substances	substance	NNS	_	16	conj
+23	.	.	.	_	3	punct
+

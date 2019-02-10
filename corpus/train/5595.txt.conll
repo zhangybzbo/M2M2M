@@ -1,0 +1,26 @@
+1	So	so	RB	_	0	ROOT
+2	with	with	IN	_	1	prep
+3	my	my	PRP$	_	5	poss
+4	little	little	JJ	_	5	amod
+5	bag	bag	NN	_	2	pobj
+6	full	full	JJ	_	2	dep
+7	of	of	IN	_	6	prep
+8	buttons	button	NNS	_	7	pobj
+9	,	,	,	_	6	punct
+10	I	I	PRP	_	11	nsubj
+11	faced	face	VBD	_	6	ccomp
+12	the	the	DT	_	16	det
+13	cold	cold	JJ	_	16	amod
+14	,	,	,	_	16	punct
+15	blustery	blustery	JJ	_	16	amod
+16	day	day	NN	_	11	tmod
+17	to	to	TO	_	18	aux
+18	carry	carry	VB	_	11	xcomp
+19	out	out	RP	_	18	prt
+20	some	some	DT	_	18	dobj
+21	of	of	IN	_	20	prep
+22	these	these	DT	_	24	det
+23	lovely	lovely	JJ	_	24	amod
+24	ideas	idea	NNS	_	21	pobj
+25	.	.	.	_	1	punct
+

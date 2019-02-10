@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	display	display	NN	_	3	nn
+3	table	table	NN	_	4	nsubj
+4	contained	contain	VBD	_	0	ROOT
+5	books	book	NNS	_	4	dobj
+6	and	and	CC	_	5	cc
+7	posters	poster	NNS	_	5	conj
+8	for	for	IN	_	4	prep
+9	visitors	visitor	NNS	_	8	pobj
+10	to	to	TO	_	11	aux
+11	browse	browse	VB	_	9	vmod
+12	.	.	.	_	4	punct
+

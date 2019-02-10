@@ -1,0 +1,12 @@
+0	64	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	17	tok id="t1" base="solar-powered" pos="JJ" amod="t3"
+18	21	tok id="t2" base="bus" pos="NN" nn="t3"
+22	29	tok id="t3" base="shelter" pos="NN" nsubjpass="t5"
+30	33	tok id="t4" base="be" pos="VBD" auxpass="t5"
+34	42	tok id="t5" base="compose" pos="VBN" ROOT="ROOT"
+43	45	tok id="t6" base="of" pos="IN" prep="t5"
+46	54	tok id="t7" base="recycled" pos="JJ" amod="t8"
+55	62	tok id="t8" base="bottle" pos="NNS" pobj="t6"
+63	64	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,15 @@
+1	A	a	DT	_	2	det
+2	bird	bird	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	flown	fly	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	building	building	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	is	be	VBZ	_	10	aux
+10	flying	fly	VBG	_	4	conj
+11	around	around	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	atrium	atrium	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,13 @@
+0	79	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="essential" pos="JJ" amod="t1"
+10	18	tok id="t1" base="supplies" pos="NNS" nsubjpass="t4"
+19	22	tok id="t2" base="be" pos="VBP" aux="t4"
+23	28	tok id="t3" base="be" pos="VBG" auxpass="t4"
+29	38	tok id="t4" base="deliver" pos="VBN" ROOT="ROOT"
+39	41	tok id="t5" base="to" pos="TO" prep="t4"
+42	59	tok id="t6" base="conflict-affected" pos="JJ" amod="t7"
+60	68	tok id="t7" base="family" pos="NNS" pobj="t5"
+69	71	tok id="t8" base="in" pos="IN" prep="t7"
+72	77	tok id="t9" base="Yemen" pos="NNP" pobj="t8"
+78	79	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

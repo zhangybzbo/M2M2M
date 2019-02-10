@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	citizen	citizen	NN	_	3	nsubj
+3	observed	observe	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	robbery	robbery	NN	_	3	dobj
+6	through	through	IN	_	3	prep
+7	the	the	DT	_	9	det
+8	store	store	NN	_	9	nn
+9	window	window	NN	_	6	pobj
+10	and	and	CC	_	3	cc
+11	was	be	VBD	_	12	auxpass
+12	assaulted	assault	VBN	_	3	conj
+13	by	by	IN	_	12	prep
+14	Chaplin	Chaplin	NNP	_	13	pobj
+15	as	as	IN	_	17	mark
+16	he	he	PRP	_	17	nsubj
+17	left	leave	VBD	_	12	advcl
+18	the	the	DT	_	19	det
+19	store	store	NN	_	17	dobj
+20	.	.	.	_	3	punct
+

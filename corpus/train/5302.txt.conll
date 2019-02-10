@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	candidates	candidate	NNS	_	4	nsubj
+3	then	then	RB	_	4	advmod
+4	answered	answer	VBD	_	0	ROOT
+5	questions	question	NNS	_	4	dobj
+6	from	from	IN	_	5	prep
+7	other	other	JJ	_	8	amod
+8	MPs	mp	NNS	_	6	pobj
+9	on	on	IN	_	4	prep
+10	their	they	PRP$	_	11	poss
+11	proposals	proposal	NNS	_	9	pobj
+12	for	for	IN	_	11	prep
+13	reform	reform	NN	_	12	pobj
+14	of	of	IN	_	13	prep
+15	Parliament	Parliament	NNP	_	14	pobj
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	Strawberry	Strawberry	NNP	_	3	nn
+2	tea	tea	NN	_	3	nn
+3	tastes	taste	NNS	_	0	ROOT
+4	almost	almost	RB	_	3	advmod
+5	as	as	IN	_	4	prep
+6	delicious	delicious	JJ	_	5	pobj
+7	as	as	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	berry	berry	NN	_	7	pobj
+10	itself	itself	PRP	_	9	npadvmod
+11	,	,	,	_	3	punct
+12	with	with	IN	_	3	prep
+13	a	a	DT	_	17	det
+14	mild	mild	JJ	_	17	amod
+15	and	and	CC	_	14	cc
+16	fruity	fruity	JJ	_	14	conj
+17	flavor	flavor	NN	_	12	pobj
+18	.	.	.	_	3	punct
+

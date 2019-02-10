@@ -1,0 +1,3 @@
+T1	Term 101 106	plump
+T2	Term 110 118	moorhens
+R1	Member-Collection Arg1:T2 Arg2:T1

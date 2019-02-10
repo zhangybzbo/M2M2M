@@ -1,0 +1,21 @@
+1	The	the	DT	_	5	det
+2	Historic	historic	JJ	_	5	amod
+3	District	District	NNP	_	5	nn
+4	Commission	Commission	NNP	_	5	nn
+5	members	member	NNS	_	6	nsubj
+6	drafted	draft	VBD	_	0	ROOT
+7	a	a	DT	_	10	det
+8	demolition	demolition	NN	_	10	nn
+9	delay	delay	NN	_	10	nn
+10	ordinance	ordinance	NN	_	6	dobj
+11	that	that	WDT	_	12	nsubj
+12	went	go	VBD	_	10	rcmod
+13	before	before	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	Board	Board	NNP	_	13	pobj
+16	of	of	IN	_	15	prep
+17	Selectmen	Selectmen	NNP	_	16	pobj
+18	last	last	JJ	_	19	amod
+19	year	year	NN	_	15	tmod
+20	.	.	.	_	6	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	ripe	ripe	JJ	_	3	amod
+3	bulbs	bulb	NNS	_	6	nsubjpass
+4	are	be	VBP	_	6	auxpass
+5	mechanically	mechanically	RB	_	6	advmod
+6	pulped	pulp	VBN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	make	make	VB	_	6	xcomp
+9	jackfruit	jackfruit	NN	_	10	nn
+10	nectar	nectar	NN	_	8	dobj
+11	or	or	CC	_	10	cc
+12	reduced	reduce	VBN	_	10	conj
+13	to	to	TO	_	14	aux
+14	concentrate	concentrate	VB	_	12	xcomp
+15	or	or	CC	_	14	cc
+16	powder	powder	NN	_	14	conj
+17	.	.	.	_	6	punct
+

@@ -1,0 +1,17 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	ship	ship	NN	_	4	nsubj
+4	drew	draw	VBD	_	12	advcl
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	harbour	harbour	NN	_	5	pobj
+8	more	more	RBR	_	7	advmod
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	helmsman	helmsman	NN	_	12	nsubj
+12	turned	turn	VBD	_	0	ROOT
+13	`	`	``	_	12	punct
+14	round	round	JJ	_	12	acomp
+15	easily	easily	RB	_	14	advmod
+16	.	.	.	_	12	punct
+

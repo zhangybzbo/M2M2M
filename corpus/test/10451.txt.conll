@@ -1,0 +1,11 @@
+1	A	a	DT	_	3	det
+2	sewer	sewer	NN	_	3	nn
+3	cover	cover	NN	_	0	ROOT
+4	showing	show	VBG	_	3	vmod
+5	the	the	DT	_	6	det
+6	Mets	Mets	NNPS	_	4	dobj
+7	and	and	CC	_	6	cc
+8	Yankees	Yankees	NNPS	_	9	nn
+9	logos	logo	NNS	_	6	conj
+10	.	.	.	_	3	punct
+

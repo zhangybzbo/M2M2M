@@ -1,0 +1,27 @@
+1	Even	even	RB	_	2	advmod
+2	so	so	RB	_	14	advmod
+3	,	,	,	_	14	punct
+4	the	the	DT	_	5	det
+5	labour	labour	NN	_	14	nsubj
+6	involved	involve	VBN	_	5	vmod
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	meticulous	meticulous	JJ	_	10	amod
+10	copying	copying	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	text	text	NN	_	11	pobj
+14	made	make	VBD	_	0	ROOT
+15	a	a	DT	_	16	det
+16	book	book	NN	_	14	dobj
+17	produced	produce	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	a	a	DT	_	21	det
+20	professional	professional	JJ	_	21	amod
+21	scribe	scribe	NN	_	18	pobj
+22	a	a	DT	_	25	det
+23	comparatively	comparatively	RB	_	24	advmod
+24	expensive	expensive	JJ	_	25	amod
+25	luxury	luxury	NN	_	21	dep
+26	.	.	.	_	14	punct
+

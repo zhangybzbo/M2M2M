@@ -1,0 +1,14 @@
+1	Details	detail	NNS	_	7	nsubj
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	Curious	curious	JJ	_	6	amod
+5	George	George	NNP	_	6	nn
+6	sequels	sequel	NNS	_	2	pobj
+7	refer	refer	VBP	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	events	event	NNS	_	8	pobj
+10	from	from	IN	_	9	prep
+11	previous	previous	JJ	_	12	amod
+12	books	book	NNS	_	10	pobj
+13	.	.	.	_	7	punct
+

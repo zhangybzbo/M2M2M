@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	detectives	detective	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	dragged	drag	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	mysterious	mysterious	JJ	_	9	amod
+9	case	case	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

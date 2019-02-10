@@ -1,0 +1,12 @@
+0	45	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="you" pos="PRP" nsubj="t1"
+4	7	tok id="t1" base="own" pos="VBP" ROOT="ROOT"
+8	9	tok id="t2" base="a" pos="DT" det="t3"
+10	15	tok id="t3" base="house" pos="NN" dobj="t1"
+16	20	tok id="t4" base="that" pos="WDT" nsubj="t5"
+21	29	tok id="t5" base="contain" pos="VBZ" rcmod="t3"
+30	31	tok id="t6" base="a" pos="DT" det="t7"
+32	38	tok id="t7" base="granny" pos="NN" dobj="t5"
+39	43	tok id="t8" base="flat" pos="JJ" amod="t7"
+44	45	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

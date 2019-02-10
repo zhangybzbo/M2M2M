@@ -1,0 +1,10 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	injected	inject	VBN	_	0	ROOT
+4	liquidity	liquidity	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	8	det
+7	banking	banking	NN	_	8	nn
+8	system	system	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

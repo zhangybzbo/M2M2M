@@ -1,0 +1,14 @@
+1	OSHA	OSHA	NNP	_	2	nsubj
+2	regulates	regulate	VBZ	_	0	ROOT
+3	that	that	IN	_	10	mark
+4	a	a	DT	_	6	det
+5	forklift	forklift	NN	_	6	nn
+6	operator	operator	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	training	training	NN	_	9	nn
+9	program	program	NN	_	10	nsubj
+10	have	have	VBP	_	2	ccomp
+11	three	three	CD	_	12	num
+12	parts	part	NNS	_	10	dobj
+13	.	.	.	_	2	punct
+

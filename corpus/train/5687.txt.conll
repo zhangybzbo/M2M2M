@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	absorbed	absorb	VBN	_	3	amod
+3	nutrients	nutrient	NNS	_	4	nsubj
+4	move	move	VBP	_	0	ROOT
+5	through	through	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	wall	wall	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	intestines	intestine	NNS	_	8	pobj
+11	and	and	CC	_	5	cc
+12	into	into	IN	_	5	conj
+13	blood	blood	NN	_	14	nn
+14	vessels	vessel	NNS	_	12	pobj
+15	that	that	WDT	_	16	nsubj
+16	take	take	VBP	_	14	rcmod
+17	them	they	PRP	_	16	dobj
+18	throughout	throughout	IN	_	16	prep
+19	the	the	DT	_	20	det
+20	body	body	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

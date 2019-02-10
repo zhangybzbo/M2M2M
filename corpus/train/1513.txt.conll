@@ -1,0 +1,19 @@
+1	Secretly	secretly	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	she	she	PRP	_	6	nsubj
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	aux
+6	donating	donate	VBG	_	0	ROOT
+7	10	10	CD	_	8	num
+8	%	%	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	her	she	PRP$	_	11	poss
+11	income	income	NN	_	9	pobj
+12	to	to	TO	_	6	prep
+13	local	local	JJ	_	15	amod
+14	a	a	DT	_	15	det
+15	orphanage	orphanage	NN	_	12	pobj
+16	every	every	DT	_	17	det
+17	month	month	NN	_	6	tmod
+18	.	.	.	_	6	punct
+

@@ -1,0 +1,26 @@
+1	Surgery	surgery	NN	_	9	nsubj
+2	after	after	IN	_	1	prep
+3	radiation	radiation	NN	_	4	nn
+4	chemotherapy	chemotherapy	NN	_	2	pobj
+5	is	be	VBZ	_	9	cop
+6	an	a	DT	_	9	det
+7	effective	effective	JJ	_	9	amod
+8	local	local	JJ	_	9	amod
+9	treatment	treatment	NN	_	0	ROOT
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	13	nsubj
+12	is	be	VBZ	_	13	cop
+13	able	able	JJ	_	9	rcmod
+14	to	to	TO	_	16	aux
+15	significantly	significantly	RB	_	16	advmod
+16	increase	increase	VB	_	13	xcomp
+17	local	local	JJ	_	19	amod
+18	tumor	tumor	NN	_	19	nn
+19	control	control	NN	_	16	dobj
+20	compared	compare	VBN	_	16	prep
+21	to	to	TO	_	20	pcomp
+22	radiation	radiation	NN	_	23	nn
+23	chemotherapy	chemotherapy	NN	_	21	pobj
+24	only	only	RB	_	23	advmod
+25	.	.	.	_	9	punct
+

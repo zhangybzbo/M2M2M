@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	basement	basement	NN	_	3	nn
+3	carpeting	carpeting	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	recycled	recycled	JJ	_	10	amod
+8	plastic	plastic	NN	_	10	nn
+9	pop	pop	NN	_	10	nn
+10	bottles	bottle	NNS	_	6	pobj
+11	,	,	,	_	5	punct
+12	and	and	CC	_	5	cc
+13	the	the	DT	_	14	det
+14	underpad	underpad	NN	_	18	nsubj
+15	was	be	VBD	_	18	cop
+16	once	once	RB	_	18	advmod
+17	automobile	automobile	NN	_	18	nn
+18	tires	tire	NNS	_	5	conj
+19	.	.	.	_	5	punct
+

@@ -1,0 +1,14 @@
+1	Students	student	NNS	_	2	nsubj
+2	worked	work	VBN	_	0	ROOT
+3	together	together	RB	_	2	advmod
+4	to	to	TO	_	5	aux
+5	create	create	VB	_	2	xcomp
+6	their	they	PRP$	_	8	poss
+7	own	own	JJ	_	8	amod
+8	wiki	wikus	NN	_	5	dobj
+9	on	on	IN	_	5	prep
+10	a	a	DT	_	12	det
+11	given	give	VBN	_	12	amod
+12	topic	topic	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

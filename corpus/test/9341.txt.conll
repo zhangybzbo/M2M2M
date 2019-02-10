@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	2	poss
+2	father	father	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	armor	armor	NN	_	5	nsubj
+5	was	be	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	chest	chest	NN	_	6	pobj
+9	next	next	JJ	_	5	advmod
+10	to	to	TO	_	9	prep
+11	the	the	DT	_	12	det
+12	shrine	shrine	NN	_	10	pobj
+13	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	PowerPoint	PowerPoint	NNP	_	2	nn
+2	presentations	presentation	NNS	_	11	nsubjpass
+3	for	for	IN	_	2	prep
+4	each	each	DT	_	3	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	book	book	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	chapters	chapter	NNS	_	5	pobj
+10	are	be	VBP	_	11	auxpass
+11	posted	post	VBN	_	0	ROOT
+12	on	on	IN	_	11	prep
+13	this	this	DT	_	14	det
+14	website	website	NN	_	12	pobj
+15	.	.	.	_	11	punct
+

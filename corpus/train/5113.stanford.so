@@ -1,0 +1,11 @@
+0	55	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="unemployment" pos="NN" nsubj="t5"
+13	14	tok id="t1" base="-COMMA-" pos="," punct="t0"
+15	19	tok id="t2" base="debt" pos="NN" conj="t0"
+20	23	tok id="t3" base="and" pos="CC" cc="t0"
+24	31	tok id="t4" base="poverty" pos="NN" conj="t0"
+32	37	tok id="t5" base="cause" pos="VBP" ROOT="ROOT"
+38	46	tok id="t6" base="enormous" pos="JJ" amod="t7"
+47	53	tok id="t7" base="stress" pos="NN" dobj="t5"
+54	55	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

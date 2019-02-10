@@ -1,0 +1,18 @@
+1	In	in	IN	_	8	prep
+2	recent	recent	JJ	_	3	amod
+3	years	year	NNS	_	1	pobj
+4	there	there	RB	_	8	nsubj
+5	have	have	VBP	_	8	aux
+6	been	be	VBN	_	8	cop
+7	many	many	JJ	_	8	amod
+8	advances	advance	NNS	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	use	use	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	opioids	opioid	NNS	_	12	pobj
+14	for	for	IN	_	11	prep
+15	cancer	cancer	NN	_	16	nn
+16	pain	pain	NN	_	14	pobj
+17	.	.	.	_	8	punct
+

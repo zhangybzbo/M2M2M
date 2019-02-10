@@ -1,0 +1,13 @@
+0	65	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	10	tok id="t1" base="month" pos="NN" tmod="t5"
+11	12	tok id="t2" base="-COMMA-" pos="," punct="t5"
+13	16	tok id="t3" base="the" pos="DT" det="t4"
+17	29	tok id="t4" base="commissioner" pos="NN" nsubj="t5"
+30	37	tok id="t5" base="travel" pos="VBZ" ROOT="ROOT"
+38	40	tok id="t6" base="to" pos="TO" prep="t5"
+41	48	tok id="t7" base="several" pos="JJ" amod="t9"
+49	55	tok id="t8" base="remote" pos="JJ" amod="t9"
+56	63	tok id="t9" base="nation" pos="NNS" pobj="t6"
+64	65	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

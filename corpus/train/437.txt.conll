@@ -1,0 +1,24 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	3	det
+3	Amendment	amendment	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	transcribed	transcribe	VBN	_	15	advcl
+6	,	,	,	_	15	punct
+7	the	the	DT	_	8	det
+8	semicolon	semicolon	NN	_	15	nsubjpass
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	religious	religious	JJ	_	13	amod
+12	exemption	exemption	NN	_	13	nn
+13	portion	portion	NN	_	9	pobj
+14	was	be	VBD	_	15	auxpass
+15	changed	change	VBN	_	0	ROOT
+16	to	to	TO	_	15	prep
+17	a	a	DT	_	18	det
+18	comma	comma	NN	_	16	pobj
+19	by	by	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	Senate	Senate	NNP	_	22	nn
+22	scribe	scribe	NN	_	19	pobj
+23	.	.	.	_	15	punct
+

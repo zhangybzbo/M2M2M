@@ -1,0 +1,15 @@
+1	Most	most	JJS	_	2	amod
+2	musicians	musician	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	developed	develop	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	standard	standard	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	their	they	PRP$	_	9	poss
+9	own	own	JJ	_	7	pobj
+10	for	for	IN	_	4	prep
+11	cleaning	clean	VBG	_	10	pcomp
+12	their	they	PRP$	_	13	poss
+13	instruments	instrument	NNS	_	11	dobj
+14	.	.	.	_	4	punct
+

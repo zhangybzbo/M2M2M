@@ -1,0 +1,18 @@
+1	She	she	PRP	_	2	nsubj
+2	opened	open	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	fridge	fridge	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	side	side	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	door	door	NN	_	8	pobj
+11	and	and	CC	_	2	cc
+12	got	get	VBD	_	2	conj
+13	out	out	RP	_	12	prt
+14	a	a	DT	_	16	det
+15	blueberry	blueberry	JJ	_	16	amod
+16	vodka	vodka	NN	_	12	dobj
+17	.	.	.	_	2	punct
+

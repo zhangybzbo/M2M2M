@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	coffee	coffee	NN	_	5	nsubj
+3	we	we	PRP	_	4	nsubj
+4	got	get	VBD	_	2	rcmod
+5	was	be	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	cup	cup	NN	_	6	pobj
+9	the	the	DT	_	10	det
+10	size	size	NN	_	5	dobj
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	thimble	thimble	NN	_	11	pobj
+14	,	,	,	_	10	punct
+15	and	and	CC	_	10	cc
+16	it	it	PRP	_	19	nsubj
+17	was	be	VBD	_	19	cop
+18	so	so	RB	_	19	advmod
+19	strong	strong	JJ	_	10	conj
+20	.	.	.	_	5	punct
+

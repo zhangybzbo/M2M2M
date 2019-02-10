@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	reference	reference	NN	_	3	nn
+3	signal	signal	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	generated	generate	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	auxiliary	auxiliary	JJ	_	9	amod
+9	photomultiplier	photomultiplier	NN	_	6	pobj
+10	-LRB-	-lrb-	-LRB-	_	12	punct
+11	RCA	rca	NN	_	12	nn
+12	1P28	1p28	NN	_	9	appos
+13	-RRB-	-rrb-	-RRB-	_	12	punct
+14	with	with	IN	_	5	prep
+15	a	a	DT	_	17	det
+16	quantum	quantum	NN	_	17	nn
+17	counter	counter	NN	_	14	pobj
+18	.	.	.	_	5	punct
+

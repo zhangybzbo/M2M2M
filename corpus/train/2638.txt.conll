@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	storm	storm	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	tremendous	tremendous	JJ	_	6	amod
+6	amount	amount	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	damage	damage	NN	_	7	pobj
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	landing	landing	NN	_	12	nn
+12	beaches	beach	NNS	_	9	pobj
+13	,	,	,	_	3	punct
+14	and	and	CC	_	3	cc
+15	for	for	IN	_	19	prep
+16	the	the	DT	_	17	det
+17	time	time	NN	_	15	pobj
+18	completely	completely	RB	_	19	advmod
+19	isolated	isolate	VBD	_	3	conj
+20	the	the	DT	_	21	det
+21	troops	troops	NNS	_	19	dobj
+22	at	at	IN	_	21	prep
+23	Anzac	Anzac	NNP	_	22	pobj
+24	.	.	.	_	3	punct
+

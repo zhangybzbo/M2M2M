@@ -1,0 +1,22 @@
+1	They	they	PRP	_	4	nsubjpass
+2	had	have	VBD	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	alerted	alert	VBN	_	0	ROOT
+5	that	that	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	cocaine	cocaine	NN	_	8	nsubj
+8	was	be	VBD	_	4	ccomp
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	crate	crate	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	turkeys	turkey	NNS	_	12	pobj
+14	,	,	,	_	4	punct
+15	but	but	CC	_	4	cc
+16	they	they	PRP	_	19	nsubj
+17	did	do	VBD	_	19	aux
+18	n't	not	RB	_	19	neg
+19	see	see	VB	_	4	conj
+20	any	any	DT	_	19	dobj
+21	.	.	.	_	4	punct
+

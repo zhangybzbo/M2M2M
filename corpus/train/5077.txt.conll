@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	other	other	JJ	_	3	amod
+3	countries	country	NNS	_	4	nsubj
+4	passed	pass	VBD	_	0	ROOT
+5	their	they	PRP$	_	7	poss
+6	own	own	JJ	_	7	amod
+7	laws	law	NNS	_	4	dobj
+8	to	to	TO	_	9	aux
+9	establish	establish	VB	_	4	vmod
+10	local	local	JJ	_	12	amod
+11	slave	slave	NN	_	12	nn
+12	registries	registry	NNS	_	9	dobj
+13	.	.	.	_	4	punct
+

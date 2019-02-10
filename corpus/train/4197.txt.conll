@@ -1,0 +1,23 @@
+1	At	at	IN	_	8	prep
+2	its	its	PRP$	_	3	poss
+3	height	height	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	7	det
+6	Whiskey	Whiskey	NNP	_	7	nn
+7	Rebellion	rebellion	NN	_	8	nsubj
+8	involved	involve	VBN	_	0	ROOT
+9	thousands	thousand	NNS	_	14	nsubjpass
+10	of	of	IN	_	9	prep
+11	Pennsylvania	Pennsylvania	NNP	_	12	nn
+12	farmers	farmer	NNS	_	10	pobj
+13	being	be	VBG	_	14	auxpass
+14	taxed	tax	VBN	_	21	dep
+15	on	on	IN	_	14	prep
+16	rye	rye	NN	_	17	nn
+17	liquor	liquor	NN	_	15	pobj
+18	,	,	,	_	21	punct
+19	their	they	PRP$	_	21	poss
+20	chief	chief	NN	_	21	nn
+21	export	export	NN	_	8	dobj
+22	.	.	.	_	8	punct
+

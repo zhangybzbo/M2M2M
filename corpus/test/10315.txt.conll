@@ -1,0 +1,15 @@
+1	She	she	PRP	_	2	nsubj
+2	tried	try	VBD	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	find	find	VB	_	2	xcomp
+5	out	out	RP	_	4	prt
+6	what	what	WP	_	7	det
+7	key	key	NN	_	11	nsubj
+8	on	on	IN	_	7	prep
+9	your	you	PRP$	_	10	poss
+10	keyboard	keyboard	NN	_	8	pobj
+11	fits	fit	VBZ	_	4	ccomp
+12	your	you	PRP$	_	13	poss
+13	personalty	personalty	NN	_	11	dobj
+14	.	.	.	_	2	punct
+

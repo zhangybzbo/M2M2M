@@ -1,0 +1,3 @@
+T1	Term 26 37	declaration
+T2	Term 80 89	statement
+R1	Other Arg1:T1 Arg2:T2

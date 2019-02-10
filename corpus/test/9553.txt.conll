@@ -1,0 +1,22 @@
+1	In	in	IN	_	6	prep
+2	America	America	NNP	_	1	pobj
+3	,	,	,	_	6	punct
+4	September	September	NNP	_	6	nsubj
+5	11	11	CD	_	4	num
+6	gave	give	VBD	_	0	ROOT
+7	rise	rise	NN	_	6	dobj
+8	to	to	TO	_	6	prep
+9	a	a	DT	_	10	det
+10	mass	mass	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	verses	verse	NNS	_	11	pobj
+13	written	write	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	ordinary	ordinary	JJ	_	16	amod
+16	people	people	NNS	_	14	pobj
+17	to	to	TO	_	18	aux
+18	express	express	VB	_	13	xcomp
+19	their	they	PRP$	_	20	poss
+20	grief	grief	NN	_	18	dobj
+21	.	.	.	_	6	punct
+

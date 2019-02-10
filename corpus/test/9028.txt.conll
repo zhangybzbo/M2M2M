@@ -1,0 +1,20 @@
+1	Considerations	consideration	NNS	_	4	nsubjpass
+2	have	have	VBP	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	concerned	concern	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	cases	case	NNS	_	5	pobj
+7	where	where	WRB	_	14	advmod
+8	the	the	DT	_	9	det
+9	forces	force	NNS	_	14	nsubjpass
+10	between	between	IN	_	9	prep
+11	particles	particle	NNS	_	10	pobj
+12	can	can	MD	_	14	aux
+13	be	be	VB	_	14	auxpass
+14	handled	handle	VBN	_	6	rcmod
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	satisfactory	satisfactory	JJ	_	18	amod
+18	manner	manner	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

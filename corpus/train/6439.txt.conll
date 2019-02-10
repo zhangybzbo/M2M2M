@@ -1,0 +1,27 @@
+1	We	we	PRP	_	2	nsubj
+2	watched	watch	VBD	_	0	ROOT
+3	as	as	IN	_	6	mark
+4	a	a	DT	_	5	det
+5	barman	barman	NN	_	6	nsubj
+6	poured	pour	VBD	_	13	advcl
+7	alcohol	alcohol	NN	_	6	dobj
+8	on	on	IN	_	6	prep
+9	to	to	TO	_	8	pcomp
+10	the	the	DT	_	11	det
+11	bar	bar	NN	_	9	pobj
+12	,	,	,	_	13	punct
+13	poured	pour	VBD	_	2	dep
+14	absinthe	absinthe	NN	_	13	dobj
+15	into	into	IN	_	13	prep
+16	a	a	DT	_	17	det
+17	couple	couple	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	shot	shot	NN	_	20	nn
+20	glasses	glass	NNS	_	18	pobj
+21	,	,	,	_	13	punct
+22	then	then	RB	_	13	advmod
+23	lit	light	VBD	_	13	dep
+24	the	the	DT	_	25	det
+25	lot	lot	NN	_	23	dobj
+26	.	.	.	_	2	punct
+

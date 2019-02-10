@@ -1,0 +1,20 @@
+1	Investigations	investigation	NNS	_	2	nsubj
+2	are	be	VBP	_	0	ROOT
+3	under	under	IN	_	2	prep
+4	way	way	NN	_	3	pobj
+5	to	to	TO	_	6	aux
+6	establish	establish	VB	_	4	vmod
+7	the	the	DT	_	8	det
+8	identity	identity	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	human	human	JJ	_	11	amod
+11	remains	remains	NNS	_	9	pobj
+12	found	find	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	police	police	NN	_	13	pobj
+15	in	in	IN	_	14	prep
+16	woodland	woodland	NN	_	15	pobj
+17	in	in	IN	_	14	prep
+18	Surrey	Surrey	NNP	_	17	pobj
+19	.	.	.	_	2	punct
+

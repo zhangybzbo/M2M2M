@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	nye	nye	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	pheasants	pheasant	NNS	_	3	pobj
+5	had	have	VBD	_	6	aux
+6	increased	increase	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	23	23	CD	_	7	pobj
+9	,	,	,	_	6	punct
+10	including	include	VBG	_	6	prep
+11	four	four	CD	_	13	num
+12	cock	cock	NN	_	13	nn
+13	birds	bird	NNS	_	10	pobj
+14	.	.	.	_	6	punct
+

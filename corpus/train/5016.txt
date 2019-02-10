@@ -1,0 +1,1 @@
+The infrastructure comprises the physical hardware and services that must be maintained and operated for the resource-sharing to occur .

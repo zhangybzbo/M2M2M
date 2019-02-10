@@ -1,0 +1,21 @@
+1	However	however	RB	_	14	advmod
+2	,	,	,	_	14	punct
+3	the	the	DT	_	7	det
+4	exact	exact	JJ	_	7	amod
+5	active	active	JJ	_	7	amod
+6	site	site	NN	_	7	nn
+7	configuration	configuration	NN	_	14	nsubj
+8	of	of	IN	_	7	prep
+9	enzymes	enzyme	NNS	_	8	pobj
+10	in	in	FW	_	11	nn
+11	vivo	vivo	FW	_	7	advmod
+12	is	be	VBZ	_	14	cop
+13	very	very	RB	_	14	advmod
+14	difficult	difficult	JJ	_	0	ROOT
+15	to	to	TO	_	16	aux
+16	address	address	VB	_	14	xcomp
+17	for	for	IN	_	16	prep
+18	two	two	CD	_	19	num
+19	reasons	reason	NNS	_	17	pobj
+20	.	.	.	_	14	punct
+

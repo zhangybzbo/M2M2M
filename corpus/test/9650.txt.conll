@@ -1,0 +1,26 @@
+1	Amino	amino	NN	_	3	nn
+2	acid	acid	NN	_	3	nn
+3	synthesis	synthesis	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	the	the	DT	_	6	det
+6	set	set	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	biochemical	biochemical	JJ	_	9	amod
+9	processes	process	NNS	_	7	pobj
+10	-LRB-	-lrb-	-LRB-	_	12	punct
+11	metabolic	metabolic	JJ	_	12	amod
+12	pathways	pathway	NNS	_	9	appos
+13	-RRB-	-rrb-	-RRB-	_	12	punct
+14	by	by	IN	_	21	prep
+15	which	which	WDT	_	14	pobj
+16	the	the	DT	_	19	det
+17	various	various	JJ	_	19	amod
+18	amino	amino	NN	_	19	nn
+19	acids	acid	NNS	_	21	nsubjpass
+20	are	be	VBP	_	21	auxpass
+21	produced	produce	VBN	_	9	rcmod
+22	from	from	IN	_	21	prep
+23	other	other	JJ	_	24	amod
+24	compounds	compound	NNS	_	22	pobj
+25	.	.	.	_	6	punct
+

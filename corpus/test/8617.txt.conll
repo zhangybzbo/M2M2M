@@ -1,0 +1,26 @@
+1	After	after	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	drug	drug	NN	_	4	nsubj
+4	leaves	leave	VBZ	_	11	advcl
+5	the	the	DT	_	6	det
+6	brain	brain	NN	_	4	dobj
+7	,	,	,	_	11	punct
+8	the	the	DT	_	9	det
+9	user	user	NN	_	11	nsubj
+10	may	may	MD	_	11	aux
+11	experience	experience	VB	_	0	ROOT
+12	a	a	DT	_	15	det
+13	``	``	``	_	15	punct
+14	coke	coke	NN	_	15	nn
+15	crash	crash	NN	_	11	dobj
+16	''	''	''	_	15	punct
+17	that	that	WDT	_	18	nsubj
+18	causes	cause	VBZ	_	15	rcmod
+19	the	the	DT	_	20	det
+20	user	user	NN	_	18	dobj
+21	to	to	TO	_	22	aux
+22	feel	feel	VB	_	18	xcomp
+23	depressed	depressed	JJ	_	22	acomp
+24	and	and	CC	_	23	cc
+25	irritable	irritable	JJ	_	23	conj
+

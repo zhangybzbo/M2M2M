@@ -1,0 +1,22 @@
+1	They	they	PRP	_	2	nsubj
+2	left	leave	VBD	_	0	ROOT
+3	one	one	CD	_	4	num
+4	weapon	weapon	NN	_	2	dobj
+5	,	,	,	_	4	punct
+6	a	a	DT	_	7	det
+7	gun	gun	NN	_	4	appos
+8	that	that	WDT	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	locked	lock	VBN	_	7	rcmod
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	safe	safe	JJ	_	11	pobj
+14	,	,	,	_	4	punct
+15	and	and	CC	_	2	cc
+16	have	have	VBP	_	2	conj
+17	since	since	IN	_	16	prep
+18	returned	return	VBN	_	17	pcomp
+19	two	two	CD	_	20	num
+20	others	other	NNS	_	18	dobj
+21	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	guinea	guinea	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	hand	hand	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	poor	poor	JJ	_	11	amod
+11	fellow	fellow	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

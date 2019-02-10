@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	mycelia	mycelium	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	truffles	truffle	NNS	_	3	pobj
+5	form	form	VBP	_	0	ROOT
+6	symbiotic	symbiotic	JJ	_	7	amod
+7	relationships	relationship	NNS	_	5	dobj
+8	with	with	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	roots	root	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	several	several	JJ	_	14	amod
+13	tree	tree	NN	_	14	nn
+14	species	species	NNS	_	11	pobj
+15	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	Fish	fish	NN	_	2	nsubj
+2	gather	gather	VB	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	shoal	shoal	NN	_	3	pobj
+6	,	,	,	_	5	punct
+7	a	a	DT	_	9	det
+8	shallow	shallow	JJ	_	9	amod
+9	place	place	NN	_	5	appos
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	river	river	NN	_	10	pobj
+13	or	or	CC	_	12	cc
+14	lake	lake	NN	_	12	conj
+15	.	.	.	_	2	punct
+

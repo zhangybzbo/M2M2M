@@ -1,0 +1,23 @@
+1	In	in	IN	_	10	prep
+2	reality	reality	NN	_	1	pobj
+3	,	,	,	_	10	punct
+4	however	however	RB	_	10	advmod
+5	,	,	,	_	10	punct
+6	the	the	DT	_	7	det
+7	drama	drama	NN	_	10	nsubjpass
+8	has	have	VBZ	_	10	aux
+9	been	be	VBN	_	10	auxpass
+10	caused	cause	VBN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	11	pobj
+13	erupting	erupt	VBG	_	12	amod
+14	ash	ash	JJ	_	17	nsubj
+15	and	and	CC	_	14	cc
+16	smoke	smoke	NN	_	14	conj
+17	colliding	collide	VBG	_	13	xcomp
+18	with	with	IN	_	17	prep
+19	a	a	DT	_	21	det
+20	lightning	lightning	NN	_	21	nn
+21	storm	storm	NN	_	18	pobj
+22	.	.	.	_	10	punct
+

@@ -1,0 +1,16 @@
+1	An	a	DT	_	2	det
+2	inflammation	inflammation	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	liver	liver	NN	_	3	pobj
+6	caused	cause	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	hepatitis	hepatitis	NN	_	11	nn
+10	A	a	NN	_	11	nn
+11	virus	virus	NN	_	7	pobj
+12	-LRB-	-lrb-	-LRB-	_	13	punct
+13	HAV	hav	NN	_	11	appos
+14	-RRB-	-rrb-	-RRB-	_	13	punct
+15	.	.	.	_	2	punct
+

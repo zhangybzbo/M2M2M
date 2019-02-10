@@ -1,0 +1,15 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	variety	variety	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	basic	basic	JJ	_	8	amod
+7	gardening	gardening	NN	_	8	nn
+8	tools	tool	NNS	_	5	pobj
+9	that	that	IN	_	13	dobj
+10	the	the	DT	_	12	det
+11	all	all	DT	_	12	det
+12	gardeners	gardener	NNS	_	13	nsubj
+13	have	have	VBP	_	4	rcmod
+14	.	.	.	_	2	punct
+

@@ -1,0 +1,24 @@
+1	Ibsen	Ibsen	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	work	work	NN	_	4	nsubj
+4	examined	examine	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	realities	reality	NNS	_	4	dobj
+7	that	that	WDT	_	8	nsubj
+8	lay	lay	VBD	_	6	rcmod
+9	behind	behind	IN	_	8	prep
+10	many	many	JJ	_	11	amod
+11	facades	facade	NNS	_	9	pobj
+12	,	,	,	_	4	punct
+13	possessing	possess	VBG	_	4	vmod
+14	a	a	DT	_	16	det
+15	revelatory	revelatory	JJ	_	16	amod
+16	nature	nature	NN	_	13	dobj
+17	that	that	WDT	_	19	nsubj
+18	was	be	VBD	_	19	cop
+19	disquieting	disquieting	JJ	_	16	rcmod
+20	to	to	TO	_	19	prep
+21	many	many	JJ	_	22	amod
+22	contemporaries	contemporary	NNS	_	20	pobj
+23	.	.	.	_	4	punct
+

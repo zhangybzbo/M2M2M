@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	det
+2	study	study	NN	_	0	ROOT
+3	aimed	aim	VBN	_	2	vmod
+4	at	at	IN	_	3	prep
+5	assessing	assess	VBG	_	4	pcomp
+6	the	the	DT	_	8	det
+7	processing	processing	NN	_	8	nn
+8	time	time	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	natural	natural	JJ	_	12	amod
+12	scene	scene	NN	_	9	pobj
+13	in	in	IN	_	5	prep
+14	a	a	DT	_	17	det
+15	fast	fast	JJ	_	17	amod
+16	categorization	categorization	NN	_	17	nn
+17	task	task	NN	_	13	pobj
+18	of	of	IN	_	17	prep
+19	its	its	PRP$	_	20	poss
+20	context	context	NN	_	18	pobj
+21	or	or	CC	_	17	cc
+22	`	`	``	_	23	punct
+23	gist	gist	NN	_	17	conj
+24	'	'	''	_	23	punct
+25	.	.	.	_	2	punct
+

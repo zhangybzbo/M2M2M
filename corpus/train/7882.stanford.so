@@ -1,0 +1,8 @@
+0	38	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="Stereograph" pos="NNP" nsubj="t1"
+12	20	tok id="t1" base="produce" pos="VBZ" ROOT="ROOT"
+21	24	tok id="t2" base="the" pos="DT" det="t4"
+25	29	tok id="t3" base="same" pos="JJ" amod="t4"
+30	36	tok id="t4" base="output" pos="NN" dobj="t1"
+37	38	tok id="t5" base="-PERIOD-" pos="." punct="t1"
+

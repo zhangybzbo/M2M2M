@@ -1,0 +1,13 @@
+1	Fact	Fact	NNP	_	2	nn
+2	Magazine	Magazine	NNP	_	6	nsubj
+3	was	be	VBD	_	6	cop
+4	an	a	DT	_	6	det
+5	American	american	JJ	_	6	amod
+6	publication	publication	NN	_	0	ROOT
+7	that	that	WDT	_	8	nsubj
+8	commented	comment	VBD	_	6	rcmod
+9	on	on	IN	_	8	prep
+10	controversial	controversial	JJ	_	11	amod
+11	topics	topic	NNS	_	9	pobj
+12	.	.	.	_	6	punct
+

@@ -1,0 +1,1 @@
+You have fetched character data into a standard result set .

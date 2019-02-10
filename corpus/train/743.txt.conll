@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	novel	novel	JJ	_	3	nsubj
+3	depicts	depict	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	harsh	harsh	JJ	_	6	amod
+6	life	life	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	workers	worker	NNS	_	7	pobj
+9	who	who	WP	_	10	nsubj
+10	worked	work	VBD	_	8	rcmod
+11	on	on	IN	_	10	prep
+12	a	a	DT	_	16	det
+13	crab-fishing	crab-fishing	JJ	_	16	amod
+14	and	and	CC	_	13	cc
+15	canning	canning	NN	_	13	conj
+16	boat	boat	NN	_	11	pobj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	northern	northern	JJ	_	20	amod
+20	seas	sea	NNS	_	17	pobj
+21	of	of	IN	_	20	prep
+22	Japan	Japan	NNP	_	21	pobj
+23	.	.	.	_	3	punct
+

@@ -1,0 +1,8 @@
+1	Real	real	JJ	_	2	amod
+2	gamers	gamer	NNS	_	3	nsubj
+3	use	use	VBP	_	0	ROOT
+4	keys	key	NNS	_	6	nn
+5	neck	neck	NN	_	6	nn
+6	ties	tie	NNS	_	3	dobj
+7	.	.	.	_	3	punct
+

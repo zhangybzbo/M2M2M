@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	aerosol	aerosol	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	generated	generate	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	oxalic	oxalic	JJ	_	9	amod
+8	acid	acid	NN	_	9	nn
+9	solution	solution	NN	_	5	pobj
+10	containing	contain	VBG	_	9	vmod
+11	only	only	RB	_	13	advmod
+12	the	the	DT	_	13	det
+13	tracer	tracer	NN	_	10	dobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	film	film	NN	_	3	nsubj
+3	documented	document	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	first	first	JJ	_	6	amod
+6	journey	journey	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	an	a	DT	_	10	det
+9	European	european	JJ	_	10	amod
+10	orchestra	orchestra	NN	_	7	pobj
+11	to	to	TO	_	6	prep
+12	Iran	Iran	NNP	_	11	pobj
+13	after	after	IN	_	6	prep
+14	30	30	CD	_	15	num
+15	years	year	NNS	_	13	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det
+2	gift	gift	NN	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	politician	politician	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	big	big	JJ	_	9	amod
+9	brother	brother	NN	_	4	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,1 @@
+The software caused a pretty good drain on the CPU for some reason .

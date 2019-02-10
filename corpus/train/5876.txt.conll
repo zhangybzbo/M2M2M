@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	navigator	navigator	NN	_	3	nsubj
+3	did	do	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	job	job	NN	_	3	dobj
+6	then	then	RB	_	7	advmod
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	Plath	Plath	NNP	_	10	nn
+10	sextant	sextant	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	a	a	DT	_	13	det
+13	chronograph	chronograph	NN	_	10	conj
+14	.	.	.	_	3	punct
+

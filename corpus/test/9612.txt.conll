@@ -1,0 +1,19 @@
+1	But	but	CC	_	10	cc
+2	for	for	IN	_	10	prep
+3	an	a	DT	_	9	det
+4	old	old	JJ	_	9	amod
+5	AT	at	IN	_	4	prep
+6	keyboard	keyboard	NN	_	5	pobj
+7	the	the	DT	_	9	det
+8	keypad	keypad	NN	_	9	nn
+9	keys	key	NNS	_	2	pobj
+10	produced	produce	VBD	_	0	ROOT
+11	digits	digit	NNS	_	10	dobj
+12	when	when	WRB	_	14	advmod
+13	Numlock	Numlock	NNP	_	14	nsubj
+14	was	be	VBD	_	10	advcl
+15	on	on	IN	_	14	prep
+16	or	or	CC	_	15	cc
+17	Shift	shift	NN	_	15	conj
+18	.	.	.	_	10	punct
+

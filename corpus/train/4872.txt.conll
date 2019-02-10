@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	wallet	wallet	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	driver	driver	NN	_	7	poss
+6	's	's	POS	_	5	possessive
+7	license	license	NN	_	3	dobj
+8	,	,	,	_	7	punct
+9	passport	passport	NN	_	7	appos
+10	,	,	,	_	7	punct
+11	a	a	DT	_	14	det
+12	couple	couple	NN	_	14	nn
+13	credit	credit	NN	_	14	nn
+14	cards	card	NNS	_	7	appos
+15	and	and	CC	_	7	cc
+16	$	$	$	_	7	conj
+17	16	16	CD	_	16	num
+18	in	in	IN	_	16	prep
+19	cash	cash	NN	_	18	pobj
+20	.	.	.	_	3	punct
+

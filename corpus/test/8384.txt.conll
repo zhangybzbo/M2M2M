@@ -1,0 +1,13 @@
+1	My	my	PRP$	_	2	poss
+2	aunt	aunt	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	care	care	NN	_	8	nn
+8	suffering	suffering	NN	_	6	pobj
+9	with	with	IN	_	5	prep
+10	memory	memory	NN	_	11	nn
+11	loss	loss	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

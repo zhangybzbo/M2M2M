@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	farm	farm	NN	_	3	nsubj
+3	takes	take	VBZ	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	raffle	raffle	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	turkeys	turkey	NNS	_	7	pobj
+9	in	in	IN	_	3	prep
+10	July	July	NNP	_	9	pobj
+11	,	,	,	_	3	punct
+12	when	when	WRB	_	18	advmod
+13	they	they	PRP	_	18	nsubj
+14	're	be	VBP	_	18	cop
+15	just	just	RB	_	17	advmod
+16	one	one	CD	_	17	num
+17	day	day	NN	_	18	npadvmod
+18	old	old	JJ	_	3	advcl
+19	,	,	,	_	3	punct
+20	until	until	IN	_	23	mark
+21	they	they	PRP	_	23	nsubjpass
+22	're	be	VBP	_	23	auxpass
+23	slaughtered	slaughter	VBN	_	3	advcl
+24	in	in	IN	_	23	prep
+25	December	December	NNP	_	24	pobj
+26	.	.	.	_	3	punct
+

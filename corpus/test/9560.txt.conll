@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	artwork	artwork	NN	_	3	nsubj
+3	arose	arise	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	enjoyable	enjoyable	JJ	_	7	amod
+7	evening	evening	NN	_	4	pobj
+8	with	with	IN	_	7	prep
+9	some	some	DT	_	10	det
+10	friends	friend	NNS	_	8	pobj
+11	and	and	CC	_	4	cc
+12	too	too	RB	_	13	advmod
+13	much	much	JJ	_	14	amod
+14	inspiration	inspiration	NN	_	4	conj
+15	.	.	.	_	3	punct
+

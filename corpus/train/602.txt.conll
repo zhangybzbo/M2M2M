@@ -1,0 +1,20 @@
+1	In	in	IN	_	0	ROOT
+2	businesses	business	NNS	_	1	pobj
+3	generally	generally	RB	_	7	advmod
+4	the	the	DT	_	7	det
+5	third	third	JJ	_	7	amod
+6	party	party	NN	_	7	nn
+7	claims	claim	NNS	_	1	dep
+8	for	for	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	damages	damages	NNS	_	8	pobj
+11	that	that	WDT	_	14	nsubjpass
+12	has	have	VBZ	_	14	aux
+13	been	be	VBN	_	14	auxpass
+14	caused	cause	VBN	_	10	rcmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	company	company	NN	_	18	nn
+18	vehicle	vehicle	NN	_	15	pobj
+19	.	.	.	_	1	punct
+

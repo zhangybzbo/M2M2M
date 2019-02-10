@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	purpose	purpose	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	paper	paper	NN	_	3	pobj
+6	is	be	VBZ	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	present	present	VB	_	6	xcomp
+9	an	a	DT	_	11	det
+10	on-going	on-going	JJ	_	11	amod
+11	research	research	NN	_	8	dobj
+12	that	that	WDT	_	11	dep
+13	constructs	construct	NNS	_	12	dep
+14	a	a	DT	_	16	det
+15	live	live	JJ	_	16	amod
+16	thesaurus	thesaurus	NN	_	13	dep
+17	directly	directly	RB	_	18	advmod
+18	from	from	IN	_	16	prep
+19	search	search	NN	_	21	nn
+20	term	term	NN	_	21	nn
+21	logs	log	NNS	_	18	pobj
+22	of	of	IN	_	21	prep
+23	real-world	real-world	JJ	_	25	amod
+24	search	search	NN	_	25	nn
+25	engines	engine	NNS	_	22	pobj
+26	.	.	.	_	6	punct
+

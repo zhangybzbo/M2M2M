@@ -1,0 +1,13 @@
+0	55	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="financial" pos="JJ" amod="t1"
+10	16	tok id="t1" base="stress" pos="NN" nsubj="t3"
+17	19	tok id="t2" base="be" pos="VBZ" cop="t3"
+20	23	tok id="t3" base="one" pos="CD" ROOT="ROOT"
+24	26	tok id="t4" base="of" pos="IN" prep="t3"
+27	30	tok id="t5" base="the" pos="DT" det="t7"
+31	35	tok id="t6" base="main" pos="JJ" amod="t7"
+36	42	tok id="t7" base="cause" pos="NNS" pobj="t4"
+43	45	tok id="t8" base="of" pos="IN" prep="t7"
+46	53	tok id="t9" base="divorce" pos="NN" pobj="t8"
+54	55	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

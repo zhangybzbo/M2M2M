@@ -1,0 +1,12 @@
+1	Milk	milk	NN	_	2	nn
+2	samples	sample	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	obtained	obtain	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	one	one	CD	_	7	num
+7	milking	milking	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	each	each	DT	_	10	det
+10	cow	cow	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

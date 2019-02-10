@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	study	study	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	making	make	VBG	_	0	ROOT
+5	a	a	DT	_	7	det
+6	valuable	valuable	JJ	_	7	amod
+7	contribution	contribution	NN	_	4	dobj
+8	to	to	TO	_	7	prep
+9	determining	determine	VBG	_	8	pcomp
+10	the	the	DT	_	11	det
+11	levels	level	NNS	_	9	dobj
+12	of	of	IN	_	11	prep
+13	sustainable	sustainable	JJ	_	14	amod
+14	tourism	tourism	NN	_	12	pobj
+15	in	in	IN	_	11	prep
+16	this	this	DT	_	17	det
+17	country	country	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

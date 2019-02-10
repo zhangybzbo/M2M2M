@@ -1,0 +1,10 @@
+0	45	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="people" pos="NNS" nsubj="t2"
+7	11	tok id="t1" base="have" pos="VBP" aux="t2"
+12	21	tok id="t2" base="inherit" pos="VBN" ROOT="ROOT"
+22	23	tok id="t3" base="a" pos="DT" det="t4"
+24	32	tok id="t4" base="tendency" pos="NN" dobj="t2"
+33	35	tok id="t5" base="to" pos="TO" prep="t4"
+36	43	tok id="t6" base="obesity" pos="NN" pobj="t5"
+44	45	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

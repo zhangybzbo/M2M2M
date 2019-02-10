@@ -1,0 +1,16 @@
+1	Government	Government	NNP	_	2	nn
+2	revenues	revenue	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	drained	drain	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	expensive	expensive	JJ	_	8	amod
+7	welfare	welfare	NN	_	8	nn
+8	programs	program	NNS	_	5	pobj
+9	such	such	JJ	_	10	mwe
+10	as	as	IN	_	8	prep
+11	health	health	NN	_	12	nn
+12	care	care	NN	_	10	pobj
+13	,	,	,	_	12	punct
+14	pensions	pension	NNS	_	12	appos
+15	.	.	.	_	4	punct
+

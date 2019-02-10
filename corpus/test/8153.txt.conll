@@ -1,0 +1,11 @@
+1	My	my	PRP$	_	2	poss
+2	rabbit	rabbit	NN	_	4	nsubj
+3	just	just	RB	_	4	advmod
+4	had	have	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	new	new	JJ	_	7	amod
+7	litter	litter	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	rabbits	rabbit	NNS	_	8	pobj
+10	.	.	.	_	4	punct
+

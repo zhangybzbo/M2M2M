@@ -1,0 +1,22 @@
+1	In	in	IN	_	7	prep
+2	general	general	JJ	_	1	pobj
+3	,	,	,	_	7	punct
+4	the	the	DT	_	6	det
+5	old	old	JJ	_	6	amod
+6	queen	queen	NN	_	7	nsubj
+7	starts	start	VBZ	_	0	ROOT
+8	laying	lay	VBG	_	7	xcomp
+9	eggs	egg	NNS	_	8	dobj
+10	into	into	IN	_	8	prep
+11	queen	queen	NN	_	12	nn
+12	cups	cup	NNS	_	10	pobj
+13	when	when	WRB	_	16	advmod
+14	conditions	condition	NNS	_	16	nsubj
+15	are	be	VBP	_	16	cop
+16	right	right	JJ	_	8	advcl
+17	for	for	IN	_	16	prep
+18	swarming	swarm	VBG	_	17	pobj
+19	or	or	CC	_	18	cc
+20	supersedure	supersedure	NN	_	18	conj
+21	.	.	.	_	7	punct
+

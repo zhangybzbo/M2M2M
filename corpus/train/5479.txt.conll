@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	moved	move	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	mobile	mobile	JJ	_	8	amod
+7	software	software	NN	_	8	nn
+8	applications	application	NNS	_	5	pobj
+9	,	,	,	_	8	punct
+10	which	which	WDT	_	11	nsubj
+11	connect	connect	VBP	_	8	rcmod
+12	to	to	TO	_	11	prep
+13	enterprise	enterprise	NN	_	14	nn
+14	databases	database	NNS	_	12	pobj
+15	.	.	.	_	4	punct
+

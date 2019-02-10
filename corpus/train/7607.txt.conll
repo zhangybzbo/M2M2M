@@ -1,0 +1,9 @@
+1	Original	original	JJ	_	2	amod
+2	sculptures	sculpture	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	carved	carve	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	chainsaw	chainsaw	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

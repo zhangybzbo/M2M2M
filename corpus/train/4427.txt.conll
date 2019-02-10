@@ -1,0 +1,18 @@
+1	Man	man	NN	_	2	nsubj
+2	gets	get	VBZ	_	13	dep
+3	life	life	NN	_	4	nn
+4	sentence	sentence	NN	_	2	dobj
+5	in	in	IN	_	13	dep
+6	kidnap	kidnap	VBP	_	13	dep
+7	,	,	,	_	13	punct
+8	ransom	ransom	NN	_	9	nn
+9	case	case	NN	_	13	dep
+10	of	of	IN	_	9	prep
+11	woman	woman	NN	_	10	pobj
+12	he	he	PRP	_	13	nsubj
+13	kept	keep	VBD	_	0	ROOT
+14	in	in	IN	_	13	prep
+15	makeshift	makeshift	JJ	_	16	amod
+16	casket	casket	NN	_	14	pobj
+17	.	.	.	_	13	punct
+

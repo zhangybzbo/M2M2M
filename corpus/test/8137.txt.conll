@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	swim	swim	VBP	_	3	amod
+3	bladder	bladder	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	aquatic	aquatic	JJ	_	6	amod
+6	animals	animal	NNS	_	4	pobj
+7	gives	give	VBZ	_	0	ROOT
+8	them	they	PRP	_	7	iobj
+9	the	the	DT	_	10	det
+10	ability	ability	NN	_	7	dobj
+11	to	to	TO	_	12	aux
+12	manioulate	manioulate	VB	_	10	vmod
+13	gravity	gravity	NN	_	12	dobj
+14	and	and	CC	_	12	cc
+15	should	should	MD	_	17	aux
+16	be	be	VB	_	17	auxpass
+17	researched	research	VBN	_	12	conj
+18	more	more	RBR	_	17	advmod
+19	.	.	.	_	7	punct
+

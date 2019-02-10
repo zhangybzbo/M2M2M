@@ -1,0 +1,14 @@
+1	Simultaneously	simultaneously	RB	_	5	advmod
+2	the	the	DT	_	4	det
+3	5-inch	5-inch	JJ	_	4	amod
+4	battery	battery	NN	_	5	nsubj
+5	fired	fire	VBD	_	0	ROOT
+6	a	a	DT	_	7	det
+7	broadside	broadside	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	star	star	NN	_	10	nn
+10	shells	shell	NNS	_	8	pobj
+11	for	for	IN	_	5	prep
+12	illumination	illumination	NN	_	11	pobj
+13	.	.	.	_	5	punct
+

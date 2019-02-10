@@ -1,0 +1,25 @@
+1	To	to	TO	_	2	aux
+2	connect	connect	VB	_	11	advcl
+3	your	you	PRP$	_	5	poss
+4	MP3	mp3	NN	_	5	nn
+5	player	player	NN	_	2	dobj
+6	to	to	TO	_	2	prep
+7	your	you	PRP$	_	8	poss
+8	computer	computer	NN	_	6	pobj
+9	,	,	,	_	11	punct
+10	you	you	PRP	_	11	nsubj
+11	need	need	VBP	_	0	ROOT
+12	a	a	DT	_	14	det
+13	USB	usb	JJ	_	14	amod
+14	cord	cord	NN	_	11	dobj
+15	that	that	WDT	_	16	nsubj
+16	hooks	hook	VBZ	_	14	rcmod
+17	into	into	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	slot	slot	NN	_	17	pobj
+20	on	on	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	music	music	NN	_	23	nn
+23	player	player	NN	_	20	pobj
+24	.	.	.	_	11	punct
+

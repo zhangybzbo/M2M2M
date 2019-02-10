@@ -1,0 +1,25 @@
+1	Every	every	DT	_	5	det
+2	three	three	CD	_	4	number
+3	to	to	TO	_	4	dep
+4	five	five	CD	_	5	num
+5	weeks	week	NNS	_	19	tmod
+6	due	due	JJ	_	7	mwe
+7	to	to	TO	_	5	prep
+8	the	the	DT	_	9	det
+9	growth	growth	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	horse	horse	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	hoof	hoof	NN	_	10	pobj
+15	,	,	,	_	19	punct
+16	the	the	DT	_	17	det
+17	shoe	shoe	NN	_	19	nsubjpass
+18	is	be	VBZ	_	19	auxpass
+19	removed	remove	VBN	_	0	ROOT
+20	and	and	CC	_	19	cc
+21	the	the	DT	_	22	det
+22	hoof	hoof	NN	_	23	nsubj
+23	trimmed	trim	VBD	_	19	conj
+24	.	.	.	_	19	punct
+

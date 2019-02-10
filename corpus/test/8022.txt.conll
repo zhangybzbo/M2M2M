@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	bomb	bomb	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	suitcase	suitcase	NN	_	4	pobj
+7	loaded	load	VBN	_	6	vmod
+8	in	in	IN	_	7	prep
+9	Frankfurt	Frankfurt	NNP	_	8	pobj
+10	and	and	CC	_	3	cc
+11	transferred	transfer	VBN	_	3	conj
+12	to	to	TO	_	11	prep
+13	the	the	DT	_	15	det
+14	doomed	doomed	JJ	_	15	amod
+15	Boeing	Boeing	NNP	_	12	pobj
+16	747	747	CD	_	15	num
+17	in	in	IN	_	15	prep
+18	London	London	NNP	_	17	pobj
+19	.	.	.	_	3	punct
+

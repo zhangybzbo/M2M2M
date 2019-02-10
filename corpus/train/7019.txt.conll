@@ -1,0 +1,18 @@
+1	Meanwhile	meanwhile	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	speech	speech	NN	_	5	nsubj
+5	pointed	point	VBD	_	0	ROOT
+6	out	out	RP	_	5	prt
+7	that	that	IN	_	14	mark
+8	the	the	DT	_	10	det
+9	scientific	scientific	JJ	_	10	amod
+10	innovation	innovation	NN	_	14	nsubj
+11	is	be	VBZ	_	14	cop
+12	the	the	DT	_	14	det
+13	only	only	JJ	_	14	amod
+14	way	way	NN	_	5	ccomp
+15	to	to	TO	_	16	aux
+16	develop	develop	VB	_	14	vmod
+17	.	.	.	_	5	punct
+

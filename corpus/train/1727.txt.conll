@@ -1,0 +1,13 @@
+1	Construction	construction	NN	_	2	nn
+2	industry	industry	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	worth	worth	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	invested	invest	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	construction	construction	NN	_	9	nn
+9	plant	plant	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	equipment	equipment	NN	_	9	conj
+12	.	.	.	_	6	punct
+

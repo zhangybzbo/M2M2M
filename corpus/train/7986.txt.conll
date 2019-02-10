@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	lower	lower	JJR	_	3	amod
+3	mark	mark	NN	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	the	the	DT	_	7	det
+6	Vienna	Vienna	NNP	_	7	nn
+7	company	company	NN	_	0	ROOT
+8	that	that	WDT	_	9	nsubj
+9	made	make	VBD	_	7	rcmod
+10	the	the	DT	_	11	det
+11	mug	mug	NN	_	9	dobj
+12	.	.	.	_	7	punct
+

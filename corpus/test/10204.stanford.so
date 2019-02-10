@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="it" pos="PRP" nsubj="t4"
+3	5	tok id="t1" base="be" pos="VBZ" cop="t4"
+6	9	tok id="t2" base="the" pos="DT" det="t4"
+10	14	tok id="t3" base="only" pos="JJ" amod="t4"
+15	22	tok id="t4" base="journal" pos="NN" ROOT="ROOT"
+23	32	tok id="t5" base="dedicate" pos="VBN" vmod="t4"
+33	35	tok id="t6" base="to" pos="TO" prep="t5"
+36	46	tok id="t7" base="veterinary" pos="JJ" amod="t8"
+47	54	tok id="t8" base="imaging" pos="NN" pobj="t6"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

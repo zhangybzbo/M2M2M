@@ -1,0 +1,25 @@
+1	In	in	IN	_	7	prep
+2	ionic	ionic	JJ	_	5	amod
+3	conduction	conduction	NN	_	5	nn
+4	charge	charge	NN	_	5	nn
+5	carriers	carrier	NNS	_	1	pobj
+6	are	be	VBP	_	7	auxpass
+7	affected	affect	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	electromagnetic	electromagnetic	JJ	_	11	amod
+11	radiation	radiation	NN	_	8	pobj
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	microwaves	microwave	NNS	_	12	pobj
+15	by	by	IN	_	7	prep
+16	being	be	VBG	_	17	auxpass
+17	attracted	attract	VBN	_	15	pcomp
+18	or	or	CC	_	17	cc
+19	repelled	repel	VBN	_	17	conj
+20	by	by	IN	_	17	prep
+21	the	the	DT	_	23	det
+22	electric	electric	JJ	_	23	amod
+23	field	field	NN	_	20	pobj
+24	.	.	.	_	7	punct
+

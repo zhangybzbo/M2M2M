@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	convict	convict	VB	_	3	nsubj
+3	protects	protect	VBZ	_	0	ROOT
+4	Pip	pip	NN	_	3	dobj
+5	with	with	IN	_	3	prep
+6	a	a	DT	_	7	det
+7	claim	claim	NN	_	5	pobj
+8	that	that	IN	_	10	mark
+9	he	he	PRP	_	10	nsubj
+10	stole	steal	VBD	_	7	ccomp
+11	the	the	DT	_	12	det
+12	items	item	NNS	_	10	dobj
+13	himself	himself	PRP	_	12	npadvmod
+14	.	.	.	_	3	punct
+

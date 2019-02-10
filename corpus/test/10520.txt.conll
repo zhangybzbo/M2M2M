@@ -1,0 +1,22 @@
+1	This	this	DT	_	3	det
+2	elite	elite	NN	_	3	nn
+3	formation	formation	NN	_	4	nsubj
+4	comprised	comprise	VBN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	several	several	JJ	_	7	amod
+7	regiments	regiment	NNS	_	5	pobj
+8	:	:	:	_	7	punct
+9	Lifeguard	lifeguard	NN	_	10	nn
+10	dragoons	dragoon	NNS	_	7	dep
+11	,	,	,	_	10	punct
+12	Lifeguard	lifeguard	NN	_	13	nn
+13	uhlans	uhlan	NNS	_	10	conj
+14	,	,	,	_	10	punct
+15	Lifeguard	lifeguard	NN	_	16	nn
+16	hussars	hussar	NNS	_	10	conj
+17	,	,	,	_	10	punct
+18	and	and	CC	_	10	cc
+19	Lifeguard	Lifeguard	NNP	_	20	nn
+20	cossacks	cossack	NNS	_	10	conj
+21	.	.	.	_	4	punct
+

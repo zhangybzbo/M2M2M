@@ -1,0 +1,21 @@
+1	In	in	IN	_	0	ROOT
+2	1991	1991	CD	_	1	pobj
+3	the	the	DT	_	6	det
+4	placental	placental	JJ	_	6	amod
+5	cell	cell	NN	_	6	nn
+6	preparations	preparation	NNS	_	1	dep
+7	developed	develop	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	company	company	NN	_	8	pobj
+11	where	where	WRB	_	12	advmod
+12	entered	enter	VBN	_	10	rcmod
+13	into	into	IN	_	12	prep
+14	clinical	clinical	JJ	_	15	amod
+15	tests	test	NNS	_	13	pobj
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	health	health	NN	_	19	nn
+19	authorities	authority	NNS	_	16	pobj
+20	.	.	.	_	1	punct
+

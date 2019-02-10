@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	this	this	DT	_	4	det
+4	photo	photo	NN	_	2	dobj
+5	out	out	IN	_	2	prep
+6	of	of	IN	_	5	pcomp
+7	an	a	DT	_	9	det
+8	airplane	airplane	NN	_	9	nn
+9	window	window	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

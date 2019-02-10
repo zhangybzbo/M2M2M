@@ -1,0 +1,12 @@
+1	Berry	Berry	NNP	_	2	nn
+2	wine	wine	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	potential	potential	JJ	_	3	dobj
+6	to	to	TO	_	10	aux
+7	be	be	VB	_	10	cop
+8	really	really	RB	_	10	advmod
+9	remarkably	remarkably	RB	_	10	advmod
+10	awful	awful	JJ	_	5	xcomp
+11	.	.	.	_	3	punct
+

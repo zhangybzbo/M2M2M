@@ -1,0 +1,3 @@
+T1	Term 41 52	devastation
+T2	Term 67 75	flooding
+R1	Cause-Effect Arg1:T2 Arg2:T1

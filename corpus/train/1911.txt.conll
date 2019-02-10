@@ -1,0 +1,19 @@
+1	Crime	crime	NN	_	2	nn
+2	fiction	fiction	NN	_	10	nsubj
+3	is	be	VBZ	_	10	cop
+4	a	a	DT	_	10	det
+5	typically	typically	RB	_	6	advmod
+6	19th	19th	JJ	_	10	amod
+7	and	and	CC	_	6	cc
+8	20th	20th	JJ	_	6	conj
+9	century	century	NN	_	10	nn
+10	genre	genre	NN	_	0	ROOT
+11	,	,	,	_	10	punct
+12	dominated	dominate	VBN	_	10	vmod
+13	by	by	IN	_	12	prep
+14	British	british	JJ	_	17	amod
+15	and	and	CC	_	14	cc
+16	American	american	JJ	_	14	conj
+17	writers	writer	NNS	_	13	pobj
+18	.	.	.	_	10	punct
+

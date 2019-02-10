@@ -1,0 +1,24 @@
+1	These	these	DT	_	2	det
+2	characteristics	characteristic	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	inconsistent	inconsistent	JJ	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	observations	observation	NNS	_	5	pobj
+7	from	from	IN	_	6	prep
+8	earthquakes	earthquake	NNS	_	7	pobj
+9	of	of	IN	_	8	prep
+10	comparable	comparable	JJ	_	11	amod
+11	distance	distance	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	magnitude	magnitude	NN	_	11	conj
+14	to	to	TO	_	6	prep
+15	those	those	DT	_	14	pobj
+16	that	that	WDT	_	17	nsubj
+17	dominate	dominate	VBP	_	15	rcmod
+18	the	the	DT	_	19	det
+19	hazard	hazard	NN	_	17	dobj
+20	at	at	IN	_	19	prep
+21	Yucca	Yucca	NNP	_	22	nn
+22	Mountain	Mountain	NNP	_	20	pobj
+23	.	.	.	_	4	punct
+

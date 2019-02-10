@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	pet	pet	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	overly	overly	RB	_	5	advmod
+5	sensitive	sensitive	JJ	_	0	ROOT
+6	,	,	,	_	5	punct
+7	and	and	CC	_	5	cc
+8	thus	thus	RB	_	13	advmod
+9	the	the	DT	_	10	det
+10	ticks	tick	NNS	_	13	nsubj
+11	and	and	CC	_	10	cc
+12	fleas	flea	NNS	_	10	conj
+13	caused	cause	VBD	_	5	conj
+14	rashes	rash	NNS	_	13	dobj
+15	and	and	CC	_	14	cc
+16	discomfort	discomfort	NN	_	14	conj
+17	.	.	.	_	5	punct
+

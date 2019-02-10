@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	working	work	VBG	_	3	amod
+3	party	party	NN	_	5	poss
+4	's	's	POS	_	3	possessive
+5	conclusions	conclusion	NNS	_	7	nsubjpass
+6	were	be	VBD	_	7	auxpass
+7	set	set	VBN	_	0	ROOT
+8	out	out	RP	_	7	prt
+9	in	in	IN	_	7	prep
+10	a	a	DT	_	11	det
+11	document	document	NN	_	9	pobj
+12	dated	date	VBN	_	11	vmod
+13	June	June	NNP	_	12	tmod
+14	1951	1951	CD	_	13	num
+15	.	.	.	_	7	punct
+

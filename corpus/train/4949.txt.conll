@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	trilogy	trilogy	NN	_	3	nn
+3	studies	study	NNS	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	depth	depth	NN	_	4	pobj
+6	the	the	DT	_	7	det
+7	transition	transition	NN	_	3	dep
+8	from	from	IN	_	7	prep
+9	war	war	NN	_	8	pobj
+10	to	to	TO	_	7	prep
+11	peace	peace	NN	_	10	pobj
+12	in	in	IN	_	7	prep
+13	1815	1815	CD	_	12	pobj
+14	,	,	,	_	13	punct
+15	1918	1918	CD	_	13	conj
+16	and	and	CC	_	13	cc
+17	1945	1945	CD	_	13	conj
+18	.	.	.	_	3	punct
+

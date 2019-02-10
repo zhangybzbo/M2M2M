@@ -1,0 +1,23 @@
+1	He	he	PRP	_	7	nsubj
+2	has	have	VBZ	_	7	aux
+3	been	be	VBN	_	7	cop
+4	a	a	DT	_	7	det
+5	core	core	NN	_	7	nn
+6	team	team	NN	_	7	nn
+7	member	member	NN	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	various	various	JJ	_	12	amod
+11	research	research	NN	_	12	nn
+12	publications	publication	NNS	_	8	pobj
+13	and	and	CC	_	12	cc
+14	resource	resource	NN	_	15	nn
+15	person	person	NN	_	12	conj
+16	for	for	IN	_	12	prep
+17	policy	policy	NN	_	18	nn
+18	documents	document	NNS	_	16	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	RBI	RBI	NNP	_	19	pobj
+22	.	.	.	_	7	punct
+

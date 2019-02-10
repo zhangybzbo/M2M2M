@@ -1,0 +1,23 @@
+1	Each	each	DT	_	2	det
+2	sample	sample	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	felt	feel	VBN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	enclosed	enclose	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	separate	separate	JJ	_	12	amod
+11	glass	glass	NN	_	12	nn
+12	vial	vial	NN	_	8	pobj
+13	with	with	IN	_	12	prep
+14	blanks	blank	NNS	_	13	pobj
+15	of	of	IN	_	14	prep
+16	polished	polished	JJ	_	17	amod
+17	lead	lead	NN	_	15	pobj
+18	,	,	,	_	17	punct
+19	silver	silver	NN	_	17	conj
+20	and	and	CC	_	17	cc
+21	copper	copper	NN	_	17	conj
+22	.	.	.	_	7	punct
+

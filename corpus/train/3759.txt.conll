@@ -1,0 +1,12 @@
+1	Brown	Brown	NNP	_	0	ROOT
+2	and	and	CC	_	1	cc
+3	white	white	JJ	_	4	amod
+4	butterflies	butterfly	NNS	_	1	conj
+5	flip-flopped	flip-flopped	JJ	_	1	amod
+6	over	over	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	stand	stand	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	fireweed	fireweed	NN	_	9	pobj
+11	.	.	.	_	1	punct
+

@@ -1,0 +1,16 @@
+1	Extra-alveolar	extra-alveolar	JJ	_	2	amod
+2	veins	vein	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	contiguous	contiguous	JJ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	leaked	leak	VBN	_	7	amod
+7	fluid	fluid	NN	_	4	conj
+8	into	into	IN	_	4	prep
+9	periarterial	periarterial	JJ	_	10	amod
+10	cuffs	cuff	NNS	_	8	pobj
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	rabbit	rabbit	NN	_	14	nn
+14	lungs	lung	NNS	_	11	pobj
+15	.	.	.	_	4	punct
+

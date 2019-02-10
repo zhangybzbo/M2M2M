@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	discoverer	discoverer	NN	_	3	nsubj
+3	writes	write	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	short	short	JJ	_	6	amod
+6	citation	citation	NN	_	3	dobj
+7	explaining	explain	VBG	_	6	vmod
+8	the	the	DT	_	9	det
+9	reasons	reason	NNS	_	7	dobj
+10	for	for	IN	_	9	prep
+11	assigning	assign	VBG	_	10	pcomp
+12	the	the	DT	_	13	det
+13	name	name	NN	_	11	dobj
+14	.	.	.	_	3	punct
+

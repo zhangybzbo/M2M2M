@@ -1,0 +1,3 @@
+T1	Term 9 15	planes
+T2	Term 48 53	rooms
+R1	Entity-Destination Arg1:T1 Arg2:T2

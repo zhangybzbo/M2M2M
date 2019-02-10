@@ -1,0 +1,18 @@
+1	We	we	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	breakfast	breakfast	NN	_	2	dobj
+4	and	and	CC	_	3	cc
+5	the	the	DT	_	6	det
+6	chai	chaus	NN	_	3	conj
+7	was	be	VBD	_	2	dep
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	glass	glass	NN	_	8	pobj
+11	which	which	WDT	_	13	dobj
+12	I	I	PRP	_	13	nsubj
+13	found	find	VBD	_	10	rcmod
+14	a	a	DT	_	16	det
+15	little	little	JJ	_	16	amod
+16	strange	strange	JJ	_	13	dobj
+17	.	.	.	_	2	punct
+

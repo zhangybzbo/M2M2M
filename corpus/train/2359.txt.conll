@@ -1,0 +1,20 @@
+1	Republican	republican	JJ	_	2	amod
+2	senators	senator	NNS	_	3	nsubj
+3	hammered	hammer	VBD	_	0	ROOT
+4	White	White	NNP	_	7	nn
+5	House	House	NNP	_	7	nn
+6	science	science	NN	_	7	nn
+7	officials	official	NNS	_	3	dobj
+8	about	about	IN	_	3	prep
+9	the	the	DT	_	10	det
+10	emails	email	NNS	_	8	pobj
+11	leaked	leak	VBN	_	10	vmod
+12	from	from	IN	_	11	prep
+13	prominent	prominent	JJ	_	15	amod
+14	climate	climate	NN	_	15	nn
+15	scientists	scientist	NNS	_	12	pobj
+16	two	two	CD	_	17	num
+17	weeks	week	NNS	_	18	npadvmod
+18	ago	ago	RB	_	11	advmod
+19	.	.	.	_	3	punct
+

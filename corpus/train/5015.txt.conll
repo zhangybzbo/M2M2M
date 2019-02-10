@@ -1,0 +1,26 @@
+1	And	and	CC	_	0	ROOT
+2	so	so	IN	_	4	mark
+3	I	I	PRP	_	4	nsubj
+4	was	be	VBD	_	1	ccomp
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	group	group	NN	_	5	pobj
+8	that	that	WDT	_	9	nsubj
+9	took	take	VBD	_	7	rcmod
+10	the	the	DT	_	11	det
+11	taxi	taxi	NN	_	9	dobj
+12	to	to	TO	_	9	prep
+13	the	the	DT	_	14	det
+14	restaurant	restaurant	NN	_	12	pobj
+15	and	and	CC	_	9	cc
+16	then	then	RB	_	17	advmod
+17	back	back	RB	_	9	advmod
+18	again	again	RB	_	17	advmod
+19	to	to	TO	_	17	prep
+20	the	the	DT	_	21	det
+21	end	end	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	race	race	NN	_	22	pobj
+25	.	.	.	_	1	punct
+

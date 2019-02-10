@@ -1,0 +1,19 @@
+1	The	the	DT	_	5	det
+2	fermented	fermented	JJ	_	5	amod
+3	cashew	cashew	NN	_	5	nn
+4	nut	nut	NN	_	5	nn
+5	flour	flour	NN	_	6	nsubj
+6	has	have	VBZ	_	0	ROOT
+7	the	the	DT	_	10	det
+8	highest	highest	JJS	_	10	amod
+9	energy	energy	NN	_	10	nn
+10	values	value	NNS	_	6	dobj
+11	while	while	IN	_	15	mark
+12	the	the	DT	_	14	det
+13	boiled	boil	VBN	_	14	amod
+14	sample	sample	NN	_	15	nsubj
+15	has	have	VBZ	_	6	advcl
+16	the	the	DT	_	17	det
+17	least	least	JJS	_	15	dobj
+18	.	.	.	_	6	punct
+

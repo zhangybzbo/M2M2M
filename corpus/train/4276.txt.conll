@@ -1,0 +1,18 @@
+1	When	when	WRB	_	5	advmod
+2	fur	fur	NN	_	3	nn
+3	coats	coat	NNS	_	5	nsubj
+4	were	be	VBD	_	5	cop
+5	popular	popular	JJ	_	12	advcl
+6	,	,	,	_	12	punct
+7	a	a	DT	_	8	det
+8	richness	richness	NN	_	12	nsubjpass
+9	of	of	IN	_	8	prep
+10	martens	marten	NNS	_	9	pobj
+11	were	be	VBD	_	12	auxpass
+12	sacrificed	sacrifice	VBN	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	make	make	VB	_	12	xcomp
+15	one	one	CD	_	16	num
+16	coat	coat	NN	_	14	dobj
+17	.	.	.	_	12	punct
+

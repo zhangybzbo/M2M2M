@@ -1,0 +1,27 @@
+1	On	on	IN	_	10	prep
+2	his	he	PRP$	_	3	poss
+3	journeys	journey	NNS	_	1	pobj
+4	around	around	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	world	world	NN	_	4	pobj
+7	,	,	,	_	10	punct
+8	Yasser	Yasser	NNP	_	9	nn
+9	Arafat	Arafat	NNP	_	10	nsubj
+10	was	be	VBD	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	habit	habit	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	taking	take	VBG	_	14	pcomp
+16	a	a	DT	_	17	det
+17	suitcase	suitcase	NN	_	15	dobj
+18	full	full	JJ	_	17	amod
+19	of	of	IN	_	18	prep
+20	cash	cash	NN	_	19	pobj
+21	for	for	IN	_	18	prep
+22	``	``	``	_	25	punct
+23	emergency	emergency	NN	_	25	nn
+24	''	''	''	_	25	punct
+25	cases	case	NNS	_	21	pobj
+26	.	.	.	_	10	punct
+

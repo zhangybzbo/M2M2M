@@ -1,0 +1,18 @@
+1	In	in	IN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	Age	age	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	Myth	myth	NN	_	4	pobj
+6	,	,	,	_	1	punct
+7	a	a	DT	_	8	det
+8	clan	clan	NN	_	6	dep
+9	of	of	IN	_	8	prep
+10	berserkers	berserker	NNS	_	12	nn
+11	made	make	VBN	_	12	amod
+12	war	war	NN	_	9	pobj
+13	against	against	IN	_	8	prep
+14	a	a	DT	_	16	det
+15	druidic	druidic	JJ	_	16	amod
+16	order	order	NN	_	13	pobj
+17	.	.	.	_	8	punct
+

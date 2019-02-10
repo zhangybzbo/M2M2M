@@ -1,0 +1,22 @@
+1	Adding	add	VBG	_	4	csubj
+2	a	a	DT	_	3	det
+3	staysail	staysail	NN	_	1	dobj
+4	gives	give	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	boat	boat	NN	_	4	iobj
+7	a	a	DT	_	9	det
+8	small	small	JJ	_	9	amod
+9	jib	jib	NN	_	4	dobj
+10	that	that	WDT	_	12	nsubj
+11	can	can	MD	_	12	aux
+12	balance	balance	VB	_	9	rcmod
+13	the	the	DT	_	14	det
+14	boat	boat	NN	_	12	dobj
+15	in	in	IN	_	12	prep
+16	heavier	heavier	JJR	_	17	amod
+17	wind	wind	NN	_	15	pobj
+18	and	and	CC	_	17	cc
+19	sea	sea	NN	_	20	nn
+20	conditions	condition	NNS	_	17	conj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,1 @@
+The 100 MHz RF signal for the amplitude modulator was derived from a pulse pattern generator -LRB- PPG -RRB- .

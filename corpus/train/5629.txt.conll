@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj
+2	hold	hold	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	magnesium	magnesium	NN	_	5	nn
+5	ribbon	ribbon	NN	_	2	dobj
+6	in	in	IN	_	2	prep
+7	tongs	tong	NNS	_	6	pobj
+8	,	,	,	_	2	punct
+9	and	and	CC	_	2	cc
+10	place	place	NN	_	12	nn
+11	one	one	CD	_	12	num
+12	end	end	NN	_	2	conj
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	17	det
+15	Bunsen	Bunsen	NNP	_	17	nn
+16	burner	burner	NN	_	17	nn
+17	flame	flame	NN	_	13	pobj
+18	.	.	.	_	2	punct
+

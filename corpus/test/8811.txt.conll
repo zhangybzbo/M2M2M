@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	senior	senior	JJ	_	3	amod
+3	profiles	profile	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	used	use	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	teachers	teacher	NNS	_	6	pobj
+8	in	in	IN	_	11	mark
+9	order	order	NN	_	11	dep
+10	to	to	TO	_	11	aux
+11	help	help	VB	_	5	advcl
+12	them	they	PRP	_	13	nsubj
+13	write	write	VB	_	11	ccomp
+14	a	a	DT	_	17	det
+15	more	more	RBR	_	16	advmod
+16	informed	informed	JJ	_	17	amod
+17	letter	letter	NN	_	13	dobj
+18	of	of	IN	_	17	prep
+19	recommendation	recommendation	NN	_	18	pobj
+20	.	.	.	_	5	punct
+

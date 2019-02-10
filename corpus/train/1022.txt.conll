@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	protesters	protester	NNS	_	4	nsubj
+3	carefully	carefully	RB	_	4	advmod
+4	chose	choose	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	private	private	JJ	_	7	amod
+7	road	road	NN	_	4	dobj
+8	in	in	IN	_	4	prep
+9	order	order	NN	_	8	pobj
+10	not	not	RB	_	12	neg
+11	to	to	TO	_	12	aux
+12	cause	cause	VB	_	4	vmod
+13	inconvenience	inconvenience	NN	_	12	dobj
+14	to	to	TO	_	12	prep
+15	the	the	DT	_	16	det
+16	public	public	NN	_	14	pobj
+17	.	.	.	_	4	punct
+

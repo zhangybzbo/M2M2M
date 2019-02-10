@@ -1,0 +1,27 @@
+1	As	as	IN	_	3	mark
+2	people	people	NNS	_	3	nsubj
+3	discovered	discover	VBD	_	0	ROOT
+4	that	that	IN	_	8	mark
+5	debt	debt	NN	_	8	nsubj
+6	and	and	CC	_	5	cc
+7	overconsumption	overconsumption	NN	_	5	conj
+8	cause	cause	VBP	_	3	ccomp
+9	stress	stress	NN	_	8	dobj
+10	to	to	TO	_	8	prep
+11	families	family	NNS	_	10	pobj
+12	,	,	,	_	3	punct
+13	the	the	DT	_	14	det
+14	planet	planet	NN	_	12	ccomp
+15	,	,	,	_	14	punct
+16	and	and	CC	_	14	cc
+17	each	each	DT	_	14	conj
+18	of	of	IN	_	17	prep
+19	us	we	PRP	_	18	pobj
+20	,	,	,	_	14	punct
+21	many	many	JJ	_	22	nsubj
+22	turned	turn	VBD	_	14	rcmod
+23	instead	instead	RB	_	22	advmod
+24	to	to	TO	_	22	prep
+25	friends	friend	NNS	_	24	pobj
+26	.	.	.	_	14	punct
+

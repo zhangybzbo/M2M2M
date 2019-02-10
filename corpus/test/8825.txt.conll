@@ -1,0 +1,14 @@
+1	Three	three	CD	_	2	num
+2	days	day	NNS	_	3	npadvmod
+3	later	later	RB	_	9	advmod
+4	,	,	,	_	9	punct
+5	the	the	DT	_	7	det
+6	new-born	new-born	JJ	_	7	amod
+7	baby	baby	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	brought	bring	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	her	she	PRP$	_	12	poss
+12	home	home	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

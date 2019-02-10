@@ -1,0 +1,12 @@
+1	Bob	Bob	NNP	_	6	nsubj
+2	the	the	DT	_	3	det
+3	Builder	builder	NN	_	6	nsubj
+4	and	and	CC	_	3	cc
+5	friends	friend	NNS	_	3	conj
+6	construct	construct	VBP	_	0	ROOT
+7	an	a	DT	_	10	det
+8	ecologically	ecologically	RB	_	9	advmod
+9	friendly	friendly	JJ	_	10	amod
+10	town	town	NN	_	6	dobj
+11	.	.	.	_	6	punct
+

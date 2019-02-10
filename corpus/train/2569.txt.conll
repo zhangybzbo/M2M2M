@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	builder	builder	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	now	now	RB	_	5	advmod
+5	completed	complete	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	townhouse	townhouse	NN	_	5	dobj
+8	.	.	.	_	5	punct
+

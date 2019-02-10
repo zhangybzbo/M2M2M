@@ -1,0 +1,22 @@
+1	In	in	IN	_	14	prep
+2	particular	particular	JJ	_	1	pobj
+3	,	,	,	_	14	punct
+4	the	the	DT	_	6	det
+5	main	main	JJ	_	6	amod
+6	target	target	NN	_	14	nsubj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	bombing	bombing	NN	_	7	pobj
+10	in	in	IN	_	9	prep
+11	Tigray	Tigray	NNP	_	10	pobj
+12	was	be	VBD	_	14	cop
+13	the	the	DT	_	14	det
+14	network	network	NN	_	0	ROOT
+15	of	of	IN	_	14	prep
+16	rural	rural	JJ	_	17	amod
+17	markets	market	NNS	_	15	pobj
+18	in	in	IN	_	14	prep
+19	TPLF-controlled	tplf-controlled	JJ	_	20	amod
+20	areas	area	NNS	_	18	pobj
+21	.	.	.	_	14	punct
+

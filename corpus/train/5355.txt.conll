@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	ethmoid	ethmoid	JJ	_	3	amod
+3	forms	form	NNS	_	0	ROOT
+4	the	the	DT	_	6	det
+5	medial	medial	JJ	_	6	amod
+6	portions	portion	NNS	_	3	dep
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	orbits	orbit	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	roof	roof	NN	_	9	conj
+13	of	of	IN	_	9	prep
+14	the	the	DT	_	16	det
+15	nasal	nasal	JJ	_	16	amod
+16	cavity	cavity	NN	_	13	pobj
+17	.	.	.	_	3	punct
+

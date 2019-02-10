@@ -1,0 +1,11 @@
+1	Construction	construction	NN	_	2	nn
+2	worker	worker	NN	_	0	ROOT
+3	carrying	carry	VBG	_	2	vmod
+4	a	a	DT	_	6	det
+5	wooden	wooden	JJ	_	6	amod
+6	plank	plank	NN	_	3	dobj
+7	on	on	IN	_	3	prep
+8	his	he	PRP$	_	9	poss
+9	shoulder	shoulder	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

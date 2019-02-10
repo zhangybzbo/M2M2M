@@ -1,0 +1,10 @@
+1	Two	two	CD	_	2	num
+2	nuclei	nucleus	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	migrated	migrate	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	conjugation	conjugation	NN	_	8	nn
+8	tube	tube	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

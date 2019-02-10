@@ -1,0 +1,22 @@
+1	Poems	poem	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	published	publish	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	site	site	NN	_	4	pobj
+7	purely	purely	RB	_	8	advmod
+8	for	for	IN	_	3	prep
+9	educational	educational	JJ	_	10	amod
+10	reasons	reason	NNS	_	8	pobj
+11	,	,	,	_	3	punct
+12	for	for	IN	_	3	prep
+13	the	the	DT	_	14	det
+14	purpose	purpose	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	information	information	NN	_	15	pobj
+17	and	and	CC	_	12	cc
+18	with	with	IN	_	12	conj
+19	good	good	JJ	_	20	amod
+20	intentions	intention	NNS	_	18	pobj
+21	.	.	.	_	3	punct
+

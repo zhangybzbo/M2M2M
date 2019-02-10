@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	crater	crater	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	vulcano	vulcano	NN	_	6	nn
+6	Solfatara	solfatara	NN	_	3	pobj
+7	shows	show	VBZ	_	0	ROOT
+8	a	a	DT	_	10	det
+9	great	great	JJ	_	10	amod
+10	variety	variety	NN	_	7	dobj
+11	of	of	IN	_	10	prep
+12	botanica	botanica	NN	_	13	nn
+13	species	species	NNS	_	11	pobj
+14	,	,	,	_	7	punct
+15	varying	vary	VBG	_	7	vmod
+16	greatly	greatly	RB	_	15	advmod
+17	from	from	IN	_	15	prep
+18	each	each	DT	_	19	det
+19	other	other	JJ	_	17	pobj
+20	due	due	JJ	_	15	prep
+21	to	to	TO	_	20	prep
+22	climatic	climatic	JJ	_	25	amod
+23	and	and	CC	_	22	cc
+24	pedologic	pedologic	JJ	_	22	conj
+25	reasons	reason	NNS	_	21	pobj
+26	.	.	.	_	7	punct
+

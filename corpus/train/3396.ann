@@ -1,0 +1,3 @@
+T1	Term 46 56	windscreen
+T2	Term 79 86	nozzles
+R1	Component-Whole Arg1:T2 Arg2:T1

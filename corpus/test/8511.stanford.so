@@ -1,0 +1,13 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="farmer" pos="NN" nsubj="t2"
+11	19	tok id="t2" base="plough" pos="VBD" ROOT="ROOT"
+20	23	tok id="t3" base="the" pos="DT" det="t4"
+24	30	tok id="t4" base="field" pos="NNS" dobj="t2"
+31	35	tok id="t5" base="with" pos="IN" prep="t2"
+36	40	tok id="t6" base="this" pos="DT" det="t9"
+41	48	tok id="t7" base="2-piece" pos="JJ" amod="t9"
+49	53	tok id="t8" base="farm" pos="NN" nn="t9"
+54	61	tok id="t9" base="tractor" pos="NN" pobj="t5"
+62	63	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

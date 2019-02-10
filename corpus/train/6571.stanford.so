@@ -1,0 +1,13 @@
+0	68	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	8	tok id="t1" base="beetle" pos="NN" nsubj="t2"
+9	17	tok id="t2" base="protect" pos="VBZ" ROOT="ROOT"
+18	24	tok id="t3" base="itself" pos="PRP" dobj="t2"
+25	27	tok id="t4" base="by" pos="IN" prep="t2"
+28	40	tok id="t5" base="construct" pos="VBG" pcomp="t4"
+41	46	tok id="t6" base="armor" pos="NN" dobj="t5"
+47	51	tok id="t7" base="make" pos="VBN" vmod="t6"
+52	56	tok id="t8" base="from" pos="IN" prep="t7"
+57	66	tok id="t9" base="excrement" pos="NN" pobj="t8"
+67	68	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

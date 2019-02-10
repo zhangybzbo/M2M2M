@@ -1,0 +1,12 @@
+1	South	South	NNP	_	3	nn
+2	Bade	Bade	NNP	_	3	nn
+3	residents	resident	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	blown	blow	VBN	_	0	ROOT
+7	back	back	RB	_	6	advmod
+8	into	into	IN	_	6	prep
+9	primitive	primitive	JJ	_	10	amod
+10	lifestyle	lifestyle	NN	_	8	pobj
+11	.	.	.	_	6	punct
+

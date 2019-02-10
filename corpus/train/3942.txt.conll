@@ -1,0 +1,19 @@
+1	Apricot	Apricot	NNP	_	2	nn
+2	marmalade	marmalade	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	delicious	delicious	JJ	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	toast	toast	NN	_	8	nn
+7	first	first	JJ	_	8	amod
+8	thing	thing	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	morning	morning	NN	_	9	pobj
+12	or	or	CC	_	9	cc
+13	on	on	IN	_	9	conj
+14	piping	piping	NN	_	17	nn
+15	hot	hot	JJ	_	17	amod
+16	dinner	dinner	NN	_	17	nn
+17	biscuits	biscuit	NNS	_	13	pobj
+18	.	.	.	_	4	punct
+

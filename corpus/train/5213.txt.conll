@@ -1,0 +1,12 @@
+1	Once	once	RB	_	2	advmod
+2	unregistered	unregistered	JJ	_	6	advcl
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	folder	folder	NN	_	6	nsubj
+6	went	go	VBD	_	0	ROOT
+7	away	away	RB	_	6	advmod
+8	from	from	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	shell	shell	NN	_	8	pobj
+11	.	.	.	_	6	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	SWAT	SWAT	NNP	_	4	nn
+3	team	team	NN	_	4	nn
+4	breaks	break	NNS	_	5	nsubj
+5	open	open	VBP	_	0	ROOT
+6	a	a	DT	_	8	det
+7	2nd-floor	2nd-floor	JJ	_	8	amod
+8	door	door	NN	_	5	dobj
+9	with	with	IN	_	5	prep
+10	a	a	DT	_	12	det
+11	battering	batter	VBG	_	12	amod
+12	ram	ram	NN	_	9	pobj
+13	.	.	.	_	5	punct
+

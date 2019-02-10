@@ -1,0 +1,17 @@
+1	The	the	DT	_	5	det
+2	closely	closely	RB	_	3	advmod
+3	guarded	guard	VBN	_	5	amod
+4	Raffles	Raffles	NNP	_	5	nn
+5	recipe	recipe	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	locked	lock	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	8	pobj
+10	safe	safe	JJ	_	13	dep
+11	that	that	IN	_	13	nsubj
+12	still	still	RB	_	13	advmod
+13	remains	remain	VBZ	_	9	ccomp
+14	onsite	onsite	JJ	_	13	acomp
+15	today	today	NN	_	13	tmod
+16	.	.	.	_	7	punct
+

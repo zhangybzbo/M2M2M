@@ -1,0 +1,12 @@
+1	Convulsions	convulsion	NNS	_	0	ROOT
+2	that	that	WDT	_	3	nsubj
+3	occur	occur	VBP	_	1	rcmod
+4	after	after	IN	_	7	mark
+5	DTaP	dtap	NN	_	7	nsubjpass
+6	are	be	VBP	_	7	auxpass
+7	caused	cause	VBN	_	3	advcl
+8	by	by	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	fever	fever	NN	_	8	pobj
+11	.	.	.	_	1	punct
+

@@ -1,0 +1,23 @@
+1	Fellows	fellow	NNS	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	participate	participate	VBP	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	program	program	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	seminars	seminar	NNS	_	7	pobj
+9	and	and	CC	_	8	cc
+10	colloquia	colloquium	NN	_	8	conj
+11	focusing	focus	VBG	_	6	vmod
+12	on	on	IN	_	11	prep
+13	contemporary	contemporary	JJ	_	14	amod
+14	issues	issue	NNS	_	12	pobj
+15	and	and	CC	_	14	cc
+16	community	community	NN	_	17	nn
+17	building	building	NN	_	14	conj
+18	in	in	IN	_	14	prep
+19	the	the	DT	_	21	det
+20	Asia-Pacific	asia-pacific	JJ	_	21	amod
+21	region	region	NN	_	18	pobj
+22	.	.	.	_	3	punct
+

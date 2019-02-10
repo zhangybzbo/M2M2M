@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	device	device	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	small	small	JJ	_	9	amod
+8	jiffy	jiffy	NN	_	9	nn
+9	bag	bag	NN	_	5	pobj
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	white	white	JJ	_	13	amod
+13	label	label	NN	_	10	pobj
+14	,	,	,	_	4	punct
+15	with	with	IN	_	4	prep
+16	a	a	DT	_	18	det
+17	post	post	NN	_	18	nn
+18	mark	mark	NN	_	15	pobj
+19	that	that	WDT	_	23	nsubj
+20	was	be	VBD	_	23	cop
+21	``	``	``	_	23	punct
+22	not	not	RB	_	23	neg
+23	local	local	JJ	_	18	rcmod
+24	''	''	''	_	23	punct
+25	.	.	.	_	4	punct
+

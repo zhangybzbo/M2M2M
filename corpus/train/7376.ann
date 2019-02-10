@@ -1,0 +1,3 @@
+T1	Term 60 70	depression
+T2	Term 89 97	semester
+R1	Other Arg1:T1 Arg2:T2

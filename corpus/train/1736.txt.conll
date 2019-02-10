@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	imperative	imperative	JJ	_	3	nsubj
+3	originates	originate	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	authority	authority	NN	_	4	pobj
+7	which	which	WDT	_	8	nsubj
+8	transcends	transcend	VBZ	_	6	rcmod
+9	the	the	DT	_	10	det
+10	speaker	speaker	NN	_	8	dobj
+11	.	.	.	_	3	punct
+

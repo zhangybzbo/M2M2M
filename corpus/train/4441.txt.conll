@@ -1,0 +1,27 @@
+1	However	however	RB	_	22	advmod
+2	,	,	,	_	22	punct
+3	the	the	DT	_	4	det
+4	adminstrators	adminstrator	NNS	_	22	nsubj
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	multi-user	multi-user	JJ	_	8	amod
+8	dungeon	dungeon	NN	_	5	pobj
+9	-	-	:	_	8	punct
+10	comprised	comprise	VBN	_	8	vmod
+11	primarily	primarily	RB	_	12	advmod
+12	of	of	IN	_	10	prep
+13	two	two	CD	_	14	num
+14	factions	faction	NNS	_	12	pobj
+15	,	,	,	_	14	punct
+16	builders	builder	NNS	_	14	appos
+17	and	and	CC	_	16	cc
+18	coders	coder	NNS	_	16	conj
+19	-	-	:	_	14	punct
+20	are	be	VBP	_	22	cop
+21	the	the	DT	_	22	det
+22	backbone	backbone	NN	_	0	ROOT
+23	of	of	IN	_	22	prep
+24	mud	mud	NN	_	25	nn
+25	creation	creation	NN	_	23	pobj
+26	.	.	.	_	22	punct
+

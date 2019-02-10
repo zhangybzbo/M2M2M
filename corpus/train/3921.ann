@@ -1,0 +1,3 @@
+T1	Term 96 106	fraternity
+T2	Term 120 129	presences
+R1	Member-Collection Arg1:T2 Arg2:T1

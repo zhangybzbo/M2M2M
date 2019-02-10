@@ -1,0 +1,1 @@
+The 400 V power supply -LRB- unstabilized -RRB- was derived from a conventional power-pack with n-filter .

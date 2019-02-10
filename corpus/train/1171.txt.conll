@@ -1,0 +1,22 @@
+1	For	for	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	installation	installation	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	I	I	PRP	_	6	nsubj
+6	poured	pour	VBD	_	0	ROOT
+7	flour	flour	NN	_	6	dobj
+8	into	into	IN	_	6	prep
+9	nylon	nylon	NN	_	10	nn
+10	stockings	stocking	NNS	_	8	pobj
+11	and	and	CC	_	6	cc
+12	created	create	VBN	_	13	amod
+13	shapes	shape	NNS	_	6	conj
+14	that	that	WDT	_	15	nsubj
+15	looked	look	VBD	_	13	rcmod
+16	a	a	DT	_	17	det
+17	lot	lot	NN	_	15	dobj
+18	like	like	IN	_	17	prep
+19	bodies	body	NNS	_	18	pobj
+20	themselves	themselves	PRP	_	19	npadvmod
+21	.	.	.	_	6	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	nation	nation	NN	_	3	nsubj
+3	emerged	emerge	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	President	President	NNP	_	8	nn
+6	George	George	NNP	_	8	nn
+7	W.	W.	NNP	_	8	nn
+8	Bush	Bush	NNP	_	11	poss
+9	's	's	POS	_	8	possessive
+10	eight	eight	CD	_	11	num
+11	years	year	NNS	_	4	pobj
+12	in	in	IN	_	11	prep
+13	office	office	NN	_	12	pobj
+14	more	more	RBR	_	15	advmod
+15	dependent	dependent	JJ	_	11	amod
+16	on	on	IN	_	15	prep
+17	oil	oil	NN	_	16	pobj
+18	than	than	IN	_	15	prep
+19	ever	ever	RB	_	20	advmod
+20	before	before	RB	_	18	pcomp
+21	.	.	.	_	3	punct
+

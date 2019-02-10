@@ -1,0 +1,16 @@
+1	His	he	PRP$	_	2	poss
+2	body	body	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	suitcase	suitcase	NN	_	4	pobj
+7	which	which	WDT	_	10	nsubjpass
+8	had	have	VBD	_	10	aux
+9	been	be	VBN	_	10	auxpass
+10	dumped	dump	VBN	_	6	rcmod
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	duck	duck	NN	_	14	nn
+14	pond	pond	NN	_	11	pobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,20 @@
+1	But	but	CC	_	4	cc
+2	now	now	RB	_	4	advmod
+3	there	there	EX	_	4	expl
+4	came	come	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	out	out	IN	_	5	pobj
+7	the	the	DT	_	8	det
+8	niche	niche	NN	_	6	pobj
+9	a	a	DT	_	11	det
+10	low	low	JJ	_	11	amod
+11	laugh	laugh	NN	_	6	tmod
+12	that	that	WDT	_	13	nsubj
+13	erected	erect	VBD	_	11	rcmod
+14	the	the	DT	_	15	det
+15	hairs	hair	NNS	_	13	dobj
+16	upon	upon	IN	_	13	prep
+17	my	my	PRP$	_	18	poss
+18	head	head	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

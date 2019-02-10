@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	electronic	electronic	JJ	_	3	amod
+3	equipment	equipment	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	cabinet	cabinet	NN	_	5	pobj
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	surface	surface	NN	_	8	pobj
+11	and	and	CC	_	4	cc
+12	connected	connect	VBN	_	4	conj
+13	to	to	TO	_	12	prep
+14	a	a	DT	_	18	det
+15	3.65-long	3.65-long	JJ	_	18	amod
+16	,	,	,	_	18	punct
+17	7.9-cm-diameter	7.9-cm-diameter	JJ	_	18	amod
+18	thermosyphon	thermosyphon	NN	_	13	pobj
+19	with	with	IN	_	12	prep
+20	one	one	CD	_	21	num
+21	end	end	NN	_	19	pobj
+22	buried	bury	VBN	_	21	vmod
+23	in	in	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	ground	ground	NN	_	23	pobj
+26	.	.	.	_	4	punct
+

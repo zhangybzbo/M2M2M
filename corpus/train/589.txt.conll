@@ -1,0 +1,10 @@
+1	Some	some	DT	_	2	det
+2	sections	section	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	denoted	denote	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	an	a	DT	_	8	det
+8	asterisk	asterisk	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

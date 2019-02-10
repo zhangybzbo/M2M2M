@@ -1,0 +1,9 @@
+1	Lemon	Lemon	NNP	_	2	nn
+2	cake	cake	NN	_	0	ROOT
+3	is	be	VBZ	_	2	dep
+4	my	my	PRP$	_	5	poss
+5	husband	husband	NN	_	3	nsubj
+6	's	's	POS	_	5	possessive
+7	favorite	favorite	JJ	_	5	amod
+8	.	.	.	_	2	punct
+

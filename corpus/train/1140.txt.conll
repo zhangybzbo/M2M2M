@@ -1,0 +1,20 @@
+1	Repairs	repair	NNS	_	4	nsubjpass
+2	were	be	VBD	_	4	aux
+3	being	be	VBG	_	4	auxpass
+4	carried	carry	VBN	_	0	ROOT
+5	out	out	RP	_	4	prt
+6	on	on	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	roof	roof	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	building	building	NN	_	9	pobj
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	16	nsubjpass
+14	was	be	VBD	_	16	auxpass
+15	partly	partly	RB	_	16	advmod
+16	made	make	VBN	_	11	rcmod
+17	of	of	IN	_	16	prep
+18	felt	feel	VBN	_	17	pobj
+19	.	.	.	_	4	punct
+

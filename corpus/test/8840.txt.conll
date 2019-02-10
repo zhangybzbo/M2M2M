@@ -1,0 +1,24 @@
+1	During	during	IN	_	8	prep
+2	experiments	experiment	NNS	_	1	pobj
+3	in	in	IN	_	2	prep
+4	captivity	captivity	NN	_	3	pobj
+5	,	,	,	_	8	punct
+6	capuchins	capuchin	NNS	_	8	nsubj
+7	have	have	VBP	_	8	aux
+8	made	make	VBN	_	0	ROOT
+9	flint	flint	NN	_	10	nn
+10	knives	knife	NNS	_	8	dobj
+11	after	after	IN	_	8	prep
+12	banging	bang	VBG	_	11	pcomp
+13	a	a	DT	_	14	det
+14	piece	piece	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	flint	flint	NN	_	15	pobj
+17	against	against	IN	_	14	prep
+18	the	the	DT	_	19	det
+19	floor	floor	NN	_	17	pobj
+20	until	until	IN	_	22	mark
+21	it	it	PRP	_	22	nsubj
+22	broke	break	VBD	_	12	advcl
+23	.	.	.	_	8	punct
+

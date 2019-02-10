@@ -1,0 +1,13 @@
+0	77	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="company" pos="NN" nsubj="t2"
+12	19	tok id="t2" base="drag" pos="VBD" ROOT="ROOT"
+20	23	tok id="t3" base="the" pos="DT" det="t4"
+24	32	tok id="t4" base="reducer" pos="NNS" dobj="t2"
+33	37	tok id="t5" base="into" pos="IN" prep="t2"
+38	41	tok id="t6" base="the" pos="DT" det="t9"
+42	53	tok id="t7" base="hydrocarbon" pos="NN" nn="t9"
+54	68	tok id="t8" base="transportation" pos="NN" nn="t9"
+69	75	tok id="t9" base="system" pos="NN" pobj="t5"
+76	77	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

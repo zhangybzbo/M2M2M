@@ -1,0 +1,9 @@
+1	He	he	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	posts	post	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	chronological	chronological	JJ	_	7	amod
+7	order	order	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

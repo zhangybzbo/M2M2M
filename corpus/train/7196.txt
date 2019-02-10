@@ -1,0 +1,1 @@
+The guarantees so painfully obtained by formal verification of the source program are useless if the compiler generates wrong code .

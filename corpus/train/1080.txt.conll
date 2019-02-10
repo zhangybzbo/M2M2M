@@ -1,0 +1,16 @@
+1	Her	she	PRP$	_	3	poss
+2	guardian	guardian	NN	_	3	nn
+3	angel	angel	NN	_	4	nsubj
+4	went	go	VBD	_	0	ROOT
+5	before	before	IN	_	4	prep
+6	her	she	PRP	_	5	pobj
+7	,	,	,	_	4	punct
+8	lighting	light	VBG	_	4	xcomp
+9	the	the	DT	_	10	det
+10	road	road	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	a	a	DT	_	14	det
+13	headlight-like	headlight-like	JJ	_	14	amod
+14	lantern	lantern	NN	_	11	pobj
+15	.	.	.	_	4	punct
+

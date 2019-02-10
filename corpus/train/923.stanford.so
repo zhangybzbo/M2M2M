@@ -1,0 +1,13 @@
+0	57	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t5"
+3	6	tok id="t1" base="have" pos="VBZ" aux="t5"
+7	11	tok id="t2" base="be" pos="VBN" cop="t5"
+12	13	tok id="t3" base="a" pos="DT" det="t5"
+14	23	tok id="t4" base="committee" pos="NN" nn="t5"
+24	30	tok id="t5" base="member" pos="NN" ROOT="ROOT"
+31	34	tok id="t6" base="for" pos="IN" prep="t5"
+35	43	tok id="t7" base="Gungarde" pos="NNP" pobj="t6"
+44	46	tok id="t8" base="in" pos="IN" prep="t7"
+47	55	tok id="t9" base="Cooktown" pos="NNP" pobj="t8"
+56	57	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

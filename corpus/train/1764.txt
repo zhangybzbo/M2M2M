@@ -1,0 +1,1 @@
+In a two-mirror telescope equipped with an active optics system usually M2 is used to correct the aberrations originated by optical reasons , i.e. defocus and coma .

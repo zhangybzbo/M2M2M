@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	water	water	NN	_	3	nn
+3	samples	sample	NNS	_	4	nsubj
+4	eluded	elude	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	resin	resin	NN	_	5	pobj
+8	were	be	VBD	_	9	auxpass
+9	collected	collect	VBN	_	4	dep
+10	and	and	CC	_	9	cc
+11	analyzed	analyze	VBN	_	9	conj
+12	for	for	IN	_	11	prep
+13	mercury	mercury	NN	_	14	nn
+14	content	content	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

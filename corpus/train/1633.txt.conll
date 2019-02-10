@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	economic	economic	JJ	_	3	amod
+3	setbacks	setback	NNS	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	1893	1893	CD	_	4	pobj
+6	had	have	VBD	_	7	aux
+7	created	create	VBN	_	0	ROOT
+8	unemployment	unemployment	NN	_	7	dobj
+9	and	and	CC	_	8	cc
+10	poverty	poverty	NN	_	8	conj
+11	which	which	WDT	_	12	nsubj
+12	caused	cause	VBD	_	8	rcmod
+13	migration	migration	NN	_	12	dobj
+14	in	in	IN	_	13	prep
+15	search	search	NN	_	14	pobj
+16	of	of	IN	_	15	prep
+17	new	new	JJ	_	18	amod
+18	opportunities	opportunity	NNS	_	16	pobj
+19	.	.	.	_	7	punct
+

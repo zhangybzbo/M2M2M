@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	current	current	JJ	_	3	amod
+3	study	study	NN	_	4	nsubj
+4	demonstrates	demonstrate	VBZ	_	0	ROOT
+5	that	that	IN	_	7	mark
+6	angiogenesis	angiogenesis	NN	_	7	nsubj
+7	occurs	occur	VBZ	_	4	ccomp
+8	early	early	RB	_	10	advmod
+9	following	following	JJ	_	10	amod
+10	transplantation	transplantation	NN	_	7	dobj
+11	,	,	,	_	7	punct
+12	resulting	result	VBG	_	7	vmod
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	hookup	hookup	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	donor	donor	NN	_	16	pobj
+18	and	and	CC	_	17	cc
+19	recipient	recipient	JJ	_	20	amod
+20	vessels	vessel	NNS	_	17	conj
+21	.	.	.	_	4	punct
+

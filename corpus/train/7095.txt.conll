@@ -1,0 +1,19 @@
+1	Relena	Relena	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	head	head	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	bowed	bow	VBN	_	0	ROOT
+6	,	,	,	_	5	punct
+7	though	though	IN	_	11	mark
+8	the	the	DT	_	9	det
+9	heat	heat	NN	_	11	nsubj
+10	was	be	VBD	_	11	aux
+11	radiating	radiate	VBG	_	5	advcl
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	young	young	JJ	_	15	amod
+15	princess	princess	NN	_	12	pobj
+16	in	in	IN	_	11	prep
+17	waves	wave	NNS	_	16	pobj
+18	.	.	.	_	5	punct
+

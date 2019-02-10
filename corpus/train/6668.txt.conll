@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	bird	bird	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	put	put	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	fish	fish	NN	_	8	nn
+8	tank	tank	NN	_	5	pobj
+9	,	,	,	_	4	punct
+10	and	and	CC	_	4	cc
+11	a	a	DT	_	12	det
+12	tube	tube	NN	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	run	run	VBN	_	4	conj
+15	into	into	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	tank	tank	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

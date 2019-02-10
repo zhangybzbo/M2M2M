@@ -1,0 +1,25 @@
+1	Scientists	scientist	NNS	_	2	nsubj
+2	store	store	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	bones	bone	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	freezer	freezer	NN	_	5	pobj
+8	,	,	,	_	2	punct
+9	helping	help	VBG	_	2	vmod
+10	to	to	TO	_	11	aux
+11	preserve	preserve	VB	_	9	xcomp
+12	the	the	DT	_	14	det
+13	remaining	remain	VBG	_	14	amod
+14	DNA	dna	NN	_	11	dobj
+15	that	that	WDT	_	18	nsubjpass
+16	has	have	VBZ	_	18	aux
+17	been	be	VBN	_	18	auxpass
+18	exposed	expose	VBN	_	14	rcmod
+19	to	to	TO	_	18	prep
+20	soil	soil	NN	_	19	pobj
+21	for	for	IN	_	18	prep
+22	three	three	CD	_	23	num
+23	decades	decade	NNS	_	21	pobj
+24	.	.	.	_	2	punct
+

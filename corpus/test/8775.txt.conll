@@ -1,0 +1,20 @@
+1	The	the	DT	_	4	det
+2	thin	thin	JJ	_	4	amod
+3	F	f	NN	_	4	nn
+4	ring	ring	NN	_	11	nsubj
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	left	left	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	image	image	NN	_	8	pobj
+11	shows	show	VBZ	_	0	ROOT
+12	the	the	DT	_	13	det
+13	perturbations	perturbation	NNS	_	11	dobj
+14	caused	cause	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	moon	moon	NN	_	18	nn
+18	Prometheus	Prometheus	NNP	_	15	pobj
+19	.	.	.	_	11	punct
+

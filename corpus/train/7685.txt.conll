@@ -1,0 +1,12 @@
+1	Hamburgers	hamburger	NNS	_	6	nsubjpass
+2	from	from	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	restaurant	restaurant	NN	_	2	pobj
+5	were	be	VBD	_	6	auxpass
+6	recalled	recall	VBN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	preventing	prevent	VBG	_	6	xcomp
+9	further	further	JJ	_	10	amod
+10	illness	illness	NN	_	8	dobj
+11	.	.	.	_	6	punct
+

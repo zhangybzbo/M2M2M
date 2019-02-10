@@ -1,0 +1,20 @@
+1	Chinese	chinese	JJ	_	3	amod
+2	construction	construction	NN	_	3	nn
+3	workers	worker	NNS	_	4	nsubj
+4	build	build	VBP	_	0	ROOT
+5	the	the	DT	_	6	det
+6	port	port	NN	_	4	dobj
+7	at	at	IN	_	4	prep
+8	Hambantota	Hambantota	NNP	_	7	pobj
+9	that	that	WDT	_	11	dobj
+10	analysts	analyst	NNS	_	11	nsubj
+11	believe	believe	VBP	_	8	rcmod
+12	will	will	MD	_	13	aux
+13	become	become	VB	_	11	ccomp
+14	a	a	DT	_	15	det
+15	base	base	NN	_	13	xcomp
+16	for	for	IN	_	15	prep
+17	its	its	PRP$	_	18	poss
+18	navy	navy	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

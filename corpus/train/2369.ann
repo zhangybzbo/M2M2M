@@ -1,0 +1,3 @@
+T1	Term 102 107	squad
+T2	Term 122 131	policemen
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,11 @@
+1	All	all	DT	_	4	det
+2	other	other	JJ	_	4	amod
+3	blood	blood	NN	_	4	nn
+4	products	product	NNS	_	6	nsubjpass
+5	are	be	VBP	_	6	auxpass
+6	derived	derive	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	whole	whole	JJ	_	9	amod
+9	blood	blood	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

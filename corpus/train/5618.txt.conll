@@ -1,0 +1,25 @@
+1	Mothers	mother	NNS	_	2	nsubj
+2	brought	bring	VBD	_	0	ROOT
+3	all	all	DT	_	4	det
+4	items	item	NNS	_	2	dobj
+5	required	require	VBN	_	4	vmod
+6	to	to	TO	_	7	aux
+7	dress	dress	VB	_	5	xcomp
+8	the	the	DT	_	9	det
+9	child	child	NN	_	7	dobj
+10	-	-	:	_	9	punct
+11	bandages	bandage	NNS	_	9	dep
+12	,	,	,	_	11	punct
+13	creams	cream	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	gloves	glove	NNS	_	11	conj
+16	-	-	:	_	11	punct
+17	all	all	DT	_	22	nsubj
+18	of	of	IN	_	17	prep
+19	which	which	WDT	_	18	pobj
+20	are	be	VBP	_	22	cop
+21	ridiculously	ridiculously	RB	_	22	advmod
+22	expensive	expensive	JJ	_	9	rcmod
+23	here	here	RB	_	22	advmod
+24	.	.	.	_	2	punct
+

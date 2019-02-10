@@ -1,0 +1,18 @@
+1	Jewelry	jewelry	NN	_	7	nsubjpass
+2	and	and	CC	_	1	cc
+3	other	other	JJ	_	5	amod
+4	smaller	smaller	JJR	_	5	amod
+5	valuables	valuable	NNS	_	1	conj
+6	were	be	VBD	_	7	auxpass
+7	locked	lock	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	8	pobj
+10	safe	safe	JJ	_	9	amod
+11	or	or	CC	_	10	cc
+12	a	a	DT	_	13	det
+13	closet	closet	NN	_	10	conj
+14	with	with	IN	_	10	prep
+15	a	a	DT	_	16	det
+16	deadbolt	deadbolt	NN	_	14	pobj
+17	.	.	.	_	7	punct
+

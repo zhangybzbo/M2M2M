@@ -1,0 +1,18 @@
+1	For	for	IN	_	10	prep
+2	the	the	DT	_	5	det
+3	last	last	JJ	_	5	amod
+4	two	two	CD	_	5	num
+5	years	year	NNS	_	1	pobj
+6	,	,	,	_	10	punct
+7	the	the	DT	_	8	det
+8	team	team	NN	_	10	nsubj
+9	has	have	VBZ	_	10	aux
+10	constructed	construct	VBN	_	0	ROOT
+11	two	two	CD	_	12	num
+12	gardens	garden	NNS	_	10	dobj
+13	out	out	IN	_	12	prep
+14	of	of	IN	_	13	pcomp
+15	recycled	recycled	JJ	_	16	amod
+16	materials	material	NNS	_	14	pobj
+17	.	.	.	_	10	punct
+

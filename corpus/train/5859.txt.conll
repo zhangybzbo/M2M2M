@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	album	album	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	stored	store	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	protective	protective	JJ	_	9	amod
+8	poly	poly	NN	_	9	nn
+9	jacket	jacket	NN	_	5	pobj
+10	and	and	CC	_	4	cc
+11	the	the	DT	_	12	det
+12	vinyl	vinyl	NN	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	stored	store	VBN	_	4	conj
+15	in	in	IN	_	14	prep
+16	an	a	DT	_	18	det
+17	anti-static	anti-static	JJ	_	18	amod
+18	sleeve	sleeve	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

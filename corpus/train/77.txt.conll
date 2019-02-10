@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det
+2	love	love	NN	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	nature	nature	NN	_	6	poss
+5	's	's	POS	_	4	possessive
+6	gift	gift	NN	_	3	pobj
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	reflected	reflect	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	artworks	artwork	NNS	_	10	pobj
+12	dating	date	VBG	_	11	vmod
+13	back	back	RB	_	12	advmod
+14	more	more	RBR	_	17	quantmod
+15	than	than	IN	_	17	quantmod
+16	a	a	DT	_	17	quantmod
+17	thousand	thousand	CD	_	18	num
+18	years	year	NNS	_	9	tmod
+19	.	.	.	_	9	punct
+

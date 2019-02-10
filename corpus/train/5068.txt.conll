@@ -1,0 +1,22 @@
+1	Herds	herd	NNS	_	6	nsubjpass
+2	with	with	IN	_	1	prep
+3	one	one	CD	_	4	num
+4	stallion	stallion	NN	_	2	pobj
+5	were	be	VBD	_	6	auxpass
+6	organized	organize	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	many	many	JJ	_	10	amod
+9	stud	stud	NN	_	10	nn
+10	farms	farm	NNS	_	7	pobj
+11	,	,	,	_	6	punct
+12	and	and	CC	_	6	cc
+13	a	a	DT	_	15	det
+14	large	large	JJ	_	15	amod
+15	number	number	NN	_	20	nsubjpass
+16	of	of	IN	_	15	prep
+17	separate	separate	JJ	_	18	amod
+18	lines	line	NNS	_	16	pobj
+19	were	be	VBD	_	20	auxpass
+20	recognized	recognize	VBN	_	6	conj
+21	.	.	.	_	6	punct
+

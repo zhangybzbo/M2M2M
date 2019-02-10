@@ -1,0 +1,11 @@
+1	His	he	PRP$	_	2	poss
+2	daughter	daughter	NN	_	3	nsubj
+3	fell	fall	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	perpetual	perpetual	JJ	_	6	amod
+6	coma	coma	NN	_	4	pobj
+7	by	by	IN	_	3	prep
+8	car	car	NN	_	9	nn
+9	accident	accident	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

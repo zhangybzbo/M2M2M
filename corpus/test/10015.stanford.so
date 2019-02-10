@@ -1,0 +1,8 @@
+0	34	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Products" pos="NNPS" nsubj="t2"
+9	13	tok id="t1" base="have" pos="VBP" aux="t2"
+14	20	tok id="t2" base="fall" pos="VBN" ROOT="ROOT"
+21	25	tok id="t3" base="into" pos="IN" prep="t2"
+26	32	tok id="t4" base="disuse" pos="NN" pobj="t3"
+33	34	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

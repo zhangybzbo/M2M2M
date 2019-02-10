@@ -1,0 +1,15 @@
+1	Smith	Smith	NNP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	referring	refer	VBG	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	8	det
+6	fictional	fictional	JJ	_	8	amod
+7	Kazakhstani	kazakhstani	JJ	_	8	amod
+8	character	character	NN	_	4	pobj
+9	created	create	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	British	british	JJ	_	13	amod
+13	comedian	comedian	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

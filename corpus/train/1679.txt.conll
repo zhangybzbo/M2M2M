@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	machine	machine	NN	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	factory	factory	NN	_	4	pobj
+7	with	with	IN	_	3	prep
+8	Windows	Windows	NNP	_	7	pobj
+9	2000	2000	CD	_	8	num
+10	installed	install	VBN	_	8	vmod
+11	on	on	IN	_	10	prep
+12	a	a	DT	_	15	det
+13	single	single	JJ	_	15	amod
+14	large	large	JJ	_	15	amod
+15	partition	partition	NN	_	11	pobj
+16	.	.	.	_	3	punct
+

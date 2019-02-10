@@ -1,0 +1,9 @@
+1	Sinusitis	Sinusitis	NNP	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	tinnitus	tinnitus	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	stress	stress	NN	_	4	dobj
+6	or	or	CC	_	5	cc
+7	anxiety	anxiety	NN	_	5	conj
+8	.	.	.	_	4	punct
+

@@ -1,0 +1,15 @@
+1	That	that	DT	_	2	det
+2	container	container	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	put	put	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	vault	vault	NN	_	5	pobj
+8	provided	provide	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	Stark	Stark	NNP	_	13	nn
+11	Memorial	Memorial	NNP	_	13	nn
+12	Funeral	Funeral	NNP	_	13	nn
+13	Home	Home	NNP	_	9	pobj
+14	.	.	.	_	4	punct
+

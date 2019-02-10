@@ -1,0 +1,25 @@
+1	It	it	PRP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	intermittently	intermittently	RB	_	4	advmod
+4	wet	wet	JJ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	dry	dry	JJ	_	4	conj
+7	,	,	,	_	4	punct
+8	and	and	CC	_	4	cc
+9	almost	almost	RB	_	10	advmod
+10	always	always	RB	_	11	advmod
+11	followed	follow	VBN	_	4	conj
+12	with	with	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	whine	whine	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	often	often	RB	_	19	advmod
+17	a	a	DT	_	19	det
+18	few	few	JJ	_	19	amod
+19	tears	tear	NNS	_	14	conj
+20	from	from	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	terrible	terrible	JJ	_	23	amod
+23	pain	pain	NN	_	20	pobj
+24	.	.	.	_	4	punct
+

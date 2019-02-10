@@ -1,0 +1,1 @@
+We put the files into a date-based directory like YY/MM/DD .

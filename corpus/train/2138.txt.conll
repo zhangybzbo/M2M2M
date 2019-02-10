@@ -1,0 +1,18 @@
+1	To	to	TO	_	3	aux
+2	that	that	DT	_	3	nsubj
+3	end	end	VB	_	0	ROOT
+4	the	the	DT	_	5	det
+5	rig	rig	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	ship	ship	NN	_	6	pobj
+9	and	and	CC	_	5	cc
+10	the	the	DT	_	11	det
+11	style	style	NN	_	5	conj
+12	of	of	IN	_	11	prep
+13	operation	operation	NN	_	12	pobj
+14	have	have	VBP	_	3	dep
+15	the	the	DT	_	16	det
+16	simplicity	simplicity	NN	_	14	dobj
+17	.	.	.	_	3	punct
+

@@ -1,0 +1,25 @@
+1	Lawhammer	lawhammer	NN	_	2	nn
+2	coat	coat	NN	_	0	ROOT
+3	:	:	:	_	2	punct
+4	A	a	DT	_	6	det
+5	slang	slang	NN	_	6	nn
+6	term	term	NN	_	2	dep
+7	for	for	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	man	man	NN	_	13	poss
+10	's	's	POS	_	9	possessive
+11	formal	formal	JJ	_	13	amod
+12	evening	evening	NN	_	13	nn
+13	coat	coat	NN	_	7	pobj
+14	,	,	,	_	2	punct
+15	because	because	IN	_	18	mark
+16	split	split	NN	_	17	nn
+17	tails	tail	NNS	_	18	nsubj
+18	resemble	resemble	VBP	_	2	dep
+19	the	the	DT	_	20	det
+20	claw	claw	NN	_	18	dobj
+21	of	of	IN	_	20	prep
+22	a	a	DT	_	23	det
+23	hammer	hammer	NN	_	21	pobj
+24	.	.	.	_	2	punct
+

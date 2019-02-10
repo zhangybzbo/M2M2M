@@ -1,0 +1,8 @@
+0	37	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="typically" pos="RB" advmod="t3"
+10	11	tok id="t1" base="-COMMA-" pos="," punct="t3"
+12	20	tok id="t2" base="statute" pos="NNS" nsubj="t3"
+21	28	tok id="t3" base="declare" pos="VBP" ROOT="ROOT"
+29	35	tok id="t4" base="policy" pos="NN" dobj="t3"
+36	37	tok id="t5" base="-PERIOD-" pos="." punct="t3"
+

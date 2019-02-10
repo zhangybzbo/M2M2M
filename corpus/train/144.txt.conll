@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	overall	overall	JJ	_	3	amod
+3	geometry	geometry	NN	_	8	nsubjpass
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	heart	heart	NN	_	4	pobj
+7	was	be	VBD	_	8	auxpass
+8	extracted	extract	VBN	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	intensity	intensity	NN	_	12	nn
+12	data	datum	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

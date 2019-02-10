@@ -1,0 +1,20 @@
+1	Martin	Martin	NNP	_	2	nn
+2	Smith	Smith	NNP	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	film	film	NN	_	6	nn
+6	maker	maker	NN	_	0	ROOT
+7	who	who	WP	_	8	nsubj
+8	wrote	write	VBD	_	6	rcmod
+9	and	and	CC	_	8	cc
+10	directed	direct	VBD	_	8	conj
+11	the	the	DT	_	15	det
+12	2006	2006	CD	_	15	num
+13	Scottish	scottish	JJ	_	15	amod
+14	BAFTA	BAFTA	NNP	_	15	nn
+15	Award	award	NN	_	8	dobj
+16	winning	win	VBG	_	15	vmod
+17	short	short	JJ	_	18	amod
+18	Tracks	Tracks	NNP	_	16	dobj
+19	.	.	.	_	6	punct
+

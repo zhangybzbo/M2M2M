@@ -1,0 +1,19 @@
+1	Pilot-money	pilot-money	NN	_	2	nn
+2	manager	manager	NN	_	11	nsubj
+3	who	who	WP	_	4	nsubj
+4	bailed	bail	VBD	_	2	rcmod
+5	out	out	IN	_	4	prep
+6	of	of	IN	_	5	pcomp
+7	plane	plane	NN	_	6	pobj
+8	over	over	IN	_	4	prep
+9	Shelby	Shelby	NNP	_	10	nn
+10	County	County	NNP	_	8	pobj
+11	says	say	VBZ	_	0	ROOT
+12	in	in	IN	_	16	mark
+13	letter	letter	NN	_	16	dep
+14	he	he	PRP	_	16	nsubj
+15	``	``	``	_	16	punct
+16	snapped	snap	VBD	_	11	advcl
+17	''	''	''	_	16	punct
+18	.	.	.	_	11	punct
+

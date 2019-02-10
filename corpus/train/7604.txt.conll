@@ -1,0 +1,17 @@
+1	Strikingly	strikingly	RB	_	2	advmod
+2	large	large	JJ	_	8	ccomp
+3	in	in	IN	_	2	prep
+4	scale	scale	NN	_	3	pobj
+5	,	,	,	_	8	punct
+6	this	this	DT	_	7	det
+7	grater	grater	NN	_	8	nsubj
+8	shaves	shave	VBZ	_	0	ROOT
+9	a	a	DT	_	11	det
+10	perfect	perfect	JJ	_	11	amod
+11	portion	portion	NN	_	8	dobj
+12	in	in	IN	_	8	prep
+13	a	a	DT	_	15	det
+14	single	single	JJ	_	15	amod
+15	stroke	stroke	NN	_	12	pobj
+16	.	.	.	_	8	punct
+

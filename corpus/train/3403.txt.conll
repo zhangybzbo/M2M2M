@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	name	name	NN	_	5	nsubj
+5	gives	give	VBZ	_	0	ROOT
+6	her	she	PRP$	_	7	poss
+7	work	work	NN	_	5	iobj
+8	a	a	DT	_	10	det
+9	brand	brand	NN	_	10	nn
+10	image	image	NN	_	5	dobj
+11	that	that	WDT	_	12	nsubj
+12	informs	inform	VBZ	_	10	rcmod
+13	consumers	consumer	NNS	_	15	poss
+14	'	'	POS	_	13	possessive
+15	choices	choice	NNS	_	12	dobj
+16	of	of	IN	_	15	prep
+17	literary	literary	JJ	_	20	amod
+18	and	and	CC	_	17	cc
+19	artistic	artistic	JJ	_	17	conj
+20	works	work	NNS	_	16	pobj
+21	.	.	.	_	5	punct
+

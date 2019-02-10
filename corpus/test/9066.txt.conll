@@ -1,0 +1,23 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	such	such	JJ	_	5	amod
+4	a	a	DT	_	5	det
+5	bevy	bevy	NN	_	2	nsubj
+6	of	of	IN	_	5	prep
+7	mourning	mourn	VBG	_	6	pcomp
+8	doves	dove	NNS	_	7	dobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	tree	tree	NN	_	9	pobj
+12	across	across	IN	_	7	prep
+13	from	from	IN	_	12	pcomp
+14	the	the	DT	_	15	det
+15	deck	deck	NN	_	13	pobj
+16	that	that	IN	_	18	mark
+17	they	they	PRP	_	18	nsubj
+18	looked	look	VBD	_	5	dep
+19	like	like	IN	_	18	prep
+20	Christmas	Christmas	NNP	_	21	nn
+21	ornaments	ornament	NNS	_	19	pobj
+22	.	.	.	_	2	punct
+

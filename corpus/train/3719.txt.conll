@@ -1,0 +1,22 @@
+1	When	when	WRB	_	3	advmod
+2	he	he	PRP	_	3	nsubj
+3	want	want	VBP	_	9	advcl
+4	for	for	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	run	run	NN	_	4	pobj
+7	,	,	,	_	9	punct
+8	he	he	PRP	_	9	nsubj
+9	checked	check	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	timer	timer	NN	_	9	dobj
+12	on	on	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	oven	oven	NN	_	12	pobj
+15	,	,	,	_	9	punct
+16	and	and	CC	_	9	cc
+17	again	again	RB	_	20	advmod
+18	when	when	WRB	_	20	advmod
+19	he	he	PRP	_	20	nsubj
+20	returned	return	VBD	_	9	conj
+21	.	.	.	_	9	punct
+

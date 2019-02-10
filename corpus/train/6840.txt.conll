@@ -1,0 +1,19 @@
+1	Recent	recent	JJ	_	3	amod
+2	traffic	traffic	NN	_	3	nn
+3	studies	study	NNS	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	department	department	NN	_	7	nn
+7	show	show	NN	_	4	pobj
+8	that	that	IN	_	15	mark
+9	a	a	DT	_	10	det
+10	majority	majority	NN	_	15	nsubjpass
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	accidents	accident	NNS	_	11	pobj
+14	are	be	VBP	_	15	auxpass
+15	caused	cause	VBN	_	7	ccomp
+16	by	by	IN	_	15	prep
+17	drivers	driver	NNS	_	16	pobj
+18	.	.	.	_	3	punct
+

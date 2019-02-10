@@ -1,0 +1,25 @@
+1	Polonium	Polonium	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	distilled	distil	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	bismuth	bismuth	NN	_	4	pobj
+6	under	under	IN	_	3	prep
+7	vacuum	vacuum	NN	_	6	pobj
+8	in	in	IN	_	3	prep
+9	a	a	DT	_	10	det
+10	pot	pot	NN	_	8	pobj
+11	provided	provide	VBN	_	10	vmod
+12	with	with	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	cover	cover	NN	_	12	pobj
+15	carrying	carry	VBG	_	14	vmod
+16	a	a	DT	_	17	det
+17	condenser	condenser	NN	_	15	dobj
+18	which	which	WDT	_	20	nsubj
+19	is	be	VBZ	_	20	cop
+20	positioned	positioned	JJ	_	17	rcmod
+21	inside	inside	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	pot	pot	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

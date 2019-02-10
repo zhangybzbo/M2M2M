@@ -1,0 +1,11 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	dumped	dump	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	spam	spam	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	9	det
+8	junk	junk	NN	_	9	nn
+9	folder	folder	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

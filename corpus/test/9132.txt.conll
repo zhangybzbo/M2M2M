@@ -1,0 +1,15 @@
+1	Student	student	NN	_	2	nn
+2	support	support	NN	_	5	nsubj
+3	by	by	IN	_	2	prep
+4	telephone	telephone	NN	_	3	pobj
+5	has	have	VBZ	_	0	ROOT
+6	a	a	DT	_	8	det
+7	long	long	JJ	_	8	amod
+8	tradition	tradition	NN	_	5	dobj
+9	in	in	IN	_	8	prep
+10	open	open	JJ	_	13	amod
+11	and	and	CC	_	10	cc
+12	distance	distance	NN	_	10	conj
+13	learning	learning	NN	_	9	pobj
+14	.	.	.	_	5	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	US	US	NNP	_	3	nn
+3	Department	Department	NNP	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	Energy	Energy	NNP	_	4	pobj
+6	has	have	VBZ	_	7	aux
+7	developed	develop	VBN	_	0	ROOT
+8	a	a	DT	_	9	det
+9	method	method	NN	_	7	dobj
+10	for	for	IN	_	9	prep
+11	producing	produce	VBG	_	10	pcomp
+12	natural	natural	JJ	_	13	amod
+13	gas	gas	NN	_	11	dobj
+14	from	from	IN	_	11	prep
+15	algae	algae	FW	_	14	pobj
+16	.	.	.	_	7	punct
+

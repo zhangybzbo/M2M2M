@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	method	method	NN	_	12	nsubj
+3	,	,	,	_	2	punct
+4	discovered	discover	VBN	_	2	vmod
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	team	team	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	seven	seven	CD	_	10	num
+10	researchers	researcher	NNS	_	8	pobj
+11	,	,	,	_	2	punct
+12	exploits	exploit	VBZ	_	0	ROOT
+13	a	a	DT	_	14	det
+14	weakness	weakness	NN	_	12	dobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	MD5	md5	NN	_	19	nn
+18	hash	hash	NN	_	19	nn
+19	function	function	NN	_	15	pobj
+20	to	to	TO	_	21	aux
+21	construct	construct	VB	_	12	vmod
+22	a	a	DT	_	25	det
+23	rogue	rogue	NN	_	25	nn
+24	certificate	certificate	NN	_	25	nn
+25	authority	authority	NN	_	21	dobj
+26	.	.	.	_	12	punct
+

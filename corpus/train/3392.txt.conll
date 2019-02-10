@@ -1,0 +1,13 @@
+1	Ken	Ken	NNP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	thermometer	thermometer	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	glass	glass	NN	_	5	pobj
+8	filled	fill	VBN	_	7	vmod
+9	with	with	IN	_	8	prep
+10	hot	hot	JJ	_	11	amod
+11	water	water	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

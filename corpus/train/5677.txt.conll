@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	number	number	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	sheets	sheet	NNS	_	3	pobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	carton	carton	NN	_	5	pobj
+8	varies	vary	VBZ	_	0	ROOT
+9	for	for	IN	_	8	prep
+10	large	large	JJ	_	12	amod
+11	printing	printing	NN	_	12	nn
+12	sheets	sheet	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

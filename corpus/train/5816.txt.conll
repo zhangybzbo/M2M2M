@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	vowel	vowel	NN	_	3	nn
+3	length	length	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	denoted	denote	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	acute	acute	JJ	_	9	amod
+9	accent	accent	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

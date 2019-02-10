@@ -1,0 +1,11 @@
+0	57	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="physician" pos="NN" nsubj="t2"
+14	21	tok id="t2" base="bring" pos="VBD" ROOT="ROOT"
+22	26	tok id="t3" base="only" pos="RB" prep="t2"
+27	30	tok id="t4" base="he" pos="PRP$" poss="t5"
+31	42	tok id="t5" base="stethoscope" pos="NN" pobj="t3"
+43	46	tok id="t6" base="and" pos="CC" cc="t5"
+47	55	tok id="t7" base="otoscope" pos="NN" conj="t5"
+56	57	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

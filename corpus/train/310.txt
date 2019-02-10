@@ -1,0 +1,1 @@
+Feedback , as defined earlier in this chapter , is information that can be used to modify or maintain previous behaviours .

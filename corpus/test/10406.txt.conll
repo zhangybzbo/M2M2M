@@ -1,0 +1,19 @@
+1	Those	those	DT	_	3	det
+2	early	early	JJ	_	3	amod
+3	studies	study	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	directed	direct	VBN	_	0	ROOT
+6	toward	toward	IN	_	5	prep
+7	examining	examine	VBG	_	6	pcomp
+8	the	the	DT	_	10	det
+9	spring	spring	NN	_	10	nn
+10	vegetation	vegetation	NN	_	7	dobj
+11	green-up	green-up	NN	_	10	dep
+12	and	and	CC	_	11	cc
+13	subsequent	subsequent	JJ	_	14	amod
+14	summer	summer	NN	_	11	conj
+15	and	and	CC	_	7	cc
+16	fall	fall	NN	_	17	nn
+17	dry-down	dry-down	NN	_	7	conj
+18	.	.	.	_	5	punct
+

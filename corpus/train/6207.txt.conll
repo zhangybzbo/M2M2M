@@ -1,0 +1,24 @@
+1	Ensuring	ensure	VBG	_	10	csubj
+2	a	a	DT	_	4	det
+3	stable	stable	JJ	_	4	amod
+4	supply	supply	NN	_	1	dobj
+5	of	of	IN	_	4	prep
+6	farm	farm	NN	_	7	nn
+7	produce	produce	NN	_	5	pobj
+8	is	be	VBZ	_	10	cop
+9	good	good	JJ	_	10	amod
+10	news	news	NN	_	0	ROOT
+11	to	to	TO	_	10	prep
+12	most	most	RBS	_	13	advmod
+13	Chinese	chinese	JJ	_	14	amod
+14	people	people	NNS	_	11	pobj
+15	who	who	WP	_	16	nsubj
+16	spend	spend	VBP	_	14	rcmod
+17	much	much	RB	_	16	dobj
+18	of	of	IN	_	17	prep
+19	their	they	PRP$	_	20	poss
+20	money	money	NN	_	18	pobj
+21	on	on	IN	_	16	prep
+22	food	food	NN	_	21	pobj
+23	.	.	.	_	10	punct
+

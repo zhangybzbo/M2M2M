@@ -1,0 +1,26 @@
+1	Following	follow	VBG	_	15	vmod
+2	the	the	DT	_	5	det
+3	abortive	abortive	JJ	_	5	amod
+4	Italian	italian	JJ	_	5	amod
+5	campaign	campaign	NN	_	1	dobj
+6	,	,	,	_	15	punct
+7	Siberia	Siberia	NNP	_	8	nn
+8	Grenadiers	Grenadiers	NNPS	_	15	nsubj
+9	and	and	CC	_	8	cc
+10	grenadier	grenadier	NN	_	11	nn
+11	battalion	battalion	NN	_	8	conj
+12	of	of	IN	_	8	prep
+13	Aleksopol	Aleksopol	NNP	_	14	nn
+14	musketeers	musketeer	NNS	_	12	pobj
+15	returned	return	VBD	_	0	ROOT
+16	to	to	TO	_	15	prep
+17	Russia	Russia	NNP	_	16	pobj
+18	via	via	IN	_	15	prep
+19	the	the	DT	_	21	det
+20	Black	Black	NNP	_	21	nn
+21	Sea	sea	NN	_	18	pobj
+22	in	in	IN	_	15	prep
+23	January	January	NNP	_	22	pobj
+24	1806	1806	CD	_	23	num
+25	.	.	.	_	15	punct
+

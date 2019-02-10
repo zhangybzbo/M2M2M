@@ -1,0 +1,11 @@
+0	46	sentence id="s0" parse_status="success"
+0	13	tok id="t0" base="interestingly" pos="RB" advmod="t4"
+14	15	tok id="t1" base="-COMMA-" pos="," punct="t4"
+16	19	tok id="t2" base="the" pos="DT" det="t3"
+20	24	tok id="t3" base="sink" pos="NN" nsubj="t4"
+25	28	tok id="t4" base="be" pos="VBD" ROOT="ROOT"
+29	35	tok id="t5" base="inside" pos="IN" prep="t4"
+36	39	tok id="t6" base="the" pos="DT" det="t7"
+40	44	tok id="t7" base="room" pos="NN" pobj="t5"
+45	46	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

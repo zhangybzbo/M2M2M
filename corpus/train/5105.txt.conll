@@ -1,0 +1,20 @@
+1	The	the	DT	_	18	nsubj
+2	streaking	streak	VBG	_	1	amod
+3	was	be	VBD	_	18	cop
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	penguins	penguin	NNS	_	7	nsubj
+7	doing	do	VBG	_	4	pcomp
+8	what	what	WP	_	11	dobj
+9	all	all	DT	_	10	det
+10	animals	animal	NNS	_	11	nsubj
+11	do	do	VBP	_	7	ccomp
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	forests	forest	NNS	_	12	pobj
+15	and	and	CC	_	14	cc
+16	woods	wood	NNS	_	14	conj
+17	,	,	,	_	18	punct
+18	etc.	etc.	FW	_	0	ROOT
+19	.	.	.	_	18	punct
+

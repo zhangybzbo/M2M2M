@@ -1,0 +1,18 @@
+1	Vehicles	Vehicles	NNPS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	equipped	equip	VBN	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	front	front	NN	_	4	pobj
+6	and	and	CC	_	5	cc
+7	rear	rear	JJ	_	8	amod
+8	bumpers	bumper	NNS	_	5	conj
+9	designed	design	VBN	_	5	vmod
+10	to	to	TO	_	11	aux
+11	withstand	withstand	VB	_	9	xcomp
+12	the	the	DT	_	13	det
+13	impact	impact	NN	_	11	dobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	collision	collision	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

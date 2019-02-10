@@ -1,0 +1,15 @@
+1	Only	only	RB	_	6	advmod
+2	the	the	DT	_	6	det
+3	most	most	RBS	_	4	advmod
+4	ambitious	ambitious	JJ	_	6	amod
+5	emissions	emission	NNS	_	6	nn
+6	reductions	reduction	NNS	_	11	nsubj
+7	under	under	IN	_	6	prep
+8	discussion	discussion	NN	_	7	pobj
+9	within	within	IN	_	8	prep
+10	UNFCCC	UNFCCC	NNP	_	9	pobj
+11	achieves	achieve	VBZ	_	0	ROOT
+12	climate	climate	NN	_	13	nn
+13	goals	goal	NNS	_	11	dobj
+14	.	.	.	_	11	punct
+

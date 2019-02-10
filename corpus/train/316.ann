@@ -1,0 +1,3 @@
+T1	Term 26 31	owner
+T2	Term 38 42	fire
+R1	Product-Producer Arg1:T2 Arg2:T1

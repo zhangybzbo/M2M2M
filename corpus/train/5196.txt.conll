@@ -1,0 +1,11 @@
+1	Two	two	CD	_	2	num
+2	attributes	attribute	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	carried	carry	VBN	_	0	ROOT
+5	Meraki	meraki	JJ	_	6	amod
+6	networks	network	NNS	_	4	dobj
+7	into	into	IN	_	4	prep
+8	Amazonian	amazonian	JJ	_	9	amod
+9	towns	town	NNS	_	7	pobj
+10	.	.	.	_	4	punct
+

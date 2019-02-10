@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	deputy	deputy	NN	_	3	nn
+3	commissioner	commissioner	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	assisted	assist	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	number	number	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	officers	officer	NNS	_	9	pobj
+11	belonging	belong	VBG	_	10	vmod
+12	to	to	TO	_	11	prep
+13	Uttar	Uttar	NNP	_	16	nn
+14	Pradesh	Pradesh	NNP	_	16	nn
+15	Civil	Civil	NNP	_	16	nn
+16	Service	Service	NNP	_	12	pobj
+17	and	and	CC	_	16	cc
+18	other	other	JJ	_	20	amod
+19	Uttar	Uttar	NNP	_	20	nn
+20	Pradesh	Pradesh	NNP	_	16	conj
+21	.	.	.	_	5	punct
+

@@ -1,0 +1,26 @@
+1	Missouri	Missouri	NNP	_	2	nsubj
+2	experienced	experience	VBD	_	0	ROOT
+3	growth	growth	NN	_	2	dobj
+4	in	in	IN	_	3	prep
+5	swine	swine	NNS	_	6	nn
+6	herd	herd	NN	_	4	pobj
+7	from	from	IN	_	2	prep
+8	1990	1990	CD	_	7	pobj
+9	to	to	TO	_	7	prep
+10	2000	2000	CD	_	9	pobj
+11	as	as	IN	_	2	prep
+12	did	do	VBD	_	11	pcomp
+13	four	four	CD	_	15	num
+14	nearby	nearby	JJ	_	15	amod
+15	states	state	NNS	_	12	nsubj
+16	-LRB-	-lrb-	-LRB-	_	17	punct
+17	Iowa	Iowa	NNP	_	15	dep
+18	,	,	,	_	17	punct
+19	Oklahoma	Oklahoma	NNP	_	17	conj
+20	,	,	,	_	17	punct
+21	Kansas	Kansas	NNP	_	17	conj
+22	and	and	CC	_	17	cc
+23	Texas	Texas	NNP	_	17	conj
+24	-RRB-	-rrb-	-RRB-	_	17	punct
+25	.	.	.	_	2	punct
+

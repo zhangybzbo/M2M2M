@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="CIP" pos="NNP" nsubj="t3"
+4	7	tok id="t1" base="have" pos="VBZ" aux="t3"
+8	12	tok id="t2" base="be" pos="VBN" aux="t3"
+13	22	tok id="t3" base="bestow" pos="VBG" ROOT="ROOT"
+23	29	tok id="t4" base="award" pos="NNS" dobj="t3"
+30	32	tok id="t5" base="to" pos="TO" aux="t6"
+33	39	tok id="t6" base="honour" pos="VB" vmod="t4"
+40	48	tok id="t7" base="planning" pos="NN" nn="t8"
+49	57	tok id="t8" base="project" pos="NNS" dobj="t6"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

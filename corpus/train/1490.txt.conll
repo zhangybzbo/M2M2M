@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	shells	shell	NNS	_	3	nsubj
+3	landed	land	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	different	different	JJ	_	6	amod
+6	areas	area	NNS	_	4	pobj
+7	in	in	IN	_	3	prep
+8	Mogadishu	Mogadishu	NNP	_	7	pobj
+9	.	.	.	_	3	punct
+

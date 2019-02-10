@@ -1,0 +1,20 @@
+1	Like	like	IN	_	13	prep
+2	a	a	DT	_	3	det
+3	carpenter	carpenter	NN	_	1	pobj
+4	wielding	wield	VBG	_	3	vmod
+5	an	a	DT	_	6	det
+6	axe	axe	NN	_	4	dobj
+7	to	to	TO	_	8	aux
+8	make	make	VB	_	4	vmod
+9	furniture	furniture	NN	_	8	dobj
+10	,	,	,	_	13	punct
+11	the	the	DT	_	12	det
+12	hacker	hacker	NN	_	13	nsubj
+13	does	do	VBZ	_	0	ROOT
+14	good	good	JJ	_	15	amod
+15	things	thing	NNS	_	13	dobj
+16	with	with	IN	_	15	prep
+17	his	he	PRP$	_	18	poss
+18	skills	skill	NNS	_	16	pobj
+19	.	.	.	_	13	punct
+

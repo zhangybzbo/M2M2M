@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	dust	dust	NN	_	6	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	extinguishers	extinguisher	NNS	_	3	pobj
+6	set	set	VBD	_	0	ROOT
+7	off	off	RP	_	6	prt
+8	the	the	DT	_	9	det
+9	alarm	alarm	NN	_	6	dobj
+10	.	.	.	_	6	punct
+

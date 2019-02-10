@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	delay	delay	NN	_	11	nsubjpass
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	progression	progression	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	these	these	DT	_	8	det
+8	applications	application	NNS	_	6	pobj
+9	has	have	VBZ	_	11	aux
+10	been	be	VBN	_	11	auxpass
+11	caused	cause	VBN	_	0	ROOT
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	original	original	JJ	_	15	amod
+15	applicants	applicant	NNS	_	12	pobj
+16	.	.	.	_	11	punct
+

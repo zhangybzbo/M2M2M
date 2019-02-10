@@ -1,0 +1,10 @@
+0	45	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="cuban" pos="JJ" amod="t1"
+6	17	tok id="t1" base="ballplayer" pos="NNS" nsubj="t2"
+18	23	tok id="t2" base="wield" pos="VBP" ROOT="ROOT"
+24	25	tok id="t3" base="a" pos="DT" det="t6"
+26	32	tok id="t4" base="bigger" pos="JJR" amod="t6"
+33	39	tok id="t5" base="policy" pos="NN" nn="t6"
+40	43	tok id="t6" base="bat" pos="NN" dobj="t2"
+44	45	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

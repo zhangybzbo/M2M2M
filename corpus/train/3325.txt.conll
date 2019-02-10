@@ -1,0 +1,18 @@
+1	Continued	continue	VBN	_	2	amod
+2	exposure	exposure	NN	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	higher	higher	JJR	_	5	amod
+5	concentrations	concentration	NNS	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	gas	gas	NN	_	10	nn
+9	cause	cause	NN	_	10	nn
+10	disorientation	disorientation	NN	_	6	pobj
+11	,	,	,	_	10	punct
+12	convulsions	convulsion	NNS	_	10	conj
+13	,	,	,	_	10	punct
+14	unconsciousness	unconsciousness	NN	_	10	conj
+15	and	and	CC	_	10	cc
+16	death	death	NN	_	10	conj
+17	.	.	.	_	2	punct
+

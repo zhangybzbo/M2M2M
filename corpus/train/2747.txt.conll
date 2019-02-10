@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	colossal	colossal	JJ	_	3	amod
+3	squid	squid	NN	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	a	a	DT	_	8	det
+6	sharp	sharp	JJ	_	8	amod
+7	bird-like	bird-like	JJ	_	8	amod
+8	beak	beak	NN	_	4	dobj
+9	that	that	WDT	_	10	nsubj
+10	slices	slice	VBZ	_	8	rcmod
+11	2-metre-long	2-metre-long	JJ	_	13	amod
+12	Antarctic	antarctic	JJ	_	13	amod
+13	toothfish	toothfish	NN	_	10	dobj
+14	into	into	IN	_	10	prep
+15	small	small	JJ	_	16	amod
+16	chunks	chunk	NNS	_	14	pobj
+17	.	.	.	_	4	punct
+

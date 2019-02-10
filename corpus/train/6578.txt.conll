@@ -1,0 +1,23 @@
+1	Licensing	licensing	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	different	different	JJ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	certification	certification	NN	_	4	pobj
+7	since	since	IN	_	12	mark
+8	it	it	PRP	_	12	nsubj
+9	is	be	VBZ	_	12	cop
+10	a	a	DT	_	12	det
+11	governmental	governmental	JJ	_	12	amod
+12	requirement	requirement	NN	_	3	advcl
+13	needed	need	VBN	_	12	vmod
+14	before	before	IN	_	18	mark
+15	a	a	DT	_	17	det
+16	crane	crane	NN	_	17	nn
+17	operator	operator	NN	_	18	nsubj
+18	starts	start	VBZ	_	13	advcl
+19	practicing	practice	VBG	_	18	xcomp
+20	his	he	PRP$	_	21	poss
+21	occupation	occupation	NN	_	19	dobj
+22	.	.	.	_	3	punct
+

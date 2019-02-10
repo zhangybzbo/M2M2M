@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	catamaran	catamaran	NN	_	3	nn
+3	tiller	tiller	NN	_	8	nsubjpass
+4	having	have	VBG	_	3	vmod
+5	a	a	DT	_	6	det
+6	grip	grip	NN	_	4	dobj
+7	is	be	VBZ	_	8	auxpass
+8	provided	provide	VBN	_	0	ROOT
+9	to	to	TO	_	10	aux
+10	permit	permit	VB	_	8	xcomp
+11	tension	tension	NN	_	10	dobj
+12	to	to	TO	_	14	aux
+13	be	be	VB	_	14	auxpass
+14	applied	apply	VBN	_	11	vmod
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	17	det
+17	tiller	tiller	NN	_	15	pobj
+18	more	more	RBR	_	19	advmod
+19	easily	easily	RB	_	14	advmod
+20	.	.	.	_	8	punct
+

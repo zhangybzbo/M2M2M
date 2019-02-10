@@ -1,0 +1,13 @@
+1	Mothers	mother	NNS	_	2	nsubj
+2	transmit	transmit	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	cavity	cavity	NN	_	2	dobj
+5	causing	cause	VBG	_	4	vmod
+6	bacteria	bacterium	NNS	_	5	dobj
+7	by	by	IN	_	5	prep
+8	kissing	kiss	VBG	_	7	pcomp
+9	their	they	PRP$	_	11	poss
+10	babies	baby	NNS	_	11	nn
+11	mouths	mouth	NNS	_	8	dobj
+12	.	.	.	_	2	punct
+

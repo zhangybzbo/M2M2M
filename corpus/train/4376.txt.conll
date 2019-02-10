@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	crust	crust	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	planet	planet	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	flooded	flood	VBN	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	melt	melt	VB	_	8	pobj
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	crater	crater	NN	_	13	nsubj
+13	tended	tend	VBD	_	9	conj
+14	to	to	TO	_	15	aux
+15	erase	erase	VB	_	13	xcomp
+16	itself	itself	PRP	_	15	dobj
+17	.	.	.	_	7	punct
+

@@ -1,0 +1,25 @@
+1	Diabetes	Diabetes	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	group	group	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	metabolic	metabolic	JJ	_	7	amod
+7	disorders	disorder	NNS	_	5	pobj
+8	characterized	characterize	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	hyperglycemia	hyperglycemia	NN	_	9	pobj
+12	resulting	result	VBG	_	11	vmod
+13	from	from	IN	_	12	prep
+14	defects	defect	NNS	_	13	pobj
+15	in	in	IN	_	14	prep
+16	insulin	insulin	NN	_	17	nn
+17	secretion	secretion	NN	_	15	pobj
+18	,	,	,	_	17	punct
+19	insulin	insulin	NN	_	20	nn
+20	action	action	NN	_	17	conj
+21	,	,	,	_	17	punct
+22	or	or	CC	_	17	cc
+23	both	both	DT	_	17	conj
+24	.	.	.	_	4	punct
+

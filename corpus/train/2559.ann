@@ -1,0 +1,3 @@
+T1	Term 30 38	tungsten
+T2	Term 63 71	filament
+R1	Entity-Origin Arg1:T1 Arg2:T2

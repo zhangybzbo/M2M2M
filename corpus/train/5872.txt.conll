@@ -1,0 +1,18 @@
+1	They	they	PRP	_	3	nsubj
+2	were	be	VBD	_	3	cop
+3	ready	ready	JJ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	bake	bake	VB	_	3	xcomp
+6	the	the	DT	_	9	det
+7	best	best	JJS	_	9	amod
+8	darn	darn	JJ	_	9	amod
+9	cakes	cake	NNS	_	5	dobj
+10	that	that	WDT	_	12	nsubj
+11	ever	ever	RB	_	12	advmod
+12	popped	pop	VBN	_	9	rcmod
+13	out	out	IN	_	12	prep
+14	of	of	IN	_	13	pcomp
+15	an	a	DT	_	16	det
+16	oven	oven	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

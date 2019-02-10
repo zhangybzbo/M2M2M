@@ -1,0 +1,22 @@
+1	In	in	IN	_	12	prep
+2	a	a	DT	_	8	det
+3	conventional	conventional	JJ	_	8	amod
+4	,	,	,	_	8	punct
+5	steam	steam	NN	_	8	nn
+6	turbine-only	turbine-only	JJ	_	8	amod
+7	power	power	NN	_	8	nn
+8	plant	plant	NN	_	1	pobj
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	heat	heat	NN	_	12	nsubj
+12	required	require	VBN	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	produce	produce	VB	_	12	xcomp
+15	the	the	DT	_	16	det
+16	steam	steam	NN	_	14	dobj
+17	comes	come	VBZ	_	12	dep
+18	from	from	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	boiler	boiler	NN	_	18	pobj
+21	.	.	.	_	12	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	symbol	symbol	NN	_	3	nsubj
+3	appears	appear	VBZ	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	hilt	hilt	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	katana	katana	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

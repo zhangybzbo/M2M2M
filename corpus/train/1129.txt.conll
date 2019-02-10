@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	three	three	CD	_	3	num
+3	companions	companion	NNS	_	4	nsubj
+4	reached	reach	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	city	city	NN	_	4	dobj
+7	by	by	IN	_	4	prep
+8	way	way	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	river	river	NN	_	12	nn
+12	Selintan	Selintan	NNP	_	9	pobj
+13	.	.	.	_	4	punct
+

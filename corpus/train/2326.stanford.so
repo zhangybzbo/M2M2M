@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="man" pos="NN" nn="t1"
+4	8	tok id="t1" base="work" pos="NN" ROOT="ROOT"
+9	15	tok id="t2" base="inside" pos="IN" prep="t1"
+16	17	tok id="t3" base="a" pos="DT" det="t4"
+18	25	tok id="t4" base="caisson" pos="NN" pobj="t2"
+26	31	tok id="t5" base="while" pos="IN" mark="t6"
+32	42	tok id="t6" base="excavate" pos="VBG" advcl="t1"
+43	46	tok id="t7" base="for" pos="IN" prep="t6"
+47	53	tok id="t8" base="bridge" pos="NN" nn="t9"
+54	65	tok id="t9" base="foundation" pos="NNS" pobj="t7"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,8 @@
+1	Their	they	PRP$	_	2	poss
+2	relationship	relationship	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	thrown	throw	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	chaos	chaos	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

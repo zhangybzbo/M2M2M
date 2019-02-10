@@ -1,0 +1,23 @@
+1	The	the	DT	_	4	det
+2	fresh	fresh	JJ	_	4	amod
+3	Muslim	muslim	JJ	_	4	amod
+4	anger	anger	NN	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	opening	opening	NN	_	11	nn
+11	speech	speech	NN	_	8	pobj
+12	delivered	deliver	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	Pope	Pope	NNP	_	16	nn
+15	Benedict	Benedict	NNP	_	16	nn
+16	XVI	XVI	NNP	_	13	pobj
+17	on	on	IN	_	12	prep
+18	September	September	NNP	_	17	pobj
+19	12	12	CD	_	18	num
+20	,	,	,	_	18	punct
+21	2006	2006	CD	_	18	num
+22	.	.	.	_	7	punct
+

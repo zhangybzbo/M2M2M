@@ -1,0 +1,1 @@
+The echoing you see is from an expect command running after send has run .

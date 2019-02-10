@@ -1,0 +1,20 @@
+1	We	we	PRP	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	whole	whole	JJ	_	5	amod
+4	wheat	wheat	NN	_	5	nn
+5	flour	flour	NN	_	2	dobj
+6	almost	almost	RB	_	7	advmod
+7	exclusively	exclusively	RB	_	2	advmod
+8	,	,	,	_	2	punct
+9	but	but	CC	_	2	cc
+10	the	the	DT	_	14	det
+11	white	white	JJ	_	14	amod
+12	whole	whole	JJ	_	14	amod
+13	wheat	wheat	NN	_	14	nn
+14	flour	flour	NN	_	18	nsubj
+15	was	be	VBD	_	18	cop
+16	a	a	DT	_	18	det
+17	new	new	JJ	_	18	amod
+18	thing	thing	NN	_	2	conj
+19	.	.	.	_	2	punct
+

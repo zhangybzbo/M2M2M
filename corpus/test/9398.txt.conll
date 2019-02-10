@@ -1,0 +1,24 @@
+1	Pressure	pressure	NN	_	2	nn
+2	regulation	regulation	NN	_	11	nsubj
+3	using	use	VBG	_	2	vmod
+4	the	the	DT	_	5	det
+5	valve	valve	NN	_	3	dobj
+6	and	and	CC	_	5	cc
+7	different	different	JJ	_	8	amod
+8	amounts	amount	NNS	_	5	conj
+9	of	of	IN	_	8	prep
+10	fluid	fluid	NN	_	9	pobj
+11	goes	go	VBZ	_	0	ROOT
+12	a	a	DT	_	14	det
+13	long	long	JJ	_	14	amod
+14	way	way	NN	_	11	dobj
+15	in	in	IN	_	14	prep
+16	keeping	keep	VBG	_	15	pcomp
+17	your	you	PRP$	_	20	poss
+18	hydraulic	hydraulic	JJ	_	20	amod
+19	log	log	NN	_	20	nn
+20	splitter	splitter	NN	_	16	dobj
+21	in	in	IN	_	16	prep
+22	action	action	NN	_	21	pobj
+23	.	.	.	_	11	punct
+

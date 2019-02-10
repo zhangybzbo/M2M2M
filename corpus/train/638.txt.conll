@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	det
+2	outlaw	outlaw	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	exported	export	VBN	_	0	ROOT
+5	terrorism	terrorism	NN	_	4	dobj
+6	to	to	TO	_	4	prep
+7	our	we	PRP$	_	8	poss
+8	society	society	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

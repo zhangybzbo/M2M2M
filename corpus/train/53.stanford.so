@@ -1,0 +1,13 @@
+0	78	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t2"
+2	12	tok id="t1" base="neoplastic" pos="JJ" amod="t2"
+13	23	tok id="t2" base="recurrence" pos="NN" nsubj="t3"
+24	29	tok id="t3" base="arise" pos="VBD" ROOT="ROOT"
+30	34	tok id="t4" base="from" pos="IN" prep="t3"
+35	37	tok id="t5" base="a" pos="DT" det="t7"
+38	47	tok id="t6" base="extensive" pos="JJ" amod="t7"
+48	57	tok id="t7" base="radiation" pos="NN" pobj="t4"
+58	65	tok id="t8" base="induce" pos="VBD" vmod="t7"
+66	76	tok id="t9" base="ulceration" pos="NN" dobj="t8"
+77	78	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	grip	grip	NN	_	5	nsubjpass
+3	1	1	CD	_	2	num
+4	is	be	VBZ	_	5	auxpass
+5	fitted	fit	VBN	_	0	ROOT
+6	over	over	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	rear	rear	JJ	_	9	amod
+9	part	part	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	core	core	NN	_	10	pobj
+13	6	6	CD	_	12	num
+14	of	of	IN	_	12	prep
+15	the	the	DT	_	16	det
+16	helve	helve	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	hammer	hammer	NN	_	17	pobj
+20	.	.	.	_	5	punct
+

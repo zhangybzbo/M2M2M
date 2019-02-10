@@ -1,0 +1,27 @@
+1	But	but	CC	_	3	cc
+2	they	they	PRP	_	3	nsubj
+3	lost	lose	VBD	_	0	ROOT
+4	their	they	PRP$	_	5	poss
+5	child	child	NN	_	3	dobj
+6	,	,	,	_	5	punct
+7	Arife	arife	NN	_	5	appos
+8	,	,	,	_	5	punct
+9	here	here	RB	_	3	advmod
+10	,	,	,	_	3	punct
+11	in	in	IN	_	3	prep
+12	the	the	DT	_	11	pobj
+13	muddy	muddy	JJ	_	12	amod
+14	,	,	,	_	16	punct
+15	freezing	freezing	JJ	_	16	amod
+16	huddle	huddle	NN	_	13	dep
+17	of	of	IN	_	16	prep
+18	tents	tent	NNS	_	17	pobj
+19	where	where	WRB	_	22	advmod
+20	the	the	DT	_	21	det
+21	survivors	survivor	NNS	_	22	nsubj
+22	eke	eke	VBP	_	18	rcmod
+23	out	out	RP	_	22	prt
+24	a	a	DT	_	25	det
+25	living	living	NN	_	22	dobj
+26	.	.	.	_	16	punct
+

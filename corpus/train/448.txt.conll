@@ -1,0 +1,25 @@
+1	On	on	IN	_	0	ROOT
+2	the	the	DT	_	4	det
+3	other	other	JJ	_	4	amod
+4	hand	hand	NN	_	1	pobj
+5	,	,	,	_	1	punct
+6	the	the	DT	_	7	det
+7	higher	higher	JJR	_	5	dep
+8	the	the	DT	_	9	det
+9	satisfaction	satisfaction	NN	_	7	dep
+10	from	from	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	purchase	purchase	NN	_	10	pobj
+13	,	,	,	_	7	punct
+14	the	the	DT	_	15	det
+15	greater	greater	JJR	_	13	dep
+16	the	the	DT	_	17	det
+17	benefit	benefit	NN	_	15	dep
+18	of	of	IN	_	17	prep
+19	word-of-mouth	word-of-mouth	NN	_	20	nn
+20	referrals	referral	NNS	_	18	pobj
+21	and	and	CC	_	20	cc
+22	repeat	repeat	NN	_	23	nn
+23	purchasing	purchasing	NN	_	20	conj
+24	.	.	.	_	15	punct
+

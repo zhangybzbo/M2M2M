@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	behavior	behavior	NN	_	10	nsubjpass
+3	of	of	IN	_	2	prep
+4	premixed	premixed	JJ	_	5	amod
+5	flame	flame	NN	_	3	pobj
+6	in	in	IN	_	2	prep
+7	a	a	DT	_	8	det
+8	vessel	vessel	NN	_	6	pobj
+9	is	be	VBZ	_	10	auxpass
+10	investigated	investigate	VBN	_	0	ROOT
+11	through	through	IN	_	10	prep
+12	a	a	DT	_	15	det
+13	direct	direct	JJ	_	15	amod
+14	numerical	numerical	JJ	_	15	amod
+15	simulation	simulation	NN	_	11	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	21	det
+18	three-dimensional	three-dimensional	JJ	_	21	amod
+19	unsteady	unsteady	JJ	_	21	amod
+20	Navier-Stokes	navier-stoke	NN	_	21	nn
+21	equations	equation	NNS	_	16	pobj
+22	.	.	.	_	10	punct
+

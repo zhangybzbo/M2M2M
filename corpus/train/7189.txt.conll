@@ -1,0 +1,26 @@
+1	A	a	DT	_	4	det
+2	pop-up	pop-up	JJ	_	4	amod
+3	roll	roll	NN	_	4	nn
+4	cage	cage	NN	_	8	nsubj
+5	and	and	CC	_	4	cc
+6	active	active	JJ	_	7	amod
+7	headrests	headrest	NNS	_	4	conj
+8	aim	aim	VBP	_	0	ROOT
+9	to	to	TO	_	10	aux
+10	protect	protect	VB	_	8	xcomp
+11	occupants	occupant	NNS	_	10	dobj
+12	during	during	IN	_	10	prep
+13	a	a	DT	_	14	det
+14	rollover	rollover	NN	_	12	pobj
+15	,	,	,	_	8	punct
+16	and	and	CC	_	8	cc
+17	the	the	DT	_	18	det
+18	floorboard	floorboard	NN	_	20	nsubjpass
+19	is	be	VBZ	_	20	auxpass
+20	made	make	VBN	_	8	conj
+21	from	from	IN	_	20	prep
+22	bamboo	bamboo	NN	_	21	pobj
+23	and	and	CC	_	22	cc
+24	aluminum	aluminum	NN	_	22	conj
+25	.	.	.	_	8	punct
+

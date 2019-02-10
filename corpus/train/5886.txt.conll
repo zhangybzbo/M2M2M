@@ -1,0 +1,11 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	three	three	CD	_	5	num
+4	different	different	JJ	_	5	amod
+5	oestrogens	oestrogen	NNS	_	2	nsubj
+6	made	make	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	your	you	PRP$	_	9	poss
+9	body	body	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,19 @@
+1	In	in	IN	_	11	prep
+2	addition	addition	NN	_	1	pobj
+3	,	,	,	_	11	punct
+4	a	a	DT	_	6	det
+5	brief	brief	JJ	_	6	amod
+6	biography	biography	NN	_	11	nsubjpass
+7	establishing	establish	VBG	_	6	vmod
+8	her	she	PRP$	_	9	poss
+9	credentials	credentials	NNS	_	7	dobj
+10	was	be	VBD	_	11	auxpass
+11	included	include	VBN	_	0	ROOT
+12	at	at	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	end	end	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	report	report	NN	_	15	pobj
+18	.	.	.	_	11	punct
+

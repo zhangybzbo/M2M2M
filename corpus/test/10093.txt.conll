@@ -1,0 +1,11 @@
+1	My	my	PRP$	_	2	poss
+2	husband	husband	NN	_	3	nsubj
+3	returned	return	VBD	_	0	ROOT
+4	a	a	DT	_	8	det
+5	$	$	$	_	8	amod
+6	275	275	CD	_	5	number
+7	cashmere	cashmere	JJ	_	8	amod
+8	sweater	sweater	NN	_	3	dobj
+9	to	to	TO	_	3	prep
+10	Jos.	Jos.	NNP	_	9	pobj
+

@@ -1,0 +1,18 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	earth	earth	NN	_	4	nsubj
+4	revolves	revolve	VBZ	_	10	advcl
+5	around	around	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	sun	sun	NN	_	5	pobj
+8	,	,	,	_	10	punct
+9	the	the	DT	_	10	det
+10	place	place	NN	_	0	ROOT
+11	where	where	WRB	_	13	advmod
+12	light	light	JJ	_	13	nsubj
+13	shines	shine	VBZ	_	10	rcmod
+14	the	the	DT	_	16	det
+15	brightest	brightest	JJS	_	16	amod
+16	changes	change	NNS	_	13	dobj
+17	.	.	.	_	10	punct
+

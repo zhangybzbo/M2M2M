@@ -1,0 +1,20 @@
+1	He	he	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	ring	ring	NN	_	5	nn
+5	folder	folder	NN	_	2	dobj
+6	,	,	,	_	2	punct
+7	and	and	CC	_	2	cc
+8	a	a	DT	_	9	det
+9	pad	pad	NN	_	13	nsubj
+10	of	of	IN	_	9	prep
+11	paper	paper	NN	_	10	pobj
+12	suitably	suitably	RB	_	13	advmod
+13	punched	punch	VBD	_	2	conj
+14	to	to	TO	_	15	aux
+15	fit	fit	VB	_	13	xcomp
+16	the	the	DT	_	18	det
+17	ring	ring	NN	_	18	nn
+18	folder	folder	NN	_	15	dobj
+19	.	.	.	_	2	punct
+

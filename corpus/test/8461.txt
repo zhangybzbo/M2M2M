@@ -1,0 +1,1 @@
+The company has mocked up a version of YouTube built around the HTML5 video tag , playing mini-movies inside a browser sans plug-ins .

@@ -1,0 +1,16 @@
+1	Since	since	IN	_	9	prep
+2	then	then	RB	_	1	pcomp
+3	,	,	,	_	9	punct
+4	other	other	JJ	_	6	amod
+5	civil	civil	JJ	_	6	amod
+6	liberties	liberty	NNS	_	9	nsubjpass
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	set	set	VBN	_	0	ROOT
+10	out	out	RP	_	9	prt
+11	in	in	IN	_	9	prep
+12	other	other	JJ	_	14	amod
+13	constitutional	constitutional	JJ	_	14	amod
+14	laws	law	NNS	_	11	pobj
+15	.	.	.	_	9	punct
+

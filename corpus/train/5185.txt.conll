@@ -1,0 +1,16 @@
+1	His	he	PRP$	_	2	poss
+2	death	death	NN	_	9	nsubj
+3	during	during	IN	_	2	prep
+4	one	one	CD	_	3	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Portuguese	Portuguese	NNP	_	8	nn
+8	raids	raid	NNS	_	5	pobj
+9	caused	cause	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	abandonment	abandonment	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	settlement	settlement	NN	_	12	pobj
+15	.	.	.	_	9	punct
+

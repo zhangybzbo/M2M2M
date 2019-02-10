@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj
+2	hear	hear	VBP	_	0	ROOT
+3	promises	promise	NNS	_	2	dobj
+4	from	from	IN	_	3	prep
+5	our	we	PRP$	_	6	poss
+6	leaders	leader	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	big	big	JJ	_	9	amod
+9	change	change	NN	_	7	pobj
+10	in	in	IN	_	3	prep
+11	the	the	DT	_	12	det
+12	future	future	NN	_	10	pobj
+13	,	,	,	_	2	punct
+14	without	without	IN	_	2	prep
+15	any	any	DT	_	17	det
+16	credible	credible	JJ	_	17	amod
+17	plans	plan	NNS	_	14	pobj
+18	right	right	RB	_	19	advmod
+19	now	now	RB	_	17	advmod
+20	.	.	.	_	2	punct
+

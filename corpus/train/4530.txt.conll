@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	best	best	JJS	_	3	amod
+3	spikes	spike	NNS	_	7	nsubj
+4	for	for	IN	_	3	prep
+5	knights	knight	NNS	_	4	pobj
+6	are	be	VBP	_	7	cop
+7	Hook	Hook	NNP	_	0	ROOT
+8	+	+	CC	_	7	cc
+9	Big	Big	NNP	_	10	nn
+10	Weel	Weel	NNP	_	7	conj
+11	and	and	CC	_	7	cc
+12	Death	Death	NNP	_	13	nn
+13	Strike	strike	NN	_	7	conj
+14	+	+	CC	_	13	cc
+15	Dragon	Dragon	NNP	_	16	nn
+16	divide	divide	NN	_	13	conj
+17	.	.	.	_	7	punct
+

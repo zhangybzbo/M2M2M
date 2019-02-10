@@ -1,0 +1,11 @@
+1	Peterson	Peterson	NNP	_	2	nsubj
+2	worked	work	VBD	_	0	ROOT
+3	as	as	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	fertilizer	fertilizer	NN	_	6	nn
+6	salesman	salesman	NN	_	3	pobj
+7	before	before	IN	_	2	prep
+8	his	he	PRP$	_	9	poss
+9	arrest	arrest	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

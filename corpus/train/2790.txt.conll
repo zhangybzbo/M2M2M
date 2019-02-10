@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	dust	dust	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	derived	derive	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	arid	arid	JJ	_	8	amod
+8	region	region	NN	_	5	pobj
+9	,	,	,	_	4	punct
+10	presumedly	presumedly	RB	_	12	advmod
+11	North	North	NNP	_	12	nn
+12	Africa	Africa	NNP	_	4	dep
+13	.	.	.	_	4	punct
+

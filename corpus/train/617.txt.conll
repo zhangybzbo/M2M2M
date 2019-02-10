@@ -1,0 +1,19 @@
+1	Infectious	infectious	JJ	_	2	amod
+2	mononucleosis	mononucleosis	NN	_	8	nsubj
+3	due	due	JJ	_	4	mwe
+4	to	to	TO	_	2	prep
+5	the	the	DT	_	7	det
+6	Epstein-Barr	epstein-barr	JJ	_	7	amod
+7	virus	virus	NN	_	4	pobj
+8	causes	cause	VBZ	_	0	ROOT
+9	exudative	exudative	JJ	_	10	amod
+10	tonsillitis	tonsillitis	NN	_	8	dobj
+11	or	or	CC	_	10	cc
+12	pharyngitis	pharyngitis	NN	_	10	conj
+13	in	in	IN	_	8	prep
+14	about	about	IN	_	13	pcomp
+15	one-half	one-half	NN	_	14	pobj
+16	of	of	IN	_	15	prep
+17	cases	case	NNS	_	16	pobj
+18	.	.	.	_	8	punct
+

@@ -1,0 +1,20 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	text	text	NN	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	top	top	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	newspaper	newspaper	NN	_	10	nn
+10	article	article	NN	_	7	pobj
+11	indicating	indicate	VBG	_	10	vmod
+12	the	the	DT	_	13	det
+13	nature	nature	NN	_	11	dobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	article	article	NN	_	14	pobj
+17	below	below	IN	_	16	prep
+18	it	it	PRP	_	17	pobj
+19	.	.	.	_	3	punct
+

@@ -1,0 +1,15 @@
+1	Details	detail	NNS	_	2	nsubj
+2	include	include	VBP	_	0	ROOT
+3	pertinent	pertinent	JJ	_	4	amod
+4	people	people	NNS	_	2	dobj
+5	involved	involve	VBN	_	4	vmod
+6	as	as	RB	_	7	advmod
+7	well	well	RB	_	5	cc
+8	as	as	IN	_	7	mwe
+9	interesting	interesting	JJ	_	10	amod
+10	facts	fact	NNS	_	5	conj
+11	and	and	CC	_	5	cc
+12	production	production	NN	_	13	nn
+13	statistics	statistics	NNS	_	5	conj
+14	.	.	.	_	2	punct
+

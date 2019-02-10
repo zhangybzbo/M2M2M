@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	court	court	NN	_	3	nsubj
+3	decided	decide	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	objection	objection	NN	_	3	dobj
+6	by	by	IN	_	3	prep
+7	making	make	VBG	_	6	pcomp
+8	the	the	DT	_	10	det
+9	instalment	instalment	NN	_	10	nn
+10	order	order	NN	_	7	dobj
+11	as	as	IN	_	12	mark
+12	sought	seek	VBN	_	7	advcl
+13	.	.	.	_	3	punct
+

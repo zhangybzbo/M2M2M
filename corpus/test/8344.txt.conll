@@ -1,0 +1,10 @@
+1	Rythmbox	rythmbox	NN	_	2	nsubj
+2	moves	move	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	song	song	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	MP	mp	NN	_	8	nn
+8	player	player	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

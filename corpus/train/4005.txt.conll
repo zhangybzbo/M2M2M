@@ -1,0 +1,23 @@
+1	He	he	PRP	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	thumb	thumb	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	hand	hand	NN	_	5	pobj
+8	holding	hold	VBG	_	7	vmod
+9	the	the	DT	_	10	det
+10	head	head	NN	_	8	dobj
+11	to	to	TO	_	12	aux
+12	pull	pull	VB	_	2	vmod
+13	down	down	RP	_	12	prt
+14	the	the	DT	_	17	det
+15	lower	lower	JJR	_	17	amod
+16	eye	eye	NN	_	17	nn
+17	lid	lid	NN	_	12	dobj
+18	to	to	TO	_	19	aux
+19	create	create	VB	_	12	vmod
+20	a	a	DT	_	21	det
+21	pouch	pouch	NN	_	19	dobj
+22	.	.	.	_	2	punct
+

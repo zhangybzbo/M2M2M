@@ -1,0 +1,23 @@
+1	There	there	EX	_	2	expl
+2	were	be	VBD	_	0	ROOT
+3	two	two	CD	_	4	nsubj
+4	smiling	smile	VBG	_	2	ccomp
+5	and	and	CC	_	4	cc
+6	waving	wave	VBG	_	4	conj
+7	individuals	individual	NNS	_	6	dobj
+8	hanging	hang	VBG	_	7	vmod
+9	under	under	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	bun	bun	NN	_	9	pobj
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	wicker	wicker	NN	_	15	nn
+15	basket	basket	NN	_	12	pobj
+16	equipped	equip	VBN	_	15	vmod
+17	with	with	IN	_	16	prep
+18	the	the	DT	_	21	det
+19	big	big	JJ	_	21	amod
+20	Bunsen	Bunsen	NNP	_	21	nn
+21	burner	burner	NN	_	17	pobj
+22	.	.	.	_	2	punct
+

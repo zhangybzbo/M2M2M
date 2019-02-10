@@ -1,0 +1,16 @@
+1	Oh	oh	UH	_	6	discourse
+2	,	,	,	_	6	punct
+3	so	so	RB	_	6	advmod
+4	this	this	DT	_	6	nsubj
+5	was	be	VBD	_	6	cop
+6	all	all	DT	_	0	ROOT
+7	about	about	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	trash	trash	NN	_	10	nn
+10	bag	bag	NN	_	7	pobj
+11	with	with	IN	_	10	prep
+12	money	money	NN	_	11	pobj
+13	in	in	IN	_	6	prep
+14	it	it	PRP	_	13	pobj
+15	.	.	.	_	6	punct
+

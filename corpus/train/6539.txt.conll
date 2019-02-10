@@ -1,0 +1,26 @@
+1	In	in	IN	_	6	prep
+2	one	one	CD	_	3	num
+3	place	place	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	sea	sea	NN	_	6	nsubj
+6	had	have	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	sweep	sweep	NN	_	6	dobj
+9	fifteen	fifteen	CD	_	10	num
+10	feet	foot	NNS	_	8	dep
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	nsubj
+13	were	be	VBD	_	14	cop
+14	upturned	upturned	JJ	_	11	pcomp
+15	,	,	,	_	14	punct
+16	and	and	CC	_	14	cc
+17	a	a	DT	_	19	det
+18	big	big	JJ	_	19	amod
+19	pile	pile	NN	_	24	nsubjpass
+20	of	of	IN	_	19	prep
+21	human	human	JJ	_	22	amod
+22	bones	bone	NNS	_	20	pobj
+23	was	be	VBD	_	24	auxpass
+24	exhumed	exhume	VBN	_	14	conj
+25	.	.	.	_	6	punct
+

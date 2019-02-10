@@ -1,0 +1,26 @@
+1	Epogen	Epogen	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	made	make	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	human	human	JJ	_	6	amod
+6	plasma	plasma	NN	_	4	pobj
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	part	part	NN	_	6	appos
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	blood	blood	NN	_	9	pobj
+12	-RRB-	-rrb-	-RRB-	_	8	punct
+13	and	and	CC	_	3	cc
+14	may	may	MD	_	15	aux
+15	contain	contain	VB	_	3	conj
+16	viruses	virus	NNS	_	15	dobj
+17	and	and	CC	_	16	cc
+18	other	other	JJ	_	20	amod
+19	infectious	infectious	JJ	_	20	amod
+20	agents	agent	NNS	_	16	conj
+21	that	that	WDT	_	23	nsubj
+22	can	can	MD	_	23	aux
+23	cause	cause	VB	_	16	rcmod
+24	disease	disease	NN	_	23	dobj
+25	.	.	.	_	3	punct
+

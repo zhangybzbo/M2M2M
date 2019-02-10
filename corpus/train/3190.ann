@@ -1,0 +1,3 @@
+T1	Term 4 10	turtle
+T2	Term 60 65	mouth
+R1	Component-Whole Arg1:T2 Arg2:T1

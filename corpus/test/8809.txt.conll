@@ -1,0 +1,25 @@
+1	Moreover	moreover	RB	_	15	advmod
+2	,	,	,	_	15	punct
+3	from	from	IN	_	15	prep
+4	the	the	DT	_	5	det
+5	porch	porch	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	stoics	stoic	NNS	_	6	pobj
+9	he	he	PRP	_	10	nsubj
+10	brings	bring	VBZ	_	8	rcmod
+11	out	out	RP	_	10	prt
+12	matter	matter	NN	_	10	dobj
+13	,	,	,	_	15	punct
+14	and	and	CC	_	15	cc
+15	places	place	VBZ	_	0	ROOT
+16	it	it	PRP	_	15	dobj
+17	on	on	IN	_	15	prep
+18	a	a	DT	_	19	det
+19	par	par	NN	_	17	pobj
+20	with	with	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	Divine	Divine	NNP	_	23	nn
+23	Creator	Creator	NNP	_	20	pobj
+24	.	.	.	_	15	punct
+

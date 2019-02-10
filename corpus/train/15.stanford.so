@@ -1,0 +1,11 @@
+0	68	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="even" pos="RB" advmod="t2"
+5	15	tok id="t1" base="commercial" pos="JJ" amod="t2"
+16	24	tok id="t2" base="network" pos="NNS" nsubj="t4"
+25	29	tok id="t3" base="have" pos="VBP" aux="t4"
+30	35	tok id="t4" base="move" pos="VBN" ROOT="ROOT"
+36	40	tok id="t5" base="into" pos="IN" prep="t4"
+41	56	tok id="t6" base="high-definition" pos="JJ" amod="t7"
+57	66	tok id="t7" base="broadcast" pos="NN" pobj="t5"
+67	68	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

@@ -1,0 +1,21 @@
+1	Thieves	thief	NNS	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	a	a	DT	_	7	det
+4	blowtorch	blowtorch	NN	_	7	nn
+5	and	and	CC	_	4	cc
+6	bolt	bolt	NN	_	4	conj
+7	cutters	cutter	NNS	_	2	dobj
+8	to	to	TO	_	9	aux
+9	force	force	VB	_	2	xcomp
+10	their	they	PRP$	_	11	poss
+11	way	way	NN	_	9	dobj
+12	through	through	IN	_	9	prep
+13	a	a	DT	_	15	det
+14	fenced	fenced	JJ	_	15	amod
+15	area	area	NN	_	12	pobj
+16	topped	top	VBN	_	15	vmod
+17	with	with	IN	_	16	prep
+18	razor	razor	NN	_	19	nn
+19	wire	wire	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

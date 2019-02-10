@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	governor	governor	NN	_	3	nsubj
+3	piled	pile	VBD	_	0	ROOT
+4	up	up	RP	_	3	prt
+5	all	all	PDT	_	7	predet
+6	the	the	DT	_	7	det
+7	mud	mud	NN	_	3	dobj
+8	into	into	IN	_	3	prep
+9	another	another	DT	_	10	det
+10	causeway	causeway	NN	_	8	pobj
+11	,	,	,	_	3	punct
+12	in	in	IN	_	3	prep
+13	the	the	DT	_	14	det
+14	style	style	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	Bai	Bai	NNP	_	17	nn
+17	Causeway	Causeway	NNP	_	15	pobj
+18	.	.	.	_	3	punct
+

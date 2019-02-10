@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det
+2	article	article	NN	_	0	ROOT
+3	is	be	VBZ	_	2	dep
+4	about	about	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	use	use	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	bench	bench	NN	_	9	nn
+9	marks	mark	NNS	_	7	pobj
+10	in	in	IN	_	6	prep
+11	surveying	survey	VBG	_	10	pobj
+12	,	,	,	_	3	punct
+13	for	for	IN	_	3	prep
+14	other	other	JJ	_	15	amod
+15	uses	use	NNS	_	13	pobj
+16	see	see	VBP	_	3	dep
+17	Bench	Bench	NNP	_	18	nn
+18	mark	mark	NN	_	16	dobj
+19	.	.	.	_	2	punct
+

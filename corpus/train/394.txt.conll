@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	focus	focus	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	going	go	VBG	_	0	ROOT
+5	away	away	RB	_	4	advmod
+6	from	from	IN	_	4	prep
+7	the	the	DT	_	9	det
+8	display	display	NN	_	9	nn
+9	button	button	NN	_	6	pobj
+10	.	.	.	_	4	punct
+

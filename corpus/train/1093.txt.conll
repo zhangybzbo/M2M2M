@@ -1,0 +1,21 @@
+1	Treasure	Treasure	NNP	_	2	nn
+2	Island	Island	NNP	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	gripping	gripping	JJ	_	7	amod
+6	pirate	pirate	NN	_	7	nn
+7	story	story	NN	_	0	ROOT
+8	,	,	,	_	7	punct
+9	fast-paced	fast-paced	JJ	_	7	amod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	standards	standard	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	its	its	PRP$	_	15	poss
+15	time	time	NN	_	13	pobj
+16	and	and	CC	_	9	cc
+17	full	full	JJ	_	9	conj
+18	of	of	IN	_	17	prep
+19	action	action	NN	_	18	pobj
+20	.	.	.	_	7	punct
+

@@ -1,0 +1,21 @@
+1	He	he	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	provides	provide	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	news	news	NN	_	3	dobj
+6	that	that	IN	_	15	mark
+7	the	the	DT	_	10	det
+8	300-year	300-year	JJ	_	10	amod
+9	old	old	JJ	_	10	amod
+10	tradition	tradition	NN	_	15	nsubj
+11	of	of	IN	_	10	prep
+12	paying	pay	VBG	_	11	pcomp
+13	by	by	IN	_	12	prep
+14	cheque	cheque	NN	_	13	pobj
+15	is	be	VBZ	_	5	ccomp
+16	on	on	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	way	way	NN	_	16	pobj
+19	out	out	RP	_	18	advmod
+20	.	.	.	_	3	punct
+

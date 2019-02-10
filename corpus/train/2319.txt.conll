@@ -1,0 +1,25 @@
+1	In	in	IN	_	7	prep
+2	tele-operation	tele-operation	NN	_	1	pobj
+3	,	,	,	_	7	punct
+4	a	a	DT	_	6	det
+5	human	human	JJ	_	6	amod
+6	operator	operator	NN	_	7	nsubj
+7	manipulates	manipulate	VBZ	_	0	ROOT
+8	a	a	DT	_	10	det
+9	control	control	NN	_	10	nn
+10	stick	stick	NN	_	7	dobj
+11	to	to	TO	_	12	aux
+12	generate	generate	VB	_	7	vmod
+13	a	a	DT	_	15	det
+14	command	command	NN	_	15	nn
+15	signal	signal	NN	_	12	dobj
+16	so	so	IN	_	20	mark
+17	that	that	IN	_	20	mark
+18	a	a	DT	_	19	det
+19	robot	robot	NN	_	20	nsubj
+20	performs	perform	VBZ	_	12	advcl
+21	a	a	DT	_	23	det
+22	specified	specify	VBN	_	23	amod
+23	task	task	NN	_	20	dobj
+24	.	.	.	_	7	punct
+

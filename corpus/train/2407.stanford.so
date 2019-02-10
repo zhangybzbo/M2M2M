@@ -1,0 +1,12 @@
+0	48	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t2"
+2	10	tok id="t1" base="canadian" pos="JJ" amod="t2"
+11	17	tok id="t2" base="doctor" pos="NN" nsubj="t3"
+18	23	tok id="t3" base="cure" pos="VBD" ROOT="ROOT"
+24	26	tok id="t4" base="I" pos="PRP" dobj="t3"
+27	31	tok id="t5" base="with" pos="IN" prep="t3"
+32	36	tok id="t6" base="only" pos="RB" advmod="t8"
+37	38	tok id="t7" base="a" pos="DT" det="t8"
+39	46	tok id="t8" base="massage" pos="NN" pobj="t5"
+47	48	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

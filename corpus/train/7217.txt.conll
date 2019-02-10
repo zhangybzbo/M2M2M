@@ -1,0 +1,23 @@
+1	Fruit	Fruit	NNP	_	2	nn
+2	juice	juice	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	all	all	PDT	_	7	predet
+5	the	the	DT	_	7	det
+6	fruit	fruit	NN	_	7	nn
+7	sugar	sugar	NN	_	3	dobj
+8	and	and	CC	_	7	cc
+9	none	none	NN	_	7	conj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	fruit	fruit	NN	_	13	nn
+13	fiber	fiber	NN	_	10	pobj
+14	,	,	,	_	3	punct
+15	and	and	CC	_	3	cc
+16	only	only	RB	_	17	advmod
+17	some	some	DT	_	3	conj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	fruit	fruit	NN	_	21	nn
+21	nutrients	nutrient	NNS	_	18	pobj
+22	.	.	.	_	3	punct
+

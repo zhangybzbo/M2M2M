@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	cleaned	clean	VBD	_	0	ROOT
+3	his	he	PRP$	_	5	poss
+4	piano	piano	NN	_	5	nn
+5	keys	key	NNS	_	2	dobj
+6	,	,	,	_	2	punct
+7	using	use	VBG	_	2	vmod
+8	the	the	DT	_	10	det
+9	proposed	propose	VBN	_	10	amod
+10	tips	tip	NNS	_	7	dobj
+11	,	,	,	_	2	punct
+12	but	but	CC	_	2	cc
+13	also	also	RB	_	14	advmod
+14	remembered	remember	VBD	_	2	conj
+15	:	:	:	_	14	punct
+16	playing	play	VBG	_	21	csubj
+17	with	with	IN	_	16	prep
+18	clean	clean	JJ	_	19	amod
+19	hands	hand	NNS	_	17	pobj
+20	can	can	MD	_	21	aux
+21	prevent	prevent	VB	_	14	parataxis
+22	future	future	JJ	_	23	amod
+23	headache	headache	NN	_	21	dobj
+24	.	.	.	_	2	punct
+

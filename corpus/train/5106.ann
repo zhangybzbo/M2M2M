@@ -1,0 +1,3 @@
+T1	Term 42 46	deck
+T2	Term 50 55	cards
+R1	Member-Collection Arg1:T2 Arg2:T1

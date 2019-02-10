@@ -1,0 +1,13 @@
+1	Unfortunately	unfortunately	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	my	my	PRP$	_	4	poss
+4	aunt	aunt	NN	_	5	nsubj
+5	fell	fall	VBD	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	bad	bad	JJ	_	8	amod
+8	health	health	NN	_	6	pobj
+9	throughout	throughout	IN	_	5	prep
+10	the	the	DT	_	11	det
+11	year	year	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

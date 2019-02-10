@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	metro	metro	NN	_	3	nn
+3	line	line	NN	_	4	nsubj
+4	begins	begin	VBZ	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	underground	underground	JJ	_	8	amod
+8	station	station	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	St.	St.	NNP	_	11	nn
+11	Stephen	Stephen	NNP	_	13	poss
+12	's	's	POS	_	11	possessive
+13	Green	green	NN	_	9	pobj
+14	in	in	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	city	city	NN	_	17	nn
+17	centre	centre	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

@@ -1,0 +1,27 @@
+1	As	as	IN	_	4	mark
+2	we	we	PRP	_	4	nsubj
+3	were	be	VBD	_	4	aux
+4	leaving	leave	VBG	_	9	advcl
+5	the	the	DT	_	6	det
+6	house	house	NN	_	4	dobj
+7	,	,	,	_	9	punct
+8	we	we	PRP	_	9	nsubj
+9	found	find	VBD	_	0	ROOT
+10	a	a	DT	_	11	det
+11	suitcase	suitcase	NN	_	9	dobj
+12	with	with	IN	_	11	prep
+13	three	three	CD	_	17	num
+14	or	or	CC	_	13	cc
+15	four	four	CD	_	13	conj
+16	Jordanian	jordanian	JJ	_	17	amod
+17	passports	passport	NNS	_	12	pobj
+18	in	in	IN	_	17	prep
+19	it	it	PRP	_	18	pobj
+20	,	,	,	_	19	punct
+21	clothes	clothes	NNS	_	19	conj
+22	,	,	,	_	19	punct
+23	and	and	CC	_	19	cc
+24	hygiene	hygiene	NN	_	25	nn
+25	gear	gear	NN	_	19	conj
+26	.	.	.	_	9	punct
+

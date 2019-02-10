@@ -1,0 +1,27 @@
+1	An	a	DT	_	3	det
+2	accompanying	accompany	VBG	_	3	amod
+3	CD	cd	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	light	light	JJ	_	8	amod
+6	classic	classic	JJ	_	8	amod
+7	Italian	italian	JJ	_	8	amod
+8	music	music	NN	_	4	pobj
+9	helps	help	VBZ	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	inspire	inspire	VB	_	9	xcomp
+12	the	the	DT	_	13	det
+13	cook	cook	NN	_	14	nsubj
+14	laboring	labor	VBG	_	11	ccomp
+15	over	over	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	stove	stove	NN	_	15	pobj
+18	or	or	CC	_	14	cc
+19	to	to	TO	_	20	aux
+20	create	create	VB	_	14	conj
+21	a	a	DT	_	23	det
+22	romantic	romantic	JJ	_	23	amod
+23	atmosphere	atmosphere	NN	_	20	dobj
+24	at	at	IN	_	20	prep
+25	dinner	dinner	NN	_	24	pobj
+26	.	.	.	_	9	punct
+

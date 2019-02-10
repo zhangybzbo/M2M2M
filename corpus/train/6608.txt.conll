@@ -1,0 +1,17 @@
+1	Up	up	IN	_	3	quantmod
+2	to	to	TO	_	3	dep
+3	85	85	CD	_	4	num
+4	%	%	NN	_	12	nsubjpass
+5	of	of	IN	_	4	prep
+6	viruses	virus	NNS	_	5	pobj
+7	that	that	WDT	_	8	nsubj
+8	cause	cause	VBP	_	6	rcmod
+9	respiratory	respiratory	JJ	_	10	amod
+10	illness	illness	NN	_	8	dobj
+11	are	be	VBP	_	12	auxpass
+12	identified	identify	VBN	_	0	ROOT
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	technology	technology	NN	_	13	pobj
+16	.	.	.	_	12	punct
+

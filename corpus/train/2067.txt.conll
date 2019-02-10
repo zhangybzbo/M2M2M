@@ -1,0 +1,13 @@
+1	In	in	IN	_	8	prep
+2	this	this	DT	_	3	det
+3	method	method	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	multiword	multiword	JJ	_	6	amod
+6	concepts	concept	NNS	_	8	nsubjpass
+7	are	be	VBP	_	8	auxpass
+8	treated	treat	VBN	_	0	ROOT
+9	as	as	IN	_	8	prep
+10	single	single	JJ	_	11	amod
+11	words	word	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

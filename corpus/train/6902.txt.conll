@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	three	three	CD	_	3	num
+3	types	type	NNS	_	11	nsubj
+4	of	of	IN	_	3	prep
+5	bone	bone	NN	_	6	nn
+6	cells	cell	NNS	_	4	pobj
+7	in	in	IN	_	3	prep
+8	the	the	DT	_	10	det
+9	nasal	nasal	JJ	_	10	amod
+10	turbinates	turbinate	NNS	_	7	pobj
+11	had	have	VBD	_	0	ROOT
+12	characteristic	characteristic	JJ	_	14	amod
+13	ultrastructural	ultrastructural	JJ	_	14	amod
+14	features	feature	NNS	_	11	dobj
+15	.	.	.	_	11	punct
+

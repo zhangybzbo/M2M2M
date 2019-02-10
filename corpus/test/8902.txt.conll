@@ -1,0 +1,25 @@
+1	The	the	DT	_	4	det
+2	Leftist	leftist	JJ	_	4	amod
+3	student	student	NN	_	4	nn
+4	platform	platform	NN	_	9	nsubjpass
+5	at	at	IN	_	4	prep
+6	LAU	LAU	NNP	_	5	pobj
+7	is	be	VBZ	_	9	auxpass
+8	newly	newly	RB	_	9	advmod
+9	born	bear	VBN	_	0	ROOT
+10	independent	independent	JJ	_	12	amod
+11	leftist	leftist	JJ	_	12	amod
+12	league	league	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	various	various	JJ	_	16	amod
+15	leftist	leftist	JJ	_	16	amod
+16	movements	movement	NNS	_	13	pobj
+17	and	and	CC	_	16	cc
+18	independents	independent	NNS	_	16	conj
+19	at	at	IN	_	9	prep
+20	the	the	DT	_	23	det
+21	Lebanese	lebanese	JJ	_	23	amod
+22	American	American	NNP	_	23	nn
+23	University	University	NNP	_	19	pobj
+24	.	.	.	_	9	punct
+

@@ -1,0 +1,13 @@
+0	44	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	7	tok id="t1" base="train" pos="NN" nsubj="t2"
+8	11	tok id="t2" base="run" pos="VBD" ROOT="ROOT"
+12	16	tok id="t3" base="into" pos="IN" prep="t2"
+17	18	tok id="t4" base="a" pos="DT" det="t5"
+19	24	tok id="t5" base="truck" pos="NN" pobj="t3"
+25	26	tok id="t6" base="-COMMA-" pos="," punct="t2"
+27	34	tok id="t7" base="leave" pos="VBG" vmod="t2"
+35	37	tok id="t8" base="14" pos="CD" dobj="t7"
+38	42	tok id="t9" base="dead" pos="JJ" amod="t8"
+43	44	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

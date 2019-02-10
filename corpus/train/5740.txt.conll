@@ -1,0 +1,27 @@
+1	A	a	DT	_	4	det
+2	``	``	``	_	4	punct
+3	talented	talented	JJ	_	4	amod
+4	student	student	NN	_	20	nsubjpass
+5	''	''	''	_	4	punct
+6	who	who	WP	_	7	nsubj
+7	kept	keep	VBD	_	4	rcmod
+8	a	a	DT	_	9	det
+9	pistol	pistol	NN	_	7	dobj
+10	locked	lock	VBN	_	9	vmod
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	safe	safe	JJ	_	11	pobj
+14	at	at	IN	_	10	prep
+15	his	he	PRP$	_	17	poss
+16	Wolverhampton	Wolverhampton	NNP	_	17	nn
+17	home	home	NN	_	14	pobj
+18	has	have	VBZ	_	20	aux
+19	been	be	VBN	_	20	auxpass
+20	sent	send	VBN	_	0	ROOT
+21	to	to	TO	_	20	prep
+22	a	a	DT	_	25	det
+23	young	young	JJ	_	25	amod
+24	offenders	offender	NNS	_	25	nn
+25	institution	institution	NN	_	21	pobj
+26	.	.	.	_	20	punct
+

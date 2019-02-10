@@ -1,0 +1,19 @@
+1	Bone	bone	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	built	build	VBN	_	0	ROOT
+4	up	up	IN	_	3	prep
+5	of	of	IN	_	4	pcomp
+6	many	many	JJ	_	8	amod
+7	cell	cell	NN	_	8	nn
+8	types	type	NNS	_	5	pobj
+9	and	and	CC	_	3	cc
+10	so	so	RB	_	11	advmod
+11	far	far	RB	_	15	advmod
+12	we	we	PRP	_	15	nsubj
+13	have	have	VBP	_	15	aux
+14	only	only	RB	_	15	advmod
+15	investigated	investigate	VBN	_	3	conj
+16	human	human	JJ	_	17	amod
+17	osteoblasts	osteoblast	NNS	_	15	dobj
+18	.	.	.	_	3	punct
+

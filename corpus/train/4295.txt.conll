@@ -1,0 +1,15 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	an	a	DT	_	5	det
+4	official	official	JJ	_	5	amod
+5	document	document	NN	_	0	ROOT
+6	providing	provide	VBG	_	5	vmod
+7	proof	proof	NN	_	6	dobj
+8	of	of	IN	_	7	prep
+9	ownership	ownership	NN	_	8	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	motor	motor	NN	_	13	nn
+13	vehicle	vehicle	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

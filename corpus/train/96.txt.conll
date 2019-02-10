@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	driver	driver	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	cement	cement	NN	_	6	nn
+6	truck	truck	NN	_	3	pobj
+7	cleaned	clean	VBD	_	0	ROOT
+8	the	the	DT	_	10	det
+9	loading	load	VBG	_	10	amod
+10	chute	chute	NN	_	7	dobj
+11	on	on	IN	_	7	prep
+12	his	he	PRP$	_	13	poss
+13	truck	truck	NN	_	11	pobj
+14	with	with	IN	_	7	prep
+15	a	a	DT	_	18	det
+16	truck-mounted	truck-mounted	JJ	_	18	amod
+17	water	water	NN	_	18	nn
+18	hose	hose	NN	_	14	pobj
+19	and	and	CC	_	7	cc
+20	began	begin	VBD	_	7	conj
+21	to	to	TO	_	22	aux
+22	pull	pull	VB	_	20	xcomp
+23	away	away	RB	_	22	advmod
+24	.	.	.	_	7	punct
+

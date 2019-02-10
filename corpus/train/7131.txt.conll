@@ -1,0 +1,17 @@
+1	Progress	Progress	NNP	_	2	nsubj
+2	comes	come	VBZ	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	constructive	constructive	JJ	_	5	amod
+5	competition	competition	NN	_	3	pobj
+6	,	,	,	_	2	punct
+7	and	and	CC	_	2	cc
+8	churches	church	NNS	_	12	nsubj
+9	and	and	CC	_	8	cc
+10	religions	religion	NNS	_	8	conj
+11	can	can	MD	_	12	aux
+12	benefit	benefit	VB	_	2	conj
+13	greatly	greatly	RB	_	12	advmod
+14	from	from	IN	_	12	prep
+15	it	it	PRP	_	14	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,16 @@
+1	By	by	IN	_	5	prep
+2	chance	chance	NN	_	1	pobj
+3	,	,	,	_	5	punct
+4	Toe	toe	NN	_	5	nsubj
+5	discovers	discover	VBZ	_	0	ROOT
+6	a	a	DT	_	8	det
+7	rainbow-coloured	rainbow-coloured	JJ	_	8	amod
+8	rock	rock	NN	_	5	dobj
+9	with	with	IN	_	8	prep
+10	hidden	hidden	JJ	_	11	amod
+11	power	power	NN	_	9	pobj
+12	to	to	TO	_	13	aux
+13	grant	grant	VB	_	5	xcomp
+14	wishes	wish	NNS	_	13	dobj
+15	.	.	.	_	5	punct
+

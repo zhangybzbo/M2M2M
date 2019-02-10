@@ -1,0 +1,23 @@
+1	Under	under	IN	_	21	prep
+2	a	a	DT	_	5	det
+3	giant	giant	JJ	_	5	amod
+4	silk	silk	NN	_	5	nn
+5	cocoon	cocoon	NN	_	1	pobj
+6	created	create	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	an	a	DT	_	9	det
+9	army	army	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	caterpillars	caterpillar	NNS	_	10	pobj
+12	,	,	,	_	21	punct
+13	the	the	DT	_	14	det
+14	shape	shape	NN	_	21	nsubj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	Honda	Honda	NNP	_	15	pobj
+18	is	be	VBZ	_	21	cop
+19	just	just	RB	_	20	advmod
+20	about	about	IN	_	21	advmod
+21	visible	visible	JJ	_	0	ROOT
+22	.	.	.	_	21	punct
+

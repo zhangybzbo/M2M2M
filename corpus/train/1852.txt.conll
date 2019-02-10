@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	three	three	CD	_	3	num
+3	prints	print	NNS	_	7	nsubj
+4	are	be	VBP	_	7	cop
+5	a	a	DT	_	7	det
+6	great	great	JJ	_	7	amod
+7	example	example	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	rare	rare	JJ	_	12	amod
+11	vintage	vintage	NN	_	12	nn
+12	photograph	photograph	NN	_	8	pobj
+13	by	by	IN	_	12	prep
+14	an	a	DT	_	15	det
+15	artist	artist	NN	_	13	pobj
+16	who	who	WP	_	17	nsubj
+17	had	have	VBD	_	15	rcmod
+18	an	a	DT	_	19	det
+19	influence	influence	NN	_	17	dobj
+20	on	on	IN	_	19	prep
+21	later	later	JJ	_	23	amod
+22	20th-century	20th-century	JJ	_	23	amod
+23	photographers	photographer	NNS	_	20	pobj
+24	.	.	.	_	7	punct
+

@@ -1,0 +1,13 @@
+1	Figures	figure	NNS	_	2	nsubj
+2	show	show	VBP	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	the	the	DT	_	5	det
+5	crisis	crisis	NN	_	7	nsubj
+6	is	be	VBZ	_	7	aux
+7	spreading	spread	VBG	_	2	ccomp
+8	into	into	IN	_	7	prep
+9	Israel	Israel	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	economy	economy	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

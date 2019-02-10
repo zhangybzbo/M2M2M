@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="player" pos="NN" nsubj="t2"
+11	17	tok id="t2" base="start" pos="VBZ" ROOT="ROOT"
+18	25	tok id="t3" base="play" pos="VBG" xcomp="t2"
+26	28	tok id="t4" base="at" pos="IN" prep="t3"
+29	32	tok id="t5" base="the" pos="DT" det="t8"
+33	37	tok id="t6" base="next" pos="JJ" amod="t8"
+38	45	tok id="t7" base="nearest" pos="JJS" amod="t8"
+46	54	tok id="t8" base="keyframe" pos="NN" pobj="t4"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

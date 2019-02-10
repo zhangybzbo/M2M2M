@@ -1,0 +1,20 @@
+1	That	that	DT	_	2	nsubj
+2	puts	put	VBZ	_	0	ROOT
+3	you	you	PRP	_	2	iobj
+4	a	a	DT	_	5	det
+5	little	little	JJ	_	2	dobj
+6	above	above	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	recomendations	recomendation	NNS	_	6	pobj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	article	article	NN	_	9	pobj
+12	I	I	PRP	_	13	nsubj
+13	linked	link	VBD	_	11	rcmod
+14	,	,	,	_	13	punct
+15	but	but	CC	_	13	cc
+16	not	not	RB	_	17	neg
+17	rediculously	rediculously	RB	_	13	conj
+18	so	so	RB	_	17	advmod
+19	.	.	.	_	2	punct
+

@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	remaining	remain	VBG	_	5	amod
+5	candy	candy	NN	_	2	dobj
+6	in	in	IN	_	2	prep
+7	my	my	PRP$	_	8	poss
+8	mouth	mouth	NN	_	6	pobj
+9	and	and	CC	_	2	cc
+10	walked	walk	VBD	_	2	conj
+11	back	back	RP	_	10	prt
+12	the	the	DT	_	13	det
+13	way	way	NN	_	10	dobj
+14	I	I	PRP	_	15	nsubj
+15	came	come	VBD	_	13	rcmod
+16	,	,	,	_	2	punct
+17	then	then	RB	_	2	advmod
+18	past	past	IN	_	17	dep
+19	the	the	DT	_	20	det
+20	village	village	NN	_	18	pobj
+21	and	and	CC	_	18	cc
+22	into	into	IN	_	18	conj
+23	town	town	NN	_	22	pobj
+24	.	.	.	_	2	punct
+

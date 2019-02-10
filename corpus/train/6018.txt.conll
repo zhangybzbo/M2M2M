@@ -1,0 +1,15 @@
+1	Many	many	JJ	_	3	amod
+2	depression	depression	NN	_	3	nn
+3	sufferers	sufferer	NNS	_	7	nsubj
+4	and	and	CC	_	3	cc
+5	their	they	PRP$	_	6	poss
+6	physicians	physician	NNS	_	3	conj
+7	revealed	reveal	VBD	_	0	ROOT
+8	that	that	IN	_	11	mark
+9	insomnia	insomnia	NN	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	caused	cause	VBN	_	7	ccomp
+12	by	by	IN	_	11	prep
+13	depression	depression	NN	_	12	pobj
+14	.	.	.	_	7	punct
+

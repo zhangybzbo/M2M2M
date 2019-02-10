@@ -1,0 +1,16 @@
+1	Bob	Bob	NNP	_	2	nn
+2	Oblong	Oblong	NNP	_	4	poss
+3	's	's	POS	_	2	possessive
+4	suggestions	suggestion	NNS	_	7	nsubjpass
+5	have	have	VBP	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	used	use	VBN	_	0	ROOT
+8	as	as	IN	_	7	prep
+9	kindling	kindling	NN	_	8	pobj
+10	for	for	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	factory	factory	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	furnace	furnace	NN	_	10	pobj
+15	.	.	.	_	7	punct
+

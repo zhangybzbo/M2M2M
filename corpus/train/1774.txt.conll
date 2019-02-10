@@ -1,0 +1,18 @@
+1	Having	have	VBG	_	2	aux
+2	delivered	deliver	VBN	_	9	vmod
+3	her	she	PRP$	_	4	poss
+4	charge	charge	NN	_	2	dobj
+5	,	,	,	_	9	punct
+6	she	she	PRP	_	9	nsubj
+7	had	have	VBD	_	9	aux
+8	silently	silently	RB	_	9	advmod
+9	returned	return	VBN	_	0	ROOT
+10	to	to	TO	_	9	prep
+11	her	she	PRP$	_	12	poss
+12	tree	tree	NN	_	10	pobj
+13	deep	deep	RB	_	14	advmod
+14	in	in	IN	_	9	prep
+15	the	the	DT	_	16	det
+16	woods	wood	NNS	_	14	pobj
+17	.	.	.	_	9	punct
+

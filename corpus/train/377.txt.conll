@@ -1,0 +1,17 @@
+1	But	but	CC	_	7	cc
+2	,	,	,	_	7	punct
+3	Lord	Lord	NNP	_	4	nn
+4	King	King	NNP	_	7	dep
+5	,	,	,	_	7	punct
+6	he	he	PRP	_	7	nsubj
+7	has	have	VBZ	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	him	he	PRP	_	8	pobj
+10	a	a	DT	_	11	det
+11	meinie	meinie	NN	_	7	dobj
+12	of	of	IN	_	11	prep
+13	full	full	JJ	_	15	amod
+14	forty	forty	CD	_	15	num
+15	knights	knight	NNS	_	12	pobj
+16	.	.	.	_	7	punct
+

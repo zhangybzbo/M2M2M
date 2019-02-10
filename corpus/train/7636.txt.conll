@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det
+2	biologist	biologist	NN	_	3	nsubj
+3	combines	combine	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	range	range	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	diverse	diverse	JJ	_	10	amod
+8	and	and	CC	_	7	cc
+9	distributed	distribute	VBN	_	7	conj
+10	resources	resource	NNS	_	6	pobj
+11	-LRB-	-lrb-	-LRB-	_	12	punct
+12	databases	database	NNS	_	10	dep
+13	,	,	,	_	12	punct
+14	tools	tool	NNS	_	12	conj
+15	,	,	,	_	12	punct
+16	instruments	instrument	NNS	_	12	appos
+17	-RRB-	-rrb-	-RRB-	_	12	punct
+18	to	to	TO	_	19	aux
+19	answer	answer	VB	_	3	xcomp
+20	complex	complex	JJ	_	21	amod
+21	questions	question	NNS	_	19	dobj
+22	.	.	.	_	3	punct
+

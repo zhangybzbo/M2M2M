@@ -1,0 +1,17 @@
+1	Here	here	RB	_	2	advmod
+2	are	be	VBP	_	0	ROOT
+3	some	some	DT	_	4	det
+4	ways	way	NNS	_	2	nsubj
+5	to	to	TO	_	6	aux
+6	avoid	avoid	VB	_	4	vmod
+7	mindless	mindless	JJ	_	8	amod
+8	eating	eating	NN	_	6	dobj
+9	and	and	CC	_	6	cc
+10	boost	boost	VB	_	6	conj
+11	your	you	PRP$	_	13	poss
+12	weight	weight	NN	_	13	nn
+13	loss	loss	NN	_	10	dobj
+14	from	from	IN	_	10	prep
+15	running	run	VBG	_	14	pcomp
+16	.	.	.	_	2	punct
+

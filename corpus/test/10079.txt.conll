@@ -1,0 +1,14 @@
+1	A	a	DT	_	2	det
+2	cooper	cooper	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	leak	leak	NN	_	7	nn
+5	proof	proof	NN	_	7	nn
+6	wooden	wooden	JJ	_	7	amod
+7	barrels	barrel	NNS	_	3	dobj
+8	,	,	,	_	7	punct
+9	tubs	tub	NNS	_	7	conj
+10	,	,	,	_	7	punct
+11	and	and	CC	_	7	cc
+12	pails	pail	NNS	_	7	conj
+13	.	.	.	_	3	punct
+

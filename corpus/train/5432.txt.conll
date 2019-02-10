@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	slope	slope	NN	_	7	nsubj
+3	on	on	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	distance-time	distance-time	JJ	_	6	amod
+6	graph	graph	NN	_	3	pobj
+7	represents	represent	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	speed	speed	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	an	a	DT	_	12	det
+12	object	object	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

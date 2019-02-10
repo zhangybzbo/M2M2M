@@ -1,0 +1,3 @@
+T1	Term 11 17	faults
+T2	Term 36 49	cancellations
+R1	Cause-Effect Arg1:T1 Arg2:T2

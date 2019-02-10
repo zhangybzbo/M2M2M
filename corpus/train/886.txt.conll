@@ -1,0 +1,24 @@
+1	Debt-to-income	debt-to-income	JJ	_	2	amod
+2	ratios	ratio	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	referred	refer	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	as	as	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	guidelines	guideline	NNS	_	6	pobj
+9	that	that	WDT	_	11	nsubjpass
+10	are	be	VBP	_	11	auxpass
+11	used	use	VBN	_	8	rcmod
+12	by	by	IN	_	11	prep
+13	mortgage	mortgage	NN	_	14	nn
+14	lenders	lender	NNS	_	12	pobj
+15	in	in	IN	_	18	mark
+16	order	order	NN	_	18	dep
+17	to	to	TO	_	18	aux
+18	determine	determine	VB	_	11	advcl
+19	your	you	PRP$	_	22	poss
+20	maximum	maximum	NN	_	22	nn
+21	mortgage	mortgage	NN	_	22	nn
+22	amount	amount	NN	_	18	dobj
+23	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	Manos	Manos	NNP	_	0	ROOT
+2	:	:	:	_	1	punct
+3	The	the	DT	_	4	det
+4	Hands	hand	NNS	_	11	nsubj
+5	of	of	IN	_	4	prep
+6	Fate	Fate	NNP	_	5	pobj
+7	is	be	VBZ	_	11	cop
+8	a	a	DT	_	11	det
+9	low-budget	low-budget	JJ	_	11	amod
+10	horror	horror	NN	_	11	nn
+11	film	film	NN	_	1	dep
+12	made	make	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	El	El	NNP	_	20	nn
+15	Paso	Paso	NNP	_	20	nn
+16	fertilizer	fertilizer	NN	_	20	nn
+17	salesman	salesman	NN	_	20	nn
+18	Hal	Hal	NNP	_	20	nn
+19	P.	P.	NNP	_	20	nn
+20	Warren	Warren	NNP	_	13	pobj
+21	.	.	.	_	1	punct
+

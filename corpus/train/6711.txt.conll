@@ -1,0 +1,20 @@
+1	But	but	CC	_	5	cc
+2	researchers	researcher	NNS	_	5	nsubj
+3	have	have	VBP	_	5	aux
+4	now	now	RB	_	5	advmod
+5	learnt	learn	VBN	_	0	ROOT
+6	how	how	WRB	_	7	advmod
+7	molecules	molecule	NNS	_	14	nsubj
+8	at	at	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	site	site	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	synapse	synapse	NN	_	11	pobj
+14	behave	behave	VB	_	5	ccomp
+15	to	to	TO	_	16	aux
+16	cement	cement	VB	_	14	xcomp
+17	a	a	DT	_	18	det
+18	memory	memory	NN	_	16	dobj
+19	.	.	.	_	5	punct
+

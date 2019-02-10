@@ -1,0 +1,1 @@
+We put the trampoline data into the read-only section since a CPU hot plug was supported .

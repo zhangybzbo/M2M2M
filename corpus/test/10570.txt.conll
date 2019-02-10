@@ -1,0 +1,14 @@
+1	Other	other	JJ	_	2	amod
+2	orders	order	NNS	_	11	nsubj
+3	on	on	IN	_	2	prep
+4	environmental	environmental	JJ	_	5	amod
+5	legislation	legislation	NN	_	3	pobj
+6	and	and	CC	_	5	cc
+7	abortion	abortion	NN	_	8	nn
+8	issues	issue	NNS	_	5	conj
+9	were	be	VBD	_	11	aux
+10	also	also	RB	_	11	advmod
+11	under	under	IN	_	0	ROOT
+12	consideration	consideration	NN	_	11	pobj
+13	.	.	.	_	11	punct
+

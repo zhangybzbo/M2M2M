@@ -1,0 +1,1 @@
+With these two tools , the dataset was reduced from its original size of over 200 features into 17 % .

@@ -1,0 +1,3 @@
+T1	Term 4 12	musician
+T2	Term 23 28	music
+R1	Product-Producer Arg1:T2 Arg2:T1

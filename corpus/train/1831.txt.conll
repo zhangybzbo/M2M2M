@@ -1,0 +1,16 @@
+1	A	a	DT	_	4	det
+2	more	more	JJR	_	4	amod
+3	coded	code	VBN	_	4	amod
+4	reproof	reproof	NN	_	5	nsubj
+5	came	come	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	chairman	chairman	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	parliament	parliament	NN	_	14	poss
+11	's	's	POS	_	10	possessive
+12	foreign	foreign	JJ	_	14	amod
+13	affairs	affair	NNS	_	14	nn
+14	committee	committee	NN	_	9	pobj
+15	.	.	.	_	5	punct
+

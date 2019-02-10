@@ -1,0 +1,23 @@
+1	Pet	Pet	NNP	_	2	nn
+2	owners	owner	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	released	release	VBN	_	0	ROOT
+5	pythons	python	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	wild	wild	JJ	_	6	pobj
+9	when	when	WRB	_	12	advmod
+10	they	they	PRP	_	12	nsubj
+11	had	have	VBD	_	12	aux
+12	grown	grow	VBN	_	4	advcl
+13	too	too	RB	_	14	advmod
+14	large	large	JJ	_	12	acomp
+15	for	for	IN	_	12	prep
+16	the	the	DT	_	17	det
+17	owners	owner	NNS	_	15	pobj
+18	to	to	TO	_	19	aux
+19	care	care	VB	_	12	xcomp
+20	for	for	IN	_	19	prep
+21	them	they	PRP	_	20	pobj
+22	.	.	.	_	4	punct
+

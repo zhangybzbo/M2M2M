@@ -1,0 +1,15 @@
+1	Red	Red	NNP	_	5	nn
+2	Line	Line	NNP	_	5	nn
+3	conductor	conductor	NN	_	5	nn
+4	Ivan	Ivan	NNP	_	5	nn
+5	Hardaway	Hardaway	NNP	_	6	nsubj
+6	prepares	prepare	VBZ	_	0	ROOT
+7	the	the	DT	_	8	det
+8	train	train	NN	_	6	dobj
+9	for	for	IN	_	6	prep
+10	departure	departure	NN	_	9	pobj
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	station	station	NN	_	11	pobj
+14	.	.	.	_	6	punct
+

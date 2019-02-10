@@ -1,0 +1,14 @@
+1	For	for	IN	_	7	prep
+2	example	example	NN	_	1	pobj
+3	,	,	,	_	7	punct
+4	a	a	DT	_	6	det
+5	television	television	NN	_	6	nn
+6	anchor	anchor	NN	_	7	nsubj
+7	uses	use	VBZ	_	0	ROOT
+8	a	a	DT	_	9	det
+9	microphone	microphone	NN	_	7	dobj
+10	on	on	IN	_	7	prep
+11	their	they	PRP$	_	12	poss
+12	lapel	lapel	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

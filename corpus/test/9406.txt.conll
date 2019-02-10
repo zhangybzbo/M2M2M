@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	archive	archive	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	reviews	review	NNS	_	3	dobj
+5	from	from	IN	_	4	prep
+6	previous	previous	JJ	_	7	amod
+7	months	month	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+1	And	and	CC	_	3	cc
+2	you	you	PRP	_	3	nsubj
+3	thought	think	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	dentist	dentist	NN	_	10	nsubj
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	drill	drill	NN	_	6	pobj
+9	was	be	VBD	_	10	cop
+10	scary	scary	JJ	_	3	ccomp
+11	.	.	.	_	3	punct
+

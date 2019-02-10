@@ -1,0 +1,26 @@
+1	It	it	PRP	_	2	nsubj
+2	has	have	VBZ	_	0	ROOT
+3	several	several	JJ	_	4	amod
+4	chalet	chalet	NN	_	2	dobj
+5	to	to	TO	_	6	aux
+6	stay	stay	VB	_	4	vmod
+7	over	over	IN	_	6	prep
+8	night	night	NN	_	7	pobj
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	boat	boat	NN	_	12	nsubj
+12	leaves	leave	VBZ	_	8	conj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	port	port	NN	_	13	pobj
+16	twice	twice	RB	_	18	advmod
+17	a	a	DT	_	18	det
+18	day	day	NN	_	12	tmod
+19	:	:	:	_	2	punct
+20	10:00	10:00	CD	_	24	num
+21	am	be	VBP	_	24	dep
+22	and	and	CC	_	21	cc
+23	17:00	17:00	CD	_	21	conj
+24	pm	pm	NN	_	2	dep
+25	.	.	.	_	2	punct
+

@@ -1,0 +1,9 @@
+1	Information	information	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	gained	gain	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	this	this	DT	_	7	det
+6	second	second	JJ	_	7	amod
+7	test	test	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

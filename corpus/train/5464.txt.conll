@@ -1,0 +1,19 @@
+1	Infinitesimal	infinitesimal	JJ	_	2	amod
+2	changes	change	NNS	_	11	nsubj
+3	between	between	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	large	large	JJ	_	6	amod
+6	serial	serial	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	different	different	JJ	_	9	amod
+9	sub-functions	sub-function	NNS	_	7	pobj
+10	are	be	VBP	_	11	aux
+11	running	run	VBG	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	different	different	JJ	_	15	amod
+14	graphical	graphical	JJ	_	15	amod
+15	spaces	space	NNS	_	12	pobj
+16	or	or	CC	_	15	cc
+17	dimensions	dimension	NNS	_	15	conj
+18	.	.	.	_	11	punct
+

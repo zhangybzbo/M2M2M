@@ -1,0 +1,22 @@
+1	For	for	IN	_	5	prep
+2	example	example	NN	_	1	pobj
+3	the	the	DT	_	4	det
+4	steppingmotor	steppingmotor	NN	_	5	nsubj
+5	has	have	VBZ	_	0	ROOT
+6	a	a	DT	_	7	det
+7	coil	coil	NN	_	5	dobj
+8	with	with	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	resistance	resistance	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	5	5	CD	_	13	num
+13	ohm	ohm	NN	_	11	pobj
+14	and	and	CC	_	13	cc
+15	a	a	DT	_	17	det
+16	nominal	nominal	JJ	_	17	amod
+17	current	current	NN	_	13	conj
+18	of	of	IN	_	17	prep
+19	1	1	CD	_	20	num
+20	Amp	amp	NN	_	18	pobj
+21	.	.	.	_	5	punct
+

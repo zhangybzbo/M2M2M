@@ -1,0 +1,14 @@
+1	You	you	PRP	_	2	nsubj
+2	noticed	notice	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	three	three	CD	_	5	num
+5	numbers	number	NNS	_	2	dobj
+6	at	at	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	bottom	bottom	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	fertilizer	fertilizer	NN	_	12	nn
+12	package	package	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

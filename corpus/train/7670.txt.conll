@@ -1,0 +1,19 @@
+1	On	on	IN	_	9	prep
+2	both	both	DT	_	1	pobj
+3	of	of	IN	_	2	prep
+4	my	my	PRP$	_	5	poss
+5	systems	system	NNS	_	3	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	reboot	reboot	NN	_	9	nsubj
+9	produced	produce	VBD	_	0	ROOT
+10	the	the	DT	_	12	det
+11	ominous	ominous	JJ	_	12	amod
+12	message	message	NN	_	9	dobj
+13	`	`	``	_	12	punct
+14	Missing	miss	VBG	_	16	amod
+15	operating	operate	VBG	_	16	amod
+16	system	system	NN	_	12	dep
+17	'	'	''	_	12	punct
+18	.	.	.	_	9	punct
+

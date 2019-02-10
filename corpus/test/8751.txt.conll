@@ -1,0 +1,20 @@
+1	And	and	CC	_	18	cc
+2	with	with	IN	_	18	prep
+3	a	a	DT	_	4	det
+4	flourish	flourish	VB	_	2	pobj
+5	of	of	IN	_	4	prep
+6	her	she	PRP$	_	7	poss
+7	wand	wand	NN	_	5	pobj
+8	she	she	PRP	_	9	nsubj
+9	unleashed	unleash	VBD	_	7	rcmod
+10	a	a	DT	_	11	det
+11	plague	plague	VB	_	9	dobj
+12	of	of	IN	_	11	prep
+13	biting	bite	VBG	_	12	pcomp
+14	insects	insect	NNS	_	13	dobj
+15	,	,	,	_	18	punct
+16	the	the	DT	_	18	det
+17	sand	sand	NN	_	18	nn
+18	fly	fly	NN	_	0	ROOT
+19	.	.	.	_	18	punct
+

@@ -1,0 +1,17 @@
+1	Several	several	JJ	_	2	amod
+2	authors	author	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	inserted	insert	VBN	_	0	ROOT
+5	implants	implant	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	bone	bone	NN	_	6	pobj
+8	that	that	WDT	_	11	nsubj
+9	have	have	VBP	_	11	aux
+10	been	be	VBN	_	11	cop
+11	subject	subject	JJ	_	4	ccomp
+12	to	to	TO	_	11	prep
+13	higher	higher	JJR	_	15	amod
+14	radiation	radiation	NN	_	15	nn
+15	doses	dose	NNS	_	12	pobj
+16	.	.	.	_	4	punct
+

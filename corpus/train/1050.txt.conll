@@ -1,0 +1,14 @@
+1	Brainwashing	brainwash	VBG	_	2	amod
+2	techniques	technique	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	used	use	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	some	some	DT	_	8	det
+7	British	british	JJ	_	8	amod
+8	interrogators	interrogator	NNS	_	5	pobj
+9	during	during	IN	_	4	prep
+10	World	World	NNP	_	12	nn
+11	War	War	NNP	_	12	nn
+12	II	II	NNP	_	9	pobj
+13	.	.	.	_	4	punct
+

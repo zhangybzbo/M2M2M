@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	det
+2	document	document	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	significant	significant	JJ	_	6	amod
+6	contribution	contribution	NN	_	3	dobj
+7	into	into	IN	_	6	prep
+8	further	further	JJ	_	9	amod
+9	clarification	clarification	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	access	access	NN	_	10	pobj
+13	to	to	TO	_	12	prep
+14	drinking	drinking	NN	_	15	nn
+15	water	water	NN	_	13	pobj
+16	as	as	IN	_	12	prep
+17	a	a	DT	_	19	det
+18	human	human	JJ	_	19	amod
+19	right	right	NN	_	16	pobj
+20	.	.	.	_	3	punct
+

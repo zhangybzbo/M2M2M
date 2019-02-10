@@ -1,0 +1,27 @@
+1	When	when	WRB	_	3	advmod
+2	I	I	PRP	_	3	nsubj
+3	came	come	VBD	_	12	advcl
+4	,	,	,	_	12	punct
+5	the	the	DT	_	7	det
+6	second	second	JJ	_	7	amod
+7	group	group	NN	_	12	nsubjpass
+8	of	of	IN	_	7	prep
+9	popcorn	popcorn	NN	_	10	nn
+10	kernels	kernel	NNS	_	8	pobj
+11	was	be	VBD	_	12	auxpass
+12	stored	store	VBN	_	0	ROOT
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	refrigerator	refrigerator	NN	_	13	pobj
+16	,	,	,	_	12	punct
+17	and	and	CC	_	12	cc
+18	the	the	DT	_	20	det
+19	third	third	JJ	_	20	amod
+20	group	group	NN	_	22	nsubjpass
+21	was	be	VBD	_	22	auxpass
+22	stored	store	VBN	_	12	conj
+23	in	in	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	freezer	freezer	NN	_	23	pobj
+26	.	.	.	_	12	punct
+

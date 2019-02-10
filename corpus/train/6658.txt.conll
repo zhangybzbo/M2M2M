@@ -1,0 +1,22 @@
+1	In	in	IN	_	17	prep
+2	these	these	DT	_	3	det
+3	cases	case	NNS	_	1	pobj
+4	,	,	,	_	17	punct
+5	marriages	marriage	NNS	_	17	nsubjpass
+6	performed	perform	VBN	_	5	vmod
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	temple	temple	NN	_	7	pobj
+10	by	by	IN	_	6	prep
+11	a	a	DT	_	15	det
+12	duly	duly	RB	_	13	advmod
+13	authorized	authorize	VBN	_	15	amod
+14	temple	temple	NN	_	15	nn
+15	sealer	sealer	NN	_	10	pobj
+16	are	be	VBP	_	17	auxpass
+17	recognized	recognize	VBN	_	0	ROOT
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	government	government	NN	_	18	pobj
+21	.	.	.	_	17	punct
+

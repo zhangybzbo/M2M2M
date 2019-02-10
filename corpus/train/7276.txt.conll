@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	nsubj
+2	tear	tear	VB	_	0	ROOT
+3	or	or	CC	_	2	cc
+4	a	a	DT	_	5	det
+5	crease	crease	NN	_	6	nsubj
+6	changes	change	VBZ	_	2	conj
+7	the	the	DT	_	8	det
+8	character	character	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	surface	surface	NN	_	9	pobj
+12	more	more	RBR	_	13	advmod
+13	drastically	drastically	RB	_	2	advmod
+14	than	than	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	mere	mere	JJ	_	17	amod
+17	deformation	deformation	NN	_	14	pobj
+18	from	from	IN	_	17	prep
+19	roundness	roundness	NN	_	18	pobj
+20	.	.	.	_	2	punct
+

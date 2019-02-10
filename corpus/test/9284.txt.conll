@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det
+2	technique	technique	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	used	use	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	most	most	JJS	_	8	amod
+7	major	major	JJ	_	8	amod
+8	websites	website	NNS	_	5	pobj
+9	to	to	TO	_	10	aux
+10	minimize	minimize	VB	_	4	dep
+11	HTTP	http	NN	_	12	nn
+12	requests	request	NNS	_	10	dobj
+13	and	and	CC	_	10	cc
+14	hence	hence	RB	_	15	advmod
+15	improve	improve	VB	_	10	conj
+16	page	page	NN	_	18	nn
+17	load	load	NN	_	18	nn
+18	times	time	NNS	_	15	dobj
+19	.	.	.	_	4	punct
+

@@ -1,0 +1,26 @@
+1	Our	we	PRP$	_	2	poss
+2	newsroom	newsroom	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	latest	latest	JJS	_	6	amod
+6	developments	development	NNS	_	3	dobj
+7	in	in	IN	_	6	prep
+8	UK	UK	NNP	_	10	nn
+9	foreign	foreign	JJ	_	10	amod
+10	policy	policy	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	news	news	NN	_	10	conj
+13	on	on	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	work	work	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	British	British	NNP	_	19	nn
+19	Embassy	Embassy	NNP	_	16	pobj
+20	and	and	CC	_	19	cc
+21	Consulates	Consulates	NNP	_	19	conj
+22	around	around	IN	_	15	prep
+23	the	the	DT	_	24	det
+24	US	US	NNP	_	22	pobj
+25	.	.	.	_	3	punct
+

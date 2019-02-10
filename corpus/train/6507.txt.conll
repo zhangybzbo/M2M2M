@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	users	user	NNS	_	3	nsubj
+3	navigate	navigate	VB	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	Bloomberg	bloomberg	NN	_	4	pobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	special	special	JJ	_	11	amod
+10	color-coded	color-code	VBN	_	11	amod
+11	keyboard	keyboard	NN	_	7	pobj
+12	.	.	.	_	3	punct
+

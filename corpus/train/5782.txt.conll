@@ -1,0 +1,26 @@
+1	Traditionally	traditionally	RB	_	2	advmod
+2	in	in	IN	_	9	prep
+3	China	China	NNP	_	2	pobj
+4	,	,	,	_	9	punct
+5	such	such	JJ	_	6	amod
+6	depictions	depiction	NNS	_	9	nsubj
+7	of	of	IN	_	6	prep
+8	nature	nature	NN	_	7	pobj
+9	come	come	VBN	_	0	ROOT
+10	from	from	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	mind	mind	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	artist	artist	NN	_	13	pobj
+16	,	,	,	_	9	punct
+17	and	and	CC	_	9	cc
+18	are	be	VBP	_	20	cop
+19	idealized	idealized	JJ	_	20	amod
+20	representations	representation	NNS	_	9	conj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	24	det
+23	natural	natural	JJ	_	24	amod
+24	world	world	NN	_	21	pobj
+25	.	.	.	_	9	punct
+

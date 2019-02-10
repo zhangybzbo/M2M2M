@@ -1,0 +1,12 @@
+0	60	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="disease" pos="NNS" nsubj="t4"
+13	17	tok id="t2" base="have" pos="VBP" aux="t4"
+18	25	tok id="t3" base="rapidly" pos="RB" advmod="t4"
+26	32	tok id="t4" base="spread" pos="VBN" ROOT="ROOT"
+33	42	tok id="t5" base="infection" pos="NN" dobj="t4"
+43	45	tok id="t6" base="to" pos="TO" prep="t4"
+46	51	tok id="t7" base="other" pos="JJ" amod="t8"
+52	58	tok id="t8" base="people" pos="NNS" pobj="t6"
+59	60	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

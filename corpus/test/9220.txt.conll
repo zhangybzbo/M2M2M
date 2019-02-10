@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	fire	fire	NN	_	3	nsubj
+3	originated	originate	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	area	area	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	plant	plant	NN	_	11	nn
+10	housing	housing	NN	_	11	nn
+11	cement	cement	NN	_	7	pobj
+12	mixing	mix	VBG	_	6	vmod
+13	and	and	CC	_	12	cc
+14	lifting	lift	VBG	_	12	conj
+15	equipment	equipment	NN	_	12	dobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	As	as	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	winter	winter	NN	_	5	nsubj
+4	is	be	VBZ	_	5	aux
+5	coming	come	VBG	_	11	advcl
+6	,	,	,	_	11	punct
+7	the	the	DT	_	8	det
+8	virus	virus	NN	_	11	nsubj
+9	is	be	VBZ	_	11	aux
+10	rapidly	rapidly	RB	_	11	advmod
+11	spreading	spread	VBG	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	young	young	JJ	_	14	amod
+14	children	child	NNS	_	12	pobj
+15	and	and	CC	_	14	cc
+16	elderly	elderly	JJ	_	17	amod
+17	people	people	NNS	_	14	conj
+18	.	.	.	_	11	punct
+

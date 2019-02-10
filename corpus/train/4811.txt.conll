@@ -1,0 +1,24 @@
+1	When	when	WRB	_	6	advmod
+2	water	water	NN	_	6	nsubj
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	kettle	kettle	NN	_	3	pobj
+6	becomes	become	VBZ	_	16	advcl
+7	acidic	acidic	JJ	_	6	acomp
+8	due	due	JJ	_	9	mwe
+9	to	to	TO	_	6	prep
+10	decomposing	decompose	VBG	_	13	amod
+11	organic	organic	JJ	_	13	amod
+12	plant	plant	NN	_	13	nn
+13	matter	matter	NN	_	9	pobj
+14	,	,	,	_	16	punct
+15	it	it	PRP	_	16	nsubj
+16	becomes	become	VBZ	_	0	ROOT
+17	a	a	DT	_	19	det
+18	kettle	kettle	NN	_	19	nn
+19	bog	bog	NN	_	16	dobj
+20	or	or	CC	_	19	cc
+21	kettle	kettle	NN	_	22	nn
+22	peatland	peatland	NN	_	19	conj
+23	.	.	.	_	16	punct
+

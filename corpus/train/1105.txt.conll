@@ -1,0 +1,17 @@
+1	After	after	IN	_	6	prep
+2	mile	mile	NN	_	1	pobj
+3	17	17	CD	_	2	num
+4	the	the	DT	_	5	det
+5	course	course	NN	_	6	nsubj
+6	went	go	VBD	_	0	ROOT
+7	away	away	RB	_	6	advmod
+8	from	from	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	water	water	NN	_	8	pobj
+11	and	and	CC	_	6	cc
+12	onto	onto	IN	_	6	conj
+13	streets	street	NNS	_	12	pobj
+14	with	with	IN	_	13	prep
+15	trees	tree	NNS	_	14	pobj
+16	.	.	.	_	6	punct
+

@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	chest	chest	NN	_	4	nn
+4	pains	pain	NNS	_	2	dobj
+5	and	and	CC	_	4	cc
+6	headaches	headache	NNS	_	4	conj
+7	from	from	IN	_	2	prep
+8	mold	mold	NN	_	7	pobj
+9	in	in	IN	_	2	prep
+10	the	the	DT	_	11	det
+11	bedrooms	bedroom	NNS	_	9	pobj
+12	.	.	.	_	2	punct
+

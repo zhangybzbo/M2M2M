@@ -1,0 +1,25 @@
+1	This	this	DT	_	4	det
+2	speed	speed	NN	_	4	nn
+3	bag	bag	NN	_	4	nn
+4	plaform	plaform	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	made	make	VBN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	heavy	heavy	JJ	_	12	amod
+9	duty	duty	NN	_	12	nn
+10	powder	powder	NN	_	12	nn
+11	coated	coated	JJ	_	12	amod
+12	steel	steel	NN	_	7	pobj
+13	that	that	WDT	_	14	nsubj
+14	secures	secure	VBZ	_	12	rcmod
+15	easily	easily	RB	_	14	advmod
+16	to	to	TO	_	14	prep
+17	a	a	DT	_	19	det
+18	wood	wood	NN	_	19	nn
+19	stud	stud	NN	_	16	pobj
+20	,	,	,	_	19	punct
+21	brick	brick	NN	_	19	conj
+22	or	or	CC	_	19	cc
+23	concrete	concrete	NN	_	19	conj
+24	.	.	.	_	6	punct
+

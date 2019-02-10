@@ -1,0 +1,14 @@
+1	Each	each	DT	_	2	det
+2	wolf	wolf	NN	_	6	nsubj
+3	in	in	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	pack	pack	NN	_	3	pobj
+6	plays	play	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	character	character	NN	_	6	dobj
+9	befitting	befitting	JJ	_	8	dep
+10	his	he	PRP$	_	12	poss
+11	social	social	JJ	_	12	amod
+12	status	status	NN	_	9	dobj
+13	.	.	.	_	6	punct
+

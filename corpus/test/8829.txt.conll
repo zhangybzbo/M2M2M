@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	life-like	life-like	JJ	_	3	amod
+3	creatures	creature	NNS	_	4	nsubj
+4	caused	cause	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	real	real	JJ	_	7	amod
+7	scare	scare	NN	_	4	dobj
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	set	set	VBN	_	8	pobj
+11	when	when	WRB	_	15	advmod
+12	a	a	DT	_	14	det
+13	44-foot	44-foot	JJ	_	14	amod
+14	spinosaurus	spinosaurus	NN	_	15	nsubj
+15	malfunctioned	malfunction	VBD	_	10	advcl
+16	and	and	CC	_	15	cc
+17	began	begin	VBD	_	15	conj
+18	slamming	slam	VBG	_	17	xcomp
+19	its	its	PRP$	_	20	poss
+20	head	head	NN	_	18	dobj
+21	against	against	IN	_	20	prep
+22	a	a	DT	_	24	det
+23	prop	prop	VBP	_	24	amod
+24	plane	plane	NN	_	21	pobj
+25	.	.	.	_	4	punct
+

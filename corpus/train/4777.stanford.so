@@ -1,0 +1,13 @@
+0	45	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	5	tok id="t1" base="kid" pos="NN" nsubj="t2"
+6	10	tok id="t2" base="take" pos="VBD" ROOT="ROOT"
+11	12	tok id="t3" base="a" pos="DT" det="t5"
+13	17	tok id="t4" base="baby" pos="NN" nn="t5"
+18	23	tok id="t5" base="koala" pos="NN" dobj="t2"
+24	26	tok id="t6" base="to" pos="TO" prep="t2"
+27	33	tok id="t7" base="church" pos="NN" pobj="t6"
+34	36	tok id="t8" base="on" pos="IN" prep="t2"
+37	43	tok id="t9" base="Sunday" pos="NNP" pobj="t8"
+44	45	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,14 @@
+1	Former	former	JJ	_	5	amod
+2	baseball	baseball	NN	_	5	nn
+3	arbitrator	arbitrator	NN	_	5	nn
+4	Thomas	Thomas	NNP	_	5	nn
+5	Roberts	Roberts	NNP	_	6	nsubj
+6	died	die	VBD	_	0	ROOT
+7	due	due	JJ	_	6	acomp
+8	to	to	TO	_	7	prep
+9	age-related	age-related	JJ	_	10	amod
+10	complications	complication	NNS	_	8	pobj
+11	last	last	JJ	_	12	amod
+12	Wednesday	Wednesday	NNP	_	10	tmod
+13	.	.	.	_	6	punct
+

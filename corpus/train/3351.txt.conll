@@ -1,0 +1,19 @@
+1	In	in	IN	_	9	prep
+2	the	the	DT	_	3	det
+3	book	book	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	a	a	DT	_	8	det
+6	distinguished	distinguished	JJ	_	8	amod
+7	country	country	NN	_	8	nn
+8	gentleman	gentleman	NN	_	9	nsubj
+9	becomes	become	VBZ	_	0	ROOT
+10	a	a	DT	_	11	det
+11	knight	knight	NN	_	9	dobj
+12	after	after	IN	_	9	prep
+13	reading	read	VBG	_	12	pcomp
+14	too	too	RB	_	15	advmod
+15	many	many	JJ	_	17	amod
+16	chivalric	chivalric	JJ	_	17	amod
+17	novels	novel	NNS	_	13	dobj
+18	.	.	.	_	9	punct
+

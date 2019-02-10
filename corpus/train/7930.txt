@@ -1,0 +1,1 @@
+The developer duly writes a test case , makes the necessary code changes , ensures the test passes , checks the code in and considers the job finished .

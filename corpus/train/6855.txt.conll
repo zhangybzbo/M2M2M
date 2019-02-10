@@ -1,0 +1,17 @@
+1	It	it	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	uses	use	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	intranet	intranet	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	inform	inform	VB	_	3	vmod
+8	staff	staff	NN	_	7	dobj
+9	about	about	IN	_	7	prep
+10	training	training	NN	_	11	nn
+11	opportunities	opportunity	NNS	_	9	pobj
+12	or	or	CC	_	11	cc
+13	forthcoming	forthcoming	JJ	_	15	amod
+14	staff	staff	NN	_	15	nn
+15	events	event	NNS	_	11	conj
+16	.	.	.	_	3	punct
+

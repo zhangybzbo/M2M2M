@@ -1,0 +1,10 @@
+0	40	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="Asparagus" pos="NNP" nsubj="t4"
+10	12	tok id="t1" base="be" pos="VBZ" cop="t4"
+13	14	tok id="t2" base="a" pos="DT" det="t4"
+15	22	tok id="t3" base="natural" pos="JJ" amod="t4"
+23	27	tok id="t4" base="cure" pos="NN" ROOT="ROOT"
+28	31	tok id="t5" base="for" pos="IN" prep="t4"
+32	38	tok id="t6" base="cancer" pos="NN" pobj="t5"
+39	40	tok id="t7" base="-PERIOD-" pos="." punct="t4"
+

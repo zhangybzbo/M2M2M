@@ -1,0 +1,18 @@
+1	It	it	PRP	_	6	nsubj
+2	's	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	straightforward	straightforward	JJ	_	6	amod
+5	beef	beef	NN	_	6	nn
+6	stew	stew	NN	_	0	ROOT
+7	to	to	TO	_	16	prep
+8	which	which	WDT	_	7	pobj
+9	all	all	DT	_	10	det
+10	sorts	sort	NNS	_	16	nsubjpass
+11	of	of	IN	_	10	prep
+12	root	root	NN	_	13	nn
+13	veg	veg	NN	_	11	pobj
+14	can	can	MD	_	16	aux
+15	be	be	VB	_	16	auxpass
+16	added	add	VBN	_	6	rcmod
+17	.	.	.	_	6	punct
+

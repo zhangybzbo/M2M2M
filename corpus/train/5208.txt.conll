@@ -1,0 +1,23 @@
+1	Finally	finally	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	this	this	DT	_	5	det
+4	entire	entire	JJ	_	5	amod
+5	assembly	assembly	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	covered	cover	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	lid	lid	NN	_	8	pobj
+11	attached	attach	VBN	_	10	vmod
+12	to	to	TO	_	11	prep
+13	the	the	DT	_	14	det
+14	rear	rear	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	coffeemaker	coffeemaker	NN	_	15	pobj
+18	and	and	CC	_	7	cc
+19	latches	latch	VBZ	_	7	conj
+20	in	in	IN	_	19	prep
+21	front	front	NN	_	20	pobj
+22	.	.	.	_	7	punct
+

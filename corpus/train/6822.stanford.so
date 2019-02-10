@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="team" pos="NN" nsubj="t2"
+9	12	tok id="t2" base="win" pos="VBD" ROOT="ROOT"
+13	16	tok id="t3" base="the" pos="DT" det="t4"
+17	28	tok id="t4" base="Association" pos="NNP" poss="t6"
+29	31	tok id="t5" base="'s" pos="POS" possessive="t4"
+32	44	tok id="t6" base="championship" pos="NN" dobj="t2"
+45	49	tok id="t7" base="with" pos="IN" prep="t2"
+50	54	tok id="t8" base="some" pos="DT" det="t9"
+55	65	tok id="t9" base="regularity" pos="NN" pobj="t7"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

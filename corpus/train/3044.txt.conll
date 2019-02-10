@@ -1,0 +1,15 @@
+1	Our	we	PRP$	_	3	poss
+2	future	future	JJ	_	3	amod
+3	leaders	leader	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	learning	learn	VBG	_	0	ROOT
+6	about	about	IN	_	5	prep
+7	economics	economics	NNS	_	6	pobj
+8	and	and	CC	_	7	cc
+9	politics	politics	NNS	_	7	conj
+10	from	from	IN	_	5	prep
+11	the	the	DT	_	13	det
+12	real	real	JJ	_	13	amod
+13	world	world	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

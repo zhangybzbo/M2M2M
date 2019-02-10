@@ -1,0 +1,20 @@
+1	In	in	IN	_	5	prep
+2	1950	1950	CD	_	1	pobj
+3	the	the	DT	_	4	det
+4	factory	factory	NN	_	5	nsubj
+5	began	begin	VBD	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	manufacture	manufacture	VB	_	5	xcomp
+8	banduras	banduras	FW	_	7	dobj
+9	,	,	,	_	5	punct
+10	initially	initially	RB	_	11	advmod
+11	using	use	VBG	_	5	xcomp
+12	the	the	DT	_	14	det
+13	construction	construction	NN	_	14	nn
+14	plans	plan	NNS	_	11	dobj
+15	of	of	IN	_	14	prep
+16	Chernihiv	Chernihiv	NNP	_	18	nn
+17	bandura	bandura	NN	_	18	nn
+18	maker	maker	NN	_	15	pobj
+19	.	.	.	_	5	punct
+

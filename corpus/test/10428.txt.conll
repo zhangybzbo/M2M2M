@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	chapters	chapter	NNS	_	3	nsubj
+3	included	include	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	book	book	NN	_	4	pobj
+7	are	be	VBP	_	10	cop
+8	the	the	DT	_	10	det
+9	``	``	``	_	10	punct
+10	core	core	NN	_	3	ccomp
+11	''	''	''	_	10	punct
+12	of	of	IN	_	10	prep
+13	this	this	DT	_	15	det
+14	fundamental	fundamental	JJ	_	15	amod
+15	handbook	handbook	NN	_	12	pobj
+16	on	on	IN	_	10	prep
+17	heterogeneous	heterogeneous	JJ	_	18	amod
+18	catalysis	catalysis	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

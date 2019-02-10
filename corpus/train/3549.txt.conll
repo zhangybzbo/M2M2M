@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	term	term	NN	_	3	nsubj
+3	originates	originate	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	article	article	NN	_	4	pobj
+7	published	publish	VBN	_	6	vmod
+8	14	14	CD	_	9	num
+9	February	February	NNP	_	7	tmod
+10	,	,	,	_	9	punct
+11	1807	1807	CD	_	9	num
+12	by	by	IN	_	7	prep
+13	journalist	journalist	NN	_	15	nn
+14	William	William	NNP	_	15	nn
+15	Cobbett	Cobbett	NNP	_	12	pobj
+16	in	in	IN	_	6	prep
+17	the	the	DT	_	21	det
+18	polemical	polemical	JJ	_	21	amod
+19	Weekly	Weekly	NNP	_	21	nn
+20	Political	Political	NNP	_	21	nn
+21	Register	Register	NNP	_	16	pobj
+22	.	.	.	_	3	punct
+

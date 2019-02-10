@@ -1,0 +1,11 @@
+1	In	in	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	article	article	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	he	he	PRP	_	6	nsubj
+6	explores	explore	VBZ	_	0	ROOT
+7	impulsivity	impulsivity	NN	_	6	dobj
+8	in	in	IN	_	6	prep
+9	detail	detail	NN	_	8	pobj
+10	.	.	.	_	6	punct
+

@@ -1,0 +1,1 @@
+The unit consists of a mobile launcher , an interceptor and a command and control battle management and communication -LRB- C2BMC -RRB- system .

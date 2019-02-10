@@ -1,0 +1,21 @@
+1	They	they	PRP	_	2	nsubj
+2	respond	respond	VBP	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	more	more	JJR	_	7	amod
+5	and	and	CC	_	4	cc
+6	more	more	RBR	_	4	conj
+7	telephone	telephone	NN	_	3	pobj
+8	calls	call	VBZ	_	2	dep
+9	demanding	demand	VBG	_	8	xcomp
+10	payments	payment	NNS	_	9	dobj
+11	to	to	TO	_	12	aux
+12	cover	cover	VB	_	10	vmod
+13	costs	cost	NNS	_	12	dobj
+14	in	in	IN	_	17	mark
+15	order	order	NN	_	17	dep
+16	to	to	TO	_	17	aux
+17	receive	receive	VB	_	12	advcl
+18	their	they	PRP$	_	19	poss
+19	prize	prize	NN	_	17	dobj
+20	.	.	.	_	2	punct
+

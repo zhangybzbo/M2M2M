@@ -1,0 +1,22 @@
+1	Stroke	stroke	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	leading	lead	VBG	_	7	amod
+7	causes	cause	NNS	_	4	pobj
+8	of	of	IN	_	7	prep
+9	death	death	NN	_	8	pobj
+10	,	,	,	_	3	punct
+11	long-term	long-term	JJ	_	12	amod
+12	disability	disability	NN	_	3	conj
+13	,	,	,	_	3	punct
+14	and	and	CC	_	3	cc
+15	hospital	hospital	NN	_	16	nn
+16	admission	admission	NN	_	3	conj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	industrialized	industrialized	JJ	_	20	amod
+20	world	world	NN	_	17	pobj
+21	.	.	.	_	3	punct
+

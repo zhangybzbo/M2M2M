@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	Dyna-Cam	Dyna-Cam	NNP	_	3	nn
+3	engine	engine	NN	_	5	nsubj
+4	originally	originally	RB	_	5	advmod
+5	came	come	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	design	design	NN	_	6	pobj
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Blazer	Blazer	NNP	_	12	nn
+12	brothers	brother	NNS	_	9	pobj
+13	,	,	,	_	12	punct
+14	who	who	WP	_	15	nsubj
+15	worked	work	VBD	_	12	rcmod
+16	for	for	IN	_	15	prep
+17	Studebaker	Studebaker	NNP	_	16	pobj
+18	in	in	IN	_	15	prep
+19	1916	1916	CD	_	18	pobj
+20	.	.	.	_	5	punct
+

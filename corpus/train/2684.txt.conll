@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	flight	flight	NN	_	3	nsubj
+3	departs	depart	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	airport	airport	NN	_	4	pobj
+7	on	on	IN	_	6	prep
+8	territory	territory	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	member	member	NN	_	12	nn
+12	state	state	NN	_	9	pobj
+13	to	to	TO	_	17	prep
+14	which	which	WDT	_	13	pobj
+15	the	the	DT	_	16	det
+16	Treaty	Treaty	NNP	_	17	nsubj
+17	applies	apply	VBZ	_	12	rcmod
+18	.	.	.	_	3	punct
+

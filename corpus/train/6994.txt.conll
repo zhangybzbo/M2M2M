@@ -1,0 +1,20 @@
+1	However	however	RB	_	11	advmod
+2	several	several	JJ	_	3	amod
+3	species	species	NNS	_	11	nsubj
+4	of	of	IN	_	3	prep
+5	fungi	fungus	NNS	_	4	pobj
+6	,	,	,	_	5	punct
+7	insect	insect	NN	_	5	conj
+8	,	,	,	_	5	punct
+9	and	and	CC	_	5	cc
+10	bacteria	bacterium	NNS	_	5	conj
+11	cause	cause	VBP	_	0	ROOT
+12	mortality	mortality	NN	_	11	dobj
+13	or	or	CC	_	12	cc
+14	reduced	reduce	VBN	_	15	amod
+15	growth	growth	NN	_	12	conj
+16	of	of	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	tree	tree	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

@@ -1,0 +1,22 @@
+1	Early	early	RB	_	9	advmod
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	song	song	NN	_	2	pobj
+5	,	,	,	_	9	punct
+6	the	the	DT	_	8	det
+7	background	background	NN	_	8	nn
+8	singers	singer	NNS	_	9	nsubj
+9	repeat	repeat	VBP	_	0	ROOT
+10	the	the	DT	_	14	det
+11	Christian	Christian	NNP	_	14	nn
+12	and	and	CC	_	11	cc
+13	Jewish	jewish	JJ	_	11	conj
+14	word	word	NN	_	9	dobj
+15	of	of	IN	_	14	prep
+16	praise	praise	NN	_	15	pobj
+17	,	,	,	_	9	punct
+18	``	``	``	_	9	punct
+19	Hallelujah	Hallelujah	NNP	_	9	dobj
+20	''	''	''	_	9	punct
+21	.	.	.	_	9	punct
+

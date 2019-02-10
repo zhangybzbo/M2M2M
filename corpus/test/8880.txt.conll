@@ -1,0 +1,19 @@
+1	He	he	PRP	_	3	nsubj
+2	then	then	RB	_	3	advmod
+3	maps	map	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	development	development	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	Anglo-American	Anglo-American	NNP	_	8	nn
+8	formalism	formalism	NN	_	6	pobj
+9	from	from	IN	_	5	prep
+10	Modernist	modernist	JJ	_	11	amod
+11	literature	literature	NN	_	9	pobj
+12	to	to	TO	_	3	prep
+13	the	the	DT	_	17	det
+14	American	american	JJ	_	17	amod
+15	and	and	CC	_	14	cc
+16	British	british	JJ	_	14	conj
+17	academies	academy	NNS	_	12	pobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,27 @@
+1	Under	under	IN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	circumstance	circumstance	NN	_	1	pobj
+4	that	that	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	wife	wife	NN	_	7	nsubj
+7	comes	come	VBZ	_	3	ccomp
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	wealthy	wealthy	JJ	_	11	amod
+11	family	family	NN	_	8	pobj
+12	,	,	,	_	7	punct
+13	her	she	PRP$	_	14	poss
+14	dissatisfactions	dissatisfaction	NNS	_	19	nsubj
+15	with	with	IN	_	14	prep
+16	her	she	PRP$	_	17	poss
+17	marriage	marriage	NN	_	15	pobj
+18	may	may	MD	_	19	aux
+19	make	make	VB	_	7	ccomp
+20	her	she	PRP$	_	21	nsubj
+21	seem	seem	VBP	_	19	ccomp
+22	like	like	IN	_	21	prep
+23	a	a	DT	_	25	det
+24	spoiled	spoil	VBN	_	25	amod
+25	brat	brat	NN	_	22	pobj
+26	.	.	.	_	1	punct
+

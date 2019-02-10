@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	methods	method	NNS	_	6	nsubjpass
+3	mentioned	mention	VBN	_	2	vmod
+4	here	here	RB	_	3	advmod
+5	are	be	VBP	_	6	auxpass
+6	analysed	analyse	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	next	next	JJ	_	10	amod
+10	section	section	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

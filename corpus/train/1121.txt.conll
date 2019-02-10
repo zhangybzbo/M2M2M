@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	lithium	lithium	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	stainless	stainless	JJ	_	9	amod
+8	steel	steel	NN	_	9	nn
+9	tray	tray	NN	_	5	pobj
+10	in	in	IN	_	4	prep
+11	two	two	CD	_	13	num
+12	semicircular	semicircular	JJ	_	13	amod
+13	halves	half	NNS	_	10	pobj
+14	at	at	IN	_	4	prep
+15	the	the	DT	_	16	det
+16	bottom	bottom	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	vacuum	vacuum	NN	_	20	nn
+20	vessel	vessel	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

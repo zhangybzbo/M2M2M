@@ -1,0 +1,3 @@
+T1	Term 54 61	problem
+T2	Term 101 106	state
+R1	Cause-Effect Arg1:T2 Arg2:T1

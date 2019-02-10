@@ -1,0 +1,1 @@
+The siding installer erroneously installed the siding with a 6 '' reveal , rather than a 7 '' reveal as required .

@@ -1,0 +1,16 @@
+1	With	with	IN	_	14	prep
+2	corn	corn	NN	_	3	nn
+3	starch	starch	NN	_	1	pobj
+4	as	as	IN	_	3	prep
+5	its	its	PRP$	_	7	poss
+6	source	source	NN	_	7	nn
+7	material	material	NN	_	4	pobj
+8	,	,	,	_	14	punct
+9	Plantic	Plantic	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	plastic	plastic	NN	_	14	nsubj
+12	is	be	VBZ	_	14	cop
+13	also	also	RB	_	14	advmod
+14	cost-competitive	cost-competitive	JJ	_	0	ROOT
+15	.	.	.	_	14	punct
+

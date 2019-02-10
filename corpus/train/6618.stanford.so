@@ -1,0 +1,13 @@
+0	68	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="spam" pos="VBG" nsubj="t4"
+9	12	tok id="t1" base="have" pos="VBZ" aux="t4"
+13	17	tok id="t2" base="be" pos="VBN" cop="t4"
+18	21	tok id="t3" base="the" pos="DT" det="t4"
+22	29	tok id="t4" base="subject" pos="NN" ROOT="ROOT"
+30	32	tok id="t5" base="of" pos="IN" prep="t4"
+33	44	tok id="t6" base="legislation" pos="NN" pobj="t5"
+45	47	tok id="t7" base="in" pos="IN" prep="t6"
+48	52	tok id="t8" base="many" pos="JJ" amod="t9"
+53	66	tok id="t9" base="jurisdiction" pos="NNS" pobj="t7"
+67	68	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

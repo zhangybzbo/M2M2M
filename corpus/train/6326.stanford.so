@@ -1,0 +1,9 @@
+0	35	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t1"
+2	6	tok id="t1" base="have" pos="VBP" ROOT="ROOT"
+7	8	tok id="t2" base="a" pos="DT" det="t5"
+9	19	tok id="t3" base="strawberry" pos="NN" nn="t5"
+20	23	tok id="t4" base="tea" pos="NN" nn="t5"
+24	33	tok id="t5" base="addiction" pos="NN" dobj="t1"
+34	35	tok id="t6" base="-PERIOD-" pos="." punct="t1"
+

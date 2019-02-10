@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	manufacturers	manufacturer	NNS	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	pyrometers	pyrometer	NNS	_	3	pobj
+5	put	put	VBD	_	0	ROOT
+6	up	up	RP	_	5	prt
+7	an	a	DT	_	9	det
+8	excellent	excellent	JJ	_	9	amod
+9	show	show	NN	_	5	dobj
+10	.	.	.	_	5	punct
+

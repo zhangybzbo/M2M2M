@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	Police	Police	NNP	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	beaten	beat	VBN	_	0	ROOT
+5	him	he	PRP	_	4	dobj
+6	up	up	RB	_	4	advmod
+7	,	,	,	_	4	punct
+8	poured	pour	VBD	_	4	conj
+9	water	water	NN	_	8	dobj
+10	into	into	IN	_	8	prep
+11	his	he	PRP$	_	12	poss
+12	ears	ear	NNS	_	10	pobj
+13	and	and	CC	_	12	cc
+14	nose	nose	NN	_	12	conj
+15	,	,	,	_	4	punct
+16	and	and	CC	_	4	cc
+17	stuffed	stuff	VBD	_	4	conj
+18	a	a	DT	_	19	det
+19	shoe	shoe	NN	_	17	dobj
+20	in	in	IN	_	17	prep
+21	his	he	PRP$	_	22	poss
+22	mouth	mouth	NN	_	20	pobj
+23	.	.	.	_	4	punct
+

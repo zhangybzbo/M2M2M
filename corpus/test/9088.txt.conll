@@ -1,0 +1,24 @@
+1	Clearwire	Clearwire	NNP	_	2	nn
+2	customers	customer	NNS	_	9	nsubj
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	handful	handful	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	locations	location	NNS	_	6	pobj
+8	were	be	VBD	_	9	cop
+9	unable	unable	JJ	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	get	get	VB	_	9	xcomp
+12	online	online	JJ	_	11	acomp
+13	for	for	IN	_	11	prep
+14	several	several	JJ	_	15	amod
+15	hours	hour	NNS	_	13	pobj
+16	due	due	JJ	_	17	mwe
+17	to	to	TO	_	15	prep
+18	a	a	DT	_	20	det
+19	network	network	NN	_	20	nn
+20	outage	outage	NN	_	17	pobj
+21	late	late	JJ	_	22	amod
+22	Tuesday	Tuesday	NNP	_	20	tmod
+23	.	.	.	_	9	punct
+

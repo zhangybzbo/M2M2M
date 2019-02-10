@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	babble	babble	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	adjusted	adjust	VBN	_	0	ROOT
+5	three	three	CD	_	6	num
+6	times	time	NNS	_	4	tmod
+7	by	by	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	participant	participant	NN	_	7	pobj
+10	,	,	,	_	4	punct
+11	using	use	VBG	_	4	xcomp
+12	an	a	DT	_	13	det
+13	attenuator	attenuator	NN	_	11	dobj
+14	with	with	IN	_	11	prep
+15	a	a	DT	_	19	det
+16	continuously	continuously	RB	_	17	advmod
+17	variable	variable	JJ	_	19	amod
+18	unmarked	unmarked	JJ	_	19	amod
+19	knob	knob	NN	_	14	pobj
+20	.	.	.	_	4	punct
+

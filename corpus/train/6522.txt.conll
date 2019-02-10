@@ -1,0 +1,18 @@
+1	Vulvodynia	Vulvodynia	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	cause	cause	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	chronic	chronic	JJ	_	8	amod
+7	vulval	vulval	JJ	_	8	amod
+8	pain	pain	NN	_	5	pobj
+9	in	in	IN	_	12	dep
+10	the	the	DT	_	12	dep
+11	absence	absence	NN	_	12	dep
+12	of	of	IN	_	4	prep
+13	skin	skin	NN	_	14	nn
+14	disease	disease	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	infection	infection	NN	_	14	conj
+17	.	.	.	_	4	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	priest	priest	NN	_	3	nsubj
+3	mixes	mix	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	Holy	Holy	NNP	_	6	nn
+6	Oil	Oil	NNP	_	3	dobj
+7	and	and	CC	_	6	cc
+8	the	the	DT	_	9	det
+9	wine	wine	NN	_	6	conj
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	spoon	spoon	NN	_	10	pobj
+13	and	and	CC	_	3	cc
+14	pours	pour	VBZ	_	3	conj
+15	it	it	PRP	_	14	dobj
+16	into	into	IN	_	14	prep
+17	small	small	JJ	_	18	amod
+18	containers	container	NNS	_	16	pobj
+19	,	,	,	_	3	punct
+20	as	as	IN	_	3	prep
+21	many	many	JJ	_	20	pobj
+22	as	as	IN	_	24	mark
+23	there	there	EX	_	24	expl
+24	be	be	VB	_	21	advcl
+25	priests	priest	NNS	_	24	nsubj
+26	.	.	.	_	3	punct
+

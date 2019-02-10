@@ -1,0 +1,19 @@
+1	Because	because	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	fire	fire	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	caused	cause	VBN	_	17	csubjpass
+6	by	by	IN	_	5	prep
+7	fireworks	firework	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	costs	cost	NNS	_	7	appos
+10	associated	associate	VBN	_	9	vmod
+11	with	with	IN	_	10	prep
+12	suppressing	suppress	VBG	_	11	pcomp
+13	the	the	DT	_	14	det
+14	fire	fire	NN	_	12	dobj
+15	were	be	VBD	_	17	auxpass
+16	also	also	RB	_	17	advmod
+17	applied	apply	VBN	_	0	ROOT
+18	.	.	.	_	17	punct
+

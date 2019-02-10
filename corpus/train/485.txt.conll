@@ -1,0 +1,23 @@
+1	This	this	DT	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	guide	guide	NN	_	5	nsubj
+5	teaches	teach	VBZ	_	0	ROOT
+6	you	you	PRP	_	5	dobj
+7	how	how	WRB	_	9	advmod
+8	to	to	TO	_	9	aux
+9	make	make	VB	_	5	xcomp
+10	a	a	DT	_	12	det
+11	video	video	NN	_	12	nn
+12	tutorial	tutorial	NN	_	9	dobj
+13	by	by	IN	_	9	prep
+14	recording	record	VBG	_	13	pcomp
+15	the	the	DT	_	17	det
+16	computer	computer	NN	_	17	nn
+17	screen	screen	NN	_	14	dobj
+18	without	without	IN	_	14	prep
+19	camera	camera	NN	_	18	pobj
+20	in	in	IN	_	14	prep
+21	minutes	minute	NNS	_	20	pobj
+22	.	.	.	_	5	punct
+

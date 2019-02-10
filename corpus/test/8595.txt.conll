@@ -1,0 +1,23 @@
+1	In	in	IN	_	8	prep
+2	this	this	DT	_	4	det
+3	same	same	JJ	_	4	amod
+4	paper	paper	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	a	a	DT	_	7	det
+7	footnote	footnote	NN	_	8	nsubj
+8	mentioned	mention	VBD	_	0	ROOT
+9	an	a	DT	_	11	det
+10	op-amp	op-amp	JJ	_	11	amod
+11	design	design	NN	_	8	dobj
+12	by	by	IN	_	8	prep
+13	a	a	DT	_	14	det
+14	student	student	NN	_	12	pobj
+15	that	that	WDT	_	16	nsubj
+16	turned	turn	VBD	_	14	rcmod
+17	out	out	RP	_	16	prt
+18	to	to	TO	_	21	aux
+19	be	be	VB	_	21	cop
+20	quite	quite	RB	_	21	advmod
+21	significant	significant	JJ	_	16	xcomp
+22	.	.	.	_	8	punct
+

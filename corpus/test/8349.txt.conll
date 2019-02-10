@@ -1,0 +1,20 @@
+1	Its	its	PRP$	_	2	poss
+2	reputation	reputation	NN	_	0	ROOT
+3	as	as	IN	_	10	mark
+4	an	a	DT	_	6	det
+5	efficient	efficient	JJ	_	6	amod
+6	firm	firm	NN	_	10	nsubj
+7	of	of	IN	_	6	prep
+8	accountants	accountant	NNS	_	7	pobj
+9	has	have	VBZ	_	10	aux
+10	grown	grow	VBN	_	2	dep
+11	and	and	CC	_	10	cc
+12	has	have	VBZ	_	13	aux
+13	attracted	attract	VBN	_	10	conj
+14	a	a	DT	_	16	det
+15	large	large	JJ	_	16	amod
+16	number	number	NN	_	13	dobj
+17	of	of	IN	_	16	prep
+18	companies	company	NNS	_	17	pobj
+19	.	.	.	_	2	punct
+

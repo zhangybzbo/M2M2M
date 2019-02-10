@@ -1,0 +1,11 @@
+1	Lumberjacks	Lumberjacks	NNPS	_	2	nsubj
+2	hold	hold	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	axe	axe	NN	_	5	nsubj
+5	handle	handle	VB	_	2	ccomp
+6	nearer	nearer	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	axe	axe	JJ	_	9	amod
+9	head	head	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

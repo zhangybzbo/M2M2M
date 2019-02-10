@@ -1,0 +1,11 @@
+0	51	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="another" pos="DT" det="t1"
+8	14	tok id="t1" base="device" pos="NN" nsubjpass="t3"
+15	18	tok id="t2" base="be" pos="VBD" auxpass="t3"
+19	27	tok id="t3" base="insert" pos="VBN" ROOT="ROOT"
+28	32	tok id="t4" base="into" pos="IN" prep="t3"
+33	40	tok id="t5" base="another" pos="DT" det="t7"
+41	44	tok id="t6" base="usb" pos="JJ" amod="t7"
+45	49	tok id="t7" base="port" pos="NN" pobj="t4"
+50	51	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

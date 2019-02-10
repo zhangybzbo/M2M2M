@@ -1,0 +1,17 @@
+1	Douglas	Douglas	NNP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	giving	give	VBG	_	0	ROOT
+4	a	a	DT	_	5	det
+5	speech	speech	NN	_	3	dobj
+6	addressing	address	VBG	_	5	vmod
+7	the	the	DT	_	9	det
+8	harmful	harmful	JJ	_	9	amod
+9	practices	practice	NNS	_	6	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	Army	Army	NNP	_	13	nn
+13	Corps	Corps	NNP	_	10	pobj
+14	of	of	IN	_	13	prep
+15	Engineers	Engineers	NNPS	_	14	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,10 @@
+1	All	all	PDT	_	3	predet
+2	the	the	DT	_	3	det
+3	actors	actor	NNS	_	4	nsubj
+4	came	come	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	theater	theater	NN	_	8	nn
+8	background	background	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

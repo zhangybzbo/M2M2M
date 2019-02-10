@@ -1,0 +1,10 @@
+1	Sufficient	sufficient	JJ	_	3	amod
+2	coagulation-deficient	coagulation-deficient	JJ	_	3	amod
+3	fluids	fluid	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	given	give	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	surgical	surgical	JJ	_	8	amod
+8	patients	patient	NNS	_	6	pobj
+9	.	.	.	_	5	punct
+

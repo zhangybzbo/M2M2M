@@ -1,0 +1,1 @@
+Parameters were obtained from EEG epochs of 30s .

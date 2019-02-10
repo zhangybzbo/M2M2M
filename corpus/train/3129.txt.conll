@@ -1,0 +1,20 @@
+1	Lymphedema	Lymphedema	NNP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	an	a	DT	_	5	det
+4	abnormal	abnormal	JJ	_	5	amod
+5	build-up	build-up	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	fluid	fluid	NN	_	6	pobj
+8	that	that	WDT	_	9	nsubj
+9	causes	cause	VBZ	_	5	rcmod
+10	swelling	swell	VBG	_	9	xcomp
+11	,	,	,	_	10	punct
+12	most	most	RBS	_	13	advmod
+13	often	often	RB	_	14	advmod
+14	in	in	IN	_	10	prep
+15	the	the	DT	_	16	det
+16	arms	arm	NNS	_	14	pobj
+17	or	or	CC	_	16	cc
+18	legs	leg	NNS	_	16	conj
+19	.	.	.	_	5	punct
+

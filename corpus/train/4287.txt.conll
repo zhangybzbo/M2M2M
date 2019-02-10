@@ -1,0 +1,22 @@
+1	Both	both	DT	_	2	preconj
+2	colds	cold	NNS	_	5	nsubj
+3	and	and	CC	_	2	cc
+4	flu	flu	NN	_	2	conj
+5	cause	cause	VBP	_	0	ROOT
+6	inflammation	inflammation	NN	_	5	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	mucous	mucous	JJ	_	10	amod
+10	membranes	membrane	NNS	_	7	pobj
+11	-LRB-	-lrb-	-LRB-	_	12	punct
+12	found	find	VBN	_	10	dep
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	nose	nose	NN	_	13	pobj
+16	,	,	,	_	15	punct
+17	throat	throat	NN	_	15	conj
+18	and	and	CC	_	15	cc
+19	mouth	mouth	NN	_	15	conj
+20	-RRB-	-rrb-	-RRB-	_	12	punct
+21	.	.	.	_	5	punct
+

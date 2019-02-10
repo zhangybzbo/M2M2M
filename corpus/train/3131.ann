@@ -1,0 +1,3 @@
+T1	Term 26 34	quantity
+T2	Term 44 50	smelts
+R1	Member-Collection Arg1:T2 Arg2:T1

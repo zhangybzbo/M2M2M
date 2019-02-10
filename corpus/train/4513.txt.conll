@@ -1,0 +1,16 @@
+1	She	she	PRP	_	2	nsubj
+2	leant	lean	VBD	_	0	ROOT
+3	for	for	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	moment	moment	NN	_	3	pobj
+6	against	against	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	wheel	wheel	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	truck	truck	NN	_	9	pobj
+12	and	and	CC	_	2	cc
+13	glanced	glance	VBD	_	2	conj
+14	about	about	RB	_	13	advmod
+15	.	.	.	_	2	punct
+

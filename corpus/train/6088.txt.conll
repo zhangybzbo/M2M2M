@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	management	management	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	club	club	NN	_	3	pobj
+6	consists	consist	VBZ	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	Thai	Thai	NNP	_	10	nn
+9	office	office	NN	_	10	nn
+10	bearers	bearer	NNS	_	7	pobj
+11	and	and	CC	_	10	cc
+12	local	local	JJ	_	14	amod
+13	expatriate	expatriate	JJ	_	14	amod
+14	volunteers	volunteer	NNS	_	10	conj
+15	.	.	.	_	6	punct
+

@@ -1,0 +1,18 @@
+1	As	as	IN	_	4	mark
+2	a	a	DT	_	3	det
+3	train	train	NN	_	4	nsubj
+4	moves	move	VBZ	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	station	station	NN	_	5	pobj
+7	to	to	TO	_	4	prep
+8	station	station	NN	_	7	pobj
+9	,	,	,	_	4	punct
+10	its	its	PRP$	_	14	poss
+11	passengers	passenger	NNS	_	14	nn
+12	glimpse	glimpse	NN	_	14	nn
+13	different	different	JJ	_	14	amod
+14	worlds	world	NNS	_	9	dep
+15	of	of	IN	_	14	prep
+16	people	people	NNS	_	15	pobj
+17	.	.	.	_	14	punct
+

@@ -1,0 +1,3 @@
+T1	Term 26 32	league
+T2	Term 51 57	tribes
+R1	Member-Collection Arg1:T2 Arg2:T1

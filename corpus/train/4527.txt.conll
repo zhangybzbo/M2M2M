@@ -1,0 +1,20 @@
+1	Dr.	Dr.	NNP	_	2	nn
+2	Marshall	Marshall	NNP	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	the	the	DT	_	5	det
+5	discoverer	discoverer	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	Helicobacter	Helicobacter	NNP	_	6	pobj
+8	-LRB-	-lrb-	-LRB-	_	10	punct
+9	H.	H.	NNP	_	10	nn
+10	pylori	pylorus	NN	_	7	appos
+11	-RRB-	-rrb-	-RRB-	_	10	punct
+12	,	,	,	_	7	punct
+13	the	the	DT	_	14	det
+14	germ	germ	NN	_	7	appos
+15	that	that	WDT	_	16	nsubj
+16	causes	cause	VBZ	_	14	rcmod
+17	peptic	peptic	JJ	_	18	amod
+18	ulcer	ulcer	NN	_	16	dobj
+19	.	.	.	_	5	punct
+

@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	det
+2	area	area	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	part	part	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	association	association	NN	_	8	nn
+8	cortex	cortex	NN	_	5	pobj
+9	,	,	,	_	4	punct
+10	regions	region	NNS	_	4	appos
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	brain	brain	NN	_	11	pobj
+14	responsible	responsible	JJ	_	13	amod
+15	for	for	IN	_	14	prep
+16	incorporating	incorporate	VBG	_	15	pcomp
+17	and	and	CC	_	16	cc
+18	synthesizing	synthesize	VBG	_	16	conj
+19	information	information	NN	_	16	dobj
+20	from	from	IN	_	19	prep
+21	multiple	multiple	JJ	_	24	amod
+22	other	other	JJ	_	24	amod
+23	brain	brain	NN	_	24	nn
+24	regions	region	NNS	_	20	pobj
+25	.	.	.	_	4	punct
+

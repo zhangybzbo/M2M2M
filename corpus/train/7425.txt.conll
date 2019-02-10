@@ -1,0 +1,15 @@
+1	Cinnamon	Cinnamon	NNP	_	2	nn
+2	oil	oil	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	distilled	distil	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	bark	bark	NN	_	7	nn
+7	chips	chip	NNS	_	5	pobj
+8	and	and	CC	_	4	cc
+9	used	use	VBN	_	4	conj
+10	to	to	TO	_	11	aux
+11	alleviate	alleviate	VB	_	9	xcomp
+12	stomach	stomach	NN	_	13	nn
+13	upsets	upset	NNS	_	11	dobj
+14	.	.	.	_	4	punct
+

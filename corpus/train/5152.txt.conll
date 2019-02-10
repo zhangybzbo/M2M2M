@@ -1,0 +1,13 @@
+1	UK	UK	NNP	_	2	nn
+2	researchers	researcher	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	offered	offer	VBN	_	0	ROOT
+5	new	new	JJ	_	6	amod
+6	insight	insight	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	origins	origin	NNS	_	7	pobj
+10	of	of	IN	_	9	prep
+11	RNA	rna	NN	_	10	pobj
+12	.	.	.	_	4	punct
+

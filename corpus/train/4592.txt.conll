@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	novel	novel	JJ	_	0	ROOT
+3	examined	examine	VBN	_	2	vmod
+4	the	the	DT	_	5	det
+5	life	life	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	Larry	Larry	NNP	_	8	nn
+8	Weller	Weller	NNP	_	6	pobj
+9	,	,	,	_	8	punct
+10	an	a	DT	_	13	det
+11	``	``	``	_	13	punct
+12	ordinary	ordinary	JJ	_	13	amod
+13	man	man	NN	_	8	appos
+14	made	make	VBN	_	13	vmod
+15	extraordinary	extraordinary	JJ	_	14	acomp
+16	''	''	''	_	15	punct
+17	by	by	IN	_	14	prep
+18	his	he	PRP$	_	20	poss
+19	unique	unique	JJ	_	20	amod
+20	talent	talent	NN	_	17	pobj
+21	for	for	IN	_	14	prep
+22	creating	create	VBG	_	21	pcomp
+23	labyrinths	labyrinth	NNS	_	22	dobj
+24	.	.	.	_	2	punct
+

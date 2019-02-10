@@ -1,0 +1,3 @@
+T1	Term 61 67	terror
+T2	Term 85 94	landmines
+R1	Cause-Effect Arg1:T2 Arg2:T1

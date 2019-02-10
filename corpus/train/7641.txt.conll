@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	department	department	NN	_	3	nsubj
+3	applied	apply	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	one-time	one-time	JJ	_	6	amod
+6	adjustment	adjustment	NN	_	3	dobj
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	10	det
+9	graduation	graduation	NN	_	10	nn
+10	rates	rate	NNS	_	7	pobj
+11	to	to	TO	_	12	aux
+12	remove	remove	VB	_	3	vmod
+13	the	the	DT	_	14	det
+14	bias	bias	NN	_	12	dobj
+15	.	.	.	_	3	punct
+

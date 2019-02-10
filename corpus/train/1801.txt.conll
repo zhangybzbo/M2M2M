@@ -1,0 +1,22 @@
+1	And	and	CC	_	3	cc
+2	there	there	EX	_	3	expl
+3	's	be	VBZ	_	0	ROOT
+4	you	you	PRP	_	3	nsubj
+5	,	,	,	_	3	punct
+6	floating	float	VBG	_	3	vmod
+7	a	a	DT	_	8	det
+8	couple	couple	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	thousand	thousand	CD	_	11	num
+11	feet	foot	NNS	_	9	pobj
+12	up	up	RB	_	6	advmod
+13	in	in	IN	_	6	prep
+14	the	the	DT	_	15	det
+15	sky	sky	NN	_	13	pobj
+16	in	in	IN	_	6	prep
+17	a	a	DT	_	20	det
+18	tiny	tiny	JJ	_	20	amod
+19	little	little	JJ	_	20	amod
+20	basket	basket	NN	_	16	pobj
+21	.	.	.	_	3	punct
+

@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	cache	cache	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	natural	natural	JJ	_	8	amod
+8	cavity	cavity	NN	_	5	pobj
+9	,	,	,	_	2	punct
+10	at	at	IN	_	2	prep
+11	the	the	DT	_	12	det
+12	base	base	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	part	part	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	fallen	fall	VBN	_	19	amod
+19	arch	arch	NN	_	16	pobj
+20	.	.	.	_	2	punct
+

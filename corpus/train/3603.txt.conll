@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	statute	statute	NN	_	0	ROOT
+3	covering	cover	VBG	_	2	vmod
+4	the	the	DT	_	5	det
+5	matter	matter	NN	_	3	dobj
+6	specified	specify	VBN	_	5	vmod
+7	in	in	IN	_	6	prep
+8	detail	detail	NN	_	7	pobj
+9	when	when	WRB	_	6	dep
+10	and	and	CC	_	9	cc
+11	where	where	WRB	_	14	advmod
+12	the	the	DT	_	13	det
+13	fair	fair	NN	_	14	nsubj
+14	was	be	VBD	_	9	conj
+15	to	to	TO	_	17	aux
+16	be	be	VB	_	17	auxpass
+17	held	hold	VBN	_	14	xcomp
+18	.	.	.	_	2	punct
+

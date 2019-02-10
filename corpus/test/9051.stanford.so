@@ -1,0 +1,11 @@
+0	50	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t3"
+5	9	tok id="t1" base="easy" pos="JJ" amod="t3"
+10	18	tok id="t2" base="mushroom" pos="NN" nn="t3"
+19	24	tok id="t3" base="sauce" pos="NN" nsubj="t5"
+25	27	tok id="t4" base="be" pos="VBZ" cop="t5"
+28	37	tok id="t5" base="delicious" pos="JJ" ROOT="ROOT"
+38	42	tok id="t6" base="with" pos="IN" prep="t5"
+43	48	tok id="t7" base="steak" pos="NN" pobj="t6"
+49	50	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

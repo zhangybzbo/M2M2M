@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	second	second	JJ	_	3	amod
+3	dancer	dancer	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	added	add	VBN	_	0	ROOT
+6	rhythm	rhythm	NN	_	5	dobj
+7	into	into	IN	_	5	prep
+8	his	he	PRP$	_	9	poss
+9	dance	dance	NN	_	7	pobj
+10	.	.	.	_	5	punct
+

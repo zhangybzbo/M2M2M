@@ -1,0 +1,22 @@
+1	In	in	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	past	past	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	insulin	insulin	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	extracted	extract	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	pancreases	pancreas	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	cows	cow	NNS	_	11	pobj
+13	or	or	CC	_	12	cc
+14	pigs	pig	NNS	_	12	conj
+15	,	,	,	_	7	punct
+16	then	then	RB	_	17	advmod
+17	used	use	VBN	_	7	dep
+18	to	to	TO	_	19	aux
+19	treat	treat	VB	_	17	xcomp
+20	diabetics	diabetic	NNS	_	19	dobj
+21	.	.	.	_	7	punct
+

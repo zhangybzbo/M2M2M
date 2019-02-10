@@ -1,0 +1,21 @@
+1	From	from	IN	_	6	prep
+2	here	here	RB	_	1	pobj
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	cast	cast	NN	_	6	nsubj
+6	improvised	improvise	VBD	_	0	ROOT
+7	an	a	DT	_	9	det
+8	elaborate	elaborate	JJ	_	9	amod
+9	story	story	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	teenage	teenage	JJ	_	13	amod
+12	vampire	vampire	NN	_	13	nn
+13	romance	romance	NN	_	10	pobj
+14	,	,	,	_	6	punct
+15	centering	center	VBG	_	6	vmod
+16	on	on	IN	_	15	prep
+17	actress	actress	NN	_	19	nn
+18	Chelsea	Chelsea	NNP	_	19	nn
+19	Gilman	Gilman	NNP	_	16	pobj
+20	.	.	.	_	6	punct
+

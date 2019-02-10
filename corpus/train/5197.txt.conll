@@ -1,0 +1,15 @@
+1	Ku	Ku	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	sculpture-like	sculpture-like	JJ	_	4	amod
+4	knitwear	knitwear	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	inspired	inspire	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	concept	concept	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	`	`	``	_	12	punct
+12	Sculpture	sculpture	NN	_	10	pobj
+13	.	.	.	_	6	punct
+14	'	'	''	_	6	punct
+

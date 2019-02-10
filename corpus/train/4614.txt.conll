@@ -1,0 +1,27 @@
+1	She	she	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	flour	flour	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	the	the	DT	_	6	det
+6	bowl	bowl	NN	_	4	pobj
+7	,	,	,	_	2	punct
+8	and	and	CC	_	2	cc
+9	asked	ask	VBD	_	2	conj
+10	me	I	PRP	_	9	dobj
+11	to	to	TO	_	12	aux
+12	take	take	VB	_	9	xcomp
+13	out	out	RP	_	12	prt
+14	four	four	CD	_	15	num
+15	eggs	egg	NNS	_	12	dobj
+16	from	from	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	carton	carton	NN	_	16	pobj
+19	and	and	CC	_	12	cc
+20	carefully	carefully	RB	_	21	advmod
+21	crack	crack	VB	_	12	conj
+22	them	they	PRP	_	21	dobj
+23	into	into	IN	_	21	prep
+24	the	the	DT	_	25	det
+25	bowl	bowl	NN	_	23	pobj
+26	.	.	.	_	2	punct
+

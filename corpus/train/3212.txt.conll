@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	tsunami	tsunami	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	generated	generate	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	unusual	unusual	JJ	_	8	amod
+8	type	type	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	earthquake	earthquake	NN	_	9	pobj
+11	that	that	WDT	_	12	nsubj
+12	occurs	occur	VBZ	_	8	rcmod
+13	near	near	IN	_	12	prep
+14	oceanic	oceanic	JJ	_	15	amod
+15	trenches	trench	NNS	_	13	pobj
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,15 @@
+1	Scientists	scientist	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	succeeded	succeed	VBN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	creating	create	VBG	_	4	pcomp
+6	the	the	DT	_	8	det
+7	first	first	JJ	_	8	amod
+8	transistor	transistor	NN	_	5	dobj
+9	made	make	VBN	_	8	vmod
+10	from	from	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	single	single	JJ	_	13	amod
+13	molecule	molecule	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

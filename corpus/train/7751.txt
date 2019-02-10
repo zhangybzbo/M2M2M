@@ -1,0 +1,1 @@
+The construction gives a refinement of Nori 's argument in the case of a self-product of a curve .

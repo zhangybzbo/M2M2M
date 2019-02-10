@@ -1,0 +1,16 @@
+1	Colonial	Colonial	NNP	_	2	nn
+2	families	family	NNS	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	United	United	NNP	_	6	nn
+6	States	States	NNPS	_	3	pobj
+7	descended	descend	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	immigrants	immigrant	NNS	_	8	pobj
+11	who	who	WP	_	12	nsubj
+12	arrived	arrive	VBD	_	10	rcmod
+13	before	before	IN	_	12	prep
+14	1700	1700	CD	_	13	pobj
+15	.	.	.	_	7	punct
+

@@ -1,0 +1,12 @@
+1	Obama	Obama	NNP	_	2	nsubj
+2	uses	use	VBZ	_	0	ROOT
+3	Nobel	Nobel	NNP	_	4	nn
+4	speech	speech	NN	_	2	dobj
+5	to	to	TO	_	6	aux
+6	explain	explain	VB	_	2	vmod
+7	his	he	PRP$	_	10	poss
+8	foreign	foreign	JJ	_	10	amod
+9	policy	policy	NN	_	10	nn
+10	doctrine	doctrine	NN	_	6	dobj
+11	.	.	.	_	2	punct
+

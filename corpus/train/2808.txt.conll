@@ -1,0 +1,20 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	the	the	DT	_	5	det
+4	best-selling	best-selling	JJ	_	5	amod
+5	album	album	NN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	male	male	JJ	_	9	amod
+9	artist	artist	NN	_	6	pobj
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	best-seller	best-seller	NN	_	9	conj
+13	in	in	IN	_	5	prep
+14	the	the	DT	_	15	det
+15	pop/R	pop/R	NNP	_	13	pobj
+16	&	&	CC	_	15	cc
+17	B	B	NNP	_	18	nn
+18	genre	genre	NN	_	15	conj
+19	.	.	.	_	5	punct
+

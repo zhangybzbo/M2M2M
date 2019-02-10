@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	G-53	g-53	NN	_	3	nsubj
+3	ended	end	VBD	_	0	ROOT
+4	its	its	PRP$	_	5	poss
+5	statement	statement	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	one	one	CD	_	6	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	many	many	JJ	_	11	amod
+11	speculations	speculation	NNS	_	8	pobj
+12	that	that	WDT	_	14	nsubj
+13	have	have	VBP	_	14	aux
+14	arisen	arise	VBN	_	11	rcmod
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	president	president	NN	_	20	poss
+18	's	's	POS	_	17	possessive
+19	contentious	contentious	JJ	_	20	amod
+20	departure	departure	NN	_	15	pobj
+21	from	from	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	country	country	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

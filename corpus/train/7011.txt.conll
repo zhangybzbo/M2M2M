@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	pouch	pouch	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	distinguishing	distinguish	VBG	_	6	amod
+6	feature	feature	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	female	female	JJ	_	9	amod
+9	marsupials	marsupial	NNS	_	7	pobj
+10	-LRB-	-lrb-	-LRB-	_	12	punct
+11	and	and	CC	_	12	cc
+12	rarely	rarely	RB	_	6	dep
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	males	male	NNS	_	13	pobj
+16	as	as	IN	_	12	prep
+17	in	in	IN	_	16	pcomp
+18	the	the	DT	_	20	det
+19	water	water	NN	_	20	nn
+20	opossum	opossum	NN	_	17	pobj
+21	and	and	CC	_	20	cc
+22	the	the	DT	_	24	det
+23	extinct	extinct	JJ	_	24	amod
+24	Thylacine	thylacine	NN	_	20	conj
+25	-RRB-	-rrb-	-RRB-	_	12	punct
+26	.	.	.	_	6	punct
+

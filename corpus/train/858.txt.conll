@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	great	great	JJ	_	3	amod
+3	news	news	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	that	that	IN	_	12	mark
+6	germs	germ	NNS	_	12	nsubjpass
+7	causing	cause	VBG	_	6	vmod
+8	recreational	recreational	JJ	_	10	amod
+9	water	water	NN	_	10	nn
+10	illnesses	illness	NNS	_	7	dobj
+11	are	be	VBP	_	12	auxpass
+12	killed	kill	VBN	_	4	ccomp
+13	by	by	IN	_	12	prep
+14	chlorine	chlorine	NN	_	13	pobj
+15	.	.	.	_	4	punct
+

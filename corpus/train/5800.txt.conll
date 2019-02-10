@@ -1,0 +1,10 @@
+1	Here	here	RB	_	2	advmod
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	2	nsubj
+4	dole	dole	VB	_	3	amod
+5	of	of	IN	_	4	prep
+6	female	female	JJ	_	8	amod
+7	wild	wild	JJ	_	8	amod
+8	turkeys	turkey	NNS	_	5	pobj
+9	.	.	.	_	2	punct
+

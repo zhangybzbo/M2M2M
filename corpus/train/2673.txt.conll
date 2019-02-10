@@ -1,0 +1,25 @@
+1	Executive	Executive	NNP	_	2	nn
+2	authority	authority	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	invested	invest	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	prime	prime	JJ	_	8	amod
+8	minister	minister	NN	_	5	pobj
+9	,	,	,	_	8	punct
+10	who	who	WP	_	13	nsubj
+11	is	be	VBZ	_	13	cop
+12	the	the	DT	_	13	det
+13	leader	leader	NN	_	8	rcmod
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	political	political	JJ	_	17	amod
+17	party	party	NN	_	14	pobj
+18	commanding	command	VBG	_	17	vmod
+19	a	a	DT	_	20	det
+20	majority	majority	NN	_	18	dobj
+21	in	in	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	House	House	NNP	_	21	pobj
+24	.	.	.	_	4	punct
+

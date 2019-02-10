@@ -1,0 +1,16 @@
+1	Here	here	RB	_	2	advmod
+2	are	be	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	news	news	NN	_	5	nn
+5	reports	report	NNS	_	2	nsubj
+6	and	and	CC	_	5	cc
+7	photographs	photograph	NNS	_	5	conj
+8	of	of	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	devastations	devastation	NNS	_	8	pobj
+11	caused	cause	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	storm	storm	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

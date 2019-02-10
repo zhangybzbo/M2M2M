@@ -1,0 +1,16 @@
+1	Several	several	JJ	_	2	amod
+2	chapters	chapter	NNS	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	are	be	VBP	_	7	auxpass
+7	devoted	devote	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	relationships	relationship	NNS	_	8	pobj
+11	between	between	IN	_	10	prep
+12	ethics	ethic	NNS	_	11	pobj
+13	and	and	CC	_	12	cc
+14	justice	justice	NN	_	12	conj
+15	.	.	.	_	7	punct
+

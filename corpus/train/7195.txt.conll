@@ -1,0 +1,16 @@
+1	Pot	Pot	NNP	_	2	nsubj
+2	supports	support	VBZ	_	0	ROOT
+3	are	be	VBP	_	4	auxpass
+4	used	use	VBN	_	2	dep
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	stove	stove	NN	_	5	pobj
+8	to	to	TO	_	9	aux
+9	protect	protect	VB	_	4	xcomp
+10	the	the	DT	_	11	det
+11	cook	cook	NN	_	9	dobj
+12	from	from	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	heat	heat	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

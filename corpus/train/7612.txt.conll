@@ -1,0 +1,19 @@
+1	My	my	PRP$	_	2	poss
+2	problem	problem	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	that	that	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	advertisement	advertisement	NN	_	7	nsubj
+7	gives	give	VBZ	_	3	ccomp
+8	the	the	DT	_	9	det
+9	impression	impression	NN	_	7	dobj
+10	that	that	IN	_	15	mark
+11	women	woman	NNS	_	15	nsubj
+12	in	in	IN	_	11	prep
+13	rural	rural	JJ	_	14	amod
+14	Bangladesh	Bangladesh	NNP	_	12	pobj
+15	have	have	VBP	_	9	ccomp
+16	6	6	CD	_	17	num
+17	children	child	NNS	_	15	dobj
+18	.	.	.	_	3	punct
+

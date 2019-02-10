@@ -1,0 +1,16 @@
+1	Her	she	PRP$	_	2	poss
+2	father	father	NN	_	6	nsubj
+3	also	also	RB	_	6	advmod
+4	was	be	VBD	_	6	cop
+5	a	a	DT	_	6	det
+6	member	member	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	new	new	JJ	_	10	amod
+10	party	party	NN	_	7	pobj
+11	and	and	CC	_	6	cc
+12	supported	support	VBD	_	6	conj
+13	Abraham	Abraham	NNP	_	14	nn
+14	Lincoln	Lincoln	NNP	_	12	dobj
+15	.	.	.	_	6	punct
+

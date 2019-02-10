@@ -1,0 +1,19 @@
+1	Bitewing	bitew	VBG	_	2	amod
+2	x-rays	x-rays	NNPS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	used	use	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	dentists	dentist	NNS	_	5	pobj
+7	in	in	IN	_	10	mark
+8	order	order	NN	_	10	dep
+9	to	to	TO	_	10	aux
+10	determine	determine	VB	_	4	advcl
+11	if	if	IN	_	14	mark
+12	any	any	DT	_	13	det
+13	cavities	cavity	NNS	_	14	nsubj
+14	exist	exist	VBP	_	10	advcl
+15	within	within	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	mouth	mouth	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

@@ -1,0 +1,18 @@
+1	I	I	PRP	_	3	nsubj
+2	only	only	RB	_	3	advmod
+3	put	put	VBD	_	0	ROOT
+4	enough	enough	JJ	_	5	amod
+5	water	water	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	kettle	kettle	NN	_	6	pobj
+9	for	for	IN	_	3	prep
+10	just	just	RB	_	14	advmod
+11	a	a	DT	_	14	det
+12	single	single	JJ	_	14	amod
+13	small	small	JJ	_	14	amod
+14	cup	cup	NN	_	9	pobj
+15	of	of	IN	_	14	prep
+16	tea	tea	NN	_	15	pobj
+17	.	.	.	_	3	punct
+

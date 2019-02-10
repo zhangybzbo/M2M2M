@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	det
+2	forum	forum	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	dedicated	dedicate	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	9	det
+7	late	late	JJ	_	9	amod
+8	Lou	Lou	NNP	_	9	nn
+9	Alessi	Alessi	NNP	_	5	pobj
+10	,	,	,	_	9	punct
+11	a	a	DT	_	14	det
+12	devoted	devoted	JJ	_	14	amod
+13	leather	leather	NN	_	14	nn
+14	craftsman	craftsman	NN	_	9	appos
+15	and	and	CC	_	14	cc
+16	an	a	DT	_	17	det
+17	all	all	DT	_	14	conj
+18	around	around	IN	_	17	prep
+19	gentleman	gentleman	NN	_	18	pobj
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,27 @@
+1	Much	much	JJ	_	12	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	work	work	NN	_	2	pobj
+5	on	on	IN	_	1	prep
+6	continuous	continuous	JJ	_	7	amod
+7	culture	culture	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	bacteria	bacterium	NNS	_	8	pobj
+10	has	have	VBZ	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	carried	carry	VBN	_	0	ROOT
+13	out	out	RP	_	12	prt
+14	with	with	IN	_	12	prep
+15	aerobic	aerobic	JJ	_	16	amod
+16	bacteria	bacterium	NNS	_	14	pobj
+17	,	,	,	_	12	punct
+18	though	though	RB	_	22	advmod
+19	little	little	RB	_	22	nsubjpass
+20	has	have	VBZ	_	22	aux
+21	been	be	VBN	_	22	auxpass
+22	done	do	VBN	_	12	dep
+23	with	with	IN	_	22	prep
+24	strict	strict	JJ	_	25	amod
+25	anaerobes	anaerobe	NNS	_	23	pobj
+26	.	.	.	_	12	punct
+

@@ -1,0 +1,23 @@
+1	I	I	PRP	_	4	nsubj
+2	have	have	VBP	_	4	aux
+3	been	be	VBN	_	4	aux
+4	talking	talk	VBG	_	0	ROOT
+5	extensively	extensively	RB	_	4	advmod
+6	here	here	RB	_	4	advmod
+7	about	about	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	disruption	disruption	NN	_	7	pobj
+10	that	that	WDT	_	13	nsubjpass
+11	has	have	VBZ	_	13	aux
+12	been	be	VBN	_	13	auxpass
+13	caused	cause	VBN	_	9	rcmod
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	21	det
+16	Brazilian	brazilian	JJ	_	21	amod
+17	Air	Air	NNP	_	21	nn
+18	Traffic	Traffic	NNP	_	21	nn
+19	Controllers	Controllers	NNPS	_	21	nn
+20	white	white	JJ	_	21	amod
+21	strike	strike	NN	_	14	pobj
+22	.	.	.	_	4	punct
+

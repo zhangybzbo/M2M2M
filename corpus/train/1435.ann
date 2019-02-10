@@ -1,0 +1,3 @@
+T1	Term 96 100	burn
+T2	Term 111 119	spilling
+R1	Cause-Effect Arg1:T2 Arg2:T1

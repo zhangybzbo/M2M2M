@@ -1,0 +1,19 @@
+1	Each	each	DT	_	2	det
+2	year	year	NN	_	13	tmod
+3	over	over	IN	_	4	quantmod
+4	2300	2300	CD	_	5	num
+5	scientists	scientist	NNS	_	13	nsubj
+6	from	from	IN	_	5	prep
+7	universities	university	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	industries	industry	NNS	_	7	conj
+10	and	and	CC	_	7	cc
+11	government	government	NN	_	12	nn
+12	labs	lab	NNS	_	7	conj
+13	perform	perform	VBP	_	0	ROOT
+14	research	research	NN	_	13	dobj
+15	at	at	IN	_	13	prep
+16	the	the	DT	_	17	det
+17	NSLS	NSLS	NNP	_	15	pobj
+18	.	.	.	_	13	punct
+

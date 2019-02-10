@@ -1,0 +1,15 @@
+1	Technological	technological	JJ	_	2	amod
+2	advances	advance	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	brought	bring	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	wars	war	NNS	_	4	dobj
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	10	det
+9	living	living	NN	_	10	nn
+10	rooms	room	NNS	_	7	pobj
+11	across	across	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	world	world	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

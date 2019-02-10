@@ -1,0 +1,16 @@
+1	We	we	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	scope	scope	NN	_	2	dobj
+5	to	to	TO	_	2	prep
+6	leisurely	leisurely	JJ	_	7	amod
+7	study	study	NN	_	5	pobj
+8	the	the	DT	_	9	det
+9	kaleidoscope	kaleidoscope	NN	_	2	dobj
+10	of	of	IN	_	9	prep
+11	whirling	whirling	JJ	_	14	amod
+12	and	and	CC	_	11	cc
+13	nectaring	nectaring	JJ	_	11	conj
+14	butterflies	butterfly	NNS	_	10	pobj
+15	.	.	.	_	2	punct
+

@@ -1,0 +1,20 @@
+1	One	one	CD	_	2	num
+2	chapter	chapter	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	relates	relate	VBZ	_	0	ROOT
+7	attempts	attempt	NNS	_	6	dobj
+8	made	make	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	US	US	NNP	_	9	pobj
+12	to	to	TO	_	13	aux
+13	establish	establish	VB	_	8	xcomp
+14	a	a	DT	_	16	det
+15	similar	similar	JJ	_	16	amod
+16	alliance	alliance	NN	_	13	dobj
+17	with	with	IN	_	16	prep
+18	Yemen	Yemen	NNP	_	17	pobj
+19	.	.	.	_	6	punct
+

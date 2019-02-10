@@ -1,0 +1,21 @@
+1	Well	well	UH	_	4	dep
+2	my	my	PRP$	_	3	poss
+3	husband	husband	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	still	still	RB	_	4	advmod
+6	in	in	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	shower	shower	NN	_	6	pobj
+9	and	and	CC	_	4	cc
+10	the	the	DT	_	11	det
+11	remote	remote	JJ	_	12	nsubj
+12	was	be	VBD	_	4	conj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	desk	desk	NN	_	13	pobj
+16	in	in	IN	_	12	prep
+17	the	the	DT	_	19	det
+18	back	back	JJ	_	19	amod
+19	room	room	NN	_	16	pobj
+20	.	.	.	_	4	punct
+

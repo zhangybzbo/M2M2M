@@ -1,0 +1,9 @@
+0	43	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Guinea" pos="NNP" nn="t1"
+7	13	tok id="t1" base="union" pos="NNS" nsubj="t2"
+14	22	tok id="t2" base="threaten" pos="VBP" ROOT="ROOT"
+23	28	tok id="t3" base="junta" pos="NN" dobj="t2"
+29	33	tok id="t4" base="with" pos="IN" prep="t2"
+34	41	tok id="t5" base="walkout" pos="NN" pobj="t4"
+42	43	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

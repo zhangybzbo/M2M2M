@@ -1,0 +1,10 @@
+0	37	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="several" pos="JJ" amod="t1"
+8	12	tok id="t1" base="cat" pos="NNS" nsubj="t2"
+13	16	tok id="t2" base="run" pos="VBD" ROOT="ROOT"
+17	21	tok id="t3" base="into" pos="IN" prep="t2"
+22	25	tok id="t4" base="Rob" pos="NNP" poss="t6"
+26	28	tok id="t5" base="'s" pos="POS" possessive="t4"
+29	35	tok id="t6" base="garage" pos="NN" pobj="t3"
+36	37	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

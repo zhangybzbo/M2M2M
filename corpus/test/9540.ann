@@ -1,0 +1,3 @@
+T1	Term 30 36	sleeve
+T2	Term 37 43	blouse
+R1	Component-Whole Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	det
+2	website	website	NN	_	3	nsubj
+3	sets	set	VBZ	_	0	ROOT
+4	out	out	RP	_	3	prt
+5	both	both	DT	_	6	det
+6	sides	side	NNS	_	3	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	argument	argument	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

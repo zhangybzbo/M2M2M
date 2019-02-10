@@ -1,0 +1,13 @@
+1	Approximately	approximately	RB	_	2	quantmod
+2	20	20	CD	_	3	num
+3	dl	dl	NN	_	7	nsubjpass
+4	of	of	IN	_	3	prep
+5	water	water	NN	_	4	pobj
+6	was	be	VBD	_	7	auxpass
+7	put	put	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	fish	fish	NN	_	11	nn
+11	tank	tank	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

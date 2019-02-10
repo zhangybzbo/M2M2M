@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	make	make	VBP	_	0	ROOT
+3	this	this	DT	_	6	nsubj
+4	all	all	PDT	_	6	predet
+5	the	the	DT	_	6	det
+6	time	time	NN	_	2	dobj
+7	and	and	CC	_	6	cc
+8	replicated	replicate	VBD	_	6	conj
+9	a	a	DT	_	11	det
+10	similar	similar	JJ	_	11	amod
+11	recipe	recipe	NN	_	8	dobj
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	16	det
+14	wonderful	wonderful	JJ	_	16	amod
+15	wonderful	wonderful	JJ	_	16	amod
+16	restaurant	restaurant	NN	_	12	pobj
+17	in	in	IN	_	16	prep
+18	Paducah	Paducah	NNP	_	17	pobj
+19	,	,	,	_	18	punct
+20	KY.	KY.	NNP	_	18	appos
+21	.	.	.	_	2	punct
+

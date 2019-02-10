@@ -1,0 +1,21 @@
+1	Information	information	NN	_	0	ROOT
+2	about	about	IN	_	1	prep
+3	Salmonellosis	Salmonellosis	NNP	_	2	pobj
+4	,	,	,	_	3	punct
+5	an	a	DT	_	6	det
+6	illness	illness	NN	_	3	appos
+7	caused	cause	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	bacteria	bacterium	NNS	_	8	pobj
+11	found	find	VBN	_	10	vmod
+12	in	in	IN	_	11	prep
+13	raw	raw	JJ	_	14	amod
+14	food	food	NN	_	12	pobj
+15	,	,	,	_	14	punct
+16	soil	soil	NN	_	14	conj
+17	,	,	,	_	14	punct
+18	or	or	CC	_	14	cc
+19	water	water	NN	_	14	conj
+20	.	.	.	_	1	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det
+2	second	second	JJ	_	4	amod
+3	memorable	memorable	JJ	_	4	amod
+4	shift	shift	NN	_	5	nsubj
+5	was	be	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	September	September	NNP	_	6	pobj
+8	,	,	,	_	5	punct
+9	when	when	WRB	_	12	advmod
+10	the	the	DT	_	11	det
+11	plant	plant	NN	_	12	nsubj
+12	made	make	VBD	_	5	advcl
+13	the	the	DT	_	15	det
+14	75-millionth	75-millionth	JJ	_	15	amod
+15	ton	ton	NN	_	12	dobj
+16	of	of	IN	_	15	prep
+17	steel	steel	NN	_	16	pobj
+18	.	.	.	_	5	punct
+

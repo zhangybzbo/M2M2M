@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="diamond" pos="NN" nn="t2"
+12	16	tok id="t2" base="ring" pos="NN" nsubjpass="t4"
+17	20	tok id="t3" base="be" pos="VBD" auxpass="t4"
+21	28	tok id="t4" base="drop" pos="VBN" ROOT="ROOT"
+29	33	tok id="t5" base="into" pos="IN" prep="t4"
+34	35	tok id="t6" base="a" pos="DT" det="t7"
+36	52	tok id="t7" base="trick-or-treater" pos="NN" poss="t9"
+53	55	tok id="t8" base="'s" pos="POS" possessive="t7"
+56	59	tok id="t9" base="bag" pos="NN" pobj="t5"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

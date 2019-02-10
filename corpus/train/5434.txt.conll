@@ -1,0 +1,14 @@
+1	Families	family	NNS	_	4	nsubjpass
+2	are	be	VBP	_	4	aux
+3	being	be	VBG	_	4	auxpass
+4	thrown	throw	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	poverty	poverty	NN	_	5	pobj
+7	by	by	IN	_	4	prep
+8	our	we	PRP$	_	12	poss
+9	corrupt	corrupt	JJ	_	12	amod
+10	health	health	NN	_	12	nn
+11	care	care	NN	_	12	nn
+12	system	system	NN	_	7	pobj
+13	.	.	.	_	4	punct
+

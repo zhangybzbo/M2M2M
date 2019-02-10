@@ -1,0 +1,17 @@
+1	Lawyers	lawyer	NNS	_	5	nsubj
+2	in	in	IN	_	1	prep
+3	Detroit	Detroit	NNP	_	2	pobj
+4	also	also	RB	_	5	advmod
+5	worked	work	VBD	_	0	ROOT
+6	overtime	overtime	RB	_	5	advmod
+7	as	as	IN	_	5	prep
+8	several	several	JJ	_	9	amod
+9	lawsuits	lawsuit	NNS	_	7	pobj
+10	ensued	ensue	VBN	_	9	vmod
+11	from	from	IN	_	10	prep
+12	angry	angry	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	injured	injured	JJ	_	12	conj
+15	fans	fan	NNS	_	11	pobj
+16	.	.	.	_	5	punct
+

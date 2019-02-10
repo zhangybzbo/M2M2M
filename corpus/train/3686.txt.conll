@@ -1,0 +1,24 @@
+1	He	he	PRP	_	2	nsubj
+2	founded	found	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	Emmaus	Emmaus	NNP	_	5	nn
+5	Program	Program	NNP	_	2	dobj
+6	,	,	,	_	5	punct
+7	an	a	DT	_	9	det
+8	annual	annual	JJ	_	9	amod
+9	convocation	convocation	NN	_	5	appos
+10	of	of	IN	_	9	prep
+11	diocesan	diocesan	JJ	_	12	amod
+12	clergy	clergy	NNS	_	10	pobj
+13	for	for	IN	_	9	prep
+14	their	they	PRP$	_	16	poss
+15	continuing	continue	VBG	_	16	amod
+16	education	education	NN	_	13	pobj
+17	and	and	CC	_	16	cc
+18	spiritual	spiritual	JJ	_	19	amod
+19	formation	formation	NN	_	16	conj
+20	,	,	,	_	2	punct
+21	in	in	IN	_	2	prep
+22	1983	1983	CD	_	21	pobj
+23	.	.	.	_	2	punct
+

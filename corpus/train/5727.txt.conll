@@ -1,0 +1,15 @@
+1	His	he	PRP$	_	3	poss
+2	good	good	JJ	_	3	amod
+3	taste	taste	NN	_	7	nsubj
+4	for	for	IN	_	3	prep
+5	good	good	JJ	_	6	amod
+6	cheese	cheese	NN	_	4	pobj
+7	leads	lead	VBZ	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	factory	factory	NN	_	13	poss
+11	's	's	POS	_	10	possessive
+12	commercial	commercial	JJ	_	13	amod
+13	success	success	NN	_	8	pobj
+14	.	.	.	_	7	punct
+

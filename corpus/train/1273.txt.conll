@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	patient	patient	NN	_	3	nsubj
+3	experiences	experience	VBZ	_	0	ROOT
+4	displaced	displaced	JJ	_	8	amod
+5	emotional	emotional	JJ	_	8	amod
+6	and	and	CC	_	5	cc
+7	financial	financial	JJ	_	5	conj
+8	deprivation	deprivation	NN	_	3	dobj
+9	as	as	RB	_	10	advmod
+10	well	well	RB	_	8	cc
+11	as	as	IN	_	10	mwe
+12	anger	anger	NN	_	8	conj
+13	after	after	IN	_	3	prep
+14	the	the	DT	_	15	det
+15	divorce	divorce	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

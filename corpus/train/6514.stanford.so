@@ -1,0 +1,12 @@
+0	71	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	13	tok id="t1" base="Princeton" pos="NNP" nn="t2"
+14	21	tok id="t2" base="Jaycees" pos="NNPS" nsubj="t4"
+22	26	tok id="t3" base="have" pos="VBP" aux="t4"
+27	35	tok id="t4" base="bestow" pos="VBN" ROOT="ROOT"
+36	48	tok id="t5" base="senatorship" pos="NNS" dobj="t4"
+49	51	tok id="t6" base="to" pos="TO" prep="t4"
+52	57	tok id="t7" base="three" pos="CD" num="t8"
+58	69	tok id="t8" base="individual" pos="NNS" pobj="t6"
+70	71	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

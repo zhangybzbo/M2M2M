@@ -1,0 +1,26 @@
+1	These	these	DT	_	2	det
+2	images	image	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	found	find	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	reliquary	reliquary	NN	_	5	pobj
+8	installed	install	VBN	_	7	vmod
+9	inside	inside	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Three-story	three-story	JJ	_	12	amod
+12	Pagoda	pagoda	NN	_	9	pobj
+13	at	at	IN	_	8	prep
+14	the	the	DT	_	16	det
+15	Monastic	Monastic	NNP	_	16	nn
+16	Site	site	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	Hwangboksa	Hwangboksa	NNP	_	17	pobj
+19	in	in	IN	_	18	prep
+20	Guhwang-dong	Guhwang-dong	NNP	_	19	pobj
+21	,	,	,	_	4	punct
+22	Gyeongju	Gyeongju	NNP	_	4	dep
+23	in	in	IN	_	22	prep
+24	1942	1942	CD	_	23	pobj
+25	.	.	.	_	4	punct
+

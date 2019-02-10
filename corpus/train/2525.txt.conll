@@ -1,0 +1,27 @@
+1	Inside	inside	IN	_	0	ROOT
+2	,	,	,	_	10	punct
+3	senior	senior	JJ	_	6	amod
+4	stylist	stylist	NN	_	6	nn
+5	Favio	Favio	NNP	_	6	nn
+6	Alfano	Alfano	NNP	_	10	nsubj
+7	,	,	,	_	6	punct
+8	33	33	CD	_	6	amod
+9	,	,	,	_	6	punct
+10	wields	wield	VBZ	_	1	pcomp
+11	custom-made	custom-made	JJ	_	14	amod
+12	$	$	$	_	14	amod
+13	1000	1000	CD	_	12	num
+14	scissors	scissors	NNS	_	10	dobj
+15	made	make	VBN	_	14	vmod
+16	by	by	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	guy	guy	NN	_	16	pobj
+19	named	name	VBN	_	18	vmod
+20	Shioji	Shioji	NNP	_	19	dep
+21	,	,	,	_	20	punct
+22	a	a	DT	_	23	det
+23	genius	genius	NN	_	20	appos
+24	in	in	IN	_	23	prep
+25	Wakayama	Wakayama	NNP	_	24	pobj
+26	.	.	.	_	1	punct
+

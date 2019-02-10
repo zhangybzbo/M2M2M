@@ -1,0 +1,24 @@
+1	They	they	PRP	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	arranged	arrange	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	chart	chart	NN	_	4	pobj
+7	in	in	IN	_	12	prep
+8	accordance	accordance	NN	_	7	pobj
+9	with	with	IN	_	8	prep
+10	their	they	PRP$	_	11	poss
+11	position	position	NN	_	9	pobj
+12	relative	relative	JJ	_	3	advmod
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	15	det
+15	aircraft	aircraft	NN	_	17	poss
+16	's	's	POS	_	15	possessive
+17	arrival	arrival	NN	_	13	pobj
+18	from	from	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	en	en	FW	_	22	nn
+21	route	route	NN	_	22	nn
+22	structure	structure	NN	_	18	pobj
+23	.	.	.	_	3	punct
+

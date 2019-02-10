@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	basin	basin	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	sunk	sink	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	deep	deep	JJ	_	8	amod
+8	depression	depression	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

@@ -1,0 +1,18 @@
+1	In	in	IN	_	5	prep
+2	1858	1858	CD	_	1	pobj
+3	a	a	DT	_	4	det
+4	shoemaker	shoemaker	NN	_	5	nsubj
+5	invented	invent	VBD	_	0	ROOT
+6	a	a	DT	_	7	det
+7	machine	machine	NN	_	5	dobj
+8	for	for	IN	_	7	prep
+9	sewing	sew	VBG	_	8	pcomp
+10	the	the	DT	_	11	det
+11	soles	sole	NNS	_	9	dobj
+12	of	of	IN	_	11	prep
+13	shoes	shoe	NNS	_	12	pobj
+14	to	to	TO	_	9	prep
+15	the	the	DT	_	16	det
+16	uppers	upper	NNS	_	14	pobj
+17	.	.	.	_	5	punct
+

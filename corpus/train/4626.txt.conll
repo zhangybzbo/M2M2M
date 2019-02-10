@@ -1,0 +1,24 @@
+1	In	in	IN	_	7	prep
+2	Lotus	Lotus	NNP	_	1	pobj
+3	,	,	,	_	7	punct
+4	the	the	DT	_	6	det
+5	1st	1st	JJ	_	6	amod
+6	circuit	circuit	NN	_	7	nsubj
+7	departed	depart	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	precedent	precedent	NN	_	8	pobj
+10	,	,	,	_	7	punct
+11	narrowing	narrow	VBG	_	12	amod
+12	protection	protection	NN	_	7	dobj
+13	for	for	IN	_	12	prep
+14	developed	developed	JJ	_	15	amod
+15	software	software	NN	_	13	pobj
+16	and	and	CC	_	7	cc
+17	giving	give	VBG	_	7	conj
+18	crafty	crafty	JJ	_	19	amod
+19	litigators	litigator	NNS	_	17	iobj
+20	a	a	DT	_	22	det
+21	blank	blank	JJ	_	22	amod
+22	disk	disk	NN	_	17	dobj
+23	.	.	.	_	7	punct
+

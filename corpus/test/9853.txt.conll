@@ -1,0 +1,11 @@
+1	Unfortunately	unfortunately	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	you	you	PRP	_	5	nsubj
+4	also	also	RB	_	5	advmod
+5	inherited	inherit	VBD	_	0	ROOT
+6	predisposition	predisposition	NN	_	5	dobj
+7	to	to	TO	_	6	prep
+8	certain	certain	JJ	_	9	amod
+9	diseases	disease	NNS	_	7	pobj
+10	.	.	.	_	5	punct
+

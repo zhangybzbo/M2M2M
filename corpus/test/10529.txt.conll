@@ -1,0 +1,25 @@
+1	Advanced	Advanced	NNP	_	3	nn
+2	XML	xml	NN	_	3	nn
+3	Converter	converter	NN	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	a	a	DT	_	8	det
+6	wizard	wizard	NN	_	8	nn
+7	driven	drive	VBN	_	8	amod
+8	interface	interface	NN	_	4	dobj
+9	for	for	IN	_	8	prep
+10	converting	convert	VBG	_	9	pcomp
+11	xml	xml	NN	_	12	nn
+12	files	file	NNS	_	10	dobj
+13	into	into	IN	_	10	prep
+14	HTML	HTML	NNP	_	13	pobj
+15	,	,	,	_	14	punct
+16	CSV	CSV	NNP	_	14	conj
+17	,	,	,	_	14	punct
+18	DBF	DBF	NNP	_	14	conj
+19	and	and	CC	_	14	cc
+20	XLS	XLS	NNP	_	21	nn
+21	formats	format	NNS	_	14	conj
+22	with	with	IN	_	10	prep
+23	ease	ease	NN	_	22	pobj
+24	.	.	.	_	4	punct
+

@@ -1,0 +1,27 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	time	time	NN	_	2	nsubj
+5	when	when	WRB	_	18	advmod
+6	the	the	DT	_	7	det
+7	sound	sound	NN	_	18	nsubj
+8	of	of	IN	_	7	prep
+9	an	a	DT	_	11	det
+10	accordion	accordion	NN	_	11	nn
+11	playing	playing	NN	_	8	pobj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	cars	car	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	metro	metro	NN	_	15	pobj
+18	brought	bring	VBD	_	4	rcmod
+19	commuters	commuter	NNS	_	20	nn
+20	respite	respite	NN	_	18	dobj
+21	from	from	IN	_	18	prep
+22	``	``	``	_	21	punct
+23	le	le	FW	_	24	nn
+24	stress	stress	NN	_	21	pobj
+25	.	.	.	_	2	punct
+26	''	''	''	_	2	punct
+

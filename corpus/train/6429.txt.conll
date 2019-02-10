@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	pilgrims	pilgrim	NNS	_	3	nsubj
+3	rejoiced	rejoice	VBD	_	0	ROOT
+4	when	when	WRB	_	6	advmod
+5	they	they	PRP	_	6	nsubj
+6	located	locate	VBD	_	3	advcl
+7	a	a	DT	_	8	det
+8	skein	skein	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	wild	wild	JJ	_	11	amod
+11	fowl	fowl	NN	_	9	pobj
+12	for	for	IN	_	6	prep
+13	their	they	PRP$	_	15	poss
+14	thanksgiving	thanksgiving	NN	_	15	nn
+15	tables	table	NNS	_	12	pobj
+16	.	.	.	_	3	punct
+

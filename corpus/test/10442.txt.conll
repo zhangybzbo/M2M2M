@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	0	ROOT
+3	who	who	WP	_	4	nsubj
+4	tried	try	VBD	_	2	rcmod
+5	to	to	TO	_	6	aux
+6	cool	cool	VB	_	4	xcomp
+7	out	out	RP	_	6	prt
+8	his	he	PRP$	_	10	poss
+9	hyper	hyper	JJ	_	10	amod
+10	cat	cat	NN	_	6	dobj
+11	by	by	IN	_	6	prep
+12	stuffing	stuff	VBG	_	11	pcomp
+13	the	the	DT	_	14	det
+14	animal	animal	NN	_	12	dobj
+15	into	into	IN	_	12	prep
+16	a	a	DT	_	18	det
+17	boxlike	boxlike	JJ	_	18	amod
+18	homemade	homemade	NN	_	15	pobj
+19	bong	bong	FW	_	20	nsubj
+20	faces	face	VBZ	_	18	rcmod
+21	cruelty	cruelty	NN	_	22	nn
+22	charges	charge	NNS	_	20	dobj
+23	.	.	.	_	2	punct
+

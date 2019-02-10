@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	following	follow	VBG	_	3	amod
+3	pages	page	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	organized	organize	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	subject	subject	NN	_	6	pobj
+8	,	,	,	_	5	punct
+9	and	and	CC	_	5	cc
+10	investigate	investigate	VB	_	5	conj
+11	the	the	DT	_	12	det
+12	root	root	NN	_	13	nsubj
+13	causes	cause	VBZ	_	10	ccomp
+14	of	of	IN	_	13	prep
+15	damage	damage	NN	_	14	pobj
+16	caused	cause	VBN	_	15	vmod
+17	by	by	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	quake	quake	NN	_	17	pobj
+20	.	.	.	_	5	punct
+

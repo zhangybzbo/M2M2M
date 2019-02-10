@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	procession	procession	NN	_	3	nsubj
+3	lasts	last	VBZ	_	0	ROOT
+4	all	all	DT	_	5	det
+5	days	day	NNS	_	3	dobj
+6	and	and	CC	_	3	cc
+7	passes	pass	VBZ	_	3	conj
+8	by	by	IN	_	7	prep
+9	all	all	PDT	_	11	predet
+10	the	the	DT	_	11	det
+11	places	place	NNS	_	8	pobj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	city	city	NN	_	12	pobj
+15	that	that	WDT	_	17	nsubjpass
+16	are	be	VBP	_	17	auxpass
+17	linked	link	VBN	_	11	rcmod
+18	to	to	TO	_	17	prep
+19	the	the	DT	_	20	det
+20	saint	saint	NN	_	22	poss
+21	's	's	POS	_	20	possessive
+22	martyrdom	martyrdom	NN	_	18	pobj
+23	.	.	.	_	3	punct
+

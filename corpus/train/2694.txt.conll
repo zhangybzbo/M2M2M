@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	shape	shape	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	vessel	vessel	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	seen	see	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	ewer	ewer	NN	_	8	pobj
+11	that	that	WDT	_	13	nsubj
+12	has	have	VBZ	_	13	aux
+13	been	be	VBN	_	10	rcmod
+14	in	in	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	Metropolitan	Metropolitan	NNP	_	17	nn
+17	Museum	Museum	NNP	_	14	pobj
+18	for	for	IN	_	13	prep
+19	many	many	JJ	_	20	amod
+20	years	year	NNS	_	18	pobj
+21	.	.	.	_	7	punct
+

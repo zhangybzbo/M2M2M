@@ -1,0 +1,13 @@
+1	Access	access	NN	_	5	nsubj
+2	to	to	TO	_	1	prep
+3	the	the	DT	_	4	det
+4	citations	citation	NNS	_	2	pobj
+5	contained	contain	VBD	_	11	csubj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	book	book	NN	_	6	pobj
+9	is	be	VBZ	_	11	cop
+10	rather	rather	RB	_	11	advmod
+11	difficult	difficult	JJ	_	0	ROOT
+12	.	.	.	_	11	punct
+

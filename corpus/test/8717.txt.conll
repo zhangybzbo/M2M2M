@@ -1,0 +1,25 @@
+1	In	in	IN	_	5	prep
+2	antiquity	antiquity	NN	_	1	pobj
+3	,	,	,	_	5	punct
+4	people	people	NNS	_	5	nsubj
+5	knew	know	VBD	_	0	ROOT
+6	that	that	IN	_	8	mark
+7	bees	bee	NNS	_	8	nsubj
+8	produce	produce	VBP	_	5	ccomp
+9	delicious	delicious	JJ	_	10	amod
+10	honey	honey	NN	_	8	dobj
+11	,	,	,	_	8	punct
+12	that	that	IN	_	14	mark
+13	they	they	PRP	_	14	nsubj
+14	sting	sting	VBP	_	8	dep
+15	,	,	,	_	14	punct
+16	and	and	CC	_	14	cc
+17	that	that	IN	_	19	mark
+18	they	they	PRP	_	19	nsubj
+19	increase	increase	VBP	_	14	conj
+20	their	they	PRP$	_	21	poss
+21	numbers	number	NNS	_	19	dobj
+22	by	by	IN	_	19	prep
+23	swarming	swarm	VBG	_	22	pcomp
+24	.	.	.	_	5	punct
+

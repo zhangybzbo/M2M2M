@@ -1,0 +1,22 @@
+1	For	for	IN	_	5	prep
+2	Christmas	Christmas	NNP	_	1	pobj
+3	,	,	,	_	5	punct
+4	Daniel	Daniel	NNP	_	5	nsubj
+5	gave	give	VBD	_	0	ROOT
+6	Kelly	Kelly	NNP	_	9	nn
+7	a	a	DT	_	9	det
+8	Tiffany	Tiffany	NNP	_	9	nn
+9	bracelet	bracelet	NN	_	5	dobj
+10	,	,	,	_	5	punct
+11	and	and	CC	_	5	cc
+12	for	for	IN	_	17	prep
+13	Valentine	Valentine	NNP	_	15	poss
+14	's	's	POS	_	13	possessive
+15	Day	day	NN	_	12	pobj
+16	he	he	PRP	_	17	nsubj
+17	bought	buy	VBD	_	5	conj
+18	a	a	DT	_	20	det
+19	diamond	diamond	NN	_	20	nn
+20	necklace	necklace	NN	_	17	dobj
+21	.	.	.	_	5	punct
+

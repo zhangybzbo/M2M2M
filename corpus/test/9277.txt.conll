@@ -1,0 +1,15 @@
+1	Many	many	JJ	_	2	amod
+2	tribes	tribe	NNS	_	3	nsubj
+3	used	use	VBN	_	0	ROOT
+4	animal	animal	JJ	_	5	amod
+5	hides	hide	NNS	_	3	dobj
+6	to	to	TO	_	7	aux
+7	build	build	VB	_	3	vmod
+8	houses	house	NNS	_	7	dobj
+9	such	such	JJ	_	10	mwe
+10	as	as	IN	_	8	prep
+11	tepees	tepee	NNS	_	10	pobj
+12	and	and	CC	_	11	cc
+13	wigwams	wigwam	NNS	_	11	conj
+14	.	.	.	_	3	punct
+

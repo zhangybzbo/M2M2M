@@ -1,0 +1,19 @@
+1	Ita	ita	NN	_	2	nn
+2	s	s	NNS	_	0	ROOT
+3	hard	hard	RB	_	2	advmod
+4	for	for	IN	_	3	prep
+5	me	I	PRP	_	4	pobj
+6	to	to	TO	_	3	prep
+7	fathom	fathom	NN	_	6	pobj
+8	the	the	DT	_	9	det
+9	craziness	craziness	NN	_	2	dep
+10	that	that	WDT	_	13	nsubjpass
+11	has	have	VBZ	_	13	aux
+12	been	be	VBN	_	13	auxpass
+13	caused	cause	VBN	_	9	rcmod
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	H1N1	h1n1	NN	_	17	nn
+17	virus	virus	NN	_	14	pobj
+18	.	.	.	_	2	punct
+

@@ -1,0 +1,15 @@
+1	They	they	PRP	_	2	nsubj
+2	calculated	calculate	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	exit	exit	NN	_	5	nn
+5	positions	position	NNS	_	2	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	backscattered	backscattered	JJ	_	9	amod
+9	electrons	electron	NNS	_	6	pobj
+10	from	from	IN	_	5	prep
+11	a	a	DT	_	13	det
+12	single-scattering	single-scattering	JJ	_	13	amod
+13	approach	approach	NN	_	10	pobj
+14	.	.	.	_	2	punct
+

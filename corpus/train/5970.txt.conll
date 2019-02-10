@@ -1,0 +1,13 @@
+1	A	a	DT	_	4	det
+2	specially	specially	RB	_	3	advmod
+3	built	build	VBN	_	4	amod
+4	sculpture	sculpture	NN	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	ship	ship	NN	_	5	pobj
+8	emerges	emerge	VBZ	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	harbour	harbour	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

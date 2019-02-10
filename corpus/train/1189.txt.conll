@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	Ark	Ark	NNP	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	hidden	hide	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	cave	cave	NN	_	5	pobj
+8	beneath	beneath	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	Temple	Temple	NNP	_	11	nn
+11	Mount	Mount	NNP	_	8	pobj
+12	in	in	IN	_	4	prep
+13	the	the	DT	_	15	det
+14	very	very	JJ	_	15	amod
+15	heart	heart	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	Israel	Israel	NNP	_	16	pobj
+18	.	.	.	_	4	punct
+

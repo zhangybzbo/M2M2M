@@ -1,0 +1,24 @@
+1	Others	other	NNS	_	2	nsubj
+2	think	think	VBP	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	the	the	DT	_	6	det
+5	underwater	underwater	JJ	_	6	amod
+6	ruins	ruin	NNS	_	7	nsubj
+7	are	be	VBP	_	2	ccomp
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	different	different	JJ	_	12	amod
+11	ancient	ancient	JJ	_	12	amod
+12	monument	monument	NN	_	8	pobj
+13	,	,	,	_	7	punct
+14	perhaps	perhaps	RB	_	16	advmod
+15	a	a	DT	_	16	det
+16	temple	temple	NN	_	7	dep
+17	that	that	WDT	_	19	nsubj
+18	gradually	gradually	RB	_	19	advmod
+19	sank	sink	VBD	_	16	rcmod
+20	beneath	beneath	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	waves	wave	NNS	_	20	pobj
+23	.	.	.	_	2	punct
+

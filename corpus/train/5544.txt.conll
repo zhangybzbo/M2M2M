@@ -1,0 +1,13 @@
+1	This	this	DT	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	performed	perform	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	illumination	illumination	NN	_	4	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	urethra	urethra	NN	_	6	pobj
+9	with	with	IN	_	3	prep
+10	a	a	DT	_	11	det
+11	candle	candle	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

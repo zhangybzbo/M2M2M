@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	rolled	roll	VBD	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	towel	towel	NN	_	2	dobj
+5	and	and	CC	_	2	cc
+6	dump	dump	VB	_	2	conj
+7	specimens	specimen	NNS	_	6	dobj
+8	into	into	IN	_	6	prep
+9	the	the	DT	_	11	det
+10	pint	pint	NN	_	11	nn
+11	jar	jar	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

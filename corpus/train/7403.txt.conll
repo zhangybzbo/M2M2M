@@ -1,0 +1,12 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	best	best	RB	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	use	use	VB	_	3	xcomp
+6	bold	bold	JJ	_	7	amod
+7	flavors	flavor	NNS	_	5	dobj
+8	in	in	IN	_	5	prep
+9	herb	herb	NN	_	10	nn
+10	butter	butter	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

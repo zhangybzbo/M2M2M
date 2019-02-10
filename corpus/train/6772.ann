@@ -1,0 +1,3 @@
+T1	Term 95 102	workers
+T2	Term 124 133	structure
+R1	Product-Producer Arg1:T2 Arg2:T1

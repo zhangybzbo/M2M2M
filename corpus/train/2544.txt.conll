@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	machine	machine	NN	_	3	nsubj
+3	processes	process	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	blood	blood	NN	_	3	dobj
+6	using	use	VBG	_	3	xcomp
+7	a	a	DT	_	9	det
+8	centrifugal	centrifugal	JJ	_	9	amod
+9	pump	pump	NN	_	6	dobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	12	nsubj
+12	separates	separate	VBZ	_	9	rcmod
+13	the	the	DT	_	14	det
+14	components	component	NNS	_	12	dobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	blood	blood	NN	_	15	pobj
+18	and	and	CC	_	17	cc
+19	the	the	DT	_	20	det
+20	plasma	plasma	NN	_	17	conj
+21	.	.	.	_	3	punct
+

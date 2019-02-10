@@ -1,0 +1,18 @@
+1	In	in	IN	_	9	prep
+2	a	a	DT	_	4	det
+3	preliminary	preliminary	JJ	_	4	amod
+4	investigation	investigation	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	Cheddar	Cheddar	NNP	_	7	nn
+7	cheese	cheese	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	made	make	VBN	_	0	ROOT
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	lactococcal	lactococcal	JJ	_	13	amod
+13	starter	starter	JJ	_	10	pobj
+14	overproducing	overproduce	VBG	_	13	vmod
+15	different	different	JJ	_	16	amod
+16	peptidases	peptidase	NNS	_	14	dobj
+17	.	.	.	_	9	punct
+

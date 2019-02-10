@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj
+2	carried	carry	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	bag	bag	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	condoms	condom	NNS	_	5	pobj
+7	in	in	IN	_	2	prep
+8	it	it	PRP	_	7	pobj
+9	,	,	,	_	2	punct
+10	and	and	CC	_	2	cc
+11	I	I	PRP	_	12	nsubj
+12	gave	give	VBD	_	2	conj
+13	them	they	PRP	_	12	dobj
+14	out	out	RP	_	12	prt
+15	.	.	.	_	2	punct
+

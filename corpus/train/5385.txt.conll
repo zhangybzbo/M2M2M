@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	higher	higher	JJR	_	4	amod
+3	ranking	ranking	JJ	_	4	amod
+4	wolf	wolf	NN	_	8	nsubj
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	right	right	NN	_	5	pobj
+8	shows	show	VBZ	_	0	ROOT
+9	his	he	PRP$	_	10	poss
+10	dominance	dominance	NN	_	8	dobj
+11	by	by	IN	_	8	prep
+12	baring	bare	VBG	_	11	pcomp
+13	his	he	PRP$	_	14	poss
+14	teeth	tooth	NNS	_	12	dobj
+15	and	and	CC	_	12	cc
+16	growling	growl	VBG	_	12	conj
+17	.	.	.	_	8	punct
+

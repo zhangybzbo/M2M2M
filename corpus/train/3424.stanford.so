@@ -1,0 +1,11 @@
+0	51	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="illegal" pos="JJ" amod="t1"
+8	18	tok id="t1" base="overcharge" pos="NN" nsubjpass="t3"
+19	22	tok id="t2" base="be" pos="VBD" auxpass="t3"
+23	29	tok id="t3" base="pass" pos="VBN" ROOT="ROOT"
+30	32	tok id="t4" base="on" pos="IN" prep="t3"
+33	35	tok id="t5" base="to" pos="TO" pcomp="t4"
+36	39	tok id="t6" base="the" pos="DT" det="t7"
+40	49	tok id="t7" base="customer" pos="NNS" pobj="t5"
+50	51	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

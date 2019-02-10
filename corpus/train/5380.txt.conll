@@ -1,0 +1,21 @@
+1	It	it	PRP	_	9	nsubj
+2	is	be	VBZ	_	9	cop
+3	the	the	DT	_	9	det
+4	oldest	oldest	JJS	_	9	amod
+5	and	and	CC	_	4	cc
+6	largest	largest	JJS	_	4	conj
+7	international	international	JJ	_	9	amod
+8	research	research	NN	_	9	nn
+9	consortium	consortium	NN	_	0	ROOT
+10	aimed	aim	VBN	_	9	vmod
+11	at	at	IN	_	10	prep
+12	understanding	understand	VBG	_	11	pcomp
+13	the	the	DT	_	14	det
+14	challenges	challenge	NNS	_	12	dobj
+15	facing	face	VBG	_	14	vmod
+16	the	the	DT	_	19	det
+17	global	global	JJ	_	19	amod
+18	automotive	automotive	JJ	_	19	amod
+19	industry	industry	NN	_	15	dobj
+20	.	.	.	_	9	punct
+

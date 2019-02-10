@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	steering	steer	VBG	_	3	amod
+3	committee	committee	NN	_	4	nsubj
+4	developed	develop	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	protocol	protocol	NN	_	4	dobj
+7	and	and	CC	_	6	cc
+8	consent	consent	NN	_	9	nn
+9	forms	form	NNS	_	6	conj
+10	with	with	IN	_	4	prep
+11	the	the	DT	_	13	det
+12	participating	participate	VBG	_	13	amod
+13	sites	site	NNS	_	10	pobj
+14	and	and	CC	_	4	cc
+15	guided	guide	VBD	_	4	conj
+16	the	the	DT	_	17	det
+17	implementation	implementation	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	trial	trial	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	This	this	DT	_	7	nsubj
+2	is	be	VBZ	_	7	cop
+3	a	a	DT	_	7	det
+4	clear	clear	JJ	_	7	amod
+5	and	and	CC	_	4	cc
+6	concise	concise	JJ	_	4	conj
+7	guide	guide	NN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	work	work	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	one	one	CD	_	11	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	twentieth	twentieth	JJ	_	16	amod
+16	century	century	NN	_	20	poss
+17	's	's	POS	_	16	possessive
+18	most	most	RBS	_	19	advmod
+19	influential	influential	JJ	_	20	amod
+20	thinkers	thinker	NNS	_	13	pobj
+21	.	.	.	_	7	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	seeds	seed	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	blown	blow	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	their	they	PRP$	_	8	poss
+8	fields	field	NNS	_	6	pobj
+9	by	by	IN	_	5	prep
+10	wind	wind	NN	_	9	pobj
+11	or	or	CC	_	5	cc
+12	deposited	deposit	VBN	_	5	conj
+13	by	by	IN	_	12	prep
+14	birds	bird	NNS	_	13	pobj
+15	.	.	.	_	5	punct
+

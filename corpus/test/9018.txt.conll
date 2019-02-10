@@ -1,0 +1,22 @@
+1	Windmills	windmill	NNS	_	2	nsubj
+2	kill	kill	VBP	_	0	ROOT
+3	birds	bird	NNS	_	2	dobj
+4	and	and	CC	_	3	cc
+5	bats	bat	NNS	_	3	conj
+6	,	,	,	_	2	punct
+7	while	while	IN	_	17	mark
+8	soil	soil	NN	_	9	nn
+9	disturbances	disturbance	NNS	_	17	nsubj
+10	required	require	VBN	_	9	vmod
+11	to	to	TO	_	12	aux
+12	build	build	VB	_	10	xcomp
+13	solar	solar	JJ	_	16	amod
+14	and	and	CC	_	13	cc
+15	wind	wind	NN	_	13	conj
+16	arrays	array	NNS	_	12	dobj
+17	lead	lead	VBP	_	2	advcl
+18	to	to	TO	_	17	prep
+19	soil	soil	NN	_	20	nn
+20	erosion	erosion	NN	_	18	pobj
+21	.	.	.	_	2	punct
+

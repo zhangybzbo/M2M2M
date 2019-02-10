@@ -1,0 +1,1 @@
+Newspapers swap content via widgets with the help of the newsgator service .

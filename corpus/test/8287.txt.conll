@@ -1,0 +1,22 @@
+1	There	there	EX	_	2	expl
+2	's	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	stand	stand	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	pink	pink	JJ	_	7	amod
+7	flamingos	flamingo	NNS	_	5	pobj
+8	just	just	RB	_	9	advmod
+9	beyond	beyond	IN	_	4	prep
+10	the	the	DT	_	11	det
+11	mudflats	mudflat	NNS	_	9	pobj
+12	,	,	,	_	11	punct
+13	where	where	WRB	_	16	advmod
+14	the	the	DT	_	15	det
+15	brochure	brochure	NN	_	16	nsubj
+16	warns	warn	VBZ	_	11	rcmod
+17	people	people	NNS	_	16	dobj
+18	not	not	RB	_	19	neg
+19	to	to	TO	_	16	prep
+20	venture	venture	NN	_	19	pobj
+21	.	.	.	_	2	punct
+

@@ -1,0 +1,16 @@
+1	Going	go	VBG	_	0	ROOT
+2	much	much	RB	_	3	advmod
+3	much	much	JJ	_	1	acomp
+4	farther	farther	RBR	_	5	advmod
+5	back	back	RB	_	3	advmod
+6	,	,	,	_	1	punct
+7	ultimately	ultimately	RB	_	10	advmod
+8	the	the	DT	_	9	det
+9	word	word	NN	_	10	nsubj
+10	descended	descend	VBD	_	1	dep
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	Indo-European	indo-european	JJ	_	14	amod
+14	root	root	NN	_	11	pobj
+15	.	.	.	_	1	punct
+

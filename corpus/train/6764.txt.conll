@@ -1,0 +1,16 @@
+1	77793	77793	CD	_	2	num
+2	civilians	civilian	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	arrived	arrive	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	government	government	NN	_	5	pobj
+8	controlled	control	VBD	_	4	dep
+9	areas	area	NNS	_	8	dobj
+10	within	within	IN	_	8	prep
+11	the	the	DT	_	14	det
+12	last	last	JJ	_	14	amod
+13	two	two	CD	_	14	num
+14	days	day	NNS	_	10	pobj
+15	.	.	.	_	4	punct
+

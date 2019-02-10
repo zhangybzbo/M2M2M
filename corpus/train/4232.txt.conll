@@ -1,0 +1,12 @@
+1	Homeless	homeless	JJ	_	2	amod
+2	teenagers	teenager	NNS	_	3	nsubj
+3	return	return	VBP	_	0	ROOT
+4	home	home	NN	_	3	dobj
+5	with	with	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	help	help	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	family	family	NN	_	10	nn
+10	ties	tie	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	Astrophysicists	astrophysicist	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	discovered	discover	VBN	_	0	ROOT
+4	a	a	DT	_	6	det
+5	new	new	JJ	_	6	amod
+6	explanation	explanation	NN	_	3	dobj
+7	for	for	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	early	early	JJ	_	10	amod
+10	composition	composition	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	our	we	PRP$	_	14	poss
+13	solar	solar	JJ	_	14	amod
+14	system	system	NN	_	11	pobj
+15	.	.	.	_	3	punct
+

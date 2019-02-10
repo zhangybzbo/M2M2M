@@ -1,0 +1,16 @@
+1	For	for	IN	_	7	prep
+2	once	once	RB	_	1	pobj
+3	,	,	,	_	7	punct
+4	the	the	DT	_	5	det
+5	aid	aid	NN	_	7	nsubj
+6	is	be	VBZ	_	7	aux
+7	flowing	flow	VBG	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	areas	area	NNS	_	8	pobj
+11	destroyed	destroy	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	typhoon	typhoon	NN	_	12	pobj
+15	.	.	.	_	7	punct
+

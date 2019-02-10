@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	couple	couple	NN	_	3	nsubj
+3	hailed	hail	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	Tezpur	Tezpur	NNP	_	6	nn
+6	town	town	NN	_	4	pobj
+7	in	in	IN	_	6	prep
+8	northern	northern	JJ	_	9	amod
+9	Assam	Assam	NNP	_	7	pobj
+10	.	.	.	_	3	punct
+

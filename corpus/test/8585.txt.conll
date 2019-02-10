@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det
+2	range	range	NN	_	6	nsubjpass
+3	has	have	VBZ	_	6	aux
+4	also	also	RB	_	6	advmod
+5	been	be	VBN	_	6	auxpass
+6	illustrated	illustrate	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	appended	append	VBN	_	10	amod
+10	diagram	diagram	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

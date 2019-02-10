@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det
+2	second	second	JJ	_	4	amod
+3	biggest	biggest	JJS	_	4	amod
+4	problem	problem	NN	_	10	nsubj
+5	for	for	IN	_	4	prep
+6	dogs	dog	NNS	_	5	pobj
+7	and	and	CC	_	6	cc
+8	their	they	PRP$	_	9	poss
+9	teeth	tooth	NNS	_	6	conj
+10	is	be	VBZ	_	0	ROOT
+11	that	that	IN	_	15	mark
+12	hard	hard	JJ	_	13	amod
+13	chews	chew	NNS	_	15	nsubj
+14	can	can	MD	_	15	aux
+15	break	break	VB	_	10	ccomp
+16	the	the	DT	_	17	det
+17	teeth	tooth	NNS	_	15	dobj
+18	.	.	.	_	10	punct
+

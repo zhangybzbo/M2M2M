@@ -1,0 +1,3 @@
+T1	Term 29 39	scientists
+T2	Term 62 73	communities
+R1	Entity-Origin Arg1:T1 Arg2:T2

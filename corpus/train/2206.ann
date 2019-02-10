@@ -1,0 +1,3 @@
+T1	Term 16 22	deaths
+T2	Term 68 77	physician
+R1	Cause-Effect Arg1:T2 Arg2:T1

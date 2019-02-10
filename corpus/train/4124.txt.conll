@@ -1,0 +1,18 @@
+1	Licenses	licens	NNS	_	5	nsubj
+2	and	and	CC	_	1	cc
+3	Permits	permit	NNS	_	1	conj
+4	are	be	VBP	_	5	cop
+5	revenues	revenue	NNS	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	selling	selling	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	vendor	vendor	NN	_	13	nn
+11	and	and	CC	_	10	cc
+12	dog	dog	NN	_	10	conj
+13	licenses	licens	NNS	_	9	pobj
+14	and	and	CC	_	13	cc
+15	other	other	JJ	_	16	amod
+16	items	item	NNS	_	13	conj
+17	.	.	.	_	5	punct
+

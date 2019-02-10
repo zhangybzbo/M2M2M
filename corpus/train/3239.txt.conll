@@ -1,0 +1,22 @@
+1	After	after	IN	_	4	prep
+2	the	the	DT	_	3	det
+3	snake	snake	NN	_	1	pobj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	jar	jar	NN	_	5	pobj
+8	for	for	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	few	few	JJ	_	11	amod
+11	minutes	minute	NNS	_	8	pobj
+12	,	,	,	_	4	punct
+13	it	it	PRP	_	14	nsubj
+14	ceased	cease	VBD	_	4	parataxis
+15	the	the	DT	_	17	det
+16	letisimulatory	letisimulatory	JJ	_	17	amod
+17	posturing	posturing	NN	_	14	dobj
+18	and	and	CC	_	14	cc
+19	appeared	appear	VBD	_	14	conj
+20	normal	normal	JJ	_	19	acomp
+21	.	.	.	_	4	punct
+

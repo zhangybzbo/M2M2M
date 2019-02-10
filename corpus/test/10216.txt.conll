@@ -1,0 +1,14 @@
+1	For	for	IN	_	8	prep
+2	20	20	CD	_	3	num
+3	years	year	NNS	_	1	pobj
+4	the	the	DT	_	5	det
+5	magazine	magazine	NN	_	8	nsubjpass
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	dedicated	dedicate	VBN	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	American	american	JJ	_	12	amod
+11	old-time	old-time	JJ	_	12	amod
+12	music	music	NN	_	9	pobj
+13	.	.	.	_	8	punct
+

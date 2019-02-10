@@ -1,0 +1,20 @@
+1	The	the	DT	_	7	det
+2	first	first	JJ	_	7	amod
+3	British	british	JJ	_	7	amod
+4	steam	steam	NN	_	7	nn
+5	powered	power	VBN	_	7	amod
+6	vibrator	vibrator	NN	_	7	nn
+7	dates	date	NNS	_	0	ROOT
+8	back	back	RB	_	7	advmod
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	12	det
+11	early	early	JJ	_	12	amod
+12	1880s	1880	NNS	_	9	pobj
+13	,	,	,	_	7	punct
+14	developed	develop	VBN	_	7	vmod
+15	by	by	IN	_	14	prep
+16	an	a	DT	_	18	det
+17	American	american	JJ	_	18	amod
+18	physician	physician	NN	_	15	pobj
+19	.	.	.	_	7	punct
+

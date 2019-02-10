@@ -1,0 +1,12 @@
+1	Most	most	JJS	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	steam	steam	NN	_	2	pobj
+5	comes	come	VBZ	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	volcano	volcano	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	magma	magma	NN	_	6	pobj
+11	.	.	.	_	5	punct
+

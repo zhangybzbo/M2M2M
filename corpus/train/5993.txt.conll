@@ -1,0 +1,19 @@
+1	Brushing	brush	VBG	_	14	vmod
+2	the	the	DT	_	3	det
+3	air	air	NN	_	1	dobj
+4	with	with	IN	_	1	prep
+5	both	both	CC	_	6	preconj
+6	hands	hand	NNS	_	4	pobj
+7	and	and	CC	_	6	cc
+8	coughing	cough	VBG	_	6	conj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	dust	dust	NN	_	9	pobj
+12	,	,	,	_	14	punct
+13	it	it	PRP	_	14	nsubj
+14	settled	settle	VBD	_	0	ROOT
+15	on	on	IN	_	14	prep
+16	both	both	DT	_	17	det
+17	vehicles	vehicle	NNS	_	15	pobj
+18	.	.	.	_	14	punct
+

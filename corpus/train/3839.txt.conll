@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	stomach	stomach	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	small	small	JJ	_	6	amod
+6	amount	amount	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	bile-stained	bile-stained	JJ	_	10	amod
+9	acid	acid	NN	_	10	nn
+10	fluid	fluid	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

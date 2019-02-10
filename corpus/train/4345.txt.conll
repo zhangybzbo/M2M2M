@@ -1,0 +1,22 @@
+1	For	for	IN	_	12	prep
+2	the	the	DT	_	4	det
+3	zillionth	zillionth	NN	_	4	nn
+4	time	time	NN	_	1	pobj
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	Hindi	Hindi	NNP	_	8	nn
+8	film	film	NN	_	5	pobj
+9	,	,	,	_	12	punct
+10	a	a	DT	_	11	det
+11	bride	bride	NN	_	12	nsubj
+12	runs	run	VBZ	_	0	ROOT
+13	away	away	RB	_	12	advmod
+14	from	from	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	pheras	pheras	FW	_	14	pobj
+17	on	on	IN	_	16	prep
+18	her	she	PRP$	_	20	poss
+19	wedding	wedding	NN	_	20	nn
+20	day	day	NN	_	17	pobj
+21	.	.	.	_	12	punct
+

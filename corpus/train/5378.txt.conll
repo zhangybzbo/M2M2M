@@ -1,0 +1,14 @@
+1	Last	last	JJ	_	2	amod
+2	week	week	NN	_	6	tmod
+3	the	the	DT	_	4	det
+4	city	city	NN	_	6	nsubj
+5	had	have	VBD	_	6	aux
+6	patched	patch	VBN	_	0	ROOT
+7	up	up	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	offending	offend	VBG	_	10	amod
+10	section	section	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	roadway	roadway	NN	_	11	pobj
+13	.	.	.	_	6	punct
+

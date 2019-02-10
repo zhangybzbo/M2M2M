@@ -1,0 +1,12 @@
+0	77	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="194" pos="CD" num="t2"
+4	13	tok id="t1" base="bulgarian" pos="JJ" amod="t2"
+14	22	tok id="t2" base="child" pos="NNS" nsubj="t3"
+23	35	tok id="t3" base="participate" pos="VBD" ROOT="ROOT"
+36	38	tok id="t4" base="in" pos="IN" prep="t3"
+39	42	tok id="t5" base="the" pos="DT" det="t8"
+43	56	tok id="t6" base="international" pos="JJ" amod="t8"
+57	63	tok id="t7" base="school" pos="NN" nn="t8"
+64	75	tok id="t8" base="competition" pos="NN" pobj="t4"
+76	77	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,15 @@
+1	38	38	CD	_	2	num
+2	%	%	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	world	world	NN	_	9	poss
+6	's	's	POS	_	5	possessive
+7	generated	generate	VBN	_	9	amod
+8	electrical	electrical	JJ	_	9	amod
+9	energy	energy	NN	_	3	pobj
+10	is	be	VBZ	_	11	auxpass
+11	gained	gain	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	coal	coal	NN	_	12	pobj
+14	.	.	.	_	11	punct
+

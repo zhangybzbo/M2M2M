@@ -1,0 +1,25 @@
+1	After	after	IN	_	7	prep
+2	soaking	soak	VBG	_	1	pcomp
+3	them	they	PRP	_	2	dobj
+4	overnight	overnight	RB	_	2	advmod
+5	,	,	,	_	7	punct
+6	we	we	PRP	_	7	nsubj
+7	slipped	slip	VBD	_	0	ROOT
+8	the	the	DT	_	9	det
+9	beans	bean	NNS	_	7	dobj
+10	into	into	IN	_	7	prep
+11	a	a	DT	_	15	det
+12	fairly	fairly	RB	_	13	advmod
+13	wide-necked	wide-necked	JJ	_	15	amod
+14	wine	wine	NN	_	15	nn
+15	flask	flask	NN	_	10	pobj
+16	that	that	WDT	_	19	nsubjpass
+17	's	be	VBZ	_	19	auxpass
+18	been	be	VBN	_	19	auxpass
+19	peeled	peel	VBN	_	15	rcmod
+20	of	of	IN	_	19	prep
+21	its	its	PRP$	_	23	poss
+22	straw	straw	NN	_	23	nn
+23	wrapper	wrapper	NN	_	20	pobj
+24	.	.	.	_	7	punct
+

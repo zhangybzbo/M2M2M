@@ -1,0 +1,13 @@
+0	62	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	9	tok id="t1" base="bacon" pos="NN" nn="t2"
+10	21	tok id="t2" base="manufacture" pos="NN" nsubj="t7"
+22	24	tok id="t3" base="be" pos="VBZ" cop="t7"
+25	28	tok id="t4" base="the" pos="DT" det="t7"
+29	33	tok id="t5" base="74th" pos="JJ" amod="t7"
+34	42	tok id="t6" base="greatest" pos="JJS" amod="t7"
+43	49	tok id="t7" base="export" pos="NN" ROOT="ROOT"
+50	52	tok id="t8" base="of" pos="IN" prep="t7"
+53	60	tok id="t9" base="Denmark" pos="NNP" pobj="t8"
+61	62	tok id="t10" base="-PERIOD-" pos="." punct="t7"
+

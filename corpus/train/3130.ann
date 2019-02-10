@@ -1,0 +1,3 @@
+T1	Term 75 79	meal
+T2	Term 94 98	wife
+R1	Product-Producer Arg1:T1 Arg2:T2

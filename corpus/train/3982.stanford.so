@@ -1,0 +1,10 @@
+0	42	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	9	tok id="t1" base="battery" pos="NN" nsubj="t4"
+10	12	tok id="t2" base="of" pos="IN" prep="t1"
+13	23	tok id="t3" base="barracuda" pos="NNS" pobj="t2"
+24	30	tok id="t4" base="rely" pos="VBZ" ROOT="ROOT"
+31	33	tok id="t5" base="on" pos="IN" prep="t4"
+34	40	tok id="t6" base="ambush" pos="NN" pobj="t5"
+41	42	tok id="t7" base="-PERIOD-" pos="." punct="t4"
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	gourmet	gourmet	NN	_	3	nn
+3	cuisine	cuisine	NN	_	9	nsubjpass
+4	seen	see	VBN	_	3	vmod
+5	throughout	throughout	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	film	film	NN	_	5	pobj
+8	was	be	VBD	_	9	auxpass
+9	prepared	prepare	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	chefs	chef	NNS	_	10	pobj
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	Food	Food	NNP	_	15	nn
+15	Network	Network	NNP	_	12	pobj
+16	.	.	.	_	9	punct
+

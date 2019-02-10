@@ -1,0 +1,16 @@
+1	Bernie	Bernie	NNP	_	3	nn
+2	the	the	DT	_	3	det
+3	barber	barber	NN	_	4	nsubj
+4	downed	down	VBD	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	scissors	scissors	NNS	_	4	dobj
+7	,	,	,	_	4	punct
+8	leaving	leave	VBG	_	4	vmod
+9	the	the	DT	_	11	det
+10	final	final	JJ	_	11	amod
+11	triangle	triangle	NN	_	8	dobj
+12	of	of	IN	_	11	prep
+13	hair	hair	NN	_	14	nn
+14	uncut	uncut	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

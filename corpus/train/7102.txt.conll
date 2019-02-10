@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	statue	statue	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	an	a	DT	_	6	det
+5	armless	armless	JJ	_	6	amod
+6	depiction	depiction	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	young	young	JJ	_	10	amod
+10	boy	boy	NN	_	7	pobj
+11	and	and	CC	_	6	cc
+12	was	be	VBD	_	13	cop
+13	first	first	JJ	_	14	dep
+14	acknowledged	acknowledge	VBD	_	6	conj
+15	as	as	IN	_	14	prep
+16	an	a	DT	_	18	det
+17	early	early	JJ	_	18	amod
+18	work	work	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	Michelangelo	Michelangelo	NNP	_	19	pobj
+21	in	in	IN	_	18	prep
+22	1997	1997	CD	_	21	pobj
+23	.	.	.	_	6	punct
+

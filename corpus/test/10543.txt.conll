@@ -1,0 +1,17 @@
+1	The	the	DT	_	4	det
+2	full	full	JJ	_	4	amod
+3	press	press	NN	_	4	nn
+4	release	release	NN	_	9	nsubjpass
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	studio	studio	NN	_	5	pobj
+8	is	be	VBZ	_	9	auxpass
+9	pasted	paste	VBN	_	0	ROOT
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	bottom	bottom	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	this	this	DT	_	15	det
+15	post	post	NN	_	13	pobj
+16	.	.	.	_	9	punct
+

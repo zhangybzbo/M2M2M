@@ -1,0 +1,18 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	wedge	wedge	NN	_	2	nsubj
+5	or	or	CC	_	4	cc
+6	a	a	DT	_	7	det
+7	sownder	sownder	NN	_	4	conj
+8	of	of	IN	_	7	prep
+9	swans	swan	NNS	_	8	pobj
+10	flying	fly	VBG	_	9	vmod
+11	north	north	RB	_	10	advmod
+12	for	for	IN	_	10	prep
+13	the	the	DT	_	14	det
+14	spring	spring	NN	_	16	nn
+15	breeding	breed	VBG	_	16	amod
+16	season	season	NN	_	12	pobj
+17	.	.	.	_	2	punct
+

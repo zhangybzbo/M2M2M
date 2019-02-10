@@ -1,0 +1,18 @@
+1	It	it	PRP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	magazine	magazine	NN	_	6	nn
+5	style	style	NN	_	6	nn
+6	journal	journal	NN	_	0	ROOT
+7	that	that	WDT	_	8	nsubj
+8	publishes	publish	VBZ	_	6	rcmod
+9	full-length	full-length	JJ	_	11	amod
+10	research	research	NN	_	11	nn
+11	papers	papers	NNS	_	8	dobj
+12	in	in	IN	_	8	prep
+13	all	all	DT	_	14	det
+14	disciplines	discipline	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	science	science	NN	_	15	pobj
+17	.	.	.	_	6	punct
+

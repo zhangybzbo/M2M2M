@@ -1,0 +1,14 @@
+1	Tom	Tom	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	prominient	prominient	JJ	_	4	amod
+4	selection	selection	NN	_	9	nsubj
+5	of	of	IN	_	4	prep
+6	various	various	JJ	_	8	amod
+7	rye	rye	NN	_	8	nn
+8	spirits	spirit	NNS	_	5	pobj
+9	wins	win	VBZ	_	0	ROOT
+10	him	he	PRP	_	11	nsubj
+11	kudos	kudos	NNS	_	9	ccomp
+12	today	today	NN	_	11	tmod
+13	.	.	.	_	9	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	group	group	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	thrown	throw	VBN	_	0	ROOT
+5	together	together	RB	_	4	advmod
+6	a	a	DT	_	9	det
+7	neat	neat	JJ	_	9	amod
+8	prototype	prototype	NN	_	9	nn
+9	device	device	NN	_	4	dobj
+10	that	that	WDT	_	15	nsubj
+11	could	could	MD	_	15	aux
+12	possibly	possibly	RB	_	15	advmod
+13	be	be	VB	_	15	cop
+14	the	the	DT	_	15	det
+15	future	future	NN	_	9	rcmod
+16	of	of	IN	_	15	prep
+17	casinos	casino	NNS	_	16	pobj
+18	.	.	.	_	4	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	ride-on	ride-on	JJ	_	4	amod
+3	boat	boat	NN	_	4	nn
+4	tiller	tiller	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	developed	develop	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	engineers	engineer	NNS	_	11	nn
+9	Arnold	Arnold	NNP	_	11	nn
+10	S.	S.	NNP	_	11	nn
+11	Juliano	Juliano	NNP	_	7	pobj
+12	and	and	CC	_	11	cc
+13	Dr.	Dr.	NNP	_	16	nn
+14	Eulito	Eulito	NNP	_	16	nn
+15	U.	U.	NNP	_	16	nn
+16	Bautista	Bautista	NNP	_	11	conj
+17	.	.	.	_	6	punct
+

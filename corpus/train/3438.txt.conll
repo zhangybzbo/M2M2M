@@ -1,0 +1,11 @@
+1	Pressures	pressure	NNS	_	2	nsubj
+2	occur	occur	VBP	_	0	ROOT
+3	throughout	throughout	IN	_	2	prep
+4	life	life	NN	_	3	pobj
+5	and	and	CC	_	4	cc
+6	those	those	DT	_	7	det
+7	pressures	pressure	NNS	_	4	conj
+8	cause	cause	VBP	_	2	dep
+9	stress	stress	NN	_	8	dobj
+10	.	.	.	_	2	punct
+

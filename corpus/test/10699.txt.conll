@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	data	datum	NNS	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	still	still	RB	_	5	advmod
+5	preliminary	preliminary	JJ	_	0	ROOT
+6	and	and	CC	_	5	cc
+7	comes	come	VBZ	_	5	conj
+8	with	with	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	caveats	caveat	NNS	_	8	pobj
+11	outlined	outline	VBN	_	10	vmod
+12	in	in	IN	_	11	prep
+13	Mark	Mark	NNP	_	16	poss
+14	's	's	POS	_	13	possessive
+15	original	original	JJ	_	16	amod
+16	e-mail	e-mail	NN	_	12	pobj
+17	.	.	.	_	5	punct
+

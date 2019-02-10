@@ -1,0 +1,23 @@
+1	One	one	CD	_	8	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	7	det
+4	Grand	Grand	NNP	_	7	nn
+5	Canyon	Canyon	NNP	_	7	nn
+6	tour	tour	NN	_	7	nn
+7	guides	guide	NNS	_	2	pobj
+8	has	have	VBZ	_	0	ROOT
+9	a	a	DT	_	10	det
+10	barren	barren	JJ	_	8	dobj
+11	of	of	IN	_	10	prep
+12	mules	mule	NNS	_	11	pobj
+13	for	for	IN	_	17	mark
+14	the	the	DT	_	15	det
+15	tourists	tourist	NNS	_	17	nsubj
+16	to	to	TO	_	17	aux
+17	ride	ride	VB	_	12	rcmod
+18	down	down	RP	_	17	prt
+19	into	into	IN	_	17	prep
+20	the	the	DT	_	21	det
+21	Canyon	Canyon	NNP	_	19	pobj
+22	.	.	.	_	8	punct
+

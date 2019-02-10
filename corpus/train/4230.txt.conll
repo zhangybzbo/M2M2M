@@ -1,0 +1,21 @@
+1	Another	another	DT	_	2	det
+2	product	product	NN	_	9	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	factory	factory	NN	_	3	pobj
+6	was	be	VBD	_	9	cop
+7	the	the	DT	_	9	det
+8	Scandinavian	scandinavian	JJ	_	9	amod
+9	padlock	padlock	NN	_	0	ROOT
+10	-LRB-	-lrb-	-LRB-	_	13	punct
+11	``	``	``	_	13	punct
+12	Polhem	Polhem	NNP	_	13	nn
+13	locks	lock	NNS	_	9	dep
+14	''	''	''	_	13	punct
+15	,	,	,	_	13	punct
+16	Swedish	Swedish	NNP	_	13	appos
+17	:	:	:	_	16	punct
+18	Polhemslas	Polhemslas	NNP	_	16	dep
+19	-RRB-	-rrb-	-RRB-	_	13	punct
+20	.	.	.	_	9	punct
+

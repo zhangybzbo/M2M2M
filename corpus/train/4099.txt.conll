@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	knot	knot	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	struggling	struggle	VBG	_	5	amod
+5	frogs	frog	NNS	_	3	pobj
+6	stays	stay	VBZ	_	0	ROOT
+7	flopping	flop	VBG	_	6	xcomp
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	same	same	JJ	_	11	amod
+11	spot	spot	NN	_	8	pobj
+12	on	on	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	pond	pond	NN	_	15	nn
+15	surface	surface	NN	_	12	pobj
+16	.	.	.	_	6	punct
+

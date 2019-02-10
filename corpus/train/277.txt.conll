@@ -1,0 +1,21 @@
+1	Mayans	Mayans	NNPS	_	2	nsubj
+2	charted	chart	VBD	_	0	ROOT
+3	Venus	Venus	NNP	_	5	poss
+4	's	's	POS	_	3	possessive
+5	motion	motion	NN	_	2	dobj
+6	across	across	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	sky	sky	NN	_	6	pobj
+9	,	,	,	_	2	punct
+10	poured	pour	VBD	_	2	conj
+11	chocolate	chocolate	NN	_	10	dobj
+12	into	into	IN	_	10	prep
+13	jars	jar	NNS	_	12	pobj
+14	and	and	CC	_	2	cc
+15	interred	inter	VBD	_	2	conj
+16	them	they	PRP	_	15	dobj
+17	with	with	IN	_	15	prep
+18	the	the	DT	_	19	det
+19	dead	dead	JJ	_	17	pobj
+20	.	.	.	_	2	punct
+

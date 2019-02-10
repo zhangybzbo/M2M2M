@@ -1,0 +1,24 @@
+1	Mrs.	Mrs.	NNP	_	2	nn
+2	Bissell	Bissell	NNP	_	4	nsubj
+3	then	then	RB	_	4	advmod
+4	gathered	gather	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	parts	part	NNS	_	4	dobj
+7	in	in	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	clothes	clothes	NNS	_	10	nn
+10	basket	basket	NN	_	7	pobj
+11	and	and	CC	_	4	cc
+12	took	take	VBD	_	4	conj
+13	them	they	PRP	_	12	dobj
+14	back	back	RB	_	12	advmod
+15	to	to	TO	_	14	prep
+16	a	a	DT	_	17	det
+17	room	room	NN	_	15	pobj
+18	above	above	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	store	store	NN	_	18	pobj
+21	for	for	IN	_	20	prep
+22	assembly	assembly	NN	_	21	pobj
+23	.	.	.	_	4	punct
+

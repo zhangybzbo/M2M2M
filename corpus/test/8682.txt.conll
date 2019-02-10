@@ -1,0 +1,13 @@
+1	Patriarch	patriarch	NN	_	2	nn
+2	Cerularius	cerularius	NN	_	4	nsubj
+3	eventually	eventually	RB	_	4	advmod
+4	wrote	write	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	tract	tract	NN	_	4	dobj
+7	against	against	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	western	western	JJ	_	11	amod
+10	liturgical	liturgical	JJ	_	11	amod
+11	practices	practice	NNS	_	7	pobj
+12	.	.	.	_	4	punct
+

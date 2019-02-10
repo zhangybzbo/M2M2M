@@ -1,0 +1,21 @@
+1	Just	just	RB	_	2	advmod
+2	like	like	IN	_	19	prep
+3	consulting	consult	VBG	_	2	pcomp
+4	a	a	DT	_	5	det
+5	cookbook	cookbook	NN	_	3	dobj
+6	,	,	,	_	19	punct
+7	starting	start	VBG	_	19	csubj
+8	out	out	RP	_	7	prt
+9	by	by	IN	_	7	prep
+10	using	use	VBG	_	9	pcomp
+11	a	a	DT	_	12	det
+12	recipe	recipe	NN	_	10	dobj
+13	from	from	IN	_	10	prep
+14	a	a	DT	_	15	det
+15	book	book	NN	_	13	pobj
+16	or	or	CC	_	15	cc
+17	website	website	NN	_	15	conj
+18	is	be	VBZ	_	19	cop
+19	great	great	JJ	_	0	ROOT
+20	.	.	.	_	19	punct
+

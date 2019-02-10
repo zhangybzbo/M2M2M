@@ -1,0 +1,26 @@
+1	Comprehensive	comprehensive	JJ	_	2	amod
+2	notes	note	NNS	_	3	nsubj
+3	survey	survey	VBP	_	0	ROOT
+4	the	the	DT	_	6	det
+5	current	current	JJ	_	6	amod
+6	state	state	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	law	law	NN	_	7	pobj
+10	,	,	,	_	3	punct
+11	raise	raise	VB	_	3	conj
+12	questions	question	NNS	_	11	dobj
+13	for	for	IN	_	12	prep
+14	class	class	NN	_	15	nn
+15	discussion	discussion	NN	_	13	pobj
+16	,	,	,	_	3	punct
+17	and	and	CC	_	3	cc
+18	address	address	VB	_	3	conj
+19	the	the	DT	_	21	det
+20	continuing	continue	VBG	_	21	amod
+21	controversies	controversy	NNS	_	18	dobj
+22	in	in	IN	_	21	prep
+23	this	this	DT	_	24	det
+24	field	field	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+0	48	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="drug" pos="NN" nsubjpass="t3"
+9	12	tok id="t2" base="be" pos="VBD" auxpass="t3"
+13	16	tok id="t3" base="put" pos="VBN" ROOT="ROOT"
+17	23	tok id="t4" base="inside" pos="IN" prep="t3"
+24	25	tok id="t5" base="a" pos="DT" det="t6"
+26	33	tok id="t6" base="capsule" pos="NN" pobj="t4"
+34	37	tok id="t7" base="for" pos="IN" prep="t3"
+38	39	tok id="t8" base="a" pos="DT" det="t9"
+40	46	tok id="t9" base="reason" pos="NN" pobj="t7"
+47	48	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

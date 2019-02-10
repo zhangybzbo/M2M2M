@@ -1,0 +1,11 @@
+0	61	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="treatment" pos="NN" nsubj="t2"
+14	22	tok id="t2" base="include" pos="VBZ" ROOT="ROOT"
+23	25	tok id="t3" base="a" pos="DT" det="t5"
+26	38	tok id="t4" base="aromatherapy" pos="JJ" amod="t5"
+39	43	tok id="t5" base="mask" pos="NN" dobj="t2"
+44	47	tok id="t6" base="and" pos="CC" cc="t5"
+48	59	tok id="t7" base="moisturizer" pos="NN" conj="t5"
+60	61	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

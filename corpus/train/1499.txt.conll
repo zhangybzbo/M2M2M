@@ -1,0 +1,19 @@
+1	It	it	PRP	_	2	nsubj
+2	utilized	utilize	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	critical	critical	JJ	_	5	amod
+5	eye	eye	NN	_	2	dobj
+6	and	and	CC	_	5	cc
+7	free	free	JJ	_	8	amod
+8	inquiry	inquiry	NN	_	5	conj
+9	into	into	IN	_	2	prep
+10	the	the	DT	_	11	det
+11	conditions	condition	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	life	life	NN	_	12	pobj
+14	and	and	CC	_	13	cc
+15	issues	issue	NNS	_	13	conj
+16	of	of	IN	_	13	prep
+17	morality	morality	NN	_	16	pobj
+18	.	.	.	_	2	punct
+

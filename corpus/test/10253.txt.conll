@@ -1,0 +1,25 @@
+1	Steroid	steroid	NN	_	2	nn
+2	Nation	nation	NN	_	9	nsubj
+3	-LRB-	-lrb-	-LRB-	_	4	punct
+4	TM	tm	NN	_	2	appos
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	is	be	VBZ	_	9	cop
+7	an	a	DT	_	9	det
+8	online	online	JJ	_	9	amod
+9	journal	journal	NN	_	0	ROOT
+10	looking	look	VBG	_	9	vmod
+11	at	at	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	use	use	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	anabolic	anabolic	JJ	_	16	amod
+16	steroids	steroid	NNS	_	14	pobj
+17	in	in	IN	_	16	prep
+18	sports	sport	NNS	_	17	pobj
+19	,	,	,	_	18	punct
+20	youth	youth	NN	_	18	conj
+21	,	,	,	_	18	punct
+22	and	and	CC	_	18	cc
+23	society	society	NN	_	18	conj
+24	.	.	.	_	9	punct
+

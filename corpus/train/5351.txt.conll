@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	point	point	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	his	he	PRP$	_	6	poss
+6	statement	statement	NN	_	4	pobj
+7	has	have	VBZ	_	0	ROOT
+8	relation	relation	NN	_	7	dobj
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	11	det
+11	house	house	NN	_	9	pobj
+12	.	.	.	_	7	punct
+

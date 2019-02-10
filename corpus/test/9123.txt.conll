@@ -1,0 +1,26 @@
+1	I	I	PRP	_	3	nsubj
+2	first	first	RB	_	3	advmod
+3	became	become	VBD	_	0	ROOT
+4	acquainted	acquaint	VBN	_	3	acomp
+5	with	with	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	book	book	NN	_	5	pobj
+8	through	through	IN	_	4	prep
+9	an	a	DT	_	11	det
+10	audio	audio	JJ	_	11	amod
+11	book	book	NN	_	8	pobj
+12	I	I	PRP	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	given	give	VBN	_	11	rcmod
+15	by	by	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	dear	dear	RB	_	18	advmod
+18	friend	friend	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	mine	mine	NN	_	19	pobj
+21	a	a	DT	_	23	det
+22	few	few	JJ	_	23	amod
+23	years	year	NNS	_	24	npadvmod
+24	ago	ago	RB	_	14	advmod
+25	.	.	.	_	3	punct
+

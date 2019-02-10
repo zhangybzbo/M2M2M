@@ -1,0 +1,21 @@
+1	Diatoms	diatom	NNS	_	2	nsubj
+2	have	have	VBP	_	15	csubj
+3	an	a	DT	_	5	det
+4	external	external	JJ	_	5	amod
+5	skeleton	skeleton	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	silica	silica	NN	_	6	pobj
+8	and	and	CC	_	7	cc
+9	silicon	silicon	NN	_	7	conj
+10	may	may	MD	_	15	aux
+11	therefore	therefore	RB	_	15	advmod
+12	be	be	VB	_	15	cop
+13	a	a	DT	_	15	det
+14	limiting	limit	VBG	_	15	amod
+15	element	element	NN	_	0	ROOT
+16	to	to	TO	_	15	prep
+17	diatom	diatom	JJ	_	19	amod
+18	population	population	NN	_	19	nn
+19	growth	growth	NN	_	16	pobj
+20	.	.	.	_	15	punct
+

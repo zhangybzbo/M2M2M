@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	7	nsubj
+3	and	and	CC	_	2	cc
+4	some	some	DT	_	6	det
+5	private	private	JJ	_	6	amod
+6	companies	company	NNS	_	2	conj
+7	hold	hold	VBP	_	0	ROOT
+8	stakes	stake	NNS	_	7	dobj
+9	in	in	IN	_	7	prep
+10	this	this	DT	_	12	det
+11	export	export	NN	_	12	nn
+12	company	company	NN	_	9	pobj
+13	.	.	.	_	7	punct
+

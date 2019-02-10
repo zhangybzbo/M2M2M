@@ -1,0 +1,14 @@
+1	However	however	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	there	there	EX	_	4	expl
+4	are	be	VBP	_	0	ROOT
+5	fish	fish	NN	_	4	nsubj
+6	with	with	IN	_	5	prep
+7	lungs	lung	NNS	_	6	pobj
+8	and	and	CC	_	7	cc
+9	fish	fish	NN	_	7	conj
+10	without	without	IN	_	4	prep
+11	swim	swim	VBP	_	10	pcomp
+12	bladders	bladder	NNS	_	11	dobj
+13	.	.	.	_	4	punct
+

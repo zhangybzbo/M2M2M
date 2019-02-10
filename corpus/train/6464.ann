@@ -1,0 +1,3 @@
+T1	Term 28 34	coffee
+T2	Term 42 51	glass cup
+R1	Entity-Destination Arg1:T1 Arg2:T2

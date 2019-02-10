@@ -1,0 +1,3 @@
+T1	Term 88 96	riffraff
+T2	Term 110 121	mercenaries
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,27 @@
+1	One	one	CD	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	nicest	nicest	JJS	_	5	amod
+5	ways	way	NNS	_	2	pobj
+6	to	to	TO	_	7	aux
+7	spend	spend	VB	_	5	vmod
+8	an	a	DT	_	9	det
+9	afternoon	afternoon	NN	_	7	dobj
+10	anywhere	anywhere	RB	_	7	advmod
+11	is	be	VBZ	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	take	take	VB	_	11	xcomp
+14	a	a	DT	_	15	det
+15	boat	boat	NN	_	13	dobj
+16	from	from	IN	_	13	prep
+17	the	the	DT	_	18	det
+18	port	port	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	Ouchy	Ouchy	NNP	_	19	pobj
+21	on	on	IN	_	13	prep
+22	the	the	DT	_	23	det
+23	Lakefront	Lakefront	NNP	_	21	pobj
+24	of	of	IN	_	23	prep
+25	Lausanne	Lausanne	NNP	_	24	pobj
+26	.	.	.	_	11	punct
+

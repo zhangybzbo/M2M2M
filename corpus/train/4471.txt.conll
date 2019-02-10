@@ -1,0 +1,17 @@
+1	That	that	DT	_	2	det
+2	club	club	NN	_	3	nsubj
+3	cost	cost	VBD	_	0	ROOT
+4	him	he	PRP	_	3	dobj
+5	as	as	IN	_	7	mark
+6	he	he	PRP	_	7	nsubj
+7	put	put	VBD	_	3	advcl
+8	a	a	DT	_	9	det
+9	shot	shoot	VBN	_	7	dobj
+10	into	into	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	bunker	bunker	NN	_	10	pobj
+13	on	on	IN	_	12	prep
+14	hole	hole	NN	_	13	pobj
+15	13	13	CD	_	14	num
+16	.	.	.	_	3	punct
+

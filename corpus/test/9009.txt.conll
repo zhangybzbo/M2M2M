@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	innovative	innovative	JJ	_	3	amod
+3	techniques	technique	NNS	_	4	nsubj
+4	consist	consist	VBP	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	plantation	plantation	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	appropriate	appropriate	JJ	_	10	amod
+9	horticultural	horticultural	JJ	_	10	amod
+10	crops	crop	NNS	_	7	pobj
+11	,	,	,	_	10	punct
+12	fodder	fodder	NN	_	13	nn
+13	trees	tree	NNS	_	10	conj
+14	and	and	CC	_	10	cc
+15	medicinal	medicinal	JJ	_	16	amod
+16	plants	plant	NNS	_	10	conj
+17	along	along	IN	_	4	prep
+18	with	with	IN	_	17	pcomp
+19	micro-irrigation	micro-irrigation	NN	_	20	nn
+20	facilities	facility	NNS	_	18	pobj
+21	.	.	.	_	4	punct
+

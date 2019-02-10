@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det
+2	bird	bird	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	touching	touch	VBG	_	0	ROOT
+5	the	the	DT	_	6	det
+6	sun	sun	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	his	he	PRP$	_	9	poss
+9	wing	wing	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

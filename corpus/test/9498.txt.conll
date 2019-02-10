@@ -1,0 +1,16 @@
+1	A	a	DT	_	2	det
+2	reconstruction	reconstruction	NN	_	6	nsubj
+3	drawing	draw	VBG	_	2	vmod
+4	from	from	IN	_	3	prep
+5	1954	1954	CD	_	4	pobj
+6	shows	show	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	man	man	NN	_	6	dobj
+9	wearing	wear	VBG	_	8	vmod
+10	the	the	DT	_	11	det
+11	Cape	Cape	NNP	_	9	dobj
+12	over	over	IN	_	9	prep
+13	his	he	PRP$	_	14	poss
+14	shoulders	shoulder	NNS	_	12	pobj
+15	.	.	.	_	6	punct
+

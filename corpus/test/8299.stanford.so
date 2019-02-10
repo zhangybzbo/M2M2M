@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="we" pos="PRP$" poss="t1"
+4	9	tok id="t1" base="staff" pos="NN" nsubj="t3"
+10	13	tok id="t2" base="have" pos="VBZ" aux="t3"
+14	24	tok id="t3" base="approach" pos="VBN" ROOT="ROOT"
+25	29	tok id="t4" base="many" pos="JJ" amod="t5"
+30	36	tok id="t5" base="people" pos="NNS" dobj="t3"
+37	40	tok id="t6" base="for" pos="IN" prep="t5"
+41	44	tok id="t7" base="the" pos="DT" det="t9"
+45	52	tok id="t8" base="product" pos="NN" nn="t9"
+53	59	tok id="t9" base="survey" pos="NN" pobj="t6"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

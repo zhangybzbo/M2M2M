@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	jelly	jelly	NN	_	7	nsubj
+3	inside	inside	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	doughnut	doughnut	NN	_	3	pobj
+6	is	be	VBZ	_	7	aux
+7	scalding	scald	VBG	_	0	ROOT
+8	while	while	IN	_	13	mark
+9	the	the	DT	_	10	det
+10	pastry	pastry	NN	_	13	nsubj
+11	is	be	VBZ	_	13	cop
+12	only	only	RB	_	13	advmod
+13	warm	warm	JJ	_	7	advcl
+14	.	.	.	_	7	punct
+

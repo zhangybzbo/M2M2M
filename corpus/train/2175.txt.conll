@@ -1,0 +1,21 @@
+1	Uncooked	uncooked	JJ	_	2	amod
+2	steak	steak	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	placed	place	VBN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	top	top	JJ	_	8	amod
+8	shelf	shelf	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	refrigerator	refrigerator	NN	_	9	pobj
+12	and	and	CC	_	4	cc
+13	uncovered	uncovered	JJ	_	15	amod
+14	roast	roast	NN	_	15	nn
+15	chicken	chicken	NN	_	4	conj
+16	on	on	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	bottom	bottom	JJ	_	19	amod
+19	shelf	shelf	NN	_	16	pobj
+20	.	.	.	_	4	punct
+

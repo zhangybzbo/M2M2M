@@ -1,0 +1,11 @@
+1	She	she	PRP	_	2	nsubj
+2	prepared	prepare	VBD	_	0	ROOT
+3	some	some	DT	_	5	det
+4	beef	beef	NN	_	5	nn
+5	bouillon	bouillon	NN	_	2	dobj
+6	and	and	CC	_	2	cc
+7	let	let	VB	_	2	conj
+8	it	it	PRP	_	9	nsubj
+9	cool	cool	VB	_	7	ccomp
+10	.	.	.	_	2	punct
+

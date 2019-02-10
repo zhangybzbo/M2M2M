@@ -1,0 +1,10 @@
+0	58	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="gas" pos="NN" nn="t1"
+4	12	tok id="t1" base="drilling" pos="NN" nsubj="t2"
+13	22	tok id="t2" base="threaten" pos="VBZ" ROOT="ROOT"
+23	29	tok id="t3" base="public" pos="JJ" dobj="t2"
+30	34	tok id="t4" base="with" pos="IN" prep="t3"
+35	46	tok id="t5" base="undisclosed" pos="JJ" amod="t6"
+47	56	tok id="t6" base="chemical" pos="NNS" pobj="t4"
+57	58	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

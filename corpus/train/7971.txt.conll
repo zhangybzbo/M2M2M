@@ -1,0 +1,18 @@
+1	Then	then	RB	_	9	advmod
+2	,	,	,	_	9	punct
+3	while	while	IN	_	5	mark
+4	you	you	PRP	_	5	nsubj
+5	relax	relax	VBP	_	9	advcl
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	chef	chef	NN	_	9	nsubj
+9	prepares	prepare	VBZ	_	0	ROOT
+10	the	the	DT	_	11	det
+11	meal	meal	NN	_	9	dobj
+12	and	and	CC	_	9	cc
+13	serves	serve	VBZ	_	9	conj
+14	it	it	PRP	_	13	dobj
+15	,	,	,	_	14	punct
+16	restaurant-style	restaurant-style	JJ	_	14	amod
+17	.	.	.	_	9	punct
+

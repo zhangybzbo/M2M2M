@@ -1,0 +1,18 @@
+1	In	in	IN	_	9	prep
+2	a	a	DT	_	6	det
+3	large	large	JJ	_	6	amod
+4	oval	oval	JJ	_	6	amod
+5	crock	crock	NN	_	6	nn
+6	pot	pot	NN	_	1	pobj
+7	I	I	PRP	_	9	nsubj
+8	've	have	VBP	_	9	aux
+9	had	have	VBD	_	0	ROOT
+10	some	some	DT	_	11	det
+11	hams	ham	NNS	_	9	dobj
+12	that	that	WDT	_	14	nsubj
+13	can	can	MD	_	14	aux
+14	fit	fit	VB	_	11	rcmod
+15	in	in	IN	_	14	prep
+16	whole	whole	NN	_	15	pobj
+17	.	.	.	_	9	punct
+

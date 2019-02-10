@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	necklace	necklace	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	locked	lock	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	5	pobj
+7	safe	safe	JJ	_	6	amod
+8	in	in	IN	_	7	prep
+9	their	they	PRP$	_	10	poss
+10	room	room	NN	_	8	pobj
+11	at	at	IN	_	7	prep
+12	the	the	DT	_	15	det
+13	Victor	Victor	NNP	_	15	nn
+14	Hugo	Hugo	NNP	_	15	nn
+15	Hotel	Hotel	NNP	_	11	pobj
+16	.	.	.	_	4	punct
+

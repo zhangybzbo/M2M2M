@@ -1,0 +1,11 @@
+1	Still	still	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	some	some	DT	_	4	det
+4	spam	spam	NN	_	5	nsubj
+5	arrives	arrive	VBZ	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	inbox	inbox	NN	_	9	nn
+9	folder	folder	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

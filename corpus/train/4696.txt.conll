@@ -1,0 +1,19 @@
+1	It	it	PRP	_	2	nsubj
+2	runs	run	VBZ	_	0	ROOT
+3	past	past	IN	_	2	prep
+4	La	La	NNP	_	6	nn
+5	Guardia	Guardia	NNP	_	6	nn
+6	Airport	Airport	NNP	_	3	pobj
+7	,	,	,	_	6	punct
+8	where	where	WRB	_	11	advmod
+9	the	the	DT	_	10	det
+10	senator	senator	NN	_	11	nsubj
+11	took	take	VBD	_	6	rcmod
+12	the	the	DT	_	13	det
+13	shuttle	shuttle	NN	_	11	dobj
+14	to	to	TO	_	11	prep
+15	Washington	Washington	NNP	_	14	pobj
+16	many	many	JJ	_	17	amod
+17	times	time	NNS	_	11	tmod
+18	.	.	.	_	2	punct
+

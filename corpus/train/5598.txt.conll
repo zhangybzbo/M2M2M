@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	big	big	JJ	_	3	amod
+3	thanks	thanks	NNS	_	4	nsubj
+4	goes	go	VBZ	_	0	ROOT
+5	out	out	RP	_	4	prt
+6	to	to	TO	_	4	prep
+7	the	the	DT	_	9	det
+8	expert	expert	NN	_	9	nn
+9	craftsman	craftsman	NN	_	6	pobj
+10	who	who	WP	_	11	nsubj
+11	did	do	VBD	_	9	rcmod
+12	such	such	PDT	_	16	predet
+13	a	a	DT	_	16	det
+14	good	good	JJ	_	16	amod
+15	job	job	NN	_	16	nn
+16	building	building	NN	_	19	nsubj
+17	my	my	PRP$	_	19	poss
+18	sailing	sailing	NN	_	19	nn
+19	hat	hat	NN	_	11	xcomp
+20	.	.	.	_	4	punct
+

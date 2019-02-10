@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	3	nsubj
+3	cites	cite	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	case	case	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	American	american	JJ	_	9	amod
+9	citizen	citizen	NN	_	6	pobj
+10	during	during	IN	_	3	prep
+11	the	the	DT	_	13	det
+12	general	general	JJ	_	13	amod
+13	war	war	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

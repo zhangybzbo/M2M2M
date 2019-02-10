@@ -1,0 +1,21 @@
+1	An	a	DT	_	3	det
+2	academic	academic	JJ	_	3	amod
+3	book	book	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	reviewed	review	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	fiction	fiction	NN	_	10	nn
+10	writer	writer	NN	_	7	pobj
+11	,	,	,	_	10	punct
+12	who	who	WP	_	13	nsubj
+13	complained	complain	VBD	_	10	rcmod
+14	the	the	DT	_	15	det
+15	book	book	NN	_	18	nsubj
+16	is	be	VBZ	_	18	cop
+17	``	``	``	_	18	punct
+18	academic	academic	JJ	_	13	ccomp
+19	''	''	''	_	18	punct
+20	.	.	.	_	6	punct
+

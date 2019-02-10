@@ -1,0 +1,19 @@
+1	Out	out	IN	_	13	prep
+2	of	of	IN	_	1	pcomp
+3	the	the	DT	_	6	det
+4	early	early	JJ	_	6	amod
+5	morning	morning	NN	_	6	nn
+6	haze	haze	NN	_	2	pobj
+7	,	,	,	_	6	punct
+8	a	a	DT	_	9	det
+9	convoy	convoy	NN	_	6	appos
+10	of	of	IN	_	9	prep
+11	articulated	articulate	VBN	_	12	amod
+12	lorries	lorry	NNS	_	10	pobj
+13	pulls	pull	VBZ	_	0	ROOT
+14	into	into	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	Gashouder	Gashouder	NNP	_	17	nn
+17	square	square	NN	_	14	pobj
+18	.	.	.	_	13	punct
+

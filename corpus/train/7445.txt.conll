@@ -1,0 +1,15 @@
+1	Yanbian	Yanbian	NNP	_	4	nsubjpass
+2	is	be	VBZ	_	4	auxpass
+3	also	also	RB	_	4	advmod
+4	blessed	bless	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	agricultural	agricultural	JJ	_	7	amod
+7	riches	riches	NNS	_	5	pobj
+8	and	and	CC	_	4	cc
+9	is	be	VBZ	_	13	cop
+10	a	a	DT	_	13	det
+11	major	major	JJ	_	13	amod
+12	tobacco	tobacco	NN	_	13	nn
+13	producer	producer	NN	_	4	conj
+14	.	.	.	_	4	punct
+

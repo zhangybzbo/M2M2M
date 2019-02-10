@@ -1,0 +1,15 @@
+1	A	a	DT	_	2	det
+2	thief	thief	NN	_	9	nsubj
+3	who	who	WP	_	4	nsubj
+4	tried	try	VBD	_	2	rcmod
+5	to	to	TO	_	6	aux
+6	steal	steal	VB	_	4	xcomp
+7	the	the	DT	_	8	det
+8	truck	truck	NN	_	6	dobj
+9	broke	break	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	igenition	igenition	NN	_	9	dobj
+12	with	with	IN	_	9	prep
+13	screwdriver	screwdriver	NN	_	12	pobj
+14	.	.	.	_	9	punct
+

@@ -1,0 +1,10 @@
+0	52	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t2"
+3	6	tok id="t1" base="have" pos="VBZ" aux="t2"
+7	16	tok id="t2" base="inherit" pos="VBN" ROOT="ROOT"
+17	31	tok id="t3" base="susceptibility" pos="NN" dobj="t2"
+32	34	tok id="t4" base="to" pos="TO" prep="t3"
+35	42	tok id="t5" base="certain" pos="JJ" amod="t6"
+43	50	tok id="t6" base="cancer" pos="NNS" pobj="t4"
+51	52	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

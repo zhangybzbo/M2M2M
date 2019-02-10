@@ -1,0 +1,12 @@
+1	Females	female	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	caught	catch	VBN	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	their	they	PRP$	_	6	poss
+6	eggs	egg	NNS	_	8	nsubjpass
+7	were	be	VBD	_	8	auxpass
+8	removed	remove	VBN	_	3	conj
+9	into	into	IN	_	8	prep
+10	buckets	bucket	NNS	_	9	pobj
+11	.	.	.	_	3	punct
+

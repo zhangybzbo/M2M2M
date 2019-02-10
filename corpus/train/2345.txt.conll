@@ -1,0 +1,18 @@
+1	In	in	IN	_	8	prep
+2	this	this	DT	_	3	det
+3	constitution	constitution	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	people	people	NNS	_	8	nsubj
+6	was	be	VBD	_	8	cop
+7	the	the	DT	_	8	det
+8	source	source	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	all	all	DT	_	11	det
+11	powers	power	NNS	_	9	pobj
+12	,	,	,	_	8	punct
+13	but	but	CC	_	8	cc
+14	it	it	PRP	_	15	nsubj
+15	exercised	exercise	VBD	_	8	conj
+16	none	none	NN	_	15	dobj
+17	.	.	.	_	8	punct
+

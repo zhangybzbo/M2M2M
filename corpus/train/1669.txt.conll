@@ -1,0 +1,22 @@
+1	Petitions	petition	NNS	_	6	nsubjpass
+2	against	against	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	annexation	annexation	NN	_	2	pobj
+5	were	be	VBD	_	6	auxpass
+6	signed	sign	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	between	between	IN	_	7	pcomp
+9	one	one	CD	_	10	num
+10	half	half	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	two-thirds	two-third	NNS	_	10	conj
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	total	total	JJ	_	16	amod
+16	population	population	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	some	some	DT	_	19	quantmod
+19	8000	8000	CD	_	20	num
+20	burghers	burgher	NNS	_	17	pobj
+21	.	.	.	_	6	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	factory	factory	NN	_	3	nn
+3	owners	owner	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	drained	drain	VBN	_	0	ROOT
+6	polluted	polluted	JJ	_	7	amod
+7	water	water	NN	_	5	dobj
+8	into	into	IN	_	5	prep
+9	their	they	PRP$	_	11	poss
+10	paddy	paddy	JJ	_	11	amod
+11	fields	field	NNS	_	8	pobj
+12	.	.	.	_	5	punct
+

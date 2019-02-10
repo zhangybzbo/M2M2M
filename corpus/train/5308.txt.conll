@@ -1,0 +1,19 @@
+1	Putting	put	VBG	_	17	csubj
+2	a	a	DT	_	5	det
+3	first	first	JJ	_	5	amod
+4	time	time	NN	_	5	nn
+5	learner	learner	NN	_	1	dobj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	driver	driver	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	seat	seat	NN	_	6	pobj
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	car	car	NN	_	11	pobj
+14	is	be	VBZ	_	17	cop
+15	a	a	DT	_	17	det
+16	scary	scary	JJ	_	17	amod
+17	proposition	proposition	NN	_	0	ROOT
+18	.	.	.	_	17	punct
+

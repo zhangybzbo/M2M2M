@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	sinking	sinking	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	loss	loss	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	112	112	CD	_	9	num
+9	lives	life	NNS	_	7	pobj
+10	,	,	,	_	9	punct
+11	including	include	VBG	_	9	prep
+12	those	those	DT	_	11	pobj
+13	of	of	IN	_	12	prep
+14	28	28	CD	_	15	num
+15	Americans	Americans	NNPS	_	13	pobj
+16	.	.	.	_	3	punct
+

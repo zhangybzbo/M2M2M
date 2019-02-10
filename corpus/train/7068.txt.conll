@@ -1,0 +1,16 @@
+1	Hermione	Hermione	NNP	_	3	nsubj
+2	just	just	RB	_	3	advmod
+3	shook	shake	VBD	_	0	ROOT
+4	her	she	PRP$	_	5	poss
+5	head	head	NN	_	3	dobj
+6	and	and	CC	_	3	cc
+7	drank	drink	VBD	_	3	conj
+8	her	she	PRP$	_	10	poss
+9	mango	mango	NN	_	10	nn
+10	nectar	nectar	NN	_	7	dobj
+11	,	,	,	_	3	punct
+12	laughing	laugh	VBG	_	3	vmod
+13	a	a	DT	_	14	det
+14	little	little	JJ	_	12	dobj
+15	.	.	.	_	3	punct
+

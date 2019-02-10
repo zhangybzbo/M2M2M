@@ -1,0 +1,24 @@
+1	Bruce	Bruce	NNP	_	3	nsubj
+2	had	have	VBD	_	3	aux
+3	fallen	fall	VBN	_	0	ROOT
+4	out	out	IN	_	3	prep
+5	of	of	IN	_	4	pcomp
+6	favour	favour	NN	_	5	pobj
+7	and	and	CC	_	6	cc
+8	Koro	Koro	NNP	_	6	conj
+9	and	and	CC	_	3	cc
+10	Cleo	Cleo	NNP	_	11	nsubj
+11	settled	settle	VBD	_	3	conj
+12	into	into	IN	_	11	prep
+13	a	a	DT	_	16	det
+14	more	more	RBR	_	15	advmod
+15	conventional	conventional	JJ	_	16	amod
+16	relationship	relationship	NN	_	12	pobj
+17	,	,	,	_	11	punct
+18	producing	produce	VBG	_	11	xcomp
+19	another	another	DT	_	20	det
+20	clutch	clutch	NN	_	18	dobj
+21	of	of	IN	_	20	prep
+22	chicks	chick	NNS	_	21	pobj
+23	.	.	.	_	3	punct
+

@@ -1,0 +1,9 @@
+1	Students	student	NNS	_	2	nsubj
+2	wrote	write	VBD	_	0	ROOT
+3	scripts	script	NNS	_	2	dobj
+4	to	to	TO	_	5	aux
+5	narrate	narrate	VB	_	2	vmod
+6	their	they	PRP$	_	7	poss
+7	story	story	NN	_	5	dobj
+8	.	.	.	_	2	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	inspiration	inspiration	NN	_	7	nsubj
+3	for	for	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	multi-touch	multi-touch	JJ	_	6	amod
+6	technology	technology	NN	_	3	pobj
+7	came	come	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	decidedly	decidedly	RB	_	11	advmod
+11	non-digital	non-digital	JJ	_	12	amod
+12	event	event	NN	_	8	pobj
+13	.	.	.	_	7	punct
+

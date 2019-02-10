@@ -1,0 +1,3 @@
+T1	Term 92 97	panic
+T2	Term 103 114	aftershocks
+R1	Cause-Effect Arg1:T2 Arg2:T1

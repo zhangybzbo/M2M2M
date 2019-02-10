@@ -1,0 +1,3 @@
+T1	Term 10 17	product
+T2	Term 32 38	attack
+R1	Cause-Effect Arg1:T2 Arg2:T1

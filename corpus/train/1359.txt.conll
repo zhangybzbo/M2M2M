@@ -1,0 +1,22 @@
+1	My	my	PRP$	_	2	poss
+2	eyes	eye	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	seen	see	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	defeat	defeat	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	my	my	PRP$	_	9	poss
+9	adversaries	adversary	NNS	_	7	pobj
+10	;	;	:	_	4	punct
+11	my	my	PRP$	_	12	poss
+12	ears	ear	NNS	_	14	nsubj
+13	have	have	VBP	_	14	aux
+14	heard	hear	VBN	_	4	parataxis
+15	the	the	DT	_	16	det
+16	rout	rout	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	my	my	PRP$	_	20	poss
+19	wicked	wicked	JJ	_	20	amod
+20	foes	foe	NNS	_	17	pobj
+21	.	.	.	_	4	punct
+

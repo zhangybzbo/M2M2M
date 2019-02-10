@@ -1,0 +1,22 @@
+1	After	after	IN	_	20	prep
+2	completing	complete	VBG	_	1	pcomp
+3	the	the	DT	_	4	det
+4	resetting	reset	VBG	_	2	dobj
+5	through	through	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	reset	reset	NN	_	8	nn
+8	signal	signal	NN	_	5	pobj
+9	,	,	,	_	20	punct
+10	the	the	DT	_	12	det
+11	bit	bit	NN	_	12	nn
+12	period	period	NN	_	20	nsubjpass
+13	transmitted	transmit	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	master	master	NN	_	17	nn
+17	module	module	NN	_	14	pobj
+18	30	30	CD	_	17	num
+19	is	be	VBZ	_	20	auxpass
+20	received	receive	VBN	_	0	ROOT
+21	.	.	.	_	20	punct
+

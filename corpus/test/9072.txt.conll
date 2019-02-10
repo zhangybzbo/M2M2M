@@ -1,0 +1,20 @@
+1	In	in	IN	_	9	prep
+2	a	a	DT	_	4	det
+3	tense	tense	JJ	_	4	amod
+4	struggle	struggle	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	the	the	DT	_	8	det
+7	other	other	JJ	_	8	amod
+8	team	team	NN	_	9	nsubj
+9	prevailed	prevail	VBD	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	convincing	convincing	JJ	_	12	amod
+12	fashion	fashion	NN	_	10	pobj
+13	with	with	IN	_	9	prep
+14	a	a	DT	_	15	det
+15	flurry	flurry	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	sacrifical	sacrifical	JJ	_	18	amod
+18	brilliance	brilliance	NN	_	16	pobj
+19	.	.	.	_	9	punct
+

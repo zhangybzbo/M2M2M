@@ -1,0 +1,17 @@
+1	We	we	PRP	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	happy	happy	JJ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	relay	relay	VB	_	3	xcomp
+6	the	the	DT	_	7	det
+7	news	news	NN	_	5	dobj
+8	that	that	IN	_	15	mark
+9	the	the	DT	_	12	det
+10	various	various	JJ	_	12	amod
+11	rights	rights	NNS	_	12	nn
+12	issues	issue	NNS	_	15	nsubjpass
+13	have	have	VBP	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	resolved	resolve	VBN	_	7	ccomp
+16	.	.	.	_	3	punct
+

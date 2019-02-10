@@ -1,0 +1,16 @@
+1	As	as	IN	_	8	prep
+2	for	for	IN	_	1	pcomp
+3	camera/lens	camera/lens	NNS	_	4	nn
+4	info	info	NN	_	2	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	photographer	photographer	NNP	_	8	nsubj
+8	made	make	VBD	_	0	ROOT
+9	the	the	DT	_	10	det
+10	picture	picture	NN	_	8	dobj
+11	,	,	,	_	10	punct
+12	not	not	RB	_	14	neg
+13	the	the	DT	_	14	det
+14	camera	camera	NN	_	10	appos
+15	.	.	.	_	8	punct
+

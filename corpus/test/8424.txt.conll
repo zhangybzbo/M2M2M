@@ -1,0 +1,14 @@
+1	Her	she	PRP$	_	2	poss
+2	husband	husband	NN	_	3	nsubj
+3	copes	cope	VBZ	_	0	ROOT
+4	well	well	RB	_	3	advmod
+5	with	with	IN	_	3	prep
+6	his	he	PRP$	_	7	poss
+7	handicap	handicap	NN	_	5	pobj
+8	in	in	IN	_	3	prep
+9	using	use	VBG	_	8	pcomp
+10	a	a	DT	_	12	det
+11	wooden	wooden	JJ	_	12	amod
+12	leg	leg	NN	_	9	dobj
+13	.	.	.	_	3	punct
+

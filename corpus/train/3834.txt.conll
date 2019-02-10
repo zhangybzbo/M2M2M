@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	ship	ship	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	arriving	arrive	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	port	port	NN	_	5	pobj
+8	now	now	RB	_	4	advmod
+9	.	.	.	_	4	punct
+

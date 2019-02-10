@@ -1,0 +1,22 @@
+1	Even	even	RB	_	2	advmod
+2	way	way	NN	_	15	advcl
+3	back	back	RB	_	2	advmod
+4	in	in	IN	_	2	prep
+5	the	the	DT	_	8	det
+6	San	San	NNP	_	8	nn
+7	Francisco	Francisco	NNP	_	8	nn
+8	earthquake	earthquake	NN	_	4	pobj
+9	,	,	,	_	15	punct
+10	most	most	JJS	_	15	nsubjpass
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	damage	damage	NN	_	11	pobj
+14	was	be	VBD	_	15	auxpass
+15	caused	cause	VBN	_	0	ROOT
+16	by	by	IN	_	15	prep
+17	fire	fire	NN	_	16	pobj
+18	after	after	IN	_	15	prep
+19	the	the	DT	_	20	det
+20	earthquake	earthquake	NN	_	18	pobj
+21	.	.	.	_	15	punct
+

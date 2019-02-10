@@ -1,0 +1,19 @@
+1	After	after	IN	_	8	prep
+2	30	30	CD	_	3	num
+3	min	min	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	6	det
+6	oil	oil	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	pressed	press	VBN	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	flour	flour	NN	_	9	pobj
+12	on	on	IN	_	8	prep
+13	a	a	DT	_	17	det
+14	small	small	JJ	_	17	amod
+15	capacity	capacity	NN	_	17	nn
+16	hydraulic	hydraulic	JJ	_	17	amod
+17	press	press	NN	_	12	pobj
+18	.	.	.	_	8	punct
+

@@ -1,0 +1,8 @@
+0	55	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="Researchers" pos="NNP" nsubj="t1"
+12	15	tok id="t1" base="put" pos="VBD" ROOT="ROOT"
+16	30	tok id="t2" base="bio-energetic" pos="NNS" dobj="t1"
+31	35	tok id="t3" base="into" pos="IN" prep="t1"
+36	53	tok id="t4" base="bio-magnification" pos="NN" pobj="t3"
+54	55	tok id="t5" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	calculated	calculate	VBN	_	3	amod
+3	efficiency	efficiency	NN	_	7	nsubjpass
+4	has	have	VBZ	_	7	aux
+5	already	already	RB	_	7	advmod
+6	been	be	VBN	_	7	auxpass
+7	defined	define	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	preceding	precede	VBG	_	11	amod
+11	paragraph	paragraph	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

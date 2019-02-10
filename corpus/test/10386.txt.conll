@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	exhibit	exhibit	NN	_	3	nsubj
+3	features	feature	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	winning	win	VBG	_	6	amod
+6	designs	design	NNS	_	3	dobj
+7	in	in	IN	_	6	prep
+8	both	both	CC	_	13	preconj
+9	the	the	DT	_	13	det
+10	professional	professional	JJ	_	13	amod
+11	and	and	CC	_	10	cc
+12	student	student	NN	_	10	conj
+13	categories	category	NNS	_	7	pobj
+14	,	,	,	_	13	punct
+15	as	as	RB	_	16	advmod
+16	well	well	RB	_	13	cc
+17	as	as	IN	_	16	mwe
+18	other	other	JJ	_	20	amod
+19	outstanding	outstanding	JJ	_	20	amod
+20	entries	entry	NNS	_	13	conj
+21	.	.	.	_	3	punct
+

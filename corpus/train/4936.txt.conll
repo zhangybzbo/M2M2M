@@ -1,0 +1,13 @@
+1	In	in	IN	_	9	prep
+2	Australia	Australia	NNP	_	1	pobj
+3	,	,	,	_	9	punct
+4	fifty	fifty	CD	_	5	number
+5	cent	cent	NN	_	6	amod
+6	coins	coin	NNS	_	9	nsubjpass
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	put	put	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	circulation	circulation	NN	_	10	pobj
+12	.	.	.	_	9	punct
+

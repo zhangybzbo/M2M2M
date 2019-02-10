@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	title	title	NN	_	3	nsubj
+3	originates	originate	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	8	det
+6	Ohioan	Ohioan	NNP	_	8	nn
+7	urban	urban	JJ	_	8	amod
+8	myth	myth	NN	_	4	pobj
+9	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	development	development	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	oil	oil	NN	_	6	nn
+5	palm	palm	NN	_	6	nn
+6	plantations	plantation	NNS	_	3	pobj
+7	is	be	VBZ	_	8	cop
+8	one	one	CD	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	biggest	biggest	JJS	_	12	amod
+12	causes	cause	NNS	_	9	pobj
+13	of	of	IN	_	12	prep
+14	rainforest	rainforest	NN	_	15	nn
+15	clearance	clearance	NN	_	13	pobj
+16	.	.	.	_	8	punct
+

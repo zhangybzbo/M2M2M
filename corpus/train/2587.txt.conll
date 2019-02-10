@@ -1,0 +1,23 @@
+1	Returning	return	VBG	_	0	ROOT
+2	with	with	IN	_	1	prep
+3	their	they	PRP$	_	2	pobj
+4	new	new	JJ	_	3	dep
+5	single	single	JJ	_	4	amod
+6	`	`	``	_	8	punct
+7	We	we	PRP	_	8	nsubj
+8	Want	want	VBD	_	5	dep
+9	War	War	NNP	_	12	poss
+10	'	'	POS	_	9	possessive
+11	the	the	DT	_	12	det
+12	band	band	NN	_	14	nsubj
+13	have	have	VBP	_	14	aux
+14	constructed	construct	VBN	_	8	ccomp
+15	a	a	DT	_	16	det
+16	seven	seven	CD	_	14	dobj
+17	and	and	CC	_	16	cc
+18	a	a	DT	_	21	det
+19	half	half	NN	_	21	nn
+20	minute	minute	NN	_	21	nn
+21	epic	epic	NN	_	16	conj
+22	.	.	.	_	1	punct
+

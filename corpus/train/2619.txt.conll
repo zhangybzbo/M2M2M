@@ -1,0 +1,21 @@
+1	These	these	DT	_	2	det
+2	studies	study	NNS	_	3	nsubj
+3	supplied	supply	VBD	_	0	ROOT
+4	exploratory	exploratory	JJ	_	5	amod
+5	details	detail	NNS	_	3	dobj
+6	on	on	IN	_	3	prep
+7	some	some	DT	_	6	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	determinant	determinant	NN	_	11	nn
+11	attributes	attribute	NNS	_	8	pobj
+12	and	and	CC	_	3	cc
+13	provided	provide	VBD	_	3	conj
+14	a	a	DT	_	15	det
+15	basis	basis	NN	_	13	dobj
+16	for	for	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	current	current	JJ	_	19	amod
+19	research	research	NN	_	16	pobj
+20	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	Listeners	listener	NNS	_	2	nsubj
+2	receive	receive	VBP	_	0	ROOT
+3	WBAI	WBAI	NNP	_	4	nsubj
+4	live	live	VB	_	2	ccomp
+5	over	over	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	internet	internet	NN	_	5	pobj
+8	-LRB-	-lrb-	-LRB-	_	9	punct
+9	referred	refer	VBN	_	7	dep
+10	to	to	TO	_	9	prep
+11	as	as	IN	_	9	prep
+12	``	``	``	_	11	punct
+13	streaming	streaming	NN	_	11	pobj
+14	''	''	''	_	11	punct
+15	-RRB-	-rrb-	-RRB-	_	9	punct
+16	,	,	,	_	4	punct
+17	using	use	VBG	_	4	vmod
+18	one	one	CD	_	17	dobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	23	det
+21	various	various	JJ	_	23	amod
+22	audio	audio	JJ	_	23	amod
+23	formats	format	NNS	_	19	pobj
+24	below	below	IN	_	23	advmod
+25	.	.	.	_	2	punct
+

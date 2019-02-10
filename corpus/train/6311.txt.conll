@@ -1,0 +1,22 @@
+1	It	it	PRP	_	3	nsubj
+2	really	really	RB	_	3	advmod
+3	underscores	underscore	VBZ	_	0	ROOT
+4	everything	everything	NN	_	3	dobj
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	pro-life	pro-life	JJ	_	8	amod
+8	movement	movement	NN	_	5	pobj
+9	,	,	,	_	3	punct
+10	that	that	DT	_	13	mark
+11	abortion	abortion	NN	_	13	nsubj
+12	is	be	VBZ	_	13	cop
+13	part	part	NN	_	3	ccomp
+14	of	of	IN	_	13	prep
+15	a	a	DT	_	18	det
+16	very	very	RB	_	17	advmod
+17	sad	sad	JJ	_	18	amod
+18	story	story	NN	_	14	pobj
+19	for	for	IN	_	18	prep
+20	women	woman	NNS	_	19	pobj
+21	.	.	.	_	3	punct
+

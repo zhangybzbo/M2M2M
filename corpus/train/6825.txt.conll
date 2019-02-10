@@ -1,0 +1,20 @@
+1	Microorganisms	microorganism	NNS	_	0	ROOT
+2	in	in	IN	_	1	prep
+3	your	you	PRP$	_	6	poss
+4	oral	oral	JJ	_	6	amod
+5	flora	flora	NN	_	6	nn
+6	gain	gain	NN	_	2	pobj
+7	access	access	NN	_	6	dep
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	11	det
+10	pulp	pulp	NN	_	11	nn
+11	chamber	chamber	NN	_	8	pobj
+12	and	and	CC	_	11	cc
+13	root	root	NN	_	14	nn
+14	canals	canal	NNS	_	11	conj
+15	in	in	IN	_	7	prep
+16	the	the	DT	_	18	det
+17	affected	affect	VBN	_	18	amod
+18	tooth	tooth	NN	_	15	pobj
+19	.	.	.	_	1	punct
+

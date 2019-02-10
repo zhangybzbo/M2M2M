@@ -1,0 +1,15 @@
+1	Sharp	sharp	JJ	_	8	nsubj
+2	,	,	,	_	8	punct
+3	as	as	IN	_	8	prep
+4	a	a	DT	_	6	det
+5	handset	handset	NN	_	6	nn
+6	maker	maker	NN	_	3	pobj
+7	,	,	,	_	8	punct
+8	produces	produce	VBZ	_	0	ROOT
+9	panels	panel	NNS	_	8	dobj
+10	for	for	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	possible	possible	JJ	_	13	amod
+13	competitor	competitor	NN	_	10	pobj
+14	.	.	.	_	8	punct
+

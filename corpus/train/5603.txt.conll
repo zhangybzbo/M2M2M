@@ -1,0 +1,9 @@
+1	Masked	masked	JJ	_	2	amod
+2	robber	robber	NN	_	3	nsubj
+3	threatens	threaten	VBZ	_	0	ROOT
+4	worker	worker	NN	_	3	dobj
+5	with	with	IN	_	3	prep
+6	claw	claw	NN	_	7	nn
+7	hammer	hammer	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

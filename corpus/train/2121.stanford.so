@@ -1,0 +1,13 @@
+0	68	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="most" pos="JJS" amod="t1"
+5	11	tok id="t1" base="people" pos="NNS" nsubj="t2"
+12	15	tok id="t2" base="buy" pos="VBP" ROOT="ROOT"
+16	24	tok id="t3" base="pre-made" pos="JJ" amod="t5"
+25	31	tok id="t4" base="candle" pos="NN" nn="t5"
+32	37	tok id="t5" base="wick" pos="NNS" dobj="t2"
+38	42	tok id="t6" base="when" pos="WRB" advmod="t7"
+43	49	tok id="t7" base="make" pos="VBG" advcl="t2"
+50	58	tok id="t8" base="homemade" pos="JJ" amod="t9"
+59	66	tok id="t9" base="candle" pos="NNS" dobj="t7"
+67	68	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

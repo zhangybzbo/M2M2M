@@ -1,0 +1,15 @@
+1	In	in	IN	_	10	prep
+2	Cicero	Cicero	NNP	_	4	poss
+3	's	's	POS	_	2	possessive
+4	speech	speech	NN	_	1	pobj
+5	for	for	IN	_	4	prep
+6	Milo	Milo	NNP	_	5	pobj
+7	,	,	,	_	10	punct
+8	the	the	DT	_	9	det
+9	orator	orator	NN	_	10	nsubj
+10	makes	make	VBZ	_	0	ROOT
+11	a	a	DT	_	13	det
+12	valid	valid	JJ	_	13	amod
+13	argument	argument	NN	_	10	dobj
+14	.	.	.	_	10	punct
+

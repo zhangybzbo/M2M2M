@@ -1,0 +1,12 @@
+1	Aromatic	aromatic	JJ	_	3	amod
+2	hydrocarbon-water	hydrocarbon-water	NN	_	3	nn
+3	separations	separation	NNS	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	pressure	pressure	NN	_	10	dep
+7	driven	drive	VBN	_	10	amod
+8	membrane	membrane	NN	_	10	nn
+9	separation	separation	NN	_	10	nn
+10	process	process	NN	_	4	pobj
+11	.	.	.	_	3	punct
+

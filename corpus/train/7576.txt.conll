@@ -1,0 +1,20 @@
+1	With	with	IN	_	10	prep
+2	lyrical	lyrical	JJ	_	3	amod
+3	descriptions	description	NNS	_	1	pobj
+4	of	of	IN	_	3	prep
+5	landscape	landscape	NN	_	4	pobj
+6	and	and	CC	_	5	cc
+7	terse	terse	JJ	_	5	conj
+8	,	,	,	_	10	punct
+9	unpunctuated	unpunctuated	JJ	_	10	amod
+10	dialogue	dialogue	NN	_	0	ROOT
+11	,	,	,	_	10	punct
+12	a	a	DT	_	14	det
+13	distinctive	distinctive	JJ	_	14	amod
+14	voice	voice	NN	_	10	appos
+15	powered	power	VBD	_	14	vmod
+16	a	a	DT	_	18	det
+17	gripping	gripping	JJ	_	18	amod
+18	story	story	NN	_	15	dobj
+19	.	.	.	_	10	punct
+

@@ -1,0 +1,22 @@
+1	Player	Player	NNP	_	4	nsubj
+2	one	one	CD	_	1	num
+3	can	can	MD	_	4	aux
+4	become	become	VB	_	0	ROOT
+5	white	white	JJ	_	4	acomp
+6	and	and	CC	_	4	cc
+7	block	block	VB	_	4	conj
+8	all	all	PDT	_	10	predet
+9	the	the	DT	_	10	det
+10	bullets	bullet	NNS	_	7	dobj
+11	while	while	IN	_	7	prep
+12	player	player	NN	_	14	nn
+13	two	two	CD	_	14	num
+14	blasts	blast	NNS	_	11	pobj
+15	the	the	DT	_	16	det
+16	boss	boss	NN	_	14	dep
+17	with	with	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	opposite	opposite	JJ	_	20	amod
+20	color	color	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

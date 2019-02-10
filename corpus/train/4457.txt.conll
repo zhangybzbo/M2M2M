@@ -1,0 +1,16 @@
+1	We	we	PRP	_	2	nsubj
+2	minimized	minimize	VBD	_	0	ROOT
+3	excessive	excessive	JJ	_	4	amod
+4	flows	flow	NNS	_	2	dobj
+5	that	that	WDT	_	6	nsubj
+6	cause	cause	VBP	_	4	rcmod
+7	flooding	flooding	NN	_	6	dobj
+8	,	,	,	_	7	punct
+9	bank	bank	NN	_	10	nn
+10	erosion	erosion	NN	_	7	conj
+11	,	,	,	_	7	punct
+12	and	and	CC	_	7	cc
+13	habitat	habitat	NN	_	14	nn
+14	loss	loss	NN	_	7	conj
+15	.	.	.	_	2	punct
+

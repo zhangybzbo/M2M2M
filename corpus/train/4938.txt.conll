@@ -1,0 +1,17 @@
+1	This	this	DT	_	3	det
+2	picture	picture	NN	_	3	nn
+3	frame	frame	NN	_	4	nsubj
+4	fits	fit	VBZ	_	0	ROOT
+5	photographs	photograph	NNS	_	4	dobj
+6	measuring	measure	VBG	_	5	vmod
+7	9	9	CD	_	10	num
+8	x	x	CC	_	7	cc
+9	13	13	CD	_	7	conj
+10	cm	cm	NN	_	6	dobj
+11	,	,	,	_	10	punct
+12	3.5	3.5	CD	_	15	num
+13	x	x	CC	_	12	cc
+14	5	5	CD	_	12	conj
+15	inches	inch	NNS	_	10	appos
+16	.	.	.	_	4	punct
+

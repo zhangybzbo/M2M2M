@@ -1,0 +1,10 @@
+1	Music	music	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	used	use	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	surgeons	surgeon	NNS	_	4	pobj
+6	to	to	TO	_	7	aux
+7	ease	ease	VB	_	3	xcomp
+8	operations	operation	NNS	_	7	dobj
+9	.	.	.	_	3	punct
+

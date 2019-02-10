@@ -1,0 +1,10 @@
+1	He	he	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	added	add	VBN	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	cousin	cousin	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	his	he	PRP$	_	8	poss
+8	portfolio	portfolio	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

@@ -1,0 +1,25 @@
+1	Cigarettes	cigarette	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	used	use	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	women	woman	NNS	_	4	pobj
+6	in	in	IN	_	9	mark
+7	order	order	NN	_	9	dep
+8	to	to	TO	_	9	aux
+9	relax	relax	VB	_	3	advcl
+10	,	,	,	_	9	punct
+11	to	to	TO	_	12	aux
+12	avoid	avoid	VB	_	9	conj
+13	gaining	gain	VBG	_	12	xcomp
+14	weight	weight	NN	_	13	dobj
+15	,	,	,	_	9	punct
+16	and	and	CC	_	9	cc
+17	to	to	TO	_	18	aux
+18	appear	appear	VB	_	9	conj
+19	attractive	attractive	JJ	_	18	acomp
+20	,	,	,	_	19	punct
+21	mature	mature	JJ	_	19	conj
+22	and	and	CC	_	19	cc
+23	feminine	feminine	JJ	_	19	conj
+24	.	.	.	_	3	punct
+

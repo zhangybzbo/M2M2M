@@ -1,0 +1,12 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	microphone	microphone	NN	_	3	dobj
+6	as	as	IN	_	8	mark
+7	he	he	PRP	_	8	nsubj
+8	gives	give	VBZ	_	3	advcl
+9	a	a	DT	_	10	det
+10	speech	speech	NN	_	8	dobj
+11	.	.	.	_	3	punct
+

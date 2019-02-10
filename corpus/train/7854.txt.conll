@@ -1,0 +1,22 @@
+1	In	in	IN	_	4	prep
+2	the	the	DT	_	3	det
+3	months	month	NNS	_	1	pobj
+4	leading	lead	VBG	_	0	ROOT
+5	up	up	RP	_	4	prt
+6	to	to	TO	_	7	aux
+7	trade	trade	VB	_	4	xcomp
+8	negotiations	negotiation	NNS	_	7	dobj
+9	,	,	,	_	8	punct
+10	estimates	estimate	NNS	_	8	appos
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	economic	economic	JJ	_	14	amod
+14	gains	gain	NNS	_	11	pobj
+15	from	from	IN	_	14	prep
+16	trade	trade	NN	_	17	nn
+17	liberalization	liberalization	NN	_	15	pobj
+18	suddenly	suddenly	RB	_	19	advmod
+19	become	become	VBN	_	14	vmod
+20	newsworthy	newsworthy	JJ	_	19	acomp
+21	.	.	.	_	4	punct
+

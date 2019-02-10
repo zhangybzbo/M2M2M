@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det
+2	first	first	JJ	_	4	amod
+3	seismic	seismic	JJ	_	4	amod
+4	arrival	arrival	NN	_	11	nsubj
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	7	det
+7	earthquake	earthquake	NN	_	5	pobj
+8	is	be	VBZ	_	11	cop
+9	the	the	DT	_	11	det
+10	P	p	NN	_	11	nn
+11	wave	wave	NN	_	0	ROOT
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	17	nsubj
+14	is	be	VBZ	_	17	cop
+15	usually	usually	RB	_	17	advmod
+16	relatively	relatively	RB	_	17	advmod
+17	low-amplitude	low-amplitude	JJ	_	11	rcmod
+18	.	.	.	_	11	punct
+

@@ -1,0 +1,15 @@
+1	With	with	IN	_	6	prep
+2	iterpipes	iterpipe	NNS	_	1	pobj
+3	,	,	,	_	6	punct
+4	python	python	NN	_	6	nsubj
+5	is	be	VBZ	_	6	cop
+6	ready	ready	JJ	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	replace	replace	VB	_	6	xcomp
+9	the	the	DT	_	11	det
+10	bash	bash	NN	_	11	nn
+11	shell	shell	NN	_	8	dobj
+12	for	for	IN	_	8	prep
+13	scripting	scripting	NN	_	12	pobj
+14	.	.	.	_	6	punct
+

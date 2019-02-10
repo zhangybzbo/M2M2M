@@ -1,0 +1,7 @@
+1	He	he	PRP	_	2	nsubj
+2	takes	take	VBZ	_	0	ROOT
+3	words	word	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	action	action	NN	_	4	pobj
+6	.	.	.	_	2	punct
+

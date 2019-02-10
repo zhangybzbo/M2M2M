@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	DC-DC	dc-dc	NN	_	3	nn
+3	converter	converter	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	manufactured	manufacture	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	11	det
+8	130nm	130nm	NN	_	11	nn
+9	bulk	bulk	NN	_	11	nn
+10	CMOS	cmo	NN	_	11	nn
+11	process	process	NN	_	6	pobj
+12	.	.	.	_	5	punct
+

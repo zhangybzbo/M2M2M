@@ -1,0 +1,10 @@
+1	Then	then	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	I	I	PRP	_	4	nsubj
+4	put	put	VBD	_	0	ROOT
+5	candy	candy	NN	_	4	dobj
+6	in	in	IN	_	4	prep
+7	my	my	PRP$	_	8	poss
+8	jar	jar	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

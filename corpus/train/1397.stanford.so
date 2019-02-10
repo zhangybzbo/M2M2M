@@ -1,0 +1,11 @@
+0	51	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="discharge" pos="NN" nsubj="t2"
+14	21	tok id="t2" base="start" pos="VBD" ROOT="ROOT"
+22	26	tok id="t3" base="from" pos="IN" prep="t2"
+27	30	tok id="t4" base="the" pos="DT" det="t7"
+31	36	tok id="t5" base="burst" pos="NN" nn="t7"
+37	42	tok id="t6" base="pulse" pos="NN" nn="t7"
+43	49	tok id="t7" base="corona" pos="NN" pobj="t3"
+50	51	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

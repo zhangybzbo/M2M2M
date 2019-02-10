@@ -1,0 +1,24 @@
+1	Hoover	Hoover	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	also	also	RB	_	4	advmod
+4	notable	notable	JJ	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	an	a	DT	_	10	det
+7	extremely	extremely	RB	_	8	advmod
+8	unusual	unusual	JJ	_	10	amod
+9	vacuum	vacuum	NN	_	10	npadvmod
+10	cleaner	cleaner	JJR	_	5	pobj
+11	,	,	,	_	14	punct
+12	the	the	DT	_	14	det
+13	Hoover	Hoover	NNP	_	14	nn
+14	Constellation	Constellation	NNP	_	10	dep
+15	,	,	,	_	14	punct
+16	which	which	WDT	_	19	nsubj
+17	is	be	VBZ	_	19	cop
+18	canister	canister	NN	_	19	nn
+19	type	type	NN	_	14	rcmod
+20	but	but	CC	_	19	cc
+21	lacks	lack	VBZ	_	19	conj
+22	wheels	wheel	NNS	_	21	dobj
+23	.	.	.	_	14	punct
+

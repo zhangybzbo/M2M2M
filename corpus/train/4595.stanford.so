@@ -1,0 +1,11 @@
+0	70	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="include" pos="VBG" ROOT="ROOT"
+10	19	tok id="t1" base="amenity" pos="NNS" dobj="t0"
+20	24	tok id="t2" base="such" pos="JJ" mwe="t3"
+25	27	tok id="t3" base="as" pos="IN" prep="t1"
+28	34	tok id="t4" base="kiosk" pos="NNS" pobj="t3"
+35	41	tok id="t5" base="create" pos="VBP" dep="t0"
+42	61	tok id="t6" base="pedestrian-friendly" pos="JJ" amod="t7"
+62	68	tok id="t7" base="space" pos="NNS" dobj="t5"
+69	70	tok id="t8" base="-PERIOD-" pos="." punct="t0"
+

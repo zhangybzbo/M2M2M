@@ -1,0 +1,13 @@
+0	60	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="newborn" pos="JJ" nsubj="t2"
+12	19	tok id="t2" base="arrive" pos="VBN" ROOT="ROOT"
+20	24	tok id="t3" base="into" pos="IN" prep="t2"
+25	29	tok id="t4" base="this" pos="DT" det="t5"
+30	35	tok id="t5" base="world" pos="NN" pobj="t3"
+36	40	tok id="t6" base="with" pos="IN" prep="t2"
+41	46	tok id="t7" base="gift" pos="NNS" pobj="t6"
+47	50	tok id="t8" base="and" pos="CC" cc="t7"
+51	58	tok id="t9" base="talent" pos="NNS" conj="t7"
+59	60	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

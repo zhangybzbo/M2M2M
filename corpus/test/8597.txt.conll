@@ -1,0 +1,22 @@
+1	Robert	Robert	NNP	_	2	nn
+2	Redford	Redford	NNP	_	5	poss
+3	's	's	POS	_	2	possessive
+4	historical	historical	JJ	_	5	amod
+5	drama	drama	NN	_	16	nsubjpass
+6	about	about	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	aftermath	aftermath	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	assassination	assassination	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	Abraham	Abraham	NNP	_	14	nn
+14	Lincoln	Lincoln	NNP	_	12	pobj
+15	looks	look	VBZ	_	16	auxpass
+16	set	set	VBN	_	0	ROOT
+17	to	to	TO	_	18	aux
+18	get	get	VB	_	16	xcomp
+19	under	under	IN	_	18	prep
+20	way	way	NN	_	19	pobj
+21	.	.	.	_	16	punct
+

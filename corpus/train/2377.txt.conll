@@ -1,0 +1,11 @@
+1	Again	again	RB	_	3	advmod
+2	you	you	PRP	_	3	nsubj
+3	make	make	VBP	_	0	ROOT
+4	professional	professional	JJ	_	5	amod
+5	judgements	judgement	NNS	_	3	dobj
+6	regarding	regard	VBG	_	5	prep
+7	their	they	PRP$	_	9	poss
+8	relative	relative	JJ	_	9	amod
+9	value	value	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

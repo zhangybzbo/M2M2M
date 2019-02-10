@@ -1,0 +1,21 @@
+1	Major	major	JJ	_	3	amod
+2	car	car	NN	_	3	nn
+3	manufacturers	manufacturer	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	launching	launch	VBG	_	0	ROOT
+6	more	more	RBR	_	5	dobj
+7	and	and	CC	_	6	cc
+8	more	more	RBR	_	9	advmod
+9	cars	car	NNS	_	6	conj
+10	to	to	TO	_	11	aux
+11	attain	attain	VB	_	5	xcomp
+12	the	the	DT	_	14	det
+13	top	top	JJ	_	14	amod
+14	position	position	NN	_	11	dobj
+15	in	in	IN	_	14	prep
+16	this	this	DT	_	17	det
+17	jungle	jungle	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	automotives	automotive	NNS	_	18	pobj
+20	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	mist	mist	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	carried	carry	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	air	air	NN	_	5	pobj
+8	by	by	IN	_	4	prep
+9	bursting	burst	VBG	_	8	pcomp
+10	bubbles	bubble	NNS	_	9	dobj
+11	over	over	IN	_	9	prep
+12	the	the	DT	_	14	det
+13	plating	plate	VBG	_	14	amod
+14	vats	vat	NNS	_	11	pobj
+15	.	.	.	_	4	punct
+

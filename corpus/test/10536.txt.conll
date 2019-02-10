@@ -1,0 +1,21 @@
+1	These	these	DT	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	the	the	DT	_	4	det
+4	walls	wall	NNS	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Byzantine	byzantine	JJ	_	8	amod
+8	fortress	fortress	NN	_	5	pobj
+9	that	that	WDT	_	10	nsubj
+10	surrounds	surround	VBZ	_	8	rcmod
+11	the	the	DT	_	12	det
+12	Acropolis	Acropolis	NNP	_	10	dobj
+13	of	of	IN	_	12	prep
+14	Lindos	Lindos	NNP	_	13	pobj
+15	on	on	IN	_	10	prep
+16	the	the	DT	_	17	det
+17	Island	island	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	Rhodes	Rhodes	NNP	_	18	pobj
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,3 @@
+T1	Term 173 178	sewer
+T2	Term 179 183	pipe
+R1	Component-Whole Arg1:T2 Arg2:T1

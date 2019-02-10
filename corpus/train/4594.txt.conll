@@ -1,0 +1,17 @@
+1	New	New	NNP	_	6	nn
+2	Haven	Haven	NNP	_	6	nn
+3	police	police	NN	_	6	nn
+4	chief	chief	NN	_	6	nn
+5	James	James	NNP	_	6	nn
+6	Lewis	Lewis	NNP	_	7	nsubj
+7	left	leave	VBD	_	0	ROOT
+8	his	he	PRP$	_	9	poss
+9	post	post	NN	_	7	dobj
+10	after	after	IN	_	13	mark
+11	his	he	PRP$	_	12	poss
+12	contract	contract	NN	_	13	nsubj
+13	expired	expire	VBD	_	7	advcl
+14	Jan.	Jan.	NNP	_	13	tmod
+15	31	31	CD	_	14	num
+16	.	.	.	_	7	punct
+

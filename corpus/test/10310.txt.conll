@@ -1,0 +1,21 @@
+1	One	one	CD	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	recurring	recur	VBG	_	5	amod
+5	themes	theme	NNS	_	2	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	book	book	NN	_	6	pobj
+9	is	be	VBZ	_	11	cop
+10	the	the	DT	_	11	det
+11	influence	influence	NN	_	0	ROOT
+12	of	of	IN	_	11	prep
+13	religion	religion	NN	_	12	pobj
+14	in	in	IN	_	11	prep
+15	motivating	motivate	VBG	_	14	pcomp
+16	and	and	CC	_	15	cc
+17	structuring	structure	VBG	_	15	conj
+18	Dutch	dutch	JJ	_	19	amod
+19	emigration	emigration	NN	_	15	dobj
+20	.	.	.	_	11	punct
+

@@ -1,0 +1,25 @@
+1	Daborne	Daborne	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	play	play	NN	_	6	nsubj
+4	is	be	VBZ	_	6	aux
+5	also	also	RB	_	6	advmod
+6	about	about	IN	_	0	ROOT
+7	a	a	DT	_	9	det
+8	historic	historic	JJ	_	9	amod
+9	person	person	NN	_	6	pobj
+10	,	,	,	_	9	punct
+11	the	the	DT	_	13	det
+12	pirate	pirate	JJ	_	13	amod
+13	Ward	Ward	NNP	_	9	appos
+14	,	,	,	_	9	punct
+15	famous	famous	JJ	_	9	amod
+16	in	in	IN	_	15	prep
+17	England	England	NNP	_	16	pobj
+18	at	at	IN	_	15	prep
+19	the	the	DT	_	20	det
+20	time	time	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	its	its	PRP$	_	23	poss
+23	writing	writing	NN	_	21	pobj
+24	.	.	.	_	6	punct
+

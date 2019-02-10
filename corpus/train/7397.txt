@@ -1,0 +1,1 @@
+The simulation study produces voluminous results , since there are two types of models , each with four different specifications and with two sample sizes involved .

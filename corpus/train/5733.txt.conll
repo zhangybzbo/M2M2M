@@ -1,0 +1,19 @@
+1	Tribble	Tribble	NNP	_	9	poss
+2	's	's	POS	_	1	possessive
+3	one-story	one-story	JJ	_	9	amod
+4	,	,	,	_	9	punct
+5	wood-frame	wood-frame	JJ	_	6	amod
+6	home	home	NN	_	9	nsubj
+7	is	be	VBZ	_	9	cop
+8	the	the	DT	_	9	det
+9	34th	34th	NN	_	0	ROOT
+10	that	that	IN	_	14	dobj
+11	the	the	DT	_	12	det
+12	group	group	NN	_	14	nsubj
+13	has	have	VBZ	_	14	aux
+14	constructed	construct	VBN	_	9	rcmod
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	county	county	NN	_	15	pobj
+18	.	.	.	_	9	punct
+

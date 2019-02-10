@@ -1,0 +1,8 @@
+1	Background	background	NN	_	2	nn
+2	music	music	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	added	add	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	slideshows	slideshow	NNS	_	5	pobj
+7	.	.	.	_	4	punct
+

@@ -1,0 +1,15 @@
+1	Workers	worker	NNS	_	2	nsubj
+2	take	take	VBP	_	0	ROOT
+3	wax	wax	NN	_	2	dobj
+4	from	from	IN	_	2	prep
+5	wax	wax	NN	_	4	pobj
+6	producing	produce	VBG	_	5	vmod
+7	workers	worker	NNS	_	6	dobj
+8	and	and	CC	_	2	cc
+9	build	build	VB	_	2	conj
+10	the	the	DT	_	11	det
+11	comb	comb	NN	_	9	dobj
+12	with	with	IN	_	9	prep
+13	it	it	PRP	_	12	pobj
+14	.	.	.	_	2	punct
+

@@ -1,0 +1,25 @@
+1	Instead	instead	RB	_	2	advmod
+2	of	of	IN	_	15	prep
+3	plowing	plow	VBG	_	2	pcomp
+4	the	the	DT	_	5	det
+5	land	land	NN	_	3	dobj
+6	with	with	IN	_	10	mark
+7	a	a	DT	_	9	det
+8	single	single	JJ	_	9	amod
+9	furrow	furrow	NN	_	10	nsubj
+10	plow	plow	VB	_	3	advcl
+11	,	,	,	_	15	punct
+12	some	some	DT	_	14	det
+13	large-scale	large-scale	JJ	_	14	amod
+14	farmers	farmer	NNS	_	15	nsubj
+15	began	begin	VBD	_	0	ROOT
+16	to	to	TO	_	17	aux
+17	use	use	VB	_	15	xcomp
+18	a	a	DT	_	20	det
+19	multiple	multiple	JJ	_	20	amod
+20	share	share	NN	_	17	dobj
+21	or	or	CC	_	20	cc
+22	bukker	bukker	NN	_	20	conj
+23	plow	plow	VBP	_	15	dep
+24	.	.	.	_	15	punct
+

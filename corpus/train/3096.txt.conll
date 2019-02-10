@@ -1,0 +1,24 @@
+1	First	First	NNP	_	3	nn
+2	Great	Great	NNP	_	3	nn
+3	Western	Western	NNP	_	5	nsubj
+4	is	be	VBZ	_	5	aux
+5	preparing	prepare	VBG	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	distribute	distribute	VB	_	5	xcomp
+8	thousands	thousand	NNS	_	7	dobj
+9	of	of	IN	_	8	prep
+10	leaflets	leaflet	NNS	_	9	pobj
+11	on	on	IN	_	7	prep
+12	board	board	NN	_	14	nn
+13	its	its	PRP$	_	14	poss
+14	trains	train	NNS	_	11	pobj
+15	to	to	TO	_	16	aux
+16	inform	inform	VB	_	7	vmod
+17	customers	customer	NNS	_	16	dobj
+18	about	about	IN	_	16	prep
+19	a	a	DT	_	22	det
+20	major	major	JJ	_	22	amod
+21	track	track	NN	_	22	nn
+22	improvement	improvement	NN	_	18	pobj
+23	.	.	.	_	5	punct
+

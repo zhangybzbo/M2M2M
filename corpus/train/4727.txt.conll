@@ -1,0 +1,24 @@
+1	As	as	IN	_	14	prep
+2	longtime	longtime	JJ	_	3	amod
+3	publishers	publisher	NNS	_	1	pobj
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	healthcare	healthcare	NN	_	7	nn
+7	industry	industry	NN	_	4	pobj
+8	,	,	,	_	14	punct
+9	we	we	PRP	_	14	nsubj
+10	,	,	,	_	14	punct
+11	too	too	RB	_	14	advmod
+12	,	,	,	_	14	punct
+13	are	be	VBP	_	14	cop
+14	skeptical	skeptical	JJ	_	0	ROOT
+15	about	about	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	glut	glut	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	startups	startup	NNS	_	18	pobj
+20	in	in	IN	_	17	prep
+21	this	this	DT	_	22	det
+22	area	area	NN	_	20	pobj
+23	.	.	.	_	14	punct
+

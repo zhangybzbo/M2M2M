@@ -1,0 +1,14 @@
+1	Since	since	IN	_	9	prep
+2	then	then	RB	_	1	pcomp
+3	,	,	,	_	9	punct
+4	numerous	numerous	JJ	_	7	amod
+5	independent	independent	JJ	_	7	amod
+6	feature	feature	NN	_	7	nn
+7	directors	director	NNS	_	9	nsubj
+8	have	have	VBP	_	9	aux
+9	journeyed	journey	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	series	series	NN	_	12	nn
+12	television	television	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

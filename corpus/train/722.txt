@@ -1,0 +1,1 @@
+I/O traffic is transferred directly into a target processor cache in accordance with routing information .

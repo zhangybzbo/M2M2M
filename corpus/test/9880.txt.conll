@@ -1,0 +1,25 @@
+1	After	after	IN	_	15	prep
+2	having	have	VBG	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	aged	age	VBN	_	1	pcomp
+5	for	for	IN	_	4	prep
+6	several	several	JJ	_	7	amod
+7	months	month	NNS	_	5	pobj
+8	to	to	TO	_	4	prep
+9	a	a	DT	_	10	det
+10	year	year	NN	_	8	pobj
+11	,	,	,	_	15	punct
+12	the	the	DT	_	13	det
+13	cigars	cigar	NNS	_	15	nsubjpass
+14	were	be	VBD	_	15	auxpass
+15	kept	keep	VBN	_	0	ROOT
+16	in	in	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	humidor	humidor	NN	_	16	pobj
+19	;	;	:	_	15	punct
+20	thus	thus	RB	_	22	advmod
+21	they	they	PRP	_	22	nsubj
+22	tasted	taste	VBD	_	15	parataxis
+23	better	better	JJR	_	22	dobj
+24	.	.	.	_	15	punct
+

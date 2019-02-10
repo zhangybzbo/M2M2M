@@ -1,0 +1,10 @@
+1	Dizziness	dizziness	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	whiplash	whiplash	NN	_	4	pobj
+6	and	and	CC	_	5	cc
+7	head	head	NN	_	8	nn
+8	injury	injury	NN	_	5	conj
+9	.	.	.	_	3	punct
+

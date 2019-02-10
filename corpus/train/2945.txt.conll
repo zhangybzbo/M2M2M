@@ -1,0 +1,9 @@
+1	This	this	DT	_	2	det
+2	train	train	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	windows	window	NNS	_	7	nsubjpass
+5	are	be	VBP	_	7	auxpass
+6	elegantly	elegantly	RB	_	7	advmod
+7	curtained	curtain	VBN	_	0	ROOT
+8	.	.	.	_	7	punct
+

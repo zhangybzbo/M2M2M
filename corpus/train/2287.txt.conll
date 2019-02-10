@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	passenger	passenger	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	placed	place	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	small	small	JJ	_	8	amod
+8	room	room	NN	_	5	pobj
+9	before	before	IN	_	4	prep
+10	being	be	VBG	_	11	auxpass
+11	transported	transport	VBN	_	9	pcomp
+12	to	to	TO	_	11	prep
+13	Harborview	Harborview	NNP	_	15	nn
+14	Medical	Medical	NNP	_	15	nn
+15	Center	Center	NNP	_	12	pobj
+16	for	for	IN	_	11	prep
+17	treatment	treatment	NN	_	16	pobj
+18	.	.	.	_	4	punct
+

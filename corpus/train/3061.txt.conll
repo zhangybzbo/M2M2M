@@ -1,0 +1,25 @@
+1	One	one	CD	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	her	she	PRP$	_	4	poss
+4	arguments	argument	NNS	_	2	pobj
+5	addresses	address	NNS	_	4	dep
+6	the	the	DT	_	9	det
+7	very	very	RB	_	8	advmod
+8	real	real	JJ	_	9	amod
+9	threat	threat	NN	_	5	dobj
+10	that	that	IN	_	17	mark
+11	the	the	DT	_	12	det
+12	women	woman	NNS	_	14	poss
+13	's	's	POS	_	12	possessive
+14	struggle	struggle	NN	_	17	nsubjpass
+15	is	be	VBZ	_	17	aux
+16	being	be	VBG	_	17	auxpass
+17	bypassed	bypass	VBN	_	9	ccomp
+18	as	as	IN	_	23	mark
+19	the	the	DT	_	22	det
+20	new	new	JJ	_	22	amod
+21	social	social	JJ	_	22	amod
+22	movement	movement	NN	_	23	nsubj
+23	succeeds	succeed	VBZ	_	17	advcl
+24	.	.	.	_	1	punct
+

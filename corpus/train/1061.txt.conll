@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	variety	variety	NN	_	6	nsubjpass
+3	of	of	IN	_	2	prep
+4	methods	method	NNS	_	3	pobj
+5	are	be	VBP	_	6	auxpass
+6	known	know	VBN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	but	but	CC	_	6	cc
+9	only	only	RB	_	12	advmod
+10	a	a	DT	_	12	det
+11	few	few	JJ	_	12	amod
+12	papers	papers	NNS	_	13	nsubj
+13	give	give	VBP	_	6	conj
+14	details	detail	NNS	_	13	dobj
+15	of	of	IN	_	14	prep
+16	equipment	equipment	NN	_	17	nn
+17	construction	construction	NN	_	15	pobj
+18	.	.	.	_	6	punct
+

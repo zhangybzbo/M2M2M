@@ -1,0 +1,1 @@
+The boost voltage is derived from a separate , external low-voltage source so as to meet the -LRB- VBOOST - . VSW -RRB- voltage requirement .

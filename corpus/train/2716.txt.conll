@@ -1,0 +1,26 @@
+1	One	one	CD	_	3	num
+2	immediate	immediate	JJ	_	3	amod
+3	challenge	challenge	NN	_	8	nsubj
+4	posed	pose	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	method	method	NN	_	5	pobj
+8	was	be	VBD	_	0	ROOT
+9	that	that	IN	_	16	mark
+10	only	only	RB	_	12	advmod
+11	a	a	DT	_	12	det
+12	handful	handful	NN	_	16	nsubj
+13	of	of	IN	_	12	prep
+14	images	image	NNS	_	13	pobj
+15	were	be	VBD	_	16	cop
+16	viewable	viewable	JJ	_	8	ccomp
+17	on	on	IN	_	16	prep
+18	a	a	DT	_	20	det
+19	computer	computer	NN	_	20	nn
+20	screen	screen	NN	_	17	pobj
+21	at	at	IN	_	16	prep
+22	the	the	DT	_	24	det
+23	same	same	JJ	_	24	amod
+24	time	time	NN	_	21	pobj
+25	.	.	.	_	8	punct
+

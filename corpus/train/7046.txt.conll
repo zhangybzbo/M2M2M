@@ -1,0 +1,25 @@
+1	His	he	PRP$	_	2	poss
+2	scepticism	scepticism	NN	_	12	nsubj
+3	in	in	IN	_	2	prep
+4	regard	regard	NN	_	3	pobj
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	8	det
+7	liberal	liberal	JJ	_	8	amod
+8	reforms	reform	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	sixties	sixty	NNS	_	9	pobj
+12	made	make	VBD	_	0	ROOT
+13	him	he	PRP	_	15	nsubj
+14	very	very	RB	_	15	advmod
+15	unpopular	unpopular	JJ	_	12	xcomp
+16	among	among	IN	_	15	prep
+17	the	the	DT	_	20	det
+18	more	more	RBR	_	19	advmod
+19	progressive	progressive	JJ	_	20	amod
+20	writers	writer	NNS	_	16	pobj
+21	of	of	IN	_	20	prep
+22	that	that	DT	_	23	det
+23	time	time	NN	_	21	pobj
+24	.	.	.	_	12	punct
+

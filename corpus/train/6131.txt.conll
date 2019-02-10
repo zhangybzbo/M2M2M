@@ -1,0 +1,25 @@
+1	In	in	IN	_	0	ROOT
+2	addition	addition	NN	_	1	pobj
+3	to	to	TO	_	2	prep
+4	my	my	PRP$	_	6	poss
+5	passionate	passionate	JJ	_	6	amod
+6	work	work	NN	_	3	pobj
+7	with	with	IN	_	6	prep
+8	this	this	DT	_	9	det
+9	firm	firm	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	other	other	JJ	_	12	amod
+12	moustache	moustache	NN	_	9	conj
+13	related	related	JJ	_	14	amod
+14	activities	activity	NNS	_	9	dep
+15	I	I	PRP	_	16	nsubj
+16	work	work	VBP	_	14	rcmod
+17	as	as	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	policeman	policeman	NN	_	17	pobj
+20	in	in	IN	_	19	prep
+21	Trondheim	Trondheim	NNP	_	23	nn
+22	police	police	NN	_	23	nn
+23	department	department	NN	_	20	pobj
+24	.	.	.	_	1	punct
+

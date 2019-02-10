@@ -1,0 +1,12 @@
+0	68	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="factory" pos="NN" nn="t1"
+8	13	tok id="t1" base="class" pos="NN" ROOT="ROOT"
+14	18	tok id="t2" base="that" pos="WDT" nsubj="t3"
+19	31	tok id="t3" base="manufacture" pos="VBZ" rcmod="t1"
+32	41	tok id="t4" base="component" pos="NN" nn="t5"
+42	49	tok id="t5" base="object" pos="NNS" dobj="t3"
+50	53	tok id="t6" base="for" pos="IN" prep="t3"
+54	57	tok id="t7" base="the" pos="DT" det="t8"
+58	66	tok id="t8" base="farmyard" pos="NN" pobj="t6"
+67	68	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

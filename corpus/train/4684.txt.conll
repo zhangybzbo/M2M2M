@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	committee	committee	NN	_	3	nn
+3	meetings	meeting	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	rescheduled	reschedule	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	tomorrow	tomorrow	NN	_	7	pobj
+9	,	,	,	_	8	punct
+10	January	January	NNP	_	8	appos
+11	17	17	CD	_	10	num
+12	.	.	.	_	6	punct
+

@@ -1,0 +1,15 @@
+1	Most	most	JJS	_	6	nsubj
+2	of	of	IN	_	1	prep
+3	these	these	DT	_	4	det
+4	films	film	NNS	_	2	pobj
+5	were	be	VBD	_	6	aux
+6	tackling	tackle	VBG	_	0	ROOT
+7	world	world	NN	_	8	nn
+8	issues	issue	NNS	_	6	dobj
+9	or	or	CC	_	6	cc
+10	had	have	VBD	_	6	conj
+11	a	a	DT	_	13	det
+12	socio-political	socio-political	JJ	_	13	amod
+13	background	background	NN	_	10	dobj
+14	.	.	.	_	6	punct
+

@@ -1,0 +1,12 @@
+1	Those	those	DT	_	2	det
+2	people	people	NNS	_	6	nsubj
+3	from	from	IN	_	2	prep
+4	Mexico	Mexico	NNP	_	3	pobj
+5	have	have	VBP	_	6	aux
+6	entered	enter	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	this	this	DT	_	9	det
+9	country	country	NN	_	7	pobj
+10	illegally	illegally	RB	_	6	advmod
+11	.	.	.	_	6	punct
+

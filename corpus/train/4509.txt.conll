@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	monitor	monitor	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	enclosed	enclose	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	lid	lid	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	wire	wire	NN	_	12	nn
+11	recorder	recorder	NN	_	12	nn
+12	case	case	NN	_	8	pobj
+13	.	.	.	_	4	punct
+

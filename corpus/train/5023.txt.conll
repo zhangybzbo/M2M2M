@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	det
+2	microphone	microphone	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	12	det
+7	medical	medical	JJ	_	12	amod
+8	grade	grade	NN	_	12	nn
+9	grey	grey	JJ	_	12	amod
+10	silicone	silicone	NN	_	12	nn
+11	suction	suction	NN	_	12	nn
+12	cup	cup	NN	_	5	pobj
+13	that	that	WDT	_	15	nsubj
+14	can	can	MD	_	15	aux
+15	stay	stay	VB	_	12	rcmod
+16	attached	attach	VBN	_	15	advmod
+17	to	to	TO	_	16	prep
+18	slick	slick	JJ	_	20	amod
+19	smooth	smooth	JJ	_	20	amod
+20	surfaces	surface	NNS	_	17	pobj
+21	for	for	IN	_	15	prep
+22	long	long	JJ	_	23	amod
+23	periods	period	NNS	_	21	pobj
+24	.	.	.	_	4	punct
+

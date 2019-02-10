@@ -1,0 +1,22 @@
+1	It	it	PRP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	drizzling	drizzle	VBG	_	0	ROOT
+4	lightly	lightly	RB	_	3	advmod
+5	in	in	IN	_	3	prep
+6	late	late	JJ	_	7	amod
+7	October	October	NNP	_	5	pobj
+8	when	when	WRB	_	12	advmod
+9	the	the	DT	_	11	det
+10	midnight	midnight	NN	_	11	nn
+11	shift	shift	NN	_	12	nsubj
+12	started	start	VBD	_	3	advcl
+13	at	at	IN	_	12	prep
+14	the	the	DT	_	20	det
+15	Owls	Owls	NNPS	_	20	nn
+16	Head	Head	NNP	_	20	nn
+17	Water	Water	NNP	_	20	nn
+18	pollution	pollution	NN	_	20	nn
+19	control	control	NN	_	20	nn
+20	plant	plant	NN	_	13	pobj
+21	.	.	.	_	3	punct
+

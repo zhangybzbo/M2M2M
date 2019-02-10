@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	morning	morning	NN	_	3	nn
+3	session	session	NN	_	4	nsubj
+4	contains	contain	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	tutorial	tutorial	NN	_	4	dobj
+7	that	that	WDT	_	8	nsubj
+8	aims	aim	VBZ	_	6	rcmod
+9	to	to	TO	_	10	aux
+10	address	address	VB	_	8	xcomp
+11	the	the	DT	_	13	det
+12	basic	basic	JJ	_	13	amod
+13	issues	issue	NNS	_	10	dobj
+14	necessary	necessary	JJ	_	13	amod
+15	for	for	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	better	better	JJR	_	18	amod
+18	understanding	understanding	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	this	this	DT	_	22	det
+21	complicated	complicate	VBN	_	22	amod
+22	topic	topic	NN	_	19	pobj
+23	.	.	.	_	4	punct
+

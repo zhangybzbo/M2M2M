@@ -1,0 +1,13 @@
+1	On	on	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	hour	hour	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	clock	clock	NN	_	7	nsubj
+7	plays	play	VBZ	_	0	ROOT
+8	a	a	DT	_	9	det
+9	melody	melody	NN	_	7	dobj
+10	with	with	IN	_	7	prep
+11	motion	motion	NN	_	10	pobj
+12	.	.	.	_	7	punct
+

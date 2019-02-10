@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	oven	oven	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	flat	flat	JJ	_	7	amod
+6	belt	belt	NN	_	7	nn
+7	conveyor	conveyor	NN	_	3	dobj
+8	with	with	IN	_	3	prep
+9	three	three	CD	_	10	num
+10	zones	zone	NNS	_	8	pobj
+11	and	and	CC	_	10	cc
+12	complete	complete	JJ	_	13	amod
+13	controls	control	NNS	_	10	conj
+14	.	.	.	_	3	punct
+

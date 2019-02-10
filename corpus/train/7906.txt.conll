@@ -1,0 +1,17 @@
+1	Providence	Providence	NNP	_	3	nsubj
+2	had	have	VBD	_	3	aux
+3	sent	send	VBN	_	0	ROOT
+4	the	the	DT	_	6	det
+5	old	old	JJ	_	6	amod
+6	man	man	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	world	world	NN	_	7	pobj
+10	with	with	IN	_	3	prep
+11	a	a	DT	_	12	nsubj
+12	chisel	chisel	VBP	_	10	pcomp
+13	in	in	IN	_	12	prep
+14	his	he	PRP$	_	15	poss
+15	hand	hand	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	Only	only	RB	_	2	advmod
+2	then	then	RB	_	5	advmod
+3	did	do	VBD	_	5	aux
+4	I	I	PRP	_	5	nsubj
+5	notice	notice	VB	_	0	ROOT
+6	an	a	DT	_	7	det
+7	ambush	ambush	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	tigers	tiger	NNS	_	10	nn
+10	pacing	pacing	NN	_	8	pobj
+11	us	we	PRP	_	10	npadvmod
+12	on	on	IN	_	5	prep
+13	the	the	DT	_	15	det
+14	far	far	JJ	_	15	amod
+15	shore	shore	NN	_	12	pobj
+16	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+1	Chronic	chronic	JJ	_	5	nsubj
+2	coughing	cough	VBG	_	1	vmod
+3	from	from	IN	_	2	prep
+4	smoking	smoking	NN	_	3	pobj
+5	increases	increase	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	risk	risk	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	developing	develop	VBG	_	8	pcomp
+10	a	a	DT	_	11	det
+11	hernia	hernia	NN	_	9	dobj
+12	.	.	.	_	5	punct
+

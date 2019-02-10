@@ -1,0 +1,23 @@
+1	After	after	IN	_	0	ROOT
+2	seating	seat	VBG	_	1	pcomp
+3	all	all	PDT	_	5	predet
+4	the	the	DT	_	5	det
+5	idols	idol	NNS	_	2	dobj
+6	,	,	,	_	5	punct
+7	which	which	WDT	_	9	dobj
+8	itself	itself	PRP	_	9	nsubj
+9	takes	take	VBZ	_	5	rcmod
+10	hours	hour	NNS	_	9	dobj
+11	,	,	,	_	5	punct
+12	the	the	DT	_	14	det
+13	traditional	traditional	JJ	_	14	amod
+14	king	king	NN	_	15	nsubj
+15	sweeps	sweep	VBZ	_	5	rcmod
+16	the	the	DT	_	17	det
+17	chariot	chariot	NN	_	15	dobj
+18	with	with	IN	_	15	prep
+19	a	a	DT	_	21	det
+20	golden	golden	JJ	_	21	amod
+21	broom	broom	NN	_	18	pobj
+22	.	.	.	_	1	punct
+

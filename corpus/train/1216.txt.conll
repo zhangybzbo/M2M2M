@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	meeting	meeting	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	postponed	postpone	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	8	det
+7	later	later	JJ	_	8	amod
+8	date	date	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+1	Individualized	individualized	JJ	_	2	amod
+2	letters	letter	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	sent	send	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	9	det
+8	following	follow	VBG	_	9	amod
+9	addresses	address	NNS	_	6	pobj
+10	.	.	.	_	5	punct
+

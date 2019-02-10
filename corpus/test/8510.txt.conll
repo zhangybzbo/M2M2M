@@ -1,0 +1,16 @@
+1	Three	three	CD	_	2	num
+2	men	man	NNS	_	3	nsubj
+3	spent	spend	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	afternoon	afternoon	NN	_	3	dobj
+6	inside	inside	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	record	record	NN	_	9	nn
+9	store	store	NN	_	6	pobj
+10	listening	listen	VBG	_	9	vmod
+11	to	to	TO	_	10	prep
+12	an	a	DT	_	14	det
+13	obscure	obscure	JJ	_	14	amod
+14	band	band	NN	_	11	pobj
+15	.	.	.	_	3	punct
+

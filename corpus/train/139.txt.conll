@@ -1,0 +1,18 @@
+1	Water	water	NN	_	2	nn
+2	damage	damage	NN	_	11	nsubj
+3	from	from	IN	_	2	prep
+4	roof	roof	NN	_	5	nn
+5	leaks	leak	NNS	_	3	pobj
+6	,	,	,	_	5	punct
+7	plumbing	plumbing	NN	_	8	nn
+8	leaks	leak	NNS	_	5	conj
+9	or	or	CC	_	5	cc
+10	flooding	flooding	NN	_	5	conj
+11	lead	lead	VBP	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	the	the	DT	_	14	det
+14	growth	growth	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	molds	mold	NNS	_	15	pobj
+17	.	.	.	_	11	punct
+

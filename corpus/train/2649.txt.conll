@@ -1,0 +1,22 @@
+1	This	this	DT	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	a	a	DT	_	4	det
+4	sounder	sounder	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	fifteen	fifteen	CD	_	7	num
+7	swine	swine	NNS	_	5	pobj
+8	,	,	,	_	4	punct
+9	led	lead	VBN	_	4	vmod
+10	by	by	IN	_	9	prep
+11	an	a	DT	_	14	det
+12	enormous	enormous	JJ	_	14	amod
+13	white	white	JJ	_	14	amod
+14	pig	pig	NN	_	10	pobj
+15	,	,	,	_	14	punct
+16	the	the	DT	_	17	det
+17	size	size	NN	_	14	appos
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	cow	cow	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

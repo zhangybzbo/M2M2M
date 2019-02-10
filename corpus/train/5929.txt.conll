@@ -1,0 +1,22 @@
+1	He	he	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	water	water	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	a	a	DT	_	7	det
+6	cookie	cookie	NN	_	7	nn
+7	pan	pan	NN	_	4	pobj
+8	,	,	,	_	2	punct
+9	put	put	VBD	_	2	conj
+10	the	the	DT	_	11	det
+11	mold	mold	NN	_	9	dobj
+12	into	into	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	pan	pan	NN	_	12	pobj
+15	,	,	,	_	2	punct
+16	and	and	CC	_	2	cc
+17	froze	freeze	VBD	_	2	conj
+18	the	the	DT	_	19	det
+19	two	two	CD	_	17	dobj
+20	together	together	RB	_	17	advmod
+21	.	.	.	_	2	punct
+

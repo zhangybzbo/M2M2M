@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	club	club	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	president	president	NN	_	5	nsubj
+5	saw	see	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	money	money	NN	_	5	dobj
+8	that	that	WDT	_	9	nsubj
+9	was	be	VBD	_	7	rcmod
+10	inside	inside	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	box	box	NN	_	10	pobj
+13	.	.	.	_	5	punct
+

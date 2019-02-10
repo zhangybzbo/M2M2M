@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	hinge	hinge	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	crack	crack	NN	_	3	dobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	left	left	JJ	_	9	amod
+9	side	side	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	my	my	PRP$	_	12	poss
+12	kindle	kindle	NN	_	10	pobj
+13	,	,	,	_	3	punct
+14	and	and	CC	_	3	cc
+15	Amazon	Amazon	NNP	_	18	nsubj
+16	has	have	VBZ	_	18	aux
+17	been	be	VBN	_	18	cop
+18	horrible	horrible	JJ	_	3	conj
+19	about	about	IN	_	18	prep
+20	helping	help	VBG	_	19	pcomp
+21	with	with	IN	_	20	prep
+22	this	this	DT	_	23	det
+23	issue	issue	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

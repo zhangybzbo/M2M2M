@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	windshield	windshield	NN	_	3	nsubj
+3	encloses	enclose	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	parachute	parachute	NN	_	6	nn
+6	housing	housing	NN	_	3	dobj
+7	containing	contain	VBG	_	6	vmod
+8	a	a	DT	_	10	det
+9	parachute	parachute	NN	_	10	nn
+10	assembly	assembly	NN	_	7	dobj
+11	.	.	.	_	3	punct
+

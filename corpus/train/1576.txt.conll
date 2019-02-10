@@ -1,0 +1,18 @@
+1	For	for	IN	_	6	prep
+2	safety	safety	NN	_	3	nn
+3	reasons	reason	NNS	_	1	pobj
+4	,	,	,	_	6	punct
+5	he	he	PRP	_	6	nsubj
+6	loads	load	NNS	_	0	ROOT
+7	and	and	CC	_	6	cc
+8	unloads	unload	VBZ	_	6	conj
+9	his	he	PRP$	_	10	poss
+10	bike	bike	NN	_	8	dobj
+11	from	from	IN	_	8	prep
+12	the	the	DT	_	13	det
+13	curbside	curbside	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	bus	bus	NN	_	14	pobj
+17	.	.	.	_	6	punct
+

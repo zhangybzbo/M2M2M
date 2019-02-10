@@ -1,0 +1,12 @@
+1	He	he	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	sugar	sugar	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	his	he	PRP$	_	6	poss
+6	coffee	coffee	NN	_	4	pobj
+7	without	without	IN	_	2	prep
+8	even	even	RB	_	9	advmod
+9	trying	try	VBG	_	7	pcomp
+10	it	it	PRP	_	9	dobj
+11	.	.	.	_	2	punct
+

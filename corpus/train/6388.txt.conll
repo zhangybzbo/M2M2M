@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	band	band	NN	_	4	nsubj
+3	themselves	themselves	PRP	_	2	npadvmod
+4	explained	explain	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	decision	decision	NN	_	4	dobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	following	follow	VBG	_	10	amod
+10	statement	statement	NN	_	7	pobj
+11	on	on	IN	_	10	prep
+12	their	they	PRP$	_	14	poss
+13	official	official	JJ	_	14	amod
+14	website	website	NN	_	11	pobj
+15	.	.	.	_	4	punct
+

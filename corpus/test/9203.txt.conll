@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj
+2	pressed	press	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	button	button	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	radio	radio	NN	_	5	pobj
+8	for	for	IN	_	2	prep
+9	contacting	contact	VBG	_	8	pcomp
+10	the	the	DT	_	12	det
+11	engine	engine	NN	_	12	nn
+12	driver	driver	NN	_	9	dobj
+13	and	and	CC	_	2	cc
+14	said	say	VBD	_	2	conj
+15	that	that	IN	_	17	mark
+16	there	there	EX	_	17	expl
+17	was	be	VBD	_	14	ccomp
+18	much	much	JJ	_	19	amod
+19	smoke	smoke	NN	_	17	nsubj
+20	in	in	IN	_	17	prep
+21	the	the	DT	_	22	det
+22	car	car	NN	_	20	pobj
+23	.	.	.	_	2	punct
+

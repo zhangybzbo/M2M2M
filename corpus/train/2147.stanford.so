@@ -1,0 +1,12 @@
+0	43	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	7	tok id="t1" base="train" pos="NN" nsubj="t2"
+8	11	tok id="t2" base="run" pos="VBD" ROOT="ROOT"
+12	16	tok id="t3" base="into" pos="IN" prep="t2"
+17	18	tok id="t4" base="a" pos="DT" det="t5"
+19	25	tok id="t5" base="cattle" pos="NNS" pobj="t3"
+26	28	tok id="t6" base="on" pos="IN" prep="t5"
+29	32	tok id="t7" base="the" pos="DT" det="t8"
+33	41	tok id="t8" base="railroad" pos="NN" pobj="t6"
+42	43	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

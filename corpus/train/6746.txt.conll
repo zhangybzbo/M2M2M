@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	engine	engine	NN	_	3	nsubj
+3	operated	operate	VBD	_	0	ROOT
+4	three	three	CD	_	5	num
+5	strands	strand	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	rope	rope	NN	_	8	nn
+8	fall	fall	NN	_	6	pobj
+9	,	,	,	_	3	punct
+10	hoisting	hoist	VBG	_	3	vmod
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	hold	hold	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	boat	boat	NN	_	14	pobj
+17	three	three	CD	_	18	num
+18	tubs	tub	NNS	_	16	dep
+19	of	of	IN	_	18	prep
+20	iron	iron	NN	_	21	nn
+21	ore	ore	NN	_	19	pobj
+22	at	at	IN	_	18	prep
+23	a	a	DT	_	24	det
+24	time	time	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

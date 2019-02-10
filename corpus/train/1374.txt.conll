@@ -1,0 +1,11 @@
+1	Get	get	VB	_	0	ROOT
+2	on	on	IN	_	1	prep
+3	board	board	NN	_	2	pobj
+4	before	before	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	train	train	NN	_	7	nsubj
+7	leaves	leave	VBZ	_	1	advcl
+8	the	the	DT	_	9	det
+9	station	station	NN	_	7	dobj
+10	.	.	.	_	1	punct
+

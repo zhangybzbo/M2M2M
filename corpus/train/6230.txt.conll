@@ -1,0 +1,22 @@
+1	When	when	WRB	_	3	advmod
+2	she	she	PRP	_	3	nsubj
+3	had	have	VBD	_	12	advcl
+4	her	she	PRP$	_	6	poss
+5	last	last	JJ	_	6	amod
+6	surgery	surgery	NN	_	3	dobj
+7	in	in	IN	_	3	prep
+8	March	March	NNP	_	7	pobj
+9	,	,	,	_	12	punct
+10	her	she	PRP$	_	11	poss
+11	grandma	grandma	NN	_	12	nsubj
+12	got	get	VBD	_	0	ROOT
+13	her	she	PRP	_	15	nsubj
+14	a	a	DT	_	15	det
+15	suitcase	suitcase	NN	_	12	xcomp
+16	with	with	IN	_	15	prep
+17	new	new	JJ	_	18	amod
+18	pajamas	pajamas	NNS	_	16	pobj
+19	in	in	IN	_	15	prep
+20	it	it	PRP	_	19	pobj
+21	.	.	.	_	12	punct
+

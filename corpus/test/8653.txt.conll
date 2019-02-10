@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	evidence	evidence	NN	_	3	nsubj
+3	arose	arise	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	results	result	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	several	several	JJ	_	10	amod
+9	GWS	gw	NN	_	10	nn
+10	studies	study	NNS	_	7	pobj
+11	in	in	IN	_	16	prep
+12	which	which	WDT	_	11	pobj
+13	our	we	PRP$	_	14	poss
+14	team	team	NN	_	16	nsubj
+15	has	have	VBZ	_	16	aux
+16	participated	participate	VBN	_	10	rcmod
+17	.	.	.	_	3	punct
+

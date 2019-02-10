@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	left	left	JJ	_	3	amod
+3	sleeve	sleeve	NN	_	9	nsubjpass
+4	of	of	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	sweater	sweater	NN	_	4	pobj
+7	is	be	VBZ	_	9	auxpass
+8	clearly	clearly	RB	_	9	advmod
+9	rolled	roll	VBN	_	0	ROOT
+10	back	back	RB	_	9	advmod
+11	,	,	,	_	9	punct
+12	and	and	CC	_	9	cc
+13	the	the	DT	_	14	det
+14	sweater	sweater	NN	_	16	nsubj
+15	is	be	VBZ	_	16	aux
+16	hanging	hang	VBG	_	9	conj
+17	off	off	RP	_	16	prt
+18	her	she	PRP$	_	20	poss
+19	left	left	JJ	_	20	amod
+20	shoulder	shoulder	NN	_	16	dobj
+21	.	.	.	_	9	punct
+

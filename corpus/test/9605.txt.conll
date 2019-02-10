@@ -1,0 +1,18 @@
+1	These	these	DT	_	2	det
+2	tests	test	NNS	_	3	nsubj
+3	work	work	VBP	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	using	use	VBG	_	4	pcomp
+6	a	a	DT	_	7	det
+7	substance	substance	NN	_	5	dobj
+8	that	that	WDT	_	9	nsubj
+9	changes	change	VBZ	_	7	rcmod
+10	color	color	NN	_	9	dobj
+11	once	once	IN	_	14	mark
+12	it	it	PRP	_	14	nsubjpass
+13	is	be	VBZ	_	14	auxpass
+14	bound	bind	VBN	_	9	advcl
+15	to	to	TO	_	14	prep
+16	hCG	hcg	NN	_	15	pobj
+17	.	.	.	_	3	punct
+

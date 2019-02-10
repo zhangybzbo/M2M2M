@@ -1,0 +1,12 @@
+0	50	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="Eucharist" pos="NNP" nsubj="t3"
+10	12	tok id="t1" base="be" pos="VBZ" cop="t3"
+13	16	tok id="t2" base="the" pos="DT" det="t3"
+17	23	tok id="t3" base="source" pos="NN" ROOT="ROOT"
+24	26	tok id="t4" base="of" pos="IN" prep="t3"
+27	30	tok id="t5" base="the" pos="DT" det="t6"
+31	37	tok id="t6" base="Church" pos="NNP" poss="t8"
+38	40	tok id="t7" base="'s" pos="POS" possessive="t6"
+41	48	tok id="t8" base="mission" pos="NN" pobj="t4"
+49	50	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,22 @@
+1	During	during	IN	_	9	prep
+2	this	this	DT	_	3	det
+3	time	time	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	her	she	PRP$	_	7	poss
+6	stamp	stamp	NN	_	7	nn
+7	stock	stock	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	locked	lock	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	15	det
+12	safe	safe	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	no	no	DT	_	12	conj
+15	one	one	NN	_	10	pobj
+16	else	else	RB	_	15	advmod
+17	had	have	VBD	_	9	ccomp
+18	access	access	NN	_	17	dobj
+19	to	to	TO	_	18	prep
+20	it	it	PRP	_	19	pobj
+21	.	.	.	_	9	punct
+

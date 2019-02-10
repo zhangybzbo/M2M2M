@@ -1,0 +1,23 @@
+1	In	in	IN	_	8	prep
+2	experiments	experiment	NNS	_	1	pobj
+3	so	so	RB	_	4	advmod
+4	far	far	RB	_	8	advmod
+5	the	the	DT	_	6	det
+6	researchers	researcher	NNS	_	8	nsubj
+7	have	have	VBP	_	8	aux
+8	produced	produce	VBN	_	0	ROOT
+9	spider	spider	NN	_	10	nn
+10	silk	silk	NN	_	8	dobj
+11	by	by	IN	_	8	prep
+12	inserting	insert	VBG	_	11	pcomp
+13	the	the	DT	_	14	det
+14	gene	gene	NN	_	12	dobj
+15	into	into	IN	_	12	prep
+16	the	the	DT	_	17	det
+17	genome	genome	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	cows	cow	NNS	_	18	pobj
+20	and	and	CC	_	19	cc
+21	hamsters	hamster	NNS	_	19	conj
+22	.	.	.	_	8	punct
+

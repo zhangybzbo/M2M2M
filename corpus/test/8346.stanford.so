@@ -1,0 +1,9 @@
+0	31	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="cat" pos="NN" nn="t1"
+4	7	tok id="t1" base="toy" pos="NN" nsubjpass="t3"
+8	11	tok id="t2" base="be" pos="VBD" auxpass="t3"
+12	18	tok id="t3" base="fill" pos="VBN" ROOT="ROOT"
+19	23	tok id="t4" base="with" pos="IN" prep="t3"
+24	29	tok id="t5" base="trash" pos="NN" pobj="t4"
+30	31	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

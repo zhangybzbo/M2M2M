@@ -1,0 +1,21 @@
+1	Two	two	CD	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	my	my	PRP$	_	4	poss
+4	girls	girl	NNS	_	2	pobj
+5	had	have	VBD	_	0	ROOT
+6	the	the	DT	_	8	det
+7	high	high	JJ	_	8	amod
+8	fever	fever	NN	_	5	dobj
+9	from	from	IN	_	8	prep
+10	vaccines	vaccine	NNS	_	9	pobj
+11	,	,	,	_	5	punct
+12	and	and	CC	_	5	cc
+13	our	we	PRP$	_	15	poss
+14	family	family	NN	_	15	nn
+15	doctor	doctor	NN	_	16	nsubj
+16	thought	think	VBD	_	5	conj
+17	nothing	nothing	NN	_	16	dobj
+18	of	of	IN	_	17	prep
+19	it	it	PRP	_	18	pobj
+20	.	.	.	_	5	punct
+

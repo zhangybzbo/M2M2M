@@ -1,0 +1,14 @@
+1	Heart	Heart	NNP	_	8	nsubj
+2	,	,	,	_	1	punct
+3	blood	blood	NN	_	4	nn
+4	vessels	vessel	NNS	_	1	appos
+5	,	,	,	_	1	punct
+6	blood	blood	NN	_	1	appos
+7	are	be	VBP	_	8	cop
+8	parts	part	NNS	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	circulatory	circulatory	JJ	_	12	amod
+12	system	system	NN	_	9	pobj
+13	.	.	.	_	8	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	children	child	NNS	_	3	nsubj
+3	sent	send	VBD	_	0	ROOT
+4	their	they	PRP$	_	5	poss
+5	marriage	marriage	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	downward	downward	JJ	_	9	amod
+9	spiral	spiral	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

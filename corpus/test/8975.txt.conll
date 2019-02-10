@@ -1,0 +1,20 @@
+1	Proposals	proposal	NNS	_	10	nsubjpass
+2	to	to	TO	_	3	aux
+3	simplify	simplify	VB	_	1	vmod
+4	the	the	DT	_	7	det
+5	university	university	NN	_	7	nn
+6	admissions	admission	NNS	_	7	nn
+7	process	process	NN	_	3	dobj
+8	have	have	VBP	_	10	aux
+9	been	be	VBN	_	10	auxpass
+10	outlined	outline	VBN	_	0	ROOT
+11	at	at	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	conference	conference	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	secondary	secondary	JJ	_	18	amod
+16	school	school	NN	_	18	nn
+17	head	head	NN	_	18	nn
+18	teachers	teacher	NNS	_	14	pobj
+19	.	.	.	_	10	punct
+

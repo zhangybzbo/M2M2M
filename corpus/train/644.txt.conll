@@ -1,0 +1,19 @@
+1	Incandescent	incandescent	JJ	_	2	amod
+2	bulbs	bulb	NNS	_	3	nsubj
+3	work	work	VBP	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	using	use	VBG	_	4	pcomp
+6	electricity	electricity	NN	_	5	dobj
+7	to	to	TO	_	8	aux
+8	heat	heat	VB	_	5	vmod
+9	a	a	DT	_	11	det
+10	tungsten	tungsten	NN	_	11	nn
+11	filament	filament	NN	_	8	dobj
+12	in	in	IN	_	8	prep
+13	the	the	DT	_	14	det
+14	bulb	bulb	NN	_	12	pobj
+15	until	until	IN	_	17	mark
+16	it	it	PRP	_	17	nsubj
+17	glows	glow	VBZ	_	8	advcl
+18	.	.	.	_	3	punct
+

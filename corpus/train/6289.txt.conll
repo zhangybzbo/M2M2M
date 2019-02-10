@@ -1,0 +1,20 @@
+1	That	that	DT	_	2	nsubj
+2	looked	look	VBD	_	0	ROOT
+3	like	like	IN	_	2	prep
+4	an	a	DT	_	8	det
+5	equally	equally	RB	_	6	advmod
+6	impenetrable	impenetrable	JJ	_	8	amod
+7	city	city	NN	_	8	nn
+8	jungle	jungle	NN	_	3	pobj
+9	of	of	IN	_	8	prep
+10	wagons	wagon	NNS	_	9	pobj
+11	,	,	,	_	10	punct
+12	horses	horse	NNS	_	10	conj
+13	,	,	,	_	10	punct
+14	small	small	JJ	_	15	amod
+15	tents	tent	NNS	_	10	conj
+16	,	,	,	_	10	punct
+17	and	and	CC	_	10	cc
+18	humanity	humanity	NN	_	10	conj
+19	.	.	.	_	2	punct
+

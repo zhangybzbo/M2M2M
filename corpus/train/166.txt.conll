@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	tardiness	tardiness	NN	_	6	nsubjpass
+3	however	however	RB	_	6	advmod
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	arrival	arrival	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	my	my	PRP$	_	13	poss
+12	old	old	JJ	_	13	amod
+13	man	man	NN	_	10	pobj
+14	;	;	:	_	6	punct
+15	who	who	WP	_	21	nsubj
+16	in	in	IN	_	21	prep
+17	true	true	JJ	_	19	amod
+18	Bloodworth	Bloodworth	NNP	_	19	nn
+19	fashion	fashion	NN	_	16	pobj
+20	has	have	VBZ	_	21	aux
+21	had	have	VBN	_	6	parataxis
+22	me	I	PRP	_	23	nsubj
+23	walking	walk	VBG	_	21	xcomp
+24	everywhere	everywhere	RB	_	23	advmod
+25	.	.	.	_	21	punct
+

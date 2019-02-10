@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	University	University	NNP	_	6	dep
+3	of	of	IN	_	2	prep
+4	Colorado	Colorado	NNP	_	3	pobj
+5	student	student	NN	_	6	nsubj
+6	died	die	VBD	_	0	ROOT
+7	due	due	JJ	_	6	acomp
+8	to	to	TO	_	7	prep
+9	a	a	DT	_	10	det
+10	jump	jump	NN	_	8	pobj
+11	from	from	IN	_	10	prep
+12	an	a	DT	_	13	det
+13	overpass	overpass	NN	_	11	pobj
+14	onto	onto	IN	_	10	prep
+15	US	US	NNP	_	14	pobj
+16	36	36	CD	_	15	num
+17	.	.	.	_	6	punct
+

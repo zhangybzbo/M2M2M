@@ -1,0 +1,13 @@
+0	73	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="paternally" pos="RB" advmod="t3"
+11	18	tok id="t1" base="derive" pos="VBN" amod="t3"
+19	26	tok id="t2" base="genetic" pos="JJ" amod="t3"
+27	35	tok id="t3" base="material" pos="NN" nsubjpass="t5"
+36	38	tok id="t4" base="be" pos="VBZ" auxpass="t5"
+39	48	tok id="t5" base="inherit" pos="VBN" ROOT="ROOT"
+49	51	tok id="t6" base="to" pos="TO" prep="t5"
+52	55	tok id="t7" base="the" pos="DT" det="t9"
+56	60	tok id="t8" base="next" pos="JJ" amod="t9"
+61	71	tok id="t9" base="generation" pos="NN" pobj="t6"
+72	73	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

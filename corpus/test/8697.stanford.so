@@ -1,0 +1,12 @@
+0	61	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="construction" pos="NN" nn="t1"
+13	19	tok id="t1" base="worker" pos="NN" ROOT="ROOT"
+20	28	tok id="t2" base="carry" pos="VBG" vmod="t1"
+29	30	tok id="t3" base="a" pos="DT" det="t5"
+31	37	tok id="t4" base="wooden" pos="JJ" amod="t5"
+38	43	tok id="t5" base="plank" pos="NN" dobj="t2"
+44	46	tok id="t6" base="on" pos="IN" prep="t2"
+47	50	tok id="t7" base="he" pos="PRP$" poss="t8"
+51	59	tok id="t8" base="shoulder" pos="NN" pobj="t6"
+60	61	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

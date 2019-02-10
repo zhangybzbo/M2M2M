@@ -1,0 +1,11 @@
+0	50	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="animation" pos="NNS" nsubjpass="t2"
+11	14	tok id="t1" base="be" pos="VBP" auxpass="t2"
+15	23	tok id="t2" base="export" pos="VBN" ROOT="ROOT"
+24	26	tok id="t3" base="to" pos="TO" prep="t2"
+27	30	tok id="t4" base="the" pos="DT" det="t7"
+31	34	tok id="t5" base="new" pos="JJ" amod="t7"
+35	40	tok id="t6" base="Adobe" pos="NNP" nn="t7"
+41	48	tok id="t7" base="version" pos="NN" pobj="t3"
+49	50	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det
+2	Lisbon	Lisbon	NNP	_	3	nn
+3	treaty	treaty	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	come	come	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	force	force	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

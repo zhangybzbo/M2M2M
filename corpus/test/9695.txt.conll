@@ -1,0 +1,10 @@
+1	Wind	wind	NN	_	4	nn
+2	and	and	CC	_	1	cc
+3	water	water	NN	_	1	conj
+4	erosion	erosion	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	confined	confine	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	farmlands	farmland	NNS	_	7	pobj
+9	.	.	.	_	6	punct
+

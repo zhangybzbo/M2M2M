@@ -1,0 +1,3 @@
+T1	Term 7 14	payment
+T2	Term 36 43	account
+R1	Entity-Destination Arg1:T1 Arg2:T2

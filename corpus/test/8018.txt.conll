@@ -1,0 +1,22 @@
+1	An	a	DT	_	3	det
+2	FTP	ftp	NN	_	3	nn
+3	server	server	NN	_	0	ROOT
+4	is	be	VBZ	_	3	dep
+5	an	a	DT	_	4	nsubj
+6	inexpensive	inexpensive	JJ	_	5	amod
+7	and	and	CC	_	6	cc
+8	relatively	relatively	RB	_	9	advmod
+9	simple	simple	JJ	_	6	conj
+10	to	to	TO	_	11	aux
+11	operate	operate	VB	_	6	xcomp
+12	tool	tool	NN	_	11	dobj
+13	that	that	WDT	_	14	nsubj
+14	works	work	VBZ	_	12	rcmod
+15	great	great	JJ	_	14	acomp
+16	for	for	IN	_	14	prep
+17	filesharing	fileshare	VBG	_	16	pcomp
+18	over	over	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	internet	internet	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

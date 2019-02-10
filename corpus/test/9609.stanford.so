@@ -1,0 +1,13 @@
+0	64	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="basket" pos="NN" nsubj="t3"
+11	14	tok id="t2" base="be" pos="VBD" cop="t3"
+15	19	tok id="t3" base="full" pos="JJ" nsubj="t7"
+20	22	tok id="t4" base="of" pos="IN" prep="t3"
+23	28	tok id="t5" base="furry" pos="JJ" amod="t6"
+29	45	tok id="t6" base="orange-and-black" pos="NN" pobj="t4"
+46	51	tok id="t7" base="face" pos="VBZ" ROOT="ROOT"
+52	54	tok id="t8" base="--" pos=":" punct="t7"
+55	62	tok id="t9" base="kitten" pos="NNS" dep="t7"
+63	64	tok id="t10" base="-PERIOD-" pos="." punct="t7"
+

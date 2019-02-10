@@ -1,0 +1,20 @@
+1	While	while	IN	_	5	mark
+2	public	public	JJ	_	4	amod
+3	drinking	drinking	NN	_	4	nn
+4	regulations	regulation	NNS	_	5	nsubj
+5	varied	vary	VBD	_	13	advcl
+6	,	,	,	_	13	punct
+7	some	some	DT	_	8	det
+8	form	form	NN	_	13	nsubj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	beer	beer	NN	_	12	nn
+12	parlour	parlour	NN	_	9	pobj
+13	became	become	VBD	_	0	ROOT
+14	the	the	DT	_	15	det
+15	norm	norm	NN	_	13	xcomp
+16	across	across	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	country	country	NN	_	16	pobj
+19	.	.	.	_	13	punct
+

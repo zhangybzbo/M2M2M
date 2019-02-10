@@ -1,0 +1,17 @@
+1	In	in	IN	_	5	prep
+2	Swahili	Swahili	NNP	_	1	pobj
+3	,	,	,	_	5	punct
+4	Jana	Jana	NNP	_	5	nsubj
+5	means	mean	VBZ	_	0	ROOT
+6	yesterday	yesterday	NN	_	5	tmod
+7	;	;	:	_	5	punct
+8	so	so	RB	_	9	advmod
+9	here	here	RB	_	12	advmod
+10	are	be	VBP	_	12	cop
+11	some	some	DT	_	12	det
+12	items	item	NNS	_	5	parataxis
+13	from	from	IN	_	12	prep
+14	her	she	PRP$	_	15	poss
+15	yesterdays	yesterday	NNS	_	13	pobj
+16	.	.	.	_	5	punct
+

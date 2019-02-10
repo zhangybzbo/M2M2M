@@ -1,0 +1,15 @@
+1	He	he	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	a	a	DT	_	5	det
+4	young	young	JJ	_	5	amod
+5	refugee	refugee	NN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	run	run	NN	_	6	pobj
+9	from	from	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	nation	nation	NN	_	9	pobj
+12	at	at	IN	_	8	prep
+13	war	war	NN	_	12	pobj
+14	.	.	.	_	5	punct
+

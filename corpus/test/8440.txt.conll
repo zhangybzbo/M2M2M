@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	majority	majority	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	announced	announce	VBN	_	6	amod
+6	reforms	reform	NNS	_	3	pobj
+7	had	have	VBD	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	do	do	VB	_	7	xcomp
+10	with	with	IN	_	9	prep
+11	changes	change	NNS	_	10	pobj
+12	in	in	IN	_	11	prep
+13	allocation	allocation	NN	_	14	nn
+14	mechanisms	mechanism	NNS	_	12	pobj
+15	.	.	.	_	7	punct
+

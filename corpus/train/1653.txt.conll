@@ -1,0 +1,11 @@
+1	Employees	employee	NNS	_	6	nsubj
+2	are	be	VBP	_	6	cop
+3	the	the	DT	_	6	det
+4	most	most	RBS	_	5	advmod
+5	important	important	JJ	_	6	amod
+6	part	part	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	an	a	DT	_	9	det
+9	organisation	organisation	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

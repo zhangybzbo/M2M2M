@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	day	day	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	declared	declare	VBN	_	0	ROOT
+5	a	a	DT	_	7	det
+6	public	public	JJ	_	7	amod
+7	holiday	holiday	NN	_	4	dobj
+8	,	,	,	_	7	punct
+9	and	and	CC	_	7	cc
+10	at	at	IN	_	14	prep
+11	noon	noon	NN	_	10	pobj
+12	the	the	DT	_	13	det
+13	train	train	NN	_	14	nsubj
+14	started	start	VBD	_	7	conj
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	gaily	gaily	RB	_	19	advmod
+18	decorated	decorate	VBN	_	19	amod
+19	station	station	NN	_	15	pobj
+20	.	.	.	_	4	punct
+

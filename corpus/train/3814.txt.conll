@@ -1,0 +1,14 @@
+1	They	they	PRP	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	hedging	hedge	VBG	_	0	ROOT
+4	bets	bet	NNS	_	3	dobj
+5	on	on	IN	_	3	prep
+6	hosting	host	VBG	_	5	pcomp
+7	the	the	DT	_	9	det
+8	terror	terror	NN	_	9	nn
+9	scum	scum	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	different	different	JJ	_	12	amod
+12	tripes	tripe	NNS	_	10	pobj
+13	.	.	.	_	3	punct
+

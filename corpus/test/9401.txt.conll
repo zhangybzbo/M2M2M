@@ -1,0 +1,22 @@
+1	Inside	inside	IN	_	12	prep
+2	of	of	IN	_	1	pcomp
+3	it	it	PRP	_	2	pobj
+4	,	,	,	_	12	punct
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	details	detail	NNS	_	12	nsubjpass
+8	about	about	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	game	game	NN	_	8	pobj
+11	were	be	VBD	_	12	auxpass
+12	revealed	reveal	VBN	_	0	ROOT
+13	through	through	IN	_	12	prep
+14	an	a	DT	_	15	det
+15	interview	interview	NN	_	13	pobj
+16	with	with	IN	_	15	prep
+17	series	series	NN	_	20	nn
+18	director	director	NN	_	20	nn
+19	Masahiro	Masahiro	NNP	_	20	nn
+20	Yasuma	Yasuma	NNP	_	16	pobj
+21	.	.	.	_	12	punct
+

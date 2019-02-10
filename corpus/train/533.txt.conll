@@ -1,0 +1,20 @@
+1	In	in	IN	_	7	prep
+2	this	this	DT	_	3	det
+3	section	section	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	we	we	PRP	_	7	nsubj
+6	are	be	VBP	_	7	aux
+7	going	go	VBG	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	follow	follow	VB	_	7	xcomp
+10	SRR	SRR	NNP	_	11	nn
+11	Sandy	Sandy	NNP	_	9	dobj
+12	as	as	IN	_	14	mark
+13	she	she	PRP	_	14	nsubj
+14	raises	raise	VBZ	_	9	advcl
+15	a	a	DT	_	16	det
+16	litter	litter	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	pups	pup	NNS	_	17	pobj
+19	.	.	.	_	7	punct
+

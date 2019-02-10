@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	scientist	scientist	NN	_	3	nsubj
+3	applied	apply	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	method	method	NN	_	3	dobj
+6	called	call	VBN	_	5	vmod
+7	recombineering	recombineer	VBG	_	6	xcomp
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	11	det
+10	fruitfly	fruitfly	NN	_	11	nn
+11	genes	gene	NNS	_	8	pobj
+12	.	.	.	_	3	punct
+

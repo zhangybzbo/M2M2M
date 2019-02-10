@@ -1,0 +1,11 @@
+0	58	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="technician" pos="NNS" nsubj="t2"
+12	19	tok id="t1" base="quickly" pos="RB" advmod="t2"
+20	28	tok id="t2" base="prepare" pos="VBD" ROOT="ROOT"
+29	32	tok id="t3" base="the" pos="DT" det="t4"
+33	38	tok id="t4" base="stage" pos="NN" dobj="t2"
+39	42	tok id="t5" base="for" pos="IN" prep="t4"
+43	46	tok id="t6" base="the" pos="DT" det="t7"
+47	56	tok id="t7" base="headliner" pos="NN" pobj="t5"
+57	58	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

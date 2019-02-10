@@ -1,0 +1,21 @@
+1	He	he	PRP	_	2	nsubj
+2	stuffed	stuff	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	letter	letter	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	an	a	DT	_	9	det
+7	empty	empty	JJ	_	9	amod
+8	lemonade	lemonade	NN	_	9	nn
+9	bottle	bottle	NN	_	5	pobj
+10	,	,	,	_	2	punct
+11	corked	cork	VBD	_	2	dep
+12	it	it	PRP	_	11	dobj
+13	,	,	,	_	2	punct
+14	tossed	toss	VBD	_	2	conj
+15	it	it	PRP	_	14	dobj
+16	overboard	overboard	RB	_	14	advmod
+17	,	,	,	_	2	punct
+18	and	and	CC	_	2	cc
+19	forgot	forget	VBN	_	2	conj
+20	.	.	.	_	2	punct
+

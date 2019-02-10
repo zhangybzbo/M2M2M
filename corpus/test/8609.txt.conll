@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	det
+2	dryer	dryer	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	wall	wall	NN	_	3	dobj
+6	on	on	IN	_	5	prep
+7	one	one	CD	_	8	num
+8	side	side	NN	_	6	pobj
+9	,	,	,	_	5	punct
+10	wall	wall	NN	_	5	appos
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	11	pobj
+13	back	back	RB	_	12	advmod
+14	,	,	,	_	16	punct
+15	oil	oil	NN	_	16	nn
+16	heater	heater	NN	_	13	dep
+17	on	on	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	side	side	NN	_	17	pobj
+20	and	and	CC	_	19	cc
+21	a	a	DT	_	23	det
+22	water	water	NN	_	23	nn
+23	heater	heater	NN	_	19	conj
+24	in	in	IN	_	19	prep
+25	front	front	NN	_	24	pobj
+26	.	.	.	_	16	punct
+

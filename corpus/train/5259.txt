@@ -1,0 +1,1 @@
+This is the most stable configuration of electrons - adding or subtracting an electron requires too much energy and so it does not really happen in nature .

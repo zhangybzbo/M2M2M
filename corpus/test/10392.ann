@@ -1,0 +1,3 @@
+T1	Term 45 52	meeting
+T2	Term 62 71	influenza
+R1	Message-Topic Arg1:T1 Arg2:T2

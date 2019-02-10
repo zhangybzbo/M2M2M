@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	clock	clock	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	LCD	lcd	NNS	_	6	nsubj
+6	display	display	VBP	_	3	ccomp
+7	with	with	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	following	follow	VBG	_	10	amod
+10	fields	field	NNS	_	7	pobj
+11	:	:	:	_	3	punct
+12	DayOfWeek	DayOfWeek	NNP	_	15	nn
+13	Date	Date	NNP	_	15	nn
+14	X	X	NNP	_	15	nn
+15	Time	Time	NNP	_	3	parataxis
+16	-LRB-	-lrb-	-LRB-	_	17	punct
+17	offset	offset	VBN	_	15	dep
+18	to	to	TO	_	17	prep
+19	utc	utc	NN	_	18	pobj
+20	-RRB-	-rrb-	-RRB-	_	17	punct
+21	.	.	.	_	3	punct
+

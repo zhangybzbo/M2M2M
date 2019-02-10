@@ -1,0 +1,12 @@
+0	66	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="extremely" pos="RB" advmod="t1"
+10	19	tok id="t1" base="dangerous" pos="JJ" amod="t2"
+20	29	tok id="t2" base="blizzard" pos="NNS" nsubj="t4"
+30	34	tok id="t3" base="have" pos="VBP" aux="t4"
+35	40	tok id="t4" base="move" pos="VBN" ROOT="ROOT"
+41	45	tok id="t5" base="into" pos="IN" prep="t4"
+46	49	tok id="t6" base="the" pos="DT" det="t8"
+50	57	tok id="t7" base="Midwest" pos="NNP" nn="t8"
+58	64	tok id="t8" base="region" pos="NN" pobj="t5"
+65	66	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

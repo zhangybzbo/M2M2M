@@ -1,0 +1,3 @@
+T1	Term 38 47	committee
+T2	Term 69 84	recommendations
+R1	Product-Producer Arg1:T2 Arg2:T1

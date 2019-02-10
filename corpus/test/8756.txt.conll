@@ -1,0 +1,24 @@
+1	On	on	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	mantel	mantel	NN	_	1	pobj
+4	in	in	IN	_	3	prep
+5	our	we	PRP$	_	7	poss
+6	living	living	NN	_	7	nn
+7	room	room	NN	_	4	pobj
+8	was	be	VBD	_	11	cop
+9	a	a	DT	_	11	det
+10	handmade	handmade	JJ	_	11	amod
+11	book	book	NN	_	0	ROOT
+12	of	of	IN	_	11	prep
+13	photos	photo	NNS	_	12	pobj
+14	done	do	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	friend	friend	NN	_	15	pobj
+18	who	who	WP	_	22	nsubj
+19	is	be	VBZ	_	22	cop
+20	a	a	DT	_	22	det
+21	professional	professional	JJ	_	22	amod
+22	photographer	photographer	NNP	_	17	rcmod
+23	.	.	.	_	11	punct
+

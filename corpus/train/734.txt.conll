@@ -1,0 +1,26 @@
+1	At	at	IN	_	21	prep
+2	necropsy	necropsy	NN	_	1	pobj
+3	a	a	DT	_	5	det
+4	heavy	heavy	JJ	_	5	amod
+5	infestation	infestation	NN	_	10	nsubj
+6	of	of	IN	_	5	prep
+7	Haematopinus	haematopinus	NN	_	8	nn
+8	lice	louse	NN	_	6	pobj
+9	was	be	VBD	_	10	cop
+10	present	present	JJ	_	2	rcmod
+11	,	,	,	_	21	punct
+12	along	along	IN	_	21	dep
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	polyserositis	polyserositis	NN	_	13	pobj
+16	affecting	affect	VBG	_	15	vmod
+17	the	the	DT	_	19	det
+18	right	right	JJ	_	19	amod
+19	hock	hock	NN	_	16	dobj
+20	,	,	,	_	21	punct
+21	left	leave	VBD	_	0	ROOT
+22	elbow	elbow	NN	_	21	dobj
+23	and	and	CC	_	22	cc
+24	peritoneum	peritoneum	NN	_	22	conj
+25	.	.	.	_	21	punct
+

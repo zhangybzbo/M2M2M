@@ -1,0 +1,20 @@
+1	This	this	DT	_	8	det
+2	durable	durable	JJ	_	8	amod
+3	short	short	JJ	_	8	amod
+4	sleeve	sleeve	NN	_	8	nn
+5	crew	crew	NN	_	8	nn
+6	neck	neck	NN	_	8	nn
+7	tee	tee	NN	_	8	nn
+8	shirt	shirt	NN	_	10	nsubjpass
+9	is	be	VBZ	_	10	auxpass
+10	made	make	VBN	_	0	ROOT
+11	of	of	IN	_	10	prep
+12	preshrunk	preshrunk	NN	_	13	nn
+13	cotton	cotton	NN	_	11	pobj
+14	to	to	TO	_	15	aux
+15	minimize	minimize	VB	_	10	xcomp
+16	shrinkage	shrinkage	NN	_	15	dobj
+17	after	after	IN	_	15	prep
+18	washing	wash	VBG	_	17	pcomp
+19	.	.	.	_	10	punct
+

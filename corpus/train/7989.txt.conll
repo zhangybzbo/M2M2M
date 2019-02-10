@@ -1,0 +1,18 @@
+1	It	it	PRP	_	4	nsubj
+2	just	just	RB	_	3	advmod
+3	so	so	RB	_	4	advmod
+4	happened	happen	VBD	_	0	ROOT
+5	that	that	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	horse	horse	NN	_	8	nsubj
+8	bucked	buck	VBD	_	4	ccomp
+9	the	the	DT	_	10	det
+10	rider	rider	NN	_	8	dobj
+11	and	and	CC	_	8	cc
+12	threw	throw	VBD	_	8	conj
+13	him	he	PRP	_	12	dobj
+14	into	into	IN	_	12	prep
+15	a	a	DT	_	16	det
+16	mud-puddle	mud-puddle	NN	_	14	pobj
+17	.	.	.	_	4	punct
+

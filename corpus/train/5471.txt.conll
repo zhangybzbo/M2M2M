@@ -1,0 +1,9 @@
+1	Honey	Honey	NNP	_	2	nn
+2	bees	bee	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	migrated	migrate	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	warmer	warmer	JJR	_	7	amod
+7	areas	area	NNS	_	5	pobj
+8	.	.	.	_	4	punct
+

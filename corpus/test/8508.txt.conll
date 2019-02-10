@@ -1,0 +1,15 @@
+1	Borrowers	borrower	NNS	_	2	nsubj
+2	fall	fall	VBP	_	0	ROOT
+3	into	into	IN	_	2	prep
+4	financial	financial	JJ	_	5	amod
+5	troubles	trouble	NNS	_	3	pobj
+6	,	,	,	_	2	punct
+7	but	but	CC	_	2	cc
+8	lenders	lender	NNS	_	9	nsubj
+9	have	have	VBP	_	2	conj
+10	several	several	JJ	_	11	amod
+11	ways	way	NNS	_	9	dobj
+12	to	to	TO	_	13	aux
+13	help	help	VB	_	11	vmod
+14	.	.	.	_	2	punct
+

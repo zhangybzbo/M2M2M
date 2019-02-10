@@ -1,0 +1,24 @@
+1	At	at	IN	_	8	prep
+2	one	one	CD	_	3	num
+3	point	point	NN	_	1	pobj
+4	in	in	IN	_	3	prep
+5	desperation	desperation	NN	_	4	pobj
+6	,	,	,	_	8	punct
+7	I	I	PRP	_	8	nsubj
+8	poured	pour	VBD	_	0	ROOT
+9	flour	flour	NN	_	8	dobj
+10	into	into	IN	_	8	prep
+11	my	my	PRP$	_	13	poss
+12	great	great	JJ	_	13	amod
+13	aunt	aunt	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	hand	hand	NN	_	10	pobj
+16	and	and	CC	_	8	cc
+17	measured	measure	VBN	_	8	conj
+18	how	how	WRB	_	19	advmod
+19	much	much	JJ	_	22	advmod
+20	it	it	PRP	_	22	nsubj
+21	could	could	MD	_	22	aux
+22	hold	hold	VB	_	17	ccomp
+23	.	.	.	_	8	punct
+

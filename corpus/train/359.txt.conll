@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	destruction	destruction	NN	_	0	ROOT
+3	caused	cause	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	bombing	bombing	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	Attorney	Attorney	NNP	_	10	nn
+9	General	General	NNP	_	10	nn
+10	Palmer	Palmer	NNP	_	12	poss
+11	's	's	POS	_	10	possessive
+12	home	home	NN	_	7	pobj
+13	.	.	.	_	2	punct
+

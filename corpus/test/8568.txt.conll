@@ -1,0 +1,13 @@
+1	Two	two	CD	_	2	num
+2	seniors	senior	NNS	_	7	nsubj
+3	in	in	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	house	house	NN	_	3	pobj
+6	have	have	VBP	_	7	aux
+7	arrived	arrive	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	senior	senior	JJ	_	11	amod
+10	leadership	leadership	NN	_	11	nn
+11	positions	position	NNS	_	8	pobj
+12	.	.	.	_	7	punct
+

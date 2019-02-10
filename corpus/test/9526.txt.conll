@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	book	book	NN	_	3	nsubj
+3	provides	provide	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	powerful	powerful	JJ	_	6	amod
+6	analysis	analysis	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	role	role	NN	_	7	pobj
+10	that	that	WDT	_	16	dobj
+11	Information	Information	NNP	_	14	nn
+12	and	and	CC	_	11	cc
+13	Communication	Communication	NNP	_	11	conj
+14	Technologies	Technologies	NNPS	_	16	nsubj
+15	can	can	MD	_	16	aux
+16	have	have	VB	_	9	rcmod
+17	in	in	IN	_	16	prep
+18	teaching	teaching	NN	_	17	pobj
+19	and	and	CC	_	18	cc
+20	learning	learning	NN	_	18	conj
+21	.	.	.	_	3	punct
+

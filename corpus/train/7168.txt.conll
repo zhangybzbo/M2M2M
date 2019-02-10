@@ -1,0 +1,15 @@
+1	Batteries	battery	NNS	_	2	nsubj
+2	kept	keep	VBD	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	good	good	JJ	_	5	amod
+5	condition	condition	NN	_	3	pobj
+6	have	have	VBP	_	2	ccomp
+7	a	a	DT	_	13	det
+8	5	5	CD	_	10	number
+9	to	to	TO	_	10	dep
+10	6	6	CD	_	13	num
+11	year	year	NN	_	13	nn
+12	service	service	NN	_	13	nn
+13	life	life	NN	_	6	dobj
+14	.	.	.	_	2	punct
+

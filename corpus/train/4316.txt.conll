@@ -1,0 +1,14 @@
+1	Farmers	Farmers	NNP	_	0	ROOT
+2	till	till	IN	_	1	prep
+3	their	they	PRP$	_	4	poss
+4	fields	field	NNS	_	2	pobj
+5	with	with	IN	_	4	prep
+6	implements	implement	VBZ	_	5	pcomp
+7	which	which	WDT	_	9	dobj
+8	Europeans	Europeans	NNPS	_	9	nsubj
+9	know	know	VBP	_	6	ccomp
+10	only	only	RB	_	11	advmod
+11	from	from	IN	_	9	prep
+12	museums	museum	NNS	_	11	pobj
+13	.	.	.	_	1	punct
+

@@ -1,0 +1,24 @@
+1	This	this	DT	_	4	nsubjpass
+2	was	be	VBD	_	4	auxpass
+3	the	the	DT	_	4	det
+4	thought	think	VBN	_	0	ROOT
+5	until	until	IN	_	4	prep
+6	recently	recently	RB	_	5	pcomp
+7	when	when	WRB	_	15	advmod
+8	a	a	DT	_	10	det
+9	small	small	JJ	_	10	amod
+10	stand	stand	NN	_	15	nsubjpass
+11	of	of	IN	_	10	prep
+12	ginkgo	ginkgo	NN	_	13	nn
+13	trees	tree	NNS	_	11	pobj
+14	were	be	VBD	_	15	auxpass
+15	found	find	VBN	_	6	advcl
+16	growing	grow	VBG	_	15	xcomp
+17	in	in	IN	_	16	prep
+18	a	a	DT	_	20	det
+19	remote	remote	JJ	_	20	amod
+20	valley	valley	NN	_	17	pobj
+21	in	in	IN	_	20	prep
+22	China	China	NNP	_	21	pobj
+23	.	.	.	_	4	punct
+

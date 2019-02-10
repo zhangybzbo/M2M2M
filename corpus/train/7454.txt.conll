@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	Wal-Mart	Wal-Mart	NNP	_	4	nsubj
+3	Supercenter	Supercenter	NNP	_	4	nsubj
+4	plans	plan	VBZ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	employ	employ	VB	_	4	xcomp
+7	as	as	RB	_	9	advmod
+8	many	many	JJ	_	9	advmod
+9	as	as	IN	_	10	quantmod
+10	455	455	CD	_	11	num
+11	associates	associate	NNS	_	6	dobj
+12	,	,	,	_	11	punct
+13	including	include	VBG	_	11	prep
+14	180	180	CD	_	15	nsubj
+15	planned	plan	VBD	_	13	pcomp
+16	new	new	JJ	_	17	amod
+17	jobs	job	NNS	_	15	dobj
+18	created	create	VBN	_	17	vmod
+19	by	by	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	relocation	relocation	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

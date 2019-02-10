@@ -1,0 +1,26 @@
+1	What	what	WP	_	2	nsubj
+2	happens	happen	VBZ	_	3	csubj
+3	is	be	VBZ	_	0	ROOT
+4	that	that	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	system	system	NN	_	7	nsubj
+7	builds	build	VBZ	_	3	ccomp
+8	many	many	JJ	_	11	amod
+9	inferior	inferior	JJ	_	11	amod
+10	blood	blood	NN	_	11	nn
+11	vessels	vessel	NNS	_	7	dobj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	eye	eye	NN	_	12	pobj
+15	to	to	TO	_	16	aux
+16	take	take	VB	_	7	vmod
+17	the	the	DT	_	18	det
+18	place	place	NN	_	16	dobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	vessels	vessel	NNS	_	19	pobj
+22	that	that	WDT	_	24	nsubj
+23	are	be	VBP	_	24	aux
+24	dying	die	VBG	_	21	rcmod
+25	.	.	.	_	3	punct
+

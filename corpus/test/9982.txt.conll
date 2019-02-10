@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	fire	fire	NN	_	3	nn
+3	drug	drug	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	inside	inside	IN	_	5	prep
+7	of	of	IN	_	6	pcomp
+8	bamboo	bamboo	NN	_	9	nn
+9	tubes	tube	NNS	_	7	pobj
+10	and	and	CC	_	5	cc
+11	thrown	throw	VBN	_	5	conj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	fire	fire	NN	_	12	pobj
+15	to	to	TO	_	17	aux
+16	be	be	VB	_	17	auxpass
+17	ignited	ignite	VBN	_	11	xcomp
+18	.	.	.	_	5	punct
+

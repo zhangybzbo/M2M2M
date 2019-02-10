@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj
+2	carry	carry	VBP	_	0	ROOT
+3	a	a	DT	_	5	det
+4	spray	spray	NN	_	5	nn
+5	bottle	bottle	NN	_	2	dobj
+6	with	with	IN	_	2	prep
+7	91	91	CD	_	8	number
+8	%	%	NN	_	9	amod
+9	isopropanol	isopropanol	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	it	it	PRP	_	10	pobj
+12	.	.	.	_	2	punct
+

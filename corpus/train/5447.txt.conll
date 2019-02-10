@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	crane	crane	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	telescopic	telescopic	JJ	_	6	amod
+6	boom	boom	NN	_	3	dobj
+7	that	that	WDT	_	9	nsubjpass
+8	is	be	VBZ	_	9	auxpass
+9	mounted	mount	VBN	_	6	rcmod
+10	on	on	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	movable	movable	JJ	_	13	amod
+13	platform	platform	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

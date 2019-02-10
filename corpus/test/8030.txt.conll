@@ -1,0 +1,16 @@
+1	Therefore	therefore	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	nowadays	nowadays	RB	_	8	advmod
+4	China	China	NNP	_	8	nsubj
+5	is	be	VBZ	_	8	cop
+6	the	the	DT	_	8	det
+7	complex	complex	JJ	_	8	amod
+8	mixture	mixture	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	different	different	JJ	_	11	amod
+11	cultures	culture	NNS	_	9	pobj
+12	from	from	IN	_	8	prep
+13	various	various	JJ	_	14	amod
+14	epochs	epoch	NNS	_	12	pobj
+15	.	.	.	_	8	punct
+

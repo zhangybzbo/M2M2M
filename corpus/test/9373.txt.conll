@@ -1,0 +1,15 @@
+1	But	but	CC	_	6	cc
+2	just	just	RB	_	3	advmod
+3	think	think	VB	_	6	advcl
+4	,	,	,	_	6	punct
+5	sadness	sadness	NN	_	6	nsubj
+6	leads	lead	VBZ	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	fear	fear	VB	_	6	xcomp
+9	then	then	RB	_	8	advmod
+10	fear	fear	VBP	_	8	ccomp
+11	leads	lead	VBZ	_	10	dep
+12	to	to	TO	_	11	prep
+13	anger	anger	NN	_	12	pobj
+14	.	.	.	_	6	punct
+

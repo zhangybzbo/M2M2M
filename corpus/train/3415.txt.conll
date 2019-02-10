@@ -1,0 +1,9 @@
+1	Examining	examine	VBG	_	0	ROOT
+2	the	the	DT	_	3	det
+3	disruption	disruption	NN	_	1	dobj
+4	caused	cause	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	pupil	pupil	NN	_	7	nn
+7	mobility	mobility	NN	_	5	pobj
+8	.	.	.	_	1	punct
+

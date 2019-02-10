@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	guard	guard	NN	_	3	nsubj
+3	did	do	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	job	job	NN	_	3	dobj
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	scowling	scowling	JJ	_	9	amod
+9	look	look	NN	_	6	pobj
+10	on	on	IN	_	9	prep
+11	his	he	PRP$	_	12	poss
+12	face	face	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

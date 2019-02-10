@@ -1,0 +1,21 @@
+1	Simple	simple	JJ	_	2	amod
+2	plastic	plastic	NN	_	3	nsubj
+3	covered	cover	VBD	_	0	ROOT
+4	wire	wire	NN	_	5	nn
+5	baskets	basket	NNS	_	3	dobj
+6	with	with	IN	_	3	prep
+7	wheels	wheel	NNS	_	6	pobj
+8	on	on	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	rail	rail	NN	_	8	pobj
+11	,	,	,	_	3	punct
+12	allows	allow	VBZ	_	3	dep
+13	access	access	NN	_	12	dobj
+14	to	to	TO	_	13	prep
+15	the	the	DT	_	16	det
+16	rear	rear	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	refrigerator	refrigerator	NN	_	17	pobj
+20	.	.	.	_	3	punct
+

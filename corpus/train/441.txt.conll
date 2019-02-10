@@ -1,0 +1,20 @@
+1	It	it	PRP	_	8	nsubj
+2	is	be	VBZ	_	8	cop
+3	the	the	DT	_	8	det
+4	most	most	RBS	_	5	advmod
+5	efficient	efficient	JJ	_	8	amod
+6	and	and	CC	_	5	cc
+7	compact	compact	JJ	_	5	conj
+8	form	form	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	insulation	insulation	NN	_	9	pobj
+11	in	in	IN	_	8	prep
+12	a	a	DT	_	13	det
+13	carafe	carafe	NN	_	11	pobj
+14	,	,	,	_	8	punct
+15	and	and	CC	_	8	cc
+16	it	it	PRP	_	18	nsubj
+17	's	be	VBZ	_	18	cop
+18	unbreakable	unbreakable	JJ	_	8	conj
+19	.	.	.	_	8	punct
+

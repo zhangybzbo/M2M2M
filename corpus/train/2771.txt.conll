@@ -1,0 +1,9 @@
+1	I	I	PRP	_	2	nsubj
+2	recalled	recall	VBD	_	0	ROOT
+3	parental	parental	JJ	_	4	amod
+4	quotes	quote	NNS	_	2	dobj
+5	from	from	IN	_	4	prep
+6	many	many	JJ	_	7	amod
+7	yesterdays	yesterday	NNS	_	5	pobj
+8	.	.	.	_	2	punct
+

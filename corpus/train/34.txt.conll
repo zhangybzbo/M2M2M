@@ -1,0 +1,16 @@
+1	It	it	PRP	_	2	nsubj
+2	describes	describe	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	method	method	NN	_	2	dobj
+5	for	for	IN	_	4	prep
+6	loading	load	VBG	_	5	pcomp
+7	a	a	DT	_	9	det
+8	horizontal	horizontal	JJ	_	9	amod
+9	stack	stack	VB	_	6	dobj
+10	of	of	IN	_	9	prep
+11	containers	container	NNS	_	10	pobj
+12	into	into	IN	_	6	prep
+13	a	a	DT	_	14	det
+14	carton	carton	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

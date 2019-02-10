@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	US	US	NNP	_	3	nn
+3	troops	troops	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	going	go	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	mountain	mountain	NN	_	9	nn
+9	area	area	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	Pakistan	Pakistan	NNP	_	10	pobj
+12	.	.	.	_	5	punct
+

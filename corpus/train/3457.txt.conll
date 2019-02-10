@@ -1,0 +1,23 @@
+1	When	when	WRB	_	4	advmod
+2	Guang	Guang	NNP	_	3	nn
+3	Yang	Yang	NNP	_	4	nsubj
+4	worked	work	VBD	_	17	advcl
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	textile	textile	NN	_	8	nn
+8	factory	factory	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	her	she	PRP$	_	11	poss
+11	hometown	hometown	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	Beijing	Beijing	NNP	_	12	pobj
+14	,	,	,	_	17	punct
+15	she	she	PRP	_	17	nsubj
+16	would	would	MD	_	17	aux
+17	sing	sing	VB	_	0	ROOT
+18	to	to	TO	_	19	aux
+19	pass	pass	VB	_	17	xcomp
+20	the	the	DT	_	21	det
+21	time	time	NN	_	19	dobj
+22	.	.	.	_	17	punct
+

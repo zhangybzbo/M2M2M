@@ -1,0 +1,20 @@
+1	They	they	PRP	_	2	nsubj
+2	saw	see	VBD	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	the	the	DT	_	5	det
+5	equipment	equipment	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	put	put	VBN	_	2	ccomp
+8	inside	inside	IN	_	7	prep
+9	rollout	rollout	NN	_	10	nn
+10	drawers	drawer	NNS	_	8	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	13	nsubj
+13	looked	look	VBD	_	10	rcmod
+14	aesthetically	aesthetically	RB	_	16	advmod
+15	more	more	RBR	_	16	advmod
+16	pleasing	please	VBG	_	13	xcomp
+17	and	and	CC	_	16	cc
+18	tidy	tidy	JJ	_	16	conj
+19	.	.	.	_	2	punct
+

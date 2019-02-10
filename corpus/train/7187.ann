@@ -1,0 +1,3 @@
+T1	Term 104 109	boost
+T2	Term 115 122	funding
+R1	Cause-Effect Arg1:T2 Arg2:T1

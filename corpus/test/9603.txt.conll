@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	edge	edge	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	that	that	DT	_	5	det
+5	drawer	drawer	NN	_	3	pobj
+6	hits	hit	VBZ	_	0	ROOT
+7	the	the	DT	_	8	det
+8	handle	handle	VB	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	dishwasher	dishwasher	NN	_	9	pobj
+12	.	.	.	_	6	punct
+

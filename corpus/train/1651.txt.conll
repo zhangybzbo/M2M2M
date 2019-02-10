@@ -1,0 +1,17 @@
+1	Proper	proper	JJ	_	5	amod
+2	washing	wash	VBG	_	5	amod
+3	and	and	CC	_	2	cc
+4	skin	skin	NN	_	2	conj
+5	care	care	NN	_	7	nsubj
+6	can	can	MD	_	7	aux
+7	help	help	VB	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	remove	remove	VB	_	7	xcomp
+10	bacteria	bacterium	NNS	_	9	dobj
+11	and	and	CC	_	10	cc
+12	oils	oils	NNS	_	10	conj
+13	which	which	WDT	_	14	nsubj
+14	cause	cause	VBP	_	10	rcmod
+15	acne	acne	NN	_	14	dobj
+16	.	.	.	_	7	punct
+

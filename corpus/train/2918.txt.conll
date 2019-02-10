@@ -1,0 +1,19 @@
+1	Until	until	IN	_	15	prep
+2	now	now	RB	_	1	pobj
+3	,	,	,	_	15	punct
+4	this	this	DT	_	5	det
+5	corner	corner	NN	_	15	nsubj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	painter	painter	NN	_	12	poss
+9	's	's	POS	_	8	possessive
+10	rambling	rambling	JJ	_	12	amod
+11	private	private	JJ	_	12	amod
+12	collection	collection	NN	_	6	pobj
+13	has	have	VBZ	_	15	aux
+14	been	be	VBN	_	15	cop
+15	all	all	DT	_	0	ROOT
+16	but	but	CC	_	15	cc
+17	forgotten	forget	VBN	_	15	conj
+18	.	.	.	_	15	punct
+

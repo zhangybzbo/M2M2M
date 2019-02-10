@@ -1,0 +1,1 @@
+What this type of memory does is it allows itself to sync with the CPU bus of the computer giving it the capability to run at higher clock speeds .

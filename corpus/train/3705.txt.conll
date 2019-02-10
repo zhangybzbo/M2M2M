@@ -1,0 +1,17 @@
+1	We	we	PRP	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	only	only	RB	_	4	advmod
+4	interested	interested	JJ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	parts	part	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	proposals	proposal	NNS	_	8	pobj
+11	that	that	WDT	_	12	nsubj
+12	pertain	pertain	VBP	_	10	rcmod
+13	to	to	TO	_	12	prep
+14	local	local	JJ	_	15	amod
+15	issues	issue	NNS	_	13	pobj
+16	.	.	.	_	4	punct
+

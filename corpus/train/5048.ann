@@ -1,0 +1,3 @@
+T1	Term 17 24	workers
+T2	Term 45 49	cars
+R1	Product-Producer Arg1:T2 Arg2:T1

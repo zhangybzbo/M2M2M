@@ -1,0 +1,1 @@
+`` MenuActivate '' occurs when the user accesses the menu with the keyboard or mouse .

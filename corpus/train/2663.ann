@@ -1,0 +1,3 @@
+T1	Term 25 34	statement
+T2	Term 56 64	evidence
+R1	Message-Topic Arg1:T1 Arg2:T2

@@ -1,0 +1,26 @@
+1	Mobilizing	mobilize	VBG	_	0	ROOT
+2	a	a	DT	_	3	det
+3	collective	collective	JJ	_	13	nsubj
+4	of	of	IN	_	3	prep
+5	musicians	musician	NNS	_	4	pobj
+6	,	,	,	_	5	punct
+7	artists	artist	NNS	_	5	conj
+8	,	,	,	_	5	punct
+9	models	model	NNS	_	5	conj
+10	and	and	CC	_	5	cc
+11	collaborators	collaborator	NNS	_	12	nn
+12	N.I.C.E.	N.I.C.E.	NNP	_	5	conj
+13	built	build	VBD	_	1	ccomp
+14	a	a	DT	_	16	det
+15	temporary	temporary	JJ	_	16	amod
+16	community	community	NN	_	13	dobj
+17	60	60	CD	_	18	num
+18	miles	mile	NNS	_	19	npadvmod
+19	outside	outside	IN	_	16	prep
+20	the	the	DT	_	24	det
+21	San	San	NNP	_	24	nn
+22	Francisco	Francisco	NNP	_	24	nn
+23	city	city	NN	_	24	nn
+24	limits	limit	NNS	_	19	pobj
+25	.	.	.	_	1	punct
+

@@ -1,0 +1,23 @@
+1	Growers	grower	NNS	_	2	nsubj
+2	store	store	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	tubers	tuber	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	9	det
+7	perforated	perforated	JJ	_	9	amod
+8	plastic	plastic	NN	_	9	nn
+9	bag	bag	NN	_	5	pobj
+10	filled	fill	VBN	_	9	vmod
+11	with	with	IN	_	10	prep
+12	peat	peat	NN	_	13	nn
+13	moss	moss	NN	_	11	pobj
+14	or	or	CC	_	13	cc
+15	vermiculite	vermiculite	NN	_	13	conj
+16	in	in	IN	_	10	prep
+17	a	a	DT	_	21	det
+18	cool	cool	JJ	_	21	amod
+19	,	,	,	_	21	punct
+20	dark	dark	JJ	_	21	amod
+21	place	place	NN	_	16	pobj
+22	.	.	.	_	2	punct
+

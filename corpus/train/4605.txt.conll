@@ -1,0 +1,14 @@
+1	Automatic	Automatic	NNP	_	2	nn
+2	diagnosis	diagnosis	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	replaced	replace	VBN	_	0	ROOT
+5	simulation	simulation	NN	_	4	dobj
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	correction	correction	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	simple	simple	JJ	_	12	amod
+11	design	design	NN	_	12	nn
+12	errors	error	NNS	_	9	pobj
+13	.	.	.	_	4	punct
+

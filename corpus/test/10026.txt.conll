@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	generator	generator	NN	_	3	nsubj
+3	creates	create	VBZ	_	0	ROOT
+4	electricity	electricity	NN	_	3	dobj
+5	using	use	VBG	_	3	xcomp
+6	much	much	RB	_	9	advmod
+7	the	the	DT	_	9	det
+8	same	same	JJ	_	9	amod
+9	principle	principle	NN	_	5	dobj
+10	as	as	IN	_	5	prep
+11	the	the	DT	_	12	det
+12	alternator	alternator	NN	_	10	pobj
+13	on	on	IN	_	12	prep
+14	your	you	PRP$	_	15	poss
+15	car	car	NN	_	13	pobj
+16	-LRB-	-lrb-	-LRB-	_	17	punct
+17	depending	depend	VBG	_	5	dep
+18	on	on	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	turbine	turbine	NN	_	21	nn
+21	type	type	NN	_	18	pobj
+22	-RRB-	-rrb-	-RRB-	_	17	punct
+23	.	.	.	_	17	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	3	nsubj
+3	used	use	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	newly-developed	newly-developed	JJ	_	6	amod
+6	nanoparticle	nanoparticle	NN	_	3	dobj
+7	to	to	TO	_	8	aux
+8	build	build	VB	_	3	vmod
+9	therapies	therapy	NNS	_	8	dobj
+10	for	for	IN	_	8	prep
+11	treating	treat	VBG	_	10	pcomp
+12	individuals	individual	NNS	_	11	dobj
+13	with	with	IN	_	11	prep
+14	cardiovascular	cardiovascular	JJ	_	15	amod
+15	disease	disease	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

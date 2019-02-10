@@ -1,0 +1,17 @@
+1	Recall	recall	VB	_	0	ROOT
+2	that	that	IN	_	11	mark
+3	in	in	IN	_	11	prep
+4	the	the	DT	_	6	det
+5	Blink	Blink	NNP	_	6	nn
+6	application	application	NN	_	3	pobj
+7	,	,	,	_	11	punct
+8	the	the	DT	_	9	det
+9	timers	timer	NNS	_	11	nsubjpass
+10	were	be	VBD	_	11	auxpass
+11	started	start	VBN	_	1	ccomp
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	booted	boot	VBN	_	15	amod
+15	event	event	NN	_	12	pobj
+16	.	.	.	_	1	punct
+

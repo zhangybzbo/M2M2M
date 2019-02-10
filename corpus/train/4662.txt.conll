@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	made	make	VBD	_	0	ROOT
+3	two	two	CD	_	4	num
+4	pairs	pair	NNS	_	2	dobj
+5	of	of	IN	_	4	prep
+6	jeans	jeans	NNS	_	5	pobj
+7	with	with	IN	_	2	prep
+8	regular	regular	JJ	_	9	amod
+9	zippers	zipper	NNS	_	7	pobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	14	nsubj
+12	both	both	CC	_	13	preconj
+13	quickly	quickly	RB	_	14	advmod
+14	tore	tear	VBD	_	9	rcmod
+15	out	out	RP	_	14	prt
+16	.	.	.	_	2	punct
+

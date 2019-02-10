@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	set	set	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	principles	principle	NNS	_	3	pobj
+5	serves	serve	VBZ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	offer	offer	VB	_	5	xcomp
+8	a	a	DT	_	9	det
+9	baseline	baseline	NN	_	7	dobj
+10	for	for	IN	_	9	prep
+11	quality	quality	NN	_	13	nn
+12	vocal	vocal	JJ	_	13	amod
+13	leadership	leadership	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

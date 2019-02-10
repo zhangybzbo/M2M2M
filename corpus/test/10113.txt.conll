@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	Italian	italian	JJ	_	3	amod
+3	manager	manager	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	drawn	draw	VBN	_	0	ROOT
+6	up	up	RP	_	5	prt
+7	a	a	DT	_	8	det
+8	list	list	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	potential	potential	JJ	_	11	amod
+11	targets	target	NNS	_	9	pobj
+12	to	to	TO	_	13	aux
+13	reinforce	reinforce	VB	_	5	vmod
+14	his	he	PRP$	_	17	poss
+15	depleted	deplete	VBN	_	17	amod
+16	defensive	defensive	JJ	_	17	amod
+17	options	option	NNS	_	13	dobj
+18	.	.	.	_	5	punct
+

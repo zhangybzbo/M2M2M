@@ -1,0 +1,23 @@
+1	It	it	PRP	_	4	nsubjpass
+2	was	be	VBD	_	4	auxpass
+3	originally	originally	RB	_	4	advmod
+4	assumed	assume	VBN	_	0	ROOT
+5	that	that	IN	_	14	mark
+6	the	the	DT	_	7	det
+7	ingredients	ingredient	NNS	_	14	nsubj
+8	responsible	responsible	JJ	_	7	amod
+9	for	for	IN	_	8	prep
+10	drug	drug	NN	_	11	nn
+11	interactions	interaction	NNS	_	9	pobj
+12	were	be	VBD	_	14	cop
+13	the	the	DT	_	14	det
+14	flavonoids	flavonoid	NNS	_	4	ccomp
+15	that	that	WDT	_	16	nsubj
+16	give	give	VBP	_	14	rcmod
+17	grapefruit	grapefruit	NN	_	18	nn
+18	juice	juice	NN	_	16	iobj
+19	its	its	PRP$	_	21	poss
+20	bitter	bitter	JJ	_	21	amod
+21	taste	taste	NN	_	16	dobj
+22	.	.	.	_	4	punct
+

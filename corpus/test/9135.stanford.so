@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="a" pos="DT" det="t1"
+3	9	tok id="t1" base="artist" pos="NN" nsubj="t2"
+10	17	tok id="t2" base="create" pos="VBZ" ROOT="ROOT"
+18	28	tok id="t3" base="sculpture" pos="NNS" dobj="t2"
+29	34	tok id="t4" base="use" pos="VBG" xcomp="t2"
+35	37	tok id="t5" base="up" pos="RP" prt="t4"
+38	40	tok id="t6" base="to" pos="TO" prep="t4"
+41	47	tok id="t7" base="250000" pos="CD" num="t9"
+48	57	tok id="t8" base="colour" pos="VBG" amod="t9"
+58	65	tok id="t9" base="crayon" pos="NNS" pobj="t6"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

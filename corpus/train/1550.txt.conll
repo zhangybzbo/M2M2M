@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	writer	writer	NN	_	5	poss
+3	's	's	POS	_	2	possessive
+4	principal	principal	JJ	_	5	amod
+5	work	work	NN	_	18	nsubj
+6	during	during	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	years	year	NNS	_	6	pobj
+9	following	follow	VBG	_	5	prep
+10	Pushkin	Pushkin	NNP	_	12	poss
+11	's	's	POS	_	10	possessive
+12	death	death	NN	_	9	pobj
+13	was	be	VBD	_	18	cop
+14	the	the	DT	_	18	det
+15	satirical	satirical	JJ	_	18	amod
+16	epic	epic	NN	_	18	nn
+17	Dead	Dead	NNP	_	18	nn
+18	Souls	soul	NNS	_	0	ROOT
+19	.	.	.	_	18	punct
+

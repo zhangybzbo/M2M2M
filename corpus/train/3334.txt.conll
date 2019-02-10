@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	farm	farm	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	participant	participant	NN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	forestry	forestry	NN	_	5	pobj
+7	and	and	CC	_	4	cc
+8	there	there	EX	_	12	expl
+9	have	have	VBP	_	12	aux
+10	already	already	RB	_	12	advmod
+11	been	be	VBN	_	12	auxpass
+12	planted	plant	VBN	_	4	conj
+13	around	around	IN	_	15	quantmod
+14	eight	eight	CD	_	15	number
+15	thousand	thousand	CD	_	16	num
+16	plants	plant	NNS	_	12	dobj
+17	.	.	.	_	4	punct
+

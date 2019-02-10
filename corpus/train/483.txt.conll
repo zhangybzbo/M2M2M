@@ -1,0 +1,11 @@
+1	There	there	EX	_	2	expl
+2	's	be	VBZ	_	0	ROOT
+3	a	a	DT	_	2	nsubj
+4	trembling	tremble	VBG	_	3	vmod
+5	of	of	IN	_	4	prep
+6	finches	finch	NNS	_	5	pobj
+7	on	on	IN	_	4	prep
+8	my	my	PRP$	_	9	poss
+9	lawn	lawn	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

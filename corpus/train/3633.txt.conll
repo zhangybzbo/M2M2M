@@ -1,0 +1,20 @@
+1	Solar	Solar	NNP	_	2	nn
+2	disturbances	disturbance	NNS	_	11	nsubj
+3	such	such	JJ	_	4	mwe
+4	as	as	IN	_	2	prep
+5	flares	flare	NNS	_	4	pobj
+6	,	,	,	_	5	punct
+7	prominences	prominence	NNS	_	5	conj
+8	,	,	,	_	5	punct
+9	and	and	CC	_	5	cc
+10	sunspots	sunspot	NNS	_	5	conj
+11	increase	increase	VBP	_	0	ROOT
+12	the	the	DT	_	13	det
+13	amount	amount	NN	_	11	dobj
+14	of	of	IN	_	13	prep
+15	radiation	radiation	NN	_	14	pobj
+16	from	from	IN	_	13	prep
+17	the	the	DT	_	18	det
+18	sun	sun	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

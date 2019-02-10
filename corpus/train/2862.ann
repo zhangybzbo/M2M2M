@@ -1,0 +1,3 @@
+T1	Term 50 53	rye
+T2	Term 54 57	ale
+R1	Entity-Origin Arg1:T2 Arg2:T1

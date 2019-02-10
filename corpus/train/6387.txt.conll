@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	students	student	NNS	_	0	ROOT
+3	labelled	label	VBN	_	2	vmod
+4	the	the	DT	_	6	det
+5	13	13	CD	_	6	num
+6	colonies	colony	NNS	_	3	dobj
+7	using	use	VBG	_	2	vmod
+8	a	a	DT	_	9	det
+9	map	map	NN	_	7	dobj
+10	.	.	.	_	2	punct
+

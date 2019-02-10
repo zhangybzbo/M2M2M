@@ -1,0 +1,15 @@
+1	True	true	JJ	_	2	amod
+2	progress	progress	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	science	science	NN	_	4	pobj
+6	,	,	,	_	5	punct
+7	debate	debate	NN	_	5	conj
+8	,	,	,	_	5	punct
+9	inference	inference	NN	_	5	conj
+10	,	,	,	_	5	punct
+11	logic	logic	NN	_	5	conj
+12	and	and	CC	_	5	cc
+13	reasoning	reasoning	NN	_	5	conj
+14	.	.	.	_	3	punct
+

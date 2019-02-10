@@ -1,0 +1,22 @@
+1	So	so	RB	_	4	advmod
+2	this	this	DT	_	3	det
+3	morning	morning	NN	_	4	nsubj
+4	started	start	VBD	_	0	ROOT
+5	early	early	RB	_	4	advmod
+6	with	with	IN	_	4	prep
+7	a	a	DT	_	8	det
+8	chorus	chorus	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	caws	caw	NNS	_	9	pobj
+11	coming	come	VBG	_	10	vmod
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	storytelling	storytelling	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	crows	crow	NNS	_	15	pobj
+17	outside	outside	IN	_	11	prep
+18	my	my	PRP$	_	20	poss
+19	bedroom	bedroom	NN	_	20	nn
+20	window	window	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

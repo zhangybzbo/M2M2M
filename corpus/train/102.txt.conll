@@ -1,0 +1,9 @@
+1	He	he	PRP	_	2	nsubj
+2	posted	post	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	answers	answer	NNS	_	2	dobj
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	website	website	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

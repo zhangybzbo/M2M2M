@@ -1,0 +1,1 @@
+The receiver was outputting the same tone to my Deva 5 .

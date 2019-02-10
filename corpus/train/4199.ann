@@ -1,0 +1,3 @@
+T1	Term 25 30	trunk
+T2	Term 31 34	lid
+R1	Component-Whole Arg1:T2 Arg2:T1

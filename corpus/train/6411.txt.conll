@@ -1,0 +1,18 @@
+1	Colds	Colds	NNP	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	flu	flu	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	inflammation	inflammation	NN	_	4	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	mucous	mucous	JJ	_	9	amod
+9	membranes	membrane	NNS	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	nose	nose	NN	_	10	pobj
+13	,	,	,	_	12	punct
+14	throat	throat	NN	_	12	conj
+15	and	and	CC	_	12	cc
+16	mouth	mouth	NN	_	12	conj
+17	.	.	.	_	4	punct
+

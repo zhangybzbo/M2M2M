@@ -1,0 +1,3 @@
+T1	Term 97 104	payment
+T2	Term 129 136	gateway
+R1	Other Arg1:T1 Arg2:T2

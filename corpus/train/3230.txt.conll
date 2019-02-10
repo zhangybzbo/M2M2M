@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	3	nsubj
+3	finishes	finish	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	season	season	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	9-11	9-11	CD	_	9	num
+9	record	record	NN	_	6	pobj
+10	,	,	,	_	3	punct
+11	just	just	RB	_	12	advmod
+12	short	short	JJ	_	3	advmod
+13	of	of	IN	_	12	prep
+14	tournament	tournament	NN	_	15	nn
+15	contention	contention	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

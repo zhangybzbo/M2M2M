@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	table	table	NN	_	3	nsubj
+3	summarises	summarise	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	results	result	NNS	_	3	dobj
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	remaining	remain	VBG	_	10	amod
+9	567	567	CD	_	10	num
+10	women	woman	NNS	_	6	pobj
+11	.	.	.	_	3	punct
+

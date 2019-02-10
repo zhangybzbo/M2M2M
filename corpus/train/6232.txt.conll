@@ -1,0 +1,19 @@
+1	Sea	Sea	NNP	_	2	nn
+2	otters	otter	NNS	_	4	nsubj
+3	often	often	RB	_	4	advmod
+4	swim	swim	VBP	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	stone	stone	NN	_	5	pobj
+8	on	on	IN	_	7	prep
+9	their	they	PRP$	_	10	poss
+10	stomachs	stomach	NNS	_	8	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	14	dobj
+13	they	they	PRP	_	14	nsubj
+14	use	use	VBP	_	10	rcmod
+15	to	to	TO	_	16	aux
+16	crack	crack	VB	_	14	xcomp
+17	abalone	abalone	NN	_	16	dobj
+18	.	.	.	_	4	punct
+

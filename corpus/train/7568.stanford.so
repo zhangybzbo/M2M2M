@@ -1,0 +1,11 @@
+0	57	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Craig" pos="NNP" nsubj="t1"
+6	15	tok id="t1" base="express" pos="VBD" ROOT="ROOT"
+16	19	tok id="t2" base="he" pos="PRP$" poss="t3"
+20	31	tok id="t3" base="frustration" pos="NN" dobj="t1"
+32	37	tok id="t4" base="after" pos="IN" prep="t1"
+38	44	tok id="t5" base="Monday" pos="NNP" poss="t7"
+45	47	tok id="t6" base="'s" pos="POS" possessive="t5"
+48	55	tok id="t7" base="meeting" pos="NN" pobj="t4"
+56	57	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,16 @@
+1	Since	since	IN	_	8	prep
+2	arriving	arrive	VBG	_	1	pcomp
+3	in	in	IN	_	2	prep
+4	Cairns	Cairns	NNP	_	3	pobj
+5	,	,	,	_	8	punct
+6	co-workers	co-worker	NNS	_	8	nsubj
+7	have	have	VBP	_	8	aux
+8	thrown	throw	VBN	_	0	ROOT
+9	the	the	DT	_	11	det
+10	new	new	JJ	_	11	amod
+11	employee	employee	NN	_	8	dobj
+12	into	into	IN	_	8	prep
+13	local	local	JJ	_	14	amod
+14	issues	issue	NNS	_	12	pobj
+15	.	.	.	_	8	punct
+

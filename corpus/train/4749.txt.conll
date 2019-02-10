@@ -1,0 +1,17 @@
+1	Thrombopoietin	thrombopoietin	NN	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	glycoprotein	glycoprotein	NN	_	5	nn
+5	hormone	hormone	NN	_	0	ROOT
+6	that	that	WDT	_	7	nsubj
+7	regulates	regulate	VBZ	_	5	rcmod
+8	the	the	DT	_	9	det
+9	production	production	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	platelets	platelet	NNS	_	10	pobj
+12	by	by	IN	_	7	prep
+13	the	the	DT	_	15	det
+14	bone	bone	NN	_	15	nn
+15	marrow	marrow	NN	_	12	pobj
+16	.	.	.	_	5	punct
+

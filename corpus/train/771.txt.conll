@@ -1,0 +1,25 @@
+1	It	it	PRP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	settled	settle	VBN	_	0	ROOT
+4	that	that	IN	_	9	mark
+5	the	the	DT	_	6	det
+6	argument	argument	NN	_	9	nsubj
+7	of	of	IN	_	6	prep
+8	theodicy	theodicy	NN	_	7	pobj
+9	is	be	VBZ	_	3	ccomp
+10	from	from	IN	_	9	prep
+11	an	a	DT	_	13	det
+12	academical	academical	JJ	_	13	amod
+13	source	source	NN	_	10	pobj
+14	which	which	WDT	_	19	nsubj
+15	is	be	VBZ	_	19	cop
+16	not	not	RB	_	17	neg
+17	only	only	RB	_	19	preconj
+18	not	not	RB	_	19	neg
+19	epicurean	epicurean	JJ	_	13	rcmod
+20	,	,	,	_	19	punct
+21	but	but	CC	_	19	cc
+22	even	even	RB	_	23	advmod
+23	anti-epicurean	anti-epicurean	JJ	_	19	conj
+24	.	.	.	_	3	punct
+

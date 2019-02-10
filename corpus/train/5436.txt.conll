@@ -1,0 +1,22 @@
+1	That	that	DT	_	3	det
+2	big	big	JJ	_	3	amod
+3	piece	piece	NN	_	6	nsubj
+4	of	of	IN	_	3	prep
+5	meat	meat	NN	_	4	pobj
+6	was	be	VBD	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	can	can	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	Bush	Bush	NNP	_	14	poss
+12	's	's	POS	_	11	possessive
+13	Baked	Baked	NNP	_	14	nn
+14	Beans	Beans	NNPS	_	10	pobj
+15	that	that	IN	_	17	mark
+16	we	we	PRP	_	17	nsubj
+17	had	have	VBD	_	6	ccomp
+18	for	for	IN	_	17	prep
+19	lunch	lunch	NN	_	18	pobj
+20	today	today	NN	_	17	tmod
+21	.	.	.	_	6	punct
+

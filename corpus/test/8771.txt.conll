@@ -1,0 +1,16 @@
+1	Even	even	RB	_	4	advmod
+2	the	the	DT	_	4	det
+3	thinnest	thinnest	JJS	_	4	amod
+4	crack	crack	NN	_	11	nsubj
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	humidor	humidor	NN	_	5	pobj
+8	is	be	VBZ	_	11	cop
+9	an	a	DT	_	11	det
+10	open	open	JJ	_	11	amod
+11	invitation	invitation	NN	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	cigar	cigar	NN	_	14	nn
+14	beetles	beetle	NNS	_	12	pobj
+15	.	.	.	_	11	punct
+

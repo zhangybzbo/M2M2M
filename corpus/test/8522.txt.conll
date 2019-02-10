@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	director	director	NN	_	12	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	company	company	NN	_	3	pobj
+6	in	in	IN	_	2	prep
+7	its	its	PRP$	_	9	poss
+8	inaugural	inaugural	JJ	_	9	amod
+9	year	year	NN	_	6	pobj
+10	was	be	VBD	_	12	cop
+11	George	George	NNP	_	12	nn
+12	Ogilvie	Ogilvie	NNP	_	0	ROOT
+13	.	.	.	_	12	punct
+

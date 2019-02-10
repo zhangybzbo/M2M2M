@@ -1,0 +1,17 @@
+1	But	but	CC	_	5	cc
+2	here	here	RB	_	5	advmod
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	jumper	jumper	NN	_	0	ROOT
+6	sewn	sew	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	daughter	daughter	NN	_	7	pobj
+10	-LRB-	-lrb-	-LRB-	_	11	punct
+11	Antoinette	antoinette	NN	_	9	appos
+12	-RRB-	-rrb-	-RRB-	_	11	punct
+13	for	for	IN	_	9	prep
+14	her	she	PRP$	_	15	poss
+15	mother	mother	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

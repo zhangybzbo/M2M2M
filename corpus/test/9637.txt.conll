@@ -1,0 +1,19 @@
+1	Some	some	DT	_	2	quantmod
+2	9000	9000	CD	_	3	num
+3	marines	marine	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	moving	move	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	small	small	JJ	_	10	amod
+9	Afghan	Afghan	NNP	_	10	nn
+10	towns	town	NNS	_	6	pobj
+11	near	near	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	border	border	NN	_	11	pobj
+14	to	to	TO	_	15	aux
+15	stop	stop	VB	_	5	xcomp
+16	Taliban	Taliban	NNP	_	17	nn
+17	soldiers	soldier	NNS	_	15	dobj
+18	.	.	.	_	5	punct
+

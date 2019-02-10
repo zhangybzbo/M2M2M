@@ -1,0 +1,18 @@
+1	Local	local	JJ	_	2	amod
+2	legend	legend	NN	_	3	nsubj
+3	tells	tell	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	man	man	NN	_	4	pobj
+7	unjustly	unjustly	RB	_	8	advmod
+8	hanged	hang	VBN	_	6	vmod
+9	and	and	CC	_	8	cc
+10	a	a	DT	_	11	det
+11	grave	grave	NN	_	8	conj
+12	where	where	WRB	_	16	advmod
+13	no	no	DT	_	14	neg
+14	grass	grass	NN	_	16	nsubj
+15	will	will	MD	_	16	aux
+16	grow	grow	VB	_	11	rcmod
+17	.	.	.	_	3	punct
+

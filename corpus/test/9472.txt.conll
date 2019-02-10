@@ -1,0 +1,13 @@
+1	Traditionally	traditionally	RB	_	2	advmod
+2	aid	aid	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	delivered	deliver	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	African	african	JJ	_	8	amod
+8	countries	country	NNS	_	6	pobj
+9	by	by	IN	_	5	prep
+10	international	international	JJ	_	11	amod
+11	charities	charity	NNS	_	9	pobj
+12	.	.	.	_	5	punct
+

@@ -1,0 +1,21 @@
+1	On	on	IN	_	7	prep
+2	the	the	DT	_	6	det
+3	Seleucid	Seleucid	NNP	_	6	nn
+4	right	right	NN	_	6	nn
+5	flank	flank	NN	_	6	nn
+6	Atticus	Atticus	NNP	_	1	pobj
+7	deployed	deploy	VBD	_	0	ROOT
+8	the	the	DT	_	10	det
+9	elite	elite	JJ	_	10	amod
+10	companions	companion	NNS	_	7	dobj
+11	screened	screen	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	single	single	JJ	_	15	amod
+15	unit	unit	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	Scythian	scythian	JJ	_	19	amod
+18	horse	horse	NN	_	19	nn
+19	archers	archer	NNS	_	16	pobj
+20	.	.	.	_	7	punct
+

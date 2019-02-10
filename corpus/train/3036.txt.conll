@@ -1,0 +1,17 @@
+1	An	a	DT	_	2	det
+2	agreement	agreement	NN	_	8	nsubjpass
+3	to	to	TO	_	4	aux
+4	limit	limit	VB	_	2	vmod
+5	strategic	strategic	JJ	_	6	amod
+6	launchers	launcher	NNS	_	4	dobj
+7	was	be	VBD	_	8	auxpass
+8	reached	reach	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	Vienna	Vienna	NNP	_	9	pobj
+11	on	on	IN	_	8	prep
+12	June	June	NNP	_	11	pobj
+13	18	18	CD	_	12	num
+14	,	,	,	_	12	punct
+15	1979	1979	CD	_	12	num
+16	.	.	.	_	8	punct
+

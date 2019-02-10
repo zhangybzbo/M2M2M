@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	basket	basket	NN	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	full	full	JJ	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	furry	furry	JJ	_	7	amod
+7	orange-and-black	orange-and-black	NN	_	5	pobj
+8	faces	face	VBZ	_	0	ROOT
+9	--	--	:	_	8	punct
+10	kittens	kitten	NNS	_	8	dep
+11	.	.	.	_	8	punct
+

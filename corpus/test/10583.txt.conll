@@ -1,0 +1,22 @@
+1	When	when	WRB	_	3	advmod
+2	she	she	PRP	_	3	nsubj
+3	got	get	VBD	_	15	advcl
+4	home	home	NN	_	3	dobj
+5	,	,	,	_	15	punct
+6	the	the	DT	_	7	det
+7	child	child	NN	_	15	nsubj
+8	,	,	,	_	7	punct
+9	who	who	WP	_	11	nsubj
+10	was	be	VBD	_	11	aux
+11	waiting	wait	VBG	_	7	rcmod
+12	for	for	IN	_	11	prep
+13	her	she	PRP	_	12	pobj
+14	,	,	,	_	7	punct
+15	killed	kill	VBD	_	0	ROOT
+16	her	she	PRP	_	15	dobj
+17	with	with	IN	_	15	prep
+18	a	a	DT	_	20	det
+19	rusty	rusty	JJ	_	20	amod
+20	nail	nail	NN	_	17	pobj
+21	.	.	.	_	15	punct
+

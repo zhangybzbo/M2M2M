@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	bacon	bacon	NN	_	3	nn
+3	manufacture	manufacture	NN	_	8	nsubj
+4	is	be	VBZ	_	8	cop
+5	the	the	DT	_	8	det
+6	74th	74th	JJ	_	8	amod
+7	greatest	greatest	JJS	_	8	amod
+8	export	export	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	Denmark	Denmark	NNP	_	9	pobj
+11	.	.	.	_	8	punct
+

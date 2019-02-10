@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	diseases	disease	NNS	_	5	nsubj
+3	have	have	VBP	_	5	aux
+4	rapidly	rapidly	RB	_	5	advmod
+5	spread	spread	VBN	_	0	ROOT
+6	infection	infection	NN	_	5	dobj
+7	to	to	TO	_	5	prep
+8	other	other	JJ	_	9	amod
+9	people	people	NNS	_	7	pobj
+10	.	.	.	_	5	punct
+

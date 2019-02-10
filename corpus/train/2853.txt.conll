@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	reference	reference	NN	_	3	dobj
+5	to	to	TO	_	4	prep
+6	all	all	DT	_	7	det
+7	sciences	science	NNS	_	5	pobj
+8	,	,	,	_	3	punct
+9	to	to	TO	_	3	prep
+10	many	many	JJ	_	12	amod
+11	classical	classical	JJ	_	12	amod
+12	works	work	NNS	_	9	pobj
+13	in	in	IN	_	12	prep
+14	both	both	DT	_	15	preconj
+15	psychology	psychology	NN	_	13	pobj
+16	and	and	CC	_	15	cc
+17	biology	biology	NN	_	15	conj
+18	.	.	.	_	3	punct
+

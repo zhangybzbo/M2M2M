@@ -1,0 +1,12 @@
+0	49	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t2"
+2	9	tok id="t1" base="textile" pos="NN" nn="t2"
+10	14	tok id="t2" base="mill" pos="NN" nsubj="t5"
+15	17	tok id="t3" base="be" pos="VBZ" cop="t5"
+18	19	tok id="t4" base="a" pos="DT" det="t5"
+20	27	tok id="t5" base="factory" pos="NN" ROOT="ROOT"
+28	31	tok id="t6" base="for" pos="IN" prep="t5"
+32	38	tok id="t7" base="make" pos="VBG" pcomp="t6"
+39	47	tok id="t8" base="textile" pos="NNS" dobj="t7"
+48	49	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

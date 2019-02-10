@@ -1,0 +1,25 @@
+1	With	with	IN	_	14	prep
+2	the	the	DT	_	3	det
+3	help	help	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	Scots	Scots	NNPS	_	4	pobj
+6	who	who	WP	_	7	nsubj
+7	spoke	speak	VBD	_	3	rcmod
+8	perfect	perfect	JJ	_	9	amod
+9	French	french	JJ	_	7	acomp
+10	,	,	,	_	14	punct
+11	the	the	DT	_	13	det
+12	English	English	NNP	_	13	nn
+13	army	army	NN	_	14	nsubj
+14	scaled	scale	VBD	_	0	ROOT
+15	the	the	DT	_	16	det
+16	cliffs	cliff	NNS	_	14	dobj
+17	with	with	IN	_	14	prep
+18	a	a	DT	_	19	det
+19	maneuver	maneuver	NN	_	23	dep
+20	the	the	DT	_	23	dep
+21	French	french	JJ	_	23	dep
+22	never	never	RB	_	23	neg
+23	considered	consider	VBN	_	17	pcomp
+24	.	.	.	_	14	punct
+

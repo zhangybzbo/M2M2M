@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det
+2	magazine	magazine	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	thrown	throw	VBN	_	0	ROOT
+5	together	together	RB	_	4	advmod
+6	a	a	DT	_	7	det
+7	list	list	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	Top	top	JJ	_	12	amod
+11	100	100	CD	_	12	num
+12	albums	album	NNS	_	8	pobj
+13	between	between	IN	_	12	prep
+14	2000	2000	CD	_	13	pobj
+15	and	and	CC	_	14	cc
+16	2009	2009	CD	_	14	conj
+17	.	.	.	_	4	punct
+

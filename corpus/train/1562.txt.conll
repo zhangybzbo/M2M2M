@@ -1,0 +1,17 @@
+1	Most	most	JJS	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	essays	essay	NNS	_	2	pobj
+5	originated	originate	VBP	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	writing	write	VBG	_	6	pcomp
+8	workshops	workshop	NNS	_	7	dobj
+9	run	run	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	15	det
+12	literary	literary	JJ	_	15	amod
+13	magazine	magazine	NN	_	15	nn
+14	Tin	tin	NN	_	15	nn
+15	House	House	NNP	_	10	pobj
+16	.	.	.	_	5	punct
+

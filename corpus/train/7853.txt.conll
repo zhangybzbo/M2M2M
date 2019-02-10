@@ -1,0 +1,25 @@
+1	There	there	EX	_	2	expl
+2	exists	exist	VBZ	_	0	ROOT
+3	a	a	DT	_	5	det
+4	widespread	widespread	JJ	_	5	amod
+5	controversy	controversy	NN	_	2	dobj
+6	over	over	IN	_	5	prep
+7	stem	stem	NN	_	9	nn
+8	cell	cell	NN	_	9	nn
+9	research	research	NN	_	6	pobj
+10	that	that	WDT	_	11	nsubj
+11	emanates	emanate	VBZ	_	5	rcmod
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	techniques	technique	NNS	_	12	pobj
+15	used	use	VBN	_	14	vmod
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	creation	creation	NN	_	16	pobj
+19	and	and	CC	_	18	cc
+20	usage	usage	NN	_	18	conj
+21	of	of	IN	_	18	prep
+22	stem	stem	NN	_	23	nn
+23	cells	cell	NNS	_	21	pobj
+24	.	.	.	_	2	punct
+

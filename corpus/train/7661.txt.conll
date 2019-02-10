@@ -1,0 +1,11 @@
+1	In	in	IN	_	7	prep
+2	any	any	DT	_	3	det
+3	case	case	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	fish	fish	NN	_	6	nn
+6	oil	oil	NN	_	7	nsubj
+7	did	do	VBD	_	0	ROOT
+8	harm	harm	NN	_	9	nn
+9	patients	patient	NNS	_	7	dobj
+10	.	.	.	_	7	punct
+

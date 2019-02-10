@@ -1,0 +1,20 @@
+1	At	at	IN	_	12	prep
+2	the	the	DT	_	3	det
+3	heart	heart	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	discussion	discussion	NN	_	4	pobj
+7	was	be	VBD	_	12	cop
+8	the	the	DT	_	12	det
+9	financial	financial	JJ	_	12	amod
+10	and	and	CC	_	9	cc
+11	artistic	artistic	JJ	_	9	conj
+12	crisis	crisis	NN	_	0	ROOT
+13	that	that	WDT	_	17	dobj
+14	photojournalism	photojournalism	NN	_	17	nsubj
+15	is	be	VBZ	_	17	aux
+16	currently	currently	RB	_	17	advmod
+17	going	go	VBG	_	12	rcmod
+18	through	through	RB	_	17	advmod
+19	.	.	.	_	12	punct
+

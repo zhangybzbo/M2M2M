@@ -1,0 +1,23 @@
+1	In	in	IN	_	6	prep
+2	addition	addition	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	plant	plant	NN	_	6	nsubj
+6	builds	build	VBZ	_	0	ROOT
+7	four-cylinder	four-cylinder	JJ	_	9	amod
+8	``	``	``	_	9	punct
+9	Ecotec	Ecotec	NNP	_	6	dobj
+10	''	''	''	_	9	punct
+11	that	that	WDT	_	13	nsubjpass
+12	are	be	VBP	_	13	auxpass
+13	used	use	VBN	_	9	rcmod
+14	in	in	IN	_	13	prep
+15	vehicles	vehicle	NNS	_	14	pobj
+16	like	like	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	Chevy	Chevy	NNP	_	19	nn
+19	Malibu	Malibu	NNP	_	16	pobj
+20	and	and	CC	_	19	cc
+21	Cobalt	cobalt	NN	_	19	conj
+22	.	.	.	_	6	punct
+

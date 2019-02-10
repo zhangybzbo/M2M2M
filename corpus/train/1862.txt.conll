@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	dep
+2	health	health	NN	_	4	dep
+3	professional	professional	JJ	_	4	nsubj
+4	uses	use	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	lamp	lamp	NN	_	4	dobj
+7	during	during	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	test	test	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

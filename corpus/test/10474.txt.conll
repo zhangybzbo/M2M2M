@@ -1,0 +1,15 @@
+1	Below	Below	NNP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	code	code	NN	_	5	nn
+5	snippet	snippet	NN	_	0	ROOT
+6	for	for	IN	_	5	prep
+7	creating	create	VBG	_	6	pcomp
+8	a	a	DT	_	9	det
+9	timestamp	timestamp	NN	_	7	dobj
+10	from	from	IN	_	7	prep
+11	formatted	format	VBN	_	13	amod
+12	date	date	NN	_	13	nn
+13	date	date	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

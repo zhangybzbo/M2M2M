@@ -1,0 +1,12 @@
+0	63	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Family" pos="NNP" nn="t1"
+7	13	tok id="t1" base="value" pos="NNS" nsubjpass="t5"
+14	17	tok id="t2" base="and" pos="CC" cc="t1"
+18	26	tok id="t3" base="meaning" pos="NNS" conj="t1"
+27	30	tok id="t4" base="be" pos="VBP" auxpass="t5"
+31	39	tok id="t5" base="narrate" pos="VBN" ROOT="ROOT"
+40	47	tok id="t6" base="through" pos="IN" prep="t5"
+48	54	tok id="t7" base="family" pos="NN" nn="t8"
+55	61	tok id="t8" base="album" pos="NNS" pobj="t6"
+62	63	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,1 @@
+In this paper , we introduce dynamic analysis and model transformations of longitudinal flight of hypersonic aircrafts .

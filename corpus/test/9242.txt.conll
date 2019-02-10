@@ -1,0 +1,12 @@
+1	Intuitively	intuitively	RB	_	2	advmod
+2	stack	stack	VB	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	visualized	visualize	VBN	_	0	ROOT
+5	as	as	IN	_	8	mark
+6	indeed	indeed	RB	_	8	advmod
+7	a	a	DT	_	8	det
+8	stack	stack	VB	_	4	advcl
+9	of	of	IN	_	8	prep
+10	objects	object	NNS	_	9	pobj
+11	.	.	.	_	4	punct
+

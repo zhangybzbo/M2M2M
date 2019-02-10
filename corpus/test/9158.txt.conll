@@ -1,0 +1,16 @@
+1	Cocaine	cocaine	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	hidden	hide	VBN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	pineapples	pineapple	NNS	_	4	pobj
+7	exported	export	VBN	_	6	vmod
+8	from	from	IN	_	7	prep
+9	Ecuador	Ecuador	NNP	_	8	pobj
+10	to	to	TO	_	7	prep
+11	Medellin	Medellin	NNP	_	12	nn
+12	city	city	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	Columbia	Columbia	NNP	_	13	pobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	Two	two	CD	_	2	num
+2	pillars	pillar	NNS	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	bridge	bridge	NN	_	3	pobj
+6	at	at	IN	_	5	prep
+7	Karsaz	Karsaz	NNP	_	8	nn
+8	Road	Road	NNP	_	6	pobj
+9	have	have	VBP	_	10	aux
+10	collapsed	collapse	VBN	_	0	ROOT
+11	today	today	NN	_	12	nn
+12	morning	morning	NN	_	10	tmod
+13	.	.	.	_	10	punct
+

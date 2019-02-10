@@ -1,0 +1,26 @@
+1	Opening	open	VBG	_	2	amod
+2	paragraph	paragraph	NN	_	3	nsubj
+3	defines	define	VBZ	_	0	ROOT
+4	purpose	purpose	NN	_	3	dobj
+5	of	of	IN	_	4	prep
+6	essay	essay	NN	_	5	pobj
+7	clearly	clearly	RB	_	3	advmod
+8	and	and	CC	_	7	cc
+9	succinctly	succinctly	RB	_	7	conj
+10	,	,	,	_	3	punct
+11	allows	allow	VBZ	_	3	dep
+12	the	the	DT	_	13	det
+13	reader	reader	NN	_	11	dobj
+14	to	to	TO	_	15	aux
+15	predict	predict	VB	_	11	xcomp
+16	what	what	WP	_	17	nsubj
+17	follows	follow	VBZ	_	15	ccomp
+18	and	and	CC	_	17	cc
+19	establishes	establish	VBZ	_	17	conj
+20	a	a	DT	_	22	det
+21	clear	clear	JJ	_	22	amod
+22	theme	theme	NN	_	17	dobj
+23	for	for	IN	_	22	prep
+24	essay	essay	NN	_	23	pobj
+25	.	.	.	_	3	punct
+

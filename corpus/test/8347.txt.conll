@@ -1,0 +1,14 @@
+1	Active	active	JJ	_	2	amod
+2	transport	transport	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	mechanism	mechanism	NN	_	0	ROOT
+6	evolved	evolve	VBD	_	5	vmod
+7	to	to	TO	_	8	aux
+8	mediate	mediate	VB	_	6	xcomp
+9	traffic	traffic	NN	_	8	dobj
+10	across	across	IN	_	9	prep
+11	cellular	cellular	JJ	_	12	amod
+12	membranes	membrane	NNS	_	10	pobj
+13	.	.	.	_	5	punct
+

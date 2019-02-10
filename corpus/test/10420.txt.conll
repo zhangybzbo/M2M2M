@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	singer	singer	NN	_	3	nsubj
+3	demonstrates	demonstrate	VBZ	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	sensitivity	sensitivity	NN	_	3	dobj
+6	during	during	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	song	song	NN	_	6	pobj
+9	by	by	IN	_	3	prep
+10	suggesting	suggest	VBG	_	9	pcomp
+11	that	that	IN	_	14	mark
+12	he	he	PRP	_	14	nsubj
+13	would	would	MD	_	14	aux
+14	bring	bring	VB	_	10	ccomp
+15	flowers	flower	NNS	_	14	dobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	injected	inject	VBN	_	3	amod
+3	fluid	fluid	NN	_	6	nsubjpass
+4	is	be	VBZ	_	6	auxpass
+5	slowly	slowly	RB	_	6	advmod
+6	spread	spread	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	body	body	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

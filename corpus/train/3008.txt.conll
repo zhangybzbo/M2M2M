@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	process	process	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	assisted	assist	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	benign	benign	JJ	_	7	amod
+7	intervention	intervention	NN	_	5	pobj
+8	or	or	CC	_	7	cc
+9	neglect	neglect	NN	_	7	conj
+10	.	.	.	_	4	punct
+

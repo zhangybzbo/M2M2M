@@ -1,0 +1,13 @@
+0	69	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="supernatant" pos="NN" nsubjpass="t2"
+12	15	tok id="t1" base="be" pos="VBD" auxpass="t2"
+16	23	tok id="t2" base="remove" pos="VBN" ROOT="ROOT"
+24	28	tok id="t3" base="into" pos="IN" prep="t2"
+29	30	tok id="t4" base="a" pos="DT" det="t9"
+31	34	tok id="t5" base="100" pos="CD" num="t9"
+35	37	tok id="t6" base="ml" pos="NN" nn="t9"
+38	51	tok id="t7" base="polypropylene" pos="NN" nn="t9"
+52	62	tok id="t8" base="centrifuge" pos="NN" nn="t9"
+63	67	tok id="t9" base="tube" pos="NN" pobj="t3"
+68	69	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

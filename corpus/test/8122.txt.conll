@@ -1,0 +1,16 @@
+1	Carpenters	carpenter	NNS	_	2	nsubj
+2	build	build	VBP	_	0	ROOT
+3	many	many	JJ	_	4	amod
+4	things	thing	NNS	_	2	dobj
+5	from	from	IN	_	2	prep
+6	wood	wood	NN	_	5	pobj
+7	and	and	CC	_	6	cc
+8	other	other	JJ	_	9	amod
+9	materials	material	NNS	_	6	conj
+10	,	,	,	_	2	punct
+11	like	like	IN	_	2	prep
+12	buildings	building	NNS	_	11	pobj
+13	and	and	CC	_	12	cc
+14	boats	boat	NNS	_	12	conj
+15	.	.	.	_	2	punct
+

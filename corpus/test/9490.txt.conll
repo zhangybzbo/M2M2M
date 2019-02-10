@@ -1,0 +1,15 @@
+1	Slaanesh	Slaanesh	NNP	_	2	nsubj
+2	enjoys	enjoy	VBZ	_	0	ROOT
+3	every	every	DT	_	4	det
+4	aspect	aspect	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	experience	experience	NN	_	5	pobj
+7	,	,	,	_	2	punct
+8	deriving	derive	VBG	_	2	vmod
+9	pleasure	pleasure	NN	_	8	dobj
+10	from	from	IN	_	8	prep
+11	pain	pain	NN	_	10	pobj
+12	and	and	CC	_	11	cc
+13	suffering	suffering	NN	_	11	conj
+14	.	.	.	_	2	punct
+

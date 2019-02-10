@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	tram	tram	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	trip	trip	NN	_	3	dobj
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	main	main	JJ	_	10	amod
+9	university	university	NN	_	10	nn
+10	campus	campus	NN	_	6	pobj
+11	in	in	IN	_	5	prep
+12	less	less	JJR	_	13	mwe
+13	than	than	IN	_	14	quantmod
+14	5	5	CD	_	15	num
+15	minutes	minute	NNS	_	11	pobj
+16	,	,	,	_	3	punct
+17	while	while	IN	_	18	mark
+18	driving	drive	VBG	_	20	csubj
+19	can	can	MD	_	20	aux
+20	take	take	VB	_	3	ccomp
+21	15	15	CD	_	22	num
+22	minutes	minute	NNS	_	20	dobj
+23	or	or	CC	_	22	cc
+24	longer	longer	JJR	_	22	conj
+25	.	.	.	_	3	punct
+

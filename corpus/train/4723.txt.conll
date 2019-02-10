@@ -1,0 +1,9 @@
+1	Icen	Icen	NNP	_	2	nsubj
+2	yelled	yell	VBD	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	battalion	battalion	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	crossbowmen	crossbowman	NNS	_	6	pobj
+8	.	.	.	_	2	punct
+

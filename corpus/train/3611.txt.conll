@@ -1,0 +1,18 @@
+1	The	the	DT	_	5	det
+2	decorated	decorate	VBN	_	5	amod
+3	Vietnam	Vietnam	NNP	_	5	nn
+4	veteran	veteran	NN	_	5	nn
+5	posts	post	NNS	_	0	ROOT
+6	a	a	DT	_	8	det
+7	weekly	weekly	JJ	_	8	amod
+8	tribute	tribute	NN	_	5	dep
+9	to	to	TO	_	8	prep
+10	service	service	NN	_	11	nn
+11	members	member	NNS	_	9	pobj
+12	killed	kill	VBN	_	11	vmod
+13	in	in	IN	_	12	prep
+14	Iraq	Iraq	NNP	_	13	pobj
+15	and	and	CC	_	14	cc
+16	Afghanistan	Afghanistan	NNP	_	14	conj
+17	.	.	.	_	5	punct
+

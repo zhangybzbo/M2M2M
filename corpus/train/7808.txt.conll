@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	microwave	microwave	NN	_	3	nn
+3	oven	oven	NN	_	5	nsubj
+4	is	be	VBZ	_	5	cop
+5	one	one	CD	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	great	great	JJ	_	9	amod
+9	inventions	invention	NNS	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	20th	20th	JJ	_	13	amod
+13	century	century	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

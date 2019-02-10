@@ -1,0 +1,18 @@
+1	Authentic	authentic	JJ	_	2	amod
+2	people	people	NNS	_	11	nsubj
+3	,	,	,	_	11	punct
+4	knowing	know	VBG	_	11	vmod
+5	their	they	PRP$	_	6	poss
+6	place	place	NN	_	4	dobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	world	world	NN	_	7	pobj
+10	,	,	,	_	11	punct
+11	fulfill	fulfill	VBP	_	0	ROOT
+12	it	it	PRP	_	11	dobj
+13	with	with	IN	_	11	prep
+14	joy	joy	NN	_	13	pobj
+15	and	and	CC	_	14	cc
+16	attention	attention	NN	_	14	conj
+17	.	.	.	_	11	punct
+

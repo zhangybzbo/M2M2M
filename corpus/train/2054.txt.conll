@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	door	door	NN	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	3	pobj
+5	right	right	JJ	_	4	amod
+6	enclosed	enclose	VBN	_	5	dep
+7	a	a	DT	_	9	det
+8	fumigating	fumigate	VBG	_	9	amod
+9	chamber	chamber	NN	_	6	dobj
+10	.	.	.	_	2	punct
+

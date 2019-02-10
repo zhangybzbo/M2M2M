@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	idea	idea	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	Roman	roman	JJ	_	5	amod
+5	expansion	expansion	NN	_	3	pobj
+6	into	into	IN	_	5	prep
+7	North	North	NNP	_	8	nn
+8	Africa	Africa	NNP	_	6	pobj
+9	started	start	VBD	_	0	ROOT
+10	with	with	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	fear	fear	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	jealousy	jealousy	NN	_	12	conj
+15	caused	cause	VBN	_	12	vmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	20	det
+18	great	great	JJ	_	20	amod
+19	economic	economic	JJ	_	20	amod
+20	power	power	NN	_	16	pobj
+21	of	of	IN	_	20	prep
+22	Carthage	Carthage	NNP	_	21	pobj
+23	.	.	.	_	9	punct
+

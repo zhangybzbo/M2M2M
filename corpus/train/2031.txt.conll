@@ -1,0 +1,23 @@
+1	To	to	TO	_	2	aux
+2	create	create	VB	_	8	advcl
+3	a	a	DT	_	5	det
+4	good	good	JJ	_	5	amod
+5	seal	seal	NN	_	2	dobj
+6	,	,	,	_	8	punct
+7	manufacturers	manufacturer	NNS	_	8	nsubj
+8	put	put	VBD	_	0	ROOT
+9	a	a	DT	_	10	det
+10	foam	foam	NN	_	8	dobj
+11	-	-	:	_	10	punct
+12	or	or	CC	_	10	cc
+13	gel-filled	gel-filled	JJ	_	14	amod
+14	seal	seal	NN	_	10	conj
+15	between	between	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	ear	ear	NN	_	18	nn
+18	cup	cup	NN	_	15	pobj
+19	and	and	CC	_	18	cc
+20	your	you	PRP$	_	21	poss
+21	head	head	NN	_	18	conj
+22	.	.	.	_	8	punct
+

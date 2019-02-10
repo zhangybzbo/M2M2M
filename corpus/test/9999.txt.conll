@@ -1,0 +1,12 @@
+1	16	16	CD	_	4	num
+2	HP	HP	NNP	_	4	nn
+3	onan	onan	JJ	_	4	amod
+4	engine	engine	NN	_	5	nsubj
+5	blew	blow	VBD	_	0	ROOT
+6	oil	oil	NN	_	5	dobj
+7	into	into	IN	_	5	prep
+8	the	the	DT	_	10	det
+9	air	air	NN	_	10	nn
+10	filter	filter	NN	_	7	pobj
+11	.	.	.	_	5	punct
+

@@ -1,0 +1,20 @@
+1	More	more	RBR	_	2	advmod
+2	important	important	JJ	_	3	amod
+3	advantages	advantage	NNS	_	5	nsubj
+4	are	be	VBP	_	5	cop
+5	related	related	JJ	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	position	position	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	left-handed	left-handed	JJ	_	13	amod
+12	first	first	JJ	_	13	amod
+13	baseman	baseman	NN	_	9	pobj
+14	with	with	IN	_	8	prep
+15	respect	respect	NN	_	14	pobj
+16	to	to	TO	_	15	prep
+17	the	the	DT	_	18	det
+18	base	base	NN	_	16	pobj
+19	.	.	.	_	5	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	irritation	irritation	NN	_	10	nsubjpass
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	chemicals	chemical	NNS	_	3	pobj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	tobacco	tobacco	NN	_	6	pobj
+9	is	be	VBZ	_	10	auxpass
+10	considered	consider	VBN	_	0	ROOT
+11	to	to	TO	_	10	prep
+12	be	be	VB	_	11	pcomp
+13	the	the	DT	_	14	det
+14	number	number	NN	_	12	nsubj
+15	one	one	CD	_	17	num
+16	contributing	contribute	VBG	_	17	amod
+17	factor	factor	NN	_	14	dep
+18	.	.	.	_	10	punct
+

@@ -1,0 +1,16 @@
+1	Once	once	RB	_	7	advmod
+2	all	all	PDT	_	5	predet
+3	the	the	DT	_	5	det
+4	corn	corn	NN	_	5	nn
+5	liquor	liquor	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	collected	collect	VBN	_	10	advcl
+8	,	,	,	_	10	punct
+9	you	you	PRP	_	10	nsubj
+10	have	have	VBP	_	0	ROOT
+11	to	to	TO	_	10	prep
+12	proof	proof	NN	_	11	pobj
+13	it	it	PRP	_	12	dep
+14	down	down	RB	_	13	advmod
+15	.	.	.	_	10	punct
+

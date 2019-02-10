@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	student	student	NN	_	3	nn
+3	association	association	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	the	the	DT	_	6	det
+6	voice	voice	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	undergraduate	undergraduate	JJ	_	11	amod
+10	student	student	NN	_	11	nn
+11	population	population	NN	_	7	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	State	State	NNP	_	15	nn
+15	University	University	NNP	_	12	pobj
+16	of	of	IN	_	15	prep
+17	New	New	NNP	_	18	nn
+18	York	York	NNP	_	16	pobj
+19	at	at	IN	_	11	prep
+20	Buffalo	Buffalo	NNP	_	19	pobj
+21	.	.	.	_	6	punct
+

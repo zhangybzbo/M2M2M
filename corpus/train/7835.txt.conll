@@ -1,0 +1,15 @@
+1	Paul	Paul	NNP	_	3	nn
+2	the	the	DT	_	3	det
+3	novelist	novelist	NN	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	computer	computer	NN	_	4	dobj
+7	but	but	CC	_	4	cc
+8	uses	use	VBZ	_	4	conj
+9	his	he	PRP$	_	13	poss
+10	old	old	JJ	_	13	amod
+11	Smith	Smith	NNP	_	13	nn
+12	Corona	Corona	NNP	_	13	nn
+13	manual	manual	NN	_	8	dobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	efficiency	efficiency	NN	_	12	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	biosurfactant	biosurfactant	NN	_	3	pobj
+6	produced	produce	VBN	_	5	vmod
+7	from	from	IN	_	6	prep
+8	used	use	VBN	_	10	amod
+9	vegetable	vegetable	NN	_	10	nn
+10	oil	oil	NN	_	7	pobj
+11	was	be	VBD	_	12	auxpass
+12	compared	compare	VBN	_	22	nsubj
+13	to	to	TO	_	12	prep
+14	other	other	JJ	_	17	amod
+15	commercially	commercially	RB	_	16	advmod
+16	available	available	JJ	_	17	amod
+17	surfactants	surfactant	NNS	_	13	pobj
+18	and	and	CC	_	17	cc
+19	the	the	DT	_	20	det
+20	results	result	NNS	_	17	conj
+21	were	be	VBD	_	22	cop
+22	comparable	comparable	JJ	_	0	ROOT
+23	.	.	.	_	22	punct
+

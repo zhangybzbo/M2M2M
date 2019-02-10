@@ -1,0 +1,24 @@
+1	This	this	DT	_	2	det
+2	item	item	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	orange	orange	JJ	_	6	amod
+5	fruit	fruit	NN	_	6	nn
+6	oil	oil	NN	_	19	nsubj
+7	and	and	CC	_	6	cc
+8	is	be	VBZ	_	9	auxpass
+9	used	use	VBN	_	6	conj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	creation	creation	NN	_	10	pobj
+13	and/or	and/or	CC	_	12	cc
+14	manufacturing	manufacturing	NN	_	12	conj
+15	of	of	IN	_	12	prep
+16	fragrance	fragrance	NN	_	15	pobj
+17	and	and	CC	_	16	cc
+18	flavor	flavor	NN	_	16	conj
+19	concentrates	concentrate	VBZ	_	0	ROOT
+20	of	of	IN	_	19	prep
+21	all	all	DT	_	22	det
+22	types	type	NNS	_	20	pobj
+23	.	.	.	_	19	punct
+

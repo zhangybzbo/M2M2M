@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	Sino-U.S.	sino-u.s.	JJ	_	4	amod
+3	joint	joint	JJ	_	4	amod
+4	statement	statement	NN	_	5	nsubj
+5	takes	take	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	ties	tie	NNS	_	5	dobj
+8	into	into	IN	_	5	prep
+9	a	a	DT	_	11	det
+10	positive	positive	JJ	_	11	amod
+11	era	era	NN	_	8	pobj
+12	.	.	.	_	5	punct
+

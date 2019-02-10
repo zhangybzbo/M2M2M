@@ -1,0 +1,25 @@
+1	Finally	finally	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	5	det
+4	escape	escape	NN	_	5	nn
+5	artist	artist	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	put	put	VBN	_	13	csubjpass
+8	inside	inside	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	locked	lock	VBN	_	11	amod
+11	milk	milk	NN	_	8	pobj
+12	can	can	MD	_	13	aux
+13	filled	fill	VBN	_	0	ROOT
+14	with	with	IN	_	13	prep
+15	water	water	NN	_	14	pobj
+16	at	at	IN	_	13	prep
+17	the	the	DT	_	20	det
+18	Old	Old	NNP	_	20	nn
+19	Town	Town	NNP	_	20	nn
+20	Square	Square	NNP	_	16	pobj
+21	in	in	IN	_	20	prep
+22	Fort	Fort	NNP	_	23	nn
+23	Collins	Collins	NNP	_	21	pobj
+24	.	.	.	_	13	punct
+

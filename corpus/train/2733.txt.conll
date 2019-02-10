@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	games	game	NNS	_	3	nsubj
+3	were	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	box	box	NN	_	4	pobj
+7	that	that	WDT	_	8	nsubj
+8	had	have	VBD	_	6	rcmod
+9	a	a	DT	_	12	det
+10	$	$	$	_	12	amod
+11	3	3	CD	_	10	number
+12	sticker	sticker	NN	_	8	dobj
+13	on	on	IN	_	8	prep
+14	it	it	PRP	_	13	pobj
+15	,	,	,	_	3	punct
+16	so	so	IN	_	18	mark
+17	I	I	PRP	_	18	nsubj
+18	thought	think	VBD	_	3	advcl
+19	the	the	DT	_	20	det
+20	games	game	NNS	_	23	nsubj
+21	were	be	VBD	_	23	cop
+22	all	all	DT	_	23	quantmod
+23	$	$	$	_	18	ccomp
+24	3	3	CD	_	23	num
+25	each	each	DT	_	23	npadvmod
+26	.	.	.	_	3	punct
+

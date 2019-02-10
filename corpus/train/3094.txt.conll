@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	overall	overall	JJ	_	3	amod
+3	damage	damage	NN	_	18	nsubj
+4	caused	cause	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	destruction	destruction	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	land	land	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	property	property	NN	_	9	conj
+12	for	for	IN	_	7	prep
+13	the	the	DT	_	14	det
+14	Wall	Wall	NNP	_	16	poss
+15	's	's	POS	_	14	possessive
+16	construction	construction	NN	_	12	pobj
+17	has	have	VBZ	_	18	aux
+18	taken	take	VBN	_	0	ROOT
+19	many	many	JJ	_	20	amod
+20	years	year	NNS	_	18	tmod
+21	to	to	TO	_	22	aux
+22	recover	recover	VB	_	18	xcomp
+23	further	further	RB	_	22	advmod
+24	.	.	.	_	18	punct
+

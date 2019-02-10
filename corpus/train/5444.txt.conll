@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	builder	builder	NN	_	12	nsubj
+3	who	who	WP	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	mortgaged	mortgage	VBN	_	2	rcmod
+6	the	the	DT	_	7	det
+7	land	land	NN	_	5	dobj
+8	to	to	TO	_	9	aux
+9	raise	raise	VB	_	5	vmod
+10	money	money	NN	_	9	dobj
+11	will	will	MD	_	12	aux
+12	have	have	VB	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	spell	spell	VB	_	12	xcomp
+15	this	this	DT	_	14	dobj
+16	out	out	RP	_	14	prt
+17	in	in	IN	_	14	prep
+18	all	all	DT	_	19	det
+19	advertisements	advertisement	NNS	_	17	pobj
+20	and	and	CC	_	19	cc
+21	brochures	brochure	NNS	_	19	conj
+22	.	.	.	_	12	punct
+

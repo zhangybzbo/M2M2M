@@ -1,0 +1,16 @@
+1	We	we	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	frozen	frozen	JJ	_	4	amod
+4	prawns	prawn	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	popcorn	popcorn	NN	_	8	nn
+8	maker	maker	NN	_	5	pobj
+9	,	,	,	_	2	punct
+10	and	and	CC	_	2	cc
+11	we	we	PRP	_	12	nsubj
+12	obtained	obtain	VBD	_	2	conj
+13	prawn	prawn	JJ	_	14	amod
+14	crackers	cracker	NNS	_	12	dobj
+15	.	.	.	_	2	punct
+

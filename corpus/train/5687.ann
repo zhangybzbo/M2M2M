@@ -1,0 +1,3 @@
+T1	Term 40 44	wall
+T2	Term 52 62	intestines
+R1	Component-Whole Arg1:T1 Arg2:T2

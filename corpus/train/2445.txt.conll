@@ -1,0 +1,21 @@
+1	They	they	PRP	_	2	nsubj
+2	infiltrated	infiltrate	VBD	_	0	ROOT
+3	here	here	RB	_	2	advmod
+4	and	and	CC	_	2	cc
+5	there	there	RB	_	2	conj
+6	,	,	,	_	5	punct
+7	provoking	provoke	VBG	_	5	dep
+8	the	the	DT	_	10	det
+9	Russian	russian	JJ	_	10	amod
+10	military	military	JJ	_	7	dobj
+11	to	to	TO	_	12	aux
+12	liberate	liberate	VB	_	10	xcomp
+13	region	region	NN	_	12	dobj
+14	after	after	IN	_	12	prep
+15	region	region	NN	_	14	pobj
+16	with	with	IN	_	15	prep
+17	bombs	bomb	NNS	_	16	pobj
+18	and	and	CC	_	17	cc
+19	artillery	artillery	NN	_	17	conj
+20	.	.	.	_	2	punct
+

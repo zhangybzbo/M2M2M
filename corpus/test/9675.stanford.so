@@ -1,0 +1,10 @@
+0	64	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Parent" pos="NNP" nn="t1"
+7	21	tok id="t1" base="verbalization" pos="NNS" nsubjpass="t3"
+22	26	tok id="t2" base="be" pos="VBD" auxpass="t3"
+27	34	tok id="t3" base="focus" pos="VBN" ROOT="ROOT"
+35	37	tok id="t4" base="on" pos="IN" prep="t3"
+38	52	tok id="t5" base="story-relevant" pos="JJ" amod="t6"
+53	62	tok id="t6" base="question" pos="NNS" pobj="t4"
+63	64	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

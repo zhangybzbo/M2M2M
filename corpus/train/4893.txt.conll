@@ -1,0 +1,15 @@
+1	Their	they	PRP$	_	2	poss
+2	omelette	omelette	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	put	put	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	bread	bread	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	was	be	VBD	_	10	auxpass
+10	served	serve	VBN	_	4	conj
+11	on	on	IN	_	10	prep
+12	their	they	PRP$	_	13	poss
+13	plates	plate	NNS	_	11	pobj
+14	.	.	.	_	4	punct
+

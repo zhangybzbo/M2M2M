@@ -1,0 +1,23 @@
+1	Pomegranate	pomegranate	NN	_	2	nn
+2	juice	juice	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	anti-inflammatory	anti-inflammatory	JJ	_	5	amod
+5	effects	effect	NNS	_	3	dobj
+6	and	and	CC	_	5	cc
+7	high	high	JJ	_	8	amod
+8	levels	level	NNS	_	5	conj
+9	of	of	IN	_	5	prep
+10	anti-oxidants	anti-oxidant	NNS	_	9	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	14	nsubjpass
+13	are	be	VBP	_	14	auxpass
+14	believed	believe	VBN	_	10	rcmod
+15	to	to	TO	_	16	aux
+16	protect	protect	VB	_	14	xcomp
+17	the	the	DT	_	18	det
+18	body	body	NN	_	16	dobj
+19	from	from	IN	_	16	prep
+20	free-radical	free-radical	JJ	_	21	amod
+21	damage	damage	NN	_	19	pobj
+22	.	.	.	_	3	punct
+

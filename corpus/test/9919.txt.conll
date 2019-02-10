@@ -1,0 +1,17 @@
+1	Fetal	fetal	JJ	_	4	amod
+2	alcohol	alcohol	NN	_	4	nn
+3	spectrum	spectrum	NN	_	4	nn
+4	disorders	disorder	NNS	_	10	nsubjpass
+5	,	,	,	_	4	punct
+6	or	or	CC	_	4	cc
+7	FASDs	fasd	NNS	_	4	conj
+8	,	,	,	_	4	punct
+9	are	be	VBP	_	10	auxpass
+10	caused	cause	VBN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	drinking	drink	VBG	_	11	pcomp
+13	alcohol	alcohol	NN	_	12	dobj
+14	during	during	IN	_	12	prep
+15	pregnancy	pregnancy	NN	_	14	pobj
+16	.	.	.	_	10	punct
+

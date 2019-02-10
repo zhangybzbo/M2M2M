@@ -1,0 +1,26 @@
+1	In	in	IN	_	10	mark
+2	1874	1874	CD	_	6	num
+3	Captain	Captain	NNP	_	6	nn
+4	John	John	NNP	_	6	nn
+5	T.	T.	NNP	_	6	nn
+6	Lytle	Lytle	NNP	_	10	nsubj
+7	and	and	CC	_	6	cc
+8	several	several	JJ	_	9	amod
+9	cowboys	cowboy	NNS	_	6	conj
+10	left	leave	VBD	_	0	ROOT
+11	South	South	NNP	_	12	nn
+12	Texas	Texas	NNP	_	10	dobj
+13	with	with	IN	_	10	prep
+14	3500	3500	CD	_	15	num
+15	head	head	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	longhorn	longhorn	JJ	_	18	amod
+18	cattle	cattle	NNS	_	16	pobj
+19	and	and	CC	_	15	cc
+20	a	a	DT	_	21	det
+21	remuda	remuda	NN	_	15	conj
+22	of	of	IN	_	21	prep
+23	saddle	saddle	NN	_	24	nn
+24	horses	horse	NNS	_	22	pobj
+25	.	.	.	_	10	punct
+

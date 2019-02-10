@@ -1,0 +1,15 @@
+1	Olympic	Olympic	NNP	_	2	nn
+2	chiefs	chief	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	worried	worry	VBN	_	0	ROOT
+5	about	about	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	environmental	environmental	JJ	_	8	amod
+8	damage	damage	NN	_	5	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	Olympic	Olympic	NNP	_	13	nn
+13	flame	flame	NN	_	10	pobj
+14	.	.	.	_	4	punct
+

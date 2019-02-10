@@ -1,0 +1,14 @@
+1	Sea	Sea	NNP	_	2	nn
+2	turtles	turtle	NNS	_	6	nsubj
+3	and	and	CC	_	2	cc
+4	sea	sea	NN	_	5	nn
+5	lions	lion	NNS	_	2	conj
+6	use	use	VBP	_	0	ROOT
+7	their	they	PRP$	_	9	poss
+8	front	front	JJ	_	9	amod
+9	flippers	flipper	NNS	_	6	dobj
+10	to	to	TO	_	11	aux
+11	move	move	VB	_	6	vmod
+12	forward	forward	RB	_	11	advmod
+13	.	.	.	_	6	punct
+

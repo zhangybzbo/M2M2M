@@ -1,0 +1,23 @@
+1	He	he	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	used	use	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	speech	speech	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	set	set	VB	_	3	vmod
+8	out	out	RP	_	7	prt
+9	his	he	PRP$	_	10	poss
+10	belief	belief	NN	_	7	dobj
+11	that	that	IN	_	21	mark
+12	the	the	DT	_	13	det
+13	country	country	NN	_	17	poss
+14	's	's	POS	_	13	possessive
+15	``	``	``	_	17	punct
+16	greatest	greatest	JJS	_	17	amod
+17	challenge	challenge	NN	_	21	nsubj
+18	''	''	''	_	17	punct
+19	was	be	VBD	_	21	cop
+20	social	social	JJ	_	21	amod
+21	breakdown	breakdown	NN	_	10	ccomp
+22	.	.	.	_	3	punct
+

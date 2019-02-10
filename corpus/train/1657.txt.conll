@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	lack	lack	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	stability	stability	NN	_	3	pobj
+5	caused	cause	VBD	_	0	ROOT
+6	a	a	DT	_	8	det
+7	strong	strong	JJ	_	8	amod
+8	reliance	reliance	NN	_	5	dobj
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	colonizers	colonizer	NNS	_	9	pobj
+12	.	.	.	_	5	punct
+

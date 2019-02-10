@@ -1,0 +1,1 @@
+The assay sample preparation unit processes a specimen using a fluorescent dye .

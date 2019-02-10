@@ -1,0 +1,13 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="teenage" pos="JJ" amod="t2"
+12	16	tok id="t2" base="boy" pos="NNS" nsubjpass="t4"
+17	21	tok id="t3" base="be" pos="VBD" auxpass="t4"
+22	29	tok id="t4" base="drag" pos="VBN" ROOT="ROOT"
+30	34	tok id="t5" base="into" pos="IN" prep="t4"
+35	38	tok id="t6" base="the" pos="DT" det="t7"
+39	47	tok id="t7" base="fighting" pos="NN" pobj="t5"
+48	50	tok id="t8" base="at" pos="IN" prep="t7"
+51	57	tok id="t9" base="school" pos="NN" pobj="t8"
+58	59	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

@@ -1,0 +1,21 @@
+1	It	it	PRP	_	2	nsubj
+2	serves	serve	VBZ	_	0	ROOT
+3	only	only	RB	_	6	advmod
+4	the	the	DT	_	6	det
+5	self-serving	self-serving	JJ	_	6	amod
+6	purposes	purpose	NNS	_	2	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	political	political	JJ	_	10	amod
+10	parties	party	NNS	_	7	pobj
+11	;	;	:	_	2	punct
+12	it	it	PRP	_	13	nsubj
+13	provides	provide	VBZ	_	2	parataxis
+14	them	they	PRP	_	13	iobj
+15	a	a	DT	_	17	det
+16	faithful	faithful	NN	_	17	nn
+17	horde	horde	NN	_	13	dobj
+18	of	of	IN	_	17	prep
+19	believers	believer	NNS	_	18	pobj
+20	.	.	.	_	2	punct
+

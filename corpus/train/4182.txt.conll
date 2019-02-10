@@ -1,0 +1,16 @@
+1	His	he	PRP$	_	2	poss
+2	stories	story	NNS	_	3	nsubj
+3	range	range	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	near	near	JJ	_	7	amod
+6	future	future	JJ	_	7	amod
+7	predictions	prediction	NNS	_	4	pobj
+8	to	to	TO	_	4	prep
+9	far	far	RB	_	10	advmod
+10	future	future	JJ	_	8	pobj
+11	,	,	,	_	3	punct
+12	far	far	RB	_	14	advmod
+13	space	space	NN	_	14	nn
+14	improvisations	improvisation	NNS	_	3	dobj
+15	.	.	.	_	3	punct
+

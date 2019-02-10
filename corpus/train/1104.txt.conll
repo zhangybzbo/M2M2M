@@ -1,0 +1,24 @@
+1	An	a	DT	_	3	det
+2	emerging	emerge	VBG	_	3	amod
+3	bratpack	bratpack	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	young	young	JJ	_	7	amod
+6	female	female	JJ	_	7	amod
+7	pornographers	pornographer	NNS	_	4	pobj
+8	is	be	VBZ	_	9	aux
+9	storming	storm	VBG	_	0	ROOT
+10	the	the	DT	_	11	det
+11	market	market	NN	_	9	dobj
+12	and	and	CC	_	9	cc
+13	challenging	challenging	JJ	_	9	conj
+14	lads	lad	NNS	_	16	poss
+15	'	'	POS	_	14	possessive
+16	magazines	magazine	NNS	_	13	dobj
+17	such	such	JJ	_	18	mwe
+18	as	as	IN	_	16	prep
+19	FHM	FHM	NNP	_	18	pobj
+20	and	and	CC	_	19	cc
+21	Esquire	Esquire	NNP	_	19	conj
+22	.	.	.	_	9	punct
+23	.	.	.	_	9	punct
+

@@ -1,0 +1,27 @@
+1	They	they	PRP	_	2	nsubj
+2	went	go	VBD	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	the	the	DT	_	5	det
+5	mall	mall	NN	_	3	pobj
+6	where	where	WRB	_	10	advmod
+7	my	my	PRP$	_	8	poss
+8	wallet	wallet	NN	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	locked	lock	VBN	_	5	rcmod
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	11	pobj
+13	safe	safe	JJ	_	12	amod
+14	that	that	IN	_	18	mark
+15	very	very	RB	_	16	advmod
+16	few	few	JJ	_	17	amod
+17	people	people	NNS	_	18	nsubj
+18	knew	know	VBD	_	13	ccomp
+19	how	how	WRB	_	21	advmod
+20	to	to	TO	_	21	aux
+21	open	open	VB	_	18	ccomp
+22	,	,	,	_	2	punct
+23	but	but	CC	_	2	cc
+24	they	they	PRP	_	25	nsubj
+25	persevered	persevere	VBD	_	2	conj
+26	.	.	.	_	2	punct
+

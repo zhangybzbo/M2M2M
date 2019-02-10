@@ -1,0 +1,23 @@
+1	In	in	IN	_	16	prep
+2	all	all	DT	_	3	det
+3	versions	version	NNS	_	1	pobj
+4	of	of	IN	_	3	prep
+5	Word	word	NN	_	4	pobj
+6	,	,	,	_	16	punct
+7	the	the	DT	_	9	det
+8	easiest	easiest	JJS	_	9	amod
+9	way	way	NN	_	16	nsubj
+10	to	to	TO	_	11	aux
+11	review	review	VB	_	9	vmod
+12	the	the	DT	_	13	det
+13	editor	editor	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	changes	change	NNS	_	11	dobj
+16	is	be	VBZ	_	0	ROOT
+17	by	by	IN	_	16	prep
+18	displaying	display	VBG	_	17	pcomp
+19	the	the	DT	_	21	det
+20	reviewing	review	VBG	_	21	amod
+21	toolbar	toolbar	NN	_	18	dobj
+22	.	.	.	_	16	punct
+

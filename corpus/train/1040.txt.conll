@@ -1,0 +1,16 @@
+1	Although	although	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	custom	custom	NN	_	4	nsubj
+4	originated	originate	VBD	_	13	advcl
+5	in	in	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	all	all	DT	_	9	det
+8	male	male	JJ	_	9	amod
+9	military	military	NN	_	5	pobj
+10	,	,	,	_	13	punct
+11	it	it	PRP	_	13	nsubj
+12	is	be	VBZ	_	13	cop
+13	gender	gender	NN	_	0	ROOT
+14	neutral	neutral	JJ	_	13	amod
+15	.	.	.	_	13	punct
+

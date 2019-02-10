@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	body	body	NN	_	10	nsubjpass
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	8	det
+5	missing	miss	VBG	_	8	amod
+6	Fort	Fort	NNP	_	8	nn
+7	Benning	Benning	NNP	_	8	nn
+8	soldier	soldier	NN	_	3	pobj
+9	was	be	VBD	_	10	auxpass
+10	discovered	discover	VBN	_	0	ROOT
+11	inside	inside	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	piece	piece	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	air	air	NN	_	17	nn
+16	conditioning	conditioning	NN	_	17	nn
+17	equipment	equipment	NN	_	14	pobj
+18	Friday	Friday	NNP	_	10	tmod
+19	at	at	IN	_	10	prep
+20	a	a	DT	_	22	det
+21	downtown	downtown	NN	_	22	nn
+22	hotel	hotel	NN	_	19	pobj
+23	.	.	.	_	10	punct
+

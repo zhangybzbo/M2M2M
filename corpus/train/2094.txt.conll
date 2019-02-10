@@ -1,0 +1,17 @@
+1	Rains	rain	NNS	_	0	ROOT
+2	and	and	CC	_	1	cc
+3	melting	melting	JJ	_	5	amod
+4	snow	snow	NN	_	5	nn
+5	lead	lead	NN	_	1	conj
+6	to	to	TO	_	1	prep
+7	Genesee	Genesee	NNP	_	8	nn
+8	County	County	NNP	_	12	poss
+9	's	's	POS	_	8	possessive
+10	biggest	biggest	JJS	_	12	amod
+11	sewage	sewage	NN	_	12	nn
+12	spill	spill	NN	_	6	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	year	year	NN	_	13	pobj
+16	.	.	.	_	1	punct
+

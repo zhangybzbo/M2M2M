@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	bought	buy	VBD	_	0	ROOT
+3	him	he	PRP	_	2	iobj
+4	his	he	PRP$	_	5	poss
+5	meds	med	NNS	_	2	dobj
+6	and	and	CC	_	2	cc
+7	cut	cut	VB	_	2	conj
+8	his	he	PRP$	_	10	poss
+9	foot	foot	NN	_	10	nn
+10	nails	nail	NNS	_	7	dobj
+11	first	first	RB	_	7	advmod
+12	before	before	IN	_	14	mark
+13	we	we	PRP	_	14	nsubj
+14	headed	head	VBD	_	7	advcl
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	17	det
+17	hospital	hospital	NN	_	15	pobj
+18	.	.	.	_	2	punct
+

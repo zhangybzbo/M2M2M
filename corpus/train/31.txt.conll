@@ -1,0 +1,16 @@
+1	Bob	Bob	NNP	_	2	nn
+2	Parks	Parks	NNP	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	similar	similar	JJ	_	6	amod
+6	offer	offer	NN	_	3	dobj
+7	in	in	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	phone	phone	NN	_	10	nn
+10	call	call	NN	_	7	pobj
+11	made	make	VBN	_	10	vmod
+12	earlier	earlier	RBR	_	14	advmod
+13	this	this	DT	_	14	det
+14	week	week	NN	_	11	tmod
+15	.	.	.	_	3	punct
+

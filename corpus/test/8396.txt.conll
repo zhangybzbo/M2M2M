@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	text	text	NN	_	3	nsubj
+3	handles	handle	VBZ	_	0	ROOT
+4	all	all	DT	_	3	dobj
+5	of	of	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	material	material	NN	_	5	pobj
+8	well	well	RB	_	3	advmod
+9	,	,	,	_	3	punct
+10	integrating	integrate	VBG	_	3	vmod
+11	it	it	PRP	_	10	dobj
+12	into	into	IN	_	10	prep
+13	the	the	DT	_	14	det
+14	flow	flow	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	argument	argument	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

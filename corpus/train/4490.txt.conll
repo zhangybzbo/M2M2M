@@ -1,0 +1,11 @@
+1	This	this	DT	_	3	det
+2	error	error	NN	_	3	nn
+3	message	message	NN	_	4	nsubj
+4	indicates	indicate	VBZ	_	0	ROOT
+5	that	that	IN	_	9	mark
+6	an	a	DT	_	7	det
+7	error	error	NN	_	9	nsubj
+8	has	have	VBZ	_	9	aux
+9	occurred	occur	VBN	_	4	ccomp
+10	.	.	.	_	4	punct
+

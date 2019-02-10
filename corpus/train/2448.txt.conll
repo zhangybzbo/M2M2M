@@ -1,0 +1,26 @@
+1	Cordgo	Cordgo	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	developed	develop	VBN	_	0	ROOT
+4	a	a	DT	_	8	det
+5	nifty	nifty	JJ	_	8	amod
+6	little	little	JJ	_	8	amod
+7	headphone	headphone	NN	_	8	nn
+8	winder	winder	NN	_	3	dobj
+9	to	to	TO	_	10	aux
+10	prevent	prevent	VB	_	3	xcomp
+11	your	you	PRP$	_	13	poss
+12	headphone	headphone	NN	_	13	nn
+13	cords	cord	NNS	_	10	dobj
+14	from	from	IN	_	10	prep
+15	tangling	tangle	VBG	_	14	pobj
+16	as	as	IN	_	15	prep
+17	you	you	PRP	_	16	pobj
+18	as	as	IN	_	20	mark
+19	you	you	PRP	_	20	nsubj
+20	move	move	VBP	_	10	advcl
+21	about	about	RB	_	20	advmod
+22	during	during	IN	_	20	prep
+23	the	the	DT	_	24	det
+24	day	day	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

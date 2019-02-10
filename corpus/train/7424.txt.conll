@@ -1,0 +1,14 @@
+1	His	he	PRP$	_	3	poss
+2	favorite	favorite	JJ	_	3	amod
+3	wine	wine	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	the	the	DT	_	12	det
+8	Loire	Loire	NNP	_	12	nn
+9	Valley	Valley	NNP	_	12	nn
+10	red	red	JJ	_	12	amod
+11	wine	wine	NN	_	12	nn
+12	grape	grape	NN	_	6	pobj
+13	.	.	.	_	5	punct
+

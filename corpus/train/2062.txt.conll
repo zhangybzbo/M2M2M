@@ -1,0 +1,14 @@
+1	His	he	PRP$	_	2	poss
+2	wife	wife	NN	_	10	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	7	det
+5	successful	successful	JJ	_	7	amod
+6	corporate	corporate	JJ	_	7	amod
+7	lawyer	lawyer	NN	_	2	appos
+8	,	,	,	_	2	punct
+9	has	have	VBZ	_	10	aux
+10	given	give	VBN	_	0	ROOT
+11	up	up	RP	_	10	prt
+12	work	work	NN	_	10	dobj
+13	.	.	.	_	10	punct
+

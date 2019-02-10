@@ -1,0 +1,22 @@
+1	Buyers	buyer	NNS	_	7	nsubjpass
+2	of	of	IN	_	1	prep
+3	new	new	JJ	_	4	amod
+4	stoves	stove	NNS	_	2	pobj
+5	are	be	VBP	_	7	auxpass
+6	sometimes	sometimes	RB	_	7	advmod
+7	encouraged	encourage	VBN	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	buy	buy	VB	_	7	xcomp
+10	the	the	DT	_	12	det
+11	optional	optional	JJ	_	12	amod
+12	fan	fan	NN	_	9	dobj
+13	that	that	WDT	_	15	nsubjpass
+14	is	be	VBZ	_	15	auxpass
+15	offered	offer	VBN	_	12	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	stove	stove	NN	_	20	poss
+19	's	's	POS	_	18	possessive
+20	manufacturer	manufacturer	NN	_	16	pobj
+21	.	.	.	_	7	punct
+

@@ -1,0 +1,1 @@
+This technique is used by most major websites to minimize HTTP requests and hence improve page load times .

@@ -1,0 +1,1 @@
+The input queue is used for processing events from an MFG/PRO application to a WebSphere-connected application .

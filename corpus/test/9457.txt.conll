@@ -1,0 +1,12 @@
+1	He	he	PRP	_	2	nsubj
+2	proposed	propose	VBD	_	0	ROOT
+3	writing	write	VBG	_	2	xcomp
+4	a	a	DT	_	5	det
+5	teacher	teacher	NN	_	7	poss
+6	's	's	POS	_	5	possessive
+7	guide	guide	NN	_	3	dobj
+8	to	to	TO	_	7	prep
+9	blackboard	blackboard	NN	_	10	nn
+10	drawing	drawing	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

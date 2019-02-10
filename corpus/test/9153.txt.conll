@@ -1,0 +1,21 @@
+1	Upon	upon	IN	_	10	prep
+2	its	its	PRP$	_	3	poss
+3	discovery	discovery	NN	_	1	pobj
+4	,	,	,	_	10	punct
+5	King	King	NNP	_	6	nn
+6	Tut	Tut	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	mummy	mummy	NN	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	placed	place	VBN	_	0	ROOT
+11	inside	inside	IN	_	10	prep
+12	three	three	CD	_	13	num
+13	coffins	coffin	NNS	_	11	pobj
+14	,	,	,	_	13	punct
+15	one	one	CD	_	13	appos
+16	smaller	smaller	JJR	_	15	amod
+17	than	than	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	next	next	JJ	_	17	pobj
+20	.	.	.	_	10	punct
+

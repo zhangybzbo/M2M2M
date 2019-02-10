@@ -1,0 +1,1 @@
+We kept the antenna inside the car , which limited range due to the car 's attenuation .

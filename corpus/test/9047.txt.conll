@@ -1,0 +1,19 @@
+1	Rogge	Rogge	NNP	_	2	nsubj
+2	conceded	concede	VBD	_	0	ROOT
+3	that	that	IN	_	2	dobj
+4	perhaps	perhaps	RB	_	9	advmod
+5	the	the	DT	_	6	det
+6	committee	committee	NN	_	9	nsubj
+7	had	have	VBD	_	9	aux
+8	been	be	VBN	_	9	cop
+9	naive	naive	JJ	_	3	ccomp
+10	in	in	IN	_	9	prep
+11	accepting	accept	VBG	_	10	pcomp
+12	the	the	DT	_	13	det
+13	promises	promise	NNS	_	11	dobj
+14	made	make	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	Chinese	chinese	JJ	_	17	amod
+17	leaders	leader	NNS	_	15	pobj
+18	.	.	.	_	2	punct
+

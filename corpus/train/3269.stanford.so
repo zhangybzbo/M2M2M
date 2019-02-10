@@ -1,0 +1,10 @@
+0	38	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="NASA" pos="NNP" nsubj="t3"
+5	9	tok id="t1" base="have" pos="VBP" aux="t3"
+10	14	tok id="t2" base="also" pos="RB" advmod="t3"
+15	20	tok id="t3" base="take" pos="VBN" ROOT="ROOT"
+21	25	tok id="t4" base="fish" pos="NN" dobj="t3"
+26	30	tok id="t5" base="into" pos="IN" prep="t3"
+31	36	tok id="t6" base="space" pos="NN" pobj="t5"
+37	38	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

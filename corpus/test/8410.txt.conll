@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	inquiry	inquiry	NN	_	3	nsubj
+3	takes	take	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	investments	investment	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	9	det
+8	21st	21st	JJ	_	9	amod
+9	century	century	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

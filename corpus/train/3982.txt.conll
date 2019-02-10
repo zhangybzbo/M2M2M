@@ -1,0 +1,9 @@
+1	A	a	DT	_	2	det
+2	battery	battery	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	barracudas	barracuda	NNS	_	3	pobj
+5	relies	rely	VBZ	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	ambush	ambush	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	puppy	puppy	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	sealed	seal	VBN	_	8	amod
+7	garbage	garbage	NN	_	8	nn
+8	bag	bag	NN	_	4	pobj
+9	lying	lie	VBG	_	8	dep
+10	in	in	IN	_	9	prep
+11	vomit	vomit	NN	_	10	pobj
+12	and	and	CC	_	9	cc
+13	near	near	IN	_	9	conj
+14	death	death	NN	_	13	pobj
+15	.	.	.	_	3	punct
+

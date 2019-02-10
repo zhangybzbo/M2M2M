@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	dropped	drop	VBD	_	0	ROOT
+4	off	off	RP	_	3	prt
+5	the	the	DT	_	6	det
+6	mail	mail	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	mailbox	mailbox	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

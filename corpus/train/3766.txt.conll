@@ -1,0 +1,20 @@
+1	Fuji	Fuji	NNP	_	2	nn
+2	Electric	Electric	NNP	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	developed	develop	VBN	_	0	ROOT
+5	a	a	DT	_	8	det
+6	quick	quick	JJ	_	8	amod
+7	battery	battery	NN	_	8	nn
+8	charger	charger	NN	_	4	dobj
+9	that	that	WDT	_	10	nsubj
+10	copes	cope	VBZ	_	8	rcmod
+11	with	with	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	regulations	regulation	NNS	_	11	pobj
+14	using	use	VBG	_	13	vmod
+15	a	a	DT	_	18	det
+16	choke	choke	VBP	_	18	amod
+17	input	input	NN	_	18	nn
+18	system	system	NN	_	14	dobj
+19	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	Iraq	Iraq	NNP	_	2	nsubj
+2	reiterated	reiterate	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	Friday	Friday	NNP	_	3	pobj
+5	that	that	IN	_	8	mark
+6	its	its	PRP$	_	7	poss
+7	dossier	dossier	NN	_	8	nsubj
+8	provided	provide	VBD	_	2	ccomp
+9	a	a	DT	_	13	det
+10	full	full	JJ	_	13	amod
+11	and	and	CC	_	10	cc
+12	honest	honest	JJ	_	10	conj
+13	account	account	NN	_	8	dobj
+14	of	of	IN	_	13	prep
+15	its	its	PRP$	_	17	poss
+16	weapons	weapon	NNS	_	17	nn
+17	programmes	programme	NNS	_	14	pobj
+18	.	.	.	_	2	punct
+

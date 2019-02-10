@@ -1,0 +1,11 @@
+0	48	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t2"
+2	6	tok id="t1" base="have" pos="VBP" aux="t2"
+7	15	tok id="t2" base="insert" pos="VBN" ROOT="ROOT"
+16	25	tok id="t3" base="animation" pos="NN" dobj="t2"
+26	30	tok id="t4" base="into" pos="IN" prep="t2"
+31	34	tok id="t5" base="the" pos="DT" det="t7"
+35	41	tok id="t6" base="e-post" pos="JJ" amod="t7"
+42	46	tok id="t7" base="card" pos="NN" pobj="t4"
+47	48	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

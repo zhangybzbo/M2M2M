@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	shifts	shift	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	gas	gas	NN	_	5	pobj
+7	flows	flow	VBZ	_	4	dep
+8	going	go	VBG	_	7	dep
+9	up	up	RP	_	8	prt
+10	one	one	CD	_	11	num
+11	leg	leg	NN	_	8	dobj
+12	and	and	CC	_	8	cc
+13	returning	return	VBG	_	8	conj
+14	down	down	RP	_	13	prt
+15	the	the	DT	_	16	det
+16	other	other	JJ	_	13	dobj
+17	.	.	.	_	4	punct
+

@@ -1,0 +1,10 @@
+1	Some	some	DT	_	2	det
+2	fish	fish	NN	_	3	nsubj
+3	swim	swim	VBP	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	shoal	shoal	NN	_	4	pobj
+7	for	for	IN	_	6	prep
+8	protection	protection	NN	_	7	pobj
+9	.	.	.	_	3	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	cognac	cognac	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	bottle	bottle	NN	_	4	pobj
+7	from	from	IN	_	6	prep
+8	which	which	WDT	_	7	pobj
+9	the	the	DT	_	10	det
+10	label	label	NN	_	7	dep
+11	,	,	,	_	10	punct
+12	if	if	IN	_	15	mark
+13	it	it	PRP	_	15	nsubj
+14	ever	ever	RB	_	15	advmod
+15	had	have	VBD	_	10	advcl
+16	one	one	CD	_	15	dobj
+17	,	,	,	_	15	punct
+18	had	have	VBD	_	15	vmod
+19	long	long	RB	_	18	advmod
+20	since	since	IN	_	19	prep
+21	vanished	vanish	VBN	_	20	pobj
+22	.	.	.	_	3	punct
+

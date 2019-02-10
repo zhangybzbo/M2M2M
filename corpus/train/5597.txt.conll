@@ -1,0 +1,17 @@
+1	However	however	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	6	det
+4	5-year	5-year	JJ	_	6	amod
+5	survival	survival	NN	_	6	nn
+6	rate	rate	NN	_	7	nsubj
+7	falls	fall	VBZ	_	0	ROOT
+8	steadily	steadily	RB	_	7	advmod
+9	as	as	IN	_	12	mark
+10	the	the	DT	_	11	det
+11	cancer	cancer	NN	_	12	nsubj
+12	spreads	spread	VBZ	_	7	advcl
+13	into	into	IN	_	12	prep
+14	other	other	JJ	_	15	amod
+15	areas	area	NNS	_	13	pobj
+16	.	.	.	_	7	punct
+

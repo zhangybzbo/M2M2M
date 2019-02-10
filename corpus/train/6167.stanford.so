@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="Researchers" pos="NNP" nsubj="t1"
+12	18	tok id="t1" base="form" pos="VBD" ROOT="ROOT"
+19	20	tok id="t2" base="a" pos="DT" det="t3"
+21	25	tok id="t3" base="mold" pos="NN" dobj="t1"
+26	31	tok id="t4" base="use" pos="VBG" xcomp="t1"
+32	33	tok id="t5" base="a" pos="DT" det="t8"
+34	41	tok id="t6" base="silicon" pos="NN" nn="t8"
+42	49	tok id="t7" base="coating" pos="NN" nn="t8"
+50	57	tok id="t8" base="process" pos="NN" dobj="t4"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,10 @@
+1	My	my	PRP$	_	3	poss
+2	new	new	JJ	_	3	amod
+3	boss	boss	NN	_	4	nsubj
+4	moved	move	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	his	he	PRP$	_	7	poss
+7	office	office	NN	_	5	pobj
+8	yesterday	yesterday	NN	_	4	tmod
+9	.	.	.	_	4	punct
+

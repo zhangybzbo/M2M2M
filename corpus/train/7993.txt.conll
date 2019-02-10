@@ -1,0 +1,13 @@
+1	In	in	IN	_	7	prep
+2	chemical	chemical	NN	_	3	nn
+3	lasers	laser	NNS	_	1	pobj
+4	the	the	DT	_	5	det
+5	inversion	inversion	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	produced	produce	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	chemical	chemical	JJ	_	11	amod
+11	reaction	reaction	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

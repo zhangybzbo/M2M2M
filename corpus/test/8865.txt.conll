@@ -1,0 +1,17 @@
+1	First	first	RB	_	3	advmod
+2	we	we	PRP	_	3	nsubj
+3	measured	measure	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	railing	railing	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	bridge	bridge	NN	_	7	pobj
+10	to	to	TO	_	3	prep
+11	the	the	DT	_	12	det
+12	surface	surface	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	stream	stream	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

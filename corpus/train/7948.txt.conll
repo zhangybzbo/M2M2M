@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	tokamak	tokamak	NN	_	11	nsubj
+3	is	be	VBZ	_	11	cop
+4	a	a	DT	_	11	det
+5	toroidal	toroidal	NN	_	11	nn
+6	-LRB-	-lrb-	-LRB-	_	8	punct
+7	doughnut	doughnut	NN	_	8	nn
+8	shape	shape	NN	_	5	appos
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	magnetic	magnetic	JJ	_	11	amod
+11	bottle	bottle	NN	_	0	ROOT
+12	that	that	WDT	_	13	nsubj
+13	contains	contain	VBZ	_	11	rcmod
+14	the	the	DT	_	16	det
+15	fusion	fusion	NN	_	16	nn
+16	plasma	plasma	NN	_	13	dobj
+17	.	.	.	_	11	punct
+

@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	book	book	NN	_	0	ROOT
+3	titled	title	VBN	_	2	prep
+4	Heures	Heures	NNP	_	8	nn
+5	de	de	IN	_	8	amod
+6	Louis	Louis	NNP	_	8	nn
+7	le	le	DT	_	8	det
+8	Grand	Grand	NNP	_	21	nsubjpass
+9	that	that	WDT	_	10	nsubj
+10	looks	look	VBZ	_	8	rcmod
+11	at	at	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	life	life	NN	_	11	pobj
+14	and	and	CC	_	13	cc
+15	arts	art	NNS	_	13	conj
+16	of	of	IN	_	13	prep
+17	the	the	DT	_	19	det
+18	Sun	Sun	NNP	_	19	nn
+19	King	King	NNP	_	16	pobj
+20	is	be	VBZ	_	21	auxpass
+21	showcased	showcase	VBN	_	3	pcomp
+22	at	at	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	exhibition	exhibition	NN	_	22	pobj
+25	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+0	50	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="and" pos="CC" cc="t2"
+4	7	tok id="t1" base="you" pos="PRP" nsubj="t2"
+8	15	tok id="t2" base="think" pos="VBD" ROOT="ROOT"
+16	17	tok id="t3" base="a" pos="DT" det="t4"
+18	25	tok id="t4" base="dentist" pos="NN" nsubj="t9"
+26	30	tok id="t5" base="with" pos="IN" prep="t4"
+31	32	tok id="t6" base="a" pos="DT" det="t7"
+33	38	tok id="t7" base="drill" pos="NN" pobj="t5"
+39	42	tok id="t8" base="be" pos="VBD" cop="t9"
+43	48	tok id="t9" base="scary" pos="JJ" ccomp="t2"
+49	50	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

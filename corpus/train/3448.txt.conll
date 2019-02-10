@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	consignment	consignment	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	brought	bring	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	port	port	NN	_	5	pobj
+8	in	in	IN	_	4	prep
+9	Sagunto	Sagunto	NNP	_	8	pobj
+10	.	.	.	_	4	punct
+

@@ -1,0 +1,23 @@
+1	As	as	IN	_	3	mark
+2	you	you	PRP	_	3	nsubj
+3	see	see	VBP	_	8	advcl
+4	,	,	,	_	8	punct
+5	it	it	PRP	_	8	nsubj
+6	very	very	RB	_	7	advmod
+7	easily	easily	RB	_	8	advmod
+8	pulls	pull	VBZ	_	0	ROOT
+9	away	away	RB	_	8	advmod
+10	and	and	CC	_	8	cc
+11	the	the	DT	_	12	det
+12	strings	string	NNS	_	8	conj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	spaghetti	spaghetti	NNS	_	13	pobj
+16	squash	squash	VBP	_	12	vmod
+17	come	come	VBN	_	16	dep
+18	out	out	RP	_	17	prt
+19	relatively	relatively	RB	_	20	advmod
+20	easy	easy	JJ	_	17	acomp
+21	here	here	RB	_	20	advmod
+22	.	.	.	_	8	punct
+

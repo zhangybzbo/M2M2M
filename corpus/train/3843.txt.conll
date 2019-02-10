@@ -1,0 +1,13 @@
+1	These	these	DT	_	3	det
+2	corporate	corporate	JJ	_	3	amod
+3	leaders	leader	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	inherited	inherit	VBN	_	0	ROOT
+6	Woodrow	Woodrow	NNP	_	7	nn
+7	Wilson	Wilson	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	commitment	commitment	NN	_	5	dobj
+10	to	to	TO	_	9	prep
+11	scholarship	scholarship	NN	_	10	pobj
+12	.	.	.	_	5	punct
+

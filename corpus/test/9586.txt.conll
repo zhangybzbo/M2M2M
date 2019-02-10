@@ -1,0 +1,12 @@
+1	All	all	DT	_	3	det
+2	LibriVox	LibriVox	NNP	_	3	nn
+3	recordings	recording	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	released	release	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	public	public	JJ	_	10	amod
+10	domain	domain	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

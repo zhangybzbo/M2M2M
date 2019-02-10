@@ -1,0 +1,13 @@
+1	Using	use	VBG	_	7	vmod
+2	a	a	DT	_	3	det
+3	teleport	teleport	NN	_	1	dobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	protagonist	protagonist	NN	_	7	nsubj
+7	travels	travel	VBZ	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	any	any	DT	_	10	det
+10	place	place	NN	_	8	pobj
+11	instantly	instantly	RB	_	7	advmod
+12	.	.	.	_	7	punct
+

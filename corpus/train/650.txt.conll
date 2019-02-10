@@ -1,0 +1,10 @@
+1	Clinicians	clinician	NNS	_	2	nsubj
+2	entered	enter	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	patients	patient	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	randomised	randomised	JJ	_	8	amod
+7	controlled	controlled	JJ	_	8	amod
+8	trials	trial	NNS	_	5	pobj
+9	.	.	.	_	2	punct
+

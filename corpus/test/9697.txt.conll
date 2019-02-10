@@ -1,0 +1,15 @@
+1	Adaptive	adaptive	JJ	_	2	amod
+2	hyperplasia	hyperplasium	NN	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	compensatory	compensatory	JJ	_	5	amod
+5	growth	growth	NN	_	2	conj
+6	in	in	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	salt	salt	NN	_	9	nn
+9	glands	gland	NNS	_	6	pobj
+10	of	of	IN	_	9	prep
+11	ducks	duck	NNS	_	10	pobj
+12	and	and	CC	_	11	cc
+13	geese	goose	NNS	_	11	conj
+14	.	.	.	_	2	punct
+

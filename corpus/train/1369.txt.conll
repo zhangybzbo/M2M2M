@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	frustration	frustration	NN	_	7	nsubjpass
+3	during	during	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	period	period	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	reflected	reflect	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	comments	comment	NNS	_	8	pobj
+10	published	publish	VBN	_	9	vmod
+11	in	in	IN	_	10	prep
+12	The	the	DT	_	15	det
+13	Youngstown	Youngstown	NNP	_	15	nn
+14	Daily	Daily	NNP	_	15	nn
+15	Vindicator	Vindicator	NNP	_	11	pobj
+16	.	.	.	_	7	punct
+

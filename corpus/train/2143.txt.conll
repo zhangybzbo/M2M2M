@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	position	position	NN	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	OECD	OECD	NNP	_	3	pobj
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	criticized	criticize	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	literature	literature	NN	_	9	pobj
+11	.	.	.	_	8	punct
+

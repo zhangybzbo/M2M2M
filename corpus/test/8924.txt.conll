@@ -1,0 +1,21 @@
+1	In	in	IN	_	11	prep
+2	616	616	CD	_	1	pobj
+3	,	,	,	_	11	punct
+4	the	the	DT	_	9	det
+5	first	first	JJ	_	9	amod
+6	Buddhist	Buddhist	NNP	_	9	nn
+7	stone	stone	NN	_	9	nn
+8	scripture	scripture	NN	_	9	nn
+9	tablet	tablet	NN	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	made	make	VBN	_	0	ROOT
+12	at	at	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	temple	temple	NN	_	12	pobj
+15	by	by	IN	_	11	prep
+16	a	a	DT	_	17	det
+17	monk	monk	NN	_	15	pobj
+18	named	name	VBN	_	17	vmod
+19	Jingwan	Jingwan	NNP	_	18	dep
+20	.	.	.	_	11	punct
+

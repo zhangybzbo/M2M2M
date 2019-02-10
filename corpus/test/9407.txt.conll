@@ -1,0 +1,16 @@
+1	Jug	jug	NN	_	2	nn
+2	wine	wine	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	bad	bad	JJ	_	6	amod
+6	reputation	reputation	NN	_	3	dobj
+7	,	,	,	_	3	punct
+8	with	with	IN	_	3	prep
+9	many	many	JJ	_	8	pobj
+10	considering	consider	VBG	_	9	vmod
+11	it	it	PRP	_	10	dobj
+12	cheap	cheap	JJ	_	11	amod
+13	and	and	CC	_	12	cc
+14	low-quality	low-quality	JJ	_	12	conj
+15	.	.	.	_	3	punct
+

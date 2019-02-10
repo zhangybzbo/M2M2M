@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	influential	influential	JJ	_	3	amod
+3	towns	town	NNS	_	9	nsubjpass
+4	of	of	IN	_	3	prep
+5	Brownville	Brownville	NNP	_	4	pobj
+6	and	and	CC	_	5	cc
+7	Fontanelle	Fontanelle	NNP	_	5	conj
+8	were	be	VBD	_	9	auxpass
+9	founded	found	VBN	_	0	ROOT
+10	that	that	DT	_	11	det
+11	year	year	NN	_	9	tmod
+12	as	as	RB	_	13	advmod
+13	well	well	RB	_	11	advmod
+14	.	.	.	_	9	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	symposium	symposium	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	attended	attend	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	constellation	constellation	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	artists	artist	NNS	_	8	pobj
+10	and	and	CC	_	9	cc
+11	writers	writer	NNS	_	9	conj
+12	.	.	.	_	4	punct
+

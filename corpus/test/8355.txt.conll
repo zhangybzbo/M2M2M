@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	cost	cost	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	fuel	fuel	NN	_	3	pobj
+5	delivered	deliver	VBN	_	12	csubj
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	vessel	vessel	NN	_	9	nn
+9	bunker	bunker	NN	_	6	pobj
+10	is	be	VBZ	_	12	cop
+11	always	always	RB	_	12	advmod
+12	high	high	JJ	_	0	ROOT
+13	.	.	.	_	12	punct
+

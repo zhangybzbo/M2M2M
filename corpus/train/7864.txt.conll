@@ -1,0 +1,11 @@
+1	He	he	PRP	_	2	nsubj
+2	combines	combine	VBZ	_	0	ROOT
+3	strawberries	strawberry	NNS	_	2	dobj
+4	and	and	CC	_	3	cc
+5	powder	powder	NN	_	6	nn
+6	sugar	sugar	NN	_	3	conj
+7	and	and	CC	_	2	cc
+8	mixes	mix	VBZ	_	2	conj
+9	well	well	RB	_	8	advmod
+10	.	.	.	_	2	punct
+

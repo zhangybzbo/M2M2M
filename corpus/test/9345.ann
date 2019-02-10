@@ -1,0 +1,3 @@
+T1	Term 50 61	plastic bag
+T2	Term 67 76	marijuana
+R1	Content-Container Arg1:T2 Arg2:T1

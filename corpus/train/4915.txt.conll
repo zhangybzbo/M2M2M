@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	items	item	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	handed	hand	VBN	_	0	ROOT
+5	over	over	RP	_	4	prt
+6	into	into	IN	_	4	prep
+7	our	we	PRP$	_	8	poss
+8	trust	trust	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

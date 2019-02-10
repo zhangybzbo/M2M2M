@@ -1,0 +1,16 @@
+1	Throughout	throughout	IN	_	11	prep
+2	his	he	PRP$	_	4	poss
+3	writing	write	VBG	_	4	amod
+4	career	career	NN	_	1	pobj
+5	,	,	,	_	11	punct
+6	all	all	DT	_	11	nsubj
+7	of	of	IN	_	6	prep
+8	his	he	PRP$	_	9	poss
+9	novels	novel	NNS	_	7	pobj
+10	have	have	VBP	_	11	aux
+11	concerned	concern	VBN	_	0	ROOT
+12	fictional	fictional	JJ	_	14	amod
+13	secret	secret	JJ	_	14	amod
+14	agents	agent	NNS	_	11	dobj
+15	.	.	.	_	11	punct
+

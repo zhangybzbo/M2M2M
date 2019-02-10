@@ -1,0 +1,22 @@
+1	Ford	Ford	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	Dagenham	Dagenham	NNP	_	4	nn
+4	workers	worker	NNS	_	6	nsubj
+5	still	still	RB	_	6	advmod
+6	produced	produce	VBD	_	0	ROOT
+7	more	more	JJR	_	8	amod
+8	cars	car	NNS	_	6	dobj
+9	for	for	IN	_	8	prep
+10	less	less	JJR	_	11	amod
+11	pay	pay	NN	_	9	pobj
+12	than	than	IN	_	11	prep
+13	any	any	DT	_	15	det
+14	other	other	JJ	_	15	amod
+15	plant	plant	NN	_	12	pobj
+16	in	in	IN	_	15	prep
+17	Europe	Europe	NNP	_	16	pobj
+18	in	in	IN	_	15	prep
+19	the	the	DT	_	20	det
+20	1960s	1960	NNS	_	18	pobj
+21	.	.	.	_	6	punct
+

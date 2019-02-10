@@ -1,0 +1,12 @@
+1	He	he	PRP	_	2	nsubj
+2	grabbed	grab	VBD	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	put	put	VBD	_	2	conj
+5	all	all	DT	_	7	det
+6	dirty	dirty	JJ	_	7	amod
+7	clothing	clothing	NN	_	4	dobj
+8	in	in	IN	_	4	prep
+9	a	a	DT	_	10	det
+10	hamper	hamper	VBP	_	8	pobj
+11	.	.	.	_	2	punct
+

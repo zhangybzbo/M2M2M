@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	actor	actor	NN	_	3	nsubj
+3	played	play	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	psychopathic	psychopathic	JJ	_	6	amod
+6	preacher	preacher	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	restrained	restrained	JJ	_	10	amod
+10	malice	malice	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

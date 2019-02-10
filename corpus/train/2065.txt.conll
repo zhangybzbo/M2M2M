@@ -1,0 +1,21 @@
+1	Three	three	CD	_	2	num
+2	lines	line	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	missing	miss	VBG	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	end	end	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	stanza	stanza	NN	_	8	pobj
+11	;	;	:	_	4	punct
+12	the	the	DT	_	13	det
+13	hermit	hermit	JJ	_	14	nsubj
+14	demonstrates	demonstrate	VBZ	_	4	parataxis
+15	his	he	PRP$	_	16	poss
+16	prowess	prowess	NN	_	14	dobj
+17	with	with	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	bow	bow	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	Frankies	franky	NNS	_	3	nn
+2	457	457	CD	_	3	num
+3	Spuntino	Spuntino	NNP	_	8	nsubj
+4	is	be	VBZ	_	8	cop
+5	a	a	DT	_	8	det
+6	cozy	cozy	JJ	_	8	amod
+7	tin-ceilinged	tin-ceilinged	JJ	_	8	amod
+8	trattoria	trattorium	NN	_	0	ROOT
+9	founded	found	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	pair	pair	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	Italian	italian	JJ	_	16	amod
+15	American	american	JJ	_	16	amod
+16	pals	pal	NNS	_	13	pobj
+17	from	from	IN	_	16	prep
+18	Queens	Queens	NNP	_	17	pobj
+19	-	-	:	_	8	punct
+20	both	both	CC	_	21	preconj
+21	named	name	VBN	_	8	dep
+22	Frankie	Frankie	NNP	_	21	dep
+23	.	.	.	_	8	punct
+

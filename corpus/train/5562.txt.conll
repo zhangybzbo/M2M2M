@@ -1,0 +1,22 @@
+1	Ten	ten	CD	_	2	num
+2	years	year	NNS	_	3	npadvmod
+3	ago	ago	IN	_	0	ROOT
+4	I	I	PRP	_	5	nsubj
+5	started	start	VBD	_	3	pcomp
+6	bringing	bring	VBG	_	5	xcomp
+7	a	a	DT	_	8	det
+8	suitcase	suitcase	NN	_	6	dobj
+9	full	full	JJ	_	8	amod
+10	of	of	IN	_	9	prep
+11	odd	odd	JJ	_	12	amod
+12	props	prop	NNS	_	10	pobj
+13	to	to	TO	_	12	prep
+14	schools	school	NNS	_	13	pobj
+15	and	and	CC	_	14	cc
+16	libraries	library	NNS	_	14	conj
+17	all	all	DT	_	9	dep
+18	over	over	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	world	world	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

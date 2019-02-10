@@ -1,0 +1,10 @@
+0	31	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	6	tok id="t1" base="moat" pos="NN" nsubj="t2"
+7	12	tok id="t2" base="keep" pos="VBZ" ROOT="ROOT"
+13	16	tok id="t3" base="the" pos="DT" det="t4"
+17	22	tok id="t4" base="enemy" pos="NN" dobj="t2"
+23	25	tok id="t5" base="at" pos="IN" prep="t4"
+26	29	tok id="t6" base="bay" pos="NN" pobj="t5"
+30	31	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

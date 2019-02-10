@@ -1,0 +1,26 @@
+1	While	while	IN	_	4	mark
+2	he	he	PRP	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	freeing	free	VBG	_	14	advcl
+5	himself	himself	PRP	_	4	dobj
+6	from	from	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	clutches	clutch	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	dishwasher	dishwasher	NN	_	9	pobj
+12	,	,	,	_	14	punct
+13	he	he	PRP	_	14	nsubj
+14	ripped	rip	VBD	_	0	ROOT
+15	off	off	RP	_	14	prt
+16	some	some	DT	_	14	dobj
+17	of	of	IN	_	16	prep
+18	his	he	PRP$	_	19	poss
+19	skin	skin	NN	_	17	pobj
+20	,	,	,	_	14	punct
+21	revealing	reveal	VBG	_	14	vmod
+22	his	he	PRP$	_	24	poss
+23	bionic	bionic	JJ	_	24	amod
+24	arm	arm	NN	_	21	dobj
+25	.	.	.	_	14	punct
+

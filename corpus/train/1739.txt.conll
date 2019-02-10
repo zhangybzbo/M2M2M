@@ -1,0 +1,27 @@
+1	Simon	Simon	NNP	_	2	nsubj
+2	roused	rouse	VBD	_	0	ROOT
+3	himself	himself	PRP	_	2	dobj
+4	slowly	slowly	RB	_	2	advmod
+5	from	from	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	wonderful	wonderful	JJ	_	8	amod
+8	dream	dream	NN	_	5	pobj
+9	revolving	revolve	VBG	_	8	vmod
+10	around	around	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	whole	whole	JJ	_	13	amod
+13	pryde	pryde	NN	_	10	pobj
+14	of	of	IN	_	13	prep
+15	baby	baby	NN	_	16	nn
+16	griffins	griffin	NNS	_	14	pobj
+17	,	,	,	_	2	punct
+18	just	just	RB	_	19	advmod
+19	waiting	wait	VBG	_	2	vmod
+20	for	for	IN	_	19	prep
+21	him	he	PRP	_	20	pobj
+22	to	to	TO	_	23	aux
+23	play	play	VB	_	19	xcomp
+24	with	with	IN	_	23	prep
+25	them	they	PRP	_	24	pobj
+26	.	.	.	_	2	punct
+

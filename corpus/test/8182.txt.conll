@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	bee	bee	NN	_	3	nsubj
+3	carries	carry	VBZ	_	0	ROOT
+4	pollen	pollen	NN	_	3	dobj
+5	in	in	IN	_	3	prep
+6	a	a	DT	_	8	det
+7	pollen	pollen	NN	_	8	nn
+8	basket	basket	NN	_	5	pobj
+9	back	back	RB	_	8	advmod
+10	to	to	TO	_	9	prep
+11	the	the	DT	_	12	det
+12	hive	hive	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

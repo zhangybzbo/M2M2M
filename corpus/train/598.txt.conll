@@ -1,0 +1,12 @@
+1	A	a	DT	_	2	det
+2	gam	gam	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	whales	whale	NNS	_	3	pobj
+5	migrates	migrate	VBZ	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	breeding	breed	VBG	_	6	pcomp
+8	lagoons	lagoon	NNS	_	7	dobj
+9	every	every	DT	_	10	det
+10	season	season	NN	_	7	npadvmod
+11	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	three	three	CD	_	4	num
+4	techniques	technique	NNS	_	2	nsubj
+5	for	for	IN	_	4	prep
+6	properly	properly	RB	_	7	advmod
+7	decanting	decant	VBG	_	5	pcomp
+8	wine	wine	NN	_	7	dobj
+9	in	in	IN	_	7	prep
+10	a	a	DT	_	11	det
+11	carafe	carafe	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	lungs	lung	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	divided	divide	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	lobes	lobe	NNS	_	5	pobj
+7	.	.	.	_	4	punct
+

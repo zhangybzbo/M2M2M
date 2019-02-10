@@ -1,0 +1,26 @@
+1	In	in	IN	_	8	prep
+2	this	this	DT	_	4	det
+3	beautiful	beautiful	JJ	_	4	amod
+4	re-imagining	re-imagining	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	story	story	NN	_	8	nsubj
+8	starts	start	VBZ	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	an	a	DT	_	11	det
+11	orphanage	orphanage	NN	_	9	pobj
+12	and	and	CC	_	8	cc
+13	moves	move	VBZ	_	8	conj
+14	to	to	TO	_	13	prep
+15	a	a	DT	_	17	det
+16	magical	magical	JJ	_	17	amod
+17	land	land	NN	_	14	pobj
+18	where	where	WRB	_	21	advmod
+19	the	the	DT	_	20	det
+20	sweets	sweet	NNS	_	21	nsubj
+21	have	have	VBP	_	17	rcmod
+22	a	a	DT	_	24	det
+23	sexual	sexual	JJ	_	24	amod
+24	subtext	subtext	NN	_	21	dobj
+25	.	.	.	_	8	punct
+

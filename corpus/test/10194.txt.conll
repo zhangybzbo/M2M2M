@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	list	list	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	generated	generate	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	open	open	JJ	_	8	amod
+8	call	call	NN	_	5	pobj
+9	for	for	IN	_	8	prep
+10	nominations	nomination	NNS	_	9	pobj
+11	and	and	CC	_	10	cc
+12	prioritized	prioritize	VBN	_	10	conj
+13	based	base	VBN	_	12	prep
+14	on	on	IN	_	13	pcomp
+15	factors	factor	NNS	_	14	pobj
+16	including	include	VBG	_	15	prep
+17	the	the	DT	_	18	det
+18	age	age	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	structure	structure	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

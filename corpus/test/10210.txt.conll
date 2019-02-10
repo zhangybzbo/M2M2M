@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	film	film	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	flashbacks	flashback	NNS	_	3	dobj
+5	as	as	IN	_	3	prep
+6	a	a	DT	_	7	det
+7	device	device	NN	_	5	pobj
+8	to	to	TO	_	9	aux
+9	tell	tell	VB	_	7	vmod
+10	the	the	DT	_	11	det
+11	story	story	NN	_	9	dobj
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	15	nsubjpass
+14	was	be	VBD	_	15	auxpass
+15	based	base	VBN	_	11	rcmod
+16	on	on	IN	_	15	prep
+17	a	a	DT	_	19	det
+18	1947	1947	CD	_	19	num
+19	novel	novel	NN	_	16	pobj
+20	by	by	IN	_	19	prep
+21	David	David	NNP	_	22	nn
+22	Goodis	Goodis	NNP	_	20	pobj
+23	.	.	.	_	3	punct
+

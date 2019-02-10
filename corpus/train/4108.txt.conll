@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	website	website	NN	_	3	nsubj
+3	gives	give	VBZ	_	0	ROOT
+4	you	you	PRP	_	3	iobj
+5	detailed	detailed	JJ	_	6	amod
+6	maps	map	NNS	_	3	dobj
+7	and	and	CC	_	3	cc
+8	trails	trail	VBZ	_	3	conj
+9	that	that	DT	_	8	dobj
+10	are	be	VBP	_	9	dep
+11	specifically	specifically	RB	_	12	advmod
+12	in	in	IN	_	10	prep
+13	Kent	Kent	NNP	_	12	pobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	United	United	NNP	_	3	nn
+3	States	States	NNPS	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	laws	law	NNS	_	4	dobj
+6	that	that	WDT	_	7	nsubj
+7	limit	limit	VBP	_	5	rcmod
+8	magazine	magazine	NN	_	9	nn
+9	size	size	NN	_	7	dobj
+10	,	,	,	_	4	punct
+11	too	too	RB	_	4	advmod
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+1	You	you	PRP	_	2	nsubj
+2	own	own	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	house	house	NN	_	2	dobj
+5	that	that	WDT	_	6	nsubj
+6	contains	contain	VBZ	_	4	rcmod
+7	a	a	DT	_	8	det
+8	granny	granny	NN	_	6	dobj
+9	flat	flat	JJ	_	8	amod
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,21 @@
+1	As	as	IN	_	9	prep
+2	a	a	DT	_	3	det
+3	term	term	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	``	``	``	_	9	punct
+6	fiddle	fiddle	NN	_	9	nsubj
+7	''	''	''	_	9	punct
+8	better	better	JJR	_	9	nsubj
+9	indicates	indicate	VBZ	_	0	ROOT
+10	the	the	DT	_	11	det
+11	style	style	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	music	music	NN	_	12	pobj
+14	the	the	DT	_	15	det
+15	musician	musician	NN	_	16	nsubj
+16	plays	play	VBZ	_	11	rcmod
+17	on	on	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	violin	violin	NN	_	17	pobj
+20	.	.	.	_	9	punct
+

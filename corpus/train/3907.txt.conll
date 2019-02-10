@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	strange	strange	JJ	_	3	amod
+3	query	query	NN	_	5	nsubj
+4	was	be	VBD	_	5	aux
+5	coming	come	VBG	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	11	det
+8	28-year-old	28-year-old	JJ	_	11	amod
+9	African-American	African-American	NNP	_	11	nn
+10	Starbucks	Starbucks	NNP	_	11	nn
+11	manager	manager	NN	_	6	pobj
+12	named	name	VBN	_	11	vmod
+13	Crystal	Crystal	NNP	_	14	nn
+14	Thompson	Thompson	NNP	_	12	dep
+15	.	.	.	_	5	punct
+

@@ -1,0 +1,24 @@
+1	Adults	adult	NNS	_	13	nsubj
+2	with	with	IN	_	1	prep
+3	sleep	sleep	NN	_	4	nn
+4	deprivation	deprivation	NN	_	2	pobj
+5	who	who	WP	_	6	nsubj
+6	listened	listen	VBD	_	1	rcmod
+7	to	to	TO	_	6	prep
+8	soft	soft	JJ	_	10	amod
+9	classical	classical	JJ	_	10	amod
+10	music	music	NN	_	7	pobj
+11	at	at	IN	_	6	prep
+12	bedtime	bedtime	NN	_	11	pobj
+13	reported	report	VBD	_	0	ROOT
+14	a	a	DT	_	17	det
+15	35	35	CD	_	16	number
+16	percent	percent	NN	_	17	amod
+17	improvement	improvement	NN	_	13	dobj
+18	in	in	IN	_	17	prep
+19	their	they	PRP$	_	20	poss
+20	quality	quality	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	sleep	sleep	NN	_	21	pobj
+23	.	.	.	_	13	punct
+

@@ -1,0 +1,3 @@
+T1	Term 22 27	screw
+T2	Term 42 48	magnet
+R1	Component-Whole Arg1:T1 Arg2:T2

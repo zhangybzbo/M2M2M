@@ -1,0 +1,16 @@
+1	Pinworm	Pinworm	NNP	_	2	nn
+2	infestation	infestation	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	very	very	RB	_	5	advmod
+5	rarely	rarely	RB	_	6	advmod
+6	fatal	fatal	JJ	_	0	ROOT
+7	;	;	:	_	6	punct
+8	death	death	NN	_	11	nsubj
+9	and	and	CC	_	8	cc
+10	morbidity	morbidity	NN	_	8	conj
+11	are	be	VBP	_	6	parataxis
+12	from	from	IN	_	11	prep
+13	secondary	secondary	JJ	_	14	amod
+14	infection	infection	NN	_	12	pobj
+15	.	.	.	_	6	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	goal	goal	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	study	study	NN	_	3	pobj
+6	was	be	VBD	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	determine	determine	VB	_	6	xcomp
+9	the	the	DT	_	10	det
+10	percentage	percentage	NN	_	21	nsubj
+11	of	of	IN	_	10	prep
+12	adult	adult	JJ	_	13	amod
+13	Americans	Americans	NNPS	_	11	pobj
+14	who	who	WP	_	15	nsubj
+15	keep	keep	VBP	_	13	rcmod
+16	money	money	NN	_	15	dobj
+17	in	in	IN	_	15	prep
+18	a	a	DT	_	20	det
+19	regular	regular	JJ	_	20	amod
+20	savings	savings	NNS	_	17	pobj
+21	account	account	VBP	_	8	ccomp
+22	.	.	.	_	6	punct
+

@@ -1,0 +1,11 @@
+1	A	a	DT	_	4	det
+2	Grade	Grade	NNP	_	4	nn
+3	I	I	PRP	_	4	dep
+4	certificate	certificate	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	awarded	award	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	product	product	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

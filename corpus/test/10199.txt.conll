@@ -1,0 +1,20 @@
+1	Most	most	JJS	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	hairstyles	hairstyle	NNS	_	2	pobj
+5	from	from	IN	_	1	prep
+6	past	past	JJ	_	7	amod
+7	days	day	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	Hollywood	Hollywood	NNP	_	10	nn
+10	glory	glory	NN	_	8	pobj
+11	have	have	VBP	_	0	ROOT
+12	unique	unique	JJ	_	13	amod
+13	features	feature	NNS	_	11	dobj
+14	that	that	WDT	_	16	nsubjpass
+15	are	be	VBP	_	16	auxpass
+16	set	set	VBN	_	13	rcmod
+17	in	in	IN	_	16	prep
+18	place	place	NN	_	17	pobj
+19	.	.	.	_	11	punct
+

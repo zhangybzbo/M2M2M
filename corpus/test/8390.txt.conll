@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	rainbow	rainbow	NN	_	3	nn
+3	flower	flower	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	made	make	VBN	_	13	csubj
+6	with	with	IN	_	5	prep
+7	spool	spool	JJ	_	9	amod
+8	knitted	knit	VBN	_	9	amod
+9	cord	cord	NN	_	6	pobj
+10	on	on	IN	_	5	prep
+11	a	a	DT	_	12	det
+12	flower	flower	NN	_	10	pobj
+13	loom	loom	VBP	_	0	ROOT
+14	.	.	.	_	13	punct
+

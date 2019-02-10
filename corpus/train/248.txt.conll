@@ -1,0 +1,13 @@
+1	Mobile	Mobile	NNP	_	2	nsubj
+2	lost	lose	VBD	_	7	csubjpass
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	ocean	ocean	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	found	find	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	cod	cod	NN	_	11	nn
+11	belly	belly	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

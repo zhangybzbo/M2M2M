@@ -1,0 +1,10 @@
+0	46	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	11	tok id="t1" base="italian" pos="JJ" amod="t3"
+12	19	tok id="t2" base="donate" pos="VBN" amod="t3"
+20	29	tok id="t3" base="equipment" pos="NN" ROOT="ROOT"
+30	32	tok id="t4" base="to" pos="TO" prep="t3"
+33	36	tok id="t5" base="the" pos="DT" det="t6"
+37	44	tok id="t6" base="charity" pos="NN" pobj="t4"
+45	46	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

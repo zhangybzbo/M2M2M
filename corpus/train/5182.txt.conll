@@ -1,0 +1,26 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	glitter	glitter	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	admirals	admiral	NNS	_	5	pobj
+7	and	and	CC	_	6	cc
+8	generals	general	NNS	_	6	conj
+9	before	before	IN	_	4	prep
+10	the	the	DT	_	12	det
+11	high	high	JJ	_	12	amod
+12	altar	altar	NN	_	9	pobj
+13	,	,	,	_	2	punct
+14	and	and	CC	_	2	cc
+15	the	the	DT	_	17	det
+16	brighter	brighter	JJR	_	17	amod
+17	colors	color	NNS	_	2	conj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	representatives	representative	NNS	_	18	pobj
+21	of	of	IN	_	20	prep
+22	powers	power	NNS	_	21	pobj
+23	and	and	CC	_	22	cc
+24	potentates	potentate	NNS	_	22	conj
+25	.	.	.	_	2	punct
+

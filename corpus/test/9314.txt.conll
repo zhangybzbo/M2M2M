@@ -1,0 +1,23 @@
+1	This	this	DT	_	2	det
+2	garden	garden	NN	_	9	nsubj
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	pail	pail	NN	_	3	pobj
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	unique	unique	JJ	_	9	amod
+9	idea	idea	NN	_	0	ROOT
+10	that	that	WDT	_	12	nsubj
+11	would	would	MD	_	12	aux
+12	make	make	VB	_	9	rcmod
+13	a	a	DT	_	15	det
+14	great	great	JJ	_	15	amod
+15	gift	gift	NN	_	12	dobj
+16	for	for	IN	_	15	prep
+17	any	any	DT	_	21	det
+18	cook	cook	NN	_	21	nn
+19	or	or	CC	_	18	cc
+20	herb	herb	NN	_	18	conj
+21	enthusiast	enthusiast	NN	_	16	pobj
+22	.	.	.	_	9	punct
+

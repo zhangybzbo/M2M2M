@@ -1,0 +1,3 @@
+T1	Term 50 61	perchlorate
+T2	Term 71 75	soil
+R1	Entity-Destination Arg1:T1 Arg2:T2

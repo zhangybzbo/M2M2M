@@ -1,0 +1,13 @@
+1	Speeding	speed	VBG	_	3	csubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	more	more	RBR	_	7	advmod
+7	obvious	obvious	JJ	_	8	amod
+8	causes	cause	NNS	_	4	pobj
+9	of	of	IN	_	8	prep
+10	pedestrian	pedestrian	JJ	_	11	amod
+11	accidents	accident	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

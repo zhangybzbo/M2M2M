@@ -1,0 +1,25 @@
+1	Habitat	habitat	NN	_	2	nn
+2	degradation	degradation	NN	_	18	nsubj
+3	from	from	IN	_	2	prep
+4	within	within	IN	_	3	pcomp
+5	stream	stream	NN	_	6	nn
+6	channels	channel	NNS	_	4	pobj
+7	,	,	,	_	2	punct
+8	loss	loss	NN	_	2	conj
+9	of	of	IN	_	8	prep
+10	riparian	riparian	JJ	_	11	amod
+11	vegetation	vegetation	NN	_	9	pobj
+12	,	,	,	_	2	punct
+13	and	and	CC	_	2	cc
+14	reductions	reduction	NNS	_	2	conj
+15	in	in	IN	_	14	prep
+16	water	water	NN	_	17	nn
+17	quality	quality	NN	_	15	pobj
+18	degrade	degrade	VB	_	0	ROOT
+19	and	and	CC	_	18	cc
+20	also	also	RB	_	21	advmod
+21	limit	limit	VB	_	18	conj
+22	the	the	DT	_	23	det
+23	population	population	NN	_	21	dobj
+24	.	.	.	_	18	punct
+

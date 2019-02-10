@@ -1,0 +1,1 @@
+In fact , a protocol copes even with Byzantine failures by using randomization .

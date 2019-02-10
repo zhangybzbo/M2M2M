@@ -1,0 +1,21 @@
+1	We	we	PRP	_	4	nsubj
+2	are	be	VBP	_	4	aux
+3	being	be	VBG	_	4	cop
+4	cautious	cautious	JJ	_	0	ROOT
+5	as	as	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	flies	fly	NNS	_	8	nsubj
+8	emerged	emerge	VBD	_	4	advcl
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	perforation	perforation	NN	_	9	pobj
+12	after	after	IN	_	8	prep
+13	a	a	DT	_	14	det
+14	period	period	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	three	three	CD	_	17	num
+17	days	day	NNS	_	15	pobj
+18	last	last	JJ	_	19	amod
+19	week	week	NN	_	14	tmod
+20	.	.	.	_	4	punct
+

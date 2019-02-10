@@ -1,0 +1,18 @@
+1	Eventually	eventually	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	player	player	NN	_	5	nsubj
+5	descends	descend	VBZ	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	maze	maze	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	catacombs	catacomb	NNS	_	9	pobj
+11	and	and	CC	_	5	cc
+12	a	a	DT	_	15	det
+13	``	``	``	_	15	punct
+14	fake	fake	JJ	_	15	amod
+15	Y2	y2	NN	_	5	conj
+16	''	''	''	_	15	punct
+17	.	.	.	_	5	punct
+

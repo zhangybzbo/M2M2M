@@ -1,0 +1,3 @@
+T1	Term 290 296	warren
+T2	Term 300 305	hares
+R1	Member-Collection Arg1:T2 Arg2:T1

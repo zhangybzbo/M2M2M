@@ -1,0 +1,23 @@
+1	Police	police	NNS	_	5	nsubjpass
+2	in	in	IN	_	1	prep
+3	Taiwan	Taiwan	NNP	_	2	pobj
+4	were	be	VBD	_	5	auxpass
+5	forced	force	VBN	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	shoot	shoot	VB	_	5	xcomp
+8	a	a	DT	_	9	det
+9	crocodile	crocodile	NN	_	7	dobj
+10	after	after	IN	_	12	mark
+11	it	it	PRP	_	12	nsubj
+12	bit	bite	VBD	_	7	advcl
+13	off	off	RP	_	12	prt
+14	the	the	DT	_	15	det
+15	arm	arm	NN	_	20	nsubj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	zoo	zoo	NN	_	19	nn
+19	veterinarian	veterinarian	NN	_	16	pobj
+20	treating	treat	VBG	_	12	ccomp
+21	it	it	PRP	_	20	dobj
+22	.	.	.	_	5	punct
+

@@ -1,0 +1,14 @@
+1	Other	other	JJ	_	2	amod
+2	items	item	NNS	_	7	nsubj
+3	advertised	advertise	VBN	_	2	vmod
+4	on	on	IN	_	3	prep
+5	TV	tv	NN	_	4	pobj
+6	simply	simply	RB	_	7	advmod
+7	melt	melt	VB	_	0	ROOT
+8	the	the	DT	_	9	det
+9	chocolate	chocolate	NN	_	7	dobj
+10	on	on	IN	_	7	prep
+11	the	the	DT	_	12	det
+12	stovetop	stovetop	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

@@ -1,0 +1,23 @@
+1	He	he	PRP	_	2	nsubj
+2	started	start	VBD	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	dashboard	dashboard	NN	_	6	nn
+6	area	area	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	car	car	NN	_	7	pobj
+10	,	,	,	_	2	punct
+11	as	as	IN	_	13	mark
+12	that	that	DT	_	13	nsubj
+13	's	be	VBZ	_	2	advcl
+14	where	where	WRB	_	16	advmod
+15	so	so	RB	_	16	advmod
+16	much	much	JJ	_	20	nsubj
+17	dust	dust	NN	_	16	dobj
+18	and	and	CC	_	17	cc
+19	dirt	dirt	NN	_	17	conj
+20	shows	show	VBZ	_	13	ccomp
+21	up	up	RP	_	20	prt
+22	.	.	.	_	2	punct
+

@@ -1,0 +1,7 @@
+1	Asteroid	Asteroid	NNP	_	2	nsubj
+2	threatened	threaten	VBD	_	0	ROOT
+3	Earth	Earth	NNP	_	2	dobj
+4	with	with	IN	_	2	prep
+5	disaster	disaster	NN	_	4	pobj
+6	.	.	.	_	2	punct
+

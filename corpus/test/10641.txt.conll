@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	drag	drag	NN	_	9	nsubj
+3	caused	cause	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	Earth	Earth	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	atmosphere	atmosphere	NN	_	4	pobj
+9	works	work	VBZ	_	0	ROOT
+10	against	against	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	rocket	rocket	NN	_	10	pobj
+13	or	or	CC	_	12	cc
+14	a	a	DT	_	16	det
+15	water	water	NN	_	16	nn
+16	molecule	molecule	NN	_	12	conj
+17	.	.	.	_	9	punct
+

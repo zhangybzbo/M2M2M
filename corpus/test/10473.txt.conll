@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	blisters	blister	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	antibodies	antibody	NNS	_	5	pobj
+7	against	against	IN	_	6	prep
+8	desmogleins	desmoglein	NNS	_	7	pobj
+9	-LRB-	-lrb-	-LRB-	_	10	punct
+10	Dsgs	dsg	NNS	_	8	appos
+11	-RRB-	-rrb-	-RRB-	_	10	punct
+12	,	,	,	_	8	punct
+13	which	which	WDT	_	15	nsubj
+14	are	be	VBP	_	15	cop
+15	glycoproteins	glycoprotein	NNS	_	8	rcmod
+16	present	present	JJ	_	15	amod
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	junctions	junction	NNS	_	17	pobj
+20	between	between	IN	_	19	prep
+21	skin	skin	NN	_	22	nn
+22	cells	cell	NNS	_	20	pobj
+23	.	.	.	_	4	punct
+

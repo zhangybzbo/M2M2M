@@ -1,0 +1,3 @@
+T1	Term 36 43	burglar
+T2	Term 65 71	prison
+R1	Entity-Origin Arg1:T1 Arg2:T2

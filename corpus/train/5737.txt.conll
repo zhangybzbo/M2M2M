@@ -1,0 +1,23 @@
+1	Claiming	claim	VBG	_	15	vmod
+2	to	to	TO	_	3	aux
+3	have	have	VB	_	1	xcomp
+4	better	better	JJR	_	6	amod
+5	FM	FM	NNP	_	6	nn
+6	reception	reception	NN	_	3	dobj
+7	than	than	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	previous	previous	JJ	_	10	amod
+10	model	model	NN	_	7	pobj
+11	,	,	,	_	15	punct
+12	this	this	DT	_	14	det
+13	radio	radio	NN	_	14	nn
+14	tuner	tuner	NN	_	15	nsubj
+15	works	work	VBZ	_	0	ROOT
+16	with	with	IN	_	15	prep
+17	both	both	CC	_	18	preconj
+18	Windows	Windows	NNP	_	16	pobj
+19	and	and	CC	_	18	cc
+20	Mac	Mac	NNP	_	21	nn
+21	systems	system	NNS	_	18	conj
+22	.	.	.	_	15	punct
+

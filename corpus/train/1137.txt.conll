@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj
+2	kept	keep	VBD	_	0	ROOT
+3	raw	raw	JJ	_	4	amod
+4	eggs	egg	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	dish	dish	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	fridge	fridge	NN	_	8	pobj
+11	for	for	IN	_	2	prep
+12	too	too	RB	_	13	advmod
+13	long	long	JJ	_	11	pobj
+14	.	.	.	_	2	punct
+

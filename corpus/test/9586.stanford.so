@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="all" pos="DT" det="t2"
+4	12	tok id="t1" base="LibriVox" pos="NNP" nn="t2"
+13	23	tok id="t2" base="recording" pos="NNS" nsubjpass="t5"
+24	28	tok id="t3" base="have" pos="VBP" aux="t5"
+29	33	tok id="t4" base="be" pos="VBN" auxpass="t5"
+34	42	tok id="t5" base="release" pos="VBN" ROOT="ROOT"
+43	47	tok id="t6" base="into" pos="IN" prep="t5"
+48	51	tok id="t7" base="the" pos="DT" det="t9"
+52	58	tok id="t8" base="public" pos="JJ" amod="t9"
+59	65	tok id="t9" base="domain" pos="NN" pobj="t6"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

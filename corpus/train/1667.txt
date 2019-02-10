@@ -1,0 +1,1 @@
+It contains a chapter giving an introduction to compression algorithms .

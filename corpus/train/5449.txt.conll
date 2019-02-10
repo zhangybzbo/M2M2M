@@ -1,0 +1,17 @@
+1	Inside	inside	IN	_	4	prep
+2	,	,	,	_	4	punct
+3	they	they	PRP	_	4	nsubj
+4	found	find	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	plastic	plastic	JJ	_	7	amod
+7	bag	bag	NN	_	4	dobj
+8	with	with	IN	_	7	prep
+9	cocaine	cocaine	NN	_	8	pobj
+10	inside	inside	IN	_	4	prep
+11	under	under	IN	_	10	pcomp
+12	the	the	DT	_	13	det
+13	driver	driver	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	seat	seat	NN	_	11	pobj
+16	.	.	.	_	4	punct
+

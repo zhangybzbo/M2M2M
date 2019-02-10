@@ -1,0 +1,3 @@
+T1	Term 33 41	assembly
+T2	Term 65 74	statement
+R1	Product-Producer Arg1:T2 Arg2:T1

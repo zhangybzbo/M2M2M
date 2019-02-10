@@ -1,0 +1,20 @@
+1	When	when	WRB	_	8	advmod
+2	a	a	DT	_	3	det
+3	bottle	bottle	NN	_	8	nsubjpass
+4	full	full	JJ	_	3	amod
+5	of	of	IN	_	4	prep
+6	air	air	NN	_	5	pobj
+7	is	be	VBZ	_	8	auxpass
+8	opened	open	VBN	_	16	advcl
+9	under	under	IN	_	8	prep
+10	water	water	NN	_	9	pobj
+11	,	,	,	_	16	punct
+12	the	the	DT	_	13	det
+13	water	water	NN	_	16	nsubj
+14	will	will	MD	_	16	aux
+15	not	not	RB	_	16	neg
+16	enter	enter	VB	_	0	ROOT
+17	the	the	DT	_	18	det
+18	bottle	bottle	NN	_	16	dobj
+19	.	.	.	_	16	punct
+

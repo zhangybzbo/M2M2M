@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	explosion	explosion	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	gas	gas	NN	_	6	nn
+6	leak	leak	NN	_	3	dobj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	pipeline	pipeline	NN	_	7	pobj
+10	near	near	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	village	village	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	Pouce	Pouce	NNP	_	15	nn
+15	Coupe	Coupe	NNP	_	13	pobj
+16	,	,	,	_	15	punct
+17	south	south	RB	_	15	advmod
+18	of	of	IN	_	17	prep
+19	Dawson	Dawson	NNP	_	20	nn
+20	Creek	Creek	NNP	_	18	pobj
+21	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+1	Gaza	Gaza	NNP	_	0	ROOT
+2	following	follow	VBG	_	1	prep
+3	the	the	DT	_	5	det
+4	widespread	widespread	JJ	_	5	amod
+5	destruction	destruction	NN	_	2	pobj
+6	caused	cause	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	Israeli	israeli	JJ	_	10	amod
+10	invasion	invasion	NN	_	7	pobj
+11	.	.	.	_	1	punct
+

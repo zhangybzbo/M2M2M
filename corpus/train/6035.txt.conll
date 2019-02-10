@@ -1,0 +1,13 @@
+1	This	this	DT	_	2	det
+2	statement	statement	NN	_	3	nsubj
+3	pointed	point	VBD	_	0	ROOT
+4	toward	toward	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	resolution	resolution	NN	_	4	pobj
+7	preferred	prefer	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	Bosnian	Bosnian	NNP	_	11	nn
+11	Serbs	Serbs	NNPS	_	8	pobj
+12	.	.	.	_	3	punct
+

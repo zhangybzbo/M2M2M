@@ -1,0 +1,22 @@
+1	A	a	DT	_	2	det
+2	wisp	wisp	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	snipes	snipe	NNS	_	3	pobj
+5	utter	utter	JJ	_	4	amod
+6	their	they	PRP$	_	9	poss
+7	well	well	RB	_	8	advmod
+8	known	known	JJ	_	9	amod
+9	cry	cry	NN	_	5	dep
+10	and	and	CC	_	9	cc
+11	scud	scud	NN	_	9	conj
+12	over	over	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	heath	heath	NN	_	12	pobj
+15	;	;	:	_	2	punct
+16	one	one	CD	_	20	nsubjpass
+17	of	of	IN	_	16	prep
+18	these	these	DT	_	17	pobj
+19	is	be	VBZ	_	20	auxpass
+20	secured	secure	VBN	_	2	parataxis
+21	.	.	.	_	2	punct
+

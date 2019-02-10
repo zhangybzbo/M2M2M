@@ -1,0 +1,10 @@
+1	Statistical	statistical	JJ	_	2	amod
+2	analysis	analysis	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	using	use	VBG	_	4	xcomp
+6	the	the	DT	_	8	det
+7	PCSM	pcsm	NN	_	8	nn
+8	program	program	NN	_	5	dobj
+9	.	.	.	_	4	punct
+

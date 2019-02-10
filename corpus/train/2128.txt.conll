@@ -1,0 +1,19 @@
+1	My	my	PRP$	_	2	poss
+2	mother	mother	NN	_	3	nsubj
+3	bakes	bake	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	puddings	pudding	NNS	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	lidded	lidded	JJ	_	9	amod
+9	dish	dish	NN	_	6	pobj
+10	which	which	WDT	_	11	nsubj
+11	results	result	VBZ	_	9	rcmod
+12	in	in	IN	_	11	prep
+13	no	no	DT	_	14	neg
+14	skin	skin	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	little	little	JJ	_	17	amod
+17	caramelisation	caramelisation	NN	_	14	conj
+18	.	.	.	_	3	punct
+

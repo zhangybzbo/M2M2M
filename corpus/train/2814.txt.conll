@@ -1,0 +1,8 @@
+1	Money	Money	NNP	_	2	nsubj
+2	flows	flow	VBZ	_	0	ROOT
+3	into	into	IN	_	2	prep
+4	hedge	hedge	JJ	_	5	amod
+5	funds	fund	NNS	_	3	pobj
+6	again	again	RB	_	2	advmod
+7	.	.	.	_	2	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	implementor	implementor	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	decision	decision	NN	_	3	dobj
+6	,	,	,	_	5	punct
+7	not	not	RB	_	9	neg
+8	the	the	DT	_	9	det
+9	protocol	protocol	NN	_	5	appos
+10	.	.	.	_	3	punct
+

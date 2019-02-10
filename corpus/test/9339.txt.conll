@@ -1,0 +1,15 @@
+1	A	a	DT	_	4	det
+2	local	local	JJ	_	4	amod
+3	FM	FM	NNP	_	4	nn
+4	radio	radio	NN	_	5	nsubj
+5	keeps	keep	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	town	town	NN	_	5	dobj
+8	informed	inform	VBN	_	7	vmod
+9	about	about	IN	_	8	prep
+10	local	local	JJ	_	13	amod
+11	and	and	CC	_	10	cc
+12	international	international	JJ	_	10	conj
+13	development	development	NN	_	9	pobj
+14	.	.	.	_	5	punct
+

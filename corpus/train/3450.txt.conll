@@ -1,0 +1,20 @@
+1	Thousands	thousand	NNS	_	6	nsubj
+2	of	of	IN	_	1	prep
+3	drummers	drummer	NNS	_	2	pobj
+4	and	and	CC	_	3	cc
+5	dancers	dancer	NNS	_	3	conj
+6	perform	perform	VBP	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	streets	street	NNS	_	7	pobj
+10	of	of	IN	_	9	prep
+11	Kandy	Kandy	NNP	_	10	pobj
+12	accompanied	accompany	VBN	_	9	vmod
+13	by	by	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	parade	parade	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	ornamented	ornamented	JJ	_	18	amod
+18	elephants	elephant	NNS	_	16	pobj
+19	.	.	.	_	6	punct
+

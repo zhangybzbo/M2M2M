@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det
+2	bottle	bottle	NN	_	6	nsubj
+3	full	full	JJ	_	2	amod
+4	of	of	IN	_	3	prep
+5	liquid	liquid	JJ	_	4	pobj
+6	flew	fly	VBD	_	0	ROOT
+7	out	out	RB	_	6	advmod
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	stands	stand	NNS	_	8	pobj
+11	and	and	CC	_	6	cc
+12	struck	strike	VBD	_	6	conj
+13	visiting	visit	VBG	_	12	xcomp
+14	keeper	keeper	NN	_	16	nn
+15	Armando	Armando	NNP	_	16	nn
+16	Ribeiro	Ribeiro	NNP	_	13	dobj
+17	just	just	RB	_	18	advmod
+18	below	below	IN	_	13	prep
+19	the	the	DT	_	21	det
+20	right	right	JJ	_	21	amod
+21	eye	eye	NN	_	18	pobj
+22	.	.	.	_	6	punct
+

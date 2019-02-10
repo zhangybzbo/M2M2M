@@ -1,0 +1,13 @@
+0	70	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="ten" pos="CD" num="t1"
+4	16	tok id="t1" base="application" pos="NNS" nsubjpass="t4"
+17	20	tok id="t2" base="be" pos="VBP" auxpass="t4"
+21	34	tok id="t3" base="automatically" pos="RB" advmod="t4"
+35	42	tok id="t4" base="enter" pos="VBN" ROOT="ROOT"
+43	47	tok id="t5" base="into" pos="IN" prep="t4"
+48	49	tok id="t6" base="a" pos="DT" det="t9"
+50	57	tok id="t7" base="monthly" pos="JJ" amod="t9"
+58	63	tok id="t8" base="prize" pos="NN" nn="t9"
+64	68	tok id="t9" base="draw" pos="NN" pobj="t5"
+69	70	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

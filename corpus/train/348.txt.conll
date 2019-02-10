@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	deficits	deficit	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	people	people	NNS	_	5	pobj
+7	saving	save	VBG	_	6	vmod
+8	too	too	RB	_	9	advmod
+9	much	much	JJ	_	7	dobj
+10	of	of	IN	_	9	prep
+11	their	they	PRP$	_	12	poss
+12	money	money	NN	_	10	pobj
+13	.	.	.	_	4	punct
+

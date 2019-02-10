@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	game	game	NN	_	3	nn
+3	designer	designer	NN	_	5	nsubj
+4	also	also	RB	_	5	advmod
+5	uses	use	VBZ	_	0	ROOT
+6	a	a	DT	_	9	det
+7	very	very	RB	_	8	advmod
+8	specific	specific	JJ	_	9	amod
+9	tool	tool	NN	_	5	dobj
+10	for	for	IN	_	9	prep
+11	his	he	PRP$	_	12	poss
+12	work	work	NN	_	10	pobj
+13	.	.	.	_	5	punct
+

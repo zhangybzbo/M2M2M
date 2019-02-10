@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	fight	fight	NN	_	3	nn
+3	scenes	scene	NNS	_	6	nsubjpass
+4	were	be	VBD	_	6	auxpass
+5	barely	barely	RB	_	6	advmod
+6	described	describe	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	script	script	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

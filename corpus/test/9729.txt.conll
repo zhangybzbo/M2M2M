@@ -1,0 +1,22 @@
+1	Strenuous	strenuous	JJ	_	2	amod
+2	activity	activity	NN	_	7	nsubj
+3	with	with	IN	_	2	prep
+4	shovel	shovel	NN	_	3	pobj
+5	and	and	CC	_	4	cc
+6	wheelbarrow	wheelbarrow	NN	_	4	conj
+7	enabled	enable	VBD	_	0	ROOT
+8	my	my	PRP$	_	9	poss
+9	neighbor	neighbor	NN	_	7	dobj
+10	to	to	TO	_	11	aux
+11	give	give	VB	_	7	xcomp
+12	the	the	DT	_	13	det
+13	ground	ground	NN	_	11	iobj
+14	a	a	DT	_	16	det
+15	gradual	gradual	JJ	_	16	amod
+16	slope	slope	NN	_	11	dobj
+17	up	up	IN	_	16	prep
+18	to	to	TO	_	17	pcomp
+19	the	the	DT	_	20	det
+20	fence	fence	NN	_	18	pobj
+21	.	.	.	_	7	punct
+

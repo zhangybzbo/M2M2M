@@ -1,0 +1,16 @@
+1	Food	food	NN	_	2	nsubj
+2	comes	come	VBZ	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	grocery	grocery	NN	_	6	nn
+6	store	store	NN	_	3	pobj
+7	,	,	,	_	6	punct
+8	packaged	package	VBN	_	6	vmod
+9	,	,	,	_	6	punct
+10	sanitized	sanitize	VBN	_	6	dep
+11	,	,	,	_	10	punct
+12	frozen	freeze	VBN	_	10	conj
+13	or	or	CC	_	10	cc
+14	chilled	chill	VBN	_	10	conj
+15	.	.	.	_	2	punct
+

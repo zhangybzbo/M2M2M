@@ -1,0 +1,13 @@
+0	60	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="these" pos="DT" det="t1"
+6	14	tok id="t1" base="brother" pos="NNS" nsubj="t4"
+15	19	tok id="t2" base="be" pos="VBD" cop="t4"
+20	23	tok id="t3" base="the" pos="DT" det="t4"
+24	29	tok id="t4" base="first" pos="JJ" ROOT="ROOT"
+30	32	tok id="t5" base="to" pos="TO" aux="t6"
+33	39	tok id="t6" base="invent" pos="VB" xcomp="t4"
+40	41	tok id="t7" base="a" pos="DT" det="t9"
+42	49	tok id="t8" base="work" pos="VBG" amod="t9"
+50	58	tok id="t9" base="airplane" pos="NN" dobj="t6"
+59	60	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

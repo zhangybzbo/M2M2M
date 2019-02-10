@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	test	test	NN	_	3	nn
+3	results	result	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	entered	enter	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	electronic	electronic	JJ	_	9	amod
+9	logbook	logbook	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,23 @@
+1	Viruses	virus	NNS	_	8	nsubj
+2	that	that	WDT	_	3	nsubj
+3	cause	cause	VBP	_	1	rcmod
+4	respiratory	respiratory	JJ	_	5	amod
+5	illness	illness	NN	_	3	dobj
+6	typically	typically	RB	_	8	advmod
+7	are	be	VBP	_	8	cop
+8	capable	capable	JJ	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	causing	cause	VBG	_	9	pcomp
+11	a	a	DT	_	12	det
+12	range	range	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	clinical	clinical	JJ	_	15	amod
+15	manifestations	manifestation	NNS	_	13	pobj
+16	,	,	,	_	8	punct
+17	and	and	CC	_	8	cc
+18	asymptomatic	asymptomatic	JJ	_	19	amod
+19	infections	infection	NNS	_	21	nsubj
+20	are	be	VBP	_	21	cop
+21	possible	possible	JJ	_	8	conj
+22	.	.	.	_	8	punct
+

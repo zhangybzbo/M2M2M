@@ -1,0 +1,15 @@
+1	On	on	IN	_	8	prep
+2	17	17	CD	_	3	num
+3	May	May	NNP	_	1	pobj
+4	2005	2005	CD	_	3	num
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	committee	committee	NN	_	8	nsubj
+8	held	hold	VBD	_	0	ROOT
+9	a	a	DT	_	10	det
+10	hearing	hearing	NN	_	8	dobj
+11	concerning	concern	VBG	_	10	vmod
+12	specific	specific	JJ	_	13	amod
+13	allegations	allegation	NNS	_	11	dobj
+14	.	.	.	_	8	punct
+

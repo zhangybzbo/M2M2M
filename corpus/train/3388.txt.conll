@@ -1,0 +1,11 @@
+1	Alexandros	Alexandros	NNP	_	2	nsubj
+2	caught	catch	VBD	_	0	ROOT
+3	blade	blade	NN	_	2	dobj
+4	by	by	IN	_	2	prep
+5	the	the	DT	_	6	det
+6	haft	haft	NN	_	4	pobj
+7	as	as	IN	_	9	mark
+8	it	it	PRP	_	9	nsubj
+9	fell	fall	VBD	_	2	advcl
+10	.	.	.	_	2	punct
+

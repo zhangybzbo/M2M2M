@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	studentship	studentship	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	tax	tax	NN	_	8	nn
+7	free	free	JJ	_	8	amod
+8	bursary	bursary	NN	_	4	pobj
+9	of	of	IN	_	8	prep
+10	15290	15290	CD	_	12	num
+11	GBP	gbp	NN	_	12	nn
+12	pa	pa	NN	_	9	pobj
+13	plus	plus	CC	_	12	cc
+14	the	the	DT	_	15	det
+15	payment	payment	NN	_	12	conj
+16	of	of	IN	_	15	prep
+17	fees	fee	NNS	_	16	pobj
+18	for	for	IN	_	15	prep
+19	three	three	CD	_	20	num
+20	years	year	NNS	_	18	pobj
+21	.	.	.	_	3	punct
+

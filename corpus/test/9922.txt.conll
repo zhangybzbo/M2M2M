@@ -1,0 +1,27 @@
+1	``	``	``	_	9	punct
+2	Lagrima	Lagrima	NNP	_	4	nn
+3	Del	Del	NNP	_	4	nn
+4	Sol	Sol	NNP	_	9	nsubj
+5	''	''	''	_	9	punct
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	pineapple	pineapple	NN	_	9	nn
+9	wine	wine	NN	_	0	ROOT
+10	made	make	VBN	_	9	vmod
+11	from	from	IN	_	10	prep
+12	100	100	CD	_	13	number
+13	%	%	NN	_	16	amod
+14	fresh	fresh	JJ	_	16	amod
+15	pineapple	pineapple	NN	_	16	nn
+16	juice	juice	NN	_	11	pobj
+17	produced	produce	VBN	_	16	vmod
+18	in	in	IN	_	17	prep
+19	the	the	DT	_	23	det
+20	only	only	JJ	_	23	amod
+21	pineapple	pineapple	NN	_	23	nn
+22	production	production	NN	_	23	nn
+23	region	region	NN	_	18	pobj
+24	in	in	IN	_	23	prep
+25	Japan	Japan	NNP	_	24	pobj
+26	.	.	.	_	9	punct
+

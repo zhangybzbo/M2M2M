@@ -1,0 +1,15 @@
+1	Today	today	NN	_	4	dep
+2	it	it	PRP	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	proved	prove	VBN	_	0	ROOT
+5	Camp	Camp	NNP	_	10	nsubj
+6	is	be	VBZ	_	10	cop
+7	the	the	DT	_	10	det
+8	third	third	JJ	_	10	amod
+9	best	best	JJS	_	10	amod
+10	keeper	keeper	NN	_	4	ccomp
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	team	team	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

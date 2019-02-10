@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	distance	distance	NN	_	10	nsubj
+3	between	between	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	blog	blog	NN	_	6	nn
+6	writer	writer	NN	_	3	pobj
+7	and	and	CC	_	6	cc
+8	an	a	DT	_	9	det
+9	audience	audience	NN	_	6	conj
+10	happens	happen	VBZ	_	0	ROOT
+11	only	only	RB	_	16	advmod
+12	if	if	IN	_	16	mark
+13	the	the	DT	_	14	det
+14	audience	audience	NN	_	16	nsubj
+15	never	never	RB	_	16	neg
+16	shows	show	VBZ	_	10	advcl
+17	up	up	RP	_	16	prt
+18	.	.	.	_	10	punct
+

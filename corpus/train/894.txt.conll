@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det
+2	complete	complete	JJ	_	4	amod
+3	examination	examination	NN	_	4	nn
+4	process	process	NN	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	carried	carry	VBN	_	0	ROOT
+8	out	out	RP	_	7	prt
+9	according	accord	VBG	_	7	prep
+10	to	to	TO	_	9	pcomp
+11	the	the	DT	_	13	det
+12	pertinent	pertinent	JJ	_	13	amod
+13	directives	directive	NNS	_	10	pobj
+14	.	.	.	_	7	punct
+

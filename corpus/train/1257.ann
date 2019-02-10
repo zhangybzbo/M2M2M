@@ -1,0 +1,3 @@
+T1	Term 4 9	clock
+T2	Term 20 27	display
+R1	Component-Whole Arg1:T2 Arg2:T1

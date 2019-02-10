@@ -1,0 +1,14 @@
+1	Outbreaks	outbreak	NNS	_	11	nsubj
+2	caused	cause	VBN	_	1	vmod
+3	by	by	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	oral	oral	JJ	_	6	amod
+6	vaccine	vaccine	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	live	live	JJ	_	9	amod
+9	virus	virus	NN	_	3	pobj
+10	have	have	VBP	_	11	aux
+11	happened	happen	VBN	_	0	ROOT
+12	before	before	IN	_	11	advmod
+13	.	.	.	_	11	punct
+

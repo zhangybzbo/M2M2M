@@ -1,0 +1,18 @@
+1	Ansari	Ansari	NNP	_	3	nsubj
+2	allegdely	allegdely	RB	_	3	advmod
+3	bombed	bomb	VBD	_	0	ROOT
+4	Jhaveri	Jhaveri	NNP	_	5	nn
+5	Bazaar	Bazaar	NNP	_	3	dobj
+6	and	and	CC	_	5	cc
+7	the	the	DT	_	8	det
+8	family	family	NN	_	5	conj
+9	took	take	VBD	_	3	dep
+10	the	the	DT	_	11	det
+11	taxi	taxi	NN	_	9	dobj
+12	to	to	TO	_	9	prep
+13	the	the	DT	_	14	det
+14	Gateway	Gateway	NNP	_	12	pobj
+15	of	of	IN	_	14	prep
+16	India	India	NNP	_	15	pobj
+17	.	.	.	_	3	punct
+

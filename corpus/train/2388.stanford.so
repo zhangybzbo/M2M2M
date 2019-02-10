@@ -1,0 +1,13 @@
+0	74	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="nuclear" pos="JJ" amod="t1"
+8	16	tok id="t1" base="material" pos="NN" nsubjpass="t6"
+17	19	tok id="t2" base="of" pos="IN" prep="t1"
+20	31	tok id="t3" base="trypanosoma" pos="NN" nn="t4"
+32	38	tok id="t4" base="bruceus" pos="NN" pobj="t2"
+39	41	tok id="t5" base="be" pos="VBZ" auxpass="t6"
+42	50	tok id="t6" base="import" pos="VBN" ROOT="ROOT"
+51	55	tok id="t7" base="into" pos="IN" prep="t6"
+56	59	tok id="t8" base="the" pos="DT" det="t9"
+60	72	tok id="t9" base="mitochondrium" pos="NN" pobj="t7"
+73	74	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

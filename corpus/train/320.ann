@@ -1,0 +1,3 @@
+T1	Term 12 16	fear
+T2	Term 22 27	crowd
+R1	Cause-Effect Arg1:T2 Arg2:T1

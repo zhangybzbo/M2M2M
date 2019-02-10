@@ -1,0 +1,12 @@
+1	Typically	typically	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	employees	employee	NNS	_	4	nsubj
+4	attend	attend	VBP	_	0	ROOT
+5	a	a	DT	_	7	det
+6	day-long	day-long	JJ	_	7	amod
+7	course	course	NN	_	4	dobj
+8	explaining	explain	VBG	_	7	vmod
+9	the	the	DT	_	10	det
+10	initiative	initiative	NN	_	8	dobj
+11	.	.	.	_	4	punct
+

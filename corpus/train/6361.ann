@@ -1,0 +1,3 @@
+T1	Term 4 11	painter
+T2	Term 35 42	figures
+R1	Product-Producer Arg1:T2 Arg2:T1

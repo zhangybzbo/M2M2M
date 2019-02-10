@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	galaxy	galaxy	NN	_	12	nsubj
+3	of	of	IN	_	2	prep
+4	legendary	legendary	JJ	_	5	amod
+5	figures	figure	NNS	_	3	pobj
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	annals	annals	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	Western	western	JJ	_	11	amod
+11	history	history	NN	_	9	pobj
+12	comes	come	VBZ	_	0	ROOT
+13	to	to	TO	_	12	prep
+14	life	life	NN	_	13	pobj
+15	in	in	IN	_	12	prep
+16	this	this	DT	_	18	det
+17	stirring	stir	VBG	_	18	amod
+18	sequel	sequel	NN	_	15	pobj
+19	to	to	TO	_	18	prep
+20	Intellectuals	Intellectuals	NNPS	_	19	pobj
+21	and	and	CC	_	20	cc
+22	Creators	Creators	NNPS	_	20	conj
+23	.	.	.	_	12	punct
+

@@ -1,0 +1,1 @@
+A user inputs spatio-temporal information intuitively by using gestures .

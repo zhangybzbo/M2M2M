@@ -1,0 +1,13 @@
+1	As	as	IN	_	3	mark
+2	she	she	PRP	_	3	nsubj
+3	looked	look	VBD	_	7	advcl
+4	up	up	RP	_	3	prt
+5	,	,	,	_	7	punct
+6	she	she	PRP	_	7	nsubj
+7	saw	see	VBD	_	0	ROOT
+8	a	a	DT	_	9	det
+9	flight	flight	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	stairs	stair	NNS	_	10	pobj
+12	.	.	.	_	7	punct
+

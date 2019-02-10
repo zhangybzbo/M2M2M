@@ -1,0 +1,9 @@
+1	My	my	PRP$	_	2	poss
+2	guns	gun	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	locked	lock	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	my	my	PRP$	_	7	poss
+7	room	room	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

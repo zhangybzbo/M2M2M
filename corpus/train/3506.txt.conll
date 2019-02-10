@@ -1,0 +1,11 @@
+1	He	he	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	arranged	arrange	VBN	_	0	ROOT
+4	a	a	DT	_	6	det
+5	new	new	JJ	_	6	amod
+6	brigade	brigade	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	Irish	irish	JJ	_	9	amod
+9	volunteers	volunteer	NNS	_	7	pobj
+10	.	.	.	_	3	punct
+

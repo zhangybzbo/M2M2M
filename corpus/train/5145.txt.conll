@@ -1,0 +1,22 @@
+1	In	in	IN	_	10	prep
+2	those	those	DT	_	4	det
+3	five	five	CD	_	4	num
+4	years	year	NNS	_	1	pobj
+5	,	,	,	_	10	punct
+6	a	a	DT	_	8	det
+7	drug	drug	NN	_	8	nn
+8	developer	developer	NN	_	10	nsubj
+9	must	must	MD	_	10	aux
+10	make	make	VB	_	0	ROOT
+11	enough	enough	JJ	_	12	amod
+12	profit	profit	NN	_	10	dobj
+13	to	to	TO	_	14	aux
+14	recover	recover	VB	_	12	vmod
+15	costs	cost	NNS	_	14	dobj
+16	and	and	CC	_	14	cc
+17	replenish	replenish	VB	_	14	conj
+18	its	its	PRP$	_	20	poss
+19	research	research	NN	_	20	nn
+20	budget	budget	NN	_	17	dobj
+21	.	.	.	_	10	punct
+

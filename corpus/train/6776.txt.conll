@@ -1,0 +1,13 @@
+1	50	50	CD	_	2	num
+2	cents	cent	NNS	_	8	nsubjpass
+3	from	from	IN	_	2	prep
+4	every	every	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	sold	sell	VBN	_	5	vmod
+7	are	be	VBP	_	8	auxpass
+8	invested	invest	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	sustainability	sustainability	NN	_	11	nn
+11	initiatives	initiative	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

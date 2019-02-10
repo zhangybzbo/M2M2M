@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	filters	filter	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	going	go	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	people	people	NNS	_	9	poss
+7	's	's	POS	_	6	possessive
+8	blood	blood	NN	_	9	nn
+9	streams	stream	NNS	_	5	pobj
+10	.	.	.	_	4	punct
+

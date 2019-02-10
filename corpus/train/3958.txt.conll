@@ -1,0 +1,23 @@
+1	This	this	DT	_	2	det
+2	paper	paper	NN	_	3	nsubj
+3	surveys	survey	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	behaviour	behaviour	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	industry	industry	NN	_	6	pobj
+9	from	from	IN	_	3	prep
+10	its	its	PRP$	_	11	poss
+11	origins	origin	NNS	_	9	pobj
+12	to	to	TO	_	3	prep
+13	the	the	DT	_	14	det
+14	present	present	JJ	_	12	pobj
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	perspective	perspective	NN	_	15	pobj
+18	informed	inform	VBN	_	17	vmod
+19	by	by	IN	_	18	prep
+20	current	current	JJ	_	21	amod
+21	developments	development	NNS	_	19	pobj
+22	.	.	.	_	3	punct
+

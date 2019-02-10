@@ -1,0 +1,1 @@
+The frame encloses a rectangular picture that has the same area as the frame itself .

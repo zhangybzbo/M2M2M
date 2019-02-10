@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	det
+2	website	website	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	dedicated	dedicate	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	providing	provide	VBG	_	5	pcomp
+7	quality	quality	NN	_	8	nn
+8	addiction	addiction	NN	_	6	dobj
+9	related	related	JJ	_	10	amod
+10	information	information	NN	_	8	dep
+11	and	and	CC	_	10	cc
+12	drug	drug	NN	_	10	conj
+13	and	and	CC	_	10	cc
+14	alcohol	alcohol	NN	_	17	nn
+15	treatment	treatment	NN	_	17	nn
+16	program	program	NN	_	17	nn
+17	listings	listing	NNS	_	10	conj
+18	.	.	.	_	4	punct
+

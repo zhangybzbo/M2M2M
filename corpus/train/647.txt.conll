@@ -1,0 +1,15 @@
+1	Some	some	DT	_	6	nsubj
+2	of	of	IN	_	1	prep
+3	these	these	DT	_	5	det
+4	conspiracy	conspiracy	NN	_	5	nn
+5	theories	theory	NNS	_	2	pobj
+6	allege	allege	VBP	_	0	ROOT
+7	that	that	IN	_	13	mark
+8	his	he	PRP$	_	10	poss
+9	birth	birth	NN	_	10	nn
+10	certificate	certificate	NN	_	13	nsubj
+11	is	be	VBZ	_	13	cop
+12	a	a	DT	_	13	det
+13	forgery	forgery	NN	_	6	ccomp
+14	.	.	.	_	6	punct
+

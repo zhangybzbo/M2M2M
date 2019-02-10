@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det
+2	dissertation	dissertation	NN	_	3	nsubj
+3	examines	examine	VBZ	_	0	ROOT
+4	four	four	CD	_	5	num
+5	romances	romance	NNS	_	3	dobj
+6	copied	copy	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	scribe	scribe	NN	_	7	pobj
+10	himself	himself	PRP	_	9	npadvmod
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	politicians	politician	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	taken	take	VBN	_	0	ROOT
+5	people	people	NNS	_	4	dobj
+6	deep	deep	RB	_	7	advmod
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	10	det
+9	twilight	twilight	NN	_	10	nn
+10	zone	zone	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

@@ -1,0 +1,12 @@
+0	49	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="Mail" pos="NNP" nsubjpass="t2"
+5	8	tok id="t1" base="be" pos="VBD" auxpass="t2"
+9	18	tok id="t2" base="deliver" pos="VBN" ROOT="ROOT"
+19	23	tok id="t3" base="from" pos="IN" prep="t2"
+24	27	tok id="t4" base="the" pos="DT" det="t5"
+28	32	tok id="t5" base="city" pos="NN" pobj="t3"
+33	37	tok id="t6" base="once" pos="RB" advmod="t8"
+38	42	tok id="t7" base="each" pos="DT" det="t8"
+43	47	tok id="t8" base="week" pos="NN" tmod="t2"
+48	49	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,10 @@
+1	My	my	PRP$	_	2	poss
+2	father	father	NN	_	3	nsubj
+3	spent	spend	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	money	money	NN	_	3	dobj
+6	on	on	IN	_	3	prep
+7	his	he	PRP$	_	8	poss
+8	company	company	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

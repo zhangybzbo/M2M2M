@@ -1,0 +1,14 @@
+1	Lina	Lina	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	incredible	incredible	JJ	_	4	amod
+4	story	story	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	documented	document	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	contemporaneous	contemporaneous	JJ	_	9	amod
+9	reports	report	NNS	_	7	pobj
+10	by	by	IN	_	9	prep
+11	Edmundo	Edmundo	NNP	_	12	nn
+12	Escomel	Escomel	NNP	_	10	pobj
+13	.	.	.	_	6	punct
+

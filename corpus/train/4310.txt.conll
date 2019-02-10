@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	script	script	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	drawn	draw	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	his	he	PRP$	_	8	poss
+7	own	own	JJ	_	8	amod
+8	childhood	childhood	NN	_	5	pobj
+9	when	when	WRB	_	11	advmod
+10	he	he	PRP	_	11	nsubj
+11	felt	feel	VBD	_	4	advcl
+12	that	that	IN	_	17	mark
+13	his	he	PRP$	_	14	poss
+14	father	father	NN	_	17	nsubj
+15	could	could	MD	_	17	aux
+16	n't	not	RB	_	17	neg
+17	understand	understand	VB	_	11	ccomp
+18	his	he	PRP$	_	19	poss
+19	feelings	feeling	NNS	_	17	dobj
+20	and	and	CC	_	19	cc
+21	emotions	emotion	NNS	_	19	conj
+22	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	As	as	IN	_	7	prep
+2	a	a	DT	_	3	det
+3	fraternity	fraternity	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	adults	adult	NNS	_	4	pobj
+6	we	we	PRP	_	7	nsubj
+7	have	have	VBP	_	0	ROOT
+8	a	a	DT	_	9	det
+9	right	right	NN	_	7	dobj
+10	to	to	TO	_	11	aux
+11	question	question	VB	_	9	vmod
+12	the	the	DT	_	13	det
+13	GM	GM	NNP	_	11	dobj
+14	,	,	,	_	7	punct
+15	and	and	CC	_	7	cc
+16	should	should	MD	_	17	aux
+17	expect	expect	VB	_	7	conj
+18	a	a	DT	_	20	det
+19	reasonable	reasonable	JJ	_	20	amod
+20	response	response	NN	_	17	dobj
+21	.	.	.	_	7	punct
+

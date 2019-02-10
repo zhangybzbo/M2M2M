@@ -1,0 +1,14 @@
+1	Calluses	callus	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	improperly	improperly	RB	_	6	advmod
+6	fitting	fitting	JJ	_	7	amod
+7	shoes	shoe	NNS	_	4	pobj
+8	or	or	CC	_	4	cc
+9	by	by	IN	_	4	conj
+10	a	a	DT	_	12	det
+11	skin	skin	NN	_	12	nn
+12	abnormality	abnormality	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

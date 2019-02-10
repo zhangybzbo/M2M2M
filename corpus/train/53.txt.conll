@@ -1,0 +1,12 @@
+1	A	a	DT	_	3	det
+2	neoplastic	neoplastic	JJ	_	3	amod
+3	recurrence	recurrence	NN	_	4	nsubj
+4	arose	arise	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	extensive	extensive	JJ	_	8	amod
+8	radiation	radiation	NN	_	5	pobj
+9	induced	induce	VBD	_	8	vmod
+10	ulceration	ulceration	NN	_	9	dobj
+11	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	Lot	lot	NN	_	2	nsubj
+2	means	mean	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	share	share	NN	_	2	dobj
+5	in	in	IN	_	4	prep
+6	eschatological	eschatological	JJ	_	7	amod
+7	salvation	salvation	NN	_	5	pobj
+8	that	that	WDT	_	10	dobj
+9	God	God	NNP	_	10	nsubj
+10	gives	give	VBZ	_	7	rcmod
+11	to	to	TO	_	10	prep
+12	each	each	DT	_	14	det
+13	individual	individual	JJ	_	14	amod
+14	believer	believer	NN	_	11	pobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	communion	communion	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	all	all	DT	_	20	det
+20	believers	believer	NNS	_	18	pobj
+21	.	.	.	_	2	punct
+

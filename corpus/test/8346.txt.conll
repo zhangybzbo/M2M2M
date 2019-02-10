@@ -1,0 +1,8 @@
+1	Cat	cat	NN	_	2	nn
+2	toy	toy	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	filled	fill	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	trash	trash	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

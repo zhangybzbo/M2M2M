@@ -1,0 +1,26 @@
+1	Unlike	unlike	IN	_	0	ROOT
+2	most	most	JJS	_	1	pobj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	annual	annual	JJ	_	6	amod
+6	showers	shower	NNS	_	3	pobj
+7	the	the	DT	_	9	det
+8	antihelion	antihelion	JJ	_	9	amod
+9	radiant	radiant	JJ	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	produced	produce	VBN	_	6	rcmod
+12	by	by	IN	_	11	prep
+13	debris	debris	NN	_	12	pobj
+14	from	from	IN	_	11	prep
+15	unknown	unknown	JJ	_	16	amod
+16	sources	source	NNS	_	14	pobj
+17	orbiting	orbit	VBG	_	16	vmod
+18	in	in	IN	_	17	prep
+19	a	a	DT	_	21	det
+20	direct	direct	JJ	_	21	amod
+21	motion	motion	NN	_	18	pobj
+22	like	like	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	earth	earth	NN	_	22	pobj
+25	.	.	.	_	1	punct
+

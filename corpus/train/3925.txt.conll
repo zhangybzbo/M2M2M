@@ -1,0 +1,18 @@
+1	I	I	PRP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	walking	walk	VBG	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	beach	beach	NN	_	4	pobj
+7	today	today	NN	_	3	tmod
+8	and	and	CC	_	3	cc
+9	found	find	VBD	_	3	conj
+10	a	a	DT	_	12	det
+11	plastic	plastic	JJ	_	12	amod
+12	bottle	bottle	NN	_	9	dobj
+13	with	with	IN	_	12	prep
+14	paper	paper	NN	_	13	pobj
+15	in	in	IN	_	9	prep
+16	it	it	PRP	_	15	pobj
+17	.	.	.	_	3	punct
+

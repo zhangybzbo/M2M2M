@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	noted	note	VBD	_	0	ROOT
+3	that	that	IN	_	12	mark
+4	,	,	,	_	12	punct
+5	before	before	IN	_	12	prep
+6	printing	printing	NN	_	5	pobj
+7	,	,	,	_	12	punct
+8	key	key	JJ	_	9	amod
+9	phrases	phrase	NNS	_	12	nsubjpass
+10	had	have	VBD	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	deleted	delete	VBN	_	2	ccomp
+13	that	that	WDT	_	17	nsubjpass
+14	had	have	VBD	_	17	aux
+15	earlier	earlier	RB	_	17	advmod
+16	been	be	VBN	_	17	auxpass
+17	approved	approve	VBN	_	12	ccomp
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	draft	draft	NN	_	23	poss
+21	's	's	POS	_	20	possessive
+22	several	several	JJ	_	23	amod
+23	scientist-authors	scientist-author	NNS	_	18	pobj
+24	.	.	.	_	2	punct
+

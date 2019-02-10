@@ -1,0 +1,10 @@
+1	Zook	Zook	NNP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	ax	ax	NN	_	2	dobj
+5	to	to	TO	_	2	prep
+6	the	the	DT	_	8	det
+7	coaching	coaching	NN	_	8	nn
+8	staff	staff	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

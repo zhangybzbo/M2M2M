@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	motet	motet	NN	_	3	nsubj
+3	grows	grow	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	10	det
+6	short	short	JJ	_	10	amod
+7	,	,	,	_	10	punct
+8	sparse	sparse	JJ	_	10	amod
+9	germinal	germinal	JJ	_	10	amod
+10	idea	idea	NN	_	4	pobj
+11	in	in	IN	_	10	prep
+12	which	which	WDT	_	11	pobj
+13	the	the	DT	_	14	det
+14	intervals	interval	NNS	_	11	dep
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	tone	tone	NN	_	15	pobj
+18	,	,	,	_	14	punct
+19	semitone	semitone	NN	_	14	conj
+20	and	and	CC	_	14	cc
+21	augmented	augment	VBD	_	14	conj
+22	fourth	fourth	JJ	_	21	acomp
+23	predominate	predominate	VBP	_	22	dep
+24	.	.	.	_	3	punct
+

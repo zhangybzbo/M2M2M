@@ -1,0 +1,10 @@
+1	Apricot	Apricot	NNP	_	2	nn
+2	marmalade	marmalade	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	effective	effective	JJ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	treating	treat	VBG	_	5	pcomp
+7	emotional	emotional	JJ	_	8	amod
+8	indigestion	indigestion	NN	_	6	dobj
+9	.	.	.	_	4	punct
+

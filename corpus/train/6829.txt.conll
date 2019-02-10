@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	quilting	quilting	NN	_	3	nn
+3	tradition	tradition	NN	_	8	nsubj
+4	in	in	IN	_	3	prep
+5	Gee	Gee	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	Bend	Bend	NNP	_	4	pobj
+8	goes	go	VBZ	_	0	ROOT
+9	back	back	RB	_	8	advmod
+10	to	to	TO	_	9	prep
+11	the	the	DT	_	12	det
+12	1800s	1800	NNS	_	10	pobj
+13	,	,	,	_	12	punct
+14	when	when	WRB	_	16	advmod
+15	slaves	slave	NNS	_	16	nsubj
+16	fashioned	fashion	VBD	_	12	rcmod
+17	bedcovers	bedcover	NNS	_	16	dobj
+18	out	out	IN	_	16	prep
+19	of	of	IN	_	18	pcomp
+20	strips	strip	NNS	_	19	pobj
+21	of	of	IN	_	20	prep
+22	cloth	cloth	NN	_	21	pobj
+23	.	.	.	_	8	punct
+

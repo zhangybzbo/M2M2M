@@ -1,0 +1,12 @@
+0	77	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="disposed" pos="JJ" amod="t2"
+9	26	tok id="t1" base="perchlorate-based" pos="JJ" amod="t2"
+27	35	tok id="t2" base="product" pos="NNS" nsubj="t4"
+36	40	tok id="t3" base="have" pos="VBP" aux="t4"
+41	49	tok id="t4" base="release" pos="VBN" ROOT="ROOT"
+50	61	tok id="t5" base="perchlorate" pos="NN" dobj="t4"
+62	66	tok id="t6" base="into" pos="IN" prep="t4"
+67	70	tok id="t7" base="the" pos="DT" det="t8"
+71	75	tok id="t8" base="soil" pos="NN" pobj="t6"
+76	77	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

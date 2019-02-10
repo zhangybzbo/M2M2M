@@ -1,0 +1,3 @@
+T1	Term 151 156	waste
+T2	Term 183 194	metal drums
+R1	Content-Container Arg1:T1 Arg2:T2

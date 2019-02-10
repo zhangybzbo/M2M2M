@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	spring	spring	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	gravimeter	gravimeter	NN	_	3	pobj
+6	must	must	MD	_	7	aux
+7	extend	extend	VB	_	0	ROOT
+8	some	some	DT	_	9	det
+9	more	more	JJR	_	7	dobj
+10	to	to	TO	_	11	aux
+11	accommodate	accommodate	VB	_	7	vmod
+12	the	the	DT	_	14	det
+13	larger	larger	JJR	_	14	amod
+14	weight	weight	NN	_	11	dobj
+15	.	.	.	_	7	punct
+

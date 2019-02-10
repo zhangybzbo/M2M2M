@@ -1,0 +1,19 @@
+1	Case	case	NN	_	2	nn
+2	studies	study	NNS	_	11	nsubj
+3	,	,	,	_	2	punct
+4	some	some	DT	_	7	det
+5	of	of	IN	_	4	prep
+6	them	they	PRP	_	5	pobj
+7	book	book	NN	_	2	appos
+8	long	long	RB	_	7	advmod
+9	,	,	,	_	2	punct
+10	have	have	VBP	_	11	aux
+11	made	make	VBN	_	0	ROOT
+12	a	a	DT	_	14	det
+13	notable	notable	JJ	_	14	amod
+14	contribution	contribution	NN	_	11	dobj
+15	to	to	TO	_	14	prep
+16	scientific	scientific	JJ	_	17	amod
+17	medicine	medicine	NN	_	15	pobj
+18	.	.	.	_	11	punct
+

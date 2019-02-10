@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	kept	keep	VBD	_	0	ROOT
+3	my	my	PRP$	_	6	poss
+4	mobile	mobile	JJ	_	6	amod
+5	-LRB-	-lrb-	-LRB-	_	6	punct
+6	cellphone	cellphone	NN	_	2	dobj
+7	-RRB-	-rrb-	-RRB-	_	2	punct
+8	in	in	IN	_	2	prep
+9	the	the	DT	_	11	det
+10	same	same	JJ	_	11	amod
+11	pocket	pocket	NN	_	8	pobj
+12	in	in	IN	_	11	prep
+13	my	my	PRP$	_	14	poss
+14	trousers	trousers	NNS	_	12	pobj
+15	-LRB-	-lrb-	-LRB-	_	16	punct
+16	pants	pants	NNS	_	14	appos
+17	-RRB-	-rrb-	-RRB-	_	16	punct
+18	.	.	.	_	2	punct
+

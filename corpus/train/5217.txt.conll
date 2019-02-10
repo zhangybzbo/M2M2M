@@ -1,0 +1,23 @@
+1	She	she	PRP	_	2	nsubj
+2	lost	lose	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	propellor	propellor	NN	_	5	nn
+5	blade	blade	NN	_	2	dobj
+6	going	go	VBG	_	5	vmod
+7	through	through	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	Bay	Bay	NNP	_	7	pobj
+10	of	of	IN	_	9	prep
+11	Biscay	Biscay	NNP	_	10	pobj
+12	and	and	CC	_	2	cc
+13	was	be	VBD	_	14	auxpass
+14	taken	take	VBN	_	2	conj
+15	in	in	IN	_	14	prep
+16	tow	tow	NN	_	15	pobj
+17	arriving	arrive	VBG	_	14	xcomp
+18	Gibraltar	Gibraltar	NNP	_	21	nn
+19	2pm	2pm	JJ	_	21	amod
+20	6th	6th	JJ	_	21	amod
+21	March	March	NNP	_	17	tmod
+22	.	.	.	_	2	punct
+

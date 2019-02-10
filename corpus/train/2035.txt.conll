@@ -1,0 +1,25 @@
+1	Real	real	JJ	_	3	amod
+2	working	work	VBG	_	3	amod
+3	cowboys	cowboy	NNS	_	0	ROOT
+4	,	,	,	_	3	punct
+5	who	who	WP	_	7	nsubjpass
+6	are	be	VBP	_	7	auxpass
+7	hired	hire	VBN	_	3	rcmod
+8	to	to	TO	_	9	aux
+9	take	take	VB	_	7	xcomp
+10	a	a	DT	_	9	dobj
+11	drove	drive	VBN	_	10	amod
+12	of	of	IN	_	11	prep
+13	cattle	cattle	NNS	_	12	pobj
+14	to	to	TO	_	11	prep
+15	market	market	NN	_	14	pobj
+16	,	,	,	_	11	punct
+17	have	have	VBP	_	11	dep
+18	a	a	DT	_	23	det
+19	very	very	RB	_	20	advmod
+20	difficult	difficult	JJ	_	23	amod
+21	and	and	CC	_	20	cc
+22	strenuous	strenuous	JJ	_	20	conj
+23	job	job	NN	_	17	dobj
+24	.	.	.	_	3	punct
+

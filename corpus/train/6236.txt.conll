@@ -1,0 +1,13 @@
+1	HC	hc	NN	_	2	nn
+2	lawyers	lawyer	NNS	_	3	nsubj
+3	entered	enter	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	scuffle	scuffle	NN	_	4	pobj
+7	over	over	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	division	division	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	AP	ap	NN	_	10	pobj
+12	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+0	61	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="Novomer" pos="NNP" poss="t4"
+8	10	tok id="t1" base="'s" pos="POS" possessive="t0"
+11	18	tok id="t2" base="cleaner" pos="JJR" amod="t4"
+19	26	tok id="t3" base="burning" pos="NN" nn="t4"
+27	33	tok id="t4" base="binder" pos="NN" nsubj="t5"
+34	38	tok id="t5" base="go" pos="VBZ" ROOT="ROOT"
+39	43	tok id="t6" base="into" pos="IN" prep="t5"
+44	52	tok id="t7" base="customer" pos="NN" nn="t8"
+53	59	tok id="t8" base="trial" pos="NNS" pobj="t6"
+60	61	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	ride	ride	NN	_	3	nsubj
+3	starts	start	VBZ	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	the	the	DT	_	12	det
+6	large	large	JJ	_	12	amod
+7	Bryce	Bryce	NNP	_	12	nn
+8	Canyon	Canyon	NNP	_	12	nn
+9	National	National	NNP	_	12	nn
+10	Park	Park	NNP	_	12	nn
+11	boundary	boundary	NN	_	12	nn
+12	sign	sign	NN	_	4	pobj
+13	on	on	IN	_	12	prep
+14	Hwy	Hwy	NNP	_	13	pobj
+15	63	63	CD	_	14	num
+16	.	.	.	_	3	punct
+

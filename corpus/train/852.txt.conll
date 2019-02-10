@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	answers	answer	NNS	_	11	nsubjpass
+3	to	to	TO	_	2	prep
+4	questions	question	NNS	_	3	pobj
+5	raised	raise	VBN	_	4	vmod
+6	about	about	IN	_	5	prep
+7	rules	rule	NNS	_	6	pobj
+8	governing	govern	VBG	_	7	vmod
+9	immigration	immigration	NN	_	8	dobj
+10	were	be	VBD	_	11	auxpass
+11	wheeled	wheel	VBN	_	0	ROOT
+12	out	out	IN	_	11	prep
+13	one	one	CD	_	12	pobj
+14	after	after	IN	_	11	prep
+15	another	another	DT	_	14	pobj
+16	.	.	.	_	11	punct
+

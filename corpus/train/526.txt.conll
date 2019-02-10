@@ -1,0 +1,16 @@
+1	Letters	letter	NNS	_	4	nsubjpass
+2	were	be	VBD	_	4	aux
+3	be	be	VB	_	4	auxpass
+4	submitted	submit	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	5	5	CD	_	7	num
+7	p.m.	p.m.	NN	_	5	pobj
+8	on	on	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	Wednesday	Wednesday	NNP	_	8	pobj
+11	before	before	IN	_	4	prep
+12	publication	publication	NN	_	11	pobj
+13	by	by	IN	_	12	prep
+14	mail	mail	NN	_	13	pobj
+15	.	.	.	_	4	punct
+

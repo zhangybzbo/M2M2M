@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	wind	wind	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	neat	neat	JJ	_	6	amod
+6	effect	effect	NN	_	3	dobj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	smoke	smoke	NN	_	10	nn
+10	clouds	cloud	NNS	_	7	pobj
+11	though	though	RB	_	3	advmod
+12	,	,	,	_	13	punct
+13	causing	cause	VBG	_	11	dep
+14	a	a	DT	_	15	det
+15	corkscrew	corkscrew	NN	_	13	dobj
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	20	det
+18	otherwise	otherwise	RB	_	19	advmod
+19	straight	straight	JJ	_	20	amod
+20	line	line	NN	_	16	pobj
+21	.	.	.	_	13	punct
+

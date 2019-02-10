@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	7	nsubj
+3	holding	hold	VBG	_	2	vmod
+4	a	a	DT	_	6	det
+5	small	small	JJ	_	6	amod
+6	toddler	toddler	NN	_	3	dobj
+7	ran	run	VBD	_	0	ROOT
+8	away	away	RB	_	7	advmod
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	beach	beach	NN	_	9	pobj
+12	as	as	IN	_	7	prep
+13	fast	fast	JJ	_	12	pobj
+14	as	as	IN	_	16	mark
+15	he	he	PRP	_	16	nsubj
+16	could	could	MD	_	7	advcl
+17	,	,	,	_	18	punct
+18	calling	call	VBG	_	16	dep
+19	out	out	RP	_	18	prt
+20	:	:	:	_	18	punct
+21	``	``	``	_	22	punct
+22	tsunami	tsunami	NN	_	18	dep
+23	!	!	.	_	22	punct
+24	''	''	''	_	22	punct
+25	.	.	.	_	18	punct
+

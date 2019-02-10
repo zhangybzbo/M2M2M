@@ -1,0 +1,13 @@
+1	Storms	storm	NNS	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	earthquakes	earthquake	NNS	_	1	conj
+4	lead	lead	VBP	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	8	det
+7	second-highest	second-highest	JJ	_	8	amod
+8	losses	loss	NNS	_	5	pobj
+9	in	in	IN	_	8	prep
+10	insurance	insurance	NN	_	11	nn
+11	history	history	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

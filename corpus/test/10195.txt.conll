@@ -1,0 +1,8 @@
+1	Doctor	doctor	NN	_	2	nsubj
+2	saves	save	VBZ	_	0	ROOT
+3	boy	boy	NN	_	2	dobj
+4	with	with	IN	_	2	prep
+5	a	a	DT	_	6	det
+6	drill	drill	NN	_	4	pobj
+7	.	.	.	_	2	punct
+

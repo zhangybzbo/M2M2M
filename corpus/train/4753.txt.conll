@@ -1,0 +1,25 @@
+1	We	we	PRP	_	3	nsubj
+2	currently	currently	RB	_	3	advmod
+3	store	store	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	mixture	mixture	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	covered	covered	JJ	_	9	amod
+9	container	container	NN	_	6	pobj
+10	in	in	IN	_	3	prep
+11	the	the	DT	_	12	det
+12	refrigerator	refrigerator	NN	_	10	pobj
+13	and	and	CC	_	3	cc
+14	we	we	PRP	_	16	nsubj
+15	will	will	MD	_	16	aux
+16	use	use	VB	_	3	conj
+17	it	it	PRP	_	16	dobj
+18	up	up	RP	_	16	prt
+19	within	within	IN	_	16	prep
+20	a	a	DT	_	21	det
+21	couple	couple	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	days	day	NNS	_	22	pobj
+24	.	.	.	_	3	punct
+

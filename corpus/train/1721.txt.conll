@@ -1,0 +1,13 @@
+1	Lambert	Lambert	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	wartime	wartime	JJ	_	4	amod
+4	experiences	experience	NNS	_	6	nsubjpass
+5	were	be	VBD	_	6	auxpass
+6	related	relate	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	his	he	PRP$	_	11	poss
+9	excellent	excellent	JJ	_	11	amod
+10	1973	1973	CD	_	11	num
+11	memoir	memoir	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

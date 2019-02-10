@@ -1,0 +1,14 @@
+1	Old	old	JJ	_	2	amod
+2	pickups	pickup	NNS	_	6	nsubjpass
+3	and	and	CC	_	2	cc
+4	SUVs	suv	NNS	_	2	conj
+5	were	be	VBD	_	6	auxpass
+6	stacked	stack	VBN	_	0	ROOT
+7	up	up	RP	_	6	prt
+8	in	in	IN	_	6	prep
+9	clunker	clunker	NN	_	10	nn
+10	piles	pile	NNS	_	8	pobj
+11	by	by	IN	_	6	prep
+12	dealers	dealer	NNS	_	11	pobj
+13	.	.	.	_	6	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	shows	show	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	marred	mar	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	some	some	DT	_	7	det
+7	controversy	controversy	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	regard	regard	NN	_	8	pobj
+10	to	to	TO	_	9	prep
+11	tickets	ticket	NNS	_	10	pobj
+12	.	.	.	_	4	punct
+

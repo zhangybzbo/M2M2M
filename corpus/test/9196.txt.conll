@@ -1,0 +1,20 @@
+1	She	she	PRP	_	2	nsubj
+2	began	begin	VBD	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	create	create	VB	_	2	xcomp
+5	a	a	DT	_	6	det
+6	brew	brew	NN	_	4	dobj
+7	in	in	IN	_	4	prep
+8	her	she	PRP$	_	9	poss
+9	cauldron	cauldron	NN	_	7	pobj
+10	,	,	,	_	2	punct
+11	that	that	WDT	_	13	nsubj
+12	would	would	MD	_	13	aux
+13	take	take	VB	_	2	ccomp
+14	an	a	DT	_	16	det
+15	entire	entire	JJ	_	16	amod
+16	year	year	NN	_	13	tmod
+17	to	to	TO	_	18	aux
+18	prepare	prepare	VB	_	13	xcomp
+19	.	.	.	_	2	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	weather	weather	NN	_	8	nsubj
+3	is	be	VBZ	_	8	cop
+4	still	still	RB	_	8	advmod
+5	the	the	DT	_	8	det
+6	main	main	JJ	_	8	amod
+7	talking	talking	NN	_	8	nn
+8	point	point	NN	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	front	front	JJ	_	12	amod
+12	pages	page	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

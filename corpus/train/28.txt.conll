@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	gives	give	VBZ	_	0	ROOT
+4	details	detail	NNS	_	3	dobj
+5	on	on	IN	_	4	prep
+6	2004	2004	CD	_	5	pobj
+7	in	in	IN	_	4	prep
+8	music	music	NN	_	7	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	United	United	NNP	_	12	nn
+12	Kingdom	Kingdom	NNP	_	9	pobj
+13	,	,	,	_	4	punct
+14	including	include	VBG	_	4	prep
+15	the	the	DT	_	17	det
+16	official	official	JJ	_	17	amod
+17	charts	chart	NNS	_	14	pobj
+18	from	from	IN	_	17	prep
+19	that	that	DT	_	20	det
+20	year	year	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

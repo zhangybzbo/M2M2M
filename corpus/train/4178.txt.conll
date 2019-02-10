@@ -1,0 +1,16 @@
+1	In	in	IN	_	8	prep
+2	conclusion	conclusion	NN	_	1	pobj
+3	,	,	,	_	8	punct
+4	incubation	incubation	NN	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	aorta	aorta	NN	_	5	pobj
+8	produces	produce	VBZ	_	0	ROOT
+9	a	a	DT	_	11	det
+10	specific	specific	JJ	_	11	amod
+11	reduction	reduction	NN	_	8	dobj
+12	in	in	IN	_	11	prep
+13	agonist-evoked	agonist-evoked	JJ	_	14	amod
+14	contraction	contraction	NN	_	12	pobj
+15	.	.	.	_	8	punct
+

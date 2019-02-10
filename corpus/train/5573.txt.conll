@@ -1,0 +1,20 @@
+1	It	it	PRP	_	6	nsubj
+2	's	be	VBZ	_	6	cop
+3	basically	basically	RB	_	6	advmod
+4	just	just	RB	_	6	advmod
+5	a	a	DT	_	6	det
+6	shack	shack	NN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	fridge	fridge	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	some	some	DT	_	13	det
+12	fosters	foster	NNS	_	13	nn
+13	beers	beer	NNS	_	9	conj
+14	stacked	stack	VBD	_	6	dep
+15	up	up	RP	_	14	prt
+16	the	the	DT	_	18	det
+17	back	back	JJ	_	18	amod
+18	wall	wall	NN	_	14	dobj
+19	.	.	.	_	6	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	part	part	NN	_	4	nsubj
+4	gives	give	VBZ	_	0	ROOT
+5	an	a	DT	_	6	det
+6	introduction	introduction	NN	_	4	dobj
+7	to	to	TO	_	6	prep
+8	safety	safety	NN	_	9	nn
+9	techniques	technique	NNS	_	7	pobj
+10	,	,	,	_	9	punct
+11	where	where	WRB	_	14	advmod
+12	risk	risk	NN	_	13	nn
+13	analysis	analysis	NN	_	14	nsubj
+14	plays	play	VBZ	_	9	rcmod
+15	an	a	DT	_	17	det
+16	important	important	JJ	_	17	amod
+17	part	part	NN	_	14	dobj
+18	.	.	.	_	4	punct
+

@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	country	country	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	sinking	sink	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	turmoil	turmoil	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

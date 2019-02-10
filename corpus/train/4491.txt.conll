@@ -1,0 +1,22 @@
+1	This	this	DT	_	0	ROOT
+2	is	be	VBZ	_	1	dep
+3	,	,	,	_	4	punct
+4	however	however	RB	_	2	advmod
+5	,	,	,	_	9	punct
+6	a	a	DT	_	9	det
+7	decidedly	decidedly	RB	_	8	advmod
+8	intellectual	intellectual	JJ	_	9	amod
+9	book	book	NN	_	4	dep
+10	,	,	,	_	9	punct
+11	penned	pen	VBN	_	9	vmod
+12	by	by	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	clear	clear	JJ	_	15	amod
+15	master	master	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	language	language	NN	_	16	pobj
+18	and	and	CC	_	15	cc
+19	intra-psychic	intra-psychic	JJ	_	20	amod
+20	evaluation	evaluation	NN	_	15	conj
+21	.	.	.	_	9	punct
+

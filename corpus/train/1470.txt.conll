@@ -1,0 +1,14 @@
+1	His	he	PRP$	_	2	poss
+2	wife	wife	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	just	just	RB	_	5	advmod
+5	completed	complete	VBN	_	0	ROOT
+6	the	the	DT	_	8	det
+7	first	first	JJ	_	8	amod
+8	paper	paper	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	her	she	PRP$	_	12	poss
+11	graduate	graduate	JJ	_	12	amod
+12	degree	degree	NN	_	9	pobj
+13	.	.	.	_	5	punct
+

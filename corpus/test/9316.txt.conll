@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	panics	panic	VBZ	_	0	ROOT
+3	when	when	WRB	_	5	advmod
+4	he	he	PRP	_	5	nsubj
+5	sees	see	VBZ	_	2	advcl
+6	a	a	DT	_	8	det
+7	blue	blue	JJ	_	8	amod
+8	gremlin	gremlin	NN	_	5	dobj
+9	on	on	IN	_	5	prep
+10	the	the	DT	_	11	det
+11	side	side	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	bus	bus	NN	_	12	pobj
+15	loosening	loosen	VBG	_	14	vmod
+16	the	the	DT	_	18	det
+17	lug	lug	NN	_	18	nn
+18	nuts	nut	NNS	_	15	dobj
+19	on	on	IN	_	15	prep
+20	one	one	CD	_	19	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	tires	tire	NNS	_	21	pobj
+24	.	.	.	_	2	punct
+

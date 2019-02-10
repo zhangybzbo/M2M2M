@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	sample	sample	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	5-mm	5-mm	JJ	_	9	amod
+8	glass	glass	NN	_	9	nn
+9	tube	tube	NN	_	5	pobj
+10	surrounded	surround	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	oscillator	oscillator	NN	_	15	nn
+13	and	and	CC	_	12	cc
+14	receiver	receiver	NN	_	12	conj
+15	coils	coil	NNS	_	11	pobj
+16	at	at	IN	_	10	prep
+17	right	right	JJ	_	18	amod
+18	angles	angle	NNS	_	16	pobj
+19	to	to	TO	_	10	prep
+20	one	one	CD	_	21	num
+21	another	another	DT	_	19	pobj
+22	.	.	.	_	4	punct
+

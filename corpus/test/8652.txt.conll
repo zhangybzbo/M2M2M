@@ -1,0 +1,13 @@
+1	Heating	heating	NN	_	6	nsubj
+2	with	with	IN	_	1	prep
+3	wood	wood	NN	_	2	pobj
+4	is	be	VBZ	_	6	cop
+5	environmentally	environmentally	RB	_	6	advmod
+6	appropriate	appropriate	JJ	_	0	ROOT
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	conditionally	conditionally	RB	_	6	dep
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	and	and	CC	_	6	cc
+11	economically	economically	RB	_	6	advmod
+12	.	.	.	_	6	punct
+

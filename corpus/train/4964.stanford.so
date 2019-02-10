@@ -1,0 +1,10 @@
+0	57	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="drug" pos="NN" nn="t1"
+5	14	tok id="t1" base="smuggler" pos="NNS" nsubj="t3"
+15	25	tok id="t2" base="surgically" pos="RB" advmod="t3"
+26	35	tok id="t3" base="implant" pos="VBD" ROOT="ROOT"
+36	42	tok id="t4" base="heroin" pos="NN" dobj="t3"
+43	47	tok id="t5" base="into" pos="IN" prep="t3"
+48	55	tok id="t6" base="puppy" pos="NNS" pobj="t5"
+56	57	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,25 @@
+1	In	in	IN	_	14	prep
+2	one	one	CD	_	1	pobj
+3	of	of	IN	_	2	prep
+4	cinema	cinema	NN	_	10	poss
+5	's	's	POS	_	4	possessive
+6	earliest	earliest	JJS	_	10	amod
+7	and	and	CC	_	6	cc
+8	most	most	RBS	_	9	advmod
+9	famous	famous	JJ	_	6	conj
+10	screenings	screening	NNS	_	3	pobj
+11	,	,	,	_	14	punct
+12	the	the	DT	_	13	det
+13	crowd	crowd	NN	_	14	nsubj
+14	ran	run	VBD	_	0	ROOT
+15	away	away	RB	_	14	advmod
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	theatre	theatre	NN	_	16	pobj
+19	after	after	IN	_	23	mark
+20	an	a	DT	_	22	det
+21	approaching	approach	VBG	_	22	amod
+22	train	train	NN	_	23	nsubj
+23	appeared	appear	VBD	_	14	advcl
+24	.	.	.	_	14	punct
+

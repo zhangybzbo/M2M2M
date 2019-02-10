@@ -1,0 +1,7 @@
+1	Two	two	CD	_	2	num
+2	deers	deer	NNS	_	3	nsubj
+3	ran	run	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	cars	car	NNS	_	4	pobj
+6	.	.	.	_	3	punct
+

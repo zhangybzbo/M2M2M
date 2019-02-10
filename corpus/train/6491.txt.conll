@@ -1,0 +1,24 @@
+1	Germans	german	NNS	_	2	nsubj
+2	complained	complain	VBD	_	0	ROOT
+3	bitterly	bitterly	RB	_	2	advmod
+4	in	in	IN	_	2	prep
+5	the	the	DT	_	7	det
+6	Rostrum	Rostrum	NNP	_	7	nn
+7	newspapers	newspaper	NNS	_	4	pobj
+8	,	,	,	_	2	punct
+9	and	and	CC	_	2	cc
+10	these	these	DT	_	11	det
+11	complaints	complaint	NNS	_	13	nsubjpass
+12	were	be	VBD	_	13	auxpass
+13	reflected	reflect	VBN	_	2	conj
+14	in	in	IN	_	13	prep
+15	propaganda	propaganda	NN	_	16	nn
+16	films	film	NNS	_	14	pobj
+17	regarding	regard	VBG	_	16	vmod
+18	soldiers	soldier	NNS	_	17	dobj
+19	from	from	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	French	french	JJ	_	22	amod
+22	colonial	colonial	NN	_	19	pobj
+23	.	.	.	_	2	punct
+

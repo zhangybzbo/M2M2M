@@ -1,0 +1,24 @@
+1	Here	here	RB	_	2	advmod
+2	are	be	VBP	_	0	ROOT
+3	some	some	DT	_	4	det
+4	photos	photo	NNS	_	2	nsubj
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	few	few	JJ	_	8	amod
+8	weeks	week	NNS	_	9	npadvmod
+9	ago	ago	IN	_	5	pcomp
+10	when	when	WRB	_	12	advmod
+11	I	I	PRP	_	12	nsubj
+12	came	come	VBD	_	2	advcl
+13	out	out	IN	_	12	prep
+14	of	of	IN	_	13	pcomp
+15	the	the	DT	_	16	det
+16	subway	subway	NN	_	14	pobj
+17	and	and	CC	_	12	cc
+18	stumbled	stumble	VBD	_	12	conj
+19	across	across	IN	_	18	prep
+20	an	a	DT	_	22	det
+21	amazing	amazing	JJ	_	22	amod
+22	sighting	sighting	NN	_	19	pobj
+23	.	.	.	_	2	punct
+

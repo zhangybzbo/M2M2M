@@ -1,0 +1,19 @@
+1	They	they	PRP	_	5	nsubj
+2	are	be	VBP	_	5	cop
+3	the	the	DT	_	5	det
+4	biggest	biggest	JJS	_	5	amod
+5	bunch	bunch	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	crybabies	crybaby	NNS	_	6	pobj
+8	I	I	PRP	_	10	nsubj
+9	have	have	VBP	_	10	aux
+10	dealt	deal	VBN	_	7	rcmod
+11	with	with	IN	_	10	prep
+12	in	in	IN	_	11	pcomp
+13	my	my	PRP$	_	15	poss
+14	30	30	CD	_	15	num
+15	years	year	NNS	_	12	pobj
+16	in	in	IN	_	15	prep
+17	Washington	Washington	NNP	_	16	pobj
+18	.	.	.	_	5	punct
+

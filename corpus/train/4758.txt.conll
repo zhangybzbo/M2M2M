@@ -1,0 +1,17 @@
+1	The	the	DT	_	5	det
+2	immediate	immediate	JJ	_	5	amod
+3	,	,	,	_	5	punct
+4	down-to-earth	down-to-earth	JJ	_	5	amod
+5	impact	impact	NN	_	10	nsubjpass
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	poem	poem	NN	_	6	pobj
+9	is	be	VBZ	_	10	auxpass
+10	established	establish	VBN	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	first	first	JJ	_	15	amod
+14	two	two	CD	_	15	num
+15	lines	line	NNS	_	11	pobj
+16	.	.	.	_	10	punct
+

@@ -1,0 +1,13 @@
+1	This	this	DT	_	2	det
+2	week	week	NN	_	4	tmod
+3	we	we	PRP	_	4	nsubj
+4	donated	donate	VBD	_	0	ROOT
+5	handcrafted	handcrafted	JJ	_	6	amod
+6	fabric	fabric	NN	_	4	dobj
+7	works	work	VBZ	_	4	vmod
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	11	det
+10	local	local	JJ	_	11	amod
+11	church	church	NN	_	8	pobj
+12	.	.	.	_	4	punct
+

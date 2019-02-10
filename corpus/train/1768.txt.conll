@@ -1,0 +1,12 @@
+1	A	a	DT	_	5	det
+2	new	new	JJ	_	5	amod
+3	insulated	insulate	VBN	_	5	amod
+4	pizza	pizza	NN	_	5	nn
+5	bag	bag	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	delivered	deliver	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	market	market	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

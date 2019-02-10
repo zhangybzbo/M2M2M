@@ -1,0 +1,21 @@
+1	Diabetes	Diabetes	NNP	_	2	nn
+2	mellitus	mellitus	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	leading	lead	VBG	_	8	amod
+8	causes	cause	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	irreversible	irreversible	JJ	_	11	amod
+11	blindness	blindness	NN	_	9	pobj
+12	worldwide	worldwide	RB	_	11	advmod
+13	,	,	,	_	4	punct
+14	and	and	CC	_	4	cc
+15	,	,	,	_	4	punct
+16	in	in	IN	_	4	prep
+17	the	the	DT	_	19	det
+18	United	United	NNP	_	19	nn
+19	States	States	NNPS	_	16	pobj
+20	.	.	.	_	4	punct
+

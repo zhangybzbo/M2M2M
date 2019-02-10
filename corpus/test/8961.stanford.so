@@ -1,0 +1,8 @@
+0	37	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="highway" pos="NNS" nsubj="t2"
+9	12	tok id="t1" base="be" pos="VBP" aux="t2"
+13	20	tok id="t2" base="fall" pos="VBG" ROOT="ROOT"
+21	25	tok id="t3" base="into" pos="IN" prep="t2"
+26	35	tok id="t4" base="disrepair" pos="NN" pobj="t3"
+36	37	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

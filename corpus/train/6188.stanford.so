@@ -1,0 +1,13 @@
+0	73	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="doctor" pos="NN" nsubj="t2"
+11	20	tok id="t2" base="implant" pos="VBD" csubj="t9"
+21	23	tok id="t3" base="a" pos="DT" det="t4"
+24	33	tok id="t4" base="injection" pos="NN" dobj="t2"
+34	38	tok id="t5" base="into" pos="IN" prep="t2"
+39	44	tok id="t6" base="three" pos="CD" num="t8"
+45	53	tok id="t7" base="vertical" pos="JJ" amod="t8"
+54	63	tok id="t8" base="glabellar" pos="NN" pobj="t5"
+64	71	tok id="t9" base="furrow" pos="VBZ" ROOT="ROOT"
+72	73	tok id="t10" base="-PERIOD-" pos="." punct="t9"
+

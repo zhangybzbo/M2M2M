@@ -1,0 +1,10 @@
+1	He	he	PRP	_	2	nsubj
+2	bought	buy	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	gold	gold	NN	_	5	nn
+5	bracelet	bracelet	NN	_	2	dobj
+6	for	for	IN	_	2	prep
+7	$	$	$	_	6	pobj
+8	200	200	CD	_	7	num
+9	.	.	.	_	2	punct
+

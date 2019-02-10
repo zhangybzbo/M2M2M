@@ -1,0 +1,12 @@
+1	He	he	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	son	son	NN	_	2	dobj
+5	to	to	TO	_	2	prep
+6	the	the	DT	_	8	det
+7	ancient	ancient	JJ	_	8	amod
+8	temples	temple	NNS	_	5	pobj
+9	in	in	IN	_	8	prep
+10	Cambodia	Cambodia	NNP	_	9	pobj
+11	.	.	.	_	2	punct
+

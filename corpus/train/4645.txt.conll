@@ -1,0 +1,20 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	an	a	DT	_	5	det
+4	international	international	JJ	_	5	amod
+5	newsletter	newsletter	NN	_	0	ROOT
+6	designed	design	VBN	_	5	vmod
+7	to	to	TO	_	8	aux
+8	inform	inform	VB	_	6	xcomp
+9	about	about	IN	_	8	prep
+10	work	work	NN	_	9	pobj
+11	in	in	IN	_	10	prep
+12	progress	progress	NN	_	11	pobj
+13	,	,	,	_	5	punct
+14	conferences	conference	NNS	_	5	appos
+15	,	,	,	_	14	punct
+16	publications	publication	NNS	_	14	conj
+17	,	,	,	_	14	punct
+18	etc.	etc.	FW	_	14	conj
+19	.	.	.	_	5	punct
+

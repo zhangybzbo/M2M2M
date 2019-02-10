@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	restaurant	restaurant	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	advertised	advertise	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	official	official	JJ	_	9	amod
+8	municipal	municipal	JJ	_	9	amod
+9	website	website	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

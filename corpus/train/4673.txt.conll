@@ -1,0 +1,18 @@
+1	Throwing	throw	VBG	_	16	nsubj
+2	trash	trash	NN	_	1	dobj
+3	into	into	IN	_	1	prep
+4	the	the	DT	_	7	det
+5	dumpster	dumpster	NN	_	7	nn
+6	70	70	CD	_	7	num
+7	feet	foot	NNS	_	3	pobj
+8	away	away	RB	_	1	advmod
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	third	third	JJ	_	13	amod
+12	story	story	NN	_	13	nn
+13	floor	floor	NN	_	9	pobj
+14	was	be	VBD	_	16	cop
+15	very	very	RB	_	16	advmod
+16	dangerous	dangerous	JJ	_	0	ROOT
+17	.	.	.	_	16	punct
+

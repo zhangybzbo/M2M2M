@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	purpose	purpose	NN	_	17	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	funding	funding	NN	_	3	pobj
+6	,	,	,	_	2	punct
+7	a	a	DT	_	8	det
+8	memo	memo	NN	_	15	nsubj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	chairman	chairman	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	RJ	rj	NN	_	14	nn
+14	Reynolds	Reynolds	NNP	_	12	pobj
+15	shows	show	VBZ	_	2	rcmod
+16	,	,	,	_	2	punct
+17	was	be	VBD	_	0	ROOT
+18	to	to	TO	_	20	aux
+19	``	``	``	_	20	punct
+20	refute	refute	VB	_	17	xcomp
+21	the	the	DT	_	22	det
+22	criticisms	criticism	NNS	_	20	dobj
+23	against	against	IN	_	22	prep
+24	cigarettes	cigarette	NNS	_	23	pobj
+25	''	''	''	_	20	punct
+26	.	.	.	_	17	punct
+

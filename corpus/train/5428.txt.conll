@@ -1,0 +1,26 @@
+1	Today	today	NN	_	3	dep
+2	I	I	PRP	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	there	there	RB	_	3	advmod
+5	and	and	CC	_	3	cc
+6	I	I	PRP	_	7	nsubj
+7	bought	buy	VBD	_	3	conj
+8	a	a	DT	_	9	det
+9	ball	ball	NN	_	7	dobj
+10	that	that	WDT	_	11	nsubj
+11	was	be	VBD	_	9	rcmod
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	bin	bin	NN	_	12	pobj
+15	with	with	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	ton	ton	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	things	thing	NNS	_	18	pobj
+20	placed	place	VBN	_	19	vmod
+21	on	on	IN	_	20	prep
+22	top	top	NN	_	21	pobj
+23	of	of	IN	_	22	prep
+24	it	it	PRP	_	23	pobj
+25	.	.	.	_	3	punct
+

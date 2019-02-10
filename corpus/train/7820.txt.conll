@@ -1,0 +1,18 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	four	four	CD	_	4	num
+4	caverns	cavern	NNS	_	5	npadvmod
+5	located	located	JJ	_	2	nsubj
+6	inside	inside	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	cave	cave	NN	_	6	pobj
+9	with	with	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	tunnel	tunnel	NN	_	9	pobj
+12	heading	head	VBG	_	11	vmod
+13	west	west	NN	_	16	nsubj
+14	being	be	VBG	_	16	cop
+15	the	the	DT	_	16	det
+16	largest	largest	JJS	_	12	xcomp
+17	.	.	.	_	2	punct
+

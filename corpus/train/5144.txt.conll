@@ -1,0 +1,14 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	whole	whole	JJ	_	5	amod
+5	cohort	cohort	NN	_	2	nsubj
+6	of	of	IN	_	5	prep
+7	young	young	JJ	_	8	amod
+8	professionals	professional	NNS	_	6	pobj
+9	working	work	VBG	_	5	vmod
+10	to	to	TO	_	11	aux
+11	establish	establish	VB	_	9	xcomp
+12	themselves	themselves	PRP	_	11	dobj
+13	.	.	.	_	2	punct
+

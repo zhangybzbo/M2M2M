@@ -1,0 +1,21 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	cluster	cluster	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	nerves	nerve	NNS	_	5	pobj
+7	that	that	WDT	_	9	nsubj
+8	is	be	VBZ	_	9	cop
+9	located	located	JJ	_	4	rcmod
+10	below	below	IN	_	9	prep
+11	each	each	DT	_	12	det
+12	ear	ear	NN	_	10	pobj
+13	and	and	CC	_	9	cc
+14	at	at	IN	_	9	conj
+15	the	the	DT	_	16	det
+16	hinge	hinge	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	jaw	jaw	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

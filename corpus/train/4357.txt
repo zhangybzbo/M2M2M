@@ -1,0 +1,1 @@
+Shigang Chen and Liman Wei , both of Santa Clara , Calif. , and Partha Bhattacharya of Cupertino , Calif. , have developed a method for removing redundancies from a list of data structures .

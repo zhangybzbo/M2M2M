@@ -1,0 +1,21 @@
+1	It	it	PRP	_	6	nsubj
+2	was	be	VBD	_	6	cop
+3	a	a	DT	_	6	det
+4	significant	significant	JJ	_	6	amod
+5	environmental	environmental	JJ	_	6	amod
+6	hazard	hazard	NN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	copper	copper	NN	_	11	nn
+10	smelting	smelting	NN	_	11	nn
+11	process	process	NN	_	7	pobj
+12	when	when	WRB	_	16	advmod
+13	the	the	DT	_	14	det
+14	emissions	emission	NNS	_	16	nsubjpass
+15	were	be	VBD	_	16	auxpass
+16	released	release	VBN	_	6	advcl
+17	into	into	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	atmosphere	atmosphere	NN	_	17	pobj
+20	.	.	.	_	6	punct
+

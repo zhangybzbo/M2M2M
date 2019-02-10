@@ -1,0 +1,13 @@
+0	62	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="all" pos="DT" det="t2"
+4	7	tok id="t1" base="key" pos="JJ" amod="t2"
+8	17	tok id="t2" base="supplier" pos="NNS" nsubj="t4"
+18	21	tok id="t3" base="be" pos="VBP" cop="t4"
+22	26	tok id="t4" base="part" pos="NN" ROOT="ROOT"
+27	29	tok id="t5" base="of" pos="IN" prep="t4"
+30	36	tok id="t6" base="Toyota" pos="NNP" poss="t9"
+37	39	tok id="t7" base="'s" pos="POS" possessive="t6"
+40	48	tok id="t8" base="supplier" pos="NN" nn="t9"
+49	60	tok id="t9" base="association" pos="NN" pobj="t5"
+61	62	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

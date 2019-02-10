@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	lonely	lonely	JJ	_	3	amod
+3	teacher	teacher	NN	_	4	nsubj
+4	finds	find	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	friend	friend	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	help	help	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	an	a	DT	_	12	det
+12	umbrella	umbrella	NN	_	10	pobj
+13	.	.	.	_	4	punct
+

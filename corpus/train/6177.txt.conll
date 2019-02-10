@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	micro-machine	micro-machine	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	composed	compose	VBN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	bulk	bulk	NN	_	8	nn
+8	magnet	magnet	NN	_	5	pobj
+9	and	and	CC	_	8	cc
+10	a	a	DT	_	12	det
+11	spiral	spiral	NN	_	12	nn
+12	structure	structure	NN	_	8	conj
+13	.	.	.	_	4	punct
+

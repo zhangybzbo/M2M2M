@@ -1,0 +1,25 @@
+1	Today	today	NN	_	9	tmod
+2	75	75	CD	_	3	num
+3	%	%	NN	_	9	nsubjpass
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	county	county	NN	_	4	pobj
+7	is	be	VBZ	_	9	auxpass
+8	intensively	intensively	RB	_	9	advmod
+9	farmed	farm	VBN	_	0	ROOT
+10	for	for	IN	_	9	prep
+11	corn	corn	NN	_	10	pobj
+12	,	,	,	_	11	punct
+13	soybeans	soybean	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	oats	oats	NNS	_	11	conj
+16	,	,	,	_	11	punct
+17	and	and	CC	_	11	cc
+18	alfalfa	alfalfa	NN	_	11	conj
+19	with	with	IN	_	9	prep
+20	emphasis	emphasis	NN	_	19	pobj
+21	on	on	IN	_	20	prep
+22	dairy	dairy	NN	_	23	nn
+23	production	production	NN	_	21	pobj
+24	.	.	.	_	9	punct
+

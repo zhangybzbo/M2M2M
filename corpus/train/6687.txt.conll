@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	kind	kind	NN	_	16	nsubjpass
+3	of	of	IN	_	2	prep
+4	treatments	treatment	NNS	_	3	pobj
+5	necessary	necessary	JJ	_	2	amod
+6	to	to	TO	_	7	aux
+7	kill	kill	VB	_	5	xcomp
+8	the	the	DT	_	9	det
+9	bacteria	bacterium	NNS	_	7	dobj
+10	which	which	WDT	_	11	nsubj
+11	cause	cause	VBP	_	9	rcmod
+12	acne	acne	NN	_	13	nn
+13	breakouts	breakout	NNS	_	11	dobj
+14	must	must	MD	_	16	aux
+15	be	be	VB	_	16	auxpass
+16	prescribed	prescribe	VBN	_	0	ROOT
+17	or	or	CC	_	16	cc
+18	administered	administer	VBN	_	16	conj
+19	by	by	IN	_	16	prep
+20	a	a	DT	_	22	det
+21	medical	medical	JJ	_	22	amod
+22	professional	professional	NN	_	19	pobj
+23	.	.	.	_	16	punct
+

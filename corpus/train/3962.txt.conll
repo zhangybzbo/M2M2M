@@ -1,0 +1,17 @@
+1	Games	Games	NNPS	_	7	nsubj
+2	are	be	VBP	_	7	cop
+3	n't	not	RB	_	7	neg
+4	the	the	DT	_	7	det
+5	only	only	JJ	_	7	amod
+6	geeky	geeky	JJ	_	7	amod
+7	point	point	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	reference	reference	NN	_	8	pobj
+10	for	for	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	designer	designer	NN	_	15	poss
+13	's	's	POS	_	12	possessive
+14	new	new	JJ	_	15	amod
+15	line	line	NN	_	10	pobj
+16	.	.	.	_	7	punct
+

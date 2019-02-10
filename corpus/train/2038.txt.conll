@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	initiative	initiative	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	outlined	outline	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	speech	speech	NN	_	5	pobj
+8	delivered	deliver	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	Saudi	Saudi	NNP	_	13	nn
+11	Crown	Crown	NNP	_	13	nn
+12	Prince	Prince	NNP	_	13	nn
+13	Abdullah	Abdullah	NNP	_	9	pobj
+14	on	on	IN	_	8	prep
+15	Wednesday	Wednesday	NNP	_	14	pobj
+16	.	.	.	_	4	punct
+

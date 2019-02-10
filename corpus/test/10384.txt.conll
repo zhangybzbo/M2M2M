@@ -1,0 +1,14 @@
+1	A	a	DT	_	2	det
+2	month	month	NN	_	3	npadvmod
+3	ago	ago	IN	_	6	advmod
+4	a	a	DT	_	5	det
+5	request	request	NN	_	6	nsubj
+6	arrived	arrive	VBD	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	an	a	DT	_	12	det
+9	American	american	JJ	_	12	amod
+10	environmental	environmental	JJ	_	12	amod
+11	consulting	consulting	NN	_	12	nn
+12	firm	firm	NN	_	7	pobj
+13	.	.	.	_	6	punct
+

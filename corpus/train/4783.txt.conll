@@ -1,0 +1,15 @@
+1	A	a	DT	_	4	det
+2	popular	popular	JJ	_	4	amod
+3	local	local	JJ	_	4	amod
+4	restaurant	restaurant	NN	_	7	nsubj
+5	is	be	VBZ	_	7	cop
+6	the	the	DT	_	7	det
+7	source	source	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	an	a	DT	_	10	det
+10	outbreak	outbreak	NN	_	8	pobj
+11	linked	link	VBN	_	10	vmod
+12	to	to	TO	_	11	prep
+13	Salmonella	salmonella	FW	_	12	pobj
+14	.	.	.	_	7	punct
+

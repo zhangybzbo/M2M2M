@@ -1,0 +1,9 @@
+1	This	this	DT	_	2	det
+2	movie	movie	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	thrown	throw	VBN	_	0	ROOT
+5	viewers	viewer	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	confusion	confusion	NN	_	6	pobj
+8	.	.	.	_	4	punct
+

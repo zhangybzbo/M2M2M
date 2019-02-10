@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	missis	missis	NN	_	3	nsubj
+3	won	win	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	lottery	lottery	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	ticket	ticket	NN	_	6	pobj
+9	she	she	PRP	_	12	nsubj
+10	did	do	VBD	_	12	aux
+11	n't	not	RB	_	12	neg
+12	tell	tell	VB	_	8	rcmod
+13	you	you	PRP	_	12	dobj
+14	about	about	RB	_	12	advmod
+15	.	.	.	_	3	punct
+

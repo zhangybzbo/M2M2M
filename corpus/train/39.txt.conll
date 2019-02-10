@@ -1,0 +1,12 @@
+1	Financial	financial	JJ	_	2	amod
+2	stress	stress	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	main	main	JJ	_	8	amod
+8	causes	cause	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	divorce	divorce	NN	_	9	pobj
+11	.	.	.	_	4	punct
+

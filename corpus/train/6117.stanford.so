@@ -1,0 +1,11 @@
+0	54	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="water" pos="NN" nn="t2"
+6	18	tok id="t1" base="disinfection" pos="NN" nn="t2"
+19	26	tok id="t2" base="tablet" pos="NNS" nsubjpass="t4"
+27	31	tok id="t3" base="be" pos="VBD" auxpass="t4"
+32	35	tok id="t4" base="put" pos="VBN" ROOT="ROOT"
+36	40	tok id="t5" base="into" pos="IN" prep="t4"
+41	44	tok id="t6" base="the" pos="DT" det="t7"
+45	52	tok id="t7" base="canteen" pos="NN" pobj="t5"
+53	54	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

@@ -1,0 +1,16 @@
+1	HipHop	HipHop	NNP	_	2	nsubj
+2	appropriates	appropriate	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	symbols	symbol	NNS	_	2	dobj
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	consumer	consumer	NN	_	8	nn
+8	society	society	NN	_	5	pobj
+9	:	:	:	_	4	punct
+10	oversized	oversized	JJ	_	12	amod
+11	diamond	diamond	NN	_	12	nn
+12	colliers	collier	NNS	_	14	nsubjpass
+13	are	be	VBP	_	14	auxpass
+14	worn	wear	VBN	_	4	dep
+15	.	.	.	_	2	punct
+

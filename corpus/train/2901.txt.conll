@@ -1,0 +1,14 @@
+1	Three	three	CD	_	2	num
+2	methods	method	NNS	_	9	nsubjpass
+3	approaching	approach	VBG	_	2	vmod
+4	the	the	DT	_	5	det
+5	analysis	analysis	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	cells	cell	NNS	_	6	pobj
+8	are	be	VBP	_	9	auxpass
+9	described	describe	VBN	_	0	ROOT
+10	,	,	,	_	9	punct
+11	with	with	IN	_	9	prep
+12	applications	application	NNS	_	11	pobj
+13	.	.	.	_	9	punct
+

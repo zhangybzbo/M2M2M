@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	information	information	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	sealed	seal	VBN	_	7	amod
+7	packet	packet	NN	_	4	pobj
+8	,	,	,	_	3	punct
+9	so	so	RB	_	10	advmod
+10	purchasers	purchaser	NNS	_	14	nsubjpass
+11	may	may	MD	_	14	aux
+12	not	not	RB	_	14	neg
+13	have	have	VB	_	14	aux
+14	known	know	VBN	_	3	ccomp
+15	they	they	PRP	_	18	nsubj
+16	could	could	MD	_	18	aux
+17	not	not	RB	_	18	neg
+18	enter	enter	VB	_	14	ccomp
+19	the	the	DT	_	20	det
+20	competition	competition	NN	_	18	dobj
+21	.	.	.	_	3	punct
+

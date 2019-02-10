@@ -1,0 +1,27 @@
+1	An	a	DT	_	2	det
+2	app	app	NN	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	local	local	JJ	_	5	amod
+5	newspaper	newspaper	NN	_	3	pobj
+6	the	the	DT	_	9	det
+7	Manchester	Manchester	NNP	_	9	nn
+8	Evening	Evening	NNP	_	9	nn
+9	News	News	NNP	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	topped	top	VBN	_	2	rcmod
+12	the	the	DT	_	19	det
+13	UK	UK	NNP	_	19	nn
+14	Palm	Palm	NNP	_	19	nn
+15	Pre	Pre	NNP	_	19	nn
+16	app	app	NN	_	19	nn
+17	store	store	NN	_	19	nn
+18	sales	sale	NNS	_	19	nn
+19	chart	chart	NN	_	11	dobj
+20	in	in	IN	_	11	prep
+21	its	its	PRP$	_	23	poss
+22	first	first	JJ	_	23	amod
+23	week	week	NN	_	20	pobj
+24	of	of	IN	_	23	prep
+25	release	release	NN	_	24	pobj
+26	.	.	.	_	2	punct
+

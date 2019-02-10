@@ -1,0 +1,10 @@
+1	Their	they	PRP$	_	4	poss
+2	standard	standard	JJ	_	4	amod
+3	variable	variable	JJ	_	4	amod
+4	rates	rate	NNS	_	5	nsubj
+5	are	be	VBP	_	0	ROOT
+6	still	still	RB	_	5	advmod
+7	under	under	IN	_	5	prep
+8	review	review	NN	_	7	pobj
+9	.	.	.	_	5	punct
+

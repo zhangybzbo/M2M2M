@@ -1,0 +1,26 @@
+1	Some	some	DT	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	that	that	DT	_	4	det
+4	blood	blood	NN	_	2	pobj
+5	was	be	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	bottle	bottle	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	operating	operating	NN	_	12	nn
+12	room	room	NN	_	9	pobj
+13	though	though	IN	_	18	mark
+14	the	the	DT	_	15	det
+15	record	record	NN	_	18	nsubj
+16	is	be	VBZ	_	18	cop
+17	not	not	RB	_	18	neg
+18	clear	clear	JJ	_	5	advcl
+19	as	as	IN	_	18	prep
+20	to	to	TO	_	19	pcomp
+21	how	how	WRB	_	23	advmod
+22	it	it	PRP	_	23	nsubj
+23	got	get	VBD	_	20	pcomp
+24	there	there	RB	_	23	advmod
+25	.	.	.	_	5	punct
+

@@ -1,0 +1,7 @@
+1	Professional	professional	JJ	_	2	amod
+2	photographers	photographer	NNS	_	3	nsubj
+3	use	use	VBP	_	0	ROOT
+4	digital	digital	JJ	_	5	amod
+5	cameras	camera	NNS	_	3	dobj
+6	.	.	.	_	3	punct
+

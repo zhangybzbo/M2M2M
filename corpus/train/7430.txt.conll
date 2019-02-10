@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	ghosts	ghost	NNS	_	7	nsubj
+3	in	in	IN	_	2	prep
+4	my	my	PRP$	_	5	poss
+5	house	house	NN	_	3	pobj
+6	are	be	VBP	_	7	cop
+7	mischievous	mischievous	JJ	_	0	ROOT
+8	,	,	,	_	7	punct
+9	like	like	IN	_	7	prep
+10	little	little	JJ	_	11	amod
+11	children	child	NNS	_	9	pobj
+12	.	.	.	_	7	punct
+

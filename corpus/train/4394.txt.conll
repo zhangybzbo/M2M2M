@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj
+2	chose	choose	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	simplest	simplest	JJS	_	5	amod
+5	option	option	NN	_	2	dobj
+6	:	:	:	_	2	punct
+7	I	I	PRP	_	8	nsubj
+8	copied	copy	VBD	_	2	parataxis
+9	and	and	CC	_	8	cc
+10	stored	store	VBD	_	8	conj
+11	the	the	DT	_	12	det
+12	files	file	NNS	_	8	dobj
+13	in	in	IN	_	8	prep
+14	a	a	DT	_	16	det
+15	specific	specific	JJ	_	16	amod
+16	folder	folder	NN	_	13	pobj
+17	,	,	,	_	8	punct
+18	and	and	CC	_	8	cc
+19	used	use	VBD	_	8	conj
+20	them	they	PRP	_	19	dobj
+21	from	from	IN	_	19	prep
+22	there	there	EX	_	21	pobj
+23	.	.	.	_	2	punct
+

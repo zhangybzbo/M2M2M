@@ -1,0 +1,20 @@
+1	Integrated	Integrated	NNP	_	3	nn
+2	production	production	NN	_	3	nn
+3	schemes	scheme	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	spreading	spread	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	various	various	JJ	_	8	amod
+8	crops	crop	NNS	_	6	pobj
+9	and	and	CC	_	5	cc
+10	may	may	MD	_	11	aux
+11	have	have	VB	_	5	conj
+12	relevance	relevance	NN	_	11	dobj
+13	for	for	IN	_	12	prep
+14	sectors	sector	NNS	_	13	pobj
+15	such	such	JJ	_	16	mwe
+16	as	as	IN	_	14	prep
+17	dairy	dairy	NN	_	18	nn
+18	production	production	NN	_	16	pobj
+19	.	.	.	_	5	punct
+

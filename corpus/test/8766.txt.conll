@@ -1,0 +1,16 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	far	far	RB	_	4	advmod
+4	more	more	RBR	_	5	advmod
+5	reminiscent	reminiscent	JJ	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	exit	exit	NN	_	9	nn
+9	hole	hole	NN	_	6	pobj
+10	caused	cause	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	real	real	JJ	_	14	amod
+14	missile	missile	NN	_	11	pobj
+15	.	.	.	_	5	punct
+

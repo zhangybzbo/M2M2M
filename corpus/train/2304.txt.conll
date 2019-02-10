@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	7	nsubj
+3	by	by	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	death-march	death-march	JJ	_	6	amod
+6	survivor	survivor	NN	_	3	pobj
+7	constitutes	constitute	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	basis	basis	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	case	case	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

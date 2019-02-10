@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	surprise	surprise	NN	_	3	nn
+3	visit	visit	NN	_	4	nsubj
+4	caused	cause	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	frenzy	frenzy	NN	_	4	dobj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	12	det
+9	already	already	RB	_	10	advmod
+10	chaotic	chaotic	JJ	_	12	amod
+11	trading	trading	NN	_	12	nn
+12	floor	floor	NN	_	7	pobj
+13	.	.	.	_	4	punct
+

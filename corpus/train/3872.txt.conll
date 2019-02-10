@@ -1,0 +1,22 @@
+1	Someone	someone	NN	_	7	nsubj
+2	with	with	IN	_	1	prep
+3	a	a	DT	_	4	det
+4	sense	sense	NN	_	2	pobj
+5	of	of	IN	_	4	prep
+6	humour	humour	NN	_	5	pobj
+7	decided	decide	VBD	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	help	help	VB	_	7	xcomp
+10	a	a	DT	_	11	det
+11	lodge	lodge	VB	_	9	dobj
+12	of	of	IN	_	11	prep
+13	beavers	beaver	NNS	_	12	pobj
+14	in	in	IN	_	9	prep
+15	neighbouring	neighbour	VBG	_	14	pcomp
+16	Renfrew	Renfrew	NNP	_	17	nsubj
+17	organize	organize	VB	_	15	ccomp
+18	their	they	PRP$	_	20	poss
+19	own	own	JJ	_	20	amod
+20	campaign	campaign	NN	_	17	dobj
+21	.	.	.	_	7	punct
+

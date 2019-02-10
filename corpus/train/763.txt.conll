@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	two	two	CD	_	3	num
+3	populations	population	NNS	_	4	nsubj
+4	started	start	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	same	same	JJ	_	9	amod
+8	gene	gene	NN	_	9	nn
+9	pool	pool	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

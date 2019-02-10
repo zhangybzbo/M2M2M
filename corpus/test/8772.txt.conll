@@ -1,0 +1,19 @@
+1	You	you	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	added	add	VBN	_	0	ROOT
+4	complexity	complexity	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	mix	mix	NN	_	5	pobj
+8	by	by	IN	_	3	prep
+9	not	not	RB	_	10	neg
+10	having	have	VBG	_	8	pcomp
+11	the	the	DT	_	13	det
+12	proxy	proxy	NN	_	13	nn
+13	server	server	NN	_	10	dobj
+14	and	and	CC	_	13	cc
+15	media	media	NNS	_	16	nn
+16	server	server	NN	_	13	conj
+17	together	together	RB	_	10	advmod
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	final	final	JJ	_	3	amod
+3	round	round	NN	_	4	nsubj
+4	lets	let	VBZ	_	0	ROOT
+5	the	the	DT	_	8	det
+6	last	last	JJ	_	8	amod
+7	2	2	CD	_	8	num
+8	contestants	contestant	NNS	_	9	nsubj
+9	answer	answer	VB	_	4	ccomp
+10	the	the	DT	_	11	det
+11	question	question	NN	_	9	dobj
+12	from	from	IN	_	9	prep
+13	a	a	DT	_	14	det
+14	hint	hint	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	given	give	VBN	_	18	amod
+18	qualification	qualification	NN	_	15	pobj
+19	to	to	TO	_	20	aux
+20	find	find	VB	_	18	vmod
+21	the	the	DT	_	23	det
+22	last	last	JJ	_	23	amod
+23	man	man	NN	_	24	nsubj
+24	standing	standing	NN	_	20	xcomp
+25	.	.	.	_	4	punct
+

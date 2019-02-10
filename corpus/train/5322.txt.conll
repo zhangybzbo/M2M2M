@@ -1,0 +1,20 @@
+1	Learning	learn	VBG	_	7	csubj
+2	about	about	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	dynamics	dynamics	NNS	_	2	pobj
+5	of	of	IN	_	4	prep
+6	addiction	addiction	NN	_	5	pobj
+7	starts	start	VBZ	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	repairing	repair	VBG	_	8	pcomp
+10	the	the	DT	_	11	det
+11	damage	damage	NN	_	9	dobj
+12	that	that	WDT	_	15	nsubjpass
+13	has	have	VBZ	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	caused	cause	VBN	_	11	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	addiction	addiction	NN	_	16	pobj
+19	.	.	.	_	7	punct
+

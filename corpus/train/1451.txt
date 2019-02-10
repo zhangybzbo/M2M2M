@@ -1,0 +1,1 @@
+In all versions of Word , the easiest way to review the editor 's changes is by displaying the reviewing toolbar .

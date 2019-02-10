@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det
+2	newer	newer	JJR	_	4	amod
+3	lesser-known	lesser-known	JJ	_	4	amod
+4	attraction	attraction	NN	_	13	nsubj
+5	that	that	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	kibbutz	kibbutz	NN	_	8	nsubj
+8	offers	offer	VBZ	_	4	ccomp
+9	is	be	VBZ	_	13	cop
+10	a	a	DT	_	13	det
+11	reconstructed	reconstructed	JJ	_	13	amod
+12	oil	oil	NN	_	13	nn
+13	press	press	NN	_	0	ROOT
+14	whose	whose	WP$	_	15	poss
+15	beginnings	beginning	NNS	_	18	nsubjpass
+16	can	can	MD	_	18	aux
+17	be	be	VB	_	18	auxpass
+18	traced	trace	VBN	_	13	rcmod
+19	to	to	TO	_	18	prep
+20	the	the	DT	_	23	det
+21	early	early	JJ	_	23	amod
+22	20th	20th	JJ	_	23	amod
+23	century	century	NN	_	19	pobj
+24	in	in	IN	_	23	prep
+25	Jaffa	Jaffa	NNP	_	24	pobj
+26	.	.	.	_	13	punct
+

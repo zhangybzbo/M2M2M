@@ -1,0 +1,18 @@
+1	Allaah	Allaah	NNP	_	2	nsubj
+2	decreed	decree	VBD	_	0	ROOT
+3	joy	joy	NN	_	2	dobj
+4	and	and	CC	_	3	cc
+5	sadness	sadness	NN	_	3	conj
+6	,	,	,	_	2	punct
+7	because	because	IN	_	9	mark
+8	joy	joy	NN	_	9	nsubj
+9	results	result	VBZ	_	2	advcl
+10	in	in	IN	_	9	prep
+11	laughter	laughter	NN	_	10	pobj
+12	and	and	CC	_	11	cc
+13	sadness	sadness	NN	_	11	conj
+14	leads	lead	VBZ	_	9	ccomp
+15	to	to	TO	_	14	prep
+16	crying	cry	VBG	_	15	pobj
+17	.	.	.	_	2	punct
+

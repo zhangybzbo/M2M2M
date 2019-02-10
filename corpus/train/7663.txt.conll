@@ -1,0 +1,21 @@
+1	I	I	PRP	_	5	nsubj
+2	'm	be	VBP	_	5	cop
+3	the	the	DT	_	5	det
+4	decision	decision	NN	_	5	nn
+5	maker	maker	NN	_	0	ROOT
+6	,	,	,	_	5	punct
+7	and	and	CC	_	5	cc
+8	I	I	PRP	_	9	nsubj
+9	had	have	VBD	_	5	conj
+10	to	to	TO	_	11	aux
+11	come	come	VB	_	9	xcomp
+12	up	up	RP	_	11	prt
+13	with	with	IN	_	11	prep
+14	a	a	DT	_	15	det
+15	way	way	NN	_	13	pobj
+16	forward	forward	RB	_	15	advmod
+17	that	that	IN	_	18	nsubj
+18	precluded	preclude	VBD	_	11	ccomp
+19	disaster	disaster	NN	_	18	dobj
+20	.	.	.	_	5	punct
+

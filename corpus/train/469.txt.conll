@@ -1,0 +1,11 @@
+1	This	this	DT	_	5	det
+2	oil	oil	NN	_	5	nn
+3	company	company	NN	_	5	nn
+4	imports	import	NNS	_	5	nn
+5	oil	oil	NN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	some	some	DT	_	8	det
+8	countries	country	NNS	_	6	pobj
+9	illegally	illegally	RB	_	5	advmod
+10	.	.	.	_	5	punct
+

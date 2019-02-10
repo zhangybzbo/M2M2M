@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	decline	decline	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	old	old	JJ	_	6	amod
+6	ideologies	ideology	NNS	_	3	pobj
+7	has	have	VBZ	_	8	aux
+8	made	make	VBN	_	0	ROOT
+9	many	many	JJ	_	8	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	old	old	JJ	_	14	amod
+13	Left-Right	left-right	JJ	_	14	amod
+14	arguments	argument	NNS	_	10	pobj
+15	redundant	redundant	JJ	_	14	amod
+16	.	.	.	_	8	punct
+

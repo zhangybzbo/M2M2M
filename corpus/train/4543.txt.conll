@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	sections	section	NNS	_	12	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	text	text	NN	_	3	pobj
+6	that	that	WDT	_	7	nsubj
+7	explain	explain	VBP	_	5	rcmod
+8	the	the	DT	_	10	det
+9	scientific	scientific	JJ	_	10	amod
+10	method	method	NN	_	7	dobj
+11	are	be	VBP	_	12	cop
+12	interesting	interesting	JJ	_	0	ROOT
+13	and	and	CC	_	12	cc
+14	could	could	MD	_	16	aux
+15	be	be	VB	_	16	auxpass
+16	applied	apply	VBN	_	12	conj
+17	to	to	TO	_	16	prep
+18	most	most	JJS	_	19	amod
+19	areas	area	NNS	_	17	pobj
+20	of	of	IN	_	19	prep
+21	life	life	NN	_	20	pobj
+22	.	.	.	_	12	punct
+

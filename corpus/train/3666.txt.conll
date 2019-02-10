@@ -1,0 +1,21 @@
+1	Biomagnetic	Biomagnetic	NNP	_	2	nn
+2	Research	Research	NNP	_	7	nsubj
+3	,	,	,	_	2	punct
+4	in	in	IN	_	2	prep
+5	Arizona	Arizona	NNP	_	4	pobj
+6	,	,	,	_	2	punct
+7	makes	make	VBZ	_	0	ROOT
+8	a	a	DT	_	9	det
+9	range	range	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	devices	device	NNS	_	10	pobj
+12	for	for	IN	_	9	prep
+13	neutralizing	neutralize	VBG	_	14	amod
+14	radiation	radiation	NN	_	12	pobj
+15	from	from	IN	_	14	prep
+16	computers	computer	NNS	_	15	pobj
+17	and	and	CC	_	16	cc
+18	other	other	JJ	_	19	amod
+19	sources	source	NNS	_	16	conj
+20	.	.	.	_	7	punct
+

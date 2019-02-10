@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	tailor	tailor	NN	_	3	nsubj
+3	brought	bring	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	scissors	scissors	NNS	_	3	dobj
+6	and	and	CC	_	5	cc
+7	a	a	DT	_	10	det
+8	newly	newly	RB	_	9	advmod
+9	made	make	VBN	_	10	amod
+10	garment	garment	NN	_	5	conj
+11	.	.	.	_	3	punct
+

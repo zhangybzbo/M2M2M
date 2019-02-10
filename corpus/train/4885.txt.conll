@@ -1,0 +1,22 @@
+1	I	I	PRP	_	4	nsubj
+2	've	have	VBP	_	4	aux
+3	obediently	obediently	RB	_	4	advmod
+4	banked	bank	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	all	all	DT	_	8	predet
+7	his	he	PRP$	_	8	poss
+8	cash	cash	NN	_	5	pobj
+9	into	into	IN	_	4	prep
+10	my	my	PRP$	_	11	poss
+11	account	account	NN	_	9	pobj
+12	and	and	CC	_	4	cc
+13	put	put	VBD	_	4	conj
+14	a	a	DT	_	17	det
+15	big	big	JJ	_	17	amod
+16	fat	fat	JJ	_	17	amod
+17	cheque	cheque	NN	_	13	dobj
+18	into	into	IN	_	13	prep
+19	his	he	PRP$	_	20	poss
+20	casket	casket	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

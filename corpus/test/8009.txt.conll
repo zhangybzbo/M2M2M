@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	disgusting	disgusting	JJ	_	3	amod
+3	scene	scene	NN	_	5	nsubj
+4	was	be	VBD	_	5	cop
+5	retaliation	retaliation	NN	_	0	ROOT
+6	against	against	IN	_	5	prep
+7	her	she	PRP$	_	8	poss
+8	brother	brother	NN	_	6	pobj
+9	Philip	Philip	NNP	_	8	dep
+10	who	who	WP	_	11	nsubj
+11	rents	rent	VBZ	_	9	rcmod
+12	the	the	DT	_	13	det
+13	room	room	NN	_	11	dobj
+14	inside	inside	IN	_	11	prep
+15	this	this	DT	_	17	det
+16	apartment	apartment	NN	_	17	nn
+17	house	house	NN	_	14	pobj
+18	on	on	IN	_	9	prep
+19	Lombard	Lombard	NNP	_	20	nn
+20	street	street	NN	_	18	pobj
+21	.	.	.	_	5	punct
+

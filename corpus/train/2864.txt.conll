@@ -1,0 +1,23 @@
+1	Mixed	mix	VBN	_	10	nsubj
+2	in	in	IN	_	1	prep
+3	equal	equal	JJ	_	4	amod
+4	parts	part	NNS	_	2	pobj
+5	with	with	IN	_	4	prep
+6	peppermint	peppermint	NN	_	5	pobj
+7	,	,	,	_	6	punct
+8	Elder	Elder	NNP	_	9	nn
+9	flowers	flower	NNS	_	6	appos
+10	help	help	VBP	_	0	ROOT
+11	reduce	reduce	VB	_	10	ccomp
+12	the	the	DT	_	13	det
+13	fevers	fever	NNS	_	11	dobj
+14	and	and	CC	_	13	cc
+15	aches	ache	NNS	_	13	conj
+16	caused	cause	VBN	_	13	vmod
+17	by	by	IN	_	16	prep
+18	colds	cold	NNS	_	17	pobj
+19	and	and	CC	_	18	cc
+20	the	the	DT	_	21	det
+21	flu	flu	NN	_	18	conj
+22	.	.	.	_	10	punct
+

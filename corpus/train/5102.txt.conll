@@ -1,0 +1,15 @@
+1	In	in	IN	_	7	prep
+2	1805	1805	CD	_	3	num
+3	merchants	merchant	NNS	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	city	city	NN	_	4	pobj
+7	formed	form	VBD	_	0	ROOT
+8	a	a	DT	_	9	det
+9	troop	troop	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	cavalry	cavalry	NN	_	10	pobj
+12	in	in	IN	_	9	prep
+13	Montreal	Montreal	NNP	_	12	pobj
+14	.	.	.	_	7	punct
+

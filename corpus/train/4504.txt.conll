@@ -1,0 +1,22 @@
+1	Georgia	Georgia	NNP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	the	the	DT	_	5	det
+4	leading	lead	VBG	_	5	amod
+5	producer	producer	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	fiber	fiber	NN	_	8	nn
+8	cans	can	NNS	_	6	pobj
+9	and	and	CC	_	8	cc
+10	drums	drum	NNS	_	8	conj
+11	,	,	,	_	5	punct
+12	followed	follow	VBN	_	5	vmod
+13	by	by	IN	_	12	prep
+14	Ohio	Ohio	NNP	_	13	pobj
+15	,	,	,	_	14	punct
+16	Wisconsin	Wisconsin	NNP	_	14	appos
+17	,	,	,	_	14	punct
+18	and	and	CC	_	14	cc
+19	North	North	NNP	_	20	nn
+20	Carolina	Carolina	NNP	_	14	conj
+21	.	.	.	_	5	punct
+

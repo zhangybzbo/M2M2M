@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	resort	resort	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	central	central	JJ	_	6	amod
+6	hotel	hotel	NN	_	3	dobj
+7	and	and	CC	_	6	cc
+8	free-standing	free-standing	JJ	_	9	amod
+9	villas	villa	NNS	_	6	conj
+10	in	in	IN	_	3	prep
+11	the	the	DT	_	12	det
+12	forest	forest	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

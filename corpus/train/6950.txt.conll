@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	small	small	JJ	_	3	amod
+3	charm	charm	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	seven	seven	CD	_	6	num
+6	goldfinches	goldfinch	NNS	_	4	pobj
+7	bounced	bounce	VBD	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	front	front	NN	_	8	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	bus	bus	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

@@ -1,0 +1,13 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	11	tok id="t1" base="illicit" pos="JJ" amod="t3"
+12	16	tok id="t2" base="gun" pos="NNS" nn="t3"
+17	21	tok id="t3" base="flow" pos="NN" ROOT="ROOT"
+22	26	tok id="t4" base="into" pos="IN" prep="t3"
+27	31	tok id="t5" base="this" pos="DT" det="t6"
+32	39	tok id="t6" base="country" pos="NN" pobj="t4"
+40	47	tok id="t7" base="through" pos="IN" prep="t3"
+48	55	tok id="t8" base="mexican" pos="JJ" amod="t9"
+56	61	tok id="t9" base="gang" pos="NNS" pobj="t7"
+62	63	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

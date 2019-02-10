@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	bat	bat	NN	_	3	nsubj
+3	moves	move	VBZ	_	0	ROOT
+4	its	its	PRP$	_	5	poss
+5	wings	wing	NNS	_	3	dobj
+6	like	like	IN	_	8	mark
+7	we	we	PRP	_	8	nsubj
+8	move	move	VBP	_	3	advcl
+9	our	we	PRP$	_	10	poss
+10	fingers	finger	NNS	_	8	dobj
+11	.	.	.	_	3	punct
+

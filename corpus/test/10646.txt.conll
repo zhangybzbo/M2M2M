@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	JNC	jnc	NN	_	6	nsubj
+3	also	also	RB	_	6	advmod
+4	is	be	VBZ	_	6	aux
+5	currently	currently	RB	_	6	advmod
+6	accepting	accept	VBG	_	0	ROOT
+7	applications	application	NNS	_	6	dobj
+8	for	for	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	vacancy	vacancy	NN	_	8	pobj
+11	created	create	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	retirement	retirement	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	Judge	Judge	NNP	_	19	nn
+17	Edwin	Edwin	NNP	_	19	nn
+18	B.	B.	NNP	_	19	nn
+19	Browning	Browning	NNP	_	15	pobj
+20	,	,	,	_	19	punct
+21	Jr.	Jr.	NNP	_	19	appos
+22	.	.	.	_	6	punct
+

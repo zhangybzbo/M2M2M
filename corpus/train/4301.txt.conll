@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	had	have	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	psychotic	psychotic	JJ	_	6	amod
+6	episode	episode	NN	_	3	dobj
+7	when	when	WRB	_	9	advmod
+8	he	he	PRP	_	9	nsubj
+9	put	put	VBD	_	3	advcl
+10	his	he	PRP$	_	12	poss
+11	baby	baby	NN	_	12	nn
+12	daughter	daughter	NN	_	9	dobj
+13	in	in	IN	_	9	prep
+14	a	a	DT	_	15	det
+15	microwave	microwave	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

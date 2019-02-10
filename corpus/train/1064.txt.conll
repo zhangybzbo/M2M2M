@@ -1,0 +1,27 @@
+1	Fatigue	fatigue	NN	_	2	nn
+2	corrosion	corrosion	NN	_	7	nsubj
+3	and	and	CC	_	2	cc
+4	stress	stress	NN	_	5	nn
+5	corrosion	corrosion	NN	_	2	conj
+6	are	be	VBP	_	7	cop
+7	similar	similar	JJ	_	0	ROOT
+8	,	,	,	_	7	punct
+9	as	as	IN	_	12	mark
+10	both	both	DT	_	12	nsubjpass
+11	are	be	VBP	_	12	auxpass
+12	caused	cause	VBN	_	7	advcl
+13	by	by	IN	_	12	prep
+14	external	external	JJ	_	15	amod
+15	stresses	stress	NNS	_	13	pobj
+16	applied	apply	VBD	_	12	dep
+17	to	to	TO	_	16	prep
+18	the	the	DT	_	19	det
+19	pipe	pipe	NN	_	17	pobj
+20	and	and	CC	_	16	cc
+21	occur	occur	VBP	_	16	conj
+22	inside	inside	IN	_	21	prep
+23	of	of	IN	_	22	pcomp
+24	the	the	DT	_	25	det
+25	pipe	pipe	NN	_	23	pobj
+26	.	.	.	_	7	punct
+

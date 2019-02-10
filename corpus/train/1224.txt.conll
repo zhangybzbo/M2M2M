@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	above	above	JJ	_	3	amod
+3	exceptions	exception	NNS	_	5	nsubj
+4	fully	fully	RB	_	5	advmod
+5	resolved	resolve	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	evaluation	evaluation	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	photograph	photograph	NN	_	8	pobj
+11	by	by	IN	_	5	prep
+12	a	a	DT	_	13	det
+13	court	court	NN	_	11	pobj
+14	as	as	IN	_	5	prep
+15	a	a	DT	_	16	det
+16	result	result	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	claim	claim	NN	_	17	pobj
+20	.	.	.	_	5	punct
+

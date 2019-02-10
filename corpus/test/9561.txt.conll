@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	speed	speed	NN	_	3	nn
+3	indicator	indicator	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	bus	bus	NN	_	4	pobj
+7	was	be	VBD	_	9	aux
+8	n't	not	RB	_	9	neg
+9	working	work	VBG	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	driver	driver	NN	_	14	nsubj
+13	was	be	VBD	_	14	aux
+14	driving	drive	VBG	_	9	conj
+15	like	like	IN	_	14	prep
+16	mad	mad	JJ	_	15	pobj
+17	.	.	.	_	9	punct
+

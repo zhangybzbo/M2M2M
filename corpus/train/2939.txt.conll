@@ -1,0 +1,16 @@
+1	Our	we	PRP$	_	2	poss
+2	director	director	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	member	member	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	AEA	AEA	NNP	_	6	pobj
+9	,	,	,	_	8	punct
+10	NAFSA	NAFSA	NNP	_	8	conj
+11	,	,	,	_	8	punct
+12	and	and	CC	_	8	cc
+13	EAIE	eaie	NN	_	14	nn
+14	organizations	organization	NNS	_	8	conj
+15	.	.	.	_	5	punct
+

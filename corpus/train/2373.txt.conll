@@ -1,0 +1,26 @@
+1	Sitting	sit	VBG	_	0	ROOT
+2	on	on	IN	_	1	prep
+3	wooden	wooden	JJ	_	4	amod
+4	benches	bench	NNS	_	2	pobj
+5	,	,	,	_	1	punct
+6	in	in	IN	_	1	prep
+7	strong	strong	JJ	_	6	pobj
+8	,	,	,	_	1	punct
+9	concealed	conceal	VBN	_	10	amod
+10	positions	position	NNS	_	1	conj
+11	,	,	,	_	1	punct
+12	the	the	DT	_	15	det
+13	enemy	enemy	NN	_	15	nn
+14	machine	machine	NN	_	15	nn
+15	gunners	gunner	NNS	_	16	nsubj
+16	tore	tear	VBD	_	1	conj
+17	the	the	DT	_	18	det
+18	platoon	platoon	NN	_	16	dobj
+19	to	to	TO	_	16	prep
+20	shreds	shred	NNS	_	19	pobj
+21	with	with	IN	_	16	prep
+22	their	they	PRP$	_	24	poss
+23	murderous	murderous	JJ	_	24	amod
+24	weapons	weapon	NNS	_	21	pobj
+25	.	.	.	_	1	punct
+

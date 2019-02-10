@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	weaves	weave	VBZ	_	0	ROOT
+3	complex	complex	JJ	_	4	amod
+4	tales	tale	NNS	_	2	dobj
+5	concerning	concern	VBG	_	4	prep
+6	the	the	DT	_	8	det
+7	romantic	romantic	JJ	_	8	amod
+8	concerns	concern	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	happiness	happiness	NN	_	9	pobj
+11	,	,	,	_	10	punct
+12	love	love	NN	_	10	conj
+13	and	and	CC	_	10	cc
+14	sufferance	sufferance	NN	_	10	conj
+15	.	.	.	_	2	punct
+

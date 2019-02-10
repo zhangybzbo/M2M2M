@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	porter	porter	NN	_	0	ROOT
+3	passed	pass	VBN	_	2	vmod
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	licence	licence	NN	_	4	pobj
+7	to	to	TO	_	3	prep
+8	the	the	DT	_	9	det
+9	wife	wife	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	daughter	daughter	NN	_	9	conj
+13	.	.	.	_	2	punct
+

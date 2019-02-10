@@ -1,0 +1,10 @@
+0	37	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="river" pos="NN" nsubj="t3"
+10	14	tok id="t2" base="once" pos="RB" advmod="t3"
+15	22	tok id="t3" base="power" pos="VBD" ROOT="ROOT"
+23	24	tok id="t4" base="a" pos="DT" det="t6"
+25	30	tok id="t5" base="grist" pos="NN" nn="t6"
+31	35	tok id="t6" base="mill" pos="NN" dobj="t3"
+36	37	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

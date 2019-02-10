@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	morning	morning	NN	_	3	nn
+3	session	session	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	symposium	symposium	NN	_	4	pobj
+7	ends	end	VBZ	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	reunion	reunion	NN	_	11	nn
+11	lunch	lunch	NN	_	8	pobj
+12	for	for	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	attendees	attendee	NNS	_	12	pobj
+15	.	.	.	_	7	punct
+

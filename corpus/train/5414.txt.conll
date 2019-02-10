@@ -1,0 +1,14 @@
+1	Artisans	Artisans	NNPS	_	2	nsubj
+2	created	create	VBD	_	0	ROOT
+3	unique	unique	JJ	_	4	amod
+4	footwear	footwear	NN	_	2	dobj
+5	for	for	IN	_	2	prep
+6	rich	rich	JJ	_	7	amod
+7	patrons	patron	NNS	_	5	pobj
+8	,	,	,	_	2	punct
+9	and	and	CC	_	2	cc
+10	new	new	JJ	_	11	amod
+11	styles	style	NNS	_	12	nsubj
+12	developed	develop	VBD	_	2	conj
+13	.	.	.	_	2	punct
+

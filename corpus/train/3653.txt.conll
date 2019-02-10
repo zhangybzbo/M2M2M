@@ -1,0 +1,12 @@
+1	He	he	PRP	_	2	nsubj
+2	drags	drag	VBZ	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	drops	drop	VBZ	_	2	conj
+5	the	the	DT	_	7	det
+6	file	file	NN	_	7	nn
+7	icon	icon	NN	_	2	dobj
+8	into	into	IN	_	2	prep
+9	a	a	DT	_	10	det
+10	folder	folder	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

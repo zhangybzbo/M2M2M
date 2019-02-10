@@ -1,0 +1,20 @@
+1	Getting	get	VBG	_	2	amod
+2	help	help	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	reduced	reduce	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	time	time	NN	_	4	dobj
+7	to	to	TO	_	8	aux
+8	reverse	reverse	VB	_	6	vmod
+9	all	all	PDT	_	11	predet
+10	the	the	DT	_	11	det
+11	irritation	irritation	NN	_	8	dobj
+12	that	that	WDT	_	15	nsubjpass
+13	had	have	VBD	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	caused	cause	VBN	_	11	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	fungus	fungus	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

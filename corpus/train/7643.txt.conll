@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	patient	patient	NN	_	4	nsubj
+3	literally	literally	RB	_	4	advmod
+4	sawed	saw	VBD	_	0	ROOT
+5	it	it	PRP	_	4	dobj
+6	in	in	IN	_	4	prep
+7	half	half	NN	_	6	pobj
+8	using	use	VBG	_	4	vmod
+9	a	a	DT	_	11	det
+10	hard	hard	JJ	_	11	amod
+11	toothbrush	toothbrush	NN	_	8	dobj
+12	over	over	IN	_	8	prep
+13	a	a	DT	_	14	det
+14	period	period	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	many	many	JJ	_	17	amod
+17	years	year	NNS	_	15	pobj
+18	.	.	.	_	4	punct
+

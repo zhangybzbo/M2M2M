@@ -1,0 +1,18 @@
+1	It	it	PRP	_	4	nsubj
+2	's	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	fish	fish	NN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	lungs	lung	NNS	_	5	pobj
+7	,	,	,	_	4	punct
+8	and	and	CC	_	4	cc
+9	it	it	PRP	_	11	nsubj
+10	can	can	MD	_	11	aux
+11	survive	survive	VB	_	4	conj
+12	on	on	IN	_	11	prep
+13	land	land	NN	_	12	pobj
+14	for	for	IN	_	11	prep
+15	brief	brief	JJ	_	16	amod
+16	periods	period	NNS	_	14	pobj
+17	.	.	.	_	4	punct
+

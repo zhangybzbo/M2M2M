@@ -1,0 +1,1 @@
+It often becomes necessary to delete objects from the chart during the course of monitoring system performance .

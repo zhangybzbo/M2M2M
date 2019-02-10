@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	bomb	bomb	NN	_	5	nsubj
+3	weighing	weigh	VBG	_	2	vmod
+4	6kg	6kg	JJ	_	3	dobj
+5	was	be	VBD	_	0	ROOT
+6	inside	inside	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	box	box	NN	_	6	pobj
+9	fitted	fit	VBN	_	8	vmod
+10	with	with	IN	_	9	prep
+11	an	a	DT	_	13	det
+12	electronic	electronic	JJ	_	13	amod
+13	detonator	detonator	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

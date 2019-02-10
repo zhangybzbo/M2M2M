@@ -1,0 +1,25 @@
+1	The	the	DT	_	6	nsubj
+2	soft-spoken	soft-spoken	JJ	_	6	dep
+3	,	,	,	_	6	punct
+4	professorial	professorial	JJ	_	5	amod
+5	chef	chef	NN	_	6	nsubj
+6	spoke	speak	VBD	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	knife	knife	NN	_	7	pobj
+9	in	in	IN	_	8	prep
+10	hand	hand	NN	_	9	pobj
+11	passionately	passionately	RB	_	12	advmod
+12	about	about	IN	_	6	prep
+13	why	why	WRB	_	17	advmod
+14	he	he	PRP	_	17	nsubjpass
+15	's	be	VBZ	_	17	auxpass
+16	been	be	VBN	_	17	auxpass
+17	drawn	draw	VBN	_	12	pcomp
+18	to	to	TO	_	17	prep
+19	Thai	Thai	NNP	_	20	nn
+20	cooking	cooking	NN	_	18	pobj
+21	for	for	IN	_	17	prep
+22	twenty-five	twenty-five	CD	_	23	num
+23	years	year	NNS	_	21	pobj
+24	.	.	.	_	6	punct
+

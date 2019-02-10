@@ -1,0 +1,26 @@
+1	The	the	DT	_	4	det
+2	standard	standard	JJ	_	4	amod
+3	soccer	soccer	NN	_	4	nn
+4	ball	ball	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	made	make	VBN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	synthetic	synthetic	JJ	_	9	amod
+9	leather	leather	NN	_	7	pobj
+10	,	,	,	_	6	punct
+11	usually	usually	RB	_	12	advmod
+12	polyurethane	polyurethane	NN	_	17	nsubj
+13	or	or	CC	_	12	cc
+14	polyvinyl	polyvinyl	NN	_	15	nn
+15	chloride	chloride	NN	_	12	conj
+16	,	,	,	_	12	punct
+17	stitched	stitch	VBD	_	6	parataxis
+18	around	around	IN	_	17	prep
+19	an	a	DT	_	21	det
+20	inflated	inflated	JJ	_	21	amod
+21	rubber	rubber	NN	_	18	pobj
+22	or	or	CC	_	21	cc
+23	rubber-like	rubber-like	JJ	_	24	amod
+24	bladder	bladder	NN	_	21	conj
+25	.	.	.	_	6	punct
+

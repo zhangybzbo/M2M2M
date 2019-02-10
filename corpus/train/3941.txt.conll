@@ -1,0 +1,27 @@
+1	When	when	WRB	_	5	advmod
+2	a	a	DT	_	3	det
+3	tsunami	tsunami	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	generated	generate	VBN	_	16	advcl
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	strong	strong	JJ	_	10	amod
+9	offshore	offshore	JJ	_	10	amod
+10	earthquake	earthquake	NN	_	6	pobj
+11	,	,	,	_	16	punct
+12	its	its	PRP$	_	14	poss
+13	first	first	JJ	_	14	amod
+14	waves	wave	NNS	_	16	nsubj
+15	would	would	MD	_	16	aux
+16	reach	reach	VB	_	0	ROOT
+17	the	the	DT	_	20	det
+18	outer	outer	JJ	_	20	amod
+19	coast	coast	NN	_	20	nn
+20	minutes	minute	NNS	_	16	dobj
+21	after	after	IN	_	24	mark
+22	the	the	DT	_	23	det
+23	ground	ground	NN	_	24	nsubj
+24	stops	stop	VBZ	_	20	rcmod
+25	shaking	shake	VBG	_	24	xcomp
+26	.	.	.	_	16	punct
+

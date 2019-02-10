@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	first	first	JJ	_	4	amod
+3	report	report	NN	_	4	nn
+4	analyses	analysis	NNS	_	0	ROOT
+5	the	the	DT	_	7	det
+6	adaptation	adaptation	NN	_	7	nn
+7	strategies	strategy	NNS	_	4	dep
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	EU	EU	NNP	_	12	nn
+11	member	member	NN	_	12	nn
+12	states	state	NNS	_	8	pobj
+13	.	.	.	_	4	punct
+

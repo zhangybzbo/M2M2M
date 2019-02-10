@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	present	present	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	perception	perception	NN	_	2	dobj
+5	driven	drive	VBN	_	8	amod
+6	autonomous	autonomous	JJ	_	8	amod
+7	urban	urban	JJ	_	8	amod
+8	vehicle	vehicle	NN	_	4	dep
+9	.	.	.	_	2	punct
+

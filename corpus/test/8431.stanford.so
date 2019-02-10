@@ -1,0 +1,11 @@
+0	38	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="my" pos="PRP$" poss="t2"
+3	7	tok id="t1" base="shoe" pos="NN" nn="t2"
+8	13	tok id="t2" base="lace" pos="NNS" nsubj="t3"
+14	18	tok id="t3" base="stay" pos="VBP" ROOT="ROOT"
+19	23	tok id="t4" base="tie" pos="VBN" xcomp="t3"
+24	27	tok id="t5" base="all" pos="PDT" predet="t7"
+28	31	tok id="t6" base="the" pos="DT" det="t7"
+32	36	tok id="t7" base="time" pos="NN" tmod="t4"
+37	38	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	reaction	reaction	NN	_	22	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	international	international	JJ	_	6	amod
+6	press	press	NN	_	3	pobj
+7	,	,	,	_	6	punct
+8	which	which	WDT	_	11	dobj
+9	I	I	PRP	_	11	nsubj
+10	am	be	VBP	_	11	cop
+11	sure	sure	JJ	_	6	rcmod
+12	you	you	PRP	_	17	nsubj
+13	here	here	RB	_	17	advmod
+14	in	in	IN	_	17	prep
+15	Tokyo	Tokyo	NNP	_	14	pobj
+16	have	have	VBP	_	17	aux
+17	noticed	notice	VBN	_	11	ccomp
+18	,	,	,	_	2	punct
+19	has	have	VBZ	_	22	aux
+20	been	be	VBN	_	22	cop
+21	very	very	RB	_	22	advmod
+22	wide	wide	JJ	_	0	ROOT
+23	and	and	CC	_	22	cc
+24	detailed	detailed	JJ	_	22	conj
+25	.	.	.	_	22	punct
+

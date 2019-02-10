@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	cutting	cut	VBG	_	3	amod
+3	tool	tool	NN	_	12	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	sort	sort	NN	_	4	pobj
+7	used	use	VBN	_	6	vmod
+8	for	for	IN	_	7	prep
+9	deep	deep	JJ	_	11	amod
+10	hole	hole	NN	_	11	nn
+11	drilling	drilling	NN	_	8	pobj
+12	has	have	VBZ	_	0	ROOT
+13	a	a	DT	_	15	det
+14	cutting	cut	VBG	_	15	amod
+15	head	head	NN	_	16	nsubj
+16	mounted	mount	VBD	_	12	ccomp
+17	on	on	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	shank	shank	NN	_	17	pobj
+20	.	.	.	_	12	punct
+

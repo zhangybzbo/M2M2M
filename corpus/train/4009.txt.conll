@@ -1,0 +1,14 @@
+1	Scratch	scratch	VB	_	12	nsubjpass
+2	the	the	DT	_	3	det
+3	stem	stem	NN	_	1	dobj
+4	of	of	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	tree	tree	NN	_	4	pobj
+7	and	and	CC	_	3	cc
+8	a	a	DT	_	10	det
+9	spicy-sweet	spicy-sweet	JJ	_	10	amod
+10	aroma	aroma	NN	_	3	conj
+11	is	be	VBZ	_	12	auxpass
+12	revealed	reveal	VBN	_	0	ROOT
+13	.	.	.	_	12	punct
+

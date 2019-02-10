@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det
+2	same	same	JJ	_	4	amod
+3	stone	stone	NN	_	4	nn
+4	mason	mason	NN	_	14	nsubj
+5	who	who	WP	_	6	nsubj
+6	did	do	VBD	_	4	rcmod
+7	the	the	DT	_	8	det
+8	stonework	stonework	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	first	first	JJ	_	13	amod
+12	mill	mill	NN	_	13	nn
+13	dam	dam	NN	_	9	pobj
+14	put	put	VBD	_	0	ROOT
+15	up	up	RP	_	14	prt
+16	the	the	DT	_	17	det
+17	walls	wall	NNS	_	14	dobj
+18	.	.	.	_	14	punct
+

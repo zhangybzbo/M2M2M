@@ -1,0 +1,16 @@
+1	But	but	CC	_	6	cc
+2	then	then	RB	_	6	advmod
+3	one	one	CD	_	6	nsubj
+4	of	of	IN	_	3	prep
+5	them	they	PRP	_	4	pobj
+6	got	get	VBD	_	0	ROOT
+7	hold	hold	NN	_	6	dobj
+8	of	of	IN	_	7	prep
+9	an	a	DT	_	10	det
+10	axe	axe	NN	_	8	pobj
+11	belonging	belong	VBG	_	10	vmod
+12	to	to	TO	_	11	prep
+13	the	the	DT	_	14	det
+14	carpenter	carpenter	NN	_	12	pobj
+15	.	.	.	_	6	punct
+

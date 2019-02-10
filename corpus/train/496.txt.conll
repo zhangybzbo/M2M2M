@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	recipient	recipient	JJ	_	3	nsubj
+3	receives	receive	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	call	call	NN	_	3	dobj
+6	through	through	IN	_	11	mark
+7	a	a	DT	_	10	det
+8	miniature	miniature	JJ	_	10	amod
+9	radio	radio	NN	_	10	nn
+10	receiver	receiver	NN	_	11	nsubj
+11	carried	carry	VBD	_	3	advcl
+12	on	on	IN	_	11	prep
+13	his	he	PRP$	_	14	poss
+14	person	person	NN	_	12	pobj
+15	,	,	,	_	11	punct
+16	the	the	DT	_	17	det
+17	receiver	receiver	NN	_	11	dobj
+18	having	have	VBG	_	17	vmod
+19	a	a	DT	_	22	det
+20	built-in	built-in	JJ	_	22	amod
+21	ferritic	ferritic	JJ	_	22	amod
+22	antenna	antenna	NN	_	18	dobj
+23	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	Throughout	throughout	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	past	past	JJ	_	4	amod
+4	decade	decade	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	Monsanto	Monsanto	NNP	_	9	nsubj
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	aux
+9	re-making	re-make	VBG	_	0	ROOT
+10	itself	itself	PRP	_	9	dobj
+11	as	as	IN	_	9	prep
+12	a	a	DT	_	16	det
+13	seed	seed	NN	_	16	nn
+14	and	and	CC	_	13	cc
+15	biotech	biotech	JJ	_	13	conj
+16	company	company	NN	_	11	pobj
+17	,	,	,	_	9	punct
+18	as	as	IN	_	19	mark
+19	opposed	oppose	VBN	_	9	advcl
+20	to	to	TO	_	19	prep
+21	one	one	CD	_	20	pobj
+22	focused	focus	VBN	_	21	vmod
+23	on	on	IN	_	22	prep
+24	agrochemicals	agrochemical	NNS	_	23	pobj
+25	.	.	.	_	9	punct
+

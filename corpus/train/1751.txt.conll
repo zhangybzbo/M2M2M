@@ -1,0 +1,11 @@
+1	Our	we	PRP$	_	2	poss
+2	ancestors	ancestor	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	added	add	VBN	_	0	ROOT
+5	high	high	JJ	_	6	amod
+6	protein	protein	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	their	they	PRP$	_	9	poss
+9	diet	diet	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

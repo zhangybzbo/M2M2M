@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	female	female	JJ	_	3	amod
+3	bees	bee	NNS	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	most	most	JJS	_	6	amod
+6	species	species	NNS	_	4	pobj
+7	feed	feed	VBP	_	0	ROOT
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	nectar	nectar	NN	_	8	pobj
+11	secreted	secrete	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	many	many	JJ	_	14	amod
+14	plants	plant	NNS	_	12	pobj
+15	.	.	.	_	7	punct
+

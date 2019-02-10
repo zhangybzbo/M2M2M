@@ -1,0 +1,19 @@
+1	Finally	finally	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	they	they	PRP	_	4	nsubj
+4	found	find	VBD	_	0	ROOT
+5	out	out	RP	_	4	prt
+6	that	that	IN	_	10	mark
+7	the	the	DT	_	8	det
+8	letter	letter	NN	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	placed	place	VBN	_	4	ccomp
+11	inside	inside	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	pocket	pocket	NN	_	14	nn
+14	notebook	notebook	NN	_	11	pobj
+15	that	that	WDT	_	17	dobj
+16	Donna	Donna	NNP	_	17	nsubj
+17	owned	own	VBD	_	14	rcmod
+18	.	.	.	_	4	punct
+

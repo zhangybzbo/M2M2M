@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	Titan	Titan	NNP	_	3	nsubj
+3	heats	heat	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	dermis	dermi	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	cause	cause	VB	_	3	vmod
+8	collagen	collagen	NN	_	9	nn
+9	contraction	contraction	NN	_	7	dobj
+10	while	while	IN	_	3	prep
+11	ensuring	ensure	VBG	_	10	pcomp
+12	preservation	preservation	NN	_	11	dobj
+13	the	the	DT	_	14	det
+14	epidermis	epidermis	NN	_	12	dep
+15	through	through	IN	_	14	prep
+16	continuous	continuous	JJ	_	17	amod
+17	cooling	cooling	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

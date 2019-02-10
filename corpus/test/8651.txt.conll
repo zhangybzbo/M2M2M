@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	journal	journal	NN	_	3	nsubj
+3	takes	take	VBZ	_	0	ROOT
+4	an	a	DT	_	6	det
+5	inter-disciplinary	inter-disciplinary	JJ	_	6	amod
+6	approach	approach	NN	_	3	dobj
+7	,	,	,	_	3	punct
+8	examining	examine	VBG	_	3	vmod
+9	the	the	DT	_	10	det
+10	history	history	NN	_	8	dobj
+11	,	,	,	_	10	punct
+12	culture	culture	NN	_	10	conj
+13	and	and	CC	_	10	cc
+14	theory	theory	NN	_	10	conj
+15	of	of	IN	_	14	prep
+16	anarchism	anarchism	NN	_	15	pobj
+17	.	.	.	_	3	punct
+

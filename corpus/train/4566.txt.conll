@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	third	third	JJ	_	12	nsubj
+3	through	through	IN	_	2	prep
+4	seventh	seventh	JJ	_	5	amod
+5	phases	phase	NNS	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	program	program	NN	_	6	pobj
+9	are	be	VBP	_	12	cop
+10	the	the	DT	_	12	det
+11	five	five	CD	_	12	num
+12	wedges	wedge	NNS	_	0	ROOT
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	building	building	NN	_	13	pobj
+16	from	from	IN	_	12	prep
+17	the	the	DT	_	19	det
+18	first	first	JJ	_	19	amod
+19	floor	floor	NN	_	16	pobj
+20	to	to	TO	_	16	prep
+21	the	the	DT	_	23	det
+22	fifth	fifth	JJ	_	23	amod
+23	floor	floor	NN	_	20	pobj
+24	.	.	.	_	12	punct
+

@@ -1,0 +1,11 @@
+1	All	all	DT	_	2	det
+2	parties	party	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	taken	take	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	confidence	confidence	NN	_	5	pobj
+7	over	over	IN	_	6	prep
+8	Swat	Swat	NNP	_	9	nn
+9	offensive	offensive	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

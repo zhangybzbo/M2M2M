@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	contents	contents	NNS	_	3	nsubj
+3	release	release	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	copolymer-modified	copolymer-modified	JJ	_	7	amod
+7	liposomes	liposome	NNS	_	4	pobj
+8	was	be	VBD	_	10	auxpass
+9	strongly	strongly	RB	_	10	advmod
+10	accelerated	accelerate	VBN	_	3	dep
+11	around	around	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	LCST	lcst	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	copolymer	copolymer	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

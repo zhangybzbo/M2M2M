@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	bride	bride	NN	_	6	nsubj
+3	and	and	CC	_	2	cc
+4	the	the	DT	_	5	det
+5	groom	groom	NN	_	2	conj
+6	poured	pour	VBD	_	0	ROOT
+7	champagne	champagne	NN	_	6	dobj
+8	into	into	IN	_	6	prep
+9	stacked	stack	VBN	_	11	amod
+10	champagne	champagne	NN	_	11	nn
+11	glasses	glass	NNS	_	8	pobj
+12	.	.	.	_	6	punct
+

@@ -1,0 +1,18 @@
+1	On	on	IN	_	10	prep
+2	the	the	DT	_	3	det
+3	table	table	NN	_	1	pobj
+4	,	,	,	_	10	punct
+5	a	a	DT	_	7	det
+6	potato	potato	NN	_	7	nn
+7	slice	slice	NN	_	10	nsubjpass
+8	was	be	VBD	_	10	auxpass
+9	already	already	RB	_	10	advmod
+10	placed	place	VBN	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	beaker	beaker	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	distilled	distilled	JJ	_	16	amod
+16	water	water	NN	_	14	pobj
+17	.	.	.	_	10	punct
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	building	building	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	significant	significant	JJ	_	6	amod
+6	amount	amount	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	furniture	furniture	NN	_	7	pobj
+9	and	and	CC	_	8	cc
+10	equipment	equipment	NN	_	8	conj
+11	.	.	.	_	3	punct
+

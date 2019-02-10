@@ -1,0 +1,10 @@
+1	His	he	PRP$	_	2	poss
+2	speech	speech	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	a	a	DT	_	5	det
+5	summary	summary	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	known	known	JJ	_	8	amod
+8	problems	problem	NNS	_	6	pobj
+9	.	.	.	_	5	punct
+

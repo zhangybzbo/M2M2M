@@ -1,0 +1,15 @@
+1	Much	much	JJ	_	7	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	resulting	result	VBG	_	5	amod
+5	work	work	NN	_	2	pobj
+6	is	be	VBZ	_	7	auxpass
+7	summarised	summarise	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	his	he	PRP$	_	11	poss
+10	joint	joint	JJ	_	11	amod
+11	book	book	NN	_	8	pobj
+12	with	with	IN	_	11	prep
+13	Howitt	Howitt	NNP	_	12	pobj
+14	.	.	.	_	7	punct
+

@@ -1,0 +1,17 @@
+1	Preventing	prevent	VBG	_	4	csubj
+2	computer	computer	NN	_	3	nn
+3	fraud	fraud	NN	_	1	dobj
+4	means	mean	VBZ	_	0	ROOT
+5	outwitting	outwit	VBG	_	6	amod
+6	horde	horde	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	hackers	hacker	NNS	_	7	pobj
+9	,	,	,	_	8	punct
+10	crackers	cracker	NNS	_	8	conj
+11	,	,	,	_	8	punct
+12	spoofers	spoofer	NNS	_	8	conj
+13	,	,	,	_	8	punct
+14	and	and	CC	_	8	cc
+15	sniffers	sniffer	NNS	_	8	conj
+16	.	.	.	_	4	punct
+

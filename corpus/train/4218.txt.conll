@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	owner	owner	NN	_	4	nsubj
+3	had	have	VBD	_	4	aux
+4	installed	install	VBN	_	0	ROOT
+5	the	the	DT	_	7	det
+6	closed-end	closed-end	JJ	_	7	amod
+7	nuts	nut	NNS	_	4	dobj
+8	with	with	IN	_	4	prep
+9	a	a	DT	_	11	det
+10	generous	generous	JJ	_	11	amod
+11	dab	dab	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	wheel	wheel	NN	_	15	nn
+14	bearing	bearing	NN	_	15	nn
+15	grease	grease	NN	_	12	pobj
+16	.	.	.	_	4	punct
+

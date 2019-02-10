@@ -1,0 +1,22 @@
+1	Most	most	JJS	_	2	amod
+2	illnesses	illness	NNS	_	9	nsubj
+3	,	,	,	_	2	punct
+4	including	include	VBG	_	2	prep
+5	colds	cold	NNS	_	4	pobj
+6	and	and	CC	_	5	cc
+7	flu	flu	NN	_	5	conj
+8	,	,	,	_	2	punct
+9	cause	cause	VB	_	0	ROOT
+10	a	a	DT	_	12	det
+11	toxic	toxic	JJ	_	12	amod
+12	overload	overload	NN	_	9	dobj
+13	that	that	WDT	_	15	nsubj
+14	also	also	RB	_	15	advmod
+15	increases	increase	VBZ	_	12	rcmod
+16	the	the	DT	_	17	det
+17	stress	stress	NN	_	15	dobj
+18	on	on	IN	_	15	prep
+19	the	the	DT	_	20	det
+20	kidneys	kidney	NNS	_	18	pobj
+21	.	.	.	_	9	punct
+

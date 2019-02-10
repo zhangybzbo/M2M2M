@@ -1,0 +1,26 @@
+1	In	in	IN	_	11	prep
+2	this	this	DT	_	3	det
+3	study	study	NN	_	1	pobj
+4	,	,	,	_	11	punct
+5	subjects	subject	NNS	_	11	nsubjpass
+6	from	from	IN	_	5	prep
+7	two	two	CD	_	9	num
+8	different	different	JJ	_	9	amod
+9	societies	society	NNS	_	6	pobj
+10	were	be	VBD	_	11	auxpass
+11	asked	ask	VBN	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	play	play	VB	_	11	xcomp
+14	ultimatum	ultimatum	NN	_	15	nn
+15	games	game	NNS	_	13	dobj
+16	and	and	CC	_	13	cc
+17	subsequently	subsequently	RB	_	19	advmod
+18	to	to	TO	_	19	aux
+19	answer	answer	VB	_	13	conj
+20	a	a	DT	_	21	det
+21	battery	battery	NN	_	19	dobj
+22	of	of	IN	_	21	prep
+23	attitudinal	attitudinal	JJ	_	24	amod
+24	questions	question	NNS	_	22	pobj
+25	.	.	.	_	11	punct
+

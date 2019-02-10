@@ -1,0 +1,9 @@
+0	42	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="president" pos="NN" nsubj="t3"
+14	16	tok id="t2" base="be" pos="VBZ" aux="t3"
+17	24	tok id="t3" base="run" pos="VBG" ROOT="ROOT"
+25	29	tok id="t4" base="into" pos="IN" prep="t3"
+30	40	tok id="t5" base="bankruptcy" pos="NN" pobj="t4"
+41	42	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

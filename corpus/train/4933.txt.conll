@@ -1,0 +1,15 @@
+1	An	a	DT	_	2	det
+2	album	album	NN	_	10	nsubjpass
+3	by	by	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	same	same	JJ	_	6	amod
+6	artist	artist	NN	_	3	pobj
+7	has	have	VBZ	_	10	aux
+8	now	now	RB	_	10	advmod
+9	been	be	VBN	_	10	auxpass
+10	put	put	VBN	_	0	ROOT
+11	into	into	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	folder	folder	NN	_	11	pobj
+14	.	.	.	_	10	punct
+

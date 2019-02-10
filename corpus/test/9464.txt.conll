@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	rainbows	rainbow	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	refraction	refraction	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	or	or	CC	_	4	cc
+10	bending	bend	VBG	_	4	conj
+11	,	,	,	_	4	punct
+12	of	of	IN	_	4	prep
+13	sunlight	sunlight	NN	_	12	pobj
+14	as	as	IN	_	16	mark
+15	it	it	PRP	_	16	nsubj
+16	passes	pass	VBZ	_	4	advcl
+17	through	through	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	raindrops	raindrop	NNS	_	17	pobj
+20	.	.	.	_	4	punct
+

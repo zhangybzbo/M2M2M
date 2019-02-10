@@ -1,0 +1,12 @@
+1	These	these	DT	_	2	det
+2	brothers	brother	NNS	_	5	nsubj
+3	were	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	first	first	JJ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	invent	invent	VB	_	5	xcomp
+8	a	a	DT	_	10	det
+9	working	work	VBG	_	10	amod
+10	airplane	airplane	NN	_	7	dobj
+11	.	.	.	_	5	punct
+

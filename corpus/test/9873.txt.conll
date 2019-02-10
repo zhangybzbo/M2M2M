@@ -1,0 +1,18 @@
+1	We	we	PRP	_	4	nsubj
+2	all	all	DT	_	1	det
+3	are	be	VBP	_	4	aux
+4	spreading	spread	VBG	_	0	ROOT
+5	viruses	virus	NNS	_	4	dobj
+6	to	to	TO	_	4	prep
+7	other	other	JJ	_	8	amod
+8	people	people	NNS	_	6	pobj
+9	since	since	IN	_	13	mark
+10	we	we	PRP	_	13	nsubj
+11	are	be	VBP	_	13	aux
+12	not	not	RB	_	13	neg
+13	washing	wash	VBG	_	4	advcl
+14	our	we	PRP$	_	15	poss
+15	hands	hand	NNS	_	13	dobj
+16	well	well	RB	_	13	advmod
+17	.	.	.	_	4	punct
+

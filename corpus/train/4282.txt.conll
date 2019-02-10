@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	necromancer	necromancer	NN	_	3	nsubj
+3	wields	wield	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	power	power	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	death	death	NN	_	6	pobj
+8	itself	itself	PRP	_	7	npadvmod
+9	,	,	,	_	3	punct
+10	a	a	DT	_	11	det
+11	power	power	NN	_	3	dobj
+12	no	no	DT	_	13	neg
+13	enemy	enemy	NN	_	15	nsubj
+14	can	can	MD	_	15	aux
+15	stand	stand	VB	_	11	rcmod
+16	against	against	IN	_	15	prep
+17	.	.	.	_	3	punct
+

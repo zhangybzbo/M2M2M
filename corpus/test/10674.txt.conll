@@ -1,0 +1,14 @@
+1	References	reference	NNS	_	7	nsubjpass
+2	to	to	TO	_	1	prep
+3	the	the	DT	_	5	det
+4	hearing	hearing	NN	_	5	nn
+5	transcript	transcript	NN	_	2	pobj
+6	are	be	VBP	_	7	auxpass
+7	denoted	denote	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	volume	volume	NN	_	12	nn
+10	and	and	CC	_	9	cc
+11	page	page	NN	_	9	conj
+12	numbers	number	NNS	_	8	pobj
+13	.	.	.	_	7	punct
+

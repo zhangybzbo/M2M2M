@@ -1,0 +1,17 @@
+1	Only	only	RB	_	3	advmod
+2	a	a	DT	_	3	det
+3	minority	minority	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	Armenian	armenian	JJ	_	6	amod
+6	physicians	physician	NNS	_	4	pobj
+7	felt	feel	VBD	_	0	ROOT
+8	well	well	RB	_	9	advmod
+9	prepared	prepare	VBN	_	7	acomp
+10	to	to	TO	_	9	prep
+11	counsel	counsel	NN	_	12	nn
+12	patients	patient	NNS	_	10	pobj
+13	to	to	TO	_	14	aux
+14	quit	quit	VB	_	12	vmod
+15	smoking	smoking	NN	_	14	dobj
+16	.	.	.	_	7	punct
+

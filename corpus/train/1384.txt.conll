@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	gunmen	gunman	NNS	_	3	nsubj
+3	ran	run	VBD	_	0	ROOT
+4	away	away	RB	_	3	advmod
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	scene	scene	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

@@ -1,0 +1,7 @@
+1	Percentages	percentage	NNS	_	2	nsubj
+2	denote	denote	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	interest	interest	NN	_	5	nn
+5	rate	rate	NN	_	2	dobj
+6	.	.	.	_	2	punct
+

@@ -1,0 +1,26 @@
+1	92	92	CD	_	2	num
+2	%	%	NN	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	CO2	co2	NN	_	6	nn
+6	emissions	emission	NNS	_	3	pobj
+7	are	be	VBP	_	8	auxpass
+8	caused	cause	VBN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	lorries	lorry	NNS	_	9	pobj
+12	,	,	,	_	8	punct
+13	but	but	CC	_	8	cc
+14	this	this	DT	_	17	nsubj
+15	is	be	VBZ	_	17	cop
+16	not	not	RB	_	17	neg
+17	fair	fair	JJ	_	8	conj
+18	so	so	IN	_	24	mark
+19	a	a	DT	_	22	det
+20	different	different	JJ	_	22	amod
+21	distribution	distribution	NN	_	22	nn
+22	method	method	NN	_	24	nsubjpass
+23	is	be	VBZ	_	24	auxpass
+24	needed	need	VBN	_	17	ccomp
+25	.	.	.	_	8	punct
+

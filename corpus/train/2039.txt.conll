@@ -1,0 +1,22 @@
+1	The	the	DT	_	4	det
+2	teacher	teacher	NN	_	4	nn
+3	retirement	retirement	NN	_	4	nn
+4	poem	poem	NN	_	10	nsubj
+5	on	on	IN	_	4	prep
+6	parchment	parchment	NN	_	5	pobj
+7	is	be	VBZ	_	10	cop
+8	a	a	DT	_	10	det
+9	customized	customize	VBN	_	10	amod
+10	poem	poem	NN	_	0	ROOT
+11	printed	print	VBN	_	10	dep
+12	on	on	IN	_	11	prep
+13	parchment	parchment	NN	_	12	pobj
+14	and	and	CC	_	11	cc
+15	enclosed	enclose	VBN	_	11	conj
+16	in	in	IN	_	15	prep
+17	a	a	DT	_	20	det
+18	black	black	JJ	_	20	amod
+19	certificate	certificate	NN	_	20	nn
+20	holder	holder	NN	_	16	pobj
+21	.	.	.	_	10	punct
+

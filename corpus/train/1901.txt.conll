@@ -1,0 +1,15 @@
+1	In	in	IN	_	6	prep
+2	fact	fact	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	a	a	DT	_	5	det
+5	protocol	protocol	NN	_	6	nsubj
+6	copes	cope	VBZ	_	0	ROOT
+7	even	even	RB	_	8	advmod
+8	with	with	IN	_	6	prep
+9	Byzantine	byzantine	JJ	_	10	amod
+10	failures	failure	NNS	_	8	pobj
+11	by	by	IN	_	6	prep
+12	using	use	VBG	_	11	pcomp
+13	randomization	randomization	NN	_	12	dobj
+14	.	.	.	_	6	punct
+

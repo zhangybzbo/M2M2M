@@ -1,0 +1,10 @@
+1	My	my	PRP$	_	2	poss
+2	friend	friend	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	entered	enter	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	new	new	JJ	_	8	amod
+8	relationship	relationship	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

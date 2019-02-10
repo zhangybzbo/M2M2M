@@ -1,0 +1,27 @@
+1	In	in	IN	_	4	prep
+2	1882	1882	CD	_	3	num
+3	Louis	Louis	NNP	_	1	pobj
+4	developed	develop	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	method	method	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	making	make	VBG	_	7	pcomp
+9	photographic	photographic	JJ	_	10	amod
+10	plates	plate	NNS	_	8	dobj
+11	,	,	,	_	4	punct
+12	and	and	CC	_	4	cc
+13	by	by	IN	_	20	prep
+14	1894	1894	CD	_	18	num
+15	the	the	DT	_	16	det
+16	brothers	brother	NNS	_	18	poss
+17	'	'	POS	_	16	possessive
+18	factory	factory	NN	_	13	pobj
+19	was	be	VBD	_	20	aux
+20	producing	produce	VBG	_	4	conj
+21	15	15	CD	_	22	number
+22	million	million	CD	_	23	num
+23	plates	plate	NNS	_	20	dobj
+24	a	a	DT	_	25	det
+25	year	year	NN	_	23	npadvmod
+26	.	.	.	_	4	punct
+

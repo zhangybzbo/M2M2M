@@ -1,0 +1,10 @@
+1	Externally	externally	RB	_	3	advmod
+2	derived	derive	VBN	_	3	amod
+3	data	datum	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	leaked	leak	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	system	system	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

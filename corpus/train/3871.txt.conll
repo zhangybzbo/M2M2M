@@ -1,0 +1,15 @@
+1	One	one	CD	_	7	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	most	most	RBS	_	5	advmod
+5	memorable	memorable	JJ	_	6	amod
+6	pinots	pinot	NNS	_	2	pobj
+7	came	come	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	13	det
+10	tiny	tiny	JJ	_	13	amod
+11	boutique	boutique	NN	_	13	nn
+12	Swiss	swiss	JJ	_	13	amod
+13	producer	producer	NN	_	8	pobj
+14	.	.	.	_	7	punct
+

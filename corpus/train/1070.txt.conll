@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	fire	fire	NN	_	3	nsubj
+3	started	start	VBD	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	southeastern	southeastern	JJ	_	7	amod
+7	end	end	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	Circus	Circus	NNP	_	11	nn
+11	Maximus	Maximus	NNP	_	8	pobj
+12	in	in	IN	_	11	prep
+13	shops	shop	NNS	_	12	pobj
+14	selling	sell	VBG	_	13	vmod
+15	flammable	flammable	JJ	_	16	amod
+16	goods	goods	NNS	_	14	dobj
+17	.	.	.	_	3	punct
+

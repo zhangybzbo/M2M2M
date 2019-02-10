@@ -1,0 +1,18 @@
+1	Elegant	elegant	JJ	_	2	amod
+2	people	people	NNS	_	10	nsubjpass
+3	walking	walk	VBG	_	2	vmod
+4	in	in	IN	_	3	prep
+5	an	a	DT	_	8	det
+6	early	early	JJ	_	8	amod
+7	eighteenth-century	eighteenth-century	JJ	_	8	amod
+8	garden	garden	NN	_	4	pobj
+9	are	be	VBP	_	10	auxpass
+10	depicted	depict	VBN	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	this	this	DT	_	16	det
+13	beautiful	beautiful	JJ	_	16	amod
+14	embroidered	embroidered	JJ	_	16	amod
+15	wall	wall	NN	_	16	nn
+16	hanging	hanging	NN	_	11	pobj
+17	.	.	.	_	10	punct
+

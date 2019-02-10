@@ -1,0 +1,15 @@
+1	Bernanke	Bernanke	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	featured	feature	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	cover	cover	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	magazine	magazine	NN	_	7	pobj
+10	that	that	WDT	_	11	nsubj
+11	hits	hit	VBZ	_	9	rcmod
+12	stores	store	NNS	_	11	dobj
+13	Friday	Friday	NNP	_	11	tmod
+14	.	.	.	_	3	punct
+

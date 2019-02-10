@@ -1,0 +1,27 @@
+1	He	he	PRP	_	2	nsubj
+2	places	place	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	bolt	bolt	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	receiver	receiver	NN	_	5	pobj
+8	so	so	IN	_	11	mark
+9	that	that	IN	_	11	mark
+10	it	it	PRP	_	11	nsubj
+11	fits	fit	VBZ	_	2	advcl
+12	under	under	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	retaining	retain	VBG	_	15	amod
+15	rail	rail	NN	_	12	pobj
+16	as	as	IN	_	20	mark
+17	the	the	DT	_	18	det
+18	bolt	bolt	NN	_	20	nsubj
+19	handle	handle	VB	_	18	vmod
+20	engages	engage	VBZ	_	15	dep
+21	the	the	DT	_	22	det
+22	groove	groove	NN	_	20	dobj
+23	in	in	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	bolt	bolt	NN	_	23	pobj
+26	.	.	.	_	2	punct
+

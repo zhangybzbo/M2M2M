@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	flux	flux	NN	_	3	nn
+3	sensor	sensor	NN	_	4	nsubj
+4	moves	move	VBZ	_	0	ROOT
+5	a	a	DT	_	7	det
+6	half	half	NN	_	7	nn
+7	circle	circle	NN	_	4	dobj
+8	around	around	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	filament	filament	NN	_	8	pobj
+11	in	in	IN	_	14	mark
+12	order	order	NN	_	14	dep
+13	to	to	TO	_	14	aux
+14	measure	measure	VB	_	4	advcl
+15	the	the	DT	_	17	det
+16	spatial	spatial	JJ	_	17	amod
+17	directivity	directivity	NN	_	14	dobj
+18	of	of	IN	_	17	prep
+19	each	each	DT	_	20	det
+20	heater	heater	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

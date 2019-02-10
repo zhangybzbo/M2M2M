@@ -1,0 +1,14 @@
+1	An	a	DT	_	2	det
+2	actress	actress	NN	_	5	poss
+3	's	's	POS	_	2	possessive
+4	nude	nude	JJ	_	5	amod
+5	photos	photo	NNS	_	8	nsubjpass
+6	have	have	VBP	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	leaked	leak	VBN	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	a	a	DT	_	12	det
+11	local	local	JJ	_	12	amod
+12	journal	journal	NN	_	9	pobj
+13	.	.	.	_	8	punct
+

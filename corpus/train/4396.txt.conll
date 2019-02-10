@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	message	message	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	box	box	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	Post	Post	NNP	_	9	nn
+9	Toasties	Toasties	NNP	_	7	pobj
+10	.	.	.	_	3	punct
+

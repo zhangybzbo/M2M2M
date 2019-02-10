@@ -1,0 +1,27 @@
+1	I	I	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	formerly	formerly	RB	_	5	advmod
+4	a	a	DT	_	5	det
+5	person	person	NN	_	0	ROOT
+6	who	who	WP	_	7	nsubj
+7	looked	look	VBD	_	5	rcmod
+8	at	at	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	sky	sky	NN	_	8	pobj
+11	expecting	expect	VBG	_	10	vmod
+12	only	only	RB	_	15	advmod
+13	the	the	DT	_	15	det
+14	usual	usual	JJ	_	15	amod
+15	clutter	clutter	NN	_	11	dobj
+16	of	of	IN	_	15	prep
+17	planes	plane	NNS	_	16	pobj
+18	,	,	,	_	17	punct
+19	stars	star	NNS	_	17	conj
+20	,	,	,	_	17	punct
+21	and	and	CC	_	17	cc
+22	the	the	DT	_	25	det
+23	occasional	occasional	JJ	_	25	amod
+24	blinking	blinking	RB	_	25	advmod
+25	satellite	satellite	NN	_	17	conj
+26	.	.	.	_	5	punct
+

@@ -1,0 +1,9 @@
+1	Medical	medical	JJ	_	2	amod
+2	bills	bill	NNS	_	3	nsubj
+3	make	make	VBP	_	0	ROOT
+4	up	up	RP	_	3	prt
+5	half	half	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	bankruptcies	bankruptcy	NNS	_	6	pobj
+8	.	.	.	_	3	punct
+

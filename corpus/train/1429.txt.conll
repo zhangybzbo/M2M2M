@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	lowest	lowest	JJS	_	3	amod
+3	rung	ring	VBN	_	7	nsubjpass
+4	of	of	IN	_	3	prep
+5	society	society	NN	_	4	pobj
+6	was	be	VBD	_	7	auxpass
+7	composed	compose	VBN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	conquered	conquer	VBN	_	10	amod
+10	peoples	people	NNS	_	8	pobj
+11	brought	bring	VBD	_	7	xcomp
+12	to	to	TO	_	11	prep
+13	Tenochtitlan	Tenochtitlan	NNP	_	12	pobj
+14	as	as	IN	_	11	prep
+15	slaves	slave	NNS	_	14	pobj
+16	.	.	.	_	7	punct
+

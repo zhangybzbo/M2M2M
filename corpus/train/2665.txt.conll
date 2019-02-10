@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	attaches	attach	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	rope	rope	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	a	a	DT	_	10	det
+8	20	20	CD	_	10	num
+9	kg	kg	NN	_	10	nn
+10	block	block	NN	_	6	pobj
+11	,	,	,	_	3	punct
+12	pulling	pull	VBG	_	3	xcomp
+13	it	it	PRP	_	12	dobj
+14	across	across	IN	_	12	prep
+15	a	a	DT	_	16	det
+16	floor	floor	NN	_	14	pobj
+17	with	with	IN	_	12	prep
+18	constant	constant	JJ	_	19	amod
+19	velocity	velocity	NN	_	17	pobj
+20	.	.	.	_	3	punct
+

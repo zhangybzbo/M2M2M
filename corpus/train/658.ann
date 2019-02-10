@@ -1,0 +1,3 @@
+T1	Term 36 48	liquor amnii
+T2	Term 76 81	phial
+R1	Entity-Destination Arg1:T1 Arg2:T2

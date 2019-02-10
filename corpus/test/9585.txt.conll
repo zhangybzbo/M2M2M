@@ -1,0 +1,13 @@
+1	Furthermore	furthermore	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	several	several	JJ	_	4	amod
+4	areas	area	NNS	_	8	nsubjpass
+5	have	have	VBP	_	8	aux
+6	also	also	RB	_	8	advmod
+7	been	be	VBN	_	8	auxpass
+8	added	add	VBN	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	11	det
+11	spaces	space	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

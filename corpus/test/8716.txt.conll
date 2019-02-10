@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	northeast	northeast	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	source	source	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	contention	contention	NN	_	6	pobj
+8	between	between	IN	_	5	prep
+9	these	these	DT	_	12	det
+10	various	various	JJ	_	12	amod
+11	rivaling	rival	VBG	_	12	amod
+12	groups	group	NNS	_	8	pobj
+13	.	.	.	_	5	punct
+

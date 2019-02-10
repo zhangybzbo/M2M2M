@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	bounded	bound	VBN	_	3	amod
+3	applicability	applicability	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	Perceptron	Perceptron	NNP	_	4	pobj
+7	arose	arise	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	linearity	linearity	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	its	its	PRP$	_	15	poss
+13	modifiable	modifiable	JJ	_	15	amod
+14	decision	decision	NN	_	15	nn
+15	rule	rule	NN	_	11	pobj
+16	.	.	.	_	7	punct
+

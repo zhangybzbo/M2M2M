@@ -1,0 +1,17 @@
+1	I	I	PRP	_	3	nsubjpass
+2	got	get	VBD	_	3	auxpass
+3	started	start	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	project	project	NN	_	4	pobj
+7	by	by	IN	_	3	prep
+8	reading	read	VBG	_	7	pcomp
+9	Jack	Jack	NNP	_	10	nn
+10	Keller	Keller	NNP	_	12	poss
+11	's	's	POS	_	10	possessive
+12	recipes	recipe	NNS	_	8	dobj
+13	for	for	IN	_	12	prep
+14	cherry	cherry	NN	_	15	nn
+15	wine	wine	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

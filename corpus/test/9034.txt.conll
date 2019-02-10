@@ -1,0 +1,12 @@
+1	Developed	develop	VBN	_	8	vmod
+2	in	in	IN	_	1	prep
+3	1979	1979	CD	_	2	pobj
+4	,	,	,	_	8	punct
+5	depressed	depressed	JJ	_	7	amod
+6	center	center	NN	_	7	nn
+7	wheels	wheel	NNS	_	8	nsubj
+8	revolutionized	revolutionize	VBD	_	0	ROOT
+9	angle	angle	NN	_	8	dobj
+10	grinding	grind	VBG	_	9	amod
+11	.	.	.	_	8	punct
+

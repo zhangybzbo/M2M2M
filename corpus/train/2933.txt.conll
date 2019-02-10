@@ -1,0 +1,14 @@
+1	Royalty-free	royalty-free	JJ	_	4	amod
+2	animal	animal	NN	_	4	nn
+3	clipart	clipart	NN	_	4	nn
+4	picture	picture	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	sitting	sit	VBG	_	8	amod
+8	bulldog	bulldog	NN	_	5	pobj
+9	hanging	hang	VBG	_	8	vmod
+10	his	he	PRP$	_	11	poss
+11	tongue	tongue	NN	_	9	dobj
+12	out	out	RP	_	9	prt
+13	.	.	.	_	4	punct
+

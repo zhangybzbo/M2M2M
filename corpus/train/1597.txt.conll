@@ -1,0 +1,18 @@
+1	It	it	PRP	_	2	nsubj
+2	shows	show	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	sailor	sailor	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	list	list	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	crossed-out	crossed-out	JJ	_	10	amod
+10	ex-girlfriend	ex-girlfriend	NN	_	12	poss
+11	's	's	POS	_	10	possessive
+12	names	name	NNS	_	8	pobj
+13	going	go	VBG	_	12	vmod
+14	down	down	RP	_	13	prt
+15	his	he	PRP$	_	16	poss
+16	arm	arm	NN	_	13	dobj
+17	.	.	.	_	2	punct
+

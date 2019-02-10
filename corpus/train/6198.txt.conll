@@ -1,0 +1,18 @@
+1	Commuters	commuter	NNS	_	4	nn
+2	and	and	CC	_	1	cc
+3	holiday	holiday	NN	_	1	conj
+4	travellers	traveller	NNS	_	6	nsubj
+5	are	be	VBP	_	6	aux
+6	running	run	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	heavy	heavy	JJ	_	9	amod
+9	delays	delay	NNS	_	7	pobj
+10	on	on	IN	_	9	prep
+11	Route	route	NN	_	10	pobj
+12	128	128	CD	_	11	num
+13	in	in	IN	_	11	prep
+14	Weston	Weston	NNP	_	13	pobj
+15	this	this	DT	_	16	det
+16	morning	morning	NN	_	6	tmod
+17	.	.	.	_	6	punct
+

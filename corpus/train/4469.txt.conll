@@ -1,0 +1,19 @@
+1	However	however	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	5	det
+4	planning	planning	NN	_	5	nn
+5	proposal	proposal	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	generated	generate	VBN	_	0	ROOT
+8	opposition	opposition	NN	_	7	dobj
+9	from	from	IN	_	8	prep
+10	locals	local	NNS	_	9	pobj
+11	who	who	WP	_	13	nsubj
+12	have	have	VBP	_	13	aux
+13	voiced	voice	VBN	_	10	rcmod
+14	fears	fear	NNS	_	13	dobj
+15	over	over	IN	_	14	prep
+16	health	health	NN	_	17	nn
+17	issues	issue	NNS	_	15	pobj
+18	.	.	.	_	7	punct
+

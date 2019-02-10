@@ -1,0 +1,17 @@
+1	It	it	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	a	a	DT	_	5	det
+4	concept	concept	NN	_	5	nn
+5	car	car	NN	_	0	ROOT
+6	displayed	display	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	BMW	BMW	NNP	_	7	pobj
+9	in	in	IN	_	6	prep
+10	2007	2007	CD	_	9	pobj
+11	at	at	IN	_	6	prep
+12	several	several	JJ	_	15	amod
+13	international	international	JJ	_	15	amod
+14	motor	motor	NN	_	15	nn
+15	shows	show	NNS	_	11	pobj
+16	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+0	56	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	13	tok id="t1" base="endocrine" pos="JJ" amod="t2"
+14	20	tok id="t2" base="system" pos="NN" nsubjpass="t4"
+21	23	tok id="t3" base="be" pos="VBZ" auxpass="t4"
+24	32	tok id="t4" base="compose" pos="VBN" ROOT="ROOT"
+33	35	tok id="t5" base="of" pos="IN" prep="t4"
+36	37	tok id="t6" base="a" pos="DT" det="t7"
+38	44	tok id="t7" base="number" pos="NN" pobj="t5"
+45	47	tok id="t8" base="of" pos="IN" prep="t7"
+48	54	tok id="t9" base="gland" pos="NNS" pobj="t8"
+55	56	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

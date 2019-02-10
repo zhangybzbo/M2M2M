@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	method	method	NN	_	3	nsubj
+3	includes	include	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	steps	step	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	contacting	contact	VBG	_	6	pcomp
+8	a	a	DT	_	10	det
+9	bacterial	bacterial	JJ	_	10	amod
+10	suspension	suspension	NN	_	7	dobj
+11	with	with	IN	_	7	prep
+12	a	a	DT	_	14	det
+13	single	single	JJ	_	14	amod
+14	wavelength	wavelength	NN	_	11	pobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	ultra-violet	ultra-violet	JJ	_	18	amod
+18	range	range	NN	_	15	pobj
+19	.	.	.	_	3	punct
+

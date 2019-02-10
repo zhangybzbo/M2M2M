@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	same	same	JJ	_	3	amod
+3	effect	effect	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	achieved	achieve	VBN	_	0	ROOT
+6	the	the	DT	_	8	det
+7	traditional	traditional	JJ	_	8	amod
+8	way	way	NN	_	5	dobj
+9	,	,	,	_	8	punct
+10	with	with	IN	_	8	prep
+11	a	a	DT	_	12	det
+12	team	team	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	workers	worker	NNS	_	13	pobj
+15	like	like	IN	_	14	prep
+16	Keebler	Keebler	NNP	_	17	nn
+17	elves	elf	NNS	_	15	pobj
+18	.	.	.	_	5	punct
+

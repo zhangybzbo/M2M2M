@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	library	library	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	books	book	NNS	_	3	dobj
+5	of	of	IN	_	4	prep
+6	guidance	guidance	NN	_	5	pobj
+7	on	on	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	processes	process	NNS	_	7	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+0	62	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="each" pos="DT" det="t2"
+5	16	tok id="t1" base="independent" pos="JJ" amod="t2"
+17	25	tok id="t2" base="variable" pos="NN" nsubj="t4"
+26	28	tok id="t3" base="be" pos="VBZ" aux="t4"
+29	35	tok id="t4" base="move" pos="VBG" ROOT="ROOT"
+36	40	tok id="t5" base="into" pos="IN" prep="t4"
+41	44	tok id="t6" base="its" pos="PRP$" poss="t7"
+45	49	tok id="t7" base="axis" pos="NN" pobj="t5"
+50	60	tok id="t8" base="constantly" pos="RB" advmod="t4"
+61	62	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

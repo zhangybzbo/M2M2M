@@ -1,0 +1,25 @@
+1	Here	here	RB	_	6	advmod
+2	a	a	DT	_	3	det
+3	batter	batter	NN	_	6	nsubj
+4	has	have	VBZ	_	6	aux
+5	mistakenly	mistakenly	RB	_	6	advmod
+6	used	use	VBN	_	0	ROOT
+7	his	he	PRP$	_	8	poss
+8	balls	ball	NNS	_	6	dobj
+9	to	to	TO	_	10	aux
+10	hit	hit	VB	_	6	vmod
+11	the	the	DT	_	12	det
+12	bat	bat	NN	_	10	dobj
+13	into	into	IN	_	10	prep
+14	the	the	DT	_	15	det
+15	crowd	crowd	NN	_	13	pobj
+16	,	,	,	_	6	punct
+17	scoring	score	VBG	_	6	xcomp
+18	a	a	DT	_	20	det
+19	Home	home	NN	_	20	nn
+20	Run	Run	NNP	_	17	dobj
+21	and	and	CC	_	20	cc
+22	extra	extra	JJ	_	23	amod
+23	casualties	casualty	NNS	_	20	conj
+24	.	.	.	_	6	punct
+

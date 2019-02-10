@@ -1,0 +1,3 @@
+T1	Term 142 146	bomb
+T2	Term 154 160	bottle
+R1	Entity-Destination Arg1:T1 Arg2:T2

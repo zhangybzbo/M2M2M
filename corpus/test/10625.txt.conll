@@ -1,0 +1,12 @@
+1	Everyone	everyone	NN	_	2	nn
+2	cheers	cheer	NNS	_	0	ROOT
+3	as	as	IN	_	9	mark
+4	a	a	DT	_	5	det
+5	dule	dule	NN	_	9	nsubj
+6	of	of	IN	_	5	prep
+7	white	white	JJ	_	8	amod
+8	doves	dove	NNS	_	6	pobj
+9	take	take	VBP	_	2	advcl
+10	flight	flight	NN	_	9	dobj
+11	.	.	.	_	2	punct
+

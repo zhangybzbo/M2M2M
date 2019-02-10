@@ -1,0 +1,19 @@
+1	Quarterly	quarterly	JJ	_	2	amod
+2	magazine	magazine	NN	_	3	nsubj
+3	covers	cover	VBZ	_	0	ROOT
+4	the	the	DT	_	12	det
+5	latest	latest	JJS	_	12	amod
+6	political	political	JJ	_	12	amod
+7	,	,	,	_	12	punct
+8	economic	economic	JJ	_	12	amod
+9	,	,	,	_	12	punct
+10	social	social	JJ	_	12	amod
+11	,	,	,	_	12	punct
+12	cultural	cultural	JJ	_	3	dobj
+13	and	and	CC	_	12	cc
+14	sporting	sport	VBG	_	12	conj
+15	developments	development	NNS	_	12	dep
+16	in	in	IN	_	12	prep
+17	Africa	Africa	NNP	_	16	pobj
+18	.	.	.	_	3	punct
+

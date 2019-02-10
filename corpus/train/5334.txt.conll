@@ -1,0 +1,24 @@
+1	Beyond	beyond	IN	_	7	prep
+2	its	its	PRP$	_	3	poss
+3	guardtowers	guardtower	NNS	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	castle	castle	NN	_	7	nsubj
+7	had	have	VBD	_	0	ROOT
+8	two	two	CD	_	9	num
+9	gatehouses	gatehouse	NNS	_	7	dobj
+10	,	,	,	_	9	punct
+11	a	a	DT	_	12	det
+12	barbican	barbican	NN	_	9	appos
+13	and	and	CC	_	12	cc
+14	a	a	DT	_	16	det
+15	tall	tall	JJ	_	16	amod
+16	tower	tower	NN	_	12	conj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	castle	castle	NN	_	22	poss
+20	's	's	POS	_	19	possessive
+21	inner	inner	JJ	_	22	amod
+22	ward	ward	NN	_	17	pobj
+23	.	.	.	_	7	punct
+

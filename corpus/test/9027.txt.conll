@@ -1,0 +1,22 @@
+1	Dues	due	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	paid	pay	VBN	_	0	ROOT
+4	before	before	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	ship	ship	NN	_	7	nsubj
+7	departed	depart	VBD	_	3	advcl
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	harbour	harbour	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	the	the	DT	_	13	det
+13	captain	captain	NN	_	10	conj
+14	was	be	VBD	_	15	auxpass
+15	provided	provide	VBN	_	3	dep
+16	with	with	IN	_	15	prep
+17	municipal	municipal	JJ	_	20	amod
+18	and	and	CC	_	17	cc
+19	customs	custom	NNS	_	17	conj
+20	services	service	NNS	_	16	pobj
+21	.	.	.	_	3	punct
+

@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	battle	battle	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	analysed	analyse	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	various	various	JJ	_	8	amod
+8	publications	publication	NNS	_	6	pobj
+9	.	.	.	_	5	punct
+

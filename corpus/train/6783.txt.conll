@@ -1,0 +1,17 @@
+1	Starting	start	VBG	_	9	csubj
+2	a	a	DT	_	6	det
+3	food	food	NN	_	6	nn
+4	and	and	CC	_	3	cc
+5	beverage	beverage	NN	_	3	conj
+6	company	company	NN	_	1	dobj
+7	from	from	IN	_	1	prep
+8	scratch	scratch	NN	_	7	pobj
+9	requires	require	VBZ	_	0	ROOT
+10	a	a	DT	_	11	det
+11	lot	lot	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	planning	planning	NN	_	12	pobj
+14	and	and	CC	_	13	cc
+15	research	research	NN	_	13	conj
+16	.	.	.	_	9	punct
+

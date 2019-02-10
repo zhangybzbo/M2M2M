@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	main	main	JJ	_	3	amod
+3	theme	theme	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	play	play	NN	_	4	pobj
+7	is	be	VBZ	_	8	cop
+8	ambition	ambition	NN	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	how	how	WRB	_	13	advmod
+11	it	it	PRP	_	13	nsubj
+12	can	can	MD	_	13	aux
+13	destroy	destroy	VB	_	8	conj
+14	a	a	DT	_	20	det
+15	courageous	courageous	JJ	_	20	amod
+16	,	,	,	_	20	punct
+17	trustworthy	trustworthy	JJ	_	20	amod
+18	,	,	,	_	20	punct
+19	noble	noble	JJ	_	20	amod
+20	man	man	NN	_	13	dobj
+21	.	.	.	_	8	punct
+

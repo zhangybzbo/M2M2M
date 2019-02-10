@@ -1,0 +1,11 @@
+1	His	he	PRP$	_	2	poss
+2	efforts	effort	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	invested	invest	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	this	this	DT	_	9	det
+8	main	main	JJ	_	9	amod
+9	objective	objective	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

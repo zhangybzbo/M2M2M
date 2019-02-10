@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	current	current	JJ	_	3	amod
+3	debate	debate	NN	_	9	nsubj
+4	swirling	swirl	VBG	_	3	vmod
+5	around	around	IN	_	4	prep
+6	Leather	Leather	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	comments	comment	NNS	_	5	pobj
+9	seems	seem	VBZ	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	suggest	suggest	VB	_	9	xcomp
+12	both	both	CC	_	11	dep
+13	.	.	.	_	9	punct
+

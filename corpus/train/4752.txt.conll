@@ -1,0 +1,10 @@
+1	Only	only	RB	_	3	advmod
+2	domestic	domestic	JJ	_	3	amod
+3	flights	flight	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	landing	land	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	this	this	DT	_	8	det
+8	airport	airport	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

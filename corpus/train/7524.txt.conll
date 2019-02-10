@@ -1,0 +1,21 @@
+1	In	in	IN	_	10	prep
+2	almost	almost	RB	_	3	advmod
+3	all	all	DT	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	incidents	incident	NNS	_	4	pobj
+7	,	,	,	_	10	punct
+8	the	the	DT	_	9	det
+9	attacker	attacker	NN	_	10	nsubj
+10	developed	develop	VBD	_	0	ROOT
+11	the	the	DT	_	12	det
+12	idea	idea	NN	_	10	dobj
+13	to	to	TO	_	14	aux
+14	harm	harm	VB	_	12	vmod
+15	the	the	DT	_	16	det
+16	target	target	NN	_	14	dobj
+17	before	before	IN	_	14	prep
+18	the	the	DT	_	19	det
+19	attack	attack	NN	_	17	pobj
+20	.	.	.	_	10	punct
+

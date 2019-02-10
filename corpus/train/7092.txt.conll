@@ -1,0 +1,19 @@
+1	Oil	Oil	NNP	_	2	nsubj
+2	produced	produce	VBD	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	such	such	JJ	_	5	amod
+5	reservoirs	reservoir	NNS	_	3	pobj
+6	,	,	,	_	2	punct
+7	especially	especially	RB	_	8	advmod
+8	Nigeria	Nigeria	NNP	_	2	dobj
+9	and	and	CC	_	8	cc
+10	Middle	Middle	NNP	_	11	nn
+11	East	East	NNP	_	8	conj
+12	,	,	,	_	2	punct
+13	could	could	MD	_	14	aux
+14	have	have	VB	_	2	dep
+15	poor	poor	JJ	_	17	amod
+16	economical	economical	JJ	_	17	amod
+17	balance	balance	NN	_	14	dobj
+18	.	.	.	_	2	punct
+

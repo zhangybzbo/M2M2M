@@ -1,0 +1,23 @@
+1	Using	use	VBG	_	21	nsubjpass
+2	a	a	DT	_	3	det
+3	pencil	pencil	NN	_	1	dobj
+4	of	of	IN	_	3	prep
+5	lines	line	NNS	_	4	pobj
+6	,	,	,	_	3	punct
+7	a	a	DT	_	9	det
+8	new	new	JJ	_	9	amod
+9	restriction	restriction	NN	_	3	appos
+10	on	on	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	location	location	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	ovals	oval	NNS	_	13	pobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	19	det
+17	nonsingular	nonsingular	JJ	_	19	amod
+18	plane	plane	NN	_	19	nn
+19	curve	curve	NN	_	15	pobj
+20	is	be	VBZ	_	21	auxpass
+21	obtained	obtain	VBN	_	0	ROOT
+22	.	.	.	_	21	punct
+

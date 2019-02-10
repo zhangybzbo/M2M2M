@@ -1,0 +1,13 @@
+1	A	a	DT	_	4	det
+2	Psi-Comp	psi-comp	JJ	_	4	amod
+3	implant	implant	VB	_	4	amod
+4	hardwire	hardwire	NN	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	put	put	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	human	human	JJ	_	11	amod
+11	brain	brain	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

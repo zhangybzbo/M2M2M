@@ -1,0 +1,21 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	rise	rise	NN	_	2	nsubj
+5	in	in	IN	_	4	prep
+6	erratic	erratic	JJ	_	7	amod
+7	behaviour	behaviour	NN	_	5	pobj
+8	from	from	IN	_	4	prep
+9	substance	substance	NN	_	10	nn
+10	abuse	abuse	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	frustration	frustration	NN	_	10	conj
+13	caused	cause	VBN	_	10	vmod
+14	by	by	IN	_	16	mark
+15	long	long	JJ	_	16	nsubj
+16	waits	wait	VBZ	_	13	advcl
+17	for	for	IN	_	16	prep
+18	hospital	hospital	NN	_	19	nn
+19	treatment	treatment	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

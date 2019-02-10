@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	researchers	researcher	NNS	_	3	nsubj
+3	studied	study	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	efficiencies	efficiency	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	assessment	assessment	NN	_	6	pobj
+8	through	through	IN	_	3	prep
+9	exams	exam	NNS	_	8	pobj
+10	,	,	,	_	3	punct
+11	particularly	particularly	RB	_	16	advmod
+12	if	if	IN	_	16	mark
+13	the	the	DT	_	16	nsubj
+14	marking	mark	VBG	_	13	amod
+15	is	be	VBZ	_	16	cop
+16	routine	routine	JJ	_	3	advcl
+17	or	or	CC	_	16	cc
+18	automated	automate	VBN	_	16	conj
+19	,	,	,	_	16	punct
+20	are	be	VBP	_	21	auxpass
+21	counterbalanced	counterbalance	VBN	_	16	conj
+22	by	by	IN	_	21	prep
+23	its	its	PRP$	_	24	poss
+24	limitation	limitation	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

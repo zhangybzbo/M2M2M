@@ -1,0 +1,9 @@
+1	Details	detail	NNS	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	new	new	JJ	_	4	amod
+4	contract	contract	NN	_	2	pobj
+5	were	be	VBD	_	0	ROOT
+6	under	under	IN	_	5	prep
+7	discussion	discussion	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

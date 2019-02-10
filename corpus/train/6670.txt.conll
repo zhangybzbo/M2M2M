@@ -1,0 +1,24 @@
+1	Blum	Blum	NNP	_	2	nsubj
+2	turned	turn	VBD	_	0	ROOT
+3	whistle-blower	whistle-blower	NN	_	2	dobj
+4	after	after	IN	_	2	prep
+5	becoming	become	VBG	_	4	pcomp
+6	morally	morally	RB	_	7	advmod
+7	nauseated	nauseated	JJ	_	5	acomp
+8	at	at	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	bagful	bagful	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	lies	lie	NNS	_	11	pobj
+13	that	that	WDT	_	14	nsubj
+14	launched	launch	VBD	_	12	rcmod
+15	the	the	DT	_	16	det
+16	country	country	NN	_	14	dobj
+17	on	on	IN	_	14	prep
+18	its	its	PRP$	_	20	poss
+19	disastrous	disastrous	JJ	_	20	amod
+20	adventure	adventure	NN	_	17	pobj
+21	in	in	IN	_	20	prep
+22	Vietnam	Vietnam	NNP	_	21	pobj
+23	.	.	.	_	2	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	demonstrators	demonstrator	NNS	_	0	ROOT
+3	composed	compose	VBN	_	2	vmod
+4	the	the	DT	_	5	det
+5	figure	figure	NN	_	3	dobj
+6	420	420	CD	_	5	num
+7	,	,	,	_	5	punct
+8	representing	represent	VBG	_	5	vmod
+9	the	the	DT	_	10	det
+10	number	number	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	people	people	NNS	_	11	pobj
+13	still	still	RB	_	15	advmod
+14	being	be	VBG	_	15	auxpass
+15	held	hold	VBN	_	12	vmod
+16	at	at	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	US	US	NNP	_	19	nn
+19	prison	prison	NN	_	16	pobj
+20	in	in	IN	_	19	prep
+21	Cuba	Cuba	NNP	_	20	pobj
+22	.	.	.	_	2	punct
+

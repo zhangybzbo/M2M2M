@@ -1,0 +1,14 @@
+1	As	as	IN	_	3	mark
+2	we	we	PRP	_	3	nsubj
+3	saw	see	VBD	_	8	advcl
+4	earlier	earlier	RBR	_	3	advmod
+5	,	,	,	_	8	punct
+6	helicobacter	helicobacter	NN	_	8	nsubj
+7	is	be	VBZ	_	8	cop
+8	responsible	responsible	JJ	_	0	ROOT
+9	for	for	IN	_	8	prep
+10	causing	cause	VBG	_	9	pcomp
+11	stomach	stomach	NN	_	12	nn
+12	ulcer	ulcer	NN	_	10	dobj
+13	.	.	.	_	8	punct
+

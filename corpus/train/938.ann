@@ -1,0 +1,3 @@
+T1	Term 51 59	handgrip
+T2	Term 67 77	wheelchair
+R1	Component-Whole Arg1:T1 Arg2:T2

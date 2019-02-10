@@ -1,0 +1,1 @@
+The analysis device instigates the termination of the connection .

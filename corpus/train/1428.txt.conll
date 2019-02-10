@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	views	view	NNS	_	7	nsubj
+3	expressed	express	VBN	_	2	vmod
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	article	article	NN	_	4	pobj
+7	are	be	VBP	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	author	author	NN	_	8	pobj
+11	and	and	CC	_	7	cc
+12	are	be	VBP	_	14	auxpass
+13	not	not	RB	_	14	neg
+14	shared	share	VBN	_	7	conj
+15	by	by	IN	_	14	prep
+16	Nestle	Nestle	NNP	_	15	pobj
+17	.	.	.	_	7	punct
+

@@ -1,0 +1,11 @@
+1	Information	information	NN	_	0	ROOT
+2	about	about	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	foodborne	foodborne	JJ	_	5	amod
+5	illness	illness	NN	_	2	pobj
+6	caused	cause	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	salmonella	salmonella	NN	_	9	nn
+9	bacteria	bacterium	NNS	_	7	pobj
+10	.	.	.	_	1	punct
+

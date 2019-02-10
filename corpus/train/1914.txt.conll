@@ -1,0 +1,20 @@
+1	Next	next	RB	_	2	advmod
+2	up	up	RB	_	6	advmod
+3	is	be	VBZ	_	6	cop
+4	the	the	DT	_	6	det
+5	fingerprint	fingerprint	NN	_	6	nn
+6	scanner	scanner	NN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	the	the	DT	_	9	det
+9	scanner	scanner	NN	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	cleaned	clean	VBN	_	6	rcmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	UKPS	ukp	NN	_	15	nn
+15	operator	operator	NN	_	12	pobj
+16	with	with	IN	_	11	prep
+17	a	a	DT	_	18	det
+18	cloth	cloth	NN	_	16	pobj
+19	.	.	.	_	6	punct
+

@@ -1,0 +1,1 @@
+This radar system contains two tower-shaped antennas shown in Figure 1 , one is to transmit pulsed waves and the other is to receive reflected waves .

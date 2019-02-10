@@ -1,0 +1,13 @@
+0	53	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t1"
+2	9	tok id="t1" base="manage" pos="VBD" ROOT="ROOT"
+10	12	tok id="t2" base="to" pos="TO" aux="t3"
+13	20	tok id="t3" base="squeeze" pos="VB" xcomp="t1"
+21	27	tok id="t4" base="decent" pos="JJ" amod="t5"
+28	34	tok id="t5" base="photo" pos="NNS" dobj="t3"
+35	38	tok id="t6" base="out" pos="IN" prep="t3"
+39	41	tok id="t7" base="of" pos="IN" pcomp="t6"
+42	44	tok id="t8" base="a" pos="DT" det="t9"
+45	51	tok id="t9" base="iPhone" pos="NNP" pobj="t7"
+52	53	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

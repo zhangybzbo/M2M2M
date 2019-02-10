@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	RCMP	rcmp	NN	_	3	nsubj
+3	released	release	VBD	_	0	ROOT
+4	its	its	PRP$	_	5	poss
+5	report	report	NN	_	3	dobj
+6	this	this	DT	_	7	det
+7	week	week	NN	_	3	tmod
+8	on	on	IN	_	3	prep
+9	the	the	DT	_	10	det
+10	death	death	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	Robert	Robert	NNP	_	13	nn
+13	Dziekanski	Dziekanski	NNP	_	11	pobj
+14	.	.	.	_	3	punct
+

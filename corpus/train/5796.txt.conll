@@ -1,0 +1,14 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	word	word	NN	_	4	nsubj
+4	got	get	VBD	_	12	advcl
+5	out	out	RP	_	4	prt
+6	from	from	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	paperboy	paperboy	NN	_	6	pobj
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	town	town	NN	_	12	nsubj
+12	cheered	cheer	VBD	_	0	ROOT
+13	.	.	.	_	12	punct
+

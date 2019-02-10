@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	group	group	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	women	woman	NNS	_	3	pobj
+5	from	from	IN	_	4	prep
+6	Curves	Curves	NNP	_	7	nn
+7	Timaru	Timaru	NNP	_	5	pobj
+8	won	win	VBD	_	0	ROOT
+9	best-dressed	best-dressed	JJ	_	10	amod
+10	prize	prize	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	their	they	PRP$	_	13	poss
+13	ensemble	ensemble	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	purple	purple	JJ	_	16	amod
+16	clothes	clothes	NNS	_	14	pobj
+17	,	,	,	_	16	punct
+18	colourful	colourful	JJ	_	19	amod
+19	wigs	wig	NNS	_	16	conj
+20	and	and	CC	_	16	cc
+21	sparkly	sparkly	JJ	_	22	amod
+22	tiaras	tiara	NNS	_	16	conj
+23	.	.	.	_	8	punct
+

@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	sample	sample	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	a	a	DT	_	5	pobj
+7	funnel	funnel	VB	_	6	dep
+8	and	and	CC	_	7	cc
+9	,	,	,	_	7	punct
+10	after	after	IN	_	7	conj
+11	giving	give	VBG	_	10	pcomp
+12	it	it	PRP	_	11	dobj
+13	three	three	CD	_	14	num
+14	years	year	NNS	_	11	tmod
+15	to	to	TO	_	16	aux
+16	settle	settle	VB	_	11	vmod
+17	,	,	,	_	16	punct
+18	sealed	seal	VBN	_	19	amod
+19	everything	everything	NN	_	16	dobj
+20	in	in	IN	_	19	prep
+21	a	a	DT	_	23	det
+22	glass	glass	NN	_	23	nn
+23	jar	jar	NN	_	20	pobj
+24	.	.	.	_	2	punct
+

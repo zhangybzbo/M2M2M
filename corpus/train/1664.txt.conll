@@ -1,0 +1,25 @@
+1	Just	just	RB	_	3	advmod
+2	18	18	CD	_	3	num
+3	months	month	NNS	_	4	npadvmod
+4	ago	ago	RB	_	11	advmod
+5	,	,	,	_	11	punct
+6	the	the	DT	_	10	det
+7	New	New	NNP	_	10	nn
+8	York	York	NNP	_	10	nn
+9	Times	Times	NNP	_	10	nn
+10	Magazine	Magazine	NNP	_	11	nsubj
+11	ran	run	VBD	_	0	ROOT
+12	a	a	DT	_	14	det
+13	cover	cover	NN	_	14	nn
+14	story	story	NN	_	11	dobj
+15	depicting	depict	VBG	_	14	vmod
+16	progressive	progressive	JJ	_	17	amod
+17	bloggers	blogger	NNS	_	15	dobj
+18	as	as	IN	_	15	prep
+19	a	a	DT	_	20	det
+20	band	band	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	unkempt	unkempt	JJ	_	23	amod
+23	outsiders	outsider	NNS	_	21	pobj
+24	.	.	.	_	11	punct
+

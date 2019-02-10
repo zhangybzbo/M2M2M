@@ -1,0 +1,24 @@
+1	From	from	IN	_	5	prep
+2	him	he	PRP	_	1	pobj
+3	,	,	,	_	5	punct
+4	Cain	Cain	NNP	_	5	nsubj
+5	learns	learn	VBZ	_	0	ROOT
+6	that	that	IN	_	9	mark
+7	Alexis	Alexis	NNP	_	9	nsubj
+8	had	have	VBD	_	9	aux
+9	survived	survive	VBN	_	5	ccomp
+10	his	he	PRP$	_	11	poss
+11	suicide	suicide	NN	_	9	dobj
+12	and	and	CC	_	9	cc
+13	became	become	VBD	_	9	conj
+14	the	the	DT	_	15	det
+15	leader	leader	NN	_	13	xcomp
+16	of	of	IN	_	15	prep
+17	that	that	DT	_	18	det
+18	organization	organization	NN	_	16	pobj
+19	,	,	,	_	5	punct
+20	renaming	rename	VBG	_	5	xcomp
+21	it	it	PRP	_	22	nsubj
+22	Delilah	Delilah	NNP	_	20	xcomp
+23	.	.	.	_	5	punct
+

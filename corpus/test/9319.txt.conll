@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	output	output	NN	_	3	nn
+3	noise	noise	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	biasing	bias	VBG	_	9	amod
+9	resistors	resistor	NNS	_	6	pobj
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	shot	shot	NN	_	9	conj
+13	noises	noise	NNS	_	12	dep
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	base	base	NN	_	17	nn
+17	currents	current	NNS	_	14	pobj
+18	of	of	IN	_	17	prep
+19	Q1	q1	NN	_	18	pobj
+20	and	and	CC	_	19	cc
+21	Q4	q4	NN	_	19	conj
+22	.	.	.	_	5	punct
+

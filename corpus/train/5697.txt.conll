@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj
+2	sold	sell	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	diamond	diamond	NN	_	5	nn
+5	ring	ring	NN	_	2	dobj
+6	on	on	IN	_	2	prep
+7	consignment	consignment	NN	_	6	pobj
+8	through	through	IN	_	2	prep
+9	a	a	DT	_	10	det
+10	jeweller	jeweller	NN	_	8	pobj
+11	who	who	WP	_	13	nsubj
+12	also	also	RB	_	13	advmod
+13	dealt	deal	VBD	_	10	rcmod
+14	in	in	IN	_	13	prep
+15	second	second	JJ	_	17	amod
+16	hand	hand	NN	_	17	nn
+17	jewellery	jewellery	NN	_	14	pobj
+18	.	.	.	_	2	punct
+

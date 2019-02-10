@@ -1,0 +1,27 @@
+1	On	on	IN	_	4	mark
+2	Wednesday	Wednesday	NNP	_	3	nn
+3	High	High	NNP	_	4	nsubj
+4	Speed	speed	VB	_	21	advcl
+5	Two	two	CD	_	4	dobj
+6	,	,	,	_	21	punct
+7	a	a	DT	_	9	det
+8	government-backed	government-backed	JJ	_	9	amod
+9	company	company	NN	_	21	nsubj
+10	of	of	IN	_	9	prep
+11	engineers	engineer	NNS	_	10	pobj
+12	and	and	CC	_	11	cc
+13	experts	expert	NNS	_	11	conj
+14	who	who	WP	_	16	nsubj
+15	have	have	VBP	_	16	aux
+16	drawn	draw	VBN	_	11	rcmod
+17	up	up	RP	_	16	prt
+18	the	the	DT	_	19	det
+19	proposals	proposal	NNS	_	16	dobj
+20	,	,	,	_	21	punct
+21	gave	give	VBD	_	0	ROOT
+22	their	they	PRP$	_	23	poss
+23	report	report	NN	_	21	dobj
+24	to	to	TO	_	21	prep
+25	Adonis	Adonis	NNP	_	24	pobj
+26	.	.	.	_	21	punct
+

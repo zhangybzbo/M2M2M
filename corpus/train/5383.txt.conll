@@ -1,0 +1,23 @@
+1	A	a	DT	_	3	det
+2	growing	grow	VBG	_	3	amod
+3	number	number	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	smallholders	smallholder	NNS	_	4	pobj
+6	have	have	VBP	_	7	aux
+7	formed	form	VBN	_	0	ROOT
+8	themselves	themselves	PRP	_	7	dobj
+9	into	into	IN	_	7	prep
+10	associations	association	NNS	_	9	pobj
+11	to	to	TO	_	12	aux
+12	sell	sell	VB	_	10	vmod
+13	tea	tea	NN	_	12	dobj
+14	,	,	,	_	13	punct
+15	sugar	sugar	NN	_	13	conj
+16	,	,	,	_	13	punct
+17	cotton	cotton	NN	_	13	conj
+18	and	and	CC	_	13	cc
+19	nuts	nut	NNS	_	13	conj
+20	to	to	TO	_	12	prep
+21	processors	processor	NNS	_	20	pobj
+22	.	.	.	_	7	punct
+

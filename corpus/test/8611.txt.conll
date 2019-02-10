@@ -1,0 +1,13 @@
+1	This	this	DT	_	2	det
+2	page	page	NN	_	3	nsubj
+3	explains	explain	VBZ	_	0	ROOT
+4	commonly	commonly	RB	_	5	advmod
+5	used	use	VBN	_	6	amod
+6	terms	term	NNS	_	3	dobj
+7	in	in	IN	_	6	prep
+8	chess	chess	NN	_	7	pobj
+9	in	in	IN	_	6	prep
+10	alphabetical	alphabetical	JJ	_	11	amod
+11	order	order	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

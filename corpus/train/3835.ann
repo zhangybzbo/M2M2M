@@ -1,0 +1,3 @@
+T1	Term 9 15	cancer
+T2	Term 29 38	infection
+R1	Cause-Effect Arg1:T2 Arg2:T1

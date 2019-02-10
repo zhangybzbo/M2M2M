@@ -1,0 +1,21 @@
+1	Students	student	NNS	_	2	nsubj
+2	express	express	VBP	_	0	ROOT
+3	their	they	PRP$	_	4	poss
+4	ideas	idea	NNS	_	2	dobj
+5	and	and	CC	_	4	cc
+6	opinions	opinion	NNS	_	4	conj
+7	on	on	IN	_	2	prep
+8	topics	topic	NNS	_	7	pobj
+9	of	of	IN	_	8	prep
+10	interest	interest	NN	_	9	pobj
+11	,	,	,	_	2	punct
+12	and	and	CC	_	2	cc
+13	illustrate	illustrate	VBP	_	2	conj
+14	their	they	PRP$	_	15	poss
+15	writings	writings	NNS	_	13	dobj
+16	with	with	IN	_	15	prep
+17	drawings	drawing	NNS	_	16	pobj
+18	and	and	CC	_	17	cc
+19	photos	photo	NNS	_	17	conj
+20	.	.	.	_	2	punct
+

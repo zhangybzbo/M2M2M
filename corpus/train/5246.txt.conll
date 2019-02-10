@@ -1,0 +1,21 @@
+1	They	they	PRP	_	2	nsubj
+2	achieved	achieve	VBD	_	0	ROOT
+3	the	the	DT	_	6	det
+4	maximum	maximum	NN	_	6	nn
+5	possible	possible	JJ	_	6	amod
+6	flexibility	flexibility	NN	_	2	dobj
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	crockery	crockery	NN	_	10	nn
+10	basket	basket	NN	_	7	pobj
+11	for	for	IN	_	2	prep
+12	receiving	receive	VBG	_	11	pcomp
+13	a	a	DT	_	14	det
+14	plurality	plurality	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	different	different	JJ	_	17	amod
+17	items	item	NNS	_	15	pobj
+18	of	of	IN	_	17	prep
+19	crockery	crockery	NN	_	18	pobj
+20	.	.	.	_	2	punct
+

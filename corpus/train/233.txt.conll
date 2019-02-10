@@ -1,0 +1,9 @@
+1	They	they	PRP	_	2	nsubj
+2	incorporated	incorporate	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	immigrant	immigrant	JJ	_	5	amod
+5	flows	flow	NNS	_	2	dobj
+6	into	into	IN	_	2	prep
+7	microsimulation	microsimulation	NN	_	6	pobj
+8	.	.	.	_	2	punct
+

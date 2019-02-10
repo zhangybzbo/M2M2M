@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	angry	angry	JJ	_	3	amod
+3	driver	driver	NN	_	5	nsubj
+4	then	then	RB	_	5	advmod
+5	demonstrated	demonstrate	VBD	_	0	ROOT
+6	his	he	PRP$	_	7	poss
+7	displeasure	displeasure	NN	_	5	dobj
+8	by	by	IN	_	5	prep
+9	speeding	speed	VBG	_	8	pcomp
+10	around	around	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	other	other	JJ	_	13	amod
+13	vehicle	vehicle	NN	_	10	pobj
+14	,	,	,	_	9	punct
+15	cutting	cut	VBG	_	9	xcomp
+16	the	the	DT	_	18	det
+17	other	other	JJ	_	18	amod
+18	driver	driver	NN	_	15	dobj
+19	off	off	RB	_	15	advmod
+20	.	.	.	_	5	punct
+

@@ -1,0 +1,27 @@
+1	They	they	PRP	_	2	nsubj
+2	shop	shop	VBP	_	0	ROOT
+3	there	there	EX	_	2	dobj
+4	for	for	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	huge	huge	JJ	_	7	amod
+7	selection	selection	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	furniture	furniture	NN	_	12	nn
+10	and	and	CC	_	9	cc
+11	table	table	NN	_	9	conj
+12	legs	leg	NNS	_	8	pobj
+13	,	,	,	_	12	punct
+14	carved	carve	VBN	_	18	amod
+15	and	and	CC	_	14	cc
+16	turned	turn	VBN	_	14	conj
+17	furniture	furniture	NN	_	18	nn
+18	legs	leg	NNS	_	12	conj
+19	and	and	CC	_	12	cc
+20	feet	foot	NNS	_	12	conj
+21	,	,	,	_	12	punct
+22	wood	wood	NN	_	23	nn
+23	turnings	turning	NNS	_	12	conj
+24	and	and	CC	_	12	cc
+25	more	more	JJR	_	12	conj
+26	.	.	.	_	2	punct
+

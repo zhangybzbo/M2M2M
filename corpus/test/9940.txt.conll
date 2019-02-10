@@ -1,0 +1,19 @@
+1	They	they	PRP	_	2	nsubj
+2	lit	light	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	bottle	bottle	NN	_	2	dobj
+5	full	full	JJ	_	4	amod
+6	of	of	IN	_	5	prep
+7	kerosene	kerosene	NN	_	6	pobj
+8	and	and	CC	_	2	cc
+9	flung	fling	VBD	_	2	conj
+10	it	it	PRP	_	9	dobj
+11	over	over	IN	_	9	prep
+12	the	the	DT	_	13	det
+13	gates	gate	NNS	_	11	pobj
+14	before	before	IN	_	9	prep
+15	fleeing	flee	VBG	_	14	pcomp
+16	the	the	DT	_	17	det
+17	scene	scene	NN	_	15	dobj
+18	.	.	.	_	2	punct
+

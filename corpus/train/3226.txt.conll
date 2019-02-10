@@ -1,0 +1,19 @@
+1	Capacity	capacity	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	combination	combination	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	human	human	JJ	_	7	amod
+7	resources	resource	NNS	_	5	pobj
+8	and	and	CC	_	7	cc
+9	institutions	institution	NNS	_	7	conj
+10	that	that	WDT	_	11	nsubj
+11	permits	permit	VBZ	_	4	rcmod
+12	countries	country	NNS	_	11	dobj
+13	to	to	TO	_	14	aux
+14	achieve	achieve	VB	_	11	xcomp
+15	their	they	PRP$	_	17	poss
+16	development	development	NN	_	17	nn
+17	goals	goal	NNS	_	14	dobj
+18	.	.	.	_	4	punct
+

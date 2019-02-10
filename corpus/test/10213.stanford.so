@@ -1,0 +1,13 @@
+0	56	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Shampoos" pos="NNP" nn="t1"
+9	13	tok id="t1" base="work" pos="NN" ROOT="ROOT"
+14	16	tok id="t2" base="by" pos="IN" prep="t1"
+17	22	tok id="t3" base="use" pos="VBG" pcomp="t2"
+23	27	tok id="t4" base="acid" pos="NN" dobj="t3"
+28	30	tok id="t5" base="to" pos="TO" aux="t6"
+31	37	tok id="t6" base="remove" pos="VB" vmod="t3"
+38	42	tok id="t7" base="hard" pos="JJ" amod="t9"
+43	48	tok id="t8" base="water" pos="NN" nn="t9"
+49	54	tok id="t9" base="scale" pos="NN" dobj="t6"
+55	56	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

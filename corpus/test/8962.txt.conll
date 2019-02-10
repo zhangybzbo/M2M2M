@@ -1,0 +1,27 @@
+1	Witness	Witness	NNP	_	3	nn
+2	Ryan	Ryan	NNP	_	3	nn
+3	Jones	Jones	NNP	_	4	nsubj
+4	tried	try	VBD	_	12	ccomp
+5	to	to	TO	_	6	aux
+6	stop	stop	VB	_	4	xcomp
+7	the	the	DT	_	9	det
+8	fleeing	flee	VBG	_	9	amod
+9	Diaz	Diaz	NNP	_	6	dobj
+10	,	,	,	_	12	punct
+11	Jones	Jones	NNP	_	12	nsubj
+12	became	become	VBD	_	0	ROOT
+13	caught	catch	VBN	_	12	acomp
+14	on	on	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	door	door	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	truck	truck	NN	_	17	pobj
+20	and	and	CC	_	12	cc
+21	was	be	VBD	_	22	auxpass
+22	dragged	drag	VBN	_	12	conj
+23	for	for	IN	_	22	prep
+24	a	a	DT	_	25	det
+25	distance	distance	NN	_	23	pobj
+26	.	.	.	_	12	punct
+

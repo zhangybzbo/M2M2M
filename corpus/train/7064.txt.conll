@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	armed	armed	JJ	_	3	amod
+3	men	man	NNS	_	4	nsubj
+4	tore	tear	VBD	_	0	ROOT
+5	down	down	RP	_	4	prt
+6	the	the	DT	_	8	det
+7	rear	rear	JJ	_	8	amod
+8	wall	wall	NN	_	4	dobj
+9	using	use	VBG	_	4	vmod
+10	a	a	DT	_	11	det
+11	sledgehammer	sledgehammer	NN	_	9	dobj
+12	and	and	CC	_	4	cc
+13	used	use	VBD	_	4	conj
+14	a	a	DT	_	16	det
+15	bolt	bolt	NN	_	16	nn
+16	cutter	cutter	NN	_	13	dobj
+17	to	to	TO	_	18	aux
+18	destroy	destroy	VB	_	13	vmod
+19	the	the	DT	_	21	det
+20	detention	detention	NN	_	21	nn
+21	locks	lock	NNS	_	18	dobj
+22	.	.	.	_	4	punct
+

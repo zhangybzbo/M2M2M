@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	scan	scan	VB	_	0	ROOT
+3	started	start	VBN	_	2	vmod
+4	at	at	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	rest	rest	NN	_	7	nn
+7	potential	potential	NN	_	4	pobj
+8	toward	toward	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	positive	positive	JJ	_	11	amod
+11	direction	direction	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

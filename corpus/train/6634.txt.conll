@@ -1,0 +1,21 @@
+1	It	it	PRP	_	2	nsubj
+2	was	be	VBD	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	lining	lining	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	this	this	DT	_	8	det
+8	jacket	jacket	NN	_	6	pobj
+9	that	that	IN	_	12	mark
+10	he	he	PRP	_	12	nsubj
+11	had	have	VBD	_	12	aux
+12	managed	manage	VBN	_	2	ccomp
+13	to	to	TO	_	14	aux
+14	secrete	secrete	VB	_	12	xcomp
+15	the	the	DT	_	16	det
+16	valuables	valuable	NNS	_	14	dobj
+17	of	of	IN	_	16	prep
+18	several	several	JJ	_	19	amod
+19	villagers	villager	NNS	_	17	pobj
+20	.	.	.	_	2	punct
+

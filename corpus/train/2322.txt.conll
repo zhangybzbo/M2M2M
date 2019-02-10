@@ -1,0 +1,17 @@
+1	Results	result	NNS	_	6	nsubjpass
+2	from	from	IN	_	1	prep
+3	this	this	DT	_	4	det
+4	testing	testing	NN	_	2	pobj
+5	were	be	VBD	_	6	auxpass
+6	presented	present	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	12	det
+9	previous	previous	JJ	_	12	amod
+10	technical	technical	JJ	_	12	amod
+11	progress	progress	NN	_	12	nn
+12	report	report	NN	_	7	pobj
+13	for	for	IN	_	12	prep
+14	this	this	DT	_	15	det
+15	project	project	NN	_	13	pobj
+16	.	.	.	_	6	punct
+

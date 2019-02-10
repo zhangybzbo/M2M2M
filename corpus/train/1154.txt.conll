@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	3	nsubj
+3	asserts	assert	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	notion	notion	NN	_	3	dobj
+6	that	that	IN	_	5	prep
+7	men	man	NNS	_	6	pobj
+8	and	and	CC	_	7	cc
+9	women	woman	NNS	_	7	conj
+10	are	be	VBP	_	7	vmod
+11	as	as	IN	_	10	prep
+12	different	different	JJ	_	11	pobj
+13	as	as	IN	_	12	prep
+14	beings	being	NNS	_	13	pobj
+15	from	from	IN	_	14	prep
+16	other	other	JJ	_	17	amod
+17	planets	planet	NNS	_	15	pobj
+18	.	.	.	_	3	punct
+

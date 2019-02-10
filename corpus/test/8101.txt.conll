@@ -1,0 +1,26 @@
+1	Additionally	additionally	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	chapter	chapter	NN	_	5	nsubj
+5	points	point	VBZ	_	0	ROOT
+6	out	out	RP	_	5	prt
+7	the	the	DT	_	8	det
+8	importance	importance	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	new	new	JJ	_	12	amod
+11	employee	employee	NN	_	12	nn
+12	orientation	orientation	NN	_	9	pobj
+13	and	and	CC	_	5	cc
+14	lists	list	VBZ	_	5	conj
+15	some	some	DT	_	14	dobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	important	important	JJ	_	19	amod
+19	things	thing	NNS	_	16	pobj
+20	to	to	TO	_	21	aux
+21	cover	cover	VB	_	14	vmod
+22	during	during	IN	_	21	prep
+23	that	that	DT	_	24	det
+24	process	process	NN	_	22	pobj
+25	.	.	.	_	5	punct
+

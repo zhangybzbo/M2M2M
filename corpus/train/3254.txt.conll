@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	movement	movement	NN	_	3	nsubj
+3	developed	develop	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	rediscovery	rediscovery	NN	_	4	pobj
+7	by	by	IN	_	3	prep
+8	European	european	JJ	_	9	amod
+9	scholars	scholar	NNS	_	7	pobj
+10	of	of	IN	_	9	prep
+11	many	many	JJ	_	15	amod
+12	Greek	greek	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	Roman	roman	JJ	_	12	conj
+15	texts	text	NNS	_	10	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,3 @@
+T1	Term 36 45	molecules
+T2	Term 65 72	synapse
+R1	Component-Whole Arg1:T1 Arg2:T2

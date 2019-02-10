@@ -1,0 +1,27 @@
+1	She	she	PRP	_	2	nsubj
+2	wears	wear	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	brace	brace	VB	_	2	dobj
+5	for	for	IN	_	4	prep
+6	her	she	PRP$	_	8	poss
+7	left	left	JJ	_	8	amod
+8	ankle	ankle	NN	_	5	pobj
+9	,	,	,	_	2	punct
+10	has	have	VBZ	_	11	aux
+11	restricted	restrict	VBN	_	2	dep
+12	use	use	NN	_	11	dobj
+13	of	of	IN	_	12	prep
+14	her	she	PRP$	_	16	poss
+15	left	left	JJ	_	16	amod
+16	hand	hand	NN	_	13	pobj
+17	,	,	,	_	11	punct
+18	still	still	RB	_	11	advmod
+19	has	have	VBZ	_	11	dep
+20	vision	vision	NN	_	21	nn
+21	problems	problem	NNS	_	19	dobj
+22	and	and	CC	_	19	cc
+23	continues	continue	VBZ	_	19	conj
+24	with	with	IN	_	23	prep
+25	therapy	therapy	NN	_	24	pobj
+26	.	.	.	_	2	punct
+

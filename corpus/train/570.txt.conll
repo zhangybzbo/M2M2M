@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	freshness	freshness	NN	_	11	nsubj
+3	of	of	IN	_	2	prep
+4	ale	ale	NN	_	3	pobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	carton	carton	NN	_	5	pobj
+8	is	be	VBZ	_	11	cop
+9	the	the	DT	_	11	det
+10	limiting	limit	VBG	_	11	amod
+11	factor	factor	NN	_	0	ROOT
+12	.	.	.	_	11	punct
+

@@ -1,0 +1,22 @@
+1	Godfrey	Godfrey	NNP	_	5	nsubj
+2	and	and	CC	_	1	cc
+3	I	I	PRP	_	1	conj
+4	,	,	,	_	5	punct
+5	caught	catch	VBD	_	0	ROOT
+6	up	up	RP	_	5	prt
+7	in	in	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	whirl	whirl	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	insects	insect	NNS	_	10	pobj
+12	,	,	,	_	5	punct
+13	had	have	VBD	_	14	aux
+14	become	become	VBN	_	5	dep
+15	part	part	NN	_	14	xcomp
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	forest	forest	NN	_	16	pobj
+19	,	,	,	_	14	punct
+20	too	too	RB	_	14	advmod
+21	.	.	.	_	5	punct
+

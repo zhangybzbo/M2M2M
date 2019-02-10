@@ -1,0 +1,15 @@
+1	In	in	IN	_	5	prep
+2	this	this	DT	_	3	det
+3	strategy	strategy	NN	_	1	pobj
+4	we	we	PRP	_	5	nsubj
+5	set	set	VBD	_	0	ROOT
+6	out	out	RP	_	5	prt
+7	the	the	DT	_	9	det
+8	main	main	JJ	_	9	amod
+9	issues	issue	NNS	_	5	dobj
+10	,	,	,	_	9	punct
+11	priorities	priority	NNS	_	9	conj
+12	and	and	CC	_	9	cc
+13	tasks	task	NNS	_	9	conj
+14	.	.	.	_	5	punct
+

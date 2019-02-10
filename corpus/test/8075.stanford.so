@@ -1,0 +1,11 @@
+0	63	sentence id="s0" parse_status="success"
+0	13	tok id="t0" base="International" pos="NNP" nn="t3"
+14	18	tok id="t1" base="ship" pos="NN" nn="t3"
+19	25	tok id="t2" base="sewage" pos="NN" nn="t3"
+26	37	tok id="t3" base="regulation" pos="NNS" nsubj="t5"
+38	42	tok id="t4" base="have" pos="VBP" aux="t5"
+43	50	tok id="t5" base="enter" pos="VBN" ROOT="ROOT"
+51	55	tok id="t6" base="into" pos="IN" prep="t5"
+56	61	tok id="t7" base="force" pos="NN" pobj="t6"
+62	63	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

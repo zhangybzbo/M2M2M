@@ -1,0 +1,11 @@
+1	Interior	Interior	NNP	_	2	nn
+2	chief	chief	NN	_	3	nsubj
+3	adds	add	VBZ	_	0	ROOT
+4	hurdles	hurdle	NNS	_	3	dobj
+5	for	for	IN	_	4	prep
+6	drilling	drilling	NN	_	5	pobj
+7	on	on	IN	_	6	prep
+8	public	public	JJ	_	9	amod
+9	lands	land	NNS	_	7	pobj
+10	.	.	.	_	3	punct
+

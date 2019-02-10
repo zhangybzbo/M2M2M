@@ -1,0 +1,16 @@
+1	Literally	literally	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	many	many	JJ	_	4	amod
+4	islands	island	NNS	_	6	nsubj
+5	are	be	VBP	_	6	aux
+6	sinking	sink	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	sea	sea	NN	_	7	pobj
+10	due	due	JJ	_	11	mwe
+11	to	to	TO	_	6	prep
+12	global	global	JJ	_	14	amod
+13	climate	climate	NN	_	14	nn
+14	changes	change	NNS	_	11	pobj
+15	.	.	.	_	6	punct
+

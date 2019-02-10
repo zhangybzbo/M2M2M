@@ -1,0 +1,13 @@
+1	Here	here	RB	_	2	advmod
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	8	det
+4	reliable	reliable	JJ	_	8	amod
+5	and	and	CC	_	4	cc
+6	tasty	tasty	JJ	_	4	conj
+7	cookie	cookie	NN	_	8	nn
+8	recipe	recipe	NN	_	2	nsubj
+9	from	from	IN	_	8	prep
+10	my	my	PRP$	_	11	poss
+11	grandmother	grandmother	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

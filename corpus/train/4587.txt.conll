@@ -1,0 +1,14 @@
+1	Males	male	NNS	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	their	they	PRP$	_	4	poss
+4	urethra	urethra	NN	_	2	dobj
+5	and	and	CC	_	4	cc
+6	urachus	urachus	NN	_	4	conj
+7	ligated	ligate	VBN	_	6	vmod
+8	with	with	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	fine	fine	JJ	_	12	amod
+11	silastic	silastic	JJ	_	12	amod
+12	tubing	tubing	NN	_	8	pobj
+13	.	.	.	_	2	punct
+

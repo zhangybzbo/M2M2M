@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	original	original	JJ	_	3	amod
+3	play	play	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	inspired	inspire	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	trip	trip	NN	_	6	pobj
+9	to	to	TO	_	8	prep
+10	Europe	Europe	NNP	_	9	pobj
+11	made	make	VBN	_	8	vmod
+12	by	by	IN	_	11	prep
+13	Murray	Murray	NNP	_	14	nn
+14	Burnett	Burnett	NNP	_	12	pobj
+15	in	in	IN	_	11	prep
+16	1938	1938	CD	_	15	pobj
+17	.	.	.	_	5	punct
+

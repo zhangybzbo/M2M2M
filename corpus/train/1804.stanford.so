@@ -1,0 +1,13 @@
+0	52	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="accidentally" pos="RB" advmod="t3"
+13	14	tok id="t1" base="-COMMA-" pos="," punct="t3"
+15	16	tok id="t2" base="I" pos="PRP" nsubj="t3"
+17	23	tok id="t3" base="pour" pos="VBD" ROOT="ROOT"
+24	27	tok id="t4" base="too" pos="RB" advmod="t5"
+28	32	tok id="t5" base="much" pos="JJ" amod="t6"
+33	38	tok id="t6" base="sugar" pos="NN" dobj="t3"
+39	43	tok id="t7" base="into" pos="IN" prep="t3"
+44	46	tok id="t8" base="my" pos="PRP$" poss="t9"
+47	50	tok id="t9" base="tea" pos="NN" pobj="t7"
+51	52	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

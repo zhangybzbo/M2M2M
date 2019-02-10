@@ -1,0 +1,11 @@
+1	Junk	junk	NN	_	2	nn
+2	mails	mail	NNS	_	5	nsubjpass
+3	were	be	VBD	_	5	auxpass
+4	automatically	automatically	RB	_	5	advmod
+5	put	put	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	spam	spam	NN	_	9	nn
+9	folder	folder	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

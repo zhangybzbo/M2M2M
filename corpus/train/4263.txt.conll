@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	servant	servant	NN	_	5	nsubj
+3	who	who	WP	_	4	nsubj
+4	carves	carve	VBZ	_	2	rcmod
+5	removes	remove	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	fat	fat	JJ	_	5	dobj
+8	with	with	IN	_	5	prep
+9	a	a	DT	_	10	det
+10	spoon	spoon	NN	_	8	pobj
+11	.	.	.	_	5	punct
+

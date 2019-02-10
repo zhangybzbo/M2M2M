@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	propaganda	propaganda	NN	_	3	nn
+3	machine	machine	NN	_	4	nsubj
+4	tells	tell	VBZ	_	0	ROOT
+5	us	we	PRP	_	4	dobj
+6	about	about	IN	_	4	prep
+7	these	these	DT	_	9	det
+8	tin-pot	tin-pot	JJ	_	9	amod
+9	dictators	dictator	NNS	_	6	pobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	15	nsubj
+12	are	be	VBP	_	15	cop
+13	the	the	DT	_	15	det
+14	greatest	greatest	JJS	_	15	amod
+15	threat	threat	NN	_	9	rcmod
+16	to	to	TO	_	15	prep
+17	the	the	DT	_	18	det
+18	world	world	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

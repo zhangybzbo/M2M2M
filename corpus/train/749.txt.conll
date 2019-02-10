@@ -1,0 +1,20 @@
+1	The	the	DT	_	4	det
+2	first	first	JJ	_	4	amod
+3	two	two	CD	_	4	num
+4	papers	papers	NNS	_	5	nsubj
+5	define	define	VBP	_	0	ROOT
+6	the	the	DT	_	9	det
+7	contemporary	contemporary	JJ	_	9	amod
+8	terrorist	terrorist	JJ	_	9	amod
+9	threat	threat	NN	_	5	dobj
+10	while	while	IN	_	15	mark
+11	the	the	DT	_	14	det
+12	next	next	JJ	_	14	amod
+13	three	three	CD	_	14	num
+14	papers	papers	NNS	_	15	nsubj
+15	examine	examine	VBP	_	5	advcl
+16	global	global	JJ	_	18	amod
+17	counter-terrorism	counter-terrorism	NN	_	18	nn
+18	trends	trend	NNS	_	15	dobj
+19	.	.	.	_	5	punct
+

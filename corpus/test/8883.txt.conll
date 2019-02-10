@@ -1,0 +1,21 @@
+1	My	my	PRP$	_	2	poss
+2	neighbour	neighbour	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	erected	erect	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	fence	fence	NN	_	4	dobj
+7	and	and	CC	_	4	cc
+8	it	it	PRP	_	11	nsubjpass
+9	has	have	VBZ	_	11	aux
+10	been	be	VBN	_	11	auxpass
+11	built	build	VBN	_	4	conj
+12	on	on	IN	_	11	prep
+13	our	we	PRP$	_	14	poss
+14	land	land	NN	_	12	pobj
+15	,	,	,	_	11	punct
+16	not	not	RB	_	17	neg
+17	on	on	IN	_	11	prep
+18	the	the	DT	_	19	det
+19	boundary	boundary	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

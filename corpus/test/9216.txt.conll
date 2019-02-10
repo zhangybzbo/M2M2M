@@ -1,0 +1,18 @@
+1	She	she	PRP	_	2	nsubj
+2	knew	know	VBD	_	0	ROOT
+3	each	each	DT	_	5	det
+4	favorite	favorite	JJ	_	5	amod
+5	clump	clump	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	concealing	conceal	VBG	_	6	pcomp
+8	reeds	reed	NNS	_	7	dobj
+9	along	along	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	river	river	NN	_	9	pobj
+12	that	that	IN	_	15	mark
+13	the	the	DT	_	14	det
+14	buffalo	buffalo	NN	_	15	nsubj
+15	loved	love	VBD	_	11	ccomp
+16	best	best	JJS	_	15	dobj
+17	.	.	.	_	2	punct
+

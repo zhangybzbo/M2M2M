@@ -1,0 +1,20 @@
+1	Bangladesh	Bangladesh	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	urged	urge	VBN	_	0	ROOT
+4	India	India	NNP	_	3	dobj
+5	to	to	TO	_	6	aux
+6	do	do	VB	_	3	xcomp
+7	away	away	RB	_	6	advmod
+8	with	with	IN	_	6	prep
+9	visas	visa	NNS	_	8	pobj
+10	for	for	IN	_	9	prep
+11	travel	travel	NN	_	10	pobj
+12	between	between	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	two	two	CD	_	15	num
+15	neighbours	neighbour	NNS	_	12	pobj
+16	to	to	TO	_	17	aux
+17	boost	boost	VB	_	6	xcomp
+18	trade	trade	NN	_	17	dobj
+19	.	.	.	_	3	punct
+

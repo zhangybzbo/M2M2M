@@ -1,0 +1,19 @@
+1	Fiscus	Fiscus	NNP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	the	the	DT	_	4	det
+4	treasury	treasury	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Roman	Roman	NNP	_	8	nn
+8	emperor	emperor	NN	_	5	pobj
+9	,	,	,	_	4	punct
+10	so-called	so-called	JJ	_	4	amod
+11	because	because	IN	_	15	mark
+12	the	the	DT	_	13	det
+13	money	money	NN	_	15	nsubjpass
+14	was	be	VBD	_	15	auxpass
+15	stored	store	VBN	_	10	advcl
+16	in	in	IN	_	15	prep
+17	baskets	basket	NNS	_	16	pobj
+18	.	.	.	_	4	punct
+

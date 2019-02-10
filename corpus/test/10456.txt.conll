@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	drain	drain	NN	_	6	nsubj
+3	was	be	VBD	_	6	cop
+4	only	only	RB	_	5	advmod
+5	half	half	JJ	_	6	amod
+6	way	way	NN	_	0	ROOT
+7	through	through	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	bale	bale	NN	_	10	nn
+10	wall	wall	NN	_	7	pobj
+11	,	,	,	_	6	punct
+12	so	so	RB	_	13	advmod
+13	when	when	WRB	_	15	advmod
+14	it	it	PRP	_	15	nsubj
+15	stormed	storm	VBD	_	19	advcl
+16	,	,	,	_	19	punct
+17	the	the	DT	_	18	det
+18	water	water	NN	_	19	nsubj
+19	poured	pour	VBD	_	6	rcmod
+20	right	right	RB	_	21	advmod
+21	into	into	IN	_	19	prep
+22	the	the	DT	_	23	det
+23	straw-bales	straw-bale	NNS	_	21	pobj
+24	.	.	.	_	6	punct
+

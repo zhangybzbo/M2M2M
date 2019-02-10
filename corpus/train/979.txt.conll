@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	cutaneous	cutaneous	JJ	_	3	amod
+3	mycoses	mycose	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	homogeneous	homogeneous	JJ	_	9	amod
+9	group	group	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	keratinophilic	keratinophilic	JJ	_	12	amod
+12	fungi	fungus	NNS	_	10	pobj
+13	termed	term	VBN	_	9	vmod
+14	the	the	DT	_	15	det
+15	dermatophytes	dermatophyte	NNS	_	13	dobj
+16	.	.	.	_	5	punct
+

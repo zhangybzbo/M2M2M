@@ -1,0 +1,11 @@
+1	Various	various	JJ	_	7	amod
+2	hormonal	hormonal	JJ	_	7	amod
+3	,	,	,	_	2	punct
+4	bacterial	bacterial	JJ	_	2	conj
+5	and	and	CC	_	2	cc
+6	inflammatory	inflammatory	JJ	_	2	conj
+7	disturbances	disturbance	NNS	_	8	nsubj
+8	cause	cause	VBP	_	0	ROOT
+9	acne	acne	NN	_	8	dobj
+10	.	.	.	_	8	punct
+

@@ -1,0 +1,14 @@
+1	Larger	larger	JJR	_	2	amod
+2	batteries	battery	NNS	_	3	nsubj
+3	provide	provide	VBP	_	0	ROOT
+4	standby	standby	JJ	_	5	amod
+5	power	power	NN	_	3	dobj
+6	for	for	IN	_	5	prep
+7	telephone	telephone	NN	_	8	nn
+8	exchanges	exchange	NNS	_	6	pobj
+9	or	or	CC	_	8	cc
+10	computer	computer	NN	_	12	nn
+11	data	datum	NNS	_	12	nn
+12	centers	center	NNS	_	8	conj
+13	.	.	.	_	3	punct
+

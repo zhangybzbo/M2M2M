@@ -1,0 +1,11 @@
+0	45	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="soul" pos="NN" nsubj="t2"
+9	16	tok id="t2" base="depart" pos="VBZ" ROOT="ROOT"
+17	21	tok id="t3" base="from" pos="IN" prep="t2"
+22	25	tok id="t4" base="the" pos="DT" det="t5"
+26	30	tok id="t5" base="body" pos="NN" pobj="t3"
+31	34	tok id="t6" base="for" pos="IN" prep="t2"
+35	43	tok id="t7" base="eternity" pos="NN" pobj="t6"
+44	45	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

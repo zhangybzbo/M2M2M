@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	printer	printer	NN	_	3	nsubj
+3	covers	cover	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	plate	plate	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	sheet	sheet	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	paper	paper	NN	_	9	pobj
+11	and	and	CC	_	3	cc
+12	runs	run	VBZ	_	3	conj
+13	both	both	DT	_	14	preconj
+14	through	through	IN	_	12	prep
+15	a	a	DT	_	16	det
+16	press	press	NN	_	14	pobj
+17	under	under	IN	_	12	prep
+18	light	light	JJ	_	19	amod
+19	pressure	pressure	NN	_	17	pobj
+20	.	.	.	_	3	punct
+

@@ -1,0 +1,24 @@
+1	As	as	IN	_	8	prep
+2	a	a	DT	_	3	det
+3	consequence	consequence	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	optimization	optimization	NN	_	8	nsubjpass
+6	is	be	VBZ	_	8	auxpass
+7	now	now	RB	_	8	advmod
+8	viewed	view	VBN	_	0	ROOT
+9	as	as	IN	_	8	prep
+10	an	a	DT	_	12	det
+11	indispensable	indispensable	JJ	_	12	amod
+12	tool	tool	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	trade	trade	NN	_	13	pobj
+16	for	for	IN	_	15	prep
+17	engineers	engineer	NNS	_	16	pobj
+18	working	work	VBG	_	17	vmod
+19	in	in	IN	_	18	prep
+20	many	many	JJ	_	22	amod
+21	different	different	JJ	_	22	amod
+22	industries	industry	NNS	_	19	pobj
+23	.	.	.	_	8	punct
+

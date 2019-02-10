@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	section	section	NN	_	3	nsubj
+3	concludes	conclude	VBZ	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	giving	give	VBG	_	4	pcomp
+6	a	a	DT	_	7	det
+7	summary	summary	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	findings	finding	NNS	_	8	pobj
+10	.	.	.	_	3	punct
+

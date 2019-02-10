@@ -1,0 +1,15 @@
+1	The71-year-old	the71-year-old	JJ	_	2	amod
+2	man	man	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	already	already	RB	_	5	advmod
+5	converted	convert	VBN	_	0	ROOT
+6	a	a	DT	_	7	det
+7	room	room	NN	_	5	dobj
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	basement	basement	NN	_	8	pobj
+11	into	into	IN	_	5	prep
+12	an	a	DT	_	13	det
+13	office	office	NN	_	11	pobj
+14	.	.	.	_	5	punct
+

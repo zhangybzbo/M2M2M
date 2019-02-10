@@ -1,0 +1,27 @@
+1	Several	several	JJ	_	3	amod
+2	merry	merry	JJ	_	3	amod
+3	answers	answer	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	my	my	PRP$	_	8	poss
+8	question	question	NN	_	6	pobj
+9	,	,	,	_	8	punct
+10	which	which	WDT	_	11	nsubj
+11	entertained	entertain	VBD	_	8	rcmod
+12	us	we	PRP	_	13	nsubj
+13	'till	'till	VB	_	11	ccomp
+14	bed	bed	NN	_	15	nn
+15	time	time	NN	_	13	dobj
+16	,	,	,	_	5	punct
+17	and	and	CC	_	5	cc
+18	filled	fill	VBD	_	5	conj
+19	my	my	PRP$	_	20	poss
+20	mind	mind	NN	_	18	dobj
+21	with	with	IN	_	18	prep
+22	a	a	DT	_	23	det
+23	huddle	huddle	NN	_	21	pobj
+24	of	of	IN	_	23	prep
+25	ideas	idea	NNS	_	24	pobj
+26	.	.	.	_	5	punct
+

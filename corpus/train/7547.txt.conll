@@ -1,0 +1,14 @@
+1	Batteries	battery	NNS	_	2	nsubj
+2	stored	store	VBD	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	contact	contact	NN	_	3	pobj
+5	with	with	IN	_	4	prep
+6	one	one	CD	_	7	num
+7	another	another	DT	_	5	pobj
+8	generate	generate	VBP	_	2	dep
+9	heat	heat	NN	_	12	nn
+10	and	and	CC	_	9	cc
+11	hydrogen	hydrogen	NN	_	9	conj
+12	gas	gas	NN	_	8	dobj
+13	.	.	.	_	2	punct
+

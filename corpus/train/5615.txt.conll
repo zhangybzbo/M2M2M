@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	terrorist	terrorist	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	planted	plant	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	bomb	bomb	NN	_	4	dobj
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	city	city	NN	_	10	nn
+10	centre	centre	NN	_	7	pobj
+11	and	and	CC	_	4	cc
+12	it	it	PRP	_	14	nsubj
+13	is	be	VBZ	_	14	cop
+14	due	due	JJ	_	4	conj
+15	to	to	TO	_	16	aux
+16	go	go	VB	_	14	xcomp
+17	off	off	RP	_	16	prt
+18	in	in	IN	_	16	prep
+19	one	one	CD	_	22	num
+20	or	or	CC	_	19	cc
+21	two	two	CD	_	19	conj
+22	hours	hour	NNS	_	24	poss
+23	'	'	POS	_	22	possessive
+24	time	time	NN	_	18	pobj
+25	.	.	.	_	4	punct
+

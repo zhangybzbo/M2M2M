@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	tools	tool	NNS	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	job	job	NN	_	6	nsubj
+6	easy	easy	JJ	_	3	xcomp
+7	when	when	WRB	_	13	advmod
+8	it	it	PRP	_	13	nsubj
+9	could	could	MD	_	13	aux
+10	have	have	VB	_	13	aux
+11	been	be	VBN	_	13	cop
+12	a	a	DT	_	13	det
+13	nightmare	nightmare	NN	_	3	advcl
+14	.	.	.	_	3	punct
+

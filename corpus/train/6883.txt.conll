@@ -1,0 +1,18 @@
+1	It	it	PRP	_	3	nsubj
+2	's	be	VBZ	_	3	cop
+3	common	common	JJ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	get	get	VB	_	3	xcomp
+6	a	a	DT	_	8	det
+7	slight	slight	JJ	_	8	amod
+8	fever	fever	NN	_	5	dobj
+9	from	from	IN	_	8	prep
+10	immunizations	immunization	NNS	_	9	pobj
+11	,	,	,	_	8	punct
+12	which	which	WDT	_	14	nsubj
+13	can	can	MD	_	14	aux
+14	make	make	VB	_	8	rcmod
+15	them	they	PRP	_	16	nsubj
+16	uncomfortable	uncomfortable	JJ	_	14	xcomp
+17	.	.	.	_	3	punct
+

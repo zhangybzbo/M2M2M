@@ -1,0 +1,27 @@
+1	One	one	CD	_	4	num
+2	sad	sad	JJ	_	4	amod
+3	-LRB-	-lrb-	-LRB-	_	4	punct
+4	excuse	excuse	NN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	pun	pun	NN	_	4	appos
+7	-RRB-	-rrb-	-RRB-	_	6	punct
+8	consequence	consequence	NN	_	9	nsubj
+9	is	be	VBZ	_	4	rcmod
+10	that	that	IN	_	17	mark
+11	a	a	DT	_	12	det
+12	winter	winter	NN	_	17	nsubj
+13	of	of	IN	_	12	prep
+14	suffering	suffer	VBG	_	13	pcomp
+15	from	from	IN	_	14	prep
+16	SAD	sad	JJ	_	15	pobj
+17	adds	add	VBZ	_	9	ccomp
+18	to	to	TO	_	17	prep
+19	the	the	DT	_	21	det
+20	weight	weight	NN	_	21	nn
+21	gain	gain	NN	_	18	pobj
+22	caused	cause	VBN	_	21	vmod
+23	by	by	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	antidepressants	antidepressant	NNS	_	23	pobj
+26	.	.	.	_	4	punct
+

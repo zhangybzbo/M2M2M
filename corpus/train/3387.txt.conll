@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	sales	sale	NNS	_	3	nn
+3	cycle	cycle	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	shortened	shorten	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	several	several	JJ	_	8	amod
+8	months	month	NNS	_	6	pobj
+9	to	to	TO	_	5	prep
+10	weeks	week	NNS	_	9	pobj
+11	.	.	.	_	5	punct
+

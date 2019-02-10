@@ -1,0 +1,20 @@
+1	Jessica	Jessica	NNP	_	2	nn
+2	Simpson	Simpson	NNP	_	7	poss
+3	's	's	POS	_	2	possessive
+4	``	``	``	_	7	punct
+5	A	A	NNP	_	7	nn
+6	Public	Public	NNP	_	7	nn
+7	Affair	Affair	NNP	_	0	ROOT
+8	''	''	''	_	7	punct
+9	video	video	NN	_	10	nsubj
+10	features	feature	VBZ	_	7	rcmod
+11	a	a	DT	_	12	det
+12	group	group	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	stars	star	NNS	_	13	pobj
+15	from	from	IN	_	10	prep
+16	movies	movie	NNS	_	15	pobj
+17	and	and	CC	_	16	cc
+18	TV	tv	NN	_	16	conj
+19	.	.	.	_	7	punct
+

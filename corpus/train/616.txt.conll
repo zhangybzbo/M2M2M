@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	law	law	NN	_	3	nsubj
+3	established	establish	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	major	major	JJ	_	6	amod
+6	redistribution	redistribution	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	territorial	territorial	JJ	_	9	amod
+9	sovereignty	sovereignty	NN	_	7	pobj
+10	within	within	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	Empire	Empire	NNP	_	10	pobj
+13	.	.	.	_	3	punct
+

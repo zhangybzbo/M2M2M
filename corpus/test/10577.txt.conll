@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	clot	clot	NN	_	4	nsubj
+3	later	later	RB	_	4	advmod
+4	caused	cause	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	seizure	seizure	NN	_	4	dobj
+7	,	,	,	_	4	punct
+8	leaving	leave	VBG	_	4	vmod
+9	Nathan	Nathan	NNP	_	8	dobj
+10	completely	completely	RB	_	11	advmod
+11	paralyzed	paralyze	VBD	_	8	dep
+12	on	on	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	right	right	JJ	_	15	amod
+15	side	side	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	his	he	PRP$	_	18	poss
+18	body	body	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

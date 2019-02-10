@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	kids	kid	NNS	_	3	nsubj
+3	get	get	VBP	_	0	ROOT
+4	great	great	JJ	_	5	amod
+5	joy	joy	NN	_	3	dobj
+6	from	from	IN	_	3	prep
+7	eating	eat	VBG	_	6	pcomp
+8	the	the	DT	_	9	det
+9	tomatoes	tomato	NNS	_	7	dobj
+10	right	right	RB	_	11	advmod
+11	off	off	IN	_	7	prep
+12	the	the	DT	_	13	det
+13	vine	vine	NN	_	11	pobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,10 @@
+1	Including	include	VBG	_	0	ROOT
+2	amenities	amenity	NNS	_	1	dobj
+3	such	such	JJ	_	4	mwe
+4	as	as	IN	_	2	prep
+5	kiosks	kiosk	NNS	_	4	pobj
+6	create	create	VBP	_	1	dep
+7	pedestrian-friendly	pedestrian-friendly	JJ	_	8	amod
+8	spaces	space	NNS	_	6	dobj
+9	.	.	.	_	1	punct
+

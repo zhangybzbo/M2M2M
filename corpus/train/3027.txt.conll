@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	3	nsubj
+3	relates	relate	VBZ	_	0	ROOT
+4	epic	epic	NN	_	5	nn
+5	battles	battle	NNS	_	3	dobj
+6	between	between	IN	_	5	prep
+7	horses	horse	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	wolves	wolf	NNS	_	7	conj
+10	and	and	CC	_	7	cc
+11	the	the	DT	_	13	det
+12	sheep	sheep	NN	_	13	nn
+13	herders	herder	NNS	_	7	conj
+14	and	and	CC	_	7	cc
+15	pasture	pasture	NN	_	16	nn
+16	dwellers	dweller	NNS	_	7	conj
+17	.	.	.	_	3	punct
+

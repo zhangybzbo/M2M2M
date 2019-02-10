@@ -1,0 +1,3 @@
+T1	Term 10 31	reproductive toxicity
+T2	Term 85 92	nitrite
+R1	Cause-Effect Arg1:T2 Arg2:T1

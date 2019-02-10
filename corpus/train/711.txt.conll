@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	clip	clip	NN	_	16	nsubjpass
+3	describing	describe	VBG	_	2	vmod
+4	the	the	DT	_	5	det
+5	bakery	bakery	NN	_	7	poss
+6	's	's	POS	_	5	possessive
+7	investment	investment	NN	_	3	dobj
+8	in	in	IN	_	7	prep
+9	people	people	NNS	_	8	pobj
+10	as	as	RB	_	11	advmod
+11	well	well	RB	_	7	cc
+12	as	as	IN	_	11	mwe
+13	machines	machine	NNS	_	7	conj
+14	has	have	VBZ	_	16	aux
+15	been	be	VBN	_	16	auxpass
+16	presented	present	VBN	_	0	ROOT
+17	.	.	.	_	16	punct
+

@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det
+2	numismatic	numismatic	JJ	_	3	amod
+3	topics	topic	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	placed	place	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	categories	category	NNS	_	6	pobj
+8	.	.	.	_	5	punct
+

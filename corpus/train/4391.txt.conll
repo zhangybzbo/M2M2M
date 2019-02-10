@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	following	follow	VBG	_	3	amod
+3	remarks	remark	NNS	_	4	nsubj
+4	have	have	VBP	_	0	ROOT
+5	special	special	JJ	_	6	amod
+6	reference	reference	NN	_	4	dobj
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	results	result	NNS	_	7	pobj
+10	obtained	obtain	VBN	_	9	vmod
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	human	human	JJ	_	14	amod
+14	lung	lung	NN	_	11	pobj
+15	.	.	.	_	4	punct
+

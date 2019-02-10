@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	deepest	deepest	JJS	_	3	amod
+3	portion	portion	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	photosphere	photosphere	NN	_	4	pobj
+7	is	be	VBZ	_	9	cop
+8	the	the	DT	_	9	det
+9	source	source	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	continuous	continuous	JJ	_	13	amod
+13	spectrum	spectrum	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

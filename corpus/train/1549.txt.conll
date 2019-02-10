@@ -1,0 +1,10 @@
+1	Maddie	Maddie	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	parents	parent	NNS	_	4	nsubj
+4	killed	kill	VBD	_	0	ROOT
+5	her	she	PRP	_	4	dobj
+6	with	with	IN	_	4	prep
+7	sleeping	sleep	VBG	_	8	amod
+8	pills	pill	NNS	_	6	pobj
+9	.	.	.	_	4	punct
+

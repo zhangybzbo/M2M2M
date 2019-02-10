@@ -1,0 +1,20 @@
+1	We	we	PRP	_	4	nsubj
+2	have	have	VBP	_	4	aux
+3	therefore	therefore	RB	_	4	advmod
+4	taken	take	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	initiative	initiative	NN	_	4	dobj
+7	to	to	TO	_	8	aux
+8	convene	convene	VB	_	6	vmod
+9	the	the	DT	_	13	det
+10	first	first	JJ	_	13	amod
+11	international	international	JJ	_	13	amod
+12	open	open	JJ	_	13	amod
+13	meeting	meeting	NN	_	8	dobj
+14	dedicated	dedicate	VBN	_	13	vmod
+15	solely	solely	RB	_	14	advmod
+16	to	to	TO	_	14	prep
+17	rural	rural	JJ	_	18	amod
+18	history	history	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	During	during	IN	_	15	prep
+2	his	he	PRP$	_	3	poss
+3	reign	reign	NN	_	1	pobj
+4	,	,	,	_	15	punct
+5	two	two	CD	_	7	num
+6	working	work	VBG	_	7	amod
+7	groups	group	NNS	_	15	nsubj
+8	under	under	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	lead	lead	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	engineer	engineer	NN	_	14	nn
+14	Eupalinos	Eupalinos	NNP	_	11	pobj
+15	dug	dig	VBD	_	0	ROOT
+16	a	a	DT	_	17	det
+17	tunnel	tunnel	NN	_	15	dobj
+18	through	through	IN	_	15	prep
+19	Mount	Mount	NNP	_	20	nn
+20	Kastro	Kastro	NNP	_	18	pobj
+21	.	.	.	_	15	punct
+

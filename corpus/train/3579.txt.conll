@@ -1,0 +1,13 @@
+1	All	all	DT	_	2	det
+2	kangaroos	kangaroo	NNS	_	3	nsubj
+3	have	have	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	chambered	chambered	JJ	_	6	amod
+6	stomach	stomach	NN	_	3	dobj
+7	similar	similar	JJ	_	6	amod
+8	to	to	TO	_	7	prep
+9	cattle	cattle	NNS	_	8	pobj
+10	and	and	CC	_	9	cc
+11	sheep	sheep	NN	_	9	conj
+12	.	.	.	_	3	punct
+

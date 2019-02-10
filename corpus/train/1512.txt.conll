@@ -1,0 +1,25 @@
+1	We	we	PRP	_	2	nsubj
+2	find	find	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	candle	candle	NN	_	5	nn
+5	light	light	NN	_	6	nsubj
+6	creates	create	VBZ	_	2	ccomp
+7	a	a	DT	_	9	det
+8	special	special	JJ	_	9	amod
+9	atmosphere	atmosphere	NN	_	6	dobj
+10	not	not	RB	_	11	neg
+11	only	only	RB	_	12	preconj
+12	for	for	IN	_	6	prep
+13	food	food	NN	_	12	pobj
+14	,	,	,	_	12	punct
+15	but	but	CC	_	12	cc
+16	ambiance	ambiance	NN	_	12	conj
+17	for	for	IN	_	16	prep
+18	a	a	DT	_	21	det
+19	relaxing	relaxing	NN	_	21	nn
+20	convivial	convivial	JJ	_	21	amod
+21	meal	meal	NN	_	17	pobj
+22	as	as	RB	_	23	advmod
+23	well	well	RB	_	21	advmod
+24	.	.	.	_	2	punct
+

@@ -1,0 +1,27 @@
+1	Dr.	Dr.	NNP	_	3	nn
+2	Aimee	Aimee	NNP	_	3	nn
+3	Rose	Rose	NNP	_	15	nsubj
+4	,	,	,	_	3	punct
+5	a	a	DT	_	6	det
+6	member	member	NN	_	3	appos
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	team	team	NN	_	7	pobj
+10	who	who	WP	_	11	nsubj
+11	made	make	VBD	_	9	rcmod
+12	the	the	DT	_	13	det
+13	discovery	discovery	NN	_	11	dobj
+14	,	,	,	_	3	punct
+15	predicts	predict	VBZ	_	0	ROOT
+16	it	it	PRP	_	18	nsubj
+17	will	will	MD	_	18	aux
+18	save	save	VB	_	15	ccomp
+19	many	many	JJ	_	20	amod
+20	lives	life	NNS	_	18	dobj
+21	,	,	,	_	18	punct
+22	both	both	DT	_	23	preconj
+23	military	military	JJ	_	18	dep
+24	and	and	CC	_	23	cc
+25	civilian	civilian	JJ	_	23	conj
+26	.	.	.	_	15	punct
+

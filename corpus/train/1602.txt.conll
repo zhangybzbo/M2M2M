@@ -1,0 +1,10 @@
+1	Nuevomexicano	nuevomexicano	JJ	_	2	amod
+2	culture	culture	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	rooted	root	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	indigenous	indigenous	JJ	_	8	amod
+8	past	past	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

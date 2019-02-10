@@ -1,0 +1,16 @@
+1	Shrinkage	shrinkage	NN	_	7	nsubjpass
+2	from	from	IN	_	1	prep
+3	washing	wash	VBG	_	2	pobj
+4	has	have	VBZ	_	7	aux
+5	always	always	RB	_	7	advmod
+6	been	be	VBN	_	7	auxpass
+7	considered	consider	VBN	_	0	ROOT
+8	a	a	DT	_	10	det
+9	serious	serious	JJ	_	10	amod
+10	problem	problem	NN	_	7	dobj
+11	for	for	IN	_	10	prep
+12	cotton	cotton	NN	_	14	nn
+13	knitted	knit	VBD	_	14	amod
+14	fabrics	fabric	NNS	_	11	pobj
+15	.	.	.	_	7	punct
+

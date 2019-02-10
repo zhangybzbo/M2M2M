@@ -1,0 +1,13 @@
+0	65	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="that" pos="DT" det="t1"
+5	10	tok id="t1" base="claim" pos="NN" nsubjpass="t4"
+11	13	tok id="t2" base="be" pos="VBZ" auxpass="t4"
+14	21	tok id="t3" base="however" pos="RB" advmod="t4"
+22	31	tok id="t4" base="exploit" pos="VBN" ROOT="ROOT"
+32	34	tok id="t5" base="in" pos="IN" prep="t4"
+35	38	tok id="t6" base="the" pos="DT" det="t7"
+39	50	tok id="t7" base="philosopher" pos="NN" poss="t9"
+51	53	tok id="t8" base="'s" pos="POS" possessive="t7"
+54	63	tok id="t9" base="dialogue" pos="NNS" pobj="t5"
+64	65	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

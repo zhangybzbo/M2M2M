@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det
+2	best	best	JJS	_	3	dep
+3	kept	keep	VBN	_	4	amod
+4	secret	secret	NN	_	15	nsubj
+5	for	for	IN	_	4	prep
+6	avoiding	avoid	VBG	_	5	pcomp
+7	abdominal	abdominal	JJ	_	9	amod
+8	weight	weight	NN	_	9	nn
+9	gain	gain	NN	_	6	dobj
+10	due	due	JJ	_	9	amod
+11	to	to	TO	_	10	prep
+12	stress	stress	NN	_	11	pobj
+13	is	be	VBZ	_	15	cop
+14	the	the	DT	_	15	det
+15	use	use	NN	_	0	ROOT
+16	of	of	IN	_	15	prep
+17	adaptogens	adaptogen	NNS	_	16	pobj
+18	.	.	.	_	15	punct
+

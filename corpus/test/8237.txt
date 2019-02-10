@@ -1,0 +1,1 @@
+The technique used for combination of information from the different subdetectors was presented during the Tracking-PID-physics meeting .

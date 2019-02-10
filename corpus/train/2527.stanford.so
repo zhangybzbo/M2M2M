@@ -1,0 +1,12 @@
+0	49	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="last" pos="JJ" amod="t1"
+5	10	tok id="t1" base="night" pos="NN" tmod="t5"
+11	12	tok id="t2" base="-COMMA-" pos="," punct="t5"
+13	17	tok id="t3" base="wine" pos="NN" nsubjpass="t5"
+18	21	tok id="t4" base="be" pos="VBD" auxpass="t5"
+22	29	tok id="t5" base="bring" pos="VBN" ROOT="ROOT"
+30	32	tok id="t6" base="to" pos="TO" prep="t5"
+33	36	tok id="t7" base="the" pos="DT" det="t8"
+37	47	tok id="t8" base="restaurant" pos="NN" pobj="t6"
+48	49	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

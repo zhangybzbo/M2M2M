@@ -1,0 +1,22 @@
+1	Non-native	non-native	JJ	_	2	amod
+2	species	species	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	spreading	spread	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	new	new	JJ	_	7	amod
+7	areas	area	NNS	_	5	pobj
+8	increasingly	increasingly	RB	_	9	advmod
+9	rapidly	rapidly	RB	_	4	advmod
+10	through	through	IN	_	4	prep
+11	human	human	JJ	_	12	amod
+12	activities	activity	NNS	_	10	pobj
+13	as	as	IN	_	4	prep
+14	international	international	JJ	_	15	amod
+15	trade	trade	NN	_	13	pobj
+16	,	,	,	_	15	punct
+17	transportation	transportation	NN	_	15	conj
+18	and	and	CC	_	15	cc
+19	travel	travel	NN	_	15	conj
+20	intensify	intensify	VBP	_	4	dep
+21	.	.	.	_	4	punct
+

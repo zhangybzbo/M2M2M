@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	flour	flour	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	bin	bin	NN	_	4	pobj
+7	about	about	IN	_	8	quantmod
+8	six	six	CD	_	9	num
+9	feet	foot	NNS	_	10	npadvmod
+10	square	square	JJ	_	6	amod
+11	,	,	,	_	3	punct
+12	by	by	IN	_	3	prep
+13	four	four	CD	_	14	num
+14	feet	foot	NNS	_	15	npadvmod
+15	high	high	JJ	_	12	pobj
+16	,	,	,	_	3	punct
+17	and	and	CC	_	3	cc
+18	only	only	RB	_	22	advmod
+19	a	a	DT	_	22	det
+20	small	small	JJ	_	22	amod
+21	round	round	NN	_	22	nn
+22	hole	hole	NN	_	3	conj
+23	at	at	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	top	top	NN	_	23	pobj
+26	.	.	.	_	3	punct
+

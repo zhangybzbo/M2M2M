@@ -1,0 +1,12 @@
+1	Other	other	JJ	_	2	amod
+2	companies	company	NNS	_	3	nsubj
+3	compete	compete	VBP	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	us	we	PRP	_	4	pobj
+6	by	by	IN	_	3	prep
+7	inventing	invent	VBG	_	6	pcomp
+8	their	they	PRP$	_	10	poss
+9	own	own	JJ	_	10	amod
+10	technologies	technology	NNS	_	7	dobj
+11	.	.	.	_	3	punct
+

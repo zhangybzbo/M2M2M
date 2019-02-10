@@ -1,0 +1,3 @@
+T1	Term 20 32	satisfaction
+T2	Term 38 46	exertion
+R1	Cause-Effect Arg1:T2 Arg2:T1

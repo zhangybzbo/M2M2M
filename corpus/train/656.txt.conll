@@ -1,0 +1,12 @@
+1	Members	member	NNS	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	website	website	NN	_	2	dobj
+5	to	to	TO	_	6	aux
+6	inform	inform	VB	_	2	vmod
+7	about	about	IN	_	6	prep
+8	projects	project	NNS	_	7	pobj
+9	and	and	CC	_	8	cc
+10	events	event	NNS	_	8	conj
+11	.	.	.	_	2	punct
+

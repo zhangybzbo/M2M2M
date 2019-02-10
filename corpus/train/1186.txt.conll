@@ -1,0 +1,13 @@
+1	Last	last	JJ	_	2	amod
+2	week	week	NN	_	6	tmod
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	troops	troops	NNS	_	6	nsubj
+6	moved	move	VBD	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	dangerous	dangerous	JJ	_	11	amod
+10	war	war	NN	_	11	nn
+11	zone	zone	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

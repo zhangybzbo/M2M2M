@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	palace	palace	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	built	build	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	lake	lake	NN	_	5	pobj
+8	during	during	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	reign	reign	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	16	det
+13	Umayyad	umayyad	JJ	_	16	amod
+14	caliph	caliph	NN	_	16	nn
+15	al-Walid	al-walid	NN	_	16	nn
+16	I	i	NN	_	11	pobj
+17	-LRB-	-lrb-	-LRB-	_	19	punct
+18	705-715	705-715	CD	_	19	num
+19	CE	ce	NN	_	16	appos
+20	-RRB-	-rrb-	-RRB-	_	19	punct
+21	.	.	.	_	4	punct
+

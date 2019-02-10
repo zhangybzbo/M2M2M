@@ -1,0 +1,1 @@
+MFX colours are implemented at the design stage , where the designer creates artwork using the MetalFX colour palettes and actions .

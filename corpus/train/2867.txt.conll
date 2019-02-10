@@ -1,0 +1,13 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	numerous	numerous	JJ	_	4	amod
+4	researches	research	VBZ	_	2	nsubj
+5	pointing	point	VBG	_	4	xcomp
+6	out	out	RP	_	5	prt
+7	the	the	DT	_	9	det
+8	public	public	JJ	_	9	amod
+9	image	image	NN	_	5	dobj
+10	of	of	IN	_	9	prep
+11	mathematics	mathematics	NNS	_	10	pobj
+12	.	.	.	_	2	punct
+

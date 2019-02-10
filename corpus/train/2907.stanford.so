@@ -1,0 +1,10 @@
+0	46	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="strategy" pos="NN" nsubj="t2"
+13	20	tok id="t2" base="depart" pos="VBZ" ROOT="ROOT"
+21	25	tok id="t3" base="from" pos="IN" prep="t2"
+26	28	tok id="t4" base="a" pos="DT" det="t6"
+29	39	tok id="t5" base="overriding" pos="JJ" amod="t6"
+40	44	tok id="t6" base="goal" pos="NN" pobj="t3"
+45	46	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

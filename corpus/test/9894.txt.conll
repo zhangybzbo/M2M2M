@@ -1,0 +1,12 @@
+1	In	in	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	movie	movie	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	meatballs	meatball	NNS	_	7	nsubjpass
+6	are	be	VBP	_	7	auxpass
+7	dropped	drop	VBN	_	0	ROOT
+8	onto	onto	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	ground	ground	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

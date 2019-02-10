@@ -1,0 +1,25 @@
+1	A	a	DT	_	2	det
+2	woman	woman	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	due	due	JJ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	face	face	VB	_	4	xcomp
+7	court	court	NN	_	6	dobj
+8	on	on	IN	_	6	prep
+9	drugs	drug	NNS	_	10	nn
+10	charges	charge	NNS	_	8	pobj
+11	after	after	IN	_	13	mark
+12	police	police	NN	_	13	nsubj
+13	found	find	VBD	_	10	advcl
+14	a	a	DT	_	15	det
+15	suitcase	suitcase	NN	_	13	dobj
+16	full	full	JJ	_	15	amod
+17	of	of	IN	_	16	prep
+18	cannabis	cannabis	NN	_	17	pobj
+19	in	in	IN	_	16	prep
+20	her	she	PRP$	_	21	poss
+21	car	car	NN	_	19	pobj
+22	near	near	IN	_	21	prep
+23	Finley	Finley	NNP	_	22	pobj
+24	.	.	.	_	4	punct
+

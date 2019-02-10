@@ -1,0 +1,17 @@
+1	Since	since	IN	_	8	mark
+2	then	then	RB	_	8	advmod
+3	his	he	PRP$	_	5	poss
+4	short	short	JJ	_	5	amod
+5	films	film	NNS	_	8	nsubjpass
+6	have	have	VBP	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	presented	present	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	retrospective	retrospective	JJ	_	11	amod
+11	programmes	programme	NNS	_	9	pobj
+12	at	at	IN	_	11	prep
+13	film	film	NN	_	14	nn
+14	festivals	festival	NNS	_	12	pobj
+15	worldwide	worldwide	RB	_	14	advmod
+16	.	.	.	_	8	punct
+

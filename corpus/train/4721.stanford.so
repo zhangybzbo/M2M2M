@@ -1,0 +1,12 @@
+0	48	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="we" pos="PRP" nsubj="t2"
+3	7	tok id="t1" base="have" pos="VBP" aux="t2"
+8	15	tok id="t2" base="donate" pos="VBN" ROOT="ROOT"
+16	19	tok id="t3" base="the" pos="DT" det="t4"
+20	25	tok id="t4" base="book" pos="NNS" dobj="t2"
+26	28	tok id="t5" base="to" pos="TO" prep="t2"
+29	32	tok id="t6" base="the" pos="DT" det="t8"
+33	38	tok id="t7" base="local" pos="JJ" amod="t8"
+39	46	tok id="t8" base="library" pos="NN" pobj="t5"
+47	48	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

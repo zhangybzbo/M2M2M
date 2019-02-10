@@ -1,0 +1,27 @@
+1	One	one	CD	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	my	my	PRP$	_	4	poss
+4	woodworkers	woodworker	NNS	_	2	pobj
+5	got	get	VBD	_	6	auxpass
+6	imprisoned	imprison	VBN	_	0	ROOT
+7	as	as	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	result	result	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	bloody	bloody	JJ	_	13	amod
+13	noble	noble	JJ	_	10	pobj
+14	putting	put	VBG	_	13	dep
+15	up	up	RP	_	14	prt
+16	an	a	DT	_	18	det
+17	export	export	NN	_	18	nn
+18	ban	ban	NN	_	14	dobj
+19	after	after	IN	_	23	mark
+20	the	the	DT	_	21	det
+21	caravan	caravan	NN	_	23	nsubj
+22	had	have	VBD	_	23	aux
+23	left	leave	VBN	_	14	advcl
+24	the	the	DT	_	25	det
+25	depo	depo	NN	_	23	dobj
+26	.	.	.	_	6	punct
+

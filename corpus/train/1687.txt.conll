@@ -1,0 +1,19 @@
+1	This	this	DT	_	3	det
+2	lovely	lovely	JJ	_	3	amod
+3	song	song	NN	_	11	nsubj
+4	by	by	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	virtually	virtually	RB	_	7	advmod
+7	unknown	unknown	JJ	_	8	amod
+8	quartet	quartet	NN	_	4	pobj
+9	from	from	IN	_	8	prep
+10	Oklahoma	Oklahoma	NNP	_	9	pobj
+11	epitomizes	epitomize	VBZ	_	0	ROOT
+12	what	what	WP	_	17	dobj
+13	a	a	DT	_	16	det
+14	great	great	JJ	_	16	amod
+15	wedding	wedding	NN	_	16	nn
+16	song	song	NN	_	17	nsubj
+17	is	be	VBZ	_	11	ccomp
+18	.	.	.	_	11	punct
+

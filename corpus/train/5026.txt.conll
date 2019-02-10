@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	pitch	pitch	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	train	train	NN	_	3	pobj
+6	's	's	POS	_	5	possessive
+7	whistle	whistle	VBP	_	0	ROOT
+8	that	that	DT	_	10	nsubj
+9	is	be	VBZ	_	10	cop
+10	lower	lower	JJR	_	7	ccomp
+11	when	when	WRB	_	15	advmod
+12	the	the	DT	_	13	det
+13	train	train	NN	_	15	nsubj
+14	is	be	VBZ	_	15	aux
+15	going	go	VBG	_	10	advcl
+16	away	away	RB	_	15	advmod
+17	from	from	IN	_	15	prep
+18	an	a	DT	_	19	det
+19	observer	observer	NN	_	17	pobj
+20	.	.	.	_	7	punct
+

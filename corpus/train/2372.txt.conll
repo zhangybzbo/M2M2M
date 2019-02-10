@@ -1,0 +1,14 @@
+1	Autonomic	autonomic	JJ	_	2	amod
+2	imbalance	imbalance	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	multifactorial	multifactorial	JJ	_	8	amod
+8	causes	cause	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	essential	essential	JJ	_	11	amod
+11	hypertension	hypertension	NN	_	9	pobj
+12	currently	currently	RB	_	4	advmod
+13	.	.	.	_	4	punct
+

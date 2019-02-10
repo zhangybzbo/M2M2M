@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	guard	guard	NN	_	3	nsubj
+3	pushes	push	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	passports	passport	NNS	_	3	dobj
+6	back	back	RB	_	3	advmod
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	chuckle	chuckle	NN	_	7	pobj
+10	and	and	CC	_	3	cc
+11	ignores	ignore	VBZ	_	3	conj
+12	them	they	PRP	_	11	dobj
+13	.	.	.	_	3	punct
+

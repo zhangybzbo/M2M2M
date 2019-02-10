@@ -1,0 +1,20 @@
+1	A	a	DT	_	3	det
+2	food	food	NN	_	3	nn
+3	memoir	memoir	NN	_	16	nsubj
+4	written	write	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	commentator	commentator	NN	_	5	pobj
+8	on	on	IN	_	7	prep
+9	race	race	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	politics	politics	NNS	_	9	conj
+12	-	-	:	_	16	punct
+13	it	it	PRP	_	16	nsubj
+14	does	do	VBZ	_	16	aux
+15	n't	not	RB	_	16	neg
+16	sound	sound	VB	_	0	ROOT
+17	that	that	DT	_	18	det
+18	appetising	appetising	NN	_	16	dobj
+19	.	.	.	_	16	punct
+

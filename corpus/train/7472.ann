@@ -1,0 +1,3 @@
+T1	Term 28 39	motherboard
+T2	Term 40 52	manufacturer
+R1	Product-Producer Arg1:T1 Arg2:T2

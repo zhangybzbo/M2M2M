@@ -1,0 +1,8 @@
+0	29	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="China" pos="NNP" nsubj="t1"
+6	10	tok id="t1" base="send" pos="VBD" ROOT="ROOT"
+11	16	tok id="t2" base="seed" pos="NNS" dobj="t1"
+17	21	tok id="t3" base="into" pos="IN" prep="t1"
+22	27	tok id="t4" base="space" pos="NN" pobj="t3"
+28	29	tok id="t5" base="-PERIOD-" pos="." punct="t1"
+

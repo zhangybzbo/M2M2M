@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	model	model	NN	_	3	nn
+3	maker	maker	NN	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	a	a	DT	_	7	det
+6	professional	professional	JJ	_	7	amod
+7	craftsperson	craftsperson	NN	_	0	ROOT
+8	who	who	WP	_	9	nsubj
+9	creates	create	VBZ	_	7	rcmod
+10	a	a	DT	_	12	det
+11	3-dimensional	3-dimensional	JJ	_	12	amod
+12	representation	representation	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	design	design	NN	_	13	pobj
+16	or	or	CC	_	15	cc
+17	concept	concept	NN	_	15	conj
+18	.	.	.	_	7	punct
+

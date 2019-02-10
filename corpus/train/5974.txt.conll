@@ -1,0 +1,15 @@
+1	Aboriginal	aboriginal	JJ	_	2	amod
+2	people	people	NNS	_	7	nsubjpass
+3	have	have	VBP	_	7	aux
+4	repeatedly	repeatedly	RB	_	7	advmod
+5	been	be	VBN	_	7	auxpass
+6	popularly	popularly	RB	_	7	advmod
+7	described	describe	VBN	_	0	ROOT
+8	through	through	IN	_	7	prep
+9	coarse	coarse	JJ	_	8	pobj
+10	,	,	,	_	7	punct
+11	even	even	RB	_	12	advmod
+12	racist	racist	JJ	_	13	amod
+13	caricatures	caricature	NNS	_	7	dobj
+14	.	.	.	_	7	punct
+

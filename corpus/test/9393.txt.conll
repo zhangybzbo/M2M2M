@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det
+2	page	page	NN	_	3	nsubj
+3	carries	carry	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	list	list	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	some	some	DT	_	6	pobj
+8	of	of	IN	_	7	prep
+9	these	these	DT	_	10	det
+10	conventions	convention	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

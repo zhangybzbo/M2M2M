@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	woman	woman	NN	_	3	nn
+3	purchases	purchase	NNS	_	0	ROOT
+4	raw	raw	JJ	_	5	amod
+5	milk	milk	NN	_	3	dep
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	local	local	JJ	_	9	amod
+9	member	member	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	Communities	Communities	NNPS	_	12	nn
+12	Alliance	Alliance	NNP	_	10	pobj
+13	for	for	IN	_	5	prep
+14	Responsible	responsible	JJ	_	13	pobj
+15	Eco-Farming	eco-farming	JJ	_	14	dep
+16	,	,	,	_	15	punct
+17	a	a	DT	_	19	det
+18	self-regulating	self-regulating	JJ	_	19	amod
+19	cooperative	cooperative	NN	_	15	appos
+20	of	of	IN	_	19	prep
+21	raw	raw	JJ	_	23	amod
+22	milk	milk	NN	_	23	nn
+23	dairymen	dairyman	NNS	_	20	pobj
+24	.	.	.	_	3	punct
+

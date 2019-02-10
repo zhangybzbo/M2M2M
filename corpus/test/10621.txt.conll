@@ -1,0 +1,15 @@
+1	Hiring	hire	VBG	_	12	nsubj
+2	in	in	IN	_	1	prep
+3	a	a	DT	_	2	pobj
+4	down	down	RB	_	3	advmod
+5	economy	economy	NN	_	4	pobj
+6	with	with	IN	_	1	prep
+7	the	the	DT	_	8	det
+8	help	help	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	some	some	DT	_	11	det
+11	beers	beer	NNS	_	9	pobj
+12	proved	prove	VBD	_	0	ROOT
+13	successful	successful	JJ	_	12	acomp
+14	.	.	.	_	12	punct
+

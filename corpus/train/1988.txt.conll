@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	conclusion	conclusion	NN	_	3	nn
+3	chapter	chapter	NN	_	5	nsubj
+4	is	be	VBZ	_	5	cop
+5	cautious	cautious	JJ	_	0	ROOT
+6	and	and	CC	_	5	cc
+7	organised	organise	VBN	_	5	conj
+8	around	around	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	six	six	CD	_	11	num
+11	themes	theme	NNS	_	8	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	book	book	NN	_	12	pobj
+15	.	.	.	_	5	punct
+

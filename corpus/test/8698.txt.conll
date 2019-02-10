@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	neuroscientists	neuroscientist	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	implanted	implant	VBN	_	0	ROOT
+5	electrodes	electrode	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	patient	patient	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	brain	brain	NN	_	6	pobj
+10	.	.	.	_	4	punct
+

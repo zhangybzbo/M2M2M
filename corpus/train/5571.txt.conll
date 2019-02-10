@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	act	act	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	repeated	repeat	VBN	_	5	amod
+5	hand	hand	NN	_	3	pobj
+6	washing	wash	VBG	_	2	vmod
+7	is	be	VBZ	_	10	cop
+8	the	the	DT	_	10	det
+9	compulsive	compulsive	JJ	_	10	amod
+10	behavior	behavior	NN	_	0	ROOT
+11	performed	perform	VBN	_	10	vmod
+12	in	in	IN	_	11	prep
+13	an	a	DT	_	14	det
+14	attempt	attempt	NN	_	12	pobj
+15	to	to	TO	_	16	aux
+16	remove	remove	VB	_	14	vmod
+17	the	the	DT	_	18	det
+18	anxiety	anxiety	NN	_	16	dobj
+19	caused	cause	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	obsessive	obsessive	JJ	_	23	amod
+23	thought	thought	NN	_	20	pobj
+24	.	.	.	_	10	punct
+

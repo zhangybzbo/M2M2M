@@ -1,0 +1,19 @@
+1	But	but	CC	_	9	cc
+2	over	over	IN	_	9	prep
+3	time	time	NN	_	2	pobj
+4	,	,	,	_	9	punct
+5	indigenous	indigenous	JJ	_	6	amod
+6	students	student	NNS	_	9	nsubj
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	aux
+9	moving	move	VBG	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	more	more	JJR	_	12	amod
+12	specialised	specialised	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	skill-intensive	skill-intensive	JJ	_	12	conj
+15	components	component	NNS	_	10	pobj
+16	within	within	IN	_	15	prep
+17	disciplines	discipline	NNS	_	16	pobj
+18	.	.	.	_	9	punct
+

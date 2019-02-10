@@ -1,0 +1,13 @@
+0	43	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Below" pos="NNP" nsubj="t3"
+6	8	tok id="t1" base="be" pos="VBZ" cop="t3"
+9	10	tok id="t2" base="a" pos="DT" det="t3"
+11	15	tok id="t3" base="list" pos="NN" ROOT="ROOT"
+16	18	tok id="t4" base="of" pos="IN" prep="t3"
+19	22	tok id="t5" base="the" pos="DT" det="t6"
+23	28	tok id="t6" base="book" pos="NNS" pobj="t4"
+29	31	tok id="t7" base="of" pos="IN" prep="t6"
+32	35	tok id="t8" base="the" pos="DT" det="t9"
+36	41	tok id="t9" base="bible" pos="NN" pobj="t7"
+42	43	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

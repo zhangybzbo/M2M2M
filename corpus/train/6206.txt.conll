@@ -1,0 +1,19 @@
+1	In	in	IN	_	5	prep
+2	particular	particular	JJ	_	1	pobj
+3	,	,	,	_	5	punct
+4	we	we	PRP	_	5	nsubj
+5	missed	miss	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	way	way	NN	_	5	dobj
+8	music	music	NN	_	11	nsubj
+9	was	be	VBD	_	11	cop
+10	a	a	DT	_	11	det
+11	part	part	NN	_	7	rcmod
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	everyday	everyday	JJ	_	15	amod
+15	culture	culture	NN	_	12	pobj
+16	in	in	IN	_	15	prep
+17	Holland	Holland	NNP	_	16	pobj
+18	.	.	.	_	5	punct
+

@@ -1,0 +1,24 @@
+1	As	as	IN	_	11	prep
+2	part	part	NN	_	1	pobj
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	short-term	short-term	JJ	_	6	amod
+6	strategy	strategy	NN	_	3	pobj
+7	,	,	,	_	11	punct
+8	the	the	DT	_	9	det
+9	government	government	NN	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	constructed	construct	VBN	_	0	ROOT
+12	10300	10300	CD	_	13	num
+13	houses	house	NNS	_	11	dobj
+14	,	,	,	_	11	punct
+15	double	double	RB	_	11	advmod
+16	than	than	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	fixed	fix	VBN	_	19	amod
+19	target	target	NN	_	16	pobj
+20	of	of	IN	_	19	prep
+21	5000	5000	CD	_	22	num
+22	houses	house	NNS	_	20	pobj
+23	.	.	.	_	11	punct
+

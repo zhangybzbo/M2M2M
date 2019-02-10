@@ -1,0 +1,20 @@
+1	It	it	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	the	the	DT	_	5	det
+4	only	only	JJ	_	5	amod
+5	time	time	NN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	president	president	NN	_	9	nsubj
+8	has	have	VBZ	_	9	aux
+9	wielded	wield	VBN	_	5	rcmod
+10	the	the	DT	_	12	det
+11	veto	veto	NN	_	12	nn
+12	pen	pen	NN	_	9	dobj
+13	during	during	IN	_	9	prep
+14	his	he	PRP$	_	16	poss
+15	six	six	CD	_	16	num
+16	years	year	NNS	_	13	pobj
+17	in	in	IN	_	16	prep
+18	office	office	NN	_	17	pobj
+19	.	.	.	_	5	punct
+

@@ -1,0 +1,17 @@
+1	Birth	birth	NN	_	2	nn
+2	defects	defect	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	drugs	drug	NNS	_	5	pobj
+7	that	that	IN	_	12	mark
+8	the	the	DT	_	9	det
+9	persons	person	NNS	_	12	nsubjpass
+10	have	have	VBP	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	exposed	expose	VBN	_	6	ccomp
+13	to	to	TO	_	12	prep
+14	before	before	IN	_	13	pcomp
+15	birth	birth	NN	_	14	pobj
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det
+2	girl	girl	NN	_	3	nsubj
+3	plays	play	VBZ	_	0	ROOT
+4	her	she	PRP$	_	5	poss
+5	violin	violin	NN	_	3	dobj
+6	on	on	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	pogo	pogo	NN	_	9	nn
+9	stick	stick	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

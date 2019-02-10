@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	treated	treat	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	pain	pain	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	shingles	shingle	NNS	_	5	pobj
+7	as	as	IN	_	9	mark
+8	it	it	PRP	_	9	nsubj
+9	persisted	persist	VBD	_	2	advcl
+10	for	for	IN	_	9	prep
+11	long	long	JJ	_	12	amod
+12	periods	period	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	time	time	NN	_	13	pobj
+15	.	.	.	_	2	punct
+

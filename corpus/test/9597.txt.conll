@@ -1,0 +1,21 @@
+1	Saosin	Saosin	NNP	_	2	nsubj
+2	shook	shake	VBD	_	0	ROOT
+3	himself	himself	PRP	_	2	dobj
+4	off	off	RP	_	2	prt
+5	,	,	,	_	2	punct
+6	coughing	cough	VBG	_	2	conj
+7	from	from	IN	_	6	prep
+8	inhaling	inhale	VBG	_	7	pcomp
+9	the	the	DT	_	10	det
+10	smoke	smoke	NN	_	8	dobj
+11	,	,	,	_	2	punct
+12	and	and	CC	_	2	cc
+13	then	then	RB	_	14	advmod
+14	stood	stand	VBD	_	2	conj
+15	up	up	RP	_	14	prt
+16	in	in	IN	_	14	prep
+17	an	a	DT	_	19	det
+18	awkward	awkward	JJ	_	19	amod
+19	fashion	fashion	NN	_	16	pobj
+20	.	.	.	_	2	punct
+

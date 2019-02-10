@@ -1,0 +1,12 @@
+0	76	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="pulmonary" pos="JJ" amod="t4"
+10	18	tok id="t1" base="arterial" pos="JJ" amod="t4"
+19	31	tok id="t2" base="hypertension" pos="NN" nn="t4"
+32	40	tok id="t3" base="clinical" pos="JJ" amod="t4"
+41	50	tok id="t4" base="community" pos="NN" nsubj="t5"
+51	57	tok id="t5" base="build" pos="VBZ" ROOT="ROOT"
+58	63	tok id="t6" base="order" pos="NN" dobj="t5"
+64	68	tok id="t7" base="from" pos="IN" prep="t6"
+69	74	tok id="t8" base="chaos" pos="NN" pobj="t7"
+75	76	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

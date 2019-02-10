@@ -1,0 +1,21 @@
+1	We	we	PRP	_	4	nsubj
+2	did	do	VBD	_	4	aux
+3	not	not	RB	_	4	neg
+4	endorse	endorse	VB	_	0	ROOT
+5	a	a	DT	_	6	det
+6	candidate	candidate	NN	_	4	dobj
+7	unlike	unlike	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	ten	ten	CD	_	10	num
+10	scientists	scientist	NNS	_	7	pobj
+11	who	who	WP	_	12	nsubj
+12	wrote	write	VBD	_	10	rcmod
+13	a	a	DT	_	14	det
+14	letter	letter	NN	_	12	dobj
+15	in	in	IN	_	14	prep
+16	support	support	NN	_	15	pobj
+17	of	of	IN	_	16	prep
+18	John	John	NNP	_	19	nn
+19	Kerry	Kerry	NNP	_	17	pobj
+20	.	.	.	_	4	punct
+

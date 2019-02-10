@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	draft	draft	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	distinction	distinction	NN	_	3	dobj
+6	between	between	IN	_	5	prep
+7	`	`	``	_	8	punct
+8	data	datum	NNS	_	6	pobj
+9	'	'	POS	_	8	possessive
+10	and	and	CC	_	8	cc
+11	`	`	``	_	12	punct
+12	records	record	NNS	_	8	conj
+13	'	'	POS	_	12	possessive
+14	.	.	.	_	8	punct
+

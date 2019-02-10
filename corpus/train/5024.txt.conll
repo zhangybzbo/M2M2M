@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	big	big	JJ	_	3	amod
+3	secret	secret	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	that	that	IN	_	10	mark
+6	their	they	PRP$	_	9	poss
+7	white	white	JJ	_	9	amod
+8	cream	cream	NN	_	9	nn
+9	sauce	sauce	NN	_	10	nsubj
+10	is	be	VBZ	_	4	ccomp
+11	in	in	IN	_	10	prep
+12	fact	fact	NN	_	11	pobj
+13	the	the	DT	_	16	det
+14	same	same	JJ	_	16	amod
+15	ranch	ranch	NN	_	16	nn
+16	sauce	sauce	NN	_	12	dep
+17	they	they	PRP	_	18	nsubj
+18	put	put	VBP	_	16	rcmod
+19	on	on	RP	_	18	prt
+20	their	they	PRP$	_	21	poss
+21	salads	salad	NNS	_	18	dobj
+22	and	and	CC	_	18	cc
+23	for	for	IN	_	18	conj
+24	dipping	dip	VBG	_	23	pcomp
+25	.	.	.	_	4	punct
+

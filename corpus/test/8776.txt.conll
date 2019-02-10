@@ -1,0 +1,13 @@
+1	ThinkCascade	ThinkCascade	NNP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	CSS	CSS	NNP	_	5	nn
+5	editor	editor	NN	_	0	ROOT
+6	that	that	WDT	_	7	nsubj
+7	uses	use	VBZ	_	5	rcmod
+8	a	a	DT	_	9	det
+9	spreadsheet	spreadsheet	NN	_	7	dobj
+10	like	like	IN	_	9	prep
+11	interface	interface	NN	_	10	pobj
+12	.	.	.	_	5	punct
+

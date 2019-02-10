@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det
+2	woman	woman	NN	_	3	nsubj
+3	applies	apply	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	patch	patch	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	the	the	DT	_	8	det
+8	skin	skin	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	her	she	PRP$	_	11	poss
+11	abdomen	abdomen	NN	_	9	pobj
+12	or	or	CC	_	11	cc
+13	buttock	buttock	NN	_	11	conj
+14	for	for	IN	_	3	prep
+15	three	three	CD	_	14	pobj
+16	and	and	CC	_	15	cc
+17	a	a	DT	_	19	det
+18	half	half	NN	_	19	nn
+19	weeks	week	NNS	_	15	conj
+20	.	.	.	_	3	punct
+

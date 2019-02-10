@@ -1,0 +1,27 @@
+1	When	when	WRB	_	9	advmod
+2	the	the	DT	_	4	det
+3	synaptic	synaptic	JJ	_	4	amod
+4	input	input	NN	_	9	nsubjpass
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	axon	axon	NN	_	5	pobj
+8	was	be	VBD	_	9	auxpass
+9	stimulated	stimulate	VBN	_	25	advcl
+10	before	before	IN	_	9	prep
+11	eliciting	elicit	VBG	_	10	pcomp
+12	an	a	DT	_	14	det
+13	action	action	NN	_	14	nn
+14	potential	potential	NN	_	11	dobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	axon	axon	NN	_	15	pobj
+18	,	,	,	_	25	punct
+19	transmitter	transmitter	NN	_	20	nn
+20	release	release	NN	_	25	nsubjpass
+21	from	from	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	axon	axon	NN	_	21	pobj
+24	was	be	VBD	_	25	auxpass
+25	enhanced	enhance	VBN	_	0	ROOT
+26	.	.	.	_	25	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	target	target	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	semantically	semantically	RB	_	6	advmod
+5	a	a	DT	_	6	det
+6	tree	tree	NN	_	0	ROOT
+7	that	that	WDT	_	9	nsubjpass
+8	is	be	VBZ	_	9	auxpass
+9	constructed	construct	VBN	_	6	rcmod
+10	from	from	IN	_	9	prep
+11	elements	element	NNS	_	10	pobj
+12	of	of	IN	_	11	prep
+13	terminal	terminal	JJ	_	16	amod
+14	and	and	CC	_	13	cc
+15	non-terminal	non-terminal	JJ	_	13	conj
+16	nodes	node	NNS	_	12	pobj
+17	represented	represent	VBN	_	16	vmod
+18	through	through	IN	_	17	prep
+19	lists	list	NNS	_	18	pobj
+20	and	and	CC	_	19	cc
+21	symbols	symbol	NNS	_	19	conj
+22	.	.	.	_	6	punct
+

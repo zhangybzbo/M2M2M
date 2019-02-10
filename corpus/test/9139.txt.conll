@@ -1,0 +1,17 @@
+1	Individual	individual	JJ	_	2	amod
+2	donors	donor	NNS	_	3	nsubj
+3	make	make	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	significant	significant	JJ	_	6	amod
+6	difference	difference	NN	_	3	dobj
+7	in	in	IN	_	6	prep
+8	addressing	address	VBG	_	7	pcomp
+9	the	the	DT	_	10	det
+10	suffering	suffering	NN	_	8	dobj
+11	caused	cause	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	economic	economic	JJ	_	15	amod
+15	crisis	crisis	NN	_	12	pobj
+16	.	.	.	_	3	punct
+

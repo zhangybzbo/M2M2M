@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	excitement	excitement	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	Frakes	Frakes	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	direction	direction	NN	_	4	pobj
+8	--	--	:	_	3	punct
+9	his	he	PRP$	_	10	poss
+10	liveliness	liveliness	NN	_	3	dep
+11	,	,	,	_	10	punct
+12	and	and	CC	_	10	cc
+13	his	he	PRP$	_	14	poss
+14	pleasure	pleasure	NN	_	10	conj
+15	in	in	IN	_	14	prep
+16	looking	look	VBG	_	15	pcomp
+17	at	at	IN	_	16	prep
+18	,	,	,	_	10	punct
+19	and	and	CC	_	10	cc
+20	showing	show	VBG	_	10	conj
+21	us	we	PRP	_	20	dobj
+22	,	,	,	_	10	punct
+23	events	event	NNS	_	10	conj
+24	and	and	CC	_	10	cc
+25	images	image	NNS	_	10	conj
+26	.	.	.	_	3	punct
+

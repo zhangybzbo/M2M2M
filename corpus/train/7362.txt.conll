@@ -1,0 +1,8 @@
+1	Biodiesel	Biodiesel	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	derived	derive	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	vegetable	vegetable	NN	_	6	nn
+6	oils	oils	NNS	_	4	pobj
+7	.	.	.	_	3	punct
+

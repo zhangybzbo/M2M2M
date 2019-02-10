@@ -1,0 +1,26 @@
+1	Famine	famine	NN	_	5	nsubj
+2	following	follow	VBG	_	1	prep
+3	drought	drought	NN	_	2	pobj
+4	has	have	VBZ	_	5	aux
+5	hit	hit	VBN	_	0	ROOT
+6	the	the	DT	_	9	det
+7	West	west	JJ	_	8	amod
+8	African	african	JJ	_	9	amod
+9	savannahs	savannah	NNS	_	5	dobj
+10	,	,	,	_	9	punct
+11	where	where	WRB	_	17	advmod
+12	there	there	EX	_	17	expl
+13	have	have	VBP	_	17	aux
+14	been	be	VBN	_	17	cop
+15	other	other	JJ	_	17	amod
+16	bad	bad	JJ	_	17	amod
+17	droughts	drought	NNS	_	9	rcmod
+18	,	,	,	_	17	punct
+19	notably	notably	RB	_	22	advmod
+20	the	the	DT	_	22	det
+21	great	great	JJ	_	22	amod
+22	one	one	CD	_	17	appos
+23	of	of	IN	_	22	prep
+24	1972-74	1972-74	CD	_	23	pobj
+25	.	.	.	_	5	punct
+

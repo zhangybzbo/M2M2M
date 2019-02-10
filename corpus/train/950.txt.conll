@@ -1,0 +1,9 @@
+1	My	my	PRP$	_	2	poss
+2	flight	flight	NN	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	usual	usual	JJ	_	7	amod
+7	gate	gate	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

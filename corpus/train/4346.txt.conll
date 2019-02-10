@@ -1,0 +1,22 @@
+1	As	as	IN	_	6	mark
+2	the	the	DT	_	5	det
+3	little	little	JJ	_	5	amod
+4	black	black	JJ	_	5	amod
+5	train	train	NN	_	6	nsubj
+6	goes	go	VBZ	_	14	advcl
+7	from	from	IN	_	6	prep
+8	station	station	NN	_	7	pobj
+9	to	to	TO	_	6	prep
+10	station	station	NN	_	9	pobj
+11	,	,	,	_	14	punct
+12	Driver	driver	NN	_	13	nn
+13	Zach	zach	NN	_	14	nsubj
+14	picks	pick	VBZ	_	0	ROOT
+15	up	up	RP	_	14	prt
+16	more	more	RBR	_	20	advmod
+17	and	and	CC	_	16	cc
+18	more	more	RBR	_	19	advmod
+19	silly	silly	JJ	_	16	conj
+20	passengers	passenger	NNS	_	14	dobj
+21	.	.	.	_	14	punct
+

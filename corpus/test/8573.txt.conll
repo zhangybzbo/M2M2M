@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	investigation	investigation	NN	_	3	nsubj
+3	had	have	VBD	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	do	do	VB	_	3	xcomp
+6	with	with	IN	_	5	prep
+7	allegations	allegation	NNS	_	6	pobj
+8	of	of	IN	_	7	prep
+9	corruption	corruption	NN	_	8	pobj
+10	against	against	IN	_	9	prep
+11	some	some	DT	_	13	det
+12	Democratic	democratic	JJ	_	13	amod
+13	officials	official	NNS	_	10	pobj
+14	.	.	.	_	3	punct
+

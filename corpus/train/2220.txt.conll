@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	handle	handle	VB	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	bow	bow	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	made	make	VBN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	wood	wood	NN	_	8	pobj
+10	and	and	CC	_	7	cc
+11	the	the	DT	_	12	det
+12	strings	string	NNS	_	18	nsubj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	bow	bow	NN	_	13	pobj
+16	are	be	VBP	_	18	cop
+17	actually	actually	RB	_	18	advmod
+18	horsehair	horsehair	JJ	_	7	conj
+19	from	from	IN	_	18	prep
+20	horses	horse	NNS	_	22	poss
+21	'	'	POS	_	20	possessive
+22	tails	tail	NNS	_	19	pobj
+23	.	.	.	_	7	punct
+

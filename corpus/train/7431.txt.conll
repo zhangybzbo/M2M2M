@@ -1,0 +1,13 @@
+1	Diabetes	Diabetes	NNP	_	2	nn
+2	drug	drug	NN	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	promise	promise	NN	_	3	dobj
+5	for	for	IN	_	4	prep
+6	preventing	prevent	VBG	_	5	pcomp
+7	brain	brain	NN	_	8	nn
+8	injury	injury	NN	_	6	dobj
+9	from	from	IN	_	8	prep
+10	radiation	radiation	NN	_	11	nn
+11	therapy	therapy	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

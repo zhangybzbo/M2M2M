@@ -1,0 +1,11 @@
+1	Texas-born	texas-born	JJ	_	2	amod
+2	virtuoso	virtuoso	JJ	_	3	nsubj
+3	finds	find	VBZ	_	0	ROOT
+4	harmony	harmony	NN	_	3	dobj
+5	,	,	,	_	4	punct
+6	sophistication	sophistication	NN	_	4	appos
+7	in	in	IN	_	6	prep
+8	Appalachian	Appalachian	NNP	_	9	nn
+9	instrument	instrument	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

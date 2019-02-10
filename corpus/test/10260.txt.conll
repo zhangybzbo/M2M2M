@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	sound	sound	NN	_	3	nsubj
+3	came	come	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	wooden	wooden	JJ	_	7	amod
+7	structure	structure	NN	_	4	pobj
+8	two	two	CD	_	10	num
+9	hundred	hundred	CD	_	10	num
+10	yards	yard	NNS	_	11	npadvmod
+11	away	away	RB	_	7	advmod
+12	.	.	.	_	3	punct
+

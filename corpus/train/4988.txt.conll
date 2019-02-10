@@ -1,0 +1,21 @@
+1	I	I	PRP	_	4	nsubj
+2	'm	be	VBP	_	4	aux
+3	still	still	RB	_	4	advmod
+4	having	have	VBG	_	0	ROOT
+5	a	a	DT	_	7	det
+6	hard	hard	JJ	_	7	amod
+7	time	time	NN	_	4	dobj
+8	imagining	imagine	VBG	_	7	vmod
+9	a	a	DT	_	10	det
+10	smuck	smuck	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	glowing	glowing	JJ	_	15	amod
+13	jellyfish	jellyfish	NN	_	15	nn
+14	10x10	10x10	NN	_	15	nn
+15	miles	mile	NNS	_	11	pobj
+16	and	and	CC	_	15	cc
+17	35	35	CD	_	18	num
+18	feet	foot	NNS	_	15	conj
+19	deep	deep	JJ	_	15	amod
+20	.	.	.	_	4	punct
+

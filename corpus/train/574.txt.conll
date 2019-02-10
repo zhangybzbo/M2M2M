@@ -1,0 +1,14 @@
+1	It	it	PRP	_	7	nsubj
+2	is	be	VBZ	_	7	cop
+3	a	a	DT	_	7	det
+4	cable	cable	NN	_	7	nn
+5	television	television	NN	_	7	nn
+6	specialty	specialty	NN	_	7	nn
+7	channel	channel	NN	_	0	ROOT
+8	showing	show	VBG	_	7	vmod
+9	sports	sport	NNS	_	12	nn
+10	and	and	CC	_	9	cc
+11	sport-related	sport-related	JJ	_	9	conj
+12	shows	show	NNS	_	8	dobj
+13	.	.	.	_	7	punct
+

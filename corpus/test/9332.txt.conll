@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	wallet	wallet	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	of	of	IN	_	4	pcomp
+6	a	a	DT	_	7	det
+7	locker	locker	NN	_	5	pobj
+8	designated	designate	VBN	_	7	vmod
+9	for	for	IN	_	8	prep
+10	Union	Union	NNP	_	11	nn
+11	employees	employee	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

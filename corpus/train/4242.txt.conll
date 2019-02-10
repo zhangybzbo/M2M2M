@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	name	name	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	Keith	Keith	NNP	_	5	nn
+5	Murray	Murray	NNP	_	3	pobj
+6	meant	mean	VBD	_	0	ROOT
+7	nothing	nothing	NN	_	6	dobj
+8	to	to	TO	_	6	prep
+9	me	I	PRP	_	8	pobj
+10	until	until	IN	_	13	mark
+11	I	I	PRP	_	13	nsubjpass
+12	was	be	VBD	_	13	auxpass
+13	given	give	VBN	_	6	advcl
+14	some	some	DT	_	15	det
+15	pottery	pottery	NN	_	13	dobj
+16	by	by	IN	_	13	prep
+17	a	a	DT	_	18	det
+18	friend	friend	NN	_	16	pobj
+19	who	who	WP	_	21	nsubj
+20	was	be	VBD	_	21	aux
+21	leaving	leave	VBG	_	18	rcmod
+22	for	for	IN	_	21	prep
+23	America	America	NNP	_	22	pobj
+24	.	.	.	_	6	punct
+

@@ -1,0 +1,14 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	5	det
+4	certain	certain	JJ	_	5	amod
+5	dissonance	dissonance	NN	_	2	nsubj
+6	among	among	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	essays	essay	NNS	_	6	pobj
+9	collected	collect	VBN	_	8	vmod
+10	in	in	IN	_	9	prep
+11	this	this	DT	_	12	det
+12	volume	volume	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

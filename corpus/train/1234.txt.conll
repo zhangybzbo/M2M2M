@@ -1,0 +1,19 @@
+1	Vegetable	vegetable	JJ	_	2	amod
+2	oil	oil	NN	_	13	nsubj
+3	as	as	IN	_	2	prep
+4	fuel	fuel	NN	_	3	pobj
+5	is	be	VBZ	_	13	cop
+6	a	a	DT	_	13	det
+7	cleaner	cleaner	JJR	_	13	amod
+8	,	,	,	_	13	punct
+9	safer	safer	JJR	_	13	amod
+10	and	and	CC	_	9	cc
+11	less	less	RBR	_	12	advmod
+12	expensive	expensive	JJ	_	9	conj
+13	alternative	alternative	NN	_	0	ROOT
+14	to	to	TO	_	13	prep
+15	petroleum	petroleum	NN	_	17	nn
+16	based	base	VBN	_	17	amod
+17	fuel	fuel	NN	_	14	pobj
+18	.	.	.	_	13	punct
+

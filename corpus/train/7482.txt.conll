@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	conference	conference	NN	_	3	nn
+3	center	center	NN	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	at	at	IN	_	7	quantmod
+6	least	least	JJS	_	5	mwe
+7	one	one	CD	_	11	num
+8	dedicated	dedicated	JJ	_	11	amod
+9	main	main	JJ	_	11	amod
+10	conference	conference	NN	_	11	nn
+11	room	room	NN	_	4	dobj
+12	that	that	WDT	_	13	nsubj
+13	contains	contain	VBZ	_	11	rcmod
+14	a	a	DT	_	15	det
+15	minimum	minimum	NN	_	13	dobj
+16	of	of	IN	_	15	prep
+17	1,000	1,000	CD	_	19	num
+18	square	square	JJ	_	19	amod
+19	feet	foot	NNS	_	16	pobj
+20	.	.	.	_	4	punct
+

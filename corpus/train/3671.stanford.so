@@ -1,0 +1,11 @@
+0	56	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	13	tok id="t1" base="immigrant" pos="JJ" amod="t2"
+14	24	tok id="t2" base="population" pos="NN" nsubj="t3"
+25	30	tok id="t3" base="come" pos="VBZ" ROOT="ROOT"
+31	35	tok id="t4" base="from" pos="IN" prep="t3"
+36	39	tok id="t5" base="the" pos="DT" det="t7"
+40	47	tok id="t6" base="Pacific" pos="NNP" nn="t7"
+48	54	tok id="t7" base="region" pos="NN" pobj="t4"
+55	56	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

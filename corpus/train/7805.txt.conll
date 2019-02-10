@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	controlled	controlled	JJ	_	4	amod
+3	environment	environment	NN	_	4	nn
+4	facility	facility	NN	_	5	nsubj
+5	is	be	VBZ	_	0	ROOT
+6	for	for	IN	_	5	prep
+7	growth	growth	NN	_	6	pobj
+8	of	of	IN	_	7	prep
+9	experimental	experimental	JJ	_	10	amod
+10	material	material	NN	_	8	pobj
+11	only	only	RB	_	5	advmod
+12	.	.	.	_	5	punct
+

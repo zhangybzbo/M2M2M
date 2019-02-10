@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	suffer	suffer	VBP	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	headaches	headache	NNS	_	3	pobj
+5	from	from	IN	_	4	prep
+6	perfume	perfume	NN	_	5	pobj
+7	and	and	CC	_	4	cc
+8	any	any	DT	_	11	det
+9	other	other	JJ	_	11	amod
+10	toxic	toxic	JJ	_	11	amod
+11	thing	thing	NN	_	4	conj
+12	I	I	PRP	_	13	nsubj
+13	get	get	VBP	_	11	rcmod
+14	to	to	TO	_	15	aux
+15	smell	smell	VB	_	13	xcomp
+16	.	.	.	_	2	punct
+

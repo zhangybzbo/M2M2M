@@ -1,0 +1,3 @@
+T1	Term 57 65	moisture
+T2	Term 85 90	stack
+R1	Entity-Origin Arg1:T1 Arg2:T2

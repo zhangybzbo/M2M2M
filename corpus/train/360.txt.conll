@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	kit	kit	NN	_	3	nsubj
+3	includes	include	VBZ	_	0	ROOT
+4	an	a	DT	_	7	det
+5	on-off-on	on-off-on	JJ	_	7	amod
+6	toggle	toggle	NN	_	7	nn
+7	switch	switch	NN	_	3	dobj
+8	for	for	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	clipper	clipper	NN	_	11	nn
+11	switching	switching	NN	_	8	pobj
+12	and	and	CC	_	11	cc
+13	modifications	modification	NNS	_	11	conj
+14	.	.	.	_	3	punct
+

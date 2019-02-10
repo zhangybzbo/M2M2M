@@ -1,0 +1,17 @@
+1	Scars	scar	NNS	_	4	nsubj
+2	from	from	IN	_	1	prep
+3	burns	burn	NNS	_	2	pobj
+4	happen	happen	VB	_	0	ROOT
+5	when	when	WRB	_	13	advmod
+6	the	the	DT	_	8	det
+7	entire	entire	JJ	_	8	amod
+8	depth	depth	NN	_	13	nsubjpass
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	skin	skin	NN	_	9	pobj
+12	is	be	VBZ	_	13	auxpass
+13	destroyed	destroy	VBN	_	4	advcl
+14	by	by	IN	_	13	prep
+15	heat	heat	NN	_	14	pobj
+16	.	.	.	_	4	punct
+

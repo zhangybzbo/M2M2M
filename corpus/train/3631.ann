@@ -1,0 +1,3 @@
+T1	Term 36 42	flyers
+T2	Term 65 70	boxes
+R1	Entity-Destination Arg1:T1 Arg2:T2

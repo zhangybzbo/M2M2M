@@ -1,0 +1,24 @@
+1	He	he	PRP	_	2	nsubj
+2	sees	see	VBZ	_	0	ROOT
+3	taxation	taxation	NN	_	2	dobj
+4	as	as	IN	_	2	prep
+5	a	a	DT	_	7	det
+6	central	central	JJ	_	7	amod
+7	instrument	instrument	NN	_	4	pobj
+8	for	for	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	government	government	NN	_	8	pobj
+11	-LRB-	-lrb-	-LRB-	_	12	punct
+12	over	over	IN	_	7	prep
+13	and	and	CC	_	12	cc
+14	above	above	IN	_	12	conj
+15	revenue	revenue	NN	_	16	nn
+16	raising	raising	NN	_	14	pobj
+17	-RRB-	-rrb-	-RRB-	_	12	punct
+18	especially	especially	RB	_	19	advmod
+19	for	for	IN	_	12	prep
+20	re-distribution	re-distribution	NN	_	19	pobj
+21	of	of	IN	_	20	prep
+22	wealth	wealth	NN	_	21	pobj
+23	.	.	.	_	2	punct
+

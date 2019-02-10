@@ -1,0 +1,11 @@
+0	57	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	14	tok id="t1" base="microphone" pos="NN" nsubj="t2"
+15	23	tok id="t2" base="convert" pos="VBZ" ROOT="ROOT"
+24	29	tok id="t3" base="sound" pos="NN" dobj="t2"
+30	34	tok id="t4" base="into" pos="IN" prep="t2"
+35	37	tok id="t5" base="a" pos="DT" det="t7"
+38	48	tok id="t6" base="electrical" pos="JJ" amod="t7"
+49	55	tok id="t7" base="signal" pos="NN" pobj="t4"
+56	57	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

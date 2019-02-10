@@ -1,0 +1,1 @@
+There are several scripts to shut down Windows , hibernate or put the computer to sleep .

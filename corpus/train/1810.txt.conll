@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	pendant	pendant	NN	_	3	nsubj
+3	encloses	enclose	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	tumbled	tumbled	JJ	_	6	amod
+6	stone	stone	NN	_	3	dobj
+7	.	.	.	_	3	punct
+

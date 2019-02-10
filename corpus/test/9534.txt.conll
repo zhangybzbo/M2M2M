@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	acid	acid	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	bottle	bottle	NN	_	4	pobj
+7	but	but	CC	_	3	cc
+8	that	that	IN	_	12	mark
+9	the	the	DT	_	10	det
+10	cap	cap	NN	_	12	nsubjpass
+11	was	be	VBD	_	12	auxpass
+12	knocked	knock	VBN	_	3	conj
+13	off	off	RP	_	12	prt
+14	when	when	WRB	_	17	advmod
+15	trash	trash	NN	_	17	nsubjpass
+16	was	be	VBD	_	17	auxpass
+17	thrown	throw	VBN	_	12	advcl
+18	into	into	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	dumpster	dumpster	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

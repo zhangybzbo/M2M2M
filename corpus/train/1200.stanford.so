@@ -1,0 +1,13 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="chef" pos="NN" nsubj="t2"
+9	16	tok id="t2" base="stir" pos="VBD" ROOT="ROOT"
+17	20	tok id="t3" base="the" pos="DT" det="t5"
+21	28	tok id="t4" base="chop" pos="VBN" amod="t5"
+29	39	tok id="t5" base="pistachio" pos="NNS" dobj="t2"
+40	44	tok id="t6" base="into" pos="IN" prep="t2"
+45	48	tok id="t7" base="the" pos="DT" det="t9"
+49	55	tok id="t8" base="soaked" pos="JJ" amod="t9"
+56	61	tok id="t9" base="fruit" pos="NN" pobj="t6"
+62	63	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

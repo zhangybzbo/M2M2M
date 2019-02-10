@@ -1,0 +1,1 @@
+The draft makes a distinction between ` data ' and ` records ' .

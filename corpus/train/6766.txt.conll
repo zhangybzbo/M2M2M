@@ -1,0 +1,12 @@
+1	Surprisingly	surprisingly	RB	_	2	advmod
+2	soon	soon	RB	_	0	ROOT
+3	,	,	,	_	5	punct
+4	a	a	DT	_	5	det
+5	culprit	culprit	NN	_	2	dep
+6	popped	pop	VBN	_	5	vmod
+7	out	out	IN	_	6	prep
+8	of	of	IN	_	7	pcomp
+9	the	the	DT	_	10	det
+10	data	datum	NNS	_	8	pobj
+11	.	.	.	_	5	punct
+

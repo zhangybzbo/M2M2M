@@ -1,0 +1,13 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	14	tok id="t1" base="government" pos="NN" nsubjpass="t3"
+15	17	tok id="t2" base="be" pos="VBZ" auxpass="t3"
+18	27	tok id="t3" base="commit" pos="VBN" ROOT="ROOT"
+28	30	tok id="t4" base="to" pos="TO" aux="t5"
+31	36	tok id="t5" base="bring" pos="VB" xcomp="t3"
+37	40	tok id="t6" base="art" pos="NN" dobj="t5"
+41	43	tok id="t7" base="to" pos="TO" prep="t5"
+44	47	tok id="t8" base="the" pos="DT" det="t9"
+48	57	tok id="t9" base="community" pos="NN" pobj="t7"
+58	59	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

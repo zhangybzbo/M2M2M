@@ -1,0 +1,15 @@
+1	Another	another	DT	_	2	det
+2	example	example	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	the	the	DT	_	6	det
+5	hammered	hammer	VBN	_	6	amod
+6	dulcimer	dulcimer	NN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	where	where	WRB	_	11	advmod
+9	the	the	DT	_	10	det
+10	player	player	NN	_	11	nsubj
+11	holds	hold	VBZ	_	6	rcmod
+12	the	the	DT	_	13	det
+13	hammers	hammer	NNS	_	11	dobj
+14	.	.	.	_	6	punct
+

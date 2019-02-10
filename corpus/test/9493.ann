@@ -1,0 +1,3 @@
+T1	Term 36 43	chicken
+T2	Term 44 48	soup
+R1	Entity-Origin Arg1:T2 Arg2:T1

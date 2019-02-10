@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	baker	baker	NN	_	3	nsubj
+3	put	put	VBD	_	0	ROOT
+4	alcohol	alcohol	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	9	det
+7	dark	dark	JJ	_	9	amod
+8	chocolate	chocolate	NN	_	9	nn
+9	ball	ball	NN	_	5	pobj
+10	.	.	.	_	3	punct
+

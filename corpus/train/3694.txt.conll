@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	fish	fish	NN	_	3	nn
+3	gill	gill	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	arguably	arguably	RB	_	6	advmod
+6	one	one	CD	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	12	det
+9	most	most	RBS	_	10	advmod
+10	complex	complex	JJ	_	12	amod
+11	transport	transport	NN	_	12	nn
+12	epithelia	epithelium	NN	_	7	pobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	biological	biological	JJ	_	16	amod
+16	world	world	NN	_	13	pobj
+17	.	.	.	_	6	punct
+

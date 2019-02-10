@@ -1,0 +1,24 @@
+1	In	in	IN	_	9	prep
+2	``	``	``	_	3	punct
+3	Prologue	Prologue	NNP	_	1	pobj
+4	,	,	,	_	9	punct
+5	''	''	''	_	9	punct
+6	the	the	DT	_	8	det
+7	youthful	youthful	JJ	_	8	amod
+8	scientist	scientist	NN	_	9	nsubj
+9	splits	split	VBZ	_	0	ROOT
+10	open	open	VB	_	9	xcomp
+11	a	a	DT	_	12	det
+12	hailstone	hailstone	NN	_	10	dobj
+13	with	with	IN	_	10	prep
+14	a	a	DT	_	16	det
+15	violin	violin	NN	_	16	nn
+16	string	string	NN	_	13	pobj
+17	,	,	,	_	10	punct
+18	the	the	DT	_	21	det
+19	only	only	RB	_	20	advmod
+20	sharp	sharp	JJ	_	21	amod
+21	edge	edge	NN	_	10	dobj
+22	available	available	JJ	_	21	amod
+23	.	.	.	_	9	punct
+

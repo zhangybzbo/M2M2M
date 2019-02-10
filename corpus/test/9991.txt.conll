@@ -1,0 +1,26 @@
+1	Each	each	DT	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	these	these	DT	_	2	pobj
+4	contain	contain	VBP	_	0	ROOT
+5	many	many	JJ	_	6	amod
+6	modules	module	NNS	_	4	dobj
+7	on	on	IN	_	6	prep
+8	different	different	JJ	_	9	amod
+9	topics	topic	NNS	_	7	pobj
+10	,	,	,	_	6	punct
+11	such	such	JJ	_	12	mwe
+12	as	as	IN	_	6	prep
+13	apostrophes	apostrophe	NNS	_	12	pobj
+14	,	,	,	_	13	punct
+15	silent	silent	JJ	_	16	amod
+16	letters	letter	NNS	_	13	conj
+17	,	,	,	_	13	punct
+18	personal	personal	JJ	_	19	amod
+19	pronouns	pronoun	NNS	_	13	conj
+20	,	,	,	_	13	punct
+21	spelling	spell	VBG	_	13	vmod
+22	plurals	plural	NNS	_	21	dobj
+23	,	,	,	_	22	punct
+24	etc.	etc.	FW	_	22	dep
+25	.	.	.	_	4	punct
+

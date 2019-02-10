@@ -1,0 +1,21 @@
+1	Later	later	RB	_	7	advmod
+2	in	in	IN	_	1	prep
+3	his	he	PRP$	_	4	poss
+4	speech	speech	NN	_	2	pobj
+5	,	,	,	_	7	punct
+6	Obama	Obama	NNP	_	7	nsubj
+7	declared	declare	VBD	_	0	ROOT
+8	his	he	PRP$	_	9	poss
+9	support	support	NN	_	7	dobj
+10	for	for	IN	_	9	prep
+11	Iranian	iranian	JJ	_	13	amod
+12	nuclear	nuclear	JJ	_	13	amod
+13	power	power	NN	_	10	pobj
+14	and	and	CC	_	13	cc
+15	opposition	opposition	NN	_	13	conj
+16	to	to	TO	_	15	prep
+17	Iranian	iranian	JJ	_	19	amod
+18	nuclear	nuclear	JJ	_	19	amod
+19	weapons	weapon	NNS	_	16	pobj
+20	.	.	.	_	7	punct
+

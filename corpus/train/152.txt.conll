@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	water	water	NN	_	3	nsubj
+3	pushed	push	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	coast	coast	NN	_	4	pobj
+7	resulted	result	VBD	_	3	dep
+8	in	in	IN	_	7	prep
+9	tides	tide	NNS	_	8	pobj
+10	as	as	RB	_	12	advmod
+11	much	much	RB	_	12	advmod
+12	as	as	IN	_	7	prep
+13	three	three	CD	_	14	num
+14	feet	foot	NNS	_	15	npadvmod
+15	above	above	IN	_	12	pcomp
+16	normal	normal	JJ	_	15	pobj
+17	,	,	,	_	3	punct
+18	with	with	IN	_	3	prep
+19	waves	wave	NNS	_	18	pobj
+20	of	of	IN	_	19	prep
+21	5-10	5-10	CD	_	22	num
+22	feet	foot	NNS	_	20	pobj
+23	atop	atop	IN	_	19	prep
+24	these	these	DT	_	25	det
+25	tides	tide	NNS	_	23	pobj
+26	.	.	.	_	3	punct
+

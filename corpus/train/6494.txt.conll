@@ -1,0 +1,14 @@
+1	Specifying	specify	VBG	_	7	vmod
+2	a	a	DT	_	3	det
+3	command	command	NN	_	1	dobj
+4	once	once	RB	_	1	advmod
+5	,	,	,	_	7	punct
+6	consumers	consumer	NNS	_	7	nsubj
+7	execute	execute	VBP	_	0	ROOT
+8	it	it	PRP	_	7	dobj
+9	by	by	IN	_	7	prep
+10	using	use	VBG	_	9	pcomp
+11	input	input	NN	_	12	nn
+12	parameters	parameter	NNS	_	10	dobj
+13	.	.	.	_	7	punct
+

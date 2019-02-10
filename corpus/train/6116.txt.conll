@@ -1,0 +1,19 @@
+1	Published	publish	VBN	_	2	amod
+2	papers	papers	NNS	_	3	nsubj
+3	include	include	VBP	_	0	ROOT
+4	results	result	NNS	_	3	dobj
+5	of	of	IN	_	4	prep
+6	original	original	JJ	_	7	amod
+7	investigation	investigation	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	clinical	clinical	JJ	_	10	amod
+10	reports	report	NNS	_	4	conj
+11	,	,	,	_	4	punct
+12	case	case	NN	_	14	nn
+13	history	history	NN	_	14	nn
+14	reports	report	NNS	_	4	conj
+15	and	and	CC	_	4	cc
+16	review	review	NN	_	17	nn
+17	articles	article	NNS	_	4	conj
+18	.	.	.	_	3	punct
+

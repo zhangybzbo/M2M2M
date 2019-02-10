@@ -1,0 +1,13 @@
+0	73	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="alternator" pos="NNS" nsubj="t1"
+12	20	tok id="t1" base="generate" pos="VBP" ROOT="ROOT"
+21	32	tok id="t2" base="electricity" pos="NN" dobj="t1"
+33	35	tok id="t3" base="by" pos="IN" prep="t1"
+36	39	tok id="t4" base="the" pos="DT" det="t6"
+40	44	tok id="t5" base="same" pos="JJ" amod="t6"
+45	54	tok id="t6" base="principle" pos="NN" pobj="t3"
+55	57	tok id="t7" base="as" pos="IN" prep="t6"
+58	60	tok id="t8" base="dc" pos="NN" nn="t9"
+61	71	tok id="t9" base="generator" pos="NNS" pobj="t7"
+72	73	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

@@ -1,0 +1,13 @@
+0	55	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	12	tok id="t1" base="combined" pos="JJ" amod="t2"
+13	17	tok id="t2" base="beam" pos="NN" nsubj="t3"
+18	23	tok id="t3" base="form" pos="VBZ" ROOT="ROOT"
+24	25	tok id="t4" base="a" pos="DT" det="t5"
+26	33	tok id="t5" base="picture" pos="NN" dobj="t3"
+34	39	tok id="t6" base="use" pos="VBG" xcomp="t3"
+40	41	tok id="t7" base="a" pos="DT" det="t9"
+42	47	tok id="t8" base="light" pos="JJ" amod="t9"
+48	53	tok id="t9" base="valve" pos="NN" dobj="t6"
+54	55	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

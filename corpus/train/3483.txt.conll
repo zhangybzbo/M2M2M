@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	database	database	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	contents	contents	NNS	_	5	nsubj
+5	comprise	comprise	VBP	_	0	ROOT
+6	more	more	JJR	_	7	mwe
+7	than	than	IN	_	8	quantmod
+8	150000	150000	CD	_	9	num
+9	images	image	NNS	_	5	dobj
+10	covering	cover	VBG	_	9	vmod
+11	the	the	DT	_	13	det
+12	early	early	JJ	_	13	amod
+13	1970s	1970s	CD	_	10	dobj
+14	to	to	TO	_	10	prep
+15	1994	1994	CD	_	14	pobj
+16	.	.	.	_	5	punct
+

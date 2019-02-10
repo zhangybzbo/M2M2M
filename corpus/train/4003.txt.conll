@@ -1,0 +1,14 @@
+1	Brake	Brake	NNP	_	4	nn
+2	cable	cable	NN	_	4	nn
+3	anchor	anchor	NN	_	4	nn
+4	bolts	bolt	NNS	_	9	nsubj
+5	are	be	VBP	_	9	cop
+6	the	the	DT	_	9	det
+7	most	most	RBS	_	8	advmod
+8	important	important	JJ	_	9	amod
+9	fasteners	fastener	NNS	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	bicycle	bicycle	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

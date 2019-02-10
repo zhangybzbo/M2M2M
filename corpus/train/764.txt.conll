@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	nape	nape	NN	_	6	nsubj
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	male	male	NN	_	3	pobj
+6	has	have	VBZ	_	0	ROOT
+7	a	a	DT	_	10	det
+8	turquoise	turquoise	NN	_	10	nn
+9	blue	blue	JJ	_	10	amod
+10	wash	wash	NN	_	6	dobj
+11	over	over	IN	_	10	prep
+12	the	the	DT	_	16	det
+13	light	light	JJ	_	16	amod
+14	green	green	JJ	_	16	amod
+15	base	base	NN	_	16	nn
+16	feathers	feather	NNS	_	11	pobj
+17	.	.	.	_	6	punct
+

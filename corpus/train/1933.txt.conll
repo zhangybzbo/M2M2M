@@ -1,0 +1,10 @@
+1	Body	body	NN	_	0	ROOT
+2	piercing	pierce	VBG	_	1	vmod
+3	jewellery	jewellery	NN	_	2	dobj
+4	specially	specially	RB	_	2	advmod
+5	for	for	IN	_	2	prep
+6	lobe	lobe	NN	_	8	nn
+7	ear	ear	NN	_	8	nn
+8	piercings	piercing	NNS	_	5	pobj
+9	.	.	.	_	1	punct
+

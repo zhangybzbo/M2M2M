@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	findings	finding	NNS	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	study	study	NN	_	3	pobj
+6	have	have	VBP	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	narrated	narrate	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	three	three	CD	_	11	num
+11	parts	part	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

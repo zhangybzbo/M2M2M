@@ -1,0 +1,20 @@
+1	In	in	IN	_	10	prep
+2	economic	economic	JJ	_	3	amod
+3	terms	term	NNS	_	1	pobj
+4	,	,	,	_	10	punct
+5	pollution	pollution	NN	_	10	nsubjpass
+6	from	from	IN	_	5	prep
+7	fossil	fossil	JJ	_	8	amod
+8	fuels	fuel	NNS	_	6	pobj
+9	is	be	VBZ	_	10	auxpass
+10	regarded	regard	VBN	_	0	ROOT
+11	as	as	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	negative	negative	JJ	_	14	amod
+14	externality	externality	NN	_	11	pobj
+15	and	and	CC	_	10	cc
+16	should	should	MD	_	18	aux
+17	be	be	VB	_	18	auxpass
+18	taxed	tax	VBN	_	10	conj
+19	.	.	.	_	10	punct
+

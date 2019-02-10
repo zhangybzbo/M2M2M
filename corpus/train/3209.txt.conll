@@ -1,0 +1,14 @@
+1	It	it	PRP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	relatively	relatively	RB	_	5	advmod
+5	simple	simple	JJ	_	6	amod
+6	task	task	NN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	lubricate	lubricate	VB	_	6	vmod
+9	your	you	PRP$	_	11	poss
+10	brake	brake	NNP	_	11	nn
+11	cables	cable	NNS	_	8	dobj
+12	periodically	periodically	RB	_	8	advmod
+13	.	.	.	_	6	punct
+

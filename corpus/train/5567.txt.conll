@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	boat	boat	NN	_	3	nsubj
+3	departs	depart	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	harbour	harbour	NN	_	4	pobj
+7	at	at	IN	_	3	prep
+8	approximately	approximately	RB	_	9	quantmod
+9	08:30	08:30	CD	_	7	pobj
+10	to	to	TO	_	11	aux
+11	arrive	arrive	VB	_	3	xcomp
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	channel	channel	NN	_	12	pobj
+15	30	30	CD	_	16	num
+16	minutes	minute	NNS	_	17	npadvmod
+17	later	later	RB	_	14	advmod
+18	.	.	.	_	3	punct
+

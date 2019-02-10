@@ -1,0 +1,10 @@
+0	43	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="Investments" pos="NNPS" nsubj="t2"
+12	16	tok id="t1" base="have" pos="VBP" aux="t2"
+17	21	tok id="t2" base="go" pos="VBN" ROOT="ROOT"
+22	26	tok id="t3" base="into" pos="IN" prep="t2"
+27	30	tok id="t4" base="the" pos="DT" det="t6"
+31	36	tok id="t5" base="light" pos="JJ" amod="t6"
+37	41	tok id="t6" base="rail" pos="NN" pobj="t3"
+42	43	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

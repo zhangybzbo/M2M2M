@@ -1,0 +1,7 @@
+0	36	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="real" pos="JJ" amod="t1"
+5	17	tok id="t1" base="metrosexual" pos="NNS" nsubj="t2"
+18	21	tok id="t2" base="use" pos="VBP" ROOT="ROOT"
+22	34	tok id="t3" base="moisturizer" pos="NNS" dobj="t2"
+35	36	tok id="t4" base="-PERIOD-" pos="." punct="t2"
+

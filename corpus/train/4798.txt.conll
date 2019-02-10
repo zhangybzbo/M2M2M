@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	Iraq	Iraq	NNP	_	3	pobj
+5	has	have	VBZ	_	6	aux
+6	established	establish	VBN	_	0	ROOT
+7	a	a	DT	_	8	det
+8	committee	committee	NN	_	6	dobj
+9	to	to	TO	_	10	aux
+10	consider	consider	VB	_	8	vmod
+11	a	a	DT	_	13	det
+12	proposed	propose	VBN	_	13	amod
+13	amendment	amendment	NN	_	10	dobj
+14	to	to	TO	_	13	prep
+15	the	the	DT	_	16	det
+16	Constitution	Constitution	NNP	_	14	pobj
+17	of	of	IN	_	16	prep
+18	Iraq	Iraq	NNP	_	17	pobj
+19	.	.	.	_	6	punct
+

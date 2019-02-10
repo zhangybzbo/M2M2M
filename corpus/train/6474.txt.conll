@@ -1,0 +1,18 @@
+1	My	my	PRP$	_	2	poss
+2	tuxedo	tuxedo	NN	_	0	ROOT
+3	for	for	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	banquet	banquet	NN	_	3	pobj
+6	that	that	WDT	_	7	det
+7	night	night	NN	_	8	nsubj
+8	was	be	VBD	_	5	rcmod
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	suitcase	suitcase	NN	_	9	pobj
+12	in	in	IN	_	8	prep
+13	Peter	Peter	NNP	_	14	nn
+14	Rickham	Rickham	NNP	_	16	poss
+15	's	's	POS	_	14	possessive
+16	office	office	NN	_	12	pobj
+17	.	.	.	_	2	punct
+

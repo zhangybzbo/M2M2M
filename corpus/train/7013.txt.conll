@@ -1,0 +1,25 @@
+1	We	we	PRP	_	2	nsubj
+2	started	start	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	scholarship	scholarship	NN	_	2	dobj
+5	and	and	CC	_	2	cc
+6	then	then	RB	_	7	advmod
+7	formed	form	VBD	_	2	conj
+8	a	a	DT	_	9	det
+9	committee	committee	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	employees	employee	NNS	_	10	pobj
+12	who	who	WP	_	13	nsubj
+13	drafted	draft	VBD	_	11	rcmod
+14	the	the	DT	_	15	det
+15	guidelines	guideline	NNS	_	13	dobj
+16	of	of	IN	_	15	prep
+17	what	what	WP	_	19	dobj
+18	we	we	PRP	_	19	nsubj
+19	wanted	want	VBD	_	16	pcomp
+20	to	to	TO	_	21	aux
+21	do	do	VB	_	19	xcomp
+22	with	with	IN	_	21	prep
+23	it	it	PRP	_	22	pobj
+24	.	.	.	_	2	punct
+

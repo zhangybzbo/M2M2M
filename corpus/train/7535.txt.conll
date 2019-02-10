@@ -1,0 +1,25 @@
+1	Anthony	Anthony	NNP	_	2	nsubj
+2	finds	find	VBZ	_	0	ROOT
+3	inspiration	inspiration	NN	_	2	dobj
+4	in	in	IN	_	2	prep
+5	a	a	DT	_	10	det
+6	beautiful	beautiful	JJ	_	10	amod
+7	,	,	,	_	10	punct
+8	enigmatic	enigmatic	JJ	_	10	amod
+9	older	older	JJR	_	10	amod
+10	woman	woman	NN	_	4	pobj
+11	who	who	WP	_	12	nsubj
+12	teaches	teach	VBZ	_	10	rcmod
+13	him	he	PRP	_	12	dobj
+14	to	to	TO	_	15	aux
+15	follow	follow	VB	_	12	xcomp
+16	his	he	PRP$	_	17	poss
+17	heart	heart	NN	_	15	dobj
+18	and	and	CC	_	15	cc
+19	find	find	VB	_	15	conj
+20	happiness	happiness	NN	_	19	dobj
+21	through	through	IN	_	19	prep
+22	swing	swing	NN	_	23	nn
+23	dancing	dancing	NN	_	21	pobj
+24	.	.	.	_	2	punct
+

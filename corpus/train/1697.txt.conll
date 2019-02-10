@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	boy	boy	NN	_	3	nsubj
+3	runs	run	VBZ	_	0	ROOT
+4	away	away	RB	_	3	advmod
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	school	school	NN	_	5	pobj
+8	when	when	WRB	_	10	advmod
+9	he	he	PRP	_	10	nsubj
+10	sees	see	VBZ	_	3	advcl
+11	his	he	PRP$	_	12	poss
+12	father	father	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	insensitivity	insensitivity	NN	_	10	dobj
+15	,	,	,	_	3	punct
+16	but	but	CC	_	3	cc
+17	the	the	DT	_	18	det
+18	teacher	teacher	NN	_	23	nsubj
+19	and	and	CC	_	18	cc
+20	his	he	PRP$	_	22	poss
+21	other	other	JJ	_	22	amod
+22	friends	friend	NNS	_	18	conj
+23	bring	bring	VBP	_	3	conj
+24	him	he	PRP	_	23	dobj
+25	back	back	RB	_	23	advmod
+26	.	.	.	_	3	punct
+

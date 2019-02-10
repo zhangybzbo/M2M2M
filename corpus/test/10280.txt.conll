@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	popular	popular	JJ	_	3	amod
+3	soap	soap	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	moved	move	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	prime	prime	JJ	_	9	amod
+9	time	time	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

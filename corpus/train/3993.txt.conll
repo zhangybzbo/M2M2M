@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	fortress	fortress	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	two	two	CD	_	5	num
+5	layers	layer	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	walls	wall	NNS	_	6	pobj
+8	-	-	:	_	3	punct
+9	the	the	DT	_	11	det
+10	outer	outer	JJ	_	11	amod
+11	wall	wall	NN	_	3	dep
+12	with	with	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	fortress	fortress	NN	_	15	nn
+15	gates	gate	NNS	_	12	pobj
+16	,	,	,	_	11	punct
+17	and	and	CC	_	11	cc
+18	the	the	DT	_	20	det
+19	inner	inner	JJ	_	20	amod
+20	wall	wall	NN	_	11	conj
+21	protecting	protect	VBG	_	20	vmod
+22	the	the	DT	_	23	det
+23	keep	keep	VB	_	21	dobj
+24	.	.	.	_	3	punct
+

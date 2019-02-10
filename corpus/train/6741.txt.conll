@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	right	right	JJ	_	3	amod
+3	sleeve	sleeve	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	shirt	shirt	NN	_	4	pobj
+7	features	feature	VBZ	_	0	ROOT
+8	the	the	DT	_	10	det
+9	Harley-Davidson	Harley-Davidson	NNP	_	10	nn
+10	Bar	Bar	NNP	_	7	dobj
+11	&	&	CC	_	10	cc
+12	Shield	Shield	NNP	_	13	nn
+13	logo	logo	NN	_	10	conj
+14	in	in	IN	_	10	prep
+15	orange	orange	NN	_	14	pobj
+16	,	,	,	_	10	punct
+17	black	black	JJ	_	10	amod
+18	and	and	CC	_	17	cc
+19	white	white	JJ	_	17	conj
+20	.	.	.	_	7	punct
+

@@ -1,0 +1,22 @@
+1	Fire	fire	NN	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	venting	vent	VBG	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	floor	floor	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	multi-storeyed	multi-storeyed	JJ	_	11	amod
+11	building	building	NN	_	8	pobj
+12	in	in	IN	_	11	prep
+13	South	South	NNP	_	14	nn
+14	Mumbai	Mumbai	NNP	_	18	poss
+15	's	's	POS	_	14	possessive
+16	Nariman	Nariman	NNP	_	18	nn
+17	point	point	NN	_	18	nn
+18	area	area	NN	_	12	pobj
+19	on	on	IN	_	3	prep
+20	Monday	Monday	NNP	_	19	pobj
+21	.	.	.	_	3	punct
+

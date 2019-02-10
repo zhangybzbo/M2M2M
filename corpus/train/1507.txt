@@ -1,0 +1,1 @@
+The relying website then forms a relationship using a shared secret with help of Diffie-Hellman -LRB- encryption -RRB- key exchange to make sure information is not compromised in transit .

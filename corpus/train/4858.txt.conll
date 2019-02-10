@@ -1,0 +1,23 @@
+1	To	to	TO	_	2	aux
+2	help	help	VB	_	0	ROOT
+3	doctors	doctor	NNS	_	2	dobj
+4	to	to	TO	_	5	aux
+5	know	know	VB	_	2	xcomp
+6	and	and	CC	_	5	cc
+7	cure	cure	VB	_	5	conj
+8	headaches	headache	NNS	_	7	dobj
+9	from	from	IN	_	7	prep
+10	medication	medication	NN	_	11	nn
+11	overuse	overuse	NN	_	9	pobj
+12	a	a	DT	_	14	det
+13	revised	revise	VBN	_	14	amod
+14	criteria	criterion	NNS	_	16	nsubjpass
+15	was	be	VBD	_	16	auxpass
+16	published	publish	VBN	_	11	rcmod
+17	by	by	IN	_	16	prep
+18	the	the	DT	_	21	det
+19	International	International	NNP	_	21	nn
+20	Headache	Headache	NNP	_	21	nn
+21	Society	Society	NNP	_	17	pobj
+22	.	.	.	_	2	punct
+

@@ -1,0 +1,23 @@
+1	After	after	IN	_	8	mark
+2	the	the	DT	_	4	det
+3	source	source	NN	_	4	nn
+4	material	material	NN	_	8	nsubjpass
+5	and	and	CC	_	4	cc
+6	substrates	substrate	NNS	_	4	conj
+7	were	be	VBD	_	8	auxpass
+8	arranged	arrange	VBN	_	15	advcl
+9	,	,	,	_	15	punct
+10	the	the	DT	_	13	det
+11	small	small	JJ	_	13	amod
+12	quartz	quartz	NN	_	13	nn
+13	tube	tube	NN	_	15	nsubjpass
+14	was	be	VBD	_	15	auxpass
+15	placed	place	VBN	_	0	ROOT
+16	inside	inside	IN	_	15	prep
+17	the	the	DT	_	21	det
+18	50-cm-long	50-cm-long	JJ	_	21	amod
+19	horizontal	horizontal	JJ	_	21	amod
+20	tube	tube	NN	_	21	nn
+21	furnace	furnace	NN	_	16	pobj
+22	.	.	.	_	15	punct
+

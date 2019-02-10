@@ -1,0 +1,12 @@
+0	52	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="group" pos="NNS" nsubjpass="t4"
+7	9	tok id="t1" base="of" pos="IN" prep="t0"
+10	14	tok id="t2" base="they" pos="PRP" pobj="t1"
+15	19	tok id="t3" base="be" pos="VBD" auxpass="t4"
+20	28	tok id="t4" base="gather" pos="VBN" ROOT="ROOT"
+29	30	tok id="t5" base="-COMMA-" pos="," punct="t4"
+31	39	tok id="t6" base="drink" pos="VBG" xcomp="t4"
+40	46	tok id="t7" base="barley" pos="NN" nn="t8"
+47	50	tok id="t8" base="ale" pos="NN" dobj="t6"
+51	52	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

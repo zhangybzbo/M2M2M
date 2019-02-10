@@ -1,0 +1,3 @@
+T1	Term 30 37	protein
+T2	Term 49 53	diet
+R1	Entity-Destination Arg1:T1 Arg2:T2

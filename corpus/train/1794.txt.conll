@@ -1,0 +1,23 @@
+1	September	September	NNP	_	3	nsubj
+2	normally	normally	RB	_	3	advmod
+3	marks	mark	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	arrival	arrival	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	earliest	earliest	JJS	_	9	amod
+9	run	run	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	fish	fish	NN	_	10	pobj
+12	into	into	IN	_	9	prep
+13	lake	lake	NN	_	14	nn
+14	tributaries	tributary	NNS	_	12	pobj
+15	,	,	,	_	3	punct
+16	and	and	CC	_	3	cc
+17	peak	peak	JJ	_	18	amod
+18	runs	run	NNS	_	19	nsubj
+19	occur	occur	VBP	_	3	conj
+20	in	in	IN	_	19	prep
+21	October	October	NNP	_	20	pobj
+22	.	.	.	_	3	punct
+

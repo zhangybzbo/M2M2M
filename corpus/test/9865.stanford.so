@@ -1,0 +1,13 @@
+0	57	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Wendy" pos="NNP" nsubj="t3"
+6	8	tok id="t1" base="'s" pos="POS" possessive="t0"
+9	12	tok id="t2" base="have" pos="VBZ" aux="t3"
+13	18	tok id="t3" base="add" pos="VBN" ROOT="ROOT"
+19	25	tok id="t4" base="orange" pos="JJ" amod="t5"
+26	32	tok id="t5" base="slice" pos="NNS" dobj="t3"
+33	37	tok id="t6" base="into" pos="IN" prep="t3"
+38	46	tok id="t7" base="child" pos="NNS" poss="t9"
+47	49	tok id="t8" base="'s" pos="POS" possessive="t7"
+50	55	tok id="t9" base="meal" pos="NNS" pobj="t6"
+56	57	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

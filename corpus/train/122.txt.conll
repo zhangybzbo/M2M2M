@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	exit	exit	NN	_	3	nn
+3	temperature	temperature	NN	_	17	nsubj
+4	of	of	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	effluent	effluent	JJ	_	7	amod
+7	stream	stream	NN	_	4	pobj
+8	from	from	IN	_	3	prep
+9	the	the	DT	_	12	det
+10	low	low	JJ	_	12	amod
+11	temperature	temperature	NN	_	12	nn
+12	steam	steam	NN	_	8	pobj
+13	reforming	reform	VBG	_	14	amod
+14	reactor	reactor	NN	_	12	vmod
+15	is	be	VBZ	_	17	cop
+16	not	not	RB	_	17	neg
+17	higher	higher	JJR	_	0	ROOT
+18	than	than	IN	_	19	quantmod
+19	600	600	CD	_	20	num
+20	C.	c.	NN	_	17	dep
+

@@ -1,0 +1,15 @@
+1	Harbor	Harbor	NNP	_	4	nn
+2	Beach	Beach	NNP	_	4	nn
+3	man	man	NN	_	4	nn
+4	pleads	plead	NNS	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	case	case	NN	_	5	pobj
+7	that	that	WDT	_	8	nsubj
+8	stemmed	stem	VBD	_	4	rcmod
+9	from	from	IN	_	8	prep
+10	dog	dog	NN	_	11	nn
+11	attack	attack	NN	_	9	pobj
+12	on	on	IN	_	11	prep
+13	tot	tot	NN	_	12	pobj
+14	.	.	.	_	4	punct
+

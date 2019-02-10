@@ -1,0 +1,27 @@
+1	Skype	skype	VB	_	7	nsubj
+2	,	,	,	_	1	punct
+3	a	a	DT	_	5	det
+4	free	free	JJ	_	5	amod
+5	software	software	NN	_	1	dobj
+6	,	,	,	_	1	punct
+7	allows	allow	VBZ	_	0	ROOT
+8	a	a	DT	_	9	det
+9	hookup	hookup	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	multiple	multiple	JJ	_	13	amod
+12	computer	computer	NN	_	13	nn
+13	users	user	NNS	_	10	pobj
+14	to	to	TO	_	15	aux
+15	join	join	VB	_	7	xcomp
+16	in	in	IN	_	15	prep
+17	an	a	DT	_	20	det
+18	online	online	JJ	_	20	amod
+19	conference	conference	NN	_	20	nn
+20	call	call	NN	_	16	pobj
+21	without	without	IN	_	15	prep
+22	incurring	incur	VBG	_	21	pcomp
+23	any	any	DT	_	25	det
+24	telephone	telephone	NN	_	25	nn
+25	costs	cost	NNS	_	22	dobj
+26	.	.	.	_	7	punct
+

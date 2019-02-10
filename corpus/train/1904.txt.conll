@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj
+2	made	make	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	carpet	carpet	NN	_	2	dobj
+5	by	by	IN	_	2	prep
+6	cutting	cut	VBG	_	5	pcomp
+7	a	a	DT	_	9	det
+8	knitting	knit	VBG	_	9	amod
+9	wool	wool	NN	_	6	dobj
+10	into	into	IN	_	6	prep
+11	short	short	JJ	_	12	amod
+12	strips	strip	NNS	_	10	pobj
+13	.	.	.	_	2	punct
+

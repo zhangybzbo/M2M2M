@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	apartment	apartment	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	separate	separate	JJ	_	7	amod
+6	dining	dining	NN	_	7	nn
+7	room	room	NN	_	3	dobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	13	nsubjpass
+10	can	can	MD	_	13	aux
+11	easily	easily	RB	_	13	advmod
+12	be	be	VB	_	13	auxpass
+13	converted	convert	VBN	_	7	rcmod
+14	into	into	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	third	third	JJ	_	17	amod
+17	bedroom	bedroom	NN	_	14	pobj
+18	if	if	IN	_	20	mark
+19	need	need	NN	_	20	nsubj
+20	be	be	VB	_	13	advcl
+21	.	.	.	_	3	punct
+

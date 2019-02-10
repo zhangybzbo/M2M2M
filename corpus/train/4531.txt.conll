@@ -1,0 +1,13 @@
+1	Security	Security	NNP	_	2	nn
+2	cameras	camera	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	installed	install	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	commuter	commuter	NN	_	8	nn
+8	trains	train	NNS	_	6	pobj
+9	to	to	TO	_	10	aux
+10	prevent	prevent	VB	_	5	xcomp
+11	groping	groping	NN	_	10	dobj
+12	.	.	.	_	5	punct
+

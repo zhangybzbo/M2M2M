@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Pentagon" pos="NNP" nsubj="t1"
+9	14	tok id="t1" base="move" pos="VBZ" ROOT="ROOT"
+15	18	tok id="t2" base="the" pos="DT" det="t3"
+19	25	tok id="t3" base="troops" pos="NNS" dobj="t1"
+26	30	tok id="t4" base="into" pos="IN" prep="t1"
+31	34	tok id="t5" base="the" pos="DT" det="t8"
+35	41	tok id="t6" base="Middle" pos="NNP" nn="t8"
+42	49	tok id="t7" base="Eastern" pos="NNP" nn="t8"
+50	56	tok id="t8" base="region" pos="NN" pobj="t4"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

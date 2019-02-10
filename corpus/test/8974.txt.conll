@@ -1,0 +1,16 @@
+1	Infectious	infectious	JJ	_	2	amod
+2	diseases	disease	NNS	_	7	nsubjpass
+3	or	or	CC	_	2	cc
+4	communicable	communicable	JJ	_	5	amod
+5	diseases	disease	NNS	_	2	conj
+6	are	be	VBP	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	bacteria	bacterium	NNS	_	8	pobj
+10	,	,	,	_	9	punct
+11	viruses	virus	NNS	_	9	conj
+12	,	,	,	_	9	punct
+13	and	and	CC	_	9	cc
+14	parasites	parasite	NNS	_	9	conj
+15	.	.	.	_	7	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	grandstand	grandstand	NN	_	3	nsubj
+3	completes	complete	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	concourse	concourse	NN	_	3	dobj
+6	around	around	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	ground	ground	NN	_	6	pobj
+9	,	,	,	_	3	punct
+10	and	and	CC	_	3	cc
+11	it	it	PRP	_	13	nsubj
+12	will	will	MD	_	13	aux
+13	increase	increase	VB	_	3	conj
+14	seating	seat	VBG	_	15	amod
+15	capacity	capacity	NN	_	13	dobj
+16	to	to	TO	_	13	prep
+17	where	where	WRB	_	20	advmod
+18	it	it	PRP	_	20	nsubj
+19	should	should	MD	_	20	aux
+20	be	be	VB	_	16	pcomp
+21	.	.	.	_	3	punct
+

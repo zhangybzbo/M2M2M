@@ -1,0 +1,21 @@
+1	In	in	IN	_	7	prep
+2	1993	1993	CD	_	1	pobj
+3	,	,	,	_	7	punct
+4	international	international	JJ	_	6	amod
+5	news	news	NN	_	6	nn
+6	agencies	agency	NNS	_	7	nsubj
+7	reported	report	VBD	_	0	ROOT
+8	the	the	DT	_	9	det
+9	murder	murder	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	16	det
+12	four-year	four-year	JJ	_	16	amod
+13	-	-	:	_	16	punct
+14	old	old	JJ	_	16	amod
+15	English	English	NNP	_	16	nn
+16	boy	boy	NN	_	10	pobj
+17	,	,	,	_	9	punct
+18	James	James	NNP	_	19	nn
+19	Bulger	Bulger	NNP	_	9	appos
+20	.	.	.	_	7	punct
+

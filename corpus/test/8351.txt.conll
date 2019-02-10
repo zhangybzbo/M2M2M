@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	money	money	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	stored	store	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	red	red	JJ	_	7	amod
+7	envelopes	envelope	NNS	_	5	pobj
+8	with	with	IN	_	7	prep
+9	Chinese	chinese	JJ	_	10	amod
+10	writing	writing	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

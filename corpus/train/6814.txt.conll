@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	height-time	height-time	JJ	_	3	amod
+3	profiles	profile	NNS	_	4	nsubj
+4	revealed	reveal	VBD	_	0	ROOT
+5	that	that	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	downflow	downflow	NN	_	8	nsubj
+8	started	start	VBD	_	4	ccomp
+9	at	at	IN	_	8	prep
+10	times	time	NNS	_	9	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	deceleration	deceleration	NN	_	14	nn
+14	phase	phase	NN	_	11	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	CME	CME	NNP	_	18	nn
+18	core	core	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

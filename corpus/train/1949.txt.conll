@@ -1,0 +1,16 @@
+1	Through	through	IN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	night	night	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	stern	stern	JJ	_	1	dep
+6	continued	continue	VBN	_	5	vmod
+7	to	to	TO	_	8	aux
+8	settle	settle	VB	_	6	xcomp
+9	as	as	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	cruiser	cruiser	NN	_	9	pobj
+12	listed	list	VBN	_	11	vmod
+13	to	to	TO	_	12	prep
+14	port	port	NN	_	13	pobj
+15	.	.	.	_	1	punct
+

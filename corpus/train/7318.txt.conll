@@ -1,0 +1,24 @@
+1	Until	until	IN	_	6	mark
+2	recently	recently	RB	_	4	advmod
+3	patient	patient	NN	_	4	nn
+4	record	record	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	represented	represent	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	documents	document	NNS	_	7	pobj
+9	in	in	IN	_	8	prep
+10	paper	paper	NN	_	9	pobj
+11	kept	keep	VBN	_	8	vmod
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	variety	variety	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	formats	format	NNS	_	15	pobj
+17	,	,	,	_	19	punct
+18	different	different	JJ	_	19	amod
+19	contents	contents	NNS	_	6	dep
+20	,	,	,	_	19	punct
+21	and	and	CC	_	19	cc
+22	places	place	NNS	_	19	conj
+23	.	.	.	_	19	punct
+

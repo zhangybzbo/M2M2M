@@ -1,0 +1,11 @@
+1	Many	many	JJ	_	3	amod
+2	other	other	JJ	_	3	amod
+3	references	reference	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	obtained	obtain	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	various	various	JJ	_	8	amod
+8	scholars	scholar	NNS	_	6	pobj
+9	worldwide	worldwide	RB	_	8	advmod
+10	.	.	.	_	5	punct
+

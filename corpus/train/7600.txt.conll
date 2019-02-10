@@ -1,0 +1,16 @@
+1	Straight	straight	JJ	_	0	ROOT
+2	ahead	ahead	RB	_	4	advmod
+3	you	you	PRP	_	4	nsubj
+4	enter	enter	VBP	_	1	dep
+5	a	a	DT	_	9	det
+6	nice	nice	JJ	_	9	amod
+7	sized	size	VBN	_	9	amod
+8	living	living	NN	_	9	nn
+9	room	room	NN	_	4	dobj
+10	that	that	WDT	_	11	nsubj
+11	contains	contain	VBZ	_	9	rcmod
+12	the	the	DT	_	14	det
+13	front	front	JJ	_	14	amod
+14	door	door	NN	_	11	dobj
+15	.	.	.	_	1	punct
+

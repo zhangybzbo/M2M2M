@@ -1,0 +1,22 @@
+1	Zhao	Zhao	NNP	_	2	nn
+2	Guoxiang	Guoxiang	NNP	_	6	nsubj
+3	in	in	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	speech	speech	NN	_	3	pobj
+6	pointed	point	VBD	_	0	ROOT
+7	out	out	RP	_	6	prt
+8	that	that	IN	_	14	mark
+9	this	this	DT	_	10	det
+10	competition	competition	NN	_	14	nsubj
+11	is	be	VBZ	_	14	cop
+12	an	a	DT	_	14	det
+13	important	important	JJ	_	14	amod
+14	measure	measure	NN	_	6	ccomp
+15	for	for	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	cultivation	cultivation	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	academic	academic	JJ	_	20	amod
+20	atmosphere	atmosphere	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

@@ -1,0 +1,19 @@
+1	Major	major	JJ	_	2	amod
+2	disasters	disaster	NNS	_	10	nsubj
+3	like	like	IN	_	2	prep
+4	cyclone	cyclone	NN	_	3	pobj
+5	,	,	,	_	4	punct
+6	floods	flood	NNS	_	4	conj
+7	and	and	CC	_	4	cc
+8	the	the	DT	_	9	det
+9	storm	storm	NN	_	4	conj
+10	surges	surge	VBZ	_	0	ROOT
+11	,	,	,	_	10	punct
+12	drought	drought	NN	_	14	nsubjpass
+13	are	be	VBP	_	14	auxpass
+14	caused	cause	VBN	_	10	ccomp
+15	by	by	IN	_	14	prep
+16	climate	climate	NN	_	17	nn
+17	change	change	NN	_	15	pobj
+18	.	.	.	_	10	punct
+

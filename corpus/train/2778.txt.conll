@@ -1,0 +1,24 @@
+1	John	John	NNP	_	2	nn
+2	Wing	Wing	NNP	_	3	nsubj
+3	used	use	VBD	_	0	ROOT
+4	it	it	PRP	_	3	dobj
+5	every	every	DT	_	6	det
+6	time	time	NN	_	3	tmod
+7	he	he	PRP	_	8	nsubj
+8	put	put	VBD	_	6	rcmod
+9	a	a	DT	_	10	det
+10	ring	ring	NN	_	8	dobj
+11	into	into	IN	_	8	prep
+12	a	a	DT	_	13	det
+13	bore	bear	VBN	_	11	pcomp
+14	to	to	TO	_	15	aux
+15	ensure	ensure	VB	_	13	xcomp
+16	he	he	PRP	_	19	nsubj
+17	would	would	MD	_	19	aux
+18	n't	not	RB	_	19	neg
+19	get	get	VB	_	15	ccomp
+20	a	a	DT	_	22	det
+21	false	false	JJ	_	22	amod
+22	reading	reading	NN	_	19	dobj
+23	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	When	when	WRB	_	3	advmod
+2	he	he	PRP	_	3	nsubj
+3	was	be	VBD	_	6	advcl
+4	back	back	RB	_	3	advmod
+5	he	he	PRP	_	6	nsubj
+6	noticed	notice	VBD	_	0	ROOT
+7	that	that	IN	_	10	mark
+8	he	he	PRP	_	10	nsubj
+9	had	have	VBD	_	10	aux
+10	locked	lock	VBN	_	6	ccomp
+11	the	the	DT	_	12	det
+12	keys	key	NNS	_	10	dobj
+13	inside	inside	IN	_	10	prep
+14	the	the	DT	_	15	det
+15	car	car	NN	_	13	pobj
+16	.	.	.	_	6	punct
+

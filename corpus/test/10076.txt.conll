@@ -1,0 +1,15 @@
+1	Horseshoes	horseshoe	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	made	make	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	blacksmiths	blacksmith	NNS	_	4	pobj
+6	and	and	CC	_	5	cc
+7	blacksmithing	blacksmithing	NN	_	5	conj
+8	is	be	VBZ	_	9	auxpass
+9	considered	consider	VBN	_	3	dep
+10	a	a	DT	_	13	det
+11	very	very	RB	_	12	advmod
+12	lucky	lucky	JJ	_	13	amod
+13	trade	trade	NN	_	9	xcomp
+14	.	.	.	_	3	punct
+

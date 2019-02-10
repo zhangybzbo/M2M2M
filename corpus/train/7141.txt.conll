@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	stable	stable	JJ	_	5	amod
+5	form	form	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	liquid	liquid	JJ	_	8	amod
+8	nitroglycerin	nitroglycerin	NN	_	6	pobj
+9	carried	carry	VBD	_	2	dep
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	bottle	bottle	NN	_	10	pobj
+13	labeled	label	VBN	_	12	vmod
+14	as	as	IN	_	13	prep
+15	contact	contact	NN	_	17	nn
+16	lens	lens	NN	_	17	nn
+17	solution	solution	NN	_	14	pobj
+18	,	,	,	_	9	punct
+19	using	use	VBG	_	9	xcomp
+20	cotton	cotton	NN	_	19	dobj
+21	as	as	IN	_	19	prep
+22	a	a	DT	_	23	det
+23	stabilizer	stabilizer	NN	_	21	pobj
+24	.	.	.	_	2	punct
+

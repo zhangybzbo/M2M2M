@@ -1,0 +1,22 @@
+1	It	it	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	conspiracy	conspiracy	NN	_	6	nn
+6	theory	theory	NN	_	3	dobj
+7	to	to	TO	_	8	aux
+8	sprout	sprout	VB	_	6	vmod
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	fertile	fertile	JJ	_	12	amod
+12	imaginations	imagination	NNS	_	9	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	world	world	NN	_	20	poss
+16	's	's	POS	_	15	possessive
+17	paranoid	paranoid	JJ	_	20	amod
+18	independent	independent	JJ	_	20	amod
+19	investigative	investigative	JJ	_	20	amod
+20	journalists	journalist	NNS	_	13	pobj
+21	.	.	.	_	3	punct
+

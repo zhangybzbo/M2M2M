@@ -1,0 +1,21 @@
+1	Thankfully	thankfully	RB	_	0	ROOT
+2	the	the	DT	_	3	det
+3	plump	plump	NN	_	1	dep
+4	of	of	IN	_	3	prep
+5	wildfowls	wildfowl	NNS	_	4	pobj
+6	brought	bring	VBN	_	5	vmod
+7	about	about	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	destrcution	destrcution	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	wild	wild	JJ	_	13	amod
+13	cats	cat	NNS	_	10	pobj
+14	and	and	CC	_	3	cc
+15	that	that	IN	_	16	nsubj
+16	ended	end	VBD	_	3	conj
+17	the	the	DT	_	19	det
+18	whole	whole	JJ	_	19	amod
+19	fiasco	fiasco	NN	_	16	dobj
+20	.	.	.	_	1	punct
+

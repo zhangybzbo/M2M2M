@@ -1,0 +1,23 @@
+1	My	my	PRP$	_	2	poss
+2	son	son	NN	_	10	nsubj
+3	-LRB-	-lrb-	-LRB-	_	5	punct
+4	9	9	CD	_	5	num
+5	years	year	NNS	_	2	dep
+6	old	old	JJ	_	5	amod
+7	-RRB-	-rrb-	-RRB-	_	5	punct
+8	has	have	VBZ	_	10	aux
+9	been	be	VBN	_	10	aux
+10	complaining	complain	VBG	_	0	ROOT
+11	of	of	IN	_	10	prep
+12	pain	pain	NN	_	11	pobj
+13	on	on	IN	_	10	prep
+14	his	he	PRP$	_	16	poss
+15	jaw	jaw	NN	_	16	nn
+16	bone	bone	NN	_	13	pobj
+17	for	for	IN	_	10	prep
+18	a	a	DT	_	20	det
+19	few	few	JJ	_	20	amod
+20	weeks	week	NNS	_	17	pobj
+21	now	now	RB	_	10	advmod
+22	.	.	.	_	10	punct
+

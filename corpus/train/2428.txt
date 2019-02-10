@@ -1,0 +1,1 @@
+A simple DC motor has a coil of wire that can rotate in a magnetic field .

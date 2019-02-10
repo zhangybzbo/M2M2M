@@ -1,0 +1,12 @@
+1	Our	we	PRP$	_	2	poss
+2	staff	staff	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	approached	approach	VBN	_	0	ROOT
+5	many	many	JJ	_	6	amod
+6	people	people	NNS	_	4	dobj
+7	for	for	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	product	product	NN	_	10	nn
+10	survey	survey	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

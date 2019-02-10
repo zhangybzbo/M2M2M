@@ -1,0 +1,27 @@
+1	Palomino-KUM	Palomino-KUM	NNP	_	5	nn
+2	Long	Long	NNP	_	5	nn
+3	Point	Point	NNP	_	5	nn
+4	Pencil	Pencil	NNP	_	5	nn
+5	Sharpener	Sharpener	NNP	_	6	nsubj
+6	makes	make	VBZ	_	0	ROOT
+7	a	a	DT	_	10	det
+8	long	long	JJ	_	10	amod
+9	pencil	pencil	NN	_	10	nn
+10	point	point	NN	_	6	dobj
+11	in	in	IN	_	6	prep
+12	2	2	CD	_	13	num
+13	steps	step	NNS	_	11	pobj
+14	,	,	,	_	6	punct
+15	first	first	RB	_	16	advmod
+16	sharpening	sharpen	VBG	_	6	dep
+17	the	the	DT	_	18	det
+18	wood	wood	NN	_	16	dobj
+19	and	and	CC	_	16	cc
+20	then	then	RB	_	16	conj
+21	precision	precision	NN	_	20	pobj
+22	sharpening	sharpen	VBG	_	21	vmod
+23	the	the	DT	_	25	det
+24	graphite	graphite	NN	_	25	nn
+25	point	point	NN	_	22	dobj
+26	.	.	.	_	6	punct
+

@@ -1,0 +1,12 @@
+1	Student	student	NN	_	2	nn
+2	protests	protest	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	turning	turn	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	Twitter	Twitter	NNP	_	8	nn
+8	revolution	revolution	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	Moldova	Moldova	NNP	_	9	pobj
+11	.	.	.	_	4	punct
+

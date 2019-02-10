@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	urban	urban	JJ	_	3	amod
+3	legend	legend	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	that	that	IN	_	10	mark
+6	the	the	DT	_	8	det
+7	whole	whole	JJ	_	8	amod
+8	village	village	NN	_	10	nsubj
+9	had	have	VBD	_	10	aux
+10	moved	move	VBN	_	4	ccomp
+11	from	from	IN	_	10	prep
+12	Italy	Italy	NNP	_	11	pobj
+13	to	to	TO	_	10	prep
+14	South	South	NNP	_	15	nn
+15	Wales	Wales	NNP	_	13	pobj
+16	.	.	.	_	4	punct
+

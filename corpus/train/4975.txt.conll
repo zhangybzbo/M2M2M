@@ -1,0 +1,18 @@
+1	A	a	DT	_	3	det
+2	simple	simple	JJ	_	3	amod
+3	intervention	intervention	NN	_	12	nsubjpass
+4	in	in	IN	_	3	prep
+5	relation	relation	NN	_	4	pobj
+6	to	to	TO	_	5	prep
+7	local	local	JJ	_	10	amod
+8	small-scale	small-scale	JJ	_	10	amod
+9	gold	gold	NN	_	10	nn
+10	production	production	NN	_	6	pobj
+11	was	be	VBD	_	12	auxpass
+12	undertaken	undertake	VBN	_	0	ROOT
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	late	late	JJ	_	16	amod
+16	1980s	1980	NNS	_	13	pobj
+17	.	.	.	_	12	punct
+

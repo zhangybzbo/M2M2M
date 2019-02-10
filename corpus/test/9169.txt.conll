@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	exhibition	exhibition	NN	_	3	nsubj
+3	examines	examine	VBZ	_	0	ROOT
+4	the	the	DT	_	7	det
+5	first	first	JJ	_	7	amod
+6	sustained	sustained	JJ	_	7	amod
+7	contacts	contact	NNS	_	3	dobj
+8	between	between	IN	_	7	prep
+9	American	american	JJ	_	10	amod
+10	people	people	NNS	_	8	pobj
+11	and	and	CC	_	10	cc
+12	European	european	JJ	_	13	amod
+13	explorers	explorer	NNS	_	10	conj
+14	,	,	,	_	10	punct
+15	conquerors	conqueror	NNS	_	10	conj
+16	and	and	CC	_	10	cc
+17	settlers	settler	NNS	_	10	conj
+18	from	from	IN	_	17	prep
+19	1492	1492	CD	_	18	pobj
+20	to	to	TO	_	18	prep
+21	1600	1600	CD	_	20	pobj
+22	.	.	.	_	3	punct
+

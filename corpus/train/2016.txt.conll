@@ -1,0 +1,10 @@
+1	These	these	DT	_	2	det
+2	views	view	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	reflected	reflect	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	his	he	PRP$	_	8	poss
+7	building	building	NN	_	8	nn
+8	designs	design	NNS	_	5	pobj
+9	.	.	.	_	4	punct
+

@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	det
+2	module	module	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	part	part	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	10	det
+7	Virtual	virtual	JJ	_	10	amod
+8	Geography	geography	NN	_	10	nn
+9	department	department	NN	_	10	nn
+10	project	project	NN	_	5	pobj
+11	and	and	CC	_	4	cc
+12	has	have	VBZ	_	14	aux
+13	been	be	VBN	_	14	auxpass
+14	prepared	prepare	VBN	_	4	conj
+15	for	for	IN	_	14	prep
+16	the	the	DT	_	20	det
+17	Physical	physical	JJ	_	20	amod
+18	Geography	geography	NN	_	20	nn
+19	Working	Working	NNP	_	20	nn
+20	Group	Group	NNP	_	15	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	Project	project	NN	_	21	pobj
+24	.	.	.	_	4	punct
+

@@ -1,0 +1,23 @@
+1	He	he	PRP	_	2	nsubj
+2	described	describe	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	meeting	meeting	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	her	she	PRP$	_	5	pobj
+7	as	as	IN	_	6	prep
+8	an	a	DT	_	9	det
+9	exception	exception	NN	_	7	pobj
+10	,	,	,	_	2	punct
+11	since	since	IN	_	14	mark
+12	he	he	PRP	_	14	nsubj
+13	normally	normally	RB	_	14	advmod
+14	has	have	VBZ	_	2	advcl
+15	meetings	meeting	NNS	_	14	dobj
+16	directly	directly	RB	_	14	advmod
+17	with	with	IN	_	14	prep
+18	engineers	engineer	NNS	_	17	pobj
+19	from	from	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	regions	region	NNS	_	19	pobj
+22	.	.	.	_	2	punct
+

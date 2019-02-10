@@ -1,0 +1,24 @@
+1	An	a	DT	_	3	det
+2	increased	increase	VBN	_	3	amod
+3	expression	expression	NN	_	8	nsubjpass
+4	of	of	IN	_	3	prep
+5	cyclin	cyclin	NN	_	6	nn
+6	D1	d1	NN	_	4	pobj
+7	was	be	VBD	_	8	auxpass
+8	seen	see	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	our	we	PRP$	_	11	poss
+11	experiments	experiment	NNS	_	9	pobj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	lungs	lung	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	ferrets	ferret	NNS	_	15	pobj
+18	supplemented	supplement	VBN	_	17	vmod
+19	with	with	IN	_	18	prep
+20	high	high	JJ	_	22	amod
+21	dose	dose	NN	_	22	nn
+22	Beta-carotene	beta-carotene	NN	_	19	pobj
+23	.	.	.	_	8	punct
+

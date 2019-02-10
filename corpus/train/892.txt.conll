@@ -1,0 +1,9 @@
+1	A	a	DT	_	2	det
+2	rhumba	rhumba	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	rattlesnakes	rattlesnake	NNS	_	3	pobj
+5	plagued	plague	VBD	_	0	ROOT
+6	a	a	DT	_	7	det
+7	village	village	NN	_	5	dobj
+8	.	.	.	_	5	punct
+

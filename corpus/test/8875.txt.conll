@@ -1,0 +1,11 @@
+1	These	these	DT	_	3	det
+2	wind	wind	NN	_	3	nn
+3	turbines	turbine	NNS	_	4	nsubj
+4	generate	generate	VBP	_	0	ROOT
+5	electricity	electricity	NN	_	4	dobj
+6	from	from	IN	_	4	prep
+7	naturally	naturally	RB	_	8	advmod
+8	occurring	occur	VBG	_	9	amod
+9	wind	wind	NN	_	6	pobj
+10	.	.	.	_	4	punct
+

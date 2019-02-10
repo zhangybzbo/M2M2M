@@ -1,0 +1,18 @@
+1	Like	like	IN	_	7	prep
+2	other	other	JJ	_	3	amod
+3	spiders	spider	NNS	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	tarantula	tarantula	NN	_	7	nsubj
+7	makes	make	VBZ	_	0	ROOT
+8	a	a	DT	_	10	det
+9	silken	silken	JJ	_	10	amod
+10	web	web	NN	_	7	dobj
+11	,	,	,	_	10	punct
+12	but	but	CC	_	13	cc
+13	not	not	RB	_	10	cc
+14	for	for	IN	_	10	prep
+15	snaring	snare	VBG	_	16	amod
+16	prey	prey	NN	_	14	pobj
+17	.	.	.	_	7	punct
+

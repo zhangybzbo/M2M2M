@@ -1,0 +1,15 @@
+1	However	however	RB	_	5	advmod
+2	several	several	JJ	_	3	amod
+3	problems	problem	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	pointed	point	VBN	_	0	ROOT
+6	out	out	RP	_	5	prt
+7	during	during	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	course	course	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	this	this	DT	_	13	det
+12	feasibility	feasibility	NN	_	13	nn
+13	study	study	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

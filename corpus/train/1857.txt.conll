@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	European	european	JJ	_	3	amod
+3	Commission	Commission	NNP	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	released	release	VBN	_	0	ROOT
+6	a	a	DT	_	7	det
+7	set	set	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	slides	slide	NNS	_	8	pobj
+10	explaining	explain	VBG	_	9	vmod
+11	nanotechnology	nanotechnology	NN	_	10	dobj
+12	.	.	.	_	5	punct
+

@@ -1,0 +1,12 @@
+1	He	he	PRP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	wearing	wear	VBG	_	0	ROOT
+4	a	a	DT	_	7	det
+5	short	short	JJ	_	7	amod
+6	sleeve	sleeve	NN	_	7	nn
+7	shirt	shirt	NN	_	3	dobj
+8	with	with	IN	_	3	prep
+9	a	a	DT	_	10	det
+10	tie	tie	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

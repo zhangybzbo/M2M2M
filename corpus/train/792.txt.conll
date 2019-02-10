@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	mason	mason	NN	_	7	nsubj
+3	who	who	WP	_	4	nsubj
+4	did	do	VBD	_	2	rcmod
+5	the	the	DT	_	6	det
+6	stonework	stonework	NN	_	4	dobj
+7	did	do	VBD	_	0	ROOT
+8	a	a	DT	_	10	det
+9	wonderful	wonderful	JJ	_	10	amod
+10	job	job	NN	_	7	dobj
+11	.	.	.	_	7	punct
+

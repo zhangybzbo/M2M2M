@@ -1,0 +1,19 @@
+1	Surgery	surgery	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	reserved	reserve	VBN	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	treating	treat	VBG	_	4	pcomp
+6	residual	residual	JJ	_	7	amod
+7	disease	disease	NN	_	5	dobj
+8	six	six	CD	_	10	number
+9	to	to	TO	_	10	dep
+10	eight	eight	CD	_	11	num
+11	weeks	week	NNS	_	12	npadvmod
+12	after	after	IN	_	7	prep
+13	radiation	radiation	NN	_	14	nn
+14	therapy	therapy	NN	_	12	pobj
+15	or	or	CC	_	12	cc
+16	for	for	IN	_	12	conj
+17	recurrence	recurrence	NN	_	16	pobj
+18	.	.	.	_	3	punct
+

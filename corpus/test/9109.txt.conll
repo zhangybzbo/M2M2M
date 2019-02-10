@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	volume	volume	NN	_	3	nsubj
+3	synthesizes	synthesize	VBZ	_	0	ROOT
+4	current	current	JJ	_	5	amod
+5	understanding	understanding	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	ecology	ecology	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	Alaska	Alaska	NNP	_	13	poss
+11	's	's	POS	_	10	possessive
+12	boreal	boreal	JJ	_	13	amod
+13	forests	forest	NNS	_	9	pobj
+14	.	.	.	_	3	punct
+

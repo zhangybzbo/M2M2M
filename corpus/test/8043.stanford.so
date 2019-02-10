@@ -1,0 +1,13 @@
+0	69	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="treaty" pos="NN" nsubj="t2"
+11	22	tok id="t2" base="establish" pos="VBZ" ROOT="ROOT"
+23	24	tok id="t3" base="a" pos="DT" det="t6"
+25	31	tok id="t4" base="double" pos="JJ" amod="t6"
+32	40	tok id="t5" base="majority" pos="NN" nn="t6"
+41	45	tok id="t6" base="rule" pos="NN" dobj="t2"
+46	49	tok id="t7" base="for" pos="IN" prep="t6"
+50	57	tok id="t8" base="Council" pos="NNP" nn="t9"
+58	67	tok id="t9" base="decision" pos="NNS" pobj="t7"
+68	69	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

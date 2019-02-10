@@ -1,0 +1,15 @@
+1	With	with	IN	_	10	prep
+2	its	its	PRP$	_	6	poss
+3	non-slip	non-slip	JJ	_	6	amod
+4	,	,	,	_	6	punct
+5	ambidextrous	ambidextrous	JJ	_	6	amod
+6	grip	grip	NN	_	1	pobj
+7	,	,	,	_	10	punct
+8	the	the	DT	_	9	det
+9	peeler	peeler	NN	_	10	nsubj
+10	glides	glide	VBZ	_	0	ROOT
+11	effortlessly	effortlessly	RB	_	10	advmod
+12	through	through	IN	_	10	prep
+13	foods	food	NNS	_	12	pobj
+14	.	.	.	_	10	punct
+

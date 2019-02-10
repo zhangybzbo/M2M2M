@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	pack	pack	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	CD	cd	NN	_	3	dobj
+6	which	which	WDT	_	7	nsubj
+7	held	hold	VBD	_	5	rcmod
+8	a	a	DT	_	9	det
+9	range	range	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	resource	resource	NN	_	13	nn
+12	information	information	NN	_	13	nn
+13	sheets	sheet	NNS	_	10	pobj
+14	and	and	CC	_	9	cc
+15	some	some	DT	_	16	det
+16	presentations	presentation	NNS	_	9	conj
+17	that	that	WDT	_	20	nsubjpass
+18	could	could	MD	_	20	aux
+19	be	be	VB	_	20	auxpass
+20	integrated	integrate	VBN	_	16	rcmod
+21	into	into	IN	_	20	prep
+22	your	you	PRP$	_	24	poss
+23	training	training	NN	_	24	nn
+24	packages	package	NNS	_	21	pobj
+25	.	.	.	_	3	punct
+

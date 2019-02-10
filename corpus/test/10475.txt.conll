@@ -1,0 +1,20 @@
+1	Jomini	Jomini	NNP	_	2	nsubj
+2	speaks	speak	VBZ	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	an	a	DT	_	6	det
+5	entire	entire	JJ	_	6	amod
+6	division	division	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	pikemen	pikeman	NNS	_	7	pobj
+9	at	at	IN	_	6	prep
+10	Reunion-sur-Oise	Reunion-sur-Oise	NNP	_	9	pobj
+11	,	,	,	_	2	punct
+12	as	as	IN	_	17	mark
+13	the	the	DT	_	16	det
+14	Re	Re	NNP	_	16	nn
+15	-	-	:	_	16	punct
+16	volution	volution	NN	_	17	nsubj
+17	rechristened	rechristen	VBD	_	2	advcl
+18	Guise	Guise	NNP	_	17	dobj
+19	.	.	.	_	2	punct
+

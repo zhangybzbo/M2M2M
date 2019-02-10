@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	demolition	demolition	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	cause	cause	NN	_	14	nsubj
+6	of	of	IN	_	5	prep
+7	terror	terror	NN	_	6	pobj
+8	and	and	CC	_	7	cc
+9	communal	communal	JJ	_	10	amod
+10	divide	divide	NN	_	7	conj
+11	is	be	VBZ	_	14	cop
+12	just	just	RB	_	14	advmod
+13	a	a	DT	_	14	det
+14	way	way	NN	_	0	ROOT
+15	of	of	IN	_	14	prep
+16	not	not	RB	_	17	neg
+17	letting	let	VBG	_	15	pcomp
+18	truth	truth	NN	_	19	nsubj
+19	prevail	prevail	VB	_	17	ccomp
+20	.	.	.	_	14	punct
+

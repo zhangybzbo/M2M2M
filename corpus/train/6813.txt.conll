@@ -1,0 +1,12 @@
+1	Hairdressing	hairdress	VBG	_	5	csubj
+2	with	with	IN	_	1	prep
+3	color	color	NN	_	2	pobj
+4	has	have	VBZ	_	5	aux
+5	become	become	VBN	_	0	ROOT
+6	a	a	DT	_	8	det
+7	common	common	JJ	_	8	amod
+8	trend	trend	NN	_	5	xcomp
+9	these	these	DT	_	10	det
+10	days	day	NNS	_	5	tmod
+11	.	.	.	_	5	punct
+

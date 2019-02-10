@@ -1,0 +1,3 @@
+T1	Term 74 82	flotilla
+T2	Term 91 96	ships
+R1	Member-Collection Arg1:T2 Arg2:T1

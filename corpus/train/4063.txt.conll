@@ -1,0 +1,15 @@
+1	Bon	Bon	NNP	_	2	nn
+2	vivants	vivant	NNS	_	5	nsubj
+3	were	be	VBD	_	5	cop
+4	a	a	DT	_	5	det
+5	subculture	subculture	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	homosexuals	homosexual	NNS	_	6	pobj
+8	who	who	WP	_	9	nsubj
+9	partied	party	VBD	_	7	rcmod
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	50	50	CD	_	10	pobj
+13	's	's	POS	_	12	possessive
+14	.	.	.	_	5	punct
+

@@ -1,0 +1,10 @@
+1	Anne	Anne	NNP	_	2	nn
+2	Grey	Grey	NNP	_	4	poss
+3	's	's	POS	_	2	possessive
+4	mind	mind	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	filled	fill	VBN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	questions	question	NNS	_	7	pobj
+9	.	.	.	_	6	punct
+

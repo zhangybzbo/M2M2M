@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	computer	computer	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	kept	keep	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	common	common	JJ	_	8	amod
+8	area	area	NN	_	5	pobj
+9	within	within	IN	_	8	prep
+10	our	we	PRP$	_	11	poss
+11	home	home	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,9 @@
+1	He	he	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	real	real	JJ	_	5	amod
+5	deck	deck	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	cards	card	NNS	_	6	pobj
+8	.	.	.	_	2	punct
+

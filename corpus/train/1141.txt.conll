@@ -1,0 +1,14 @@
+1	Visibly	visibly	RB	_	2	advmod
+2	disturbed	disturb	VBN	_	6	vmod
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	girl	girl	NN	_	6	nsubj
+6	searched	search	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	room	room	NN	_	6	dobj
+9	with	with	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	burning	burning	NN	_	12	nn
+12	candle	candle	NN	_	9	pobj
+13	.	.	.	_	6	punct
+

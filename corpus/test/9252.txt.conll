@@ -1,0 +1,14 @@
+1	Analogies	analogy	NNS	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	examples	example	NNS	_	0	ROOT
+4	which	which	WDT	_	5	nsubj
+5	aid	aid	VBP	_	3	rcmod
+6	us	we	PRP	_	5	dobj
+7	in	in	IN	_	5	prep
+8	gaining	gain	VBG	_	7	pcomp
+9	insight	insight	NN	_	8	dobj
+10	into	into	IN	_	8	prep
+11	a	a	DT	_	12	det
+12	problem	problem	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

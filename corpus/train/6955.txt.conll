@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	concert	concert	NN	_	3	nsubj
+3	closes	close	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	young	young	JJ	_	7	amod
+7	composer	composer	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	take	take	NN	_	4	pobj
+10	on	on	IN	_	9	prep
+11	another	another	DT	_	12	det
+12	aria	aria	NN	_	10	pobj
+13	from	from	IN	_	9	prep
+14	Guilio	Guilio	NNP	_	15	nn
+15	Cesare	Cesare	NNP	_	13	pobj
+16	,	,	,	_	15	punct
+17	the	the	DT	_	22	det
+18	notoriously	notoriously	RB	_	19	advmod
+19	tricky	tricky	JJ	_	22	amod
+20	Al	Al	NNP	_	22	nn
+21	lampo	lampo	NN	_	22	nn
+22	dell	dell	NN	_	15	appos
+23	`	`	``	_	24	punct
+24	armi	armi	FW	_	22	dep
+25	.	.	.	_	3	punct
+

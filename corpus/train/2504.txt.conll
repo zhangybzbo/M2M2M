@@ -1,0 +1,16 @@
+1	Here	here	RB	_	2	advmod
+2	are	be	VBP	_	0	ROOT
+3	some	some	DT	_	4	det
+4	pictures	picture	NNS	_	2	nsubj
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	couple	couple	NN	_	8	nn
+8	weeks	week	NNS	_	9	npadvmod
+9	ago	ago	IN	_	5	pcomp
+10	when	when	WRB	_	12	advmod
+11	we	we	PRP	_	12	nsubj
+12	had	have	VBD	_	2	advcl
+13	some	some	DT	_	14	det
+14	ice	ice	NN	_	12	dobj
+15	.	.	.	_	2	punct
+

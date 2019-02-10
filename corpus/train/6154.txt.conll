@@ -1,0 +1,16 @@
+1	Both	both	DT	_	2	preconj
+2	praise	praise	NN	_	10	nsubj
+3	and	and	CC	_	2	cc
+4	blame	blame	VB	_	2	conj
+5	cause	cause	NN	_	6	nn
+6	concern	concern	NN	_	4	dobj
+7	,	,	,	_	10	punct
+8	for	for	IN	_	10	prep
+9	they	they	PRP	_	8	pobj
+10	bring	bring	VBP	_	0	ROOT
+11	people	people	NNS	_	12	nsubj
+12	hope	hope	VB	_	10	ccomp
+13	and	and	CC	_	12	cc
+14	fear	fear	VB	_	12	conj
+15	.	.	.	_	10	punct
+

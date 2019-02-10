@@ -1,0 +1,18 @@
+1	Jordan	Jordan	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	recent	recent	JJ	_	4	amod
+4	works	work	NNS	_	6	nsubjpass
+5	are	be	VBP	_	6	auxpass
+6	concerned	concern	VBN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	questions	question	NNS	_	7	pobj
+9	of	of	IN	_	8	prep
+10	truth	truth	NN	_	9	pobj
+11	,	,	,	_	10	punct
+12	beauty	beauty	NN	_	10	conj
+13	and	and	CC	_	10	cc
+14	the	the	DT	_	16	det
+15	human	human	JJ	_	16	amod
+16	condition	condition	NN	_	10	conj
+17	.	.	.	_	6	punct
+

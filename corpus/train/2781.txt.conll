@@ -1,0 +1,24 @@
+1	Priority	priority	NN	_	4	nsubjpass
+2	must	must	MD	_	4	aux
+3	be	be	VB	_	4	auxpass
+4	given	give	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	efforts	effort	NNS	_	5	pobj
+7	to	to	TO	_	8	aux
+8	combat	combat	VB	_	6	vmod
+9	insecurity	insecurity	NN	_	8	dobj
+10	and	and	CC	_	4	cc
+11	thus	thus	RB	_	12	advmod
+12	poverty	poverty	NN	_	4	conj
+13	,	,	,	_	12	punct
+14	major	major	JJ	_	15	amod
+15	cause	cause	NN	_	12	appos
+16	of	of	IN	_	15	prep
+17	violence	violence	NN	_	16	pobj
+18	most	most	RBS	_	19	advmod
+19	often	often	RB	_	20	advmod
+20	experienced	experience	VBN	_	15	vmod
+21	by	by	IN	_	20	prep
+22	poorest	poorest	JJS	_	21	pobj
+23	.	.	.	_	4	punct
+

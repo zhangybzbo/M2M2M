@@ -1,0 +1,15 @@
+1	In	in	IN	_	8	prep
+2	any	any	DT	_	3	det
+3	forest	forest	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	6	det
+6	carbon	carbon	NN	_	8	nsubjpass
+7	is	be	VBZ	_	8	auxpass
+8	stored	store	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	plants	plant	NNS	_	9	pobj
+12	and	and	CC	_	11	cc
+13	trees	tree	NNS	_	11	conj
+14	.	.	.	_	8	punct
+

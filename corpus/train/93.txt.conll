@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	second	second	JJ	_	3	amod
+3	simulation	simulation	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	started	start	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	uncomplexed	uncomplexed	JJ	_	10	amod
+9	x-ray	x-ray	NN	_	10	nn
+10	structure	structure	NN	_	6	pobj
+11	after	after	IN	_	5	prep
+12	insertion	insertion	NN	_	11	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	ligand	ligand	NN	_	13	pobj
+16	into	into	IN	_	12	prep
+17	the	the	DT	_	19	det
+18	binding	binding	NN	_	19	nn
+19	site	site	NN	_	16	pobj
+20	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Brazil" pos="NNP" nsubj="t2"
+7	9	tok id="t1" base="be" pos="VBZ" aux="t2"
+10	16	tok id="t2" base="try" pos="VBG" ROOT="ROOT"
+17	19	tok id="t3" base="to" pos="TO" aux="t4"
+20	26	tok id="t4" base="change" pos="VB" xcomp="t2"
+27	31	tok id="t5" base="law" pos="NNS" dobj="t4"
+32	36	tok id="t6" base="that" pos="WDT" nsubj="t7"
+37	42	tok id="t7" base="limit" pos="VBP" rcmod="t5"
+43	52	tok id="t8" base="political" pos="JJ" amod="t9"
+53	59	tok id="t9" base="speech" pos="NN" dobj="t7"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

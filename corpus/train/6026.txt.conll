@@ -1,0 +1,27 @@
+1	We	we	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	calamari	calamarus	NNS	_	4	nn
+4	appetizer	appetizer	NN	_	2	dobj
+5	which	which	WDT	_	8	nsubj
+6	was	be	VBD	_	8	cop
+7	no	no	DT	_	8	neg
+8	different	different	JJ	_	4	rcmod
+9	then	then	RB	_	12	advmod
+10	any	any	DT	_	12	det
+11	other	other	JJ	_	12	amod
+12	place	place	NN	_	8	dobj
+13	,	,	,	_	2	punct
+14	the	the	DT	_	16	det
+15	lamb	lamb	NN	_	16	nn
+16	shank	shank	NN	_	2	dobj
+17	tasted	taste	VBN	_	16	vmod
+18	like	like	IN	_	21	mark
+19	it	it	PRP	_	21	nsubjpass
+20	was	be	VBD	_	21	auxpass
+21	cooked	cook	VBN	_	17	advcl
+22	in	in	IN	_	21	prep
+23	canned	can	VBN	_	25	amod
+24	tomato	tomato	NN	_	25	nn
+25	sauce	sauce	NN	_	22	pobj
+26	.	.	.	_	2	punct
+

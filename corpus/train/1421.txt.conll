@@ -1,0 +1,16 @@
+1	This	this	DT	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	homeopathic	homeopathic	JJ	_	6	amod
+5	nasal	nasal	JJ	_	6	amod
+6	spray	spray	NN	_	0	ROOT
+7	which	which	WDT	_	9	nsubj
+8	really	really	RB	_	9	advmod
+9	helps	help	VBZ	_	6	rcmod
+10	customers	customer	NNS	_	11	nsubj
+11	keep	keep	VB	_	9	ccomp
+12	their	they	PRP$	_	13	poss
+13	sinuses	sinus	NNS	_	14	nsubj
+14	clear	clear	JJ	_	11	xcomp
+15	.	.	.	_	6	punct
+

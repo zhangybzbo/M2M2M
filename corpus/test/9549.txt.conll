@@ -1,0 +1,9 @@
+1	My	my	PRP$	_	2	poss
+2	answer	answer	NN	_	3	nsubj
+3	came	come	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	last	last	JJ	_	7	amod
+7	paragraph	paragraph	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	Jillian	Jillian	NNP	_	2	nn
+2	Palmer	Palmer	NNP	_	3	nsubj
+3	came	come	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	comfortably-off	comfortably-off	JJ	_	8	amod
+7	Portsmouth	Portsmouth	NNP	_	8	nn
+8	family	family	NN	_	4	pobj
+9	,	,	,	_	8	punct
+10	who	who	WP	_	11	nsubj
+11	manufactured	manufacture	VBD	_	8	rcmod
+12	the	the	DT	_	14	det
+13	renowned	renowned	JJ	_	14	amod
+14	range	range	NN	_	11	dobj
+15	of	of	IN	_	14	prep
+16	Victory	Victory	NNP	_	17	nn
+17	brushes	brush	NNS	_	15	pobj
+18	.	.	.	_	3	punct
+

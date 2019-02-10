@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det
+2	US	US	NNP	_	4	nn
+3	patent	patent	NN	_	4	nn
+4	system	system	NN	_	5	nsubj
+5	is	be	VBZ	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	crisis	crisis	NN	_	6	pobj
+9	that	that	WDT	_	12	nsubjpass
+10	has	have	VBZ	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	caused	cause	VBN	_	8	rcmod
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	flood	flood	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	patent	patent	NN	_	18	nn
+18	applications	application	NNS	_	16	pobj
+19	being	be	VBG	_	20	auxpass
+20	filed	file	VBN	_	18	vmod
+21	at	at	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	USPTO	USPTO	NNP	_	21	pobj
+24	every	every	DT	_	25	det
+25	year	year	NN	_	12	tmod
+26	.	.	.	_	5	punct
+

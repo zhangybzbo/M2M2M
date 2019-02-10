@@ -1,0 +1,15 @@
+1	Chimpanzees	chimpanzee	NNS	_	2	nsubj
+2	make	make	VBP	_	0	ROOT
+3	tools	tool	NNS	_	2	dobj
+4	and	and	CC	_	2	cc
+5	use	use	VB	_	2	conj
+6	them	they	PRP	_	5	dobj
+7	to	to	TO	_	8	aux
+8	acquire	acquire	VB	_	5	dep
+9	foods	food	NNS	_	8	dobj
+10	and	and	CC	_	8	cc
+11	for	for	IN	_	8	conj
+12	social	social	JJ	_	13	amod
+13	displays	display	NNS	_	11	pobj
+14	.	.	.	_	2	punct
+

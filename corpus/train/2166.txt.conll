@@ -1,0 +1,26 @@
+1	The	the	DT	_	5	det
+2	``	``	``	_	5	punct
+3	underdog	underdog	NN	_	5	nn
+4	''	''	''	_	5	punct
+5	prize	prize	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	awarded	award	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	driver	driver	NN	_	8	pobj
+11	who	who	WP	_	12	nsubj
+12	wins	win	VBZ	_	10	rcmod
+13	the	the	DT	_	14	det
+14	race	race	NN	_	12	dobj
+15	with	with	IN	_	12	prep
+16	a	a	DT	_	17	det
+17	car	car	NN	_	15	pobj
+18	in	in	IN	_	12	prep
+19	the	the	DT	_	21	det
+20	lowest	lowest	JJS	_	21	amod
+21	PI	pi	NN	_	18	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	field	field	NN	_	22	pobj
+25	.	.	.	_	7	punct
+

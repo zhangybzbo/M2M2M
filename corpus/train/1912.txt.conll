@@ -1,0 +1,20 @@
+1	A	a	DT	_	2	det
+2	sample	sample	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	sealed	seal	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	polyethylene	polyethylene	NN	_	8	nn
+8	bag	bag	NN	_	5	pobj
+9	and	and	CC	_	4	cc
+10	irradiated	irradiate	VBN	_	4	conj
+11	together	together	RB	_	10	advmod
+12	with	with	IN	_	10	prep
+13	cobalt	cobalt	NN	_	12	pobj
+14	as	as	IN	_	10	prep
+15	a	a	DT	_	18	det
+16	neutron	neutron	NN	_	18	nn
+17	flux	flux	NN	_	18	nn
+18	determinant	determinant	NN	_	14	pobj
+19	.	.	.	_	4	punct
+

@@ -1,0 +1,21 @@
+1	Mockingbirds	mockingbird	NNS	_	2	nsubj
+2	build	build	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	nest	nest	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	twigs	twig	NNS	_	5	pobj
+7	,	,	,	_	2	punct
+8	plant	plant	NN	_	9	nsubj
+9	stems	stem	VBZ	_	2	parataxis
+10	,	,	,	_	9	punct
+11	mosses	moss	NNS	_	9	dobj
+12	,	,	,	_	11	punct
+13	cloth	cloth	NN	_	11	conj
+14	,	,	,	_	11	punct
+15	string	string	NN	_	11	conj
+16	,	,	,	_	11	punct
+17	and	and	CC	_	11	cc
+18	dry	dry	JJ	_	19	amod
+19	leaves	leaf	NNS	_	11	conj
+20	.	.	.	_	2	punct
+

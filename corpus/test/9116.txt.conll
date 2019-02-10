@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	gunman	gunman	NN	_	3	nsubj
+3	bought	buy	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	weapons	weapon	NNS	_	3	dobj
+6	legally	legally	RB	_	3	advmod
+7	from	from	IN	_	3	prep
+8	a	a	DT	_	11	det
+9	Champaign	Champaign	NNP	_	11	nn
+10	gun	gun	NN	_	11	nn
+11	dealer	dealer	NN	_	7	pobj
+12	.	.	.	_	3	punct
+

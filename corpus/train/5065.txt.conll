@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	weight	weight	NN	_	21	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	groceries	grocery	NNS	_	3	pobj
+6	in	in	IN	_	2	prep
+7	a	a	DT	_	9	det
+8	shopping	shopping	NN	_	9	nn
+9	basket	basket	NN	_	6	pobj
+10	and	and	CC	_	2	cc
+11	the	the	DT	_	12	det
+12	number	number	NN	_	2	conj
+13	of	of	IN	_	12	prep
+14	items	item	NNS	_	13	pobj
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	shopping	shopping	NN	_	18	nn
+18	basket	basket	NN	_	15	pobj
+19	are	be	VBP	_	21	cop
+20	discrete	discrete	JJ	_	21	amod
+21	quantities	quantity	NNS	_	0	ROOT
+22	.	.	.	_	21	punct
+

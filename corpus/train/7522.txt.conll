@@ -1,0 +1,22 @@
+1	Another	another	DT	_	3	det
+2	drinking	drinking	NN	_	3	nn
+3	accident	accident	NN	_	4	nsubj
+4	happened	happen	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Gallup	Gallup	NNP	_	8	nn
+8	area	area	NN	_	5	pobj
+9	the	the	DT	_	11	det
+10	other	other	JJ	_	11	amod
+11	day	day	NN	_	4	tmod
+12	,	,	,	_	4	punct
+13	which	which	WDT	_	15	nsubjpass
+14	is	be	VBZ	_	15	auxpass
+15	plagued	plague	VBN	_	4	ccomp
+16	by	by	IN	_	15	prep
+17	drinking	drinking	NN	_	16	pobj
+18	and	and	CC	_	17	cc
+19	driving	drive	VBG	_	17	conj
+20	accidents	accident	NNS	_	19	dobj
+21	.	.	.	_	4	punct
+

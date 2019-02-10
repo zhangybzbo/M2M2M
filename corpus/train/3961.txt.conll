@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	hall	hall	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	lift	lift	NN	_	3	dobj
+6	and	and	CC	_	5	cc
+7	full	full	JJ	_	8	amod
+8	access	access	NN	_	5	conj
+9	for	for	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	disabled	disabled	JJ	_	9	pobj
+12	.	.	.	_	3	punct
+

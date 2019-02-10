@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj
+2	finished	finish	VBD	_	0	ROOT
+3	my	my	PRP$	_	8	poss
+4	little	little	JJ	_	8	amod
+5	30s	30	NNS	_	8	nn
+6	puff	puff	NN	_	8	nn
+7	sleeve	sleeve	NN	_	8	nn
+8	blouse	blouse	NN	_	2	dobj
+9	last	last	JJ	_	10	amod
+10	night/early	night/early	RB	_	2	advmod
+11	this	this	DT	_	12	det
+12	morning	morning	NN	_	2	tmod
+13	.	.	.	_	2	punct
+

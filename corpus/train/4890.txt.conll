@@ -1,0 +1,20 @@
+1	Occasionally	occasionally	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	a	a	DT	_	4	det
+4	dream	dream	NN	_	5	nsubj
+5	proffers	proffer	VBZ	_	0	ROOT
+6	no	no	DT	_	7	neg
+7	solution	solution	NN	_	5	dobj
+8	but	but	CC	_	5	cc
+9	portrays	portray	VBZ	_	5	conj
+10	only	only	RB	_	12	advmod
+11	the	the	DT	_	12	det
+12	anxiety	anxiety	NN	_	9	dobj
+13	which	which	WDT	_	15	nsubjpass
+14	is	be	VBZ	_	15	auxpass
+15	generated	generate	VBN	_	12	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	conflict	conflict	NN	_	16	pobj
+19	.	.	.	_	5	punct
+

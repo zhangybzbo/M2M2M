@@ -1,0 +1,11 @@
+1	He	he	PRP	_	3	nsubj
+2	accidentally	accidentally	RB	_	3	advmod
+3	dropped	drop	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	file	file	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	9	det
+8	wrong	wrong	JJ	_	9	amod
+9	folder	folder	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	western	western	JJ	_	3	amod
+3	region	region	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	Mauritania	Mauritania	NNP	_	4	pobj
+6	is	be	VBZ	_	8	cop
+7	the	the	DT	_	8	det
+8	scene	scene	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	serious	serious	JJ	_	12	amod
+12	plague	plague	VB	_	9	pobj
+13	of	of	IN	_	12	prep
+14	desert	desert	NN	_	15	nn
+15	locusts	locust	NNS	_	13	pobj
+16	.	.	.	_	8	punct
+

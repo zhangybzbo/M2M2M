@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	other	other	JJ	_	3	amod
+3	offer	offer	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	11	det
+7	old-line	old-line	JJ	_	11	amod
+8	investment	investment	NN	_	11	nn
+9	counsel-mutual	counsel-mutual	JJ	_	11	amod
+10	fund	fund	NN	_	11	nn
+11	company	company	NN	_	5	pobj
+12	in	in	IN	_	11	prep
+13	New	New	NNP	_	14	nn
+14	York	York	NNP	_	12	pobj
+15	.	.	.	_	4	punct
+

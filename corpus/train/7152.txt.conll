@@ -1,0 +1,13 @@
+1	NINE-year-old	nine-year-old	JJ	_	3	amod
+2	Chloe	Chloe	NNP	_	3	nn
+3	Clark	Clark	NNP	_	4	nsubj
+4	joined	join	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	ballet	ballet	JJ	_	7	amod
+7	company	company	NN	_	4	dobj
+8	on	on	IN	_	4	prep
+9	stage	stage	NN	_	8	pobj
+10	last	last	JJ	_	11	amod
+11	Monday	Monday	NNP	_	4	tmod
+12	.	.	.	_	4	punct
+

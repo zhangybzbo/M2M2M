@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	package	package	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	red	red	JJ	_	9	amod
+8	belt	belt	NN	_	9	nn
+9	bag	bag	NN	_	5	pobj
+10	that	that	IN	_	14	dobj
+11	a	a	DT	_	13	det
+12	security	security	NN	_	13	nn
+13	guard	guard	NN	_	14	nsubj
+14	found	find	VBD	_	9	rcmod
+15	outside	outside	IN	_	14	prep
+16	One	one	CD	_	18	num
+17	Burgundy	Burgundy	NNP	_	18	nn
+18	Plaza	Plaza	NNP	_	15	pobj
+19	at	at	IN	_	14	prep
+20	around	around	IN	_	21	quantmod
+21	7	7	CD	_	22	num
+22	a.m.	a.m.	NN	_	19	pobj
+

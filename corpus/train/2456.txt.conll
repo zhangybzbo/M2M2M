@@ -1,0 +1,19 @@
+1	My	my	PRP$	_	2	poss
+2	evidence	evidence	NN	_	7	nsubj
+3	from	from	IN	_	2	prep
+4	two	two	CD	_	5	num
+5	weeks	week	NNS	_	6	npadvmod
+6	ago	ago	IN	_	3	pcomp
+7	proves	prove	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	situation	situation	NN	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	changed	change	VBN	_	7	ccomp
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	time	time	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	their	they	PRP$	_	17	poss
+17	evidence	evidence	NN	_	15	pobj
+18	.	.	.	_	7	punct
+

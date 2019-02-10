@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	marsupial	marsupial	JJ	_	3	amod
+3	pouch	pouch	NN	_	4	nsubj
+4	helps	help	VBZ	_	0	ROOT
+5	keep	keep	VB	_	4	ccomp
+6	the	the	DT	_	7	det
+7	young	young	JJ	_	5	dobj
+8	attached	attach	VBN	_	7	vmod
+9	to	to	TO	_	8	prep
+10	a	a	DT	_	11	det
+11	teat	teat	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

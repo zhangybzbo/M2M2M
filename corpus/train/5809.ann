@@ -1,0 +1,3 @@
+T1	Term 22 26	roof
+T2	Term 35 40	house
+R1	Component-Whole Arg1:T1 Arg2:T2

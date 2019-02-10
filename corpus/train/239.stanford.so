@@ -1,0 +1,12 @@
+0	53	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	7	tok id="t1" base="boy" pos="NN" nsubj="t3"
+8	20	tok id="t2" base="accidentally" pos="RB" advmod="t3"
+21	25	tok id="t3" base="go" pos="VBD" ROOT="ROOT"
+26	30	tok id="t4" base="into" pos="IN" prep="t3"
+31	34	tok id="t5" base="the" pos="DT" det="t6"
+35	39	tok id="t6" base="girl" pos="NN" poss="t8"
+40	42	tok id="t7" base="'s" pos="POS" possessive="t6"
+43	51	tok id="t8" base="bathroom" pos="NN" pobj="t4"
+52	53	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

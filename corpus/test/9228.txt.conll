@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	clashes	clash	NNS	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	great	great	JJ	_	7	amod
+7	deal	deal	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	bloodshed	bloodshed	NN	_	8	pobj
+10	,	,	,	_	7	punct
+11	including	include	VBG	_	7	prep
+12	the	the	DT	_	13	det
+13	deaths	death	NNS	_	11	pobj
+14	of	of	IN	_	13	prep
+15	at	at	IN	_	17	quantmod
+16	least	least	JJS	_	15	mwe
+17	1200	1200	CD	_	18	num
+18	civilians	civilian	NNS	_	14	pobj
+19	and	and	CC	_	18	cc
+20	180	180	CD	_	22	num
+21	Pakistani	pakistani	JJ	_	22	amod
+22	soldiers	soldier	NNS	_	18	conj
+23	.	.	.	_	3	punct
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	fairy	fairy	NN	_	3	nn
+3	tale	tale	NN	_	4	nsubj
+4	describes	describe	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	giant	giant	JJ	_	4	dobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	pair	pair	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	magic	magic	JJ	_	12	amod
+12	boots	boot	NNS	_	10	pobj
+13	that	that	WDT	_	14	nsubj
+14	allow	allow	VBP	_	9	rcmod
+15	the	the	DT	_	16	det
+16	wearer	wearer	NN	_	14	dobj
+17	to	to	TO	_	18	aux
+18	cover	cover	VB	_	14	xcomp
+19	seven	seven	CD	_	20	num
+20	leagues	league	NNS	_	18	dobj
+21	in	in	IN	_	18	prep
+22	one	one	CD	_	23	num
+23	stride	stride	NN	_	21	pobj
+24	.	.	.	_	4	punct
+

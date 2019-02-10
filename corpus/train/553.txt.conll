@@ -1,0 +1,18 @@
+1	A	a	DT	_	4	det
+2	300-pound	300-pound	JJ	_	4	amod
+3	Siberian	siberian	JJ	_	4	amod
+4	tiger	tiger	NN	_	0	ROOT
+5	that	that	WDT	_	6	nsubj
+6	killed	kill	VBD	_	4	rcmod
+7	a	a	DT	_	8	det
+8	visitor	visitor	NN	_	9	nsubj
+9	escaped	escape	VBD	_	6	ccomp
+10	from	from	IN	_	9	prep
+11	its	its	PRP$	_	13	poss
+12	high-walled	high-walled	JJ	_	13	amod
+13	pen	pen	NN	_	10	pobj
+14	on	on	IN	_	9	prep
+15	its	its	PRP$	_	16	poss
+16	own	own	JJ	_	14	pobj
+17	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	Indymedia	Indymedia	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	collective	collective	JJ	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	independent	independent	JJ	_	8	amod
+7	media	media	NNS	_	8	nn
+8	organizations	organization	NNS	_	5	pobj
+9	and	and	CC	_	8	cc
+10	hundreds	hundred	NNS	_	8	conj
+11	of	of	IN	_	10	prep
+12	journalists	journalist	NNS	_	11	pobj
+13	offering	offer	VBG	_	12	vmod
+14	grassroots	grassroot	NNS	_	13	dobj
+15	,	,	,	_	14	punct
+16	non-corporate	non-corporate	JJ	_	17	amod
+17	coverage	coverage	NN	_	14	appos
+18	.	.	.	_	4	punct
+

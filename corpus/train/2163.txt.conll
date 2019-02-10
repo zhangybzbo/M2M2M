@@ -1,0 +1,26 @@
+1	Many	many	JJ	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	passengers	passenger	NNS	_	2	pobj
+5	took	take	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	shuttle	shuttle	NN	_	5	dobj
+8	to	to	TO	_	5	prep
+9	town	town	NN	_	8	pobj
+10	and	and	CC	_	5	cc
+11	turned	turn	VBD	_	5	conj
+12	around	around	RP	_	11	prt
+13	in	in	IN	_	11	prep
+14	ten	ten	CD	_	15	num
+15	minutes	minute	NNS	_	13	pobj
+16	retreating	retreat	VBG	_	15	vmod
+17	back	back	RB	_	16	advmod
+18	to	to	TO	_	16	prep
+19	the	the	DT	_	20	det
+20	comfort	comfort	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	24	det
+23	air-conditioned	air-conditioned	JJ	_	24	amod
+24	ship	ship	NN	_	21	pobj
+25	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+1	Preeclampsia	preeclampsium	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	still	still	RB	_	4	advmod
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	leading	lead	VBG	_	8	amod
+8	causes	cause	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	maternal	maternal	JJ	_	11	amod
+11	mortality	mortality	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

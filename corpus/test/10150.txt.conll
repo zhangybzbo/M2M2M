@@ -1,0 +1,21 @@
+1	Professionals	professional	NNS	_	0	ROOT
+2	from	from	IN	_	1	prep
+3	streams	stream	NNS	_	2	pobj
+4	like	like	IN	_	11	mark
+5	law	law	NN	_	11	nsubj
+6	,	,	,	_	5	punct
+7	engineering	engineering	NN	_	5	conj
+8	,	,	,	_	5	punct
+9	agriculture	agriculture	NN	_	5	conj
+10	also	also	RB	_	11	advmod
+11	have	have	VBP	_	3	rcmod
+12	opening	opening	NN	_	11	dobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	management	management	NN	_	16	nn
+16	cadre	cadre	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	various	various	JJ	_	19	amod
+19	banks	bank	NNS	_	17	pobj
+20	.	.	.	_	1	punct
+

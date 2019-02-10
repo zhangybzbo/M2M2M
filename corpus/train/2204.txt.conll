@@ -1,0 +1,23 @@
+1	French-style	french-style	JJ	_	2	amod
+2	pate	pate	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	in	in	IN	_	6	prep
+5	fact	fact	NN	_	4	pobj
+6	easier	easier	JJR	_	3	dep
+7	to	to	TO	_	8	aux
+8	make	make	VB	_	6	xcomp
+9	than	than	IN	_	8	prep
+10	my	my	PRP$	_	11	poss
+11	grandmother	grandmother	NN	_	14	poss
+12	's	's	POS	_	11	possessive
+13	chopped	chop	VBN	_	14	amod
+14	liver	liver	NN	_	9	pobj
+15	,	,	,	_	14	punct
+16	which	which	WDT	_	17	nsubj
+17	called	call	VBD	_	14	rcmod
+18	for	for	IN	_	17	prep
+19	rendering	render	VBG	_	18	pcomp
+20	chicken	chicken	NN	_	21	nn
+21	fat	fat	NN	_	19	dobj
+22	.	.	.	_	3	punct
+

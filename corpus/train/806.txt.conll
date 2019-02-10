@@ -1,0 +1,25 @@
+1	For	for	IN	_	12	prep
+2	decades	decade	NNS	_	1	pobj
+3	,	,	,	_	12	punct
+4	most	most	JJS	_	12	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	nation	nation	NN	_	10	poss
+8	's	's	POS	_	7	possessive
+9	renewable	renewable	JJ	_	10	amod
+10	power	power	NN	_	5	pobj
+11	has	have	VBZ	_	12	aux
+12	come	come	VBN	_	0	ROOT
+13	from	from	IN	_	12	prep
+14	dams	dam	NNS	_	13	pobj
+15	,	,	,	_	14	punct
+16	which	which	WDT	_	17	nsubj
+17	supplied	supply	VBD	_	14	rcmod
+18	cheap	cheap	JJ	_	19	amod
+19	electricity	electricity	NN	_	17	dobj
+20	without	without	IN	_	17	prep
+21	requiring	require	VBG	_	20	pcomp
+22	fossil	fossil	JJ	_	23	amod
+23	fuels	fuel	NNS	_	21	dobj
+24	.	.	.	_	12	punct
+

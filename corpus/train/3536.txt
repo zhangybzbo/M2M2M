@@ -1,0 +1,1 @@
+Only the session identifier is stored in a cookie whether database is used or not .

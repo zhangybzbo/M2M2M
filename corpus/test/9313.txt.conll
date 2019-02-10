@@ -1,0 +1,18 @@
+1	And	and	CC	_	9	cc
+2	again	again	RB	_	9	advmod
+3	,	,	,	_	9	punct
+4	the	the	DT	_	6	det
+5	shirt	shirt	NN	_	6	nn
+6	sleeve	sleeve	NN	_	9	nsubj
+7	is	be	VBZ	_	9	cop
+8	too	too	RB	_	9	advmod
+9	long	long	RB	_	0	ROOT
+10	,	,	,	_	9	punct
+11	but	but	CC	_	9	cc
+12	the	the	DT	_	13	det
+13	jacket	jacket	NN	_	16	nsubj
+14	is	be	VBZ	_	16	cop
+15	too	too	RB	_	16	advmod
+16	short	short	JJ	_	9	conj
+17	.	.	.	_	9	punct
+

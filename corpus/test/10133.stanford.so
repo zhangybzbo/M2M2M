@@ -1,0 +1,12 @@
+0	78	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="but" pos="CC" cc="t3"
+4	14	tok id="t1" base="scientist" pos="NNS" nsubj="t3"
+15	27	tok id="t2" base="successfully" pos="RB" advmod="t3"
+28	35	tok id="t3" base="treat" pos="VBN" ROOT="ROOT"
+36	39	tok id="t4" base="the" pos="DT" det="t5"
+40	44	tok id="t5" base="mouse" pos="NNS" dobj="t3"
+45	49	tok id="t6" base="with" pos="IN" prep="t3"
+50	64	tok id="t7" base="broad-spectrum" pos="JJ" amod="t8"
+65	76	tok id="t8" base="antiboitic" pos="NNS" pobj="t6"
+77	78	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

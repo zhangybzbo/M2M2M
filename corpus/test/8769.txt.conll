@@ -1,0 +1,25 @@
+1	Crucell	Crucell	NNP	_	10	nsubj
+2	,	,	,	_	1	punct
+3	a	a	DT	_	5	det
+4	Dutch	dutch	JJ	_	5	amod
+5	vaccine	vaccine	NN	_	1	appos
+6	and	and	CC	_	5	cc
+7	biopharmaceuticals	biopharmaceutical	NNS	_	8	nn
+8	maker	maker	NN	_	5	conj
+9	,	,	,	_	1	punct
+10	said	say	VBD	_	0	ROOT
+11	yesterday	yesterday	NN	_	10	tmod
+12	that	that	IN	_	14	mark
+13	it	it	PRP	_	14	nsubj
+14	was	be	VBD	_	10	ccomp
+15	in	in	IN	_	14	prep
+16	friendly	friendly	JJ	_	19	amod
+17	but	but	CC	_	16	cc
+18	early-stage	early-stage	JJ	_	16	conj
+19	talks	talk	NNS	_	15	pobj
+20	over	over	IN	_	19	prep
+21	a	a	DT	_	23	det
+22	potential	potential	JJ	_	23	amod
+23	takeover	takeover	NN	_	20	pobj
+24	.	.	.	_	10	punct
+

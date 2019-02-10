@@ -1,0 +1,1 @@
+The system uses routings for the part number identified in the work order to determine workstation assignment and loading .

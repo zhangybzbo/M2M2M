@@ -1,0 +1,19 @@
+1	As	as	IN	_	10	prep
+2	the	the	DT	_	3	det
+3	years	year	NNS	_	1	pobj
+4	passed	pass	VBN	_	3	vmod
+5	,	,	,	_	10	punct
+6	some	some	DT	_	10	nsubj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	invaders	invader	NNS	_	7	pobj
+10	graduated	graduate	VBD	_	0	ROOT
+11	from	from	IN	_	10	prep
+12	pity	pity	NN	_	11	pobj
+13	to	to	TO	_	10	prep
+14	an	a	DT	_	15	det
+15	emotion	emotion	NN	_	13	pobj
+16	resembling	resemble	VBG	_	15	vmod
+17	guilt	guilt	NN	_	16	dobj
+18	.	.	.	_	10	punct
+

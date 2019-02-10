@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	holy	holy	JJ	_	3	amod
+3	water	water	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	bottle	bottle	NN	_	8	nn
+8	container	container	NN	_	5	pobj
+9	in	in	IN	_	4	prep
+10	the	the	DT	_	11	det
+11	form	form	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	Virgin	Virgin	NNP	_	15	nn
+15	Mary	Mary	NNP	_	12	pobj
+16	.	.	.	_	4	punct
+

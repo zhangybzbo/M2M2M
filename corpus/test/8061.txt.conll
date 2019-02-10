@@ -1,0 +1,18 @@
+1	Red	Red	NNP	_	3	nn
+2	grape	grape	NN	_	3	nn
+3	wine	wine	NN	_	8	nsubj
+4	is	be	VBZ	_	8	cop
+5	an	a	DT	_	8	det
+6	alcoholic	alcoholic	JJ	_	8	amod
+7	fruit	fruit	NN	_	8	nn
+8	drink	drink	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	between	between	IN	_	9	pcomp
+11	10	10	CD	_	16	num
+12	and	and	CC	_	11	cc
+13	14	14	CD	_	11	conj
+14	%	%	NN	_	16	nn
+15	alcoholic	alcoholic	JJ	_	16	amod
+16	strength	strength	NN	_	10	pobj
+17	.	.	.	_	8	punct
+

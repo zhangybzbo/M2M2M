@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	level	level	NN	_	3	nn
+3	surface	surface	NN	_	14	nsubj
+4	closest	closest	JJS	_	3	amod
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	MSS	MSS	NNP	_	5	pobj
+8	,	,	,	_	7	punct
+9	known	know	VBN	_	7	vmod
+10	as	as	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	geoid	geoid	NN	_	10	pobj
+13	,	,	,	_	7	punct
+14	departs	depart	VBZ	_	0	ROOT
+15	from	from	IN	_	14	prep
+16	an	a	DT	_	17	det
+17	ellipsoid	ellipsoid	NN	_	15	pobj
+18	by	by	IN	_	14	prep
+19	about	about	IN	_	20	quantmod
+20	100	100	CD	_	21	num
+21	m	m	NN	_	18	pobj
+22	in	in	IN	_	14	prep
+23	each	each	DT	_	24	det
+24	direction	direction	NN	_	22	pobj
+25	.	.	.	_	14	punct
+

@@ -1,0 +1,21 @@
+1	State	State	NNP	_	2	nsubj
+2	abandoned	abandon	VBD	_	0	ROOT
+3	national	national	JJ	_	5	amod
+4	socio-cultural	socio-cultural	JJ	_	5	amod
+5	imperatives	imperative	NNS	_	2	dobj
+6	and	and	CC	_	2	cc
+7	rushed	rush	VBD	_	2	conj
+8	in	in	IN	_	7	prep
+9	to	to	TO	_	10	aux
+10	join	join	VB	_	8	pcomp
+11	the	the	DT	_	13	det
+12	scandalous	scandalous	JJ	_	13	amod
+13	community	community	NN	_	10	dobj
+14	and	and	CC	_	13	cc
+15	the	the	DT	_	16	det
+16	camaraderie	camaraderie	NN	_	13	conj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	tyrants	tyrant	NNS	_	17	pobj
+20	.	.	.	_	2	punct
+

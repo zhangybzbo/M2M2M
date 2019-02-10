@@ -1,0 +1,14 @@
+1	We	we	PRP	_	2	nsubj
+2	catch	catch	VBP	_	0	ROOT
+3	happiness	happiness	NN	_	2	dobj
+4	from	from	IN	_	2	prep
+5	friends	friend	NNS	_	4	pobj
+6	and	and	CC	_	5	cc
+7	family	family	NN	_	8	nn
+8	members	member	NNS	_	5	conj
+9	like	like	IN	_	2	prep
+10	an	a	DT	_	12	det
+11	emotional	emotional	JJ	_	12	amod
+12	virus	virus	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

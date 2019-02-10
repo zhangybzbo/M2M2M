@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	large	large	JJ	_	4	amod
+3	anti-neutrino	anti-neutrino	JJ	_	4	amod
+4	component	component	NN	_	7	nsubj
+5	is	be	VBZ	_	7	cop
+6	the	the	DT	_	7	det
+7	source	source	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	an	a	DT	_	11	det
+10	irreducible	irreducible	JJ	_	11	amod
+11	background	background	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

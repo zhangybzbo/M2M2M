@@ -1,0 +1,23 @@
+1	Thus	thus	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	the	the	DT	_	4	det
+4	princess	princess	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	born	bear	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	midst	midst	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	storm	storm	NN	_	10	pobj
+13	that	that	WDT	_	14	nsubj
+14	swept	sweep	VBD	_	12	rcmod
+15	over	over	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	world	world	NN	_	15	pobj
+18	in	in	IN	_	14	prep
+19	March	March	NNP	_	18	pobj
+20	,	,	,	_	19	punct
+21	1848	1848	CD	_	19	num
+22	.	.	.	_	6	punct
+

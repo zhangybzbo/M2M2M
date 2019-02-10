@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	drug	drug	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	low	low	JJ	_	6	amod
+6	half-life	half-life	NN	_	3	dobj
+7	that	that	WDT	_	8	nsubj
+8	makes	make	VBZ	_	6	rcmod
+9	it	it	PRP	_	10	nsubj
+10	ideal	ideal	JJ	_	8	xcomp
+11	for	for	IN	_	10	prep
+12	killing	killing	NN	_	11	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	susceptible	susceptible	JJ	_	16	amod
+16	bacteria	bacterium	NNS	_	13	pobj
+17	responsible	responsible	JJ	_	16	amod
+18	for	for	IN	_	17	prep
+19	sleeping	sleep	VBG	_	20	amod
+20	sickness	sickness	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

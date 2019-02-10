@@ -1,0 +1,3 @@
+T1	Term 85 90	cabal
+T2	Term 112 121	gangsters
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,21 @@
+1	Felt	feel	VBN	_	2	amod
+2	dots	dot	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	embroidered	embroider	VBN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	front	front	NN	_	5	pobj
+8	and	and	CC	_	7	cc
+9	sleeves	sleeve	NNS	_	7	conj
+10	of	of	IN	_	7	prep
+11	this	this	DT	_	12	det
+12	sweater	sweater	NN	_	10	pobj
+13	,	,	,	_	4	punct
+14	adding	add	VBG	_	4	vmod
+15	an	a	DT	_	17	det
+16	extra	extra	JJ	_	17	amod
+17	dimension	dimension	NN	_	14	dobj
+18	of	of	IN	_	17	prep
+19	fun	fun	NN	_	18	pobj
+20	.	.	.	_	4	punct
+

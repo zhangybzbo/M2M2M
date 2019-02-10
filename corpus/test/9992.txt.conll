@@ -1,0 +1,21 @@
+1	Views	view	NNS	_	4	nn
+2	and	and	CC	_	1	cc
+3	camera	camera	NN	_	1	conj
+4	angles	angle	NNS	_	13	nsubj
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	upper	upper	JJ	_	8	amod
+8	deck	deck	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	bus	bus	NN	_	9	pobj
+12	are	be	VBP	_	13	cop
+13	good	good	JJ	_	0	ROOT
+14	-	-	:	_	13	punct
+15	but	but	CC	_	13	cc
+16	it	it	PRP	_	18	nsubj
+17	can	can	MD	_	18	aux
+18	get	get	VB	_	13	conj
+19	wet	wet	JJ	_	18	acomp
+20	.	.	.	_	13	punct
+

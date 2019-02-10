@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	band	band	NN	_	3	nsubj
+3	performs	perform	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	high	high	JJ	_	7	amod
+7	level	level	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	musicality	musicality	NN	_	8	pobj
+10	,	,	,	_	9	punct
+11	energy	energy	NN	_	9	conj
+12	and	and	CC	_	9	cc
+13	spirit	spirit	NN	_	9	conj
+14	while	while	IN	_	3	prep
+15	combining	combine	VBG	_	14	pcomp
+16	sensitive	sensitive	JJ	_	18	amod
+17	group	group	NN	_	18	nn
+18	interplay	interplay	NN	_	15	dobj
+19	with	with	IN	_	15	prep
+20	dynamic	dynamic	JJ	_	22	amod
+21	solo	solo	NN	_	22	nn
+22	improvisations	improvisation	NNS	_	19	pobj
+23	.	.	.	_	3	punct
+

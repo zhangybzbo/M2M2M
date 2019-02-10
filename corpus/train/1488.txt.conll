@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	report	report	NN	_	3	nsubj
+3	informed	inform	VBN	_	0	ROOT
+4	about	about	IN	_	3	prep
+5	casualties	casualty	NNS	_	4	pobj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	area	area	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

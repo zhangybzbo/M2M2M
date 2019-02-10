@@ -1,0 +1,1 @@
+In a power system consisting of transmission lines connected together and to two or more generators , the rotors of the generators rotate at a constant speed .

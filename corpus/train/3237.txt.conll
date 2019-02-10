@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	sun	sun	NN	_	3	nsubj
+3	emerged	emerge	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	pillow	pillow	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	white	white	JJ	_	9	amod
+9	clouds	cloud	NNS	_	7	pobj
+10	.	.	.	_	3	punct
+

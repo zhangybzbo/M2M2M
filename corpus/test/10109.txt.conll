@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	aquarium	aquarium	NN	_	3	nn
+3	wall	wall	NN	_	8	nsubj
+4	was	be	VBD	_	8	cop
+5	truly	truly	RB	_	8	advmod
+6	the	the	DT	_	8	det
+7	best	best	JJS	_	8	amod
+8	part	part	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	experience	experience	NN	_	9	pobj
+12	here	here	RB	_	11	advmod
+13	.	.	.	_	8	punct
+

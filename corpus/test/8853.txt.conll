@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	name	name	NN	_	5	nsubjpass
+3	Mirumo	Mirumo	NNP	_	2	dep
+4	was	be	VBD	_	5	auxpass
+5	derived	derive	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	cartoon	cartoon	NN	_	9	nn
+9	series	series	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	3	nsubj
+3	drafted	draft	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	great	great	JJ	_	6	amod
+6	player	player	NN	_	3	dobj
+7	in	in	IN	_	3	prep
+8	2002	2002	CD	_	7	pobj
+9	when	when	WRB	_	11	advmod
+10	they	they	PRP	_	11	nsubj
+11	chose	choose	VBD	_	3	advcl
+12	Julius	Julius	NNP	_	13	nn
+13	Peppers	Peppers	NNP	_	11	dobj
+14	second	second	JJ	_	15	amod
+15	overall	overall	NN	_	13	dep
+16	.	.	.	_	3	punct
+

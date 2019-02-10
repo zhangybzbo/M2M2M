@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="user" pos="NN" nsubj="t3"
+9	12	tok id="t2" base="have" pos="VBZ" aux="t3"
+13	20	tok id="t3" base="enter" pos="VBN" ROOT="ROOT"
+21	24	tok id="t4" base="he" pos="PRP$" poss="t5"
+25	33	tok id="t5" base="password" pos="NN" dobj="t3"
+34	38	tok id="t6" base="into" pos="IN" prep="t3"
+39	41	tok id="t7" base="a" pos="DT" det="t9"
+42	52	tok id="t8" base="authorized" pos="JJ" amod="t9"
+53	59	tok id="t9" base="system" pos="NN" pobj="t6"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

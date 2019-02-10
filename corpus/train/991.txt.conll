@@ -1,0 +1,15 @@
+1	Barrymore	Barrymore	NNP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	singing	singing	NN	_	0	ROOT
+4	while	while	IN	_	5	mark
+5	painting	paint	VBG	_	3	advcl
+6	the	the	DT	_	7	det
+7	flowers	flower	NNS	_	5	dobj
+8	on	on	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	wall	wall	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	shop	shop	NN	_	11	pobj
+14	.	.	.	_	3	punct
+

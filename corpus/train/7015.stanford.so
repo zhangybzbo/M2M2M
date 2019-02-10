@@ -1,0 +1,13 @@
+0	74	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="Gaza" pos="NNP" ROOT="ROOT"
+5	14	tok id="t1" base="follow" pos="VBG" prep="t0"
+15	18	tok id="t2" base="the" pos="DT" det="t4"
+19	29	tok id="t3" base="widespread" pos="JJ" amod="t4"
+30	41	tok id="t4" base="destruction" pos="NN" pobj="t1"
+42	48	tok id="t5" base="cause" pos="VBN" vmod="t4"
+49	51	tok id="t6" base="by" pos="IN" prep="t5"
+52	55	tok id="t7" base="the" pos="DT" det="t9"
+56	63	tok id="t8" base="israeli" pos="JJ" amod="t9"
+64	72	tok id="t9" base="invasion" pos="NN" pobj="t6"
+73	74	tok id="t10" base="-PERIOD-" pos="." punct="t0"
+

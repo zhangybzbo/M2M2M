@@ -1,0 +1,10 @@
+1	Gol	Gol	NNP	_	2	nn
+2	Airlines	Airlines	NNPS	_	3	nsubj
+3	started	start	VBD	_	0	ROOT
+4	flights	flight	NNS	_	3	dobj
+5	to	to	TO	_	4	prep
+6	Middle	Middle	NNP	_	8	nn
+7	Eastern	Eastern	NNP	_	8	nn
+8	countries	country	NNS	_	5	pobj
+9	.	.	.	_	3	punct
+

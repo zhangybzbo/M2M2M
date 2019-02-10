@@ -1,0 +1,3 @@
+T1	Term 9 16	cameras
+T2	Term 49 55	trains
+R1	Entity-Destination Arg1:T1 Arg2:T2

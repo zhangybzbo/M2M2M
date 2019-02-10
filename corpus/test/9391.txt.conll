@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	opening	opening	NN	_	9	nsubj
+3	and	and	CC	_	2	cc
+4	closing	closing	NN	_	2	conj
+5	of	of	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	heart	heart	NN	_	8	nn
+8	valves	valve	NNS	_	5	pobj
+9	produce	produce	VBP	_	0	ROOT
+10	the	the	DT	_	11	det
+11	sound	sound	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	heartbeat	heartbeat	NN	_	12	pobj
+15	.	.	.	_	9	punct
+

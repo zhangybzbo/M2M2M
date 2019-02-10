@@ -1,0 +1,12 @@
+1	The	the	DT	_	4	det
+2	illicit	illicit	JJ	_	4	amod
+3	guns	gun	NNS	_	4	nn
+4	flow	flow	NN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	country	country	NN	_	5	pobj
+8	through	through	IN	_	4	prep
+9	Mexican	mexican	JJ	_	10	amod
+10	gangs	gang	NNS	_	8	pobj
+11	.	.	.	_	4	punct
+

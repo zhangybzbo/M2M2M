@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	nsubj
+2	included	include	VBD	_	0	ROOT
+3	writing	write	VBG	_	2	xcomp
+4	an	a	DT	_	5	det
+5	account	account	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	their	they	PRP$	_	8	poss
+8	character	character	NN	_	6	pobj
+9	and	and	CC	_	5	cc
+10	a	a	DT	_	11	det
+11	speech	speech	NN	_	5	conj
+12	on	on	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	subject	subject	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	child	child	NN	_	17	nn
+17	labour	labour	NN	_	15	pobj
+18	.	.	.	_	2	punct
+

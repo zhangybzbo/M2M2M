@@ -1,0 +1,7 @@
+1	Cancellations	cancellation	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	notified	notify	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	mail	mail	NN	_	4	pobj
+6	.	.	.	_	3	punct
+

@@ -1,0 +1,20 @@
+1	A	a	DT	_	2	det
+2	group	group	NN	_	15	nsubj
+3	of	of	IN	_	2	prep
+4	monkeys	monkey	NNS	_	3	pobj
+5	who	who	WP	_	6	nsubj
+6	escaped	escape	VBD	_	4	rcmod
+7	from	from	IN	_	6	prep
+8	an	a	DT	_	9	det
+9	enclosure	enclosure	NN	_	7	pobj
+10	at	at	IN	_	9	prep
+11	Edinburgh	Edinburgh	NNP	_	12	nn
+12	Zoo	Zoo	NNP	_	10	pobj
+13	are	be	VBP	_	15	cop
+14	one	one	CD	_	15	num
+15	step	step	NN	_	0	ROOT
+16	from	from	IN	_	15	prep
+17	being	be	VBG	_	18	auxpass
+18	caught	catch	VBN	_	16	pcomp
+19	.	.	.	_	15	punct
+

@@ -1,0 +1,25 @@
+1	After	after	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	doctor	doctor	NN	_	4	nsubj
+4	performs	perform	VBZ	_	21	advcl
+5	a	a	DT	_	6	det
+6	Caesarian	caesarian	NN	_	4	dobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	12	det
+9	jackknife	jackknife	NN	_	12	nn
+10	and	and	CC	_	9	cc
+11	fishing	fishing	NN	_	9	conj
+12	leaders	leader	NNS	_	7	pobj
+13	,	,	,	_	4	punct
+14	and	and	CC	_	4	cc
+15	the	the	DT	_	16	det
+16	infant	infant	NN	_	18	nsubjpass
+17	is	be	VBZ	_	18	auxpass
+18	delivered	deliver	VBN	_	4	conj
+19	,	,	,	_	21	punct
+20	he	he	PRP	_	21	nsubj
+21	examines	examine	VBZ	_	0	ROOT
+22	the	the	DT	_	23	det
+23	husband	husband	NN	_	21	dobj
+24	.	.	.	_	21	punct
+

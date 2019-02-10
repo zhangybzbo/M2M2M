@@ -1,0 +1,21 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	an	a	DT	_	4	det
+4	exhaust	exhaust	NN	_	5	nsubj
+5	vent	vent	VB	_	2	ccomp
+6	and	and	CC	_	5	cc
+7	a	a	DT	_	8	det
+8	cable	cable	NN	_	5	conj
+9	to	to	TO	_	10	aux
+10	start	start	VB	_	8	vmod
+11	the	the	DT	_	12	det
+12	engine	engine	NN	_	10	dobj
+13	,	,	,	_	5	punct
+14	just	just	RB	_	15	advmod
+15	like	like	IN	_	5	prep
+16	a	a	DT	_	17	det
+17	petrol	petrol	NN	_	15	pobj
+18	driven	drive	VBN	_	19	amod
+19	lawnmower	lawnmower	NN	_	17	dep
+20	.	.	.	_	2	punct
+

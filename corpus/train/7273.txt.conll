@@ -1,0 +1,19 @@
+1	Some	some	DT	_	2	det
+2	plants	plant	NNS	_	6	nsubj
+3	and	and	CC	_	2	cc
+4	animals	animal	NNS	_	2	conj
+5	are	be	VBP	_	6	aux
+6	facing	face	VBG	_	0	ROOT
+7	extinction	extinction	NN	_	6	dobj
+8	from	from	IN	_	7	prep
+9	Alberta	Alberta	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	lakes	lake	NNS	_	8	pobj
+12	,	,	,	_	11	punct
+13	rivers	river	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	mountains	mountain	NNS	_	11	appos
+16	and	and	CC	_	15	cc
+17	prairies	prairie	NNS	_	15	conj
+18	.	.	.	_	6	punct
+

@@ -1,0 +1,27 @@
+1	First	first	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	5	det
+4	H5N1	h5n1	NN	_	5	nn
+5	virus	virus	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	far	far	RB	_	12	advmod
+10	the	the	DT	_	12	det
+11	greatest	greatest	JJS	_	12	amod
+12	number	number	NN	_	8	pobj
+13	of	of	IN	_	12	prep
+14	human	human	JJ	_	15	amod
+15	cases	case	NNS	_	13	pobj
+16	of	of	IN	_	15	prep
+17	very	very	RB	_	18	advmod
+18	severe	severe	JJ	_	19	amod
+19	disease	disease	NN	_	16	pobj
+20	and	and	CC	_	12	cc
+21	the	the	DT	_	23	det
+22	greatest	greatest	JJS	_	23	amod
+23	number	number	NN	_	12	conj
+24	of	of	IN	_	23	prep
+25	deaths	death	NNS	_	24	pobj
+26	.	.	.	_	7	punct
+

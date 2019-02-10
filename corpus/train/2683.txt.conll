@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	Jungle	jungle	NN	_	3	nn
+3	Book	book	NN	_	11	nsubj
+4	,	,	,	_	3	punct
+5	because	because	IN	_	6	mwe
+6	of	of	IN	_	3	prep
+7	its	its	PRP$	_	9	poss
+8	moral	moral	JJ	_	9	amod
+9	tone	tone	NN	_	6	pobj
+10	,	,	,	_	3	punct
+11	came	come	VBD	_	0	ROOT
+12	to	to	TO	_	14	aux
+13	be	be	VB	_	14	auxpass
+14	used	use	VBN	_	11	xcomp
+15	as	as	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	motivational	motivational	JJ	_	18	amod
+18	book	book	NN	_	15	pobj
+19	by	by	IN	_	14	prep
+20	the	the	DT	_	21	det
+21	movement	movement	NN	_	19	pobj
+22	.	.	.	_	11	punct
+

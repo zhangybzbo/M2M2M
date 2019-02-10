@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	det
+2	guide	guide	NN	_	3	nsubj
+3	outlines	outline	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	issues	issue	NNS	_	3	dobj
+6	to	to	TO	_	7	aux
+7	consider	consider	VB	_	3	xcomp
+8	before	before	IN	_	7	prep
+9	submitting	submit	VBG	_	8	pcomp
+10	your	you	PRP$	_	13	poss
+11	Junior	Junior	NNP	_	13	nn
+12	Reporter	reporter	NN	_	13	nn
+13	pieces	piece	NNS	_	9	dobj
+14	.	.	.	_	3	punct
+

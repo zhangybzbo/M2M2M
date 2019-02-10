@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	connector	connector	NN	_	3	nn
+3	device	device	NN	_	4	nsubj
+4	comprises	comprise	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	plurality	plurality	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	host	host	NN	_	12	nn
+9	computer	computer	NN	_	12	nn
+10	system	system	NN	_	12	nn
+11	expansion	expansion	NN	_	12	nn
+12	slots	slot	NNS	_	7	pobj
+13	for	for	IN	_	6	prep
+14	coupling	coupling	NN	_	13	pobj
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	18	det
+17	CPU	CPU	NNP	_	18	nn
+18	bus	bus	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	23	det
+21	host	host	NN	_	23	nn
+22	computer	computer	NN	_	23	nn
+23	system	system	NN	_	19	pobj
+24	.	.	.	_	4	punct
+

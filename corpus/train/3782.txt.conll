@@ -1,0 +1,21 @@
+1	The	the	DT	_	6	det
+2	electromagnetic	electromagnetic	JJ	_	6	amod
+3	-LRB-	-lrb-	-LRB-	_	4	punct
+4	EM	em	NN	_	2	appos
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	radiation	radiation	NN	_	10	nsubj
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	sun	sun	NN	_	7	pobj
+10	arrives	arrive	VBZ	_	0	ROOT
+11	mostly	mostly	RB	_	10	advmod
+12	in	in	IN	_	10	prep
+13	the	the	DT	_	14	det
+14	form	form	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	visible	visible	JJ	_	19	amod
+17	and	and	CC	_	16	cc
+18	infrared	infrared	JJ	_	16	conj
+19	wavelengths	wavelength	NNS	_	15	pobj
+20	.	.	.	_	10	punct
+

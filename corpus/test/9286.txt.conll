@@ -1,0 +1,17 @@
+1	It	it	PRP	_	0	ROOT
+2	's	be	VBZ	_	1	dep
+3	about	about	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	corrupt	corrupt	JJ	_	6	amod
+6	policeman	policeman	NN	_	3	pobj
+7	in	in	IN	_	2	prep
+8	a	a	DT	_	11	det
+9	corrupt	corrupt	JJ	_	11	amod
+10	police	police	NN	_	11	nn
+11	force	force	NN	_	7	pobj
+12	who	who	WP	_	13	nsubj
+13	changes	change	VBZ	_	11	rcmod
+14	his	he	PRP$	_	15	poss
+15	ways	way	NNS	_	13	dobj
+16	.	.	.	_	1	punct
+

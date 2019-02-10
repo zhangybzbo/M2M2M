@@ -1,0 +1,23 @@
+1	I	I	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	blocked	block	VBN	_	0	ROOT
+4	out	out	RP	_	3	prt
+5	the	the	DT	_	7	det
+6	PIN	pin	NN	_	7	nn
+7	code	code	NN	_	3	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	phone	phone	NN	_	8	pobj
+11	-LRB-	-lrb-	-LRB-	_	15	punct
+12	Please	please	UH	_	15	discourse
+13	do	do	VB	_	15	aux
+14	not	not	RB	_	15	neg
+15	give	give	VB	_	3	parataxis
+16	this	this	DT	_	17	det
+17	code	code	NN	_	15	dobj
+18	to	to	TO	_	15	prep
+19	the	the	DT	_	20	det
+20	customer	customer	NN	_	18	pobj
+21	-RRB-	-rrb-	-RRB-	_	15	punct
+22	.	.	.	_	3	punct
+

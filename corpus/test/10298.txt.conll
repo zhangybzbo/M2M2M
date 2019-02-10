@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	state	state	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	source	source	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	capital	capital	NN	_	6	pobj
+8	,	,	,	_	7	punct
+9	raw	raw	JJ	_	10	amod
+10	materials	material	NNS	_	7	conj
+11	and	and	CC	_	7	cc
+12	labour	labour	NN	_	7	conj
+13	.	.	.	_	5	punct
+

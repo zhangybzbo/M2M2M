@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	det
+2	subject	subject	NN	_	3	nsubj
+3	has	have	VBZ	_	7	aux
+4	over	over	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	years	year	NNS	_	4	pobj
+7	become	become	VBP	_	0	ROOT
+8	the	the	DT	_	9	det
+9	topic	topic	NN	_	7	xcomp
+10	for	for	IN	_	9	prep
+11	much	much	JJ	_	12	amod
+12	discussion	discussion	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

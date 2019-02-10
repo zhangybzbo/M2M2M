@@ -1,0 +1,16 @@
+1	For	for	IN	_	7	prep
+2	years	year	NNS	_	1	pobj
+3	now	now	RB	_	7	advmod
+4	my	my	PRP$	_	5	poss
+5	daughter	daughter	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	put	put	VBN	_	0	ROOT
+8	up	up	RP	_	7	prt
+9	with	with	IN	_	7	prep
+10	verbal	verbal	JJ	_	11	amod
+11	harssement	harssement	NN	_	9	pobj
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	girl	girl	NN	_	12	pobj
+15	.	.	.	_	7	punct
+

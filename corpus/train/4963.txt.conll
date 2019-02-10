@@ -1,0 +1,26 @@
+1	Stripped	strip	VBN	_	10	vmod
+2	even	even	RB	_	3	advmod
+3	of	of	IN	_	1	prep
+4	reservation	reservation	NN	_	5	nn
+5	rights	rights	NNS	_	3	pobj
+6	,	,	,	_	10	punct
+7	the	the	DT	_	9	det
+8	few	few	JJ	_	9	amod
+9	survivors	survivor	NNS	_	10	nsubj
+10	drifted	drift	VBD	_	0	ROOT
+11	between	between	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	four	four	CD	_	14	num
+14	winds	wind	NNS	_	11	pobj
+15	on	on	IN	_	14	prep
+16	their	they	PRP$	_	18	poss
+17	final	final	JJ	_	18	amod
+18	journey	journey	NN	_	15	pobj
+19	into	into	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	bitter	bitter	JJ	_	22	amod
+22	rain	rain	NN	_	19	pobj
+23	of	of	IN	_	22	prep
+24	tears	tear	NNS	_	23	pobj
+25	.	.	.	_	10	punct
+

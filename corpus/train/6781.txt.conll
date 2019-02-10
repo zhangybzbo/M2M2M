@@ -1,0 +1,19 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	stardust	stardust	JJ	_	0	ROOT
+4	that	that	IN	_	5	nsubj
+5	remains	remain	VBZ	_	3	ccomp
+6	from	from	IN	_	5	prep
+7	previous	previous	JJ	_	8	amod
+8	cycles	cycle	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	evolution	evolution	NN	_	9	pobj
+11	,	,	,	_	5	punct
+12	cycles	cycle	NNS	_	5	dep
+13	without	without	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	beginning	beginning	NN	_	13	pobj
+16	or	or	CC	_	15	cc
+17	end	end	NN	_	15	conj
+18	.	.	.	_	3	punct
+

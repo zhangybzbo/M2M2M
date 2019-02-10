@@ -1,0 +1,26 @@
+1	Officials	official	NNS	_	11	nsubj
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	Northern	northern	JJ	_	6	amod
+5	Chinese	chinese	JJ	_	6	amod
+6	province	province	NN	_	2	pobj
+7	of	of	IN	_	6	prep
+8	Inner	Inner	NNP	_	9	nn
+9	Mongolia	Mongolia	NNP	_	7	pobj
+10	have	have	VBP	_	11	aux
+11	mobilized	mobilize	VBN	_	0	ROOT
+12	33,000	33,000	CD	_	13	num
+13	people	people	NNS	_	11	dobj
+14	to	to	TO	_	15	aux
+15	stop	stop	VB	_	11	xcomp
+16	a	a	DT	_	17	det
+17	swarm	swarm	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	locusts	locust	NNS	_	21	nn
+20	267	267	CD	_	21	num
+21	miles	mile	NNS	_	18	pobj
+22	outside	outside	IN	_	21	prep
+23	of	of	IN	_	22	pcomp
+24	Beijing	Beijing	NNP	_	23	pobj
+25	.	.	.	_	11	punct
+

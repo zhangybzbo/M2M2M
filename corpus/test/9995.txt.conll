@@ -1,0 +1,24 @@
+1	They	they	PRP	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	added	add	VBN	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	photograph	photograph	NN	_	4	pobj
+7	by	by	IN	_	3	prep
+8	an	a	DT	_	10	det
+9	unknown	unknown	JJ	_	10	amod
+10	hand	hand	NN	_	7	pobj
+11	after	after	IN	_	16	mark
+12	the	the	DT	_	13	det
+13	picture	picture	NN	_	16	nsubj
+14	had	have	VBD	_	16	aux
+15	been	be	VBN	_	16	aux
+16	circulating	circulate	VBG	_	3	advcl
+17	on	on	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	Internet	internet	NN	_	17	pobj
+20	for	for	IN	_	16	prep
+21	several	several	JJ	_	22	amod
+22	years	year	NNS	_	20	pobj
+23	.	.	.	_	3	punct
+

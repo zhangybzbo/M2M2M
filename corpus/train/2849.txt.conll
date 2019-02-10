@@ -1,0 +1,14 @@
+1	Pulling	pull	VBG	_	12	dep
+2	out	out	RP	_	1	prt
+3	a	a	DT	_	4	det
+4	bottle	bottle	NN	_	1	dobj
+5	with	with	IN	_	4	prep
+6	purple	purple	JJ	_	7	amod
+7	fluid	fluid	NN	_	5	pobj
+8	in	in	IN	_	1	prep
+9	it	it	PRP	_	8	pobj
+10	,	,	,	_	12	punct
+11	he	he	PRP	_	12	nsubj
+12	smiled	smile	VBD	_	0	ROOT
+13	.	.	.	_	12	punct
+

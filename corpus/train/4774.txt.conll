@@ -1,0 +1,25 @@
+1	You	you	PRP	_	2	nsubj
+2	carry	carry	VBP	_	0	ROOT
+3	it	it	PRP	_	2	dobj
+4	in	in	IN	_	2	prep
+5	a	a	DT	_	6	det
+6	purse	purse	NN	_	4	pobj
+7	or	or	CC	_	6	cc
+8	pocket	pocket	NN	_	6	conj
+9	or	or	CC	_	2	cc
+10	attach	attach	VB	_	2	conj
+11	it	it	PRP	_	10	dobj
+12	to	to	TO	_	10	prep
+13	your	you	PRP$	_	14	poss
+14	belt	belt	NN	_	12	pobj
+15	using	use	VBG	_	2	xcomp
+16	the	the	DT	_	17	det
+17	clip	clip	NN	_	15	dobj
+18	on	on	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	back	back	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	alarm	alarm	NN	_	21	pobj
+24	.	.	.	_	2	punct
+

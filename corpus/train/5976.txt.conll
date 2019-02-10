@@ -1,0 +1,22 @@
+1	It	it	PRP	_	2	nsubj
+2	showed	show	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	photo	photo	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	it	it	PRP	_	8	nsubjpass
+7	being	be	VBG	_	8	auxpass
+8	enclosed	enclose	VBN	_	5	pcomp
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	black	black	JJ	_	13	amod
+12	plastic	plastic	NN	_	13	nn
+13	case	case	NN	_	9	pobj
+14	and	and	CC	_	8	cc
+15	the	the	DT	_	16	det
+16	disc	disc	NN	_	18	nsubjpass
+17	was	be	VBD	_	18	auxpass
+18	enclosed	enclose	VBN	_	8	conj
+19	in	in	IN	_	18	prep
+20	paper	paper	NN	_	19	pobj
+21	.	.	.	_	2	punct
+

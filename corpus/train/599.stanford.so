@@ -1,0 +1,8 @@
+0	28	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t1"
+3	8	tok id="t1" base="take" pos="VBZ" ROOT="ROOT"
+9	14	tok id="t2" base="word" pos="NNS" dobj="t1"
+15	19	tok id="t3" base="into" pos="IN" prep="t1"
+20	26	tok id="t4" base="action" pos="NN" pobj="t3"
+27	28	tok id="t5" base="-PERIOD-" pos="." punct="t1"
+

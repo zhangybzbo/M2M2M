@@ -1,0 +1,13 @@
+1	Most	most	JJS	_	4	amod
+2	health	health	NN	_	4	nn
+3	related	related	JJ	_	4	amod
+4	data	datum	NNS	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	developed	develop	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	using	use	VBG	_	8	pcomp
+10	animal	animal	NN	_	11	nn
+11	models	model	NNS	_	9	dobj
+12	.	.	.	_	7	punct
+

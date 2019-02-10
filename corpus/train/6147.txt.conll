@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	sit	sit	VBP	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	for	for	IN	_	2	prep
+5	almost	almost	RB	_	7	advmod
+6	an	a	DT	_	7	det
+7	hour	hour	NN	_	4	pobj
+8	before	before	IN	_	13	mark
+9	a	a	DT	_	10	det
+10	sounder	sounder	NN	_	13	nsubj
+11	of	of	IN	_	10	prep
+12	boar	boar	NN	_	11	pobj
+13	enter	enter	VBP	_	2	advcl
+14	the	the	DT	_	15	det
+15	arena	arena	NN	_	13	dobj
+16	.	.	.	_	2	punct
+

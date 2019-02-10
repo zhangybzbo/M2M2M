@@ -1,0 +1,9 @@
+1	Sets	set	NNS	_	4	nsubjpass
+2	are	be	VBP	_	4	auxpass
+3	conventionally	conventionally	RB	_	4	advmod
+4	denoted	denote	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	capital	capital	NN	_	7	nn
+7	letters	letter	NNS	_	5	pobj
+8	.	.	.	_	4	punct
+

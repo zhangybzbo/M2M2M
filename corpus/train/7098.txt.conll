@@ -1,0 +1,24 @@
+1	After	after	IN	_	9	prep
+2	``	``	``	_	3	punct
+3	Lost	Lost	NNP	_	1	pobj
+4	!	!	.	_	3	punct
+5	,	,	,	_	9	punct
+6	''	''	''	_	9	punct
+7	the	the	DT	_	8	det
+8	bandmembers	bandmember	NNS	_	9	nsubj
+9	descended	descend	VBD	_	0	ROOT
+10	from	from	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	stage	stage	NN	_	10	pobj
+13	,	,	,	_	9	punct
+14	winding	wind	VBG	_	9	xcomp
+15	their	they	PRP$	_	16	poss
+16	way	way	NN	_	14	dobj
+17	through	through	IN	_	14	prep
+18	the	the	DT	_	19	det
+19	crowd	crowd	NN	_	17	pobj
+20	on	on	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	floor	floor	NN	_	20	pobj
+23	.	.	.	_	9	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	campaign	campaign	NN	_	3	nsubj
+3	coincides	coincide	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	government	government	NN	_	7	nn
+7	initiative	initiative	NN	_	4	pobj
+8	to	to	TO	_	9	aux
+9	promote	promote	VB	_	7	vmod
+10	safer	safer	JJR	_	11	amod
+11	drinking	drinking	NN	_	9	dobj
+12	.	.	.	_	3	punct
+

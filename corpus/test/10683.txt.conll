@@ -1,0 +1,9 @@
+1	Now	now	RB	_	3	advmod
+2	we	we	PRP	_	3	nsubj
+3	deliver	deliver	VBP	_	0	ROOT
+4	all	all	DT	_	5	det
+5	products	product	NNS	_	3	dobj
+6	to	to	TO	_	3	prep
+7	overseas	overseas	RB	_	6	pobj
+8	.	.	.	_	3	punct
+

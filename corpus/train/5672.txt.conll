@@ -1,0 +1,20 @@
+1	A	a	DT	_	3	det
+2	spot	spot	NN	_	3	nn
+3	fire	fire	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	burning	burn	VBG	_	6	pcomp
+8	embers	ember	NNS	_	10	nsubjpass
+9	being	be	VBG	_	10	auxpass
+10	blown	blow	VBN	_	7	dep
+11	away	away	RB	_	10	advmod
+12	by	by	IN	_	10	prep
+13	high	high	JJ	_	14	amod
+14	winds	wind	NNS	_	12	pobj
+15	that	that	WDT	_	16	nsubj
+16	occur	occur	VBP	_	14	rcmod
+17	during	during	IN	_	16	prep
+18	bushfires	bushfire	NNS	_	17	pobj
+19	.	.	.	_	5	punct
+

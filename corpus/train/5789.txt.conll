@@ -1,0 +1,9 @@
+1	Real	real	JJ	_	2	amod
+2	estate	estate	NN	_	3	nsubj
+3	builds	build	VBZ	_	0	ROOT
+4	itself	itself	PRP	_	3	dobj
+5	out	out	IN	_	3	prep
+6	of	of	IN	_	5	pcomp
+7	downturn	downturn	NN	_	6	pobj
+8	.	.	.	_	3	punct
+

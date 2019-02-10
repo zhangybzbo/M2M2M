@@ -1,0 +1,17 @@
+1	A	a	DT	_	3	det
+2	declarative	declarative	JJ	_	3	amod
+3	sentence	sentence	NN	_	13	nsubj
+4	or	or	CC	_	3	cc
+5	declaration	declaration	NN	_	3	conj
+6	,	,	,	_	3	punct
+7	the	the	DT	_	10	det
+8	most	most	RBS	_	9	advmod
+9	common	common	JJ	_	10	amod
+10	type	type	NN	_	3	appos
+11	,	,	,	_	3	punct
+12	commonly	commonly	RB	_	13	advmod
+13	makes	make	VBZ	_	0	ROOT
+14	a	a	DT	_	15	det
+15	statement	statement	NN	_	13	dobj
+16	.	.	.	_	13	punct
+

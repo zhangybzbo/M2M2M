@@ -1,0 +1,12 @@
+1	He	he	PRP	_	2	nsubj
+2	changed	change	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	litter	litter	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	his	he	PRP$	_	7	poss
+7	pet	pet	NN	_	10	poss
+8	's	's	POS	_	7	possessive
+9	litter	litter	NN	_	10	nn
+10	box	box	NN	_	5	pobj
+11	.	.	.	_	2	punct
+

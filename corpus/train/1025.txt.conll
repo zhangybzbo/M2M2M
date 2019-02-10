@@ -1,0 +1,16 @@
+1	When	when	WRB	_	8	advmod
+2	a	a	DT	_	3	det
+3	bottle	bottle	NN	_	8	nsubjpass
+4	full	full	JJ	_	3	amod
+5	of	of	IN	_	4	prep
+6	honey	honey	NN	_	5	pobj
+7	was	be	VBD	_	8	auxpass
+8	weighed	weigh	VBN	_	14	advcl
+9	,	,	,	_	14	punct
+10	its	its	PRP$	_	11	poss
+11	weight	weight	NN	_	14	nsubj
+12	was	be	VBD	_	14	cop
+13	1	1	CD	_	14	num
+14	kilogram	kilogram	NN	_	0	ROOT
+15	.	.	.	_	14	punct
+

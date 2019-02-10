@@ -1,0 +1,9 @@
+1	They	they	PRP	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	taking	take	VBG	_	0	ROOT
+4	the	the	DT	_	5	det
+5	brains	brain	NNS	_	3	dobj
+6	from	from	IN	_	3	prep
+7	babies	baby	NNS	_	6	pobj
+8	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	flour	flour	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	a	a	DT	_	8	det
+6	large	large	JJ	_	8	amod
+7	mixing	mix	VBG	_	8	amod
+8	bowl	bowl	NN	_	4	pobj
+9	,	,	,	_	2	punct
+10	adding	add	VBG	_	2	xcomp
+11	slightly	slightly	RB	_	12	advmod
+12	more	more	JJR	_	10	dobj
+13	than	than	IN	_	16	mark
+14	the	the	DT	_	15	det
+15	recipe	recipe	NN	_	16	nsubj
+16	calls	call	VBZ	_	12	ccomp
+17	for	for	IN	_	16	prep
+18	.	.	.	_	2	punct
+

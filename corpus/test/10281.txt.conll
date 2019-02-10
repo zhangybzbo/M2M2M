@@ -1,0 +1,15 @@
+1	Wrinkles	wrinkle	NNS	_	7	nsubj
+2	from	from	IN	_	1	prep
+3	laughing	laughing	NN	_	2	pobj
+4	is	be	VBZ	_	7	cop
+5	a	a	DT	_	7	det
+6	good	good	JJ	_	7	amod
+7	sign	sign	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	13	det
+10	healthy	healthy	JJ	_	13	amod
+11	,	,	,	_	13	punct
+12	happy	happy	JJ	_	13	amod
+13	life	life	NN	_	8	pobj
+14	.	.	.	_	7	punct
+

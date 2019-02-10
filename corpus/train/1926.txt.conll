@@ -1,0 +1,23 @@
+1	In	in	IN	_	6	prep
+2	the	the	DT	_	3	det
+3	story	story	NN	_	1	pobj
+4	a	a	DT	_	5	det
+5	mob	mob	NN	_	6	nsubj
+6	surrounds	surround	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	woman	woman	NN	_	6	dobj
+9	to	to	TO	_	6	prep
+10	stone	stone	NN	_	9	pobj
+11	her	she	PRP$	_	6	dep
+12	for	for	IN	_	11	prep
+13	adultery	adultery	NN	_	12	pobj
+14	,	,	,	_	11	punct
+15	and	and	CC	_	11	cc
+16	ask	ask	VB	_	11	conj
+17	Jesus	Jesus	NNP	_	16	dobj
+18	what	what	WP	_	21	dobj
+19	they	they	PRP	_	21	nsubj
+20	should	should	MD	_	21	aux
+21	do	do	VB	_	16	ccomp
+22	.	.	.	_	6	punct
+

@@ -1,0 +1,15 @@
+1	Relationships	Relationships	NNPS	_	9	nsubjpass
+2	between	between	IN	_	1	prep
+3	humans	human	NNS	_	2	pobj
+4	of	of	IN	_	3	prep
+5	different	different	JJ	_	6	amod
+6	races	race	NNS	_	4	pobj
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	depicted	depict	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	more	more	JJR	_	13	amod
+12	modern	modern	JJ	_	13	amod
+13	series	series	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

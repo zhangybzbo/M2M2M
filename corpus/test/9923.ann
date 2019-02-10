@@ -1,0 +1,3 @@
+T1	Term 41 46	swarm
+T2	Term 50 59	particles
+R1	Member-Collection Arg1:T2 Arg2:T1

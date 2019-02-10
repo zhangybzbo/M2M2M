@@ -1,0 +1,3 @@
+T1	Term 67 72	noise
+T2	Term 85 95	powertrain
+R1	Cause-Effect Arg1:T2 Arg2:T1

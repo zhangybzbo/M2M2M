@@ -1,0 +1,14 @@
+1	Police	Police	NNP	_	2	nn
+2	officer	officer	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	Taser	Taser	NNP	_	7	nn
+6	stun	stun	NN	_	7	nn
+7	gun	gun	NN	_	3	dobj
+8	to	to	TO	_	9	aux
+9	subdue	subdue	VB	_	3	vmod
+10	a	a	DT	_	12	det
+11	glass-wielding	glass-wielding	JJ	_	12	amod
+12	six-year-old	six-year-old	NN	_	9	dobj
+13	.	.	.	_	3	punct
+

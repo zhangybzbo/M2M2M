@@ -1,0 +1,16 @@
+1	Immigrants	immigrant	NNS	_	2	nsubj
+2	accounted	account	VBD	_	0	ROOT
+3	for	for	IN	_	2	prep
+4	more	more	JJR	_	6	quantmod
+5	than	than	IN	_	6	quantmod
+6	half	half	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	Britain	Britain	NNP	_	11	poss
+9	's	's	POS	_	8	possessive
+10	population	population	NN	_	11	nn
+11	growth	growth	NN	_	7	pobj
+12	in	in	IN	_	2	prep
+13	recent	recent	JJ	_	14	amod
+14	years	year	NNS	_	12	pobj
+15	.	.	.	_	2	punct
+

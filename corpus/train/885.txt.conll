@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	ozone	ozone	NN	_	3	nn
+3	layer	layer	NN	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	a	a	DT	_	7	det
+6	relatively	relatively	RB	_	7	advmod
+7	small	small	JJ	_	0	ROOT
+8	constitute	constitute	VBP	_	7	dep
+9	part	part	NN	_	8	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	Earth	Earth	NNP	_	14	poss
+13	's	's	POS	_	12	possessive
+14	atmosphere	atmosphere	NN	_	10	pobj
+15	,	,	,	_	7	punct
+16	although	although	IN	_	18	mark
+17	it	it	PRP	_	18	nsubj
+18	accounts	account	VBZ	_	7	advcl
+19	for	for	IN	_	18	prep
+20	a	a	DT	_	23	det
+21	large	large	JJ	_	23	amod
+22	protection	protection	NN	_	23	nn
+23	measure	measure	NN	_	19	pobj
+24	.	.	.	_	7	punct
+

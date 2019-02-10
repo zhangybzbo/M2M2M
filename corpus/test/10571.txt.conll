@@ -1,0 +1,24 @@
+1	Here	here	RB	_	2	advmod
+2	's	be	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	theory	theory	NN	_	2	nsubj
+5	I	I	PRP	_	6	nsubj
+6	wrote	write	VBD	_	4	rcmod
+7	down	down	RP	_	6	prt
+8	the	the	DT	_	10	det
+9	other	other	JJ	_	10	amod
+10	night	night	NN	_	6	tmod
+11	on	on	IN	_	6	prep
+12	the	the	DT	_	14	det
+13	cocktail	cocktail	NN	_	14	nn
+14	napkin	napkin	NN	_	11	pobj
+15	I	I	PRP	_	16	nsubj
+16	fished	fish	VBD	_	14	rcmod
+17	out	out	IN	_	16	prep
+18	of	of	IN	_	17	pcomp
+19	my	my	PRP$	_	20	poss
+20	purse	purse	NN	_	18	pobj
+21	just	just	RB	_	22	advmod
+22	now	now	RB	_	16	advmod
+23	.	.	.	_	2	punct
+

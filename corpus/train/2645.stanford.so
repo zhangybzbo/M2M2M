@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="sportsman" pos="NN" nsubj="t2"
+14	20	tok id="t2" base="pass" pos="VBN" ROOT="ROOT"
+21	23	tok id="t3" base="on" pos="IN" prep="t2"
+24	31	tok id="t4" base="passion" pos="NN" pobj="t3"
+32	34	tok id="t5" base="to" pos="TO" prep="t4"
+35	38	tok id="t6" base="the" pos="DT" det="t8"
+39	46	tok id="t7" base="younger" pos="JJR" amod="t8"
+47	57	tok id="t8" base="generation" pos="NN" pobj="t5"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,15 @@
+1	Chilika	Chilika	NNP	_	2	nsubj
+2	supports	support	VBZ	_	0	ROOT
+3	the	the	DT	_	5	det
+4	largest	largest	JJS	_	5	amod
+5	congregation	congregation	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	migratory	migratory	JJ	_	8	amod
+8	birds	bird	NNS	_	6	pobj
+9	in	in	IN	_	5	prep
+10	the	the	DT	_	11	det
+11	country	country	NN	_	9	pobj
+12	during	during	IN	_	2	prep
+13	winter	winter	NN	_	12	pobj
+14	.	.	.	_	2	punct
+

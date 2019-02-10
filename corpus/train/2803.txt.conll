@@ -1,0 +1,24 @@
+1	As	as	IN	_	4	mark
+2	I	I	PRP	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	entering	enter	VBG	_	9	advcl
+5	the	the	DT	_	6	det
+6	bathroom	bathroom	NN	_	4	dobj
+7	,	,	,	_	9	punct
+8	I	I	PRP	_	9	nsubj
+9	grabbed	grab	VBD	_	0	ROOT
+10	the	the	DT	_	12	det
+11	door	door	NN	_	12	nn
+12	knob	knob	NN	_	9	dobj
+13	and	and	CC	_	9	cc
+14	it	it	PRP	_	15	nsubj
+15	felt	feel	VBD	_	9	conj
+16	loose	loose	JJ	_	15	acomp
+17	and	and	CC	_	16	cc
+18	hollow	hollow	JJ	_	16	conj
+19	,	,	,	_	16	punct
+20	like	like	IN	_	16	prep
+21	cheap	cheap	JJ	_	22	amod
+22	crap	crap	NN	_	20	pobj
+23	.	.	.	_	9	punct
+

@@ -1,0 +1,11 @@
+1	A	a	DT	_	3	det
+2	Japanese	japanese	JJ	_	3	amod
+3	woman	woman	NN	_	4	nsubj
+4	moved	move	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	bloke	bloke	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	closet	closet	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

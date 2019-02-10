@@ -1,0 +1,10 @@
+1	Barber	Barber	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	Olympic	Olympic	NNP	_	4	nn
+4	bobsleigh	bobsleigh	NN	_	5	nsubj
+5	plans	plan	VBZ	_	0	ROOT
+6	go	go	VB	_	5	ccomp
+7	into	into	IN	_	6	prep
+8	meltdown	meltdown	NN	_	7	pobj
+9	.	.	.	_	5	punct
+

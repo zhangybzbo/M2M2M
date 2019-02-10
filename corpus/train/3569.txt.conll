@@ -1,0 +1,19 @@
+1	Lots	lot	NNS	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	people	people	NNS	_	2	pobj
+4	responded	respond	VBD	_	0	ROOT
+5	positively	positively	RB	_	4	advmod
+6	to	to	TO	_	4	prep
+7	my	my	PRP$	_	9	poss
+8	recent	recent	JJ	_	9	amod
+9	post	post	NN	_	6	pobj
+10	about	about	IN	_	9	prep
+11	favorite	favorite	JJ	_	13	amod
+12	fictional	fictional	JJ	_	13	amod
+13	towns	town	NNS	_	10	pobj
+14	from	from	IN	_	13	prep
+15	children	child	NNS	_	17	poss
+16	's	's	POS	_	15	possessive
+17	literature	literature	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

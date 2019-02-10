@@ -1,0 +1,3 @@
+T1	Term 122 127	steam
+T2	Term 146 156	combustion
+R1	Cause-Effect Arg1:T2 Arg2:T1

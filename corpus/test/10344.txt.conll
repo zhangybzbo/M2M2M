@@ -1,0 +1,16 @@
+1	Breast	breast	NN	_	2	nn
+2	abscess	abscess	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	infection	infection	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	engorged	engorged	JJ	_	11	amod
+10	glandular	glandular	JJ	_	11	amod
+11	system	system	NN	_	7	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	breasts	breast	NNS	_	12	pobj
+15	.	.	.	_	4	punct
+

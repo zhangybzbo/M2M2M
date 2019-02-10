@@ -1,0 +1,23 @@
+1	The	the	DT	_	5	det
+2	eighth	eighth	JJ	_	5	amod
+3	and	and	CC	_	2	cc
+4	finest	finest	JJS	_	2	conj
+5	album	album	NN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	this	this	DT	_	9	det
+8	heady	heady	JJ	_	9	amod
+9	band	band	NN	_	6	pobj
+10	from	from	IN	_	9	prep
+11	Baltimore	Baltimore	NNP	_	12	nn
+12	revels	revel	NNS	_	10	pobj
+13	in	in	IN	_	5	prep
+14	the	the	DT	_	15	det
+15	joy	joy	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	musical	musical	JJ	_	18	amod
+18	experimentation	experimentation	NN	_	16	pobj
+19	and	and	CC	_	18	cc
+20	sonic	sonic	JJ	_	21	amod
+21	surprise	surprise	NN	_	18	conj
+22	.	.	.	_	5	punct
+

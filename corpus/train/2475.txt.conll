@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	hamper	hamper	VBP	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	full	full	JJ	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	high-quality	high-quality	JJ	_	8	amod
+7	sweet	sweet	JJ	_	8	amod
+8	biscuits	biscuit	NNS	_	5	pobj
+9	,	,	,	_	8	punct
+10	chocolates	chocolate	NNS	_	8	conj
+11	,	,	,	_	8	punct
+12	cakes	cake	NNS	_	8	conj
+13	and	and	CC	_	8	cc
+14	puddings	pudding	NNS	_	8	conj
+15	,	,	,	_	14	punct
+16	shortbread	shortbread	NN	_	14	conj
+17	,	,	,	_	14	punct
+18	pickles	pickle	NNS	_	14	conj
+19	,	,	,	_	14	punct
+20	teas	tea	NNS	_	14	conj
+21	and	and	CC	_	14	cc
+22	wine	wine	NN	_	14	conj
+23	.	.	.	_	4	punct
+

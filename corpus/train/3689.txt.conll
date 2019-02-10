@@ -1,0 +1,27 @@
+1	Stella	Stella	NNP	_	2	nn
+2	Liebeck	Liebeck	NNP	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	the	the	DT	_	5	det
+5	woman	woman	NN	_	0	ROOT
+6	who	who	WP	_	7	nsubj
+7	sued	sue	VBD	_	5	rcmod
+8	McDonalds	McDonalds	NNP	_	7	dobj
+9	after	after	IN	_	11	mark
+10	she	she	PRP	_	11	nsubj
+11	suffered	suffer	VBD	_	7	advcl
+12	a	a	DT	_	13	det
+13	serious	serious	JJ	_	11	dobj
+14	burn	burn	VBP	_	13	dep
+15	after	after	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	spilling	spilling	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	cup	cup	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	coffee	coffee	NN	_	21	pobj
+23	on	on	IN	_	17	prep
+24	her	she	PRP$	_	25	poss
+25	lap	lap	NN	_	23	pobj
+26	.	.	.	_	5	punct
+

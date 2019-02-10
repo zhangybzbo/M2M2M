@@ -1,0 +1,13 @@
+1	Alcohol	alcohol	NN	_	8	nsubj
+2	,	,	,	_	1	punct
+3	substance	substance	NN	_	4	nn
+4	abuse	abuse	NN	_	1	conj
+5	and	and	CC	_	1	cc
+6	poverty	poverty	NN	_	1	conj
+7	all	all	DT	_	8	dep
+8	lead	lead	VBP	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	child	child	NN	_	11	nn
+11	abuse	abuse	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

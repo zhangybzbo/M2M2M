@@ -1,0 +1,10 @@
+0	55	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="uterine" pos="JJ" amod="t2"
+12	24	tok id="t2" base="contraction" pos="NNS" nsubjpass="t4"
+25	28	tok id="t3" base="be" pos="VBP" auxpass="t4"
+29	35	tok id="t4" base="cause" pos="VBN" ROOT="ROOT"
+36	38	tok id="t5" base="by" pos="IN" prep="t4"
+39	53	tok id="t6" base="prostaglandin" pos="NNS" pobj="t5"
+54	55	tok id="t7" base="-PERIOD-" pos="." punct="t4"
+

@@ -1,0 +1,1 @@
+The automaton starts in the initial state , reads input character by character and changes state according to the program

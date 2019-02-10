@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det
+2	decade	decade	NN	_	3	npadvmod
+3	later	later	RB	_	17	advmod
+4	,	,	,	_	17	punct
+5	with	with	IN	_	17	prep
+6	a	a	DT	_	8	det
+7	growing	grow	VBG	_	8	amod
+8	congregation	congregation	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	several	several	JJ	_	11	quantmod
+11	hundred	hundred	CD	_	12	num
+12	worshippers	worshipper	NNS	_	9	pobj
+13	,	,	,	_	17	punct
+14	the	the	DT	_	15	det
+15	mosque	mosque	NN	_	17	nsubj
+16	was	be	VBD	_	17	cop
+17	ready	ready	JJ	_	0	ROOT
+18	to	to	TO	_	19	aux
+19	expand	expand	VB	_	17	xcomp
+20	.	.	.	_	17	punct
+

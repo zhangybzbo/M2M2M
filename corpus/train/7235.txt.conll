@@ -1,0 +1,25 @@
+1	So	so	IN	_	6	mark
+2	you	you	PRP	_	6	nsubj
+3	are	be	VBP	_	6	aux
+4	not	not	RB	_	5	neg
+5	only	only	RB	_	6	preconj
+6	sharing	share	VBG	_	0	ROOT
+7	the	the	DT	_	9	det
+8	speaker	speaker	NN	_	9	nn
+9	information	information	NN	_	6	dobj
+10	,	,	,	_	6	punct
+11	but	but	CC	_	6	cc
+12	you	you	PRP	_	15	nsubj
+13	are	be	VBP	_	15	aux
+14	also	also	RB	_	15	advmod
+15	sharing	share	VBG	_	6	conj
+16	the	the	DT	_	17	det
+17	audio	audio	NN	_	15	dobj
+18	from	from	IN	_	15	prep
+19	the	the	DT	_	20	det
+20	event	event	NN	_	18	pobj
+21	quickly	quickly	RB	_	15	advmod
+22	and	and	CC	_	15	cc
+23	easily	easily	RB	_	15	advmod
+24	.	.	.	_	6	punct
+

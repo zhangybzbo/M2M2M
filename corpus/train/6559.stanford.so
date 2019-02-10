@@ -1,0 +1,11 @@
+0	54	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="they" pos="PRP$" poss="t3"
+6	14	tok id="t1" base="standard" pos="JJ" amod="t3"
+15	23	tok id="t2" base="variable" pos="JJ" amod="t3"
+24	29	tok id="t3" base="rate" pos="NNS" nsubj="t4"
+30	33	tok id="t4" base="be" pos="VBP" ROOT="ROOT"
+34	39	tok id="t5" base="still" pos="RB" advmod="t4"
+40	45	tok id="t6" base="under" pos="IN" prep="t4"
+46	52	tok id="t7" base="review" pos="NN" pobj="t6"
+53	54	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

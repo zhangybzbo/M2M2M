@@ -1,0 +1,27 @@
+1	Since	since	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	product	product	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	made	make	VBN	_	14	advcl
+6	it	it	PRP	_	5	dobj
+7	over	over	IN	_	5	prep
+8	that	that	DT	_	10	det
+9	first	first	JJ	_	10	amod
+10	hurdle	hurdle	NN	_	7	pobj
+11	,	,	,	_	14	punct
+12	it	it	PRP	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	blessed	bless	VBN	_	0	ROOT
+15	with	with	IN	_	14	prep
+16	another	another	DT	_	18	det
+17	two	two	CD	_	18	num
+18	seconds	seconds	NNS	_	15	pobj
+19	while	while	IN	_	22	mark
+20	the	the	DT	_	21	det
+21	shopper	shopper	NN	_	22	nsubj
+22	made	make	VBD	_	14	advcl
+23	his	he	PRP$	_	25	poss
+24	purchasing	purchase	VBG	_	25	amod
+25	decision	decision	NN	_	22	dobj
+26	.	.	.	_	14	punct
+

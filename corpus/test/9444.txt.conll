@@ -1,0 +1,14 @@
+1	Both	both	DT	_	2	det
+2	squads	squad	NNS	_	3	nsubj
+3	battered	batter	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	opposing	oppose	VBG	_	6	amod
+6	goaltender	goaltender	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	continuous	continuous	JJ	_	10	amod
+10	flurry	flurry	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	shots	shot	NNS	_	11	pobj
+13	.	.	.	_	3	punct
+

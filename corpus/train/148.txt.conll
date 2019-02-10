@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	det
+2	book	book	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	transported	transport	VBN	_	0	ROOT
+5	readers	reader	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	ancient	ancient	JJ	_	8	amod
+8	times	time	NNS	_	6	pobj
+9	.	.	.	_	4	punct
+

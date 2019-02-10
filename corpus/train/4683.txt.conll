@@ -1,0 +1,21 @@
+1	An	a	DT	_	4	det
+2	11-year-old	11-year-old	JJ	_	4	amod
+3	Greensboro	Greensboro	NNP	_	4	nn
+4	boy	boy	NN	_	5	nsubj
+5	turned	turn	VBD	_	0	ROOT
+6	in	in	RP	_	5	prt
+7	a	a	DT	_	8	det
+8	purse	purse	NN	_	5	dobj
+9	with	with	IN	_	5	prep
+10	money	money	NN	_	9	pobj
+11	inside	inside	IN	_	5	prep
+12	after	after	IN	_	14	mark
+13	he	he	PRP	_	14	nsubj
+14	found	find	VBD	_	11	pcomp
+15	it	it	PRP	_	14	dobj
+16	in	in	IN	_	14	prep
+17	a	a	DT	_	19	det
+18	creek	creek	NN	_	19	nn
+19	Saturday	Saturday	NNP	_	16	pobj
+20	.	.	.	_	5	punct
+

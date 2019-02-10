@@ -1,0 +1,23 @@
+1	In	in	IN	_	6	prep
+2	the	the	DT	_	3	det
+3	process	process	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	they	they	PRP	_	6	nsubj
+6	initiated	initiate	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	establishment	establishment	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	tirailleurs	tirailleurs	JJ	_	12	amod
+12	senegalais	senegalai	NN	_	9	pobj
+13	,	,	,	_	8	punct
+14	the	the	DT	_	16	det
+15	first	first	JJ	_	16	amod
+16	battalion	battalion	NN	_	8	appos
+17	of	of	IN	_	16	prep
+18	Senegalese	senegalese	JJ	_	19	amod
+19	infantrymen	infantryman	NNS	_	17	pobj
+20	in	in	IN	_	16	prep
+21	1857	1857	CD	_	20	pobj
+22	.	.	.	_	6	punct
+

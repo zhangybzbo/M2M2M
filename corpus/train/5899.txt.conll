@@ -1,0 +1,14 @@
+1	Far	far	RB	_	2	advmod
+2	below	below	IN	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	a	a	DT	_	5	det
+5	universe	universe	NN	_	2	conj
+6	away	away	RB	_	5	advmod
+7	,	,	,	_	2	punct
+8	a	a	DT	_	9	det
+9	constellation	constellation	NN	_	2	appos
+10	of	of	IN	_	9	prep
+11	windows	window	NNS	_	10	pobj
+12	darkened	darken	VBN	_	11	vmod
+13	.	.	.	_	2	punct
+

@@ -1,0 +1,27 @@
+1	Gazan	gazan	JJ	_	2	amod
+2	police	police	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	rebuilt	rebuild	VBN	_	0	ROOT
+5	at	at	IN	_	7	quantmod
+6	least	least	JJS	_	5	mwe
+7	one	one	CD	_	4	dobj
+8	of	of	IN	_	7	prep
+9	their	they	PRP$	_	10	poss
+10	stations	station	NNS	_	8	pobj
+11	out	out	IN	_	4	prep
+12	of	of	IN	_	11	pcomp
+13	mud	mud	NN	_	12	pobj
+14	and	and	CC	_	13	cc
+15	residents	resident	NNS	_	13	conj
+16	throughout	throughout	IN	_	4	prep
+17	the	the	DT	_	18	det
+18	territory	territory	NN	_	16	pobj
+19	have	have	VBP	_	20	aux
+20	used	use	VBN	_	4	dep
+21	mud	mud	NN	_	20	dobj
+22	to	to	TO	_	23	aux
+23	build	build	VB	_	20	vmod
+24	simple	simple	JJ	_	25	amod
+25	homes	home	NNS	_	23	dobj
+26	.	.	.	_	4	punct
+

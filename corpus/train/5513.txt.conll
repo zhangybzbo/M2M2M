@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	feed	feed	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	derived	derive	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	10	det
+7	commercial	commercial	JJ	_	10	amod
+8	mink	mink	NN	_	10	nn
+9	feed	feed	NN	_	10	nn
+10	kitchen	kitchen	NN	_	5	pobj
+11	.	.	.	_	4	punct
+

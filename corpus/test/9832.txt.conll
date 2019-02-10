@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	clever	clever	JJ	_	4	amod
+3	house	house	NN	_	4	nn
+4	rat	rat	NN	_	6	nsubj
+5	is	be	VBZ	_	6	aux
+6	going	go	VBG	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	get	get	VB	_	6	xcomp
+9	away	away	RB	_	8	advmod
+10	from	from	IN	_	8	prep
+11	a	a	DT	_	12	det
+12	cell	cell	NN	_	10	pobj
+13	.	.	.	_	6	punct
+

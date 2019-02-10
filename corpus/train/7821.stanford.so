@@ -1,0 +1,11 @@
+0	70	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="cooperation" pos="NN" nsubj="t4"
+12	19	tok id="t1" base="through" pos="IN" prep="t0"
+20	28	tok id="t2" base="physical" pos="JJ" amod="t3"
+29	37	tok id="t3" base="activity" pos="NN" pobj="t1"
+38	46	tok id="t4" base="promote" pos="VBZ" ROOT="ROOT"
+47	56	tok id="t5" base="important" pos="JJ" amod="t7"
+57	61	tok id="t6" base="life" pos="NN" nn="t7"
+62	68	tok id="t7" base="skill" pos="NNS" dobj="t4"
+69	70	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

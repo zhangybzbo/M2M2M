@@ -1,0 +1,25 @@
+1	A	a	DT	_	2	det
+2	girl	girl	NN	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	mitochondrial	mitochondrial	JJ	_	6	amod
+6	disorder	disorder	NN	_	3	pobj
+7	who	who	WP	_	8	nsubj
+8	developed	develop	VBD	_	6	rcmod
+9	a	a	DT	_	11	det
+10	neurodegenerative	neurodegenerative	JJ	_	11	amod
+11	disorder	disorder	NN	_	8	dobj
+12	with	with	IN	_	8	prep
+13	``	``	``	_	12	punct
+14	features	feature	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	autism	autism	NN	_	15	pobj
+17	''	''	''	_	12	punct
+18	after	after	IN	_	8	prep
+19	getting	get	VBG	_	18	pcomp
+20	a	a	DT	_	21	det
+21	fever	fever	NN	_	19	dobj
+22	from	from	IN	_	19	prep
+23	vaccines	vaccine	NNS	_	22	pobj
+24	.	.	.	_	2	punct
+

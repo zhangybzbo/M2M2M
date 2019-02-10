@@ -1,0 +1,9 @@
+1	This	this	DT	_	4	det
+2	invertebrate	invertebrate	JJ	_	4	amod
+3	builds	build	NNS	_	4	nn
+4	armor	armor	NN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	coconut	coconut	NN	_	7	nn
+7	halves	half	NNS	_	5	pobj
+8	.	.	.	_	4	punct
+

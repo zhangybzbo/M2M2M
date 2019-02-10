@@ -1,0 +1,10 @@
+1	An	a	DT	_	3	det
+2	unidentified	unidentified	JJ	_	3	amod
+3	substance	substance	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	found	find	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	letter	letter	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

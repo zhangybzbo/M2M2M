@@ -1,0 +1,14 @@
+1	Shortly	shortly	RB	_	2	advmod
+2	after	after	IN	_	8	prep
+3	injection	injection	NN	_	2	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	6	det
+6	poison	poison	NN	_	8	nsubj
+7	is	be	VBZ	_	8	aux
+8	going	go	VBG	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	blood	blood	NN	_	12	nn
+12	vessels	vessel	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

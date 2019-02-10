@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	transmitter	transmitter	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	discovered	discover	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	bed	bed	NN	_	9	nn
+8	settee	settee	NN	_	9	nn
+9	suite	suite	NN	_	5	pobj
+10	on	on	IN	_	15	prep
+11	which	which	WDT	_	10	pobj
+12	he	he	PRP	_	15	nsubj
+13	had	have	VBD	_	15	aux
+14	been	be	VBN	_	15	aux
+15	sitting	sit	VBG	_	9	rcmod
+16	.	.	.	_	4	punct
+

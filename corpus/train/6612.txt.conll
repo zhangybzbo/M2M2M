@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	democrats	democrat	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	competing	compete	VBG	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	positions	position	NNS	_	5	pobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	college	college	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	electors	elector	NNS	_	10	pobj
+12	.	.	.	_	4	punct
+

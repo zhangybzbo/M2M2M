@@ -1,0 +1,26 @@
+1	Sir	Sir	NNP	_	3	nn
+2	John	John	NNP	_	3	nn
+3	Mortimer	Mortimer	NNP	_	19	nsubj
+4	,	,	,	_	3	punct
+5	the	the	DT	_	6	det
+6	barrister-cum-writer	barrister-cum-writer	NN	_	3	appos
+7	who	who	WP	_	8	nsubj
+8	created	create	VBD	_	6	rcmod
+9	the	the	DT	_	11	det
+10	Old	old	JJ	_	11	amod
+11	Bailey	Bailey	NNP	_	16	poss
+12	's	's	POS	_	11	possessive
+13	most	most	RBS	_	14	advmod
+14	famous	famous	JJ	_	16	amod
+15	fictional	fictional	JJ	_	16	amod
+16	defender	defender	NN	_	8	dobj
+17	,	,	,	_	3	punct
+18	has	have	VBZ	_	19	aux
+19	died	die	VBN	_	0	ROOT
+20	at	at	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	age	age	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	85	85	CD	_	23	pobj
+25	.	.	.	_	19	punct
+

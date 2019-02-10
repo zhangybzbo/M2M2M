@@ -1,0 +1,12 @@
+1	My	my	PRP$	_	2	poss
+2	hand	hand	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	resting	rest	VBG	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	arm	arm	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	chair	chair	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

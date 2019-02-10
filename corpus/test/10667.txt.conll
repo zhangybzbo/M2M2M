@@ -1,0 +1,11 @@
+1	Instead	instead	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	their	they	PRP$	_	4	poss
+4	compilation	compilation	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	governed	govern	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	didactic	didactic	JJ	_	9	amod
+9	considerations	consideration	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	chapters	chapter	NNS	_	6	nsubj
+3	in	in	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	investigate	investigate	VB	_	0	ROOT
+7	issues	issue	NNS	_	6	dobj
+8	and	and	CC	_	7	cc
+9	communities	community	NNS	_	7	conj
+10	.	.	.	_	6	punct
+

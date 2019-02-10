@@ -1,0 +1,1 @@
+An open file is described in the Linux kernel by a struct file item ; the structure encloses a pointer to the inode representing the file .

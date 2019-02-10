@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	third	third	JJ	_	3	amod
+3	bid	bid	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	window	window	NN	_	8	nn
+8	company	company	NN	_	5	pobj
+9	that	that	WDT	_	10	nsubj
+10	does	do	VBZ	_	8	rcmod
+11	its	its	PRP$	_	13	poss
+12	own	own	JJ	_	13	amod
+13	installation	installation	NN	_	10	dobj
+14	.	.	.	_	4	punct
+

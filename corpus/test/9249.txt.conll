@@ -1,0 +1,25 @@
+1	Today	today	NN	_	4	tmod
+2	,	,	,	_	4	punct
+3	I	I	PRP	_	4	nsubj
+4	present	present	VBP	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	you	you	PRP	_	5	pobj
+7	a	a	DT	_	9	det
+8	small	small	JJ	_	9	amod
+9	handful	handful	NN	_	4	dobj
+10	of	of	IN	_	9	prep
+11	informational	informational	JJ	_	12	amod
+12	tidbits	tidbit	NNS	_	10	pobj
+13	which	which	WDT	_	14	nsubj
+14	act	act	VBP	_	12	rcmod
+15	as	as	IN	_	14	prep
+16	glimpses	glimpse	NNS	_	15	pobj
+17	into	into	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	world	world	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	a	a	DT	_	23	det
+22	typography	typography	NN	_	23	nn
+23	enthusiast	enthusiast	NN	_	20	pobj
+24	.	.	.	_	4	punct
+

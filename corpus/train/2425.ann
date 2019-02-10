@@ -1,0 +1,3 @@
+T1	Term 25 36	electrician
+T2	Term 68 71	end
+R1	Instrument-Agency Arg1:T2 Arg2:T1

@@ -1,0 +1,12 @@
+1	Some	some	DT	_	10	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	2	pobj
+4	following	follow	VBG	_	3	prep
+5	quotes	quote	NNS	_	4	pobj
+6	come	come	VBN	_	5	vmod
+7	from	from	IN	_	6	prep
+8	newspaper	newspaper	NN	_	9	nn
+9	article	article	NN	_	7	pobj
+10	leads	lead	VBZ	_	0	ROOT
+11	.	.	.	_	10	punct
+

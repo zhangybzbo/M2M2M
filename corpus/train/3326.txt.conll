@@ -1,0 +1,16 @@
+1	I	I	PRP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	hoping	hope	VBG	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	find	find	VB	_	3	xcomp
+6	yet	yet	RB	_	8	advmod
+7	another	another	DT	_	8	det
+8	bed	bed	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	clams	clam	NNS	_	9	pobj
+11	,	,	,	_	3	punct
+12	but	but	CC	_	3	cc
+13	no	no	DT	_	14	neg
+14	luck	luck	NN	_	3	conj
+15	.	.	.	_	3	punct
+

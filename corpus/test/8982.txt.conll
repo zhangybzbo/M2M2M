@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	definition	definition	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	vCard	vCard	NNP	_	6	nn
+6	Specification	Specification	NNP	_	3	pobj
+7	made	make	VBD	_	0	ROOT
+8	use	use	NN	_	7	dobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	number	number	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	existing	exist	VBG	_	14	amod
+14	standards	standard	NNS	_	12	pobj
+15	.	.	.	_	7	punct
+

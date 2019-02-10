@@ -1,0 +1,18 @@
+1	Many	many	JJ	_	2	amod
+2	adults	adult	NNS	_	3	nsubj
+3	retain	retain	VBP	_	0	ROOT
+4	scars	scar	NNS	_	3	dobj
+5	from	from	IN	_	4	prep
+6	acne	acne	NN	_	7	nn
+7	breakouts	breakout	NNS	_	5	pobj
+8	during	during	IN	_	3	prep
+9	their	they	PRP$	_	11	poss
+10	teen	teen	NN	_	11	nn
+11	years	year	NNS	_	8	pobj
+12	and	and	CC	_	3	cc
+13	feel	feel	VB	_	3	conj
+14	marked	marked	JJ	_	13	acomp
+15	for	for	IN	_	14	prep
+16	life	life	NN	_	15	pobj
+17	.	.	.	_	3	punct
+

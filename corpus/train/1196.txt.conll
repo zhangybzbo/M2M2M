@@ -1,0 +1,14 @@
+1	After	after	IN	_	7	prep
+2	30	30	CD	_	3	num
+3	minutes	minute	NNS	_	1	pobj
+4	,	,	,	_	7	punct
+5	my	my	PRP$	_	6	poss
+6	sister	sister	NN	_	7	nsubj
+7	arrived	arrive	VBD	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	my	my	PRP$	_	10	poss
+10	house	house	NN	_	8	pobj
+11	for	for	IN	_	7	prep
+12	dinner	dinner	NN	_	11	pobj
+13	.	.	.	_	7	punct
+

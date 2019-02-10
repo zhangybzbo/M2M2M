@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	second	second	JJ	_	3	amod
+3	report	report	NN	_	4	nsubj
+4	assesses	assess	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	degree	degree	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	climate	climate	NN	_	10	nn
+9	policy	policy	NN	_	10	nn
+10	integration	integration	NN	_	7	pobj
+11	in	in	IN	_	6	prep
+12	six	six	CD	_	15	num
+13	different	different	JJ	_	15	amod
+14	European	european	JJ	_	15	amod
+15	countries	country	NNS	_	11	pobj
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	rustic	rustic	JJ	_	3	amod
+3	cottage	cottage	NN	_	8	nsubj
+4	and	and	CC	_	3	cc
+5	farm	farm	NN	_	7	nn
+6	yard	yard	NN	_	7	nn
+7	buildings	building	NNS	_	3	conj
+8	give	give	VBP	_	0	ROOT
+9	memories	memory	NNS	_	8	dobj
+10	from	from	IN	_	8	prep
+11	bygone	bygone	JJ	_	12	amod
+12	days	day	NNS	_	10	pobj
+13	.	.	.	_	8	punct
+

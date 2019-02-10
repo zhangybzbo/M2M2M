@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	particles	particle	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	dropped	drop	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	clouds	cloud	NNS	_	5	pobj
+8	before	before	IN	_	11	mark
+9	the	the	DT	_	10	det
+10	storm	storm	NN	_	11	nsubj
+11	occurred	occur	VBD	_	7	rcmod
+12	.	.	.	_	4	punct
+

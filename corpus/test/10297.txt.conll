@@ -1,0 +1,19 @@
+1	Unfortunately	unfortunately	RB	_	14	advmod
+2	though	though	RB	_	14	advmod
+3	,	,	,	_	14	punct
+4	to	to	TO	_	14	prep
+5	the	the	DT	_	6	det
+6	surprise	surprise	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	all	all	DT	_	9	det
+9	present	present	JJ	_	7	pobj
+10	,	,	,	_	14	punct
+11	the	the	DT	_	12	det
+12	ship	ship	NN	_	14	nsubj
+13	completely	completely	RB	_	14	advmod
+14	dissapeared	dissapear	VBD	_	0	ROOT
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	harbour	harbour	NN	_	15	pobj
+18	.	.	.	_	14	punct
+

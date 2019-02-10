@@ -1,0 +1,12 @@
+1	Essential	essential	JJ	_	2	amod
+2	supplies	supplies	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	aux
+4	being	be	VBG	_	5	auxpass
+5	delivered	deliver	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	conflict-affected	conflict-affected	JJ	_	8	amod
+8	families	family	NNS	_	6	pobj
+9	in	in	IN	_	8	prep
+10	Yemen	Yemen	NNP	_	9	pobj
+11	.	.	.	_	5	punct
+

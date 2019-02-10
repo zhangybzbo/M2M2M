@@ -1,0 +1,24 @@
+1	I	I	PRP	_	3	nsubj
+2	especially	especially	RB	_	3	advmod
+3	love	love	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	way	way	NN	_	3	dobj
+6	the	the	DT	_	8	det
+7	scroll	scroll	NN	_	8	nn
+8	wheel	wheel	NN	_	5	dep
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	mouse	mouse	NN	_	12	nn
+12	riffles	riffle	NNS	_	9	pobj
+13	through	through	IN	_	8	prep
+14	the	the	DT	_	15	det
+15	tabs	tab	NNS	_	13	pobj
+16	;	;	:	_	3	punct
+17	it	it	PRP	_	20	nsubj
+18	's	be	VBZ	_	20	cop
+19	so	so	RB	_	20	advmod
+20	fast	fast	JJ	_	3	parataxis
+21	and	and	CC	_	20	cc
+22	easy	easy	JJ	_	20	conj
+23	.	.	.	_	3	punct
+

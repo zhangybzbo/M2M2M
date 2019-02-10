@@ -1,0 +1,25 @@
+1	Thus	thus	RB	_	16	advmod
+2	the	the	DT	_	3	det
+3	leaves	leaf	NNS	_	16	nsubj
+4	situated	situate	VBN	_	3	vmod
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	middle	middle	JJ	_	8	amod
+8	part	part	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	stem	stem	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	sunflower	sunflower	NN	_	15	nn
+15	plant	plant	NN	_	12	pobj
+16	show	show	VBP	_	0	ROOT
+17	the	the	DT	_	19	det
+18	highest	highest	JJS	_	19	amod
+19	amounts	amount	NNS	_	16	dobj
+20	of	of	IN	_	19	prep
+21	endogenous	endogenous	JJ	_	23	amod
+22	cytokinin-like	cytokinin-like	JJ	_	23	amod
+23	substances	substance	NNS	_	20	pobj
+24	.	.	.	_	16	punct
+

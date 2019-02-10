@@ -1,0 +1,21 @@
+1	US	US	NNP	_	2	nn
+2	forces	force	NNS	_	3	nsubj
+3	fared	fare	VBD	_	0	ROOT
+4	so	so	RB	_	5	advmod
+5	well	well	RB	_	3	advmod
+6	that	that	IN	_	8	mark
+7	MacArthur	MacArthur	NNP	_	8	nsubj
+8	gained	gain	VBD	_	3	ccomp
+9	Truman	Truman	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	permission	permission	NN	_	8	dobj
+12	to	to	TO	_	13	aux
+13	attempt	attempt	VB	_	8	vmod
+14	a	a	DT	_	16	det
+15	total	total	JJ	_	16	amod
+16	rout	rout	NN	_	13	dobj
+17	of	of	IN	_	16	prep
+18	communist	communist	JJ	_	19	amod
+19	forces	force	NNS	_	17	pobj
+20	.	.	.	_	3	punct
+

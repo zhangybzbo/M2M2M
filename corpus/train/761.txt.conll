@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	mission	mission	NN	_	3	nsubj
+3	introduced	introduce	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	spoon	spoon	NN	_	6	nn
+6	bowl	bowl	NN	_	3	dobj
+7	,	,	,	_	6	punct
+8	a	a	DT	_	10	det
+9	plastic	plastic	JJ	_	10	amod
+10	container	container	NN	_	6	appos
+11	with	with	IN	_	10	prep
+12	dehydrated	dehydrated	JJ	_	13	amod
+13	food	food	NN	_	11	pobj
+14	inside	inside	RB	_	13	advmod
+15	.	.	.	_	3	punct
+

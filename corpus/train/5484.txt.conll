@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	receptor	receptor	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	four	four	CD	_	5	num
+5	subunits	subunit	NNS	_	3	dobj
+6	,	,	,	_	5	punct
+7	which	which	WDT	_	10	nsubj
+8	are	be	VBP	_	10	cop
+9	chemically	chemically	RB	_	10	advmod
+10	identical	identical	JJ	_	5	rcmod
+11	but	but	CC	_	10	cc
+12	,	,	,	_	10	punct
+13	surprisingly	surprisingly	RB	_	10	advmod
+14	,	,	,	_	3	punct
+15	are	be	VBP	_	16	auxpass
+16	folded	fold	VBN	_	3	dep
+17	differently	differently	RB	_	16	advmod
+18	-LRB-	-lrb-	-LRB-	_	19	punct
+19	see	see	VB	_	16	dep
+20	picture	picture	NN	_	19	dobj
+21	-RRB-	-rrb-	-RRB-	_	19	punct
+22	.	.	.	_	3	punct
+

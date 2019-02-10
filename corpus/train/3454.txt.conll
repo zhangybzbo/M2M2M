@@ -1,0 +1,26 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	an	a	DT	_	5	det
+4	absorbing	absorb	VBG	_	5	amod
+5	book	book	NN	_	0	ROOT
+6	,	,	,	_	5	punct
+7	diminished	diminish	VBN	_	5	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	8	pobj
+10	choppy	choppy	JJ	_	9	amod
+11	way	way	NN	_	10	dep
+12	Ackerman	Ackerman	NNP	_	11	dep
+13	balances	balance	NNS	_	12	dep
+14	Antonina	Antonina	NNP	_	16	poss
+15	's	's	POS	_	14	possessive
+16	account	account	NN	_	13	dep
+17	with	with	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	larger	larger	JJR	_	20	amod
+20	story	story	NN	_	17	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	24	det
+23	Warsaw	Warsaw	NNP	_	24	nn
+24	Holocaust	Holocaust	NNP	_	21	pobj
+25	.	.	.	_	5	punct
+

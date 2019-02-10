@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	Hip	hip	NN	_	3	nsubj
+3	Hop	hop	VB	_	7	csubjpass
+4	National	National	NNP	_	5	nn
+5	interschool	interschool	NNP	_	3	dobj
+6	is	be	VBZ	_	7	auxpass
+7	rescheduled	reschedule	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	11	det
+10	1st	1st	JJ	_	11	amod
+11	week	week	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	July	July	NNP	_	12	pobj
+14	.	.	.	_	7	punct
+

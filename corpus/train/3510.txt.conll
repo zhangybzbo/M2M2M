@@ -1,0 +1,22 @@
+1	Plus	plus	CC	_	5	cc
+2	the	the	DT	_	4	det
+3	drink	drink	NN	_	4	nn
+4	machine	machine	NN	_	5	nsubj
+5	was	be	VBD	_	0	ROOT
+6	out	out	RB	_	5	advmod
+7	so	so	RB	_	9	advmod
+8	my	my	PRP$	_	9	poss
+9	drink	drink	NN	_	10	nsubj
+10	was	be	VBD	_	5	ccomp
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	can	can	NN	_	11	pobj
+14	and	and	CC	_	10	cc
+15	they	they	PRP	_	16	nsubj
+16	had	have	VBD	_	10	conj
+17	no	no	DT	_	18	neg
+18	ice	ice	NN	_	16	dobj
+19	as	as	RB	_	20	advmod
+20	well	well	RB	_	16	advmod
+21	.	.	.	_	5	punct
+

@@ -1,0 +1,17 @@
+1	We	we	PRP	_	3	nsubj
+2	do	do	VBP	_	3	aux
+3	have	have	VB	_	0	ROOT
+4	a	a	DT	_	6	det
+5	fledgling	fledgling	JJ	_	6	amod
+6	population	population	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	cosmopolites	cosmopolite	NNS	_	7	pobj
+9	living	live	VBG	_	8	vmod
+10	the	the	DT	_	12	det
+11	good	good	JJ	_	12	amod
+12	life	life	NN	_	9	dobj
+13	almost	almost	RB	_	14	advmod
+14	without	without	IN	_	3	prep
+15	cars	car	NNS	_	14	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	This	this	DT	_	3	det
+2	experimental	experimental	JJ	_	3	amod
+3	piece	piece	NN	_	4	nsubj
+4	explored	explore	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	use	use	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	indigenous	indigenous	JJ	_	10	amod
+9	medicinal	medicinal	JJ	_	10	amod
+10	plants	plant	NNS	_	7	pobj
+11	by	by	IN	_	6	prep
+12	modern	modern	JJ	_	14	amod
+13	urban	urban	JJ	_	14	amod
+14	cultures	culture	NNS	_	11	pobj
+15	.	.	.	_	4	punct
+

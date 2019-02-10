@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	tunnel	tunnel	NN	_	3	nn
+3	complex	complex	NN	_	5	nsubj
+4	now	now	RB	_	5	advmod
+5	hosts	host	VBZ	_	0	ROOT
+6	a	a	DT	_	7	det
+7	series	series	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	galleries	gallery	NNS	_	8	pobj
+10	detailing	detail	VBG	_	9	vmod
+11	the	the	DT	_	13	det
+12	occupation	occupation	NN	_	13	nn
+13	history	history	NN	_	10	dobj
+14	.	.	.	_	5	punct
+

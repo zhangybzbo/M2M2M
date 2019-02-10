@@ -1,0 +1,1 @@
+A pedometer uses a spring loaded arm to measure the vertical movement .

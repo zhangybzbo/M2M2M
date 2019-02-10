@@ -1,0 +1,22 @@
+1	From	from	IN	_	6	prep
+2	the	the	DT	_	3	det
+3	front	front	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	it	it	PRP	_	6	nsubj
+6	looks	look	VBZ	_	0	ROOT
+7	like	like	IN	_	6	prep
+8	some	some	DT	_	9	det
+9	sort	sort	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	car	car	NN	_	10	pobj
+12	from	from	IN	_	6	prep
+13	the	the	DT	_	14	det
+14	future	future	NN	_	12	pobj
+15	in	in	IN	_	6	prep
+16	a	a	DT	_	17	det
+17	50	50	CD	_	20	poss
+18	's	's	POS	_	17	possessive
+19	sci-fi	sci-fi	JJ	_	20	amod
+20	movie	movie	NN	_	15	pobj
+21	.	.	.	_	6	punct
+

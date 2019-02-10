@@ -1,0 +1,20 @@
+1	Head	head	VB	_	2	amod
+2	injuries	injury	NNS	_	6	nsubj
+3	are	be	VBP	_	6	cop
+4	a	a	DT	_	6	det
+5	common	common	JJ	_	6	amod
+6	cause	cause	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	unconsciousness	unconsciousness	NN	_	7	pobj
+9	and	and	CC	_	6	cc
+10	they	they	PRP	_	11	nsubj
+11	occur	occur	VBP	_	6	conj
+12	in	in	IN	_	11	prep
+13	many	many	JJ	_	14	amod
+14	sports	sport	NNS	_	12	pobj
+15	like	like	IN	_	14	prep
+16	rugby	rugby	JJ	_	15	pobj
+17	and	and	CC	_	16	cc
+18	boxing	boxing	NN	_	16	conj
+19	.	.	.	_	6	punct
+

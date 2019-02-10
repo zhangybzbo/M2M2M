@@ -1,0 +1,20 @@
+1	Hundreds	hundred	NNS	_	8	nsubj
+2	of	of	IN	_	1	prep
+3	thousands	thousand	NNS	_	2	pobj
+4	in	in	IN	_	3	prep
+5	central	central	JJ	_	6	amod
+6	China	China	NNP	_	4	pobj
+7	are	be	VBP	_	8	aux
+8	sleeping	sleep	VBG	_	0	ROOT
+9	outdoors	outdoors	NNS	_	8	dobj
+10	for	for	IN	_	8	prep
+11	fear	fear	NN	_	10	pobj
+12	of	of	IN	_	11	prep
+13	more	more	JJR	_	14	amod
+14	tremors	tremor	NNS	_	12	pobj
+15	after	after	IN	_	8	prep
+16	Saturday	Saturday	NNP	_	18	poss
+17	's	's	POS	_	16	possessive
+18	earthquake	earthquake	NN	_	15	pobj
+19	.	.	.	_	8	punct
+

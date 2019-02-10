@@ -1,0 +1,14 @@
+1	Waves	wave	NNS	_	9	nsubj
+2	and	and	CC	_	1	cc
+3	coastal	coastal	JJ	_	4	amod
+4	erosion	erosion	NN	_	1	conj
+5	is	be	VBZ	_	9	cop
+6	a	a	DT	_	9	det
+7	good	good	JJ	_	9	amod
+8	general	general	JJ	_	9	amod
+9	discussion	discussion	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	these	these	DT	_	12	det
+12	subjects	subject	NNS	_	10	pobj
+13	.	.	.	_	9	punct
+

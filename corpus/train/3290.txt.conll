@@ -1,0 +1,15 @@
+1	Space	space	NN	_	3	nn
+2	shuttle	shuttle	NN	_	3	nn
+3	science	science	NN	_	4	nsubj
+4	shows	show	VBZ	_	0	ROOT
+5	how	how	WRB	_	10	advmod
+6	1908	1908	CD	_	8	num
+7	Tunguska	Tunguska	NNP	_	8	nn
+8	explosion	explosion	NN	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	caused	cause	VBN	_	4	ccomp
+11	by	by	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	comet	comet	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

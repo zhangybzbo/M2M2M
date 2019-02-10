@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	X-Men	x-man	NN	_	4	nn
+3	battle	battle	NN	_	4	nn
+4	Sentinels	sentinel	NNS	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	this	this	DT	_	8	det
+7	new	new	JJ	_	8	amod
+8	clip	clip	NN	_	5	pobj
+9	from	from	IN	_	4	prep
+10	the	the	DT	_	12	det
+11	animated	animated	JJ	_	12	amod
+12	series	series	NN	_	9	pobj
+13	.	.	.	_	4	punct
+

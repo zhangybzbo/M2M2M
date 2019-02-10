@@ -1,0 +1,19 @@
+1	Short-term	short-term	JJ	_	3	amod
+2	side	side	JJ	_	3	amod
+3	effects	effect	NNS	_	5	nsubj
+4	are	be	VBP	_	5	cop
+5	uncommon	uncommon	JJ	_	0	ROOT
+6	,	,	,	_	5	punct
+7	but	but	CC	_	5	cc
+8	include	include	VBP	_	5	conj
+9	headache	headache	NN	_	8	dobj
+10	from	from	IN	_	9	prep
+11	eyestrain	eyestrain	NN	_	10	pobj
+12	,	,	,	_	11	punct
+13	nausea	nausea	NN	_	11	conj
+14	,	,	,	_	11	punct
+15	agitation	agitation	NN	_	11	conj
+16	or	or	CC	_	11	cc
+17	nervousness	nervousness	NN	_	11	conj
+18	.	.	.	_	5	punct
+

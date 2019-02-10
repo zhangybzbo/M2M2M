@@ -1,0 +1,13 @@
+1	Many	many	JJ	_	2	amod
+2	disorders	disorder	NNS	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	stomach	stomach	NN	_	3	pobj
+6	and	and	CC	_	5	cc
+7	intestines	intestine	NNS	_	5	conj
+8	cause	cause	VBP	_	0	ROOT
+9	nausea	nausea	NN	_	8	dobj
+10	and	and	CC	_	9	cc
+11	vomiting	vomiting	NN	_	9	conj
+12	.	.	.	_	8	punct
+

@@ -1,0 +1,14 @@
+1	New	New	NNP	_	2	nn
+2	settlers	settler	NNS	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	this	this	DT	_	7	det
+6	harsh	harsh	JJ	_	7	amod
+7	land	land	NN	_	4	pobj
+8	to	to	TO	_	9	aux
+9	seek	seek	VB	_	3	xcomp
+10	a	a	DT	_	12	det
+11	new	new	JJ	_	12	amod
+12	life	life	NN	_	9	dobj
+13	.	.	.	_	3	punct
+

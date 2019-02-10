@@ -1,0 +1,16 @@
+1	A	a	DT	_	3	det
+2	central	central	JJ	_	3	amod
+3	vacuum	vacuum	NN	_	10	nsubj
+4	is	be	VBZ	_	10	cop
+5	a	a	DT	_	10	det
+6	vacuum	vacuum	NN	_	7	nn
+7	motor	motor	NN	_	10	nn
+8	and	and	CC	_	7	cc
+9	filtration	filtration	NN	_	7	conj
+10	system	system	NN	_	0	ROOT
+11	built	build	VBN	_	10	vmod
+12	inside	inside	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	canister	canister	NN	_	12	pobj
+15	.	.	.	_	10	punct
+

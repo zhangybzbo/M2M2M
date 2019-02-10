@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	kennels	kennel	NNS	_	11	nsubj
+3	of	of	IN	_	2	prep
+4	hounds	hound	NNS	_	3	pobj
+5	and	and	CC	_	4	cc
+6	mews	mew	NNS	_	4	conj
+7	of	of	IN	_	4	prep
+8	hawks	hawk	NNS	_	7	pobj
+9	were	be	VBD	_	11	cop
+10	a	a	DT	_	11	det
+11	form	form	NN	_	0	ROOT
+12	of	of	IN	_	11	prep
+13	conspicuous	conspicuous	JJ	_	14	amod
+14	consumption	consumption	NN	_	12	pobj
+15	that	that	IN	_	20	dobj
+16	only	only	RB	_	18	advmod
+17	a	a	DT	_	18	det
+18	noble	noble	JJ	_	20	nsubj
+19	could	could	MD	_	20	aux
+20	afford	afford	VB	_	11	rcmod
+21	as	as	RB	_	23	advmod
+22	so	so	RB	_	23	advmod
+23	mark	mark	VB	_	20	dep
+24	his	he	PRP$	_	25	poss
+25	status	status	NN	_	23	dobj
+26	.	.	.	_	11	punct
+

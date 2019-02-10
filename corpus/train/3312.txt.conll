@@ -1,0 +1,12 @@
+1	A	a	DT	_	2	det
+2	train	train	NN	_	3	nsubj
+3	ran	run	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	truck	truck	NN	_	4	pobj
+7	,	,	,	_	3	punct
+8	leaving	leave	VBG	_	3	vmod
+9	14	14	CD	_	8	dobj
+10	dead	dead	JJ	_	9	amod
+11	.	.	.	_	3	punct
+

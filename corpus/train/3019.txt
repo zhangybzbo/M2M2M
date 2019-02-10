@@ -1,0 +1,1 @@
+Another important data structure - the heap - has already been introduced in the previous chapter .

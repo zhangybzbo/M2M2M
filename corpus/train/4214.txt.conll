@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	issue	issue	NN	_	12	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	legitimacy	legitimacy	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	Kosovo	Kosovo	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	declaration	declaration	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	independence	independence	NN	_	10	pobj
+12	is	be	VBZ	_	0	ROOT
+13	now	now	RB	_	12	advmod
+14	under	under	IN	_	12	prep
+15	discussion	discussion	NN	_	14	pobj
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	International	International	NNP	_	19	nn
+19	Court	Court	NNP	_	16	pobj
+20	of	of	IN	_	19	prep
+21	Justice	Justice	NNP	_	20	pobj
+22	.	.	.	_	12	punct
+

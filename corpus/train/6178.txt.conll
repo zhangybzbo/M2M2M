@@ -1,0 +1,20 @@
+1	On	on	IN	_	7	prep
+2	each	each	DT	_	3	det
+3	occasion	occasion	NN	_	1	pobj
+4	the	the	DT	_	6	det
+5	search	search	NN	_	6	nn
+6	parties	party	NNS	_	7	nsubj
+7	departed	depart	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	Commissioner	Commissioner	NNP	_	10	nn
+10	Tyers	Tyers	NNP	_	12	poss
+11	's	's	POS	_	10	possessive
+12	headquarters	headquarters	NN	_	8	pobj
+13	at	at	IN	_	12	prep
+14	Eagle	Eagle	NNP	_	15	nn
+15	Point	Point	NNP	_	13	pobj
+16	overlooking	overlook	VBG	_	15	vmod
+17	Lake	Lake	NNP	_	18	nn
+18	King	King	NNP	_	16	dobj
+19	.	.	.	_	7	punct
+

@@ -1,0 +1,14 @@
+1	We	we	PRP	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	determined	determine	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	pursue	pursue	VB	_	3	xcomp
+6	the	the	DT	_	7	det
+7	conquest	conquest	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	evil	evil	JJ	_	8	pobj
+10	with	with	IN	_	5	prep
+11	the	the	DT	_	12	det
+12	good	good	JJ	_	10	pobj
+13	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+0	73	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="balance" pos="NNS" nsubjpass="t3"
+13	17	tok id="t2" base="be" pos="VBD" auxpass="t3"
+18	26	tok id="t3" base="import" pos="VBN" ROOT="ROOT"
+27	31	tok id="t4" base="into" pos="IN" prep="t3"
+32	35	tok id="t5" base="the" pos="DT" det="t8"
+36	41	tok id="t6" base="small" pos="JJ" amod="t8"
+42	50	tok id="t7" base="business" pos="NN" nn="t8"
+51	61	tok id="t8" base="accounting" pos="NN" pobj="t4"
+62	71	tok id="t9" base="correctly" pos="RB" advmod="t3"
+72	73	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

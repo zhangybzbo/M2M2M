@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	Clippers	Clippers	NNP	_	9	nsubj
+3	,	,	,	_	9	punct
+4	in	in	IN	_	9	prep
+5	contrast	contrast	NN	_	4	pobj
+6	,	,	,	_	9	punct
+7	are	be	VBP	_	9	cop
+8	a	a	DT	_	9	det
+9	prickle	prickle	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	hedgehogs	hedgehog	NNS	_	10	pobj
+12	without	without	IN	_	9	prep
+13	a	a	DT	_	15	det
+14	common	common	JJ	_	15	amod
+15	goal	goal	NN	_	12	pobj
+16	.	.	.	_	9	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	tsunamis	tsunami	NN	_	8	nsubj
+3	triggered	trigger	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	massive	massive	JJ	_	7	amod
+7	earthquakes	earthquake	NNS	_	4	pobj
+8	plunged	plunge	VBD	_	0	ROOT
+9	those	those	DT	_	10	det
+10	provinces	province	NNS	_	8	dobj
+11	into	into	IN	_	8	prep
+12	crisis	crisis	NN	_	11	pobj
+13	:	:	:	_	8	punct
+14	the	the	DT	_	15	det
+15	number	number	NN	_	22	nsubj
+16	of	of	IN	_	15	prep
+17	people	people	NNS	_	16	pobj
+18	dead	dead	JJ	_	17	amod
+19	and	and	CC	_	18	cc
+20	missing	missing	JJ	_	18	conj
+21	has	have	VBZ	_	22	aux
+22	reached	reach	VBN	_	8	parataxis
+23	to	to	TO	_	22	prep
+24	245,782	245,782	CD	_	25	num
+25	people	people	NNS	_	23	pobj
+26	.	.	.	_	8	punct
+

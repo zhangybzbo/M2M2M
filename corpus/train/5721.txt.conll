@@ -1,0 +1,13 @@
+1	Part	part	NN	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	problem	problem	NN	_	2	pobj
+5	is	be	VBZ	_	6	auxpass
+6	rooted	root	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	an	a	DT	_	11	det
+9	ill-conceived	ill-conceived	JJ	_	11	amod
+10	state	state	NN	_	11	nn
+11	law	law	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

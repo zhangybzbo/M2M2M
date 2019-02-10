@@ -1,0 +1,13 @@
+1	Urgent	urgent	JJ	_	2	amod
+2	needs	need	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	approaching	approach	VBG	_	0	ROOT
+5	the	the	DT	_	6	det
+6	society	society	NN	_	4	dobj
+7	,	,	,	_	6	punct
+8	which	which	WDT	_	9	nsubj
+9	requires	require	VBZ	_	6	rcmod
+10	dynamic	dynamic	JJ	_	11	amod
+11	changes	change	NNS	_	9	dobj
+12	.	.	.	_	4	punct
+

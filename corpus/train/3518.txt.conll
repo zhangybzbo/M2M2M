@@ -1,0 +1,17 @@
+1	Strong	strong	JJ	_	3	amod
+2	warm	warm	JJ	_	3	amod
+3	winds	wind	NNS	_	10	nsubj
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	Northwest	Northwest	NNP	_	4	pobj
+7	and	and	CC	_	6	cc
+8	North	North	NNP	_	6	conj
+9	have	have	VBP	_	10	aux
+10	carried	carry	VBN	_	0	ROOT
+11	locusts	locust	NNS	_	10	dobj
+12	into	into	IN	_	10	prep
+13	the	the	DT	_	15	det
+14	closest	closest	JJS	_	15	amod
+15	sector	sector	NN	_	12	pobj
+16	.	.	.	_	10	punct
+

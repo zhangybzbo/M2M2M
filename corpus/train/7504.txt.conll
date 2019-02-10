@@ -1,0 +1,11 @@
+1	Some	some	DT	_	2	det
+2	people	people	NNS	_	3	nsubj
+3	experience	experience	VBP	_	0	ROOT
+4	tremors	tremor	NNS	_	3	dobj
+5	after	after	IN	_	3	prep
+6	drinking	drink	VBG	_	5	pcomp
+7	coffee	coffee	NN	_	6	dobj
+8	and	and	CC	_	7	cc
+9	tea	tea	NN	_	7	conj
+10	.	.	.	_	3	punct
+

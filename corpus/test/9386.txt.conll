@@ -1,0 +1,15 @@
+1	EU	EU	NNP	_	3	nn
+2	enlargement	enlargement	NN	_	3	nn
+3	policy	policy	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	presented	present	VBN	_	0	ROOT
+6	as	as	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	central	central	JJ	_	9	amod
+9	instrument	instrument	NN	_	6	pobj
+10	for	for	IN	_	9	prep
+11	EU	EU	NNP	_	13	nn
+12	conflict	conflict	NN	_	13	nn
+13	prevention	prevention	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

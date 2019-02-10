@@ -1,0 +1,15 @@
+1	Desperados	Desperados	NNPS	_	8	nsubj
+2	is	be	VBZ	_	8	cop
+3	a	a	DT	_	5	det
+4	CBBC	cbbc	JJ	_	5	amod
+5	children	child	NNS	_	8	poss
+6	's	's	POS	_	5	possessive
+7	drama	drama	NN	_	8	nn
+8	series	series	NN	_	0	ROOT
+9	following	follow	VBG	_	8	prep
+10	a	a	DT	_	13	det
+11	wheelchair	wheelchair	NN	_	13	nn
+12	basketball	basketball	NN	_	13	nn
+13	team	team	NN	_	9	pobj
+14	.	.	.	_	8	punct
+

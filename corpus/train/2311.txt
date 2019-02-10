@@ -1,0 +1,1 @@
+This was demonstrated for a servomotor driven-robot arm using a computer simulation .

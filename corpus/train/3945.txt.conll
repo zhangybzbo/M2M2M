@@ -1,0 +1,22 @@
+1	He	he	PRP	_	5	nsubjpass
+2	had	have	VBD	_	5	aux
+3	been	be	VBN	_	5	auxpass
+4	as	as	RB	_	5	advmod
+5	concerned	concern	VBN	_	0	ROOT
+6	about	about	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	400	400	CD	_	9	num
+9	people	people	NNS	_	6	pobj
+10	who	who	WP	_	12	nsubj
+11	had	have	VBD	_	12	aux
+12	left	leave	VBN	_	9	rcmod
+13	the	the	DT	_	14	det
+14	ship	ship	NN	_	12	dobj
+15	as	as	IN	_	12	prep
+16	about	about	IN	_	15	pcomp
+17	those	those	DT	_	16	pobj
+18	who	who	WP	_	19	nsubj
+19	remained	remain	VBD	_	17	rcmod
+20	aboard	aboard	IN	_	19	prep
+21	.	.	.	_	5	punct
+

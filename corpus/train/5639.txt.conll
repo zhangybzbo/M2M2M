@@ -1,0 +1,25 @@
+1	Cervical	cervical	JJ	_	2	amod
+2	strain	strain	NN	_	3	nsubj
+3	results	result	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	physical	physical	JJ	_	7	amod
+7	stresses	stress	NNS	_	4	pobj
+8	of	of	IN	_	7	prep
+9	everyday	everyday	JJ	_	10	amod
+10	life	life	NN	_	8	pobj
+11	,	,	,	_	7	punct
+12	including	include	VBG	_	7	prep
+13	poor	poor	JJ	_	14	amod
+14	posture	posture	NN	_	12	pobj
+15	,	,	,	_	14	punct
+16	muscle	muscle	NN	_	17	nn
+17	tension	tension	NN	_	14	appos
+18	from	from	IN	_	17	prep
+19	psychologic	psychologic	JJ	_	20	amod
+20	stress	stress	NN	_	18	pobj
+21	or	or	CC	_	20	cc
+22	poor	poor	JJ	_	23	amod
+23	sleeping	sleeping	NN	_	20	conj
+24	.	.	.	_	3	punct
+

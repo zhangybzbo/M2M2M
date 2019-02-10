@@ -1,0 +1,27 @@
+1	Much	much	JJ	_	19	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	difference	difference	NN	_	2	pobj
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	total	total	JJ	_	8	amod
+8	damage	damage	NN	_	5	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	Nisqually	Nisqually	NNP	_	10	pobj
+13	and	and	CC	_	12	cc
+14	the	the	DT	_	16	det
+15	Northridge	Northridge	NNP	_	16	nn
+16	earthquakes	earthquake	NNS	_	12	conj
+17	can	can	MD	_	19	aux
+18	be	be	VB	_	19	auxpass
+19	attributed	attribute	VBN	_	0	ROOT
+20	to	to	TO	_	19	prep
+21	the	the	DT	_	23	det
+22	Nisqually	Nisqually	NNP	_	23	nn
+23	earthquake	earthquake	NN	_	25	poss
+24	's	's	POS	_	23	possessive
+25	location	location	NN	_	20	pobj
+26	.	.	.	_	19	punct
+

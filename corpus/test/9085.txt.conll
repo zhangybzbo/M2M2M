@@ -1,0 +1,24 @@
+1	It	it	PRP	_	0	ROOT
+2	's	be	VBZ	_	1	dep
+3	a	a	DT	_	2	nsubj
+4	long	long	RB	_	7	advmod
+5	,	,	,	_	7	punct
+6	polyphonic	polyphonic	JJ	_	7	amod
+7	novel	novel	JJ	_	3	dep
+8	bookended	bookend	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	virtuoso	virtuoso	JJ	_	13	amod
+12	first-person	first-person	NN	_	13	nn
+13	discourse	discourse	NN	_	9	pobj
+14	from	from	IN	_	13	prep
+15	Madero	Madero	NNP	_	14	pobj
+16	,	,	,	_	15	punct
+17	a	a	DT	_	22	det
+18	cocky	cocky	JJ	_	22	amod
+19	,	,	,	_	22	punct
+20	seventeen-year-old	seventeen-year-old	JJ	_	22	amod
+21	student	student	NN	_	22	nn
+22	poet	poet	NN	_	15	appos
+23	.	.	.	_	1	punct
+

@@ -1,0 +1,12 @@
+1	A	a	DT	_	3	det
+2	German	german	JJ	_	3	amod
+3	soldier	soldier	NN	_	4	nsubj
+4	attaches	attach	VBZ	_	0	ROOT
+5	a	a	DT	_	7	det
+6	EUFOR	eufor	NN	_	7	nn
+7	sign	sign	NN	_	4	dobj
+8	to	to	TO	_	4	prep
+9	a	a	DT	_	10	det
+10	vehicle	vehicle	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

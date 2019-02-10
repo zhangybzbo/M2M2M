@@ -1,0 +1,20 @@
+1	Then	then	RB	_	2	advmod
+2	after	after	IN	_	0	ROOT
+3	that	that	IN	_	6	mark
+4	the	the	DT	_	5	det
+5	angels	angel	NNS	_	6	nsubj
+6	chopped	chop	VBD	_	2	pcomp
+7	him	he	PRP	_	6	dobj
+8	into	into	IN	_	6	prep
+9	millions	million	NNS	_	8	pobj
+10	of	of	IN	_	9	prep
+11	pieces	piece	NNS	_	10	pobj
+12	,	,	,	_	6	punct
+13	but	but	CC	_	6	cc
+14	still	still	RB	_	16	advmod
+15	he	he	PRP	_	16	nsubj
+16	glittered	glitter	VBD	_	6	conj
+17	and	and	CC	_	16	cc
+18	hummed	hum	VBD	_	16	conj
+19	.	.	.	_	2	punct
+

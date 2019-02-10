@@ -1,0 +1,16 @@
+1	Its	its	PRP$	_	2	poss
+2	collections	collection	NNS	_	3	nsubj
+3	illustrate	illustrate	VBP	_	0	ROOT
+4	admirably	admirably	RB	_	3	advmod
+5	the	the	DT	_	7	det
+6	natural	natural	JJ	_	7	amod
+7	history	history	NN	_	4	pobj
+8	,	,	,	_	7	punct
+9	archeology	archeology	NN	_	7	conj
+10	and	and	CC	_	7	cc
+11	art	art	NN	_	7	conj
+12	of	of	IN	_	11	prep
+13	Southern	Southern	NNP	_	14	nn
+14	India	India	NNP	_	12	pobj
+15	.	.	.	_	3	punct
+

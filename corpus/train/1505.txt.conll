@@ -1,0 +1,11 @@
+1	A	a	DT	_	3	det
+2	large	large	JJ	_	3	amod
+3	diagram	diagram	NN	_	4	nsubj
+4	illustrated	illustrate	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	principle	principle	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	this	this	DT	_	9	det
+9	apparatus	apparatus	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

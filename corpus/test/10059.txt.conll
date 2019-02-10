@@ -1,0 +1,21 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	3	det
+3	force	force	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	generated	generate	VBN	_	13	advcl
+6	via	via	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	joystick	joystick	NN	_	6	pobj
+9	,	,	,	_	13	punct
+10	the	the	DT	_	12	det
+11	reproduced	reproduce	VBN	_	12	amod
+12	force	force	NN	_	13	nsubj
+13	matched	match	VBD	_	0	ROOT
+14	the	the	DT	_	16	det
+15	original	original	JJ	_	16	amod
+16	force	force	NN	_	13	dobj
+17	much	much	RB	_	18	advmod
+18	more	more	RBR	_	19	advmod
+19	accurately	accurately	RB	_	13	advmod
+20	.	.	.	_	13	punct
+

@@ -1,0 +1,14 @@
+1	Here	here	RB	_	2	advmod
+2	is	be	VBZ	_	0	ROOT
+3	another	another	DT	_	4	det
+4	work	work	NN	_	2	nsubj
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	pen	pen	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	vital	vital	JJ	_	12	amod
+11	American	american	JJ	_	12	amod
+12	composer	composer	NN	_	8	pobj
+13	.	.	.	_	2	punct
+

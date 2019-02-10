@@ -1,0 +1,25 @@
+1	Let	let	VB	_	17	dep
+2	It	it	PRP	_	3	nsubj
+3	Be	be	VB	_	1	ccomp
+4	,	,	,	_	3	punct
+5	the	the	DT	_	8	det
+6	third	third	JJ	_	8	amod
+7	full-length	full-length	JJ	_	8	amod
+8	record	record	NN	_	3	dep
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	14	det
+11	now	now	RB	_	14	advmod
+12	long-defunct	long-defunct	JJ	_	14	amod
+13	Minnesota	Minnesota	NNP	_	14	nn
+14	quartet	quartet	NN	_	9	pobj
+15	,	,	,	_	17	punct
+16	was	be	VBD	_	17	auxpass
+17	released	release	VBN	_	0	ROOT
+18	at	at	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	tail	tail	NN	_	21	nn
+21	end	end	NN	_	18	pobj
+22	of	of	IN	_	21	prep
+23	1984	1984	CD	_	22	pobj
+24	.	.	.	_	17	punct
+

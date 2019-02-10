@@ -1,0 +1,18 @@
+1	Personal	personal	JJ	_	2	amod
+2	stories	story	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	shared	share	VBN	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	events	event	NNS	_	4	conj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	islands	island	NNS	_	7	pobj
+10	were	be	VBD	_	11	auxpass
+11	documented	document	VBN	_	4	dep
+12	through	through	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	islanders	islander	NNS	_	16	poss
+15	'	'	POS	_	14	possessive
+16	blogs	blog	NNS	_	12	pobj
+17	.	.	.	_	4	punct
+

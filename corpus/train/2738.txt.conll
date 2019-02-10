@@ -1,0 +1,14 @@
+1	Arginine-rich	arginine-rich	JJ	_	4	amod
+2	intracellular	intracellular	JJ	_	4	amod
+3	delivery	delivery	NN	_	4	nn
+4	peptides	peptide	NNS	_	6	nsubj
+5	noncovalently	noncovalently	RB	_	6	advmod
+6	transported	transport	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	protein	protein	NN	_	6	dobj
+9	into	into	IN	_	6	prep
+10	the	the	DT	_	12	det
+11	living	living	NN	_	12	nn
+12	cells	cell	NNS	_	9	pobj
+13	.	.	.	_	6	punct
+

@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det
+2	disease	disease	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	spread	spread	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	humans	human	NNS	_	5	pobj
+7	via	via	IN	_	4	prep
+8	fleas	flea	NNS	_	7	pobj
+9	from	from	IN	_	8	prep
+10	rats	rat	NNS	_	9	pobj
+11	infected	infect	VBN	_	10	vmod
+12	with	with	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	bacteria	bacterium	NNS	_	12	pobj
+15	Yersinia	Yersinia	NNP	_	16	nsubj
+16	pestis	pesti	VBZ	_	14	rcmod
+17	.	.	.	_	4	punct
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	problem	problem	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	widgets	widget	NNS	_	4	pobj
+7	resembling	resemble	VBG	_	6	vmod
+8	HTC	HTC	NNP	_	13	poss
+9	's	's	POS	_	8	possessive
+10	own	own	JJ	_	13	amod
+11	Sense	sense	NN	_	13	nn
+12	UI	uus	NN	_	13	nn
+13	widgets	widget	NNS	_	7	dobj
+14	.	.	.	_	3	punct
+

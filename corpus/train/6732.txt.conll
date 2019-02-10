@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	software	software	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	it	it	PRP	_	3	dobj
+5	easier	easier	JJR	_	4	amod
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	team	team	NN	_	6	pobj
+9	to	to	TO	_	10	aux
+10	explore	explore	VB	_	8	vmod
+11	rational	rational	JJ	_	12	amod
+12	ways	way	NNS	_	10	dobj
+13	of	of	IN	_	12	prep
+14	expanding	expand	VBG	_	13	pcomp
+15	the	the	DT	_	16	det
+16	lobby	lobby	NN	_	14	dobj
+17	using	use	VBG	_	14	xcomp
+18	the	the	DT	_	19	det
+19	geometry	geometry	NN	_	17	dobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	building	building	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

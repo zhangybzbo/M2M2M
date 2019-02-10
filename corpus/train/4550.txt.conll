@@ -1,0 +1,9 @@
+1	Mom	mom	NN	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	5	5	CD	_	2	pobj
+4	succeeded	succeed	VBD	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	can-do	can-do	JJ	_	7	amod
+7	attitude	attitude	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

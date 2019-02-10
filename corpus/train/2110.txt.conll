@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	defendants	defendant	NNS	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	advantage	advantage	NN	_	3	dobj
+5	of	of	IN	_	4	prep
+6	Astor	Astor	NNP	_	10	poss
+7	's	's	POS	_	6	possessive
+8	diminished	diminish	VBN	_	10	amod
+9	mental	mental	JJ	_	10	amod
+10	capacity	capacity	NN	_	5	pobj
+11	to	to	TO	_	12	aux
+12	carry	carry	VB	_	10	vmod
+13	them	they	PRP	_	12	dobj
+14	out	out	RP	_	12	prt
+15	.	.	.	_	3	punct
+

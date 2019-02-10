@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	bicycle	bicycle	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	manufactured	manufacture	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	building	building	NN	_	5	pobj
+8	leased	lease	VBN	_	7	vmod
+9	from	from	IN	_	8	prep
+10	their	they	PRP$	_	12	poss
+11	former	former	JJ	_	12	amod
+12	employer	employer	NN	_	9	pobj
+13	,	,	,	_	4	punct
+14	the	the	DT	_	17	det
+15	Canadian	canadian	JJ	_	17	amod
+16	Typothetac	Typothetac	NNP	_	17	nn
+17	Company	Company	NNP	_	4	dobj
+18	.	.	.	_	4	punct
+

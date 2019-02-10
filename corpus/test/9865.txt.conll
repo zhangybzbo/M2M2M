@@ -1,0 +1,12 @@
+1	Wendy	Wendy	NNP	_	4	nsubj
+2	's	's	POS	_	1	possessive
+3	has	have	VBZ	_	4	aux
+4	added	add	VBN	_	0	ROOT
+5	orange	orange	JJ	_	6	amod
+6	slices	slice	NNS	_	4	dobj
+7	into	into	IN	_	4	prep
+8	children	child	NNS	_	10	poss
+9	's	's	POS	_	8	possessive
+10	meals	meal	NNS	_	7	pobj
+11	.	.	.	_	4	punct
+

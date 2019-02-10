@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	message	message	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	enclosed	enclose	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	paper	paper	NN	_	5	pobj
+8	that	that	WDT	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	folded	fold	VBN	_	7	rcmod
+11	and	and	CC	_	10	cc
+12	sealed	seal	VBN	_	10	conj
+13	.	.	.	_	4	punct
+

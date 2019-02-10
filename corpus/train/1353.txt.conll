@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	student	student	NN	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	note	note	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	the	the	DT	_	9	det
+8	class	class	NN	_	9	nn
+9	room	room	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

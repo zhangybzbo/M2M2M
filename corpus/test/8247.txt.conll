@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	tableau	tableau	NN	_	7	nsubjpass
+3	like	like	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	one	one	CD	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	placed	place	VBN	_	0	ROOT
+8	inside	inside	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	king	king	NN	_	12	poss
+11	's	's	POS	_	10	possessive
+12	room	room	NN	_	8	pobj
+13	and	and	CC	_	7	cc
+14	refers	refer	VBZ	_	7	conj
+15	to	to	TO	_	14	prep
+16	court	court	NN	_	17	nn
+17	ceremonies	ceremony	NNS	_	15	pobj
+18	.	.	.	_	7	punct
+

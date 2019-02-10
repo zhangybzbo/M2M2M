@@ -1,0 +1,3 @@
+T1	Term 76 83	protein
+T2	Term 100 105	cells
+R1	Entity-Destination Arg1:T1 Arg2:T2

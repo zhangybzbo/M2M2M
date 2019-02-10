@@ -1,0 +1,1 @@
+Recall that in the Blink application , the timers were started from the booted event .

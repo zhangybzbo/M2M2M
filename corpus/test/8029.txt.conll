@@ -1,0 +1,17 @@
+1	He	he	PRP	_	2	nsubj
+2	produces	produce	VBZ	_	0	ROOT
+3	drawings	drawing	NNS	_	2	dobj
+4	and	and	CC	_	3	cc
+5	videos	video	NNS	_	3	conj
+6	that	that	WDT	_	9	nsubjpass
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	shown	show	VBN	_	3	rcmod
+10	in	in	IN	_	9	prep
+11	museums	museum	NNS	_	10	pobj
+12	in	in	IN	_	11	prep
+13	Europe	Europe	NNP	_	12	pobj
+14	and	and	CC	_	13	cc
+15	America	America	NNP	_	13	conj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,27 @@
+1	A	a	DT	_	5	det
+2	St.	St.	NNP	_	5	nn
+3	Paul	Paul	NNP	_	5	nn
+4	College	College	NNP	_	5	nn
+5	student	student	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	released	release	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	jail	jail	NN	_	8	pobj
+10	Wednesday	Wednesday	NNP	_	11	nn
+11	night	night	NN	_	7	tmod
+12	,	,	,	_	7	punct
+13	after	after	IN	_	7	prep
+14	his	he	PRP$	_	15	poss
+15	arrest	arrest	NN	_	13	pobj
+16	Tuesday	Tuesday	NNP	_	15	tmod
+17	in	in	IN	_	15	prep
+18	the	the	DT	_	20	det
+19	alleged	alleged	JJ	_	20	amod
+20	rape	rape	NN	_	17	pobj
+21	of	of	IN	_	20	prep
+22	another	another	DT	_	23	det
+23	student	student	NN	_	21	pobj
+24	on	on	IN	_	23	prep
+25	campus	campus	NN	_	24	pobj
+26	.	.	.	_	7	punct
+

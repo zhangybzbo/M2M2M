@@ -1,0 +1,13 @@
+1	This	this	DT	_	3	det
+2	Appalachian	Appalachian	NNP	_	3	nn
+3	region	region	NN	_	6	nsubjpass
+4	had	have	VBD	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	settled	settle	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	emigrants	emigrant	NNS	_	7	pobj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	lowlands	lowland	NNS	_	9	pobj
+12	.	.	.	_	6	punct
+

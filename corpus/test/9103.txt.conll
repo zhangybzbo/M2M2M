@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	skeleton	skeleton	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	discovered	discover	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	Neolithic-age	neolithic-age	JJ	_	8	amod
+8	tomb	tomb	NN	_	5	pobj
+9	unearthed	unearth	VBD	_	4	ccomp
+10	in	in	IN	_	9	prep
+11	Yumuktepe	Yumuktepe	NNP	_	12	nn
+12	Hoyuk	Hoyuk	NNP	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	17	det
+15	southern	southern	JJ	_	17	amod
+16	Mersin	Mersin	NNP	_	17	nn
+17	province	province	NN	_	13	pobj
+18	.	.	.	_	4	punct
+

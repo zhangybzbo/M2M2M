@@ -1,0 +1,27 @@
+1	Although	although	IN	_	5	mark
+2	big	big	JJ	_	4	amod
+3	city	city	NN	_	4	nn
+4	marathons	marathon	NNS	_	5	nsubj
+5	offer	offer	VBP	_	0	ROOT
+6	great	great	JJ	_	8	amod
+7	crowd	crowd	NN	_	8	nn
+8	support	support	NN	_	5	dobj
+9	and	and	CC	_	8	cc
+10	a	a	DT	_	12	det
+11	large	large	JJ	_	12	amod
+12	camaraderie	camaraderie	NN	_	8	conj
+13	of	of	IN	_	12	prep
+14	runners	runner	NNS	_	13	pobj
+15	,	,	,	_	5	punct
+16	running	run	VBG	_	15	ccomp
+17	in	in	IN	_	16	prep
+18	a	a	DT	_	21	det
+19	big	big	JJ	_	21	amod
+20	city	city	NN	_	21	nn
+21	marathon	marathon	NN	_	17	pobj
+22	is	be	VBZ	_	16	dep
+23	not	not	RB	_	24	neg
+24	for	for	IN	_	22	prep
+25	everyone	everyone	NN	_	24	pobj
+26	.	.	.	_	16	punct
+

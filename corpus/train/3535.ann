@@ -1,0 +1,3 @@
+T1	Term 31 39	bratpack
+T2	Term 52 59	authors
+R1	Member-Collection Arg1:T2 Arg2:T1

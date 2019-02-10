@@ -1,0 +1,23 @@
+1	British	british	JJ	_	2	amod
+2	troops	troops	NNS	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	their	they	PRP$	_	6	poss
+5	deepest	deepest	JJS	_	6	amod
+6	incursion	incursion	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	Basra	Basra	NNP	_	7	pobj
+9	yesterday	yesterday	NN	_	3	tmod
+10	,	,	,	_	3	punct
+11	``	``	``	_	3	punct
+12	poking	poke	VBG	_	3	xcomp
+13	a	a	DT	_	14	det
+14	toe	toe	NN	_	12	dobj
+15	''	''	''	_	12	punct
+16	within	within	IN	_	12	prep
+17	four	four	CD	_	18	num
+18	miles	mile	NNS	_	16	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	centre	centre	NN	_	19	pobj
+22	.	.	.	_	3	punct
+

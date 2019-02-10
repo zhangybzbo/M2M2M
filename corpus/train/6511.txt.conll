@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det
+2	full	full	JJ	_	4	amod
+3	featured	featured	JJ	_	4	amod
+4	keyboards	keyboard	NNS	_	5	nsubj
+5	had	have	VBD	_	0	ROOT
+6	keys	key	NNS	_	5	dobj
+7	4	4	CD	_	8	num
+8	times	time	NNS	_	9	npadvmod
+9	bigger	bigger	JJR	_	6	amod
+10	than	than	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	traditional	traditional	JJ	_	13	amod
+13	keyboard	keyboard	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

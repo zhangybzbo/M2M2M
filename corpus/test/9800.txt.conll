@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	files	file	NNS	_	3	nsubj
+3	reveal	reveal	VBP	_	0	ROOT
+4	militarist	militarist	NN	_	5	nn
+5	plot	plot	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	kill	kill	VB	_	5	vmod
+8	Yoshida	Yoshida	NNP	_	7	dobj
+9	.	.	.	_	3	punct
+

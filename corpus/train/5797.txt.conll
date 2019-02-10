@@ -1,0 +1,23 @@
+1	Cane	Cane	NNP	_	3	nn
+2	sugar	sugar	NN	_	3	nn
+3	engineering	engineering	NN	_	9	nsubj
+4	and	and	CC	_	3	cc
+5	technology	technology	NN	_	6	nn
+6	texts	text	NNS	_	3	conj
+7	currently	currently	RB	_	8	advmod
+8	used	use	VBN	_	3	vmod
+9	are	be	VBP	_	0	ROOT
+10	out	out	IN	_	9	prep
+11	of	of	IN	_	10	pcomp
+12	date	date	NN	_	11	pobj
+13	and	and	CC	_	9	cc
+14	do	do	VBP	_	16	aux
+15	not	not	RB	_	16	neg
+16	include	include	VB	_	9	conj
+17	most	most	JJS	_	16	dobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	developments	development	NNS	_	18	pobj
+21	in	in	IN	_	20	prep
+22	technology	technology	NN	_	21	pobj
+

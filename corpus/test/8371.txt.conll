@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	ribs	rib	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	reinforced	reinforce	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	metal	metal	NN	_	7	nn
+7	tips	tip	NNS	_	5	pobj
+8	,	,	,	_	7	punct
+9	to	to	TO	_	17	prep
+10	which	which	WDT	_	9	pobj
+11	the	the	DT	_	12	det
+12	fabric	fabric	NN	_	17	nsubj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	umbrella	umbrella	NN	_	13	pobj
+16	is	be	VBZ	_	17	cop
+17	sewn	sewn	JJ	_	7	rcmod
+18	.	.	.	_	4	punct
+

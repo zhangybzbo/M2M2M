@@ -1,0 +1,17 @@
+1	Growers	grower	NNS	_	7	nsubj
+2	of	of	IN	_	1	prep
+3	fruits	fruit	NNS	_	2	pobj
+4	and	and	CC	_	3	cc
+5	nuts	nut	NNS	_	3	conj
+6	usually	usually	RB	_	7	advmod
+7	rent	rent	VB	_	0	ROOT
+8	a	a	DT	_	9	det
+9	grist	grist	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	bees	bee	NNS	_	10	pobj
+12	to	to	TO	_	13	aux
+13	pollinate	pollinate	VB	_	7	vmod
+14	their	they	PRP$	_	15	poss
+15	trees	tree	NNS	_	13	dobj
+16	.	.	.	_	7	punct
+

@@ -1,0 +1,8 @@
+1	Sometimes	sometimes	RB	_	3	advmod
+2	joy	joy	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	unexpected	unexpected	JJ	_	6	amod
+6	places	place	NNS	_	4	pobj
+7	.	.	.	_	3	punct
+

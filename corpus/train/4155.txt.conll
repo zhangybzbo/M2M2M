@@ -1,0 +1,15 @@
+1	You	you	PRP	_	2	nsubj
+2	needed	need	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	glamour	glamour	NN	_	5	nn
+5	cat	cat	NN	_	2	dobj
+6	to	to	TO	_	7	aux
+7	purr	purr	VB	_	2	xcomp
+8	in	in	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	kennel	kennel	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	hungry	hungry	JJ	_	13	amod
+13	hounds	hound	NNS	_	11	pobj
+14	.	.	.	_	2	punct
+

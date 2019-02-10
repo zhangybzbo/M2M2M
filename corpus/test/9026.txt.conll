@@ -1,0 +1,24 @@
+1	And	and	CC	_	9	cc
+2	the	the	DT	_	3	det
+3	citation	citation	NN	_	9	nsubjpass
+4	from	from	IN	_	3	prep
+5	Whelpton	Whelpton	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	books	book	NNS	_	4	pobj
+8	was	be	VBD	_	9	auxpass
+9	listed	list	VBN	_	0	ROOT
+10	first	first	RB	_	9	advmod
+11	in	in	IN	_	9	prep
+12	the	the	DT	_	13	det
+13	assortment	assortment	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	quotations	quotation	NNS	_	14	pobj
+16	specifically	specifically	RB	_	17	advmod
+17	characterized	characterize	VBN	_	15	vmod
+18	as	as	IN	_	17	prep
+19	``	``	``	_	18	punct
+20	comparatively	comparatively	RB	_	21	advmod
+21	modest	modest	JJ	_	18	pobj
+22	''	''	''	_	18	punct
+23	.	.	.	_	9	punct
+

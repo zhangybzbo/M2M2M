@@ -1,0 +1,21 @@
+1	After	after	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	panel	panel	NN	_	4	nsubj
+4	makes	make	VBZ	_	9	advcl
+5	a	a	DT	_	6	det
+6	recommendation	recommendation	NN	_	4	dobj
+7	,	,	,	_	9	punct
+8	OraSure	OraSure	NNP	_	9	nsubj
+9	said	say	VBD	_	0	ROOT
+10	it	it	PRP	_	14	nsubj
+11	likely	likely	RB	_	14	advmod
+12	will	will	MD	_	14	aux
+13	formally	formally	RB	_	14	advmod
+14	apply	apply	VB	_	9	ccomp
+15	to	to	TO	_	16	aux
+16	sell	sell	VB	_	14	xcomp
+17	the	the	DT	_	18	det
+18	test	test	NN	_	16	dobj
+19	over-the-counter	over-the-counter	JJ	_	18	amod
+20	.	.	.	_	9	punct
+

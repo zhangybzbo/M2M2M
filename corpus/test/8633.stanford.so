@@ -1,0 +1,12 @@
+0	66	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="Air" pos="NNP" nn="t1"
+4	13	tok id="t1" base="pollution" pos="NN" nsubj="t2"
+14	20	tok id="t2" base="cause" pos="VBZ" ROOT="ROOT"
+21	25	tok id="t3" base="smog" pos="NN" dobj="t2"
+26	29	tok id="t4" base="and" pos="CC" cc="t3"
+30	41	tok id="t5" base="respiratory" pos="JJ" amod="t6"
+42	50	tok id="t6" base="problem" pos="NNS" conj="t3"
+51	55	tok id="t7" base="when" pos="WRB" advmod="t8"
+56	64	tok id="t8" base="breathe" pos="VBN" advcl="t2"
+65	66	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

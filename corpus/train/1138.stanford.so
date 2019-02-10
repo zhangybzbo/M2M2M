@@ -1,0 +1,13 @@
+0	64	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Obama" pos="NNP" nsubj="t1"
+6	10	tok id="t1" base="use" pos="VBZ" ROOT="ROOT"
+11	16	tok id="t2" base="Nobel" pos="NNP" nn="t3"
+17	23	tok id="t3" base="speech" pos="NN" dobj="t1"
+24	26	tok id="t4" base="to" pos="TO" aux="t5"
+27	34	tok id="t5" base="explain" pos="VB" vmod="t1"
+35	38	tok id="t6" base="he" pos="PRP$" poss="t9"
+39	46	tok id="t7" base="foreign" pos="JJ" amod="t9"
+47	53	tok id="t8" base="policy" pos="NN" nn="t9"
+54	62	tok id="t9" base="doctrine" pos="NN" dobj="t5"
+63	64	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

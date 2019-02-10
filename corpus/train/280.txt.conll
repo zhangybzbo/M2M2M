@@ -1,0 +1,10 @@
+1	He	he	PRP	_	2	nsubj
+2	inserted	insert	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	needle	needle	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	tattoo	tattoo	NN	_	8	nn
+8	machine	machine	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

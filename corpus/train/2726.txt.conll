@@ -1,0 +1,15 @@
+1	An	a	DT	_	3	det
+2	Egyptian	egyptian	JJ	_	3	amod
+3	official	official	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	given	give	VBN	_	0	ROOT
+6	them	they	PRP	_	5	iobj
+7	a	a	DT	_	9	det
+8	hazy	hazy	JJ	_	9	amod
+9	description	description	NN	_	5	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	inner	inner	JJ	_	13	amod
+13	chamber	chamber	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

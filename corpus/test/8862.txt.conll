@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj
+2	removed	remove	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	chemical	chemical	NN	_	5	nsubj
+5	disposes	dispose	VBZ	_	2	ccomp
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	designated	designate	VBN	_	9	amod
+9	area	area	NN	_	6	pobj
+10	only	only	RB	_	5	advmod
+11	.	.	.	_	2	punct
+

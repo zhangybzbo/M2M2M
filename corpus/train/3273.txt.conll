@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	boat	boat	NN	_	4	nsubj
+3	had	have	VBD	_	4	aux
+4	set	set	VBN	_	0	ROOT
+5	sail	sail	NN	_	4	dobj
+6	on	on	IN	_	4	prep
+7	Wednesday	Wednesday	NNP	_	6	pobj
+8	from	from	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	port	port	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	Kotorr	kotorr	NN	_	11	pobj
+13	-LRB-	-lrb-	-LRB-	_	15	punct
+14	Monte	Monte	NNP	_	15	nn
+15	Negro	Negro	NNP	_	12	appos
+16	-RRB-	-rrb-	-RRB-	_	15	punct
+17	and	and	CC	_	4	cc
+18	was	be	VBD	_	19	aux
+19	making	make	VBG	_	4	conj
+20	to	to	TO	_	19	prep
+21	southern	southern	JJ	_	22	amod
+22	coast	coast	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	Italy	Italy	NNP	_	23	pobj
+25	.	.	.	_	4	punct
+

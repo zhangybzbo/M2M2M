@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	robot	robot	NN	_	3	nsubj
+3	reached	reach	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	goal	goal	NN	_	3	dobj
+6	using	use	VBG	_	3	xcomp
+7	a	a	DT	_	9	det
+8	smaller	smaller	JJR	_	9	amod
+9	number	number	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	internal	internal	JJ	_	12	amod
+12	states	state	NNS	_	10	pobj
+13	than	than	IN	_	9	prep
+14	with	with	IN	_	13	pcomp
+15	the	the	DT	_	17	det
+16	conventional	conventional	JJ	_	17	amod
+17	methods	method	NNS	_	14	pobj
+18	.	.	.	_	3	punct
+

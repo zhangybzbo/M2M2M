@@ -1,0 +1,23 @@
+1	She	she	PRP	_	2	nsubj
+2	marked	mark	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	handle	handle	VB	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	mop	mop	VB	_	5	pobj
+8	used	use	VBN	_	7	vmod
+9	for	for	IN	_	8	prep
+10	washing	wash	VBG	_	9	pcomp
+11	with	with	IN	_	10	prep
+12	red	red	JJ	_	14	amod
+13	duct	duct	NN	_	14	nn
+14	tape	tape	NN	_	11	pobj
+15	to	to	TO	_	16	aux
+16	prevent	prevent	VB	_	10	xcomp
+17	mixing	mix	VBG	_	16	xcomp
+18	up	up	RP	_	17	prt
+19	mops	mop	NNS	_	17	dobj
+20	when	when	WRB	_	21	advmod
+21	working	work	VBG	_	17	advcl
+22	.	.	.	_	2	punct
+

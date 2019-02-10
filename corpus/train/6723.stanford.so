@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	16	tok id="t1" base="melodramatic" pos="JJ" amod="t2"
+17	21	tok id="t2" base="plot" pos="NN" ROOT="ROOT"
+22	27	tok id="t3" base="deal" pos="VBN" vmod="t2"
+28	32	tok id="t4" base="with" pos="IN" prep="t3"
+33	39	tok id="t5" base="crisis" pos="NNS" pobj="t4"
+40	42	tok id="t6" base="of" pos="IN" prep="t5"
+43	48	tok id="t7" base="human" pos="JJ" amod="t8"
+49	56	tok id="t8" base="emotion" pos="NN" pobj="t6"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

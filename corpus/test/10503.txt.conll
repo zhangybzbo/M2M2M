@@ -1,0 +1,19 @@
+1	Four	four	CD	_	2	num
+2	people	people	NNS	_	3	nsubj
+3	died	die	VBD	_	0	ROOT
+4	after	after	IN	_	7	mark
+5	their	they	PRP$	_	6	poss
+6	vehicle	vehicle	NN	_	7	nsubj
+7	crashed	crash	VBD	_	3	advcl
+8	into	into	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	support	support	NN	_	11	nn
+11	pillar	pillar	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	an	a	DT	_	15	det
+14	overhead	overhead	JJ	_	15	amod
+15	bridge	bridge	NN	_	12	pobj
+16	in	in	IN	_	15	prep
+17	Cheras	Cheras	NNP	_	16	pobj
+18	.	.	.	_	3	punct
+

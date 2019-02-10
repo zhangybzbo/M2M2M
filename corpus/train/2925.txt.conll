@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj
+2	were	be	VBD	_	0	ROOT
+3	under	under	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	seats	seat	NNS	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	bus	bus	NN	_	6	pobj
+9	for	for	IN	_	2	prep
+10	20	20	CD	_	11	num
+11	minutes	minute	NNS	_	9	pobj
+12	,	,	,	_	2	punct
+13	trying	try	VBG	_	2	xcomp
+14	to	to	TO	_	15	aux
+15	get	get	VB	_	13	xcomp
+16	away	away	RB	_	15	advmod
+17	from	from	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	bullets	bullet	NNS	_	17	pobj
+20	.	.	.	_	2	punct
+

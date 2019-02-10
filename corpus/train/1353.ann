@@ -1,0 +1,3 @@
+T1	Term 21 25	note
+T2	Term 33 43	class room
+R1	Entity-Destination Arg1:T1 Arg2:T2

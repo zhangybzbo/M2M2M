@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	store	store	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	cards	card	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	matching	matching	NN	_	8	nn
+8	box	box	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

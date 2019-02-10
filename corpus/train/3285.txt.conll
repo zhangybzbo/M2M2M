@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	fire	fire	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	overheating	overheating	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	connections	connection	NNS	_	7	pobj
+9	,	,	,	_	8	punct
+10	which	which	WDT	_	12	nsubj
+11	is	be	VBZ	_	12	cop
+12	cause	cause	NN	_	8	rcmod
+13	by	by	IN	_	12	prep
+14	its	its	PRP$	_	15	poss
+15	turn	turn	NN	_	13	pobj
+16	by	by	IN	_	15	prep
+17	poor	poor	JJ	_	19	amod
+18	ohmic	ohmic	JJ	_	19	amod
+19	contact	contact	NN	_	16	pobj
+20	.	.	.	_	4	punct
+

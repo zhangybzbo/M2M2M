@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	accolade	accolade	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	decided	decide	VBN	_	0	ROOT
+5	upon	upon	IN	_	4	prep
+6	after	after	IN	_	5	pcomp
+7	an	a	DT	_	9	det
+8	intense	intense	JJ	_	9	amod
+9	discussion	discussion	NN	_	6	pobj
+10	between	between	IN	_	9	prep
+11	about	about	RB	_	12	quantmod
+12	200	200	CD	_	13	num
+13	members	member	NNS	_	10	pobj
+14	.	.	.	_	4	punct
+

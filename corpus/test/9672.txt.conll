@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	course	course	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	9	9	CD	_	5	num
+5	holes	hole	NNS	_	3	dobj
+6	through	through	IN	_	3	prep
+7	the	the	DT	_	13	det
+8	listed	list	VBN	_	13	amod
+9	historic	historic	JJ	_	13	amod
+10	park	park	NN	_	13	nn
+11	round	round	NN	_	13	nn
+12	Gilling	Gilling	NNP	_	13	nn
+13	Castle	Castle	NNP	_	6	pobj
+14	,	,	,	_	3	punct
+15	and	and	CC	_	3	cc
+16	provides	provide	VBZ	_	3	conj
+17	a	a	DT	_	19	det
+18	stimulating	stimulating	NN	_	19	nn
+19	challenge	challenge	NN	_	16	dobj
+20	for	for	IN	_	19	prep
+21	any	any	DT	_	22	det
+22	golfer	golfer	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

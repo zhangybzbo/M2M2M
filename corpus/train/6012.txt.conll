@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	love	love	VBP	_	0	ROOT
+3	the	the	DT	_	7	det
+4	sweet	sweet	JJ	_	7	amod
+5	and	and	CC	_	4	cc
+6	salty	salty	JJ	_	4	conj
+7	combo	combo	NN	_	2	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	watermelon	watermelon	NN	_	11	nn
+11	salads	salad	NNS	_	8	pobj
+12	that	that	WDT	_	15	nsubj
+13	have	have	VBP	_	15	aux
+14	been	be	VBN	_	15	cop
+15	all	all	DT	_	11	rcmod
+16	over	over	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	food	food	NN	_	19	nn
+19	world	world	NN	_	16	pobj
+20	lately	lately	RB	_	15	advmod
+21	.	.	.	_	2	punct
+

@@ -1,0 +1,22 @@
+1	A	a	DT	_	4	det
+2	thorough	thorough	JJ	_	4	amod
+3	oral	oral	JJ	_	4	amod
+4	examination	examination	NN	_	11	nsubj
+5	,	,	,	_	4	punct
+6	which	which	WDT	_	7	nsubj
+7	includes	include	VBZ	_	4	rcmod
+8	dental	dental	JJ	_	9	amod
+9	X-rays	x-ray	NNS	_	7	dobj
+10	,	,	,	_	4	punct
+11	determines	determine	VBZ	_	0	ROOT
+12	that	that	IN	_	16	mark
+13	the	the	DT	_	14	det
+14	toothache	toothache	NN	_	16	nsubj
+15	is	be	VBZ	_	16	aux
+16	coming	come	VBG	_	11	ccomp
+17	from	from	IN	_	16	prep
+18	a	a	DT	_	20	det
+19	jaw	jaw	NN	_	20	nn
+20	problem	problem	NN	_	17	pobj
+21	.	.	.	_	11	punct
+

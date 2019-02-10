@@ -1,0 +1,12 @@
+0	50	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="Time" pos="NNP" nn="t1"
+5	11	tok id="t1" base="travel" pos="NN" nsubj="t5"
+12	14	tok id="t2" base="be" pos="VBZ" cop="t5"
+15	16	tok id="t3" base="a" pos="DT" det="t5"
+17	23	tok id="t4" base="common" pos="JJ" amod="t5"
+24	29	tok id="t5" base="theme" pos="NN" ROOT="ROOT"
+30	32	tok id="t6" base="in" pos="IN" prep="t5"
+33	40	tok id="t7" base="science" pos="NN" nn="t8"
+41	48	tok id="t8" base="fiction" pos="NN" pobj="t6"
+49	50	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

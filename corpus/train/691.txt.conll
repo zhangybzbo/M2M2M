@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	stuffed	stuff	VBD	_	0	ROOT
+3	chips	chip	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	his	he	PRP$	_	6	poss
+6	mouth	mouth	NN	_	4	pobj
+7	and	and	CC	_	2	cc
+8	watched	watch	VBD	_	2	conj
+9	his	he	PRP$	_	10	poss
+10	cousin-in-law	cousin-in-law	NN	_	8	dobj
+11	shrewdly	shrewdly	RB	_	10	advmod
+12	.	.	.	_	2	punct
+

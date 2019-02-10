@@ -1,0 +1,12 @@
+1	I	I	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	incorporate	incorporate	VB	_	0	ROOT
+4	meteorites	meteorite	NNS	_	3	dobj
+5	from	from	IN	_	4	prep
+6	outer	outer	JJ	_	7	amod
+7	space	space	NN	_	5	pobj
+8	and	and	CC	_	7	cc
+9	dinosaur	dinosaur	NN	_	10	nn
+10	bones	bone	NNS	_	7	conj
+11	.	.	.	_	3	punct
+

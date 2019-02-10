@@ -1,0 +1,15 @@
+1	Ships	ship	NNS	_	10	nsubj
+2	heading	head	VBG	_	1	vmod
+3	north	north	RB	_	2	advmod
+4	and	and	CC	_	3	cc
+5	eastward	eastward	RB	_	3	conj
+6	across	across	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	North	North	NNP	_	9	nn
+9	Atlantic	Atlantic	NNP	_	6	pobj
+10	stayed	stay	VBD	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	current	current	JJ	_	11	pobj
+14	.	.	.	_	10	punct
+

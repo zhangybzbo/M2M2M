@@ -1,0 +1,22 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	okay	okay	JJ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	have	have	VB	_	3	xcomp
+6	a	a	DT	_	7	det
+7	bale	bale	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	turtles	turtle	NNS	_	8	pobj
+10	for	for	IN	_	9	prep
+11	pets	pet	NNS	_	10	pobj
+12	,	,	,	_	3	punct
+13	but	but	CC	_	3	cc
+14	they	they	PRP	_	17	nsubj
+15	must	must	MD	_	17	aux
+16	be	be	VB	_	17	cop
+17	free	free	JJ	_	3	conj
+18	of	of	IN	_	17	prep
+19	salmonella	salmonella	NN	_	20	nn
+20	bacteria	bacterium	NNS	_	18	pobj
+21	.	.	.	_	3	punct
+

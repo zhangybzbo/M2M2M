@@ -1,0 +1,12 @@
+0	62	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	14	tok id="t1" base="technician" pos="NN" nsubj="t2"
+15	26	tok id="t2" base="reschedule" pos="VBD" ROOT="ROOT"
+27	30	tok id="t3" base="the" pos="DT" det="t4"
+31	43	tok id="t4" base="installation" pos="NN" dobj="t2"
+44	46	tok id="t5" base="to" pos="TO" prep="t2"
+47	50	tok id="t6" base="the" pos="DT" det="t8"
+51	55	tok id="t7" base="next" pos="JJ" amod="t8"
+56	60	tok id="t8" base="week" pos="NN" pobj="t5"
+61	62	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

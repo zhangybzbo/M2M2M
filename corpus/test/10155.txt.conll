@@ -1,0 +1,23 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	certificate	certificate	NN	_	0	ROOT
+5	,	,	,	_	4	punct
+6	declaring	declare	VBG	_	4	vmod
+7	sales	sale	NNS	_	9	nn
+8	tax	tax	NN	_	9	nn
+9	exemption	exemption	NN	_	6	dobj
+10	,	,	,	_	9	punct
+11	presented	present	VBN	_	9	vmod
+12	to	to	TO	_	11	prep
+13	a	a	DT	_	14	det
+14	vendor	vendor	NN	_	12	pobj
+15	when	when	WRB	_	16	advmod
+16	making	make	VBG	_	11	advcl
+17	a	a	DT	_	18	det
+18	purchase	purchase	NN	_	16	dobj
+19	for	for	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	agency	agency	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

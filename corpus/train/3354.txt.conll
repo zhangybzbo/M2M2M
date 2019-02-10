@@ -1,0 +1,23 @@
+1	Many	many	JJ	_	2	amod
+2	investors	investor	NNS	_	4	poss
+3	'	'	POS	_	2	possessive
+4	funds	fund	NNS	_	6	nsubjpass
+5	are	be	VBP	_	6	auxpass
+6	pooled	pool	VBN	_	0	ROOT
+7	together	together	RB	_	6	advmod
+8	and	and	CC	_	6	cc
+9	the	the	DT	_	11	det
+10	fund	fund	NN	_	11	nn
+11	managers	manager	NNS	_	12	nsubj
+12	invest	invest	VBP	_	6	conj
+13	all	all	PDT	_	15	predet
+14	the	the	DT	_	15	det
+15	money	money	NN	_	12	dobj
+16	in	in	IN	_	12	prep
+17	a	a	DT	_	19	det
+18	diversified	diversified	JJ	_	19	amod
+19	basket	basket	NN	_	16	pobj
+20	of	of	IN	_	19	prep
+21	investments	investment	NNS	_	20	pobj
+22	.	.	.	_	6	punct
+

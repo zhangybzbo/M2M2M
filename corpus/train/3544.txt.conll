@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	det
+2	level	level	NN	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	experience	experience	NN	_	3	pobj
+5	has	have	VBZ	_	8	aux
+6	already	already	RB	_	8	advmod
+7	been	be	VBN	_	8	auxpass
+8	mentioned	mention	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	previous	previous	JJ	_	12	amod
+12	chapter	chapter	NN	_	9	pobj
+13	.	.	.	_	8	punct
+

@@ -1,0 +1,27 @@
+1	13	13	CD	_	5	advmod
+2	,	,	,	_	5	punct
+3	students	student	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	evacuated	evacuate	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	Conrad	Conrad	NNP	_	8	nn
+8	Residence	Residence	NNP	_	6	pobj
+9	for	for	IN	_	5	prep
+10	approximately	approximately	RB	_	11	quantmod
+11	15	15	CD	_	12	num
+12	minutes	minute	NNS	_	21	dep
+13	after	after	IN	_	21	mark
+14	burnt	burnt	JJ	_	15	amod
+15	food	food	NN	_	21	nsubj
+16	in	in	IN	_	15	prep
+17	one	one	CD	_	16	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	kitchens	kitchen	NNS	_	18	pobj
+21	set	set	VBD	_	9	pcomp
+22	off	off	RP	_	21	prt
+23	the	the	DT	_	25	det
+24	fire	fire	NN	_	25	nn
+25	alarm	alarm	NN	_	21	dobj
+26	.	.	.	_	5	punct
+

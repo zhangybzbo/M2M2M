@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	drug	drug	NN	_	3	nn
+3	smuggler	smuggler	NN	_	4	nsubj
+4	tried	try	VBD	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	secret	secret	JJ	_	5	pobj
+7	more	more	JJR	_	8	mwe
+8	than	than	IN	_	9	quantmod
+9	2	2	CD	_	10	num
+10	pounds	pound	NNS	_	6	dep
+11	of	of	IN	_	10	prep
+12	hashish	hashish	NN	_	11	pobj
+13	into	into	IN	_	10	prep
+14	the	the	DT	_	15	det
+15	country	country	NN	_	13	pobj
+16	inside	inside	IN	_	10	prep
+17	a	a	DT	_	19	det
+18	wooden	wooden	JJ	_	19	amod
+19	chessboard	chessboard	NN	_	16	pobj
+20	.	.	.	_	4	punct
+

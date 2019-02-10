@@ -1,0 +1,12 @@
+1	They	they	PRP	_	2	nsubj
+2	set	set	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	timer	timer	NN	_	2	dobj
+5	on	on	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	cooker	cooker	NN	_	5	pobj
+8	for	for	IN	_	2	prep
+9	three	three	CD	_	10	num
+10	minutes	minute	NNS	_	8	pobj
+11	.	.	.	_	2	punct
+

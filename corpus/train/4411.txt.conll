@@ -1,0 +1,17 @@
+1	In	in	IN	_	4	mark
+2	order	order	NN	_	4	dep
+3	to	to	TO	_	4	aux
+4	gather	gather	VB	_	10	advcl
+5	experimental	experimental	JJ	_	6	amod
+6	data	datum	NNS	_	4	dobj
+7	,	,	,	_	10	punct
+8	researchers	researcher	NNS	_	10	nsubj
+9	explicitly	explicitly	RB	_	10	advmod
+10	defined	define	VBD	_	0	ROOT
+11	a	a	DT	_	12	det
+12	model	model	NN	_	10	dobj
+13	describing	describe	VBG	_	12	vmod
+14	the	the	DT	_	15	det
+15	process	process	NN	_	13	dobj
+16	.	.	.	_	10	punct
+

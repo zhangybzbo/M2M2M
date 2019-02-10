@@ -1,0 +1,22 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	3	det
+3	notice	notice	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	sent	send	VBN	_	13	advcl
+6	by	by	IN	_	5	prep
+7	fax	fax	NN	_	6	pobj
+8	,	,	,	_	13	punct
+9	the	the	DT	_	10	det
+10	notice	notice	NN	_	13	nsubjpass
+11	is	be	VBZ	_	13	auxpass
+12	not	not	RB	_	13	neg
+13	deemed	deem	VBN	_	0	ROOT
+14	received	receive	VBN	_	13	xcomp
+15	until	until	IN	_	14	prep
+16	3	3	CD	_	17	num
+17	days	day	NNS	_	18	npadvmod
+18	after	after	IN	_	15	pcomp
+19	faxing	fax	VBG	_	18	pcomp
+20	it	it	PRP	_	19	dobj
+21	.	.	.	_	13	punct
+

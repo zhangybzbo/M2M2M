@@ -1,0 +1,17 @@
+1	They	they	PRP	_	2	nsubj
+2	learned	learn	VBD	_	0	ROOT
+3	that	that	IN	_	2	prep
+4	some	some	DT	_	5	det
+5	herbs	herb	NNS	_	3	pobj
+6	and	and	CC	_	5	cc
+7	flowers	flower	NNS	_	5	conj
+8	planted	plant	VBN	_	5	vmod
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	garden	garden	NN	_	12	nn
+12	help	help	NN	_	9	pobj
+13	to	to	TO	_	14	aux
+14	control	control	VB	_	8	xcomp
+15	pests	pest	NNS	_	14	dobj
+16	.	.	.	_	5	punct
+

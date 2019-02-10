@@ -1,0 +1,14 @@
+1	His	he	PRP$	_	4	poss
+2	intellectually	intellectually	RB	_	3	advmod
+3	engaging	engaging	JJ	_	4	amod
+4	books	book	NNS	_	7	nsubj
+5	and	and	CC	_	4	cc
+6	essays	essay	NNS	_	4	conj
+7	remain	remain	VBP	_	0	ROOT
+8	pertinent	pertinent	JJ	_	7	acomp
+9	to	to	TO	_	8	prep
+10	illuminating	illuminating	JJ	_	12	amod
+11	contemporary	contemporary	JJ	_	12	amod
+12	history	history	NN	_	9	pobj
+13	.	.	.	_	7	punct
+

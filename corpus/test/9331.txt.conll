@@ -1,0 +1,18 @@
+1	That	that	DT	_	2	det
+2	night	night	NN	_	0	ROOT
+3	,	,	,	_	2	punct
+4	at	at	IN	_	2	prep
+5	dinnertime	dinnertime	NN	_	4	pobj
+6	,	,	,	_	2	punct
+7	the	the	DT	_	9	det
+8	prime	prime	JJ	_	9	amod
+9	mover	mover	NN	_	10	nsubj
+10	eats	eat	VBZ	_	2	rcmod
+11	the	the	DT	_	13	det
+12	philosophical	philosophical	JJ	_	13	amod
+13	pickle	pickle	NN	_	10	dobj
+14	with	with	IN	_	10	prep
+15	a	a	DT	_	16	det
+16	hamburger	hamburger	NN	_	14	pobj
+17	.	.	.	_	2	punct
+

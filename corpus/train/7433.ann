@@ -1,0 +1,3 @@
+T1	Term 43 55	confirmation
+T2	Term 56 63	invoice
+R1	Other Arg1:T1 Arg2:T2

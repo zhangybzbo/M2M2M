@@ -1,0 +1,3 @@
+T1	Term 13 23	collective
+T2	Term 27 36	musicians
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,22 @@
+1	He	he	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	suitcase	suitcase	NN	_	2	dobj
+5	full	full	JJ	_	4	amod
+6	of	of	IN	_	5	prep
+7	new	new	JJ	_	8	amod
+8	clothing	clothing	NN	_	6	pobj
+9	bought	buy	VBD	_	8	vmod
+10	from	from	IN	_	9	prep
+11	New	New	NNP	_	12	nn
+12	York	York	NNP	_	10	pobj
+13	and	and	CC	_	2	cc
+14	took	take	VBD	_	2	conj
+15	a	a	DT	_	16	det
+16	flight	flight	NN	_	14	dobj
+17	to	to	TO	_	16	prep
+18	India	India	NNP	_	17	pobj
+19	from	from	IN	_	14	prep
+20	Heathrow	Heathrow	NNP	_	19	pobj
+21	.	.	.	_	2	punct
+

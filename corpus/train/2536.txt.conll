@@ -1,0 +1,11 @@
+1	Serious	serious	JJ	_	2	amod
+2	troubles	trouble	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	dragged	drag	VBN	_	0	ROOT
+5	the	the	DT	_	7	det
+6	infamous	infamous	JJ	_	7	amod
+7	actress	actress	NN	_	4	dobj
+8	into	into	IN	_	4	prep
+9	chaos	chaos	NN	_	8	pobj
+10	.	.	.	_	4	punct
+

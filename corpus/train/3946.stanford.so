@@ -1,0 +1,9 @@
+0	40	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Molten" pos="NNP" nn="t1"
+7	15	tok id="t1" base="globule" pos="NNS" nsubj="t3"
+16	20	tok id="t2" base="have" pos="VBP" aux="t3"
+21	26	tok id="t3" base="move" pos="VBN" ROOT="ROOT"
+27	31	tok id="t4" base="into" pos="IN" prep="t3"
+32	38	tok id="t5" base="action" pos="NN" pobj="t4"
+39	40	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

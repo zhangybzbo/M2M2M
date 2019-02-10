@@ -1,0 +1,20 @@
+1	Caillie	Caillie	NNP	_	3	nsubj
+2	dutifully	dutifully	RB	_	3	advmod
+3	explored	explore	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	city	city	NN	_	3	dobj
+6	for	for	IN	_	3	prep
+7	four	four	CD	_	8	num
+8	weeks	week	NNS	_	6	pobj
+9	,	,	,	_	3	punct
+10	then	then	RB	_	11	advmod
+11	departed	depart	VBD	_	3	dep
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	huge	huge	JJ	_	15	amod
+15	caravan	caravan	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	1400	1400	CD	_	18	num
+18	camels	camel	NNS	_	16	pobj
+19	.	.	.	_	3	punct
+

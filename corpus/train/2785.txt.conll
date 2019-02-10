@@ -1,0 +1,17 @@
+1	Clasp	clasp	VB	_	0	ROOT
+2	the	the	DT	_	4	det
+3	big	big	JJ	_	4	amod
+4	toe	toe	NN	_	1	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	right	right	JJ	_	8	amod
+8	foot	foot	NN	_	5	pobj
+9	with	with	IN	_	1	prep
+10	the	the	DT	_	12	det
+11	first	first	JJ	_	12	amod
+12	finger	finger	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	both	both	CC	_	15	preconj
+15	hands	hand	NNS	_	13	pobj
+16	.	.	.	_	1	punct
+

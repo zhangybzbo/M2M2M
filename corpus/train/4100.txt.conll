@@ -1,0 +1,21 @@
+1	With	with	IN	_	14	prep
+2	the	the	DT	_	3	det
+3	Ramps	ramp	NNS	_	1	pobj
+4	and	and	CC	_	3	cc
+5	platform	platform	NN	_	3	conj
+6	for	for	IN	_	3	prep
+7	off-ground	off-ground	JJ	_	8	amod
+8	vehicle	vehicle	NN	_	6	pobj
+9	washing	wash	VBG	_	8	amod
+10	,	,	,	_	14	punct
+11	used	use	VBN	_	12	amod
+12	water	water	NN	_	14	nsubjpass
+13	is	be	VBZ	_	14	auxpass
+14	collected	collect	VBN	_	0	ROOT
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	receptacle	receptacle	NN	_	15	pobj
+18	below	below	IN	_	17	prep
+19	platform	platform	NN	_	18	pobj
+20	.	.	.	_	14	punct
+

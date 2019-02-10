@@ -1,0 +1,9 @@
+1	Cuban	cuban	JJ	_	2	amod
+2	ballplayers	ballplayer	NNS	_	3	nsubj
+3	wield	wield	VBP	_	0	ROOT
+4	a	a	DT	_	7	det
+5	bigger	bigger	JJR	_	7	amod
+6	policy	policy	NN	_	7	nn
+7	bat	bat	NN	_	3	dobj
+8	.	.	.	_	3	punct
+

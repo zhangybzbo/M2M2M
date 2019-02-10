@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	sub-catchment	sub-catchment	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	farmed	farm	VBN	_	0	ROOT
+5	primarily	primarily	RB	_	6	advmod
+6	for	for	IN	_	4	prep
+7	beef	beef	NN	_	8	nn
+8	sucklers	suckler	NNS	_	6	pobj
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	single	single	JJ	_	13	amod
+12	dairy	dairy	NN	_	13	nn
+13	enterprise	enterprise	NN	_	9	pobj
+14	and	and	CC	_	13	cc
+15	a	a	DT	_	18	det
+16	single	single	JJ	_	18	amod
+17	poultry	poultry	NN	_	18	nn
+18	unit	unit	NN	_	13	conj
+19	so	so	IN	_	25	mark
+20	the	the	DT	_	22	det
+21	land	land	NN	_	22	nn
+22	use	use	NN	_	25	nsubj
+23	is	be	VBZ	_	25	cop
+24	entirely	entirely	RB	_	25	advmod
+25	grassland	grassland	NN	_	4	advcl
+26	.	.	.	_	4	punct
+

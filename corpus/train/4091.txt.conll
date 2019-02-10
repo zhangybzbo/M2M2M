@@ -1,0 +1,12 @@
+1	You	you	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	fetched	fetch	VBN	_	0	ROOT
+4	character	character	NN	_	5	nn
+5	data	datum	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	standard	standard	JJ	_	9	amod
+9	result	result	NN	_	6	pobj
+10	set	set	NN	_	9	amod
+11	.	.	.	_	3	punct
+

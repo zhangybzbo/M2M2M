@@ -1,0 +1,13 @@
+1	A	a	DT	_	4	det
+2	very	very	RB	_	3	advmod
+3	serious	serious	JJ	_	4	amod
+4	problem	problem	NN	_	0	ROOT
+5	ensued	ensue	VBN	_	4	vmod
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	events	event	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	day	day	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

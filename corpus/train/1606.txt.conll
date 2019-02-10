@@ -1,0 +1,19 @@
+1	Kotter	Kotter	NNP	_	7	poss
+2	's	's	POS	_	1	possessive
+3	most	most	RBS	_	4	advmod
+4	significant	significant	JJ	_	7	amod
+5	and	and	CC	_	4	cc
+6	controversial	controversial	JJ	_	4	conj
+7	work	work	NN	_	12	nsubj
+8	,	,	,	_	12	punct
+9	however	however	RB	_	12	advmod
+10	,	,	,	_	12	punct
+11	has	have	VBZ	_	12	aux
+12	been	be	VBN	_	0	ROOT
+13	on	on	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	subject	subject	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	leadership	leadership	NN	_	16	pobj
+18	.	.	.	_	12	punct
+

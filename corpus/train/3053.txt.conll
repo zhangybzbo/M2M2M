@@ -1,0 +1,10 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	exported	export	VBN	_	0	ROOT
+4	products	product	NNS	_	3	dobj
+5	to	to	TO	_	3	prep
+6	domestic	domestic	JJ	_	7	amod
+7	locations	location	NNS	_	5	pobj
+8	only	only	RB	_	3	advmod
+9	.	.	.	_	3	punct
+

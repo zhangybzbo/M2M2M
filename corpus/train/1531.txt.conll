@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det
+2	wedge	wedge	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	Canada	Canada	NNP	_	5	nn
+5	geese	goose	NNS	_	3	pobj
+6	passed	pass	VBD	_	0	ROOT
+7	overhead	overhead	RB	_	6	advmod
+8	,	,	,	_	6	punct
+9	already	already	RB	_	10	advmod
+10	fleeing	flee	VBG	_	6	vmod
+11	from	from	IN	_	10	prep
+12	winter	winter	NN	_	11	pobj
+13	,	,	,	_	6	punct
+14	but	but	CC	_	6	cc
+15	for	for	IN	_	20	prep
+16	the	the	DT	_	17	det
+17	moment	moment	NN	_	15	pobj
+18	it	it	PRP	_	20	nsubj
+19	was	be	VBD	_	20	cop
+20	summer	summer	NN	_	6	conj
+21	still	still	RB	_	20	advmod
+22	.	.	.	_	6	punct
+

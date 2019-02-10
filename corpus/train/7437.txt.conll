@@ -1,0 +1,14 @@
+1	Taxi	taxi	NN	_	2	nn
+2	driver	driver	NN	_	0	ROOT
+3	spotted	spot	VBD	_	2	vmod
+4	stolen	steal	VBN	_	5	amod
+5	car	car	NN	_	3	dobj
+6	shortly	shortly	RB	_	9	advmod
+7	after	after	IN	_	9	mark
+8	police	police	NN	_	9	nsubj
+9	sent	send	VBD	_	3	advcl
+10	out	out	RP	_	9	prt
+11	an	a	DT	_	12	det
+12	alert	alert	NN	_	9	dobj
+13	.	.	.	_	2	punct
+

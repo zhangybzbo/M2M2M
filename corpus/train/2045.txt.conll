@@ -1,0 +1,27 @@
+1	Taking	take	VBG	_	12	vmod
+2	a	a	DT	_	3	det
+3	stick	stick	NN	_	1	dobj
+4	of	of	IN	_	3	prep
+5	dynamite	dynamite	NN	_	4	pobj
+6	from	from	IN	_	1	prep
+7	their	they	PRP$	_	8	poss
+8	mule	mule	NN	_	6	pobj
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	shooter	shooter	NN	_	12	nsubj
+12	assembles	assemble	VBZ	_	0	ROOT
+13	the	the	DT	_	14	det
+14	hand-charge	hand-charge	NN	_	12	dobj
+15	with	with	IN	_	12	prep
+16	two	two	CD	_	17	num
+17	caps	cap	NNS	_	15	pobj
+18	and	and	CC	_	12	cc
+19	fuses	fuse	VBZ	_	12	conj
+20	-	-	:	_	19	punct
+21	which	which	WDT	_	24	nsubjpass
+22	is	be	VBZ	_	24	auxpass
+23	now	now	RB	_	24	advmod
+24	considered	consider	VBN	_	19	ccomp
+25	live	live	JJ	_	24	xcomp
+26	.	.	.	_	12	punct
+

@@ -1,0 +1,17 @@
+1	Sea	Sea	NNP	_	2	nn
+2	breezes	breeze	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	cool	cool	JJ	_	10	amod
+7	and	and	CC	_	6	cc
+8	more	more	RBR	_	9	advmod
+9	dense	dense	JJ	_	6	conj
+10	air	air	NN	_	5	pobj
+11	moving	move	VBG	_	10	vmod
+12	inland	inland	RB	_	11	advmod
+13	off	off	IN	_	11	prep
+14	the	the	DT	_	15	det
+15	water	water	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

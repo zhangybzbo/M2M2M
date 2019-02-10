@@ -1,0 +1,18 @@
+1	Unfortunately	unfortunately	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	they	they	PRP	_	5	nsubj
+4	just	just	RB	_	5	advmod
+5	had	have	VBD	_	0	ROOT
+6	brief	brief	JJ	_	7	nsubj
+7	mentions	mention	VBZ	_	5	ccomp
+8	and	and	CC	_	7	cc
+9	more	more	RBR	_	10	advmod
+10	pages	page	NNS	_	12	nsubjpass
+11	were	be	VBD	_	12	auxpass
+12	spent	spend	VBN	_	7	conj
+13	describing	describe	VBG	_	12	xcomp
+14	the	the	DT	_	16	det
+15	clubs	club	NNS	_	16	nn
+16	scene	scene	NN	_	13	dobj
+17	.	.	.	_	5	punct
+

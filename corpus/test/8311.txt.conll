@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	it	it	PRP	_	2	dobj
+4	to	to	TO	_	5	aux
+5	pay	pay	VB	_	2	xcomp
+6	for	for	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	cartload	cartload	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	firewood	firewood	NN	_	9	pobj
+11	I	I	PRP	_	12	nsubj
+12	bought	buy	VBD	_	10	rcmod
+13	from	from	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	peasant	peasant	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

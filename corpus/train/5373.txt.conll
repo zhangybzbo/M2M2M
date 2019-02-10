@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	epidemic	epidemic	JJ	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	spreading	spread	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	areas	area	NNS	_	5	pobj
+7	and	and	CC	_	6	cc
+8	countries	country	NNS	_	6	conj
+9	where	where	WRB	_	15	advmod
+10	,	,	,	_	15	punct
+11	until	until	IN	_	15	prep
+12	recently	recently	RB	_	11	pcomp
+13	,	,	,	_	15	punct
+14	there	there	EX	_	15	expl
+15	was	be	VBD	_	6	rcmod
+16	little	little	JJ	_	20	amod
+17	or	or	CC	_	16	cc
+18	no	no	DT	_	16	conj
+19	HIV	hiv	NN	_	16	dep
+20	present	present	JJ	_	15	nsubj
+21	.	.	.	_	4	punct
+

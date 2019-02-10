@@ -1,0 +1,13 @@
+0	54	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	10	tok id="t1" base="county" pos="NN" nn="t2"
+11	15	tok id="t2" base="fair" pos="JJ" nsubj="t3"
+16	20	tok id="t3" base="draw" pos="VBD" ROOT="ROOT"
+21	22	tok id="t4" base="a" pos="DT" det="t6"
+23	28	tok id="t5" base="large" pos="JJ" amod="t6"
+29	34	tok id="t6" base="crowd" pos="NN" dobj="t3"
+35	37	tok id="t7" base="of" pos="IN" prep="t6"
+38	42	tok id="t8" base="USDA" pos="NNP" nn="t9"
+43	52	tok id="t9" base="employee" pos="NNS" pobj="t7"
+53	54	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

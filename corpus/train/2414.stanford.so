@@ -1,0 +1,10 @@
+0	41	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="billionaire" pos="NNS" nsubj="t1"
+13	17	tok id="t1" base="make" pos="VBP" ROOT="ROOT"
+18	20	tok id="t2" base="up" pos="RP" prt="t1"
+21	26	tok id="t3" base="India" pos="NNP" poss="t6"
+27	29	tok id="t4" base="'s" pos="POS" possessive="t3"
+30	34	tok id="t5" base="rich" pos="JJ" amod="t6"
+35	39	tok id="t6" base="list" pos="NN" dobj="t1"
+40	41	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

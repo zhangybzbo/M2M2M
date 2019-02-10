@@ -1,0 +1,13 @@
+1	On	on	IN	_	7	prep
+2	National	National	NNP	_	3	nn
+3	day	day	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	government	government	NN	_	7	nsubj
+7	bestowed	bestow	VBD	_	0	ROOT
+8	awards	award	NNS	_	7	dobj
+9	to	to	TO	_	7	prep
+10	deserving	deserving	JJ	_	11	amod
+11	individuals	individual	NNS	_	9	pobj
+12	.	.	.	_	7	punct
+

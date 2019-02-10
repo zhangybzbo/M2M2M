@@ -1,0 +1,27 @@
+1	An	a	DT	_	2	det
+2	invoice	invoice	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	commercial	commercial	JJ	_	6	amod
+6	document	document	NN	_	0	ROOT
+7	indicating	indicate	VBG	_	6	vmod
+8	the	the	DT	_	9	det
+9	products	product	NNS	_	7	dobj
+10	,	,	,	_	9	punct
+11	quantities	quantity	NNS	_	9	conj
+12	,	,	,	_	9	punct
+13	and	and	CC	_	9	cc
+14	agreed	agree	VBD	_	9	conj
+15	prices	price	NNS	_	14	dobj
+16	for	for	IN	_	15	prep
+17	products	product	NNS	_	16	pobj
+18	or	or	CC	_	17	cc
+19	services	service	NNS	_	17	conj
+20	the	the	DT	_	21	det
+21	seller	seller	NN	_	23	nsubj
+22	has	have	VBZ	_	23	aux
+23	provided	provide	VBN	_	15	rcmod
+24	the	the	DT	_	25	det
+25	buyer	buyer	NN	_	23	dobj
+26	.	.	.	_	6	punct
+

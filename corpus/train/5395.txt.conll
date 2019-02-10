@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	stay	stay	NN	_	8	nsubj
+3	at	at	IN	_	2	prep
+4	home	home	NN	_	5	nn
+5	dads	dad	NNS	_	3	pobj
+6	in	in	IN	_	2	prep
+7	Inverness	Inverness	NNP	_	6	pobj
+8	put	put	VBD	_	0	ROOT
+9	their	they	PRP$	_	10	poss
+10	feet	foot	NNS	_	8	dobj
+11	up	up	RP	_	8	prt
+12	for	for	IN	_	8	prep
+13	a	a	DT	_	14	det
+14	little	little	JJ	_	12	pobj
+15	while	while	NN	_	8	dobj
+16	in	in	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	chauffeur	chauffeur	NN	_	16	pobj
+19	driven	drive	VBN	_	20	amod
+20	limousine	limousine	NN	_	18	dep
+21	.	.	.	_	8	punct
+

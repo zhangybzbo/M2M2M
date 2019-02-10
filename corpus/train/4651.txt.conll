@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	protein	protein	NN	_	3	nn
+3	products	product	NNS	_	12	nsubj
+4	encoded	encode	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	class	class	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	resistance	resistance	NN	_	10	nn
+10	gene	gene	NN	_	8	pobj
+11	are	be	VBP	_	12	cop
+12	located	located	JJ	_	0	ROOT
+13	within	within	IN	_	12	prep
+14	the	the	DT	_	17	det
+15	plant	plant	NN	_	17	nn
+16	cell	cell	NN	_	17	nn
+17	cytoplasm	cytoplasm	NN	_	13	pobj
+18	.	.	.	_	12	punct
+

@@ -1,0 +1,11 @@
+1	AT	at	IN	_	6	prep
+2	LEAST	LEAST	NNP	_	4	nn
+3	140000	140000	CD	_	4	num
+4	homeowners	homeowner	NNS	_	1	pobj
+5	have	have	VBP	_	6	aux
+6	fallen	fall	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	negative	negative	JJ	_	9	amod
+9	equity	equity	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

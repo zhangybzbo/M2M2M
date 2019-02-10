@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj
+2	bought	buy	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	silver	silver	NN	_	5	nn
+5	ring	ring	NN	_	2	dobj
+6	from	from	IN	_	2	prep
+7	a	a	DT	_	10	det
+8	Bass	Bass	NNP	_	10	nn
+9	Pro	pro	FW	_	10	nn
+10	Shops	Shops	NNPS	_	6	pobj
+11	,	,	,	_	10	punct
+12	a	a	DT	_	15	det
+13	hunting/fishing	hunting/fishing	JJ	_	15	amod
+14	chain	chain	NN	_	15	nn
+15	store	store	NN	_	10	appos
+16	,	,	,	_	10	punct
+17	for	for	IN	_	2	prep
+18	$	$	$	_	17	pobj
+19	53	53	CD	_	18	num
+20	.	.	.	_	2	punct
+

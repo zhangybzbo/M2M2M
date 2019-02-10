@@ -1,0 +1,14 @@
+1	His	he	PRP$	_	2	poss
+2	crew	crew	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	journeyed	journey	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	numerous	numerous	JJ	_	8	amod
+7	haunted	haunt	VBN	_	8	amod
+8	locations	location	NNS	_	5	pobj
+9	including	include	VBG	_	8	prep
+10	the	the	DT	_	12	det
+11	Stanley	Stanley	NNP	_	12	nn
+12	Hotel	Hotel	NNP	_	9	pobj
+13	.	.	.	_	4	punct
+

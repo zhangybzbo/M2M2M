@@ -1,0 +1,26 @@
+1	Technically	Technically	NNP	_	0	ROOT
+2	an	a	DT	_	3	det
+3	adjective	adjective	JJ	_	1	dep
+4	,	,	,	_	1	punct
+5	the	the	DT	_	6	det
+6	word	word	NN	_	8	nsubjpass
+7	is	be	VBZ	_	8	auxpass
+8	derived	derive	VBN	_	1	rcmod
+9	from	from	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	noun	noun	NN	_	12	nn
+12	meaning	meaning	NN	_	9	pobj
+13	``	``	``	_	12	punct
+14	force	force	NN	_	12	dep
+15	,	,	,	_	12	punct
+16	''	''	''	_	12	punct
+17	``	``	``	_	12	punct
+18	power	power	NN	_	12	dep
+19	,	,	,	_	12	punct
+20	''	''	''	_	12	punct
+21	or	or	CC	_	12	cc
+22	``	``	``	_	23	punct
+23	cause	cause	NN	_	12	conj
+24	.	.	.	_	1	punct
+25	''	''	''	_	1	punct
+

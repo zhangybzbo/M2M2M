@@ -1,0 +1,18 @@
+1	However	however	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	only	only	RB	_	4	quantmod
+4	20	20	CD	_	6	num
+5	research	research	NN	_	6	nn
+6	articles	article	NNS	_	8	nsubjpass
+7	were	be	VBD	_	8	auxpass
+8	identified	identify	VBN	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	topic	topic	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	health	health	NN	_	14	nn
+14	promotion	promotion	NN	_	12	pobj
+15	at	at	IN	_	8	prep
+16	retirement	retirement	NN	_	15	pobj
+17	.	.	.	_	8	punct
+

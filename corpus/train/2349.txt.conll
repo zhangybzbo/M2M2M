@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	installation	installation	NN	_	3	nsubj
+3	powered	power	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	100	100	CD	_	6	num
+6	horsepower	horsepower	NN	_	3	dobj
+7	-LRB-	-lrb-	-LRB-	_	9	punct
+8	75	75	CD	_	9	num
+9	kW	kw	NN	_	6	appos
+10	-RRB-	-rrb-	-RRB-	_	9	punct
+11	synchronous	synchronous	JJ	_	12	amod
+12	motor	motor	NN	_	6	dep
+13	at	at	IN	_	12	prep
+14	Telluride	Telluride	NNP	_	13	pobj
+15	.	.	.	_	3	punct
+

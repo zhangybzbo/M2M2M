@@ -1,0 +1,17 @@
+1	Asia	Asia	NNP	_	2	nsubj
+2	feels	feel	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	pain	pain	NN	_	2	dobj
+5	caused	cause	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	crisis	crisis	NN	_	6	pobj
+9	but	but	CC	_	2	cc
+10	could	could	MD	_	12	aux
+11	be	be	VB	_	12	auxpass
+12	poised	poise	VBN	_	2	conj
+13	for	for	IN	_	12	prep
+14	rapid	rapid	JJ	_	15	amod
+15	recovery	recovery	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

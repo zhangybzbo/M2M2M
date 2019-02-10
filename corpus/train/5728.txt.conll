@@ -1,0 +1,15 @@
+1	Phone	phone	NN	_	2	nn
+2	masts	mast	NNS	_	10	nsubj
+3	for	for	IN	_	2	prep
+4	the	the	DT	_	9	det
+5	high-tech	high-tech	JJ	_	9	amod
+6	third	third	JJ	_	9	amod
+7	generation	generation	NN	_	9	nn
+8	mobile	mobile	JJ	_	9	amod
+9	phones	phone	NNS	_	3	pobj
+10	cause	cause	VBP	_	0	ROOT
+11	headaches	headache	NNS	_	10	dobj
+12	and	and	CC	_	11	cc
+13	nausea	nausea	NN	_	11	conj
+14	.	.	.	_	10	punct
+

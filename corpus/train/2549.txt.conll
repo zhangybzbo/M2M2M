@@ -1,0 +1,22 @@
+1	Luke	Luke	NNP	_	2	nsubj
+2	played	play	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	crucial	crucial	JJ	_	5	amod
+5	role	role	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	goal-keeper	goal-keeper	NN	_	6	pobj
+8	in	in	IN	_	2	prep
+9	the	the	DT	_	10	det
+10	team	team	NN	_	8	pobj
+11	that	that	WDT	_	12	nsubj
+12	defeated	defeat	VBD	_	10	rcmod
+13	tournament	tournament	NN	_	15	nn
+14	favourites	favourite	NNS	_	15	nn
+15	Croatia	Croatia	NNP	_	12	dobj
+16	6-4	6-4	CD	_	15	num
+17	in	in	IN	_	12	prep
+18	the	the	DT	_	20	det
+19	final	final	JJ	_	20	amod
+20	match	match	NN	_	17	pobj
+21	.	.	.	_	2	punct
+

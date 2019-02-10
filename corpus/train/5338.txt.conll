@@ -1,0 +1,13 @@
+1	The	the	DT	_	5	det
+2	presented	present	VBN	_	5	amod
+3	case	case	NN	_	5	nn
+4	study	study	NN	_	5	nn
+5	charts	chart	NNS	_	0	ROOT
+6	the	the	DT	_	7	det
+7	route	route	NN	_	5	dep
+8	taken	take	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	North	North	NNP	_	11	nn
+11	Kesteven	Kesteven	NNP	_	9	pobj
+12	.	.	.	_	5	punct
+

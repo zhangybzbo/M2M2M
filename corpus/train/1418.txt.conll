@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	pages	page	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	magazine	magazine	NN	_	3	pobj
+6	came	come	VBD	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	life	life	NN	_	7	pobj
+9	at	at	IN	_	6	prep
+10	the	the	DT	_	11	det
+11	Metreon	metreon	NN	_	9	pobj
+12	with	with	IN	_	11	prep
+13	gourmet	gourmet	NN	_	14	nn
+14	food	food	NN	_	12	pobj
+15	,	,	,	_	6	punct
+16	great	great	JJ	_	19	amod
+17	Sonoma	Sonoma	NNP	_	19	nn
+18	Valley	Valley	NNP	_	19	nn
+19	wine	wine	NN	_	6	conj
+20	,	,	,	_	6	punct
+21	and	and	CC	_	6	cc
+22	jamming	jam	VBG	_	6	conj
+23	music	music	NN	_	22	dobj
+24	.	.	.	_	6	punct
+

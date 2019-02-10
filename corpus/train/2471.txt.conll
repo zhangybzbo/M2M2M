@@ -1,0 +1,21 @@
+1	I	I	PRP	_	3	nsubj
+2	just	just	RB	_	3	advmod
+3	got	get	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	mail	mail	NN	_	4	pobj
+7	a	a	DT	_	10	det
+8	newly	newly	RB	_	9	advmod
+9	published	publish	VBN	_	10	amod
+10	book	book	NN	_	3	dobj
+11	by	by	IN	_	10	prep
+12	an	a	DT	_	14	det
+13	old	old	JJ	_	14	amod
+14	friend	friend	NN	_	11	pobj
+15	of	of	IN	_	14	prep
+16	mine	mine	NN	_	15	pobj
+17	,	,	,	_	10	punct
+18	Gordon	Gordon	NNP	_	19	nn
+19	Goldstein	Goldstein	NNP	_	10	appos
+20	.	.	.	_	3	punct
+

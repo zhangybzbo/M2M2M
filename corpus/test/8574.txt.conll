@@ -1,0 +1,12 @@
+1	Blood	blood	NN	_	2	nsubj
+2	splattered	splatter	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	boots	boot	NNS	_	2	dobj
+5	from	from	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	nose	nose	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	man	man	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

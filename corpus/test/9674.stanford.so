@@ -1,0 +1,13 @@
+0	66	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="EXE" pos="NNP" nsubj="t5"
+4	6	tok id="t1" base="be" pos="VBZ" cop="t5"
+7	10	tok id="t2" base="the" pos="DT" det="t5"
+11	17	tok id="t3" base="common" pos="JJ" amod="t5"
+18	26	tok id="t4" base="filename" pos="NN" nn="t5"
+27	36	tok id="t5" base="extension" pos="NN" ROOT="ROOT"
+37	45	tok id="t6" base="denote" pos="VBG" vmod="t5"
+46	48	tok id="t7" base="a" pos="DT" det="t9"
+49	59	tok id="t8" base="executable" pos="JJ" amod="t9"
+60	64	tok id="t9" base="file" pos="NN" dobj="t6"
+65	66	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

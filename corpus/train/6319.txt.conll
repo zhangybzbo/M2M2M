@@ -1,0 +1,19 @@
+1	These	these	DT	_	2	det
+2	germs	germ	NNS	_	3	nsubj
+3	cause	cause	VBP	_	0	ROOT
+4	illnesses	illness	NNS	_	3	dobj
+5	ranging	range	VBG	_	4	vmod
+6	from	from	IN	_	5	prep
+7	common	common	JJ	_	8	amod
+8	ailments	ailment	NNS	_	6	pobj
+9	,	,	,	_	3	punct
+10	like	like	IN	_	3	prep
+11	the	the	DT	_	10	pobj
+12	cold	cold	JJ	_	11	amod
+13	and	and	CC	_	12	cc
+14	flu	flu	NN	_	12	conj
+15	,	,	,	_	12	punct
+16	to	to	TO	_	12	prep
+17	disabling	disable	VBG	_	16	pcomp
+18	.	.	.	_	3	punct
+

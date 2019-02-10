@@ -1,0 +1,8 @@
+1	They	they	PRP	_	2	nsubj
+2	packed	pack	VBD	_	0	ROOT
+3	yeast	yeast	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	toothpaste	toothpaste	NN	_	6	nn
+6	tubes	tube	NNS	_	4	pobj
+7	.	.	.	_	2	punct
+

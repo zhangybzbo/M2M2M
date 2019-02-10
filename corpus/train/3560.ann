@@ -1,0 +1,3 @@
+T1	Term 80 87	chicken
+T2	Term 88 92	stew
+R1	Entity-Origin Arg1:T2 Arg2:T1

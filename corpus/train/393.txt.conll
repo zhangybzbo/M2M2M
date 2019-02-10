@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	incidents	incident	NNS	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	travels	travels	NNS	_	3	pobj
+6	were	be	VBD	_	7	auxpass
+7	related	relate	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	succession	succession	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	books	book	NNS	_	11	pobj
+13	.	.	.	_	7	punct
+

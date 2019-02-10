@@ -1,0 +1,13 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	the	the	DT	_	5	det
+4	best	best	JJS	_	5	amod
+5	book	book	NN	_	0	ROOT
+6	for	for	IN	_	5	prep
+7	programmers	programmer	NNS	_	6	pobj
+8	needing	need	VBG	_	7	vmod
+9	algorithms	algorithm	NNS	_	11	nn
+10	not	not	RB	_	11	neg
+11	theory	theory	NN	_	8	dobj
+12	.	.	.	_	5	punct
+

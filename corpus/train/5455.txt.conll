@@ -1,0 +1,24 @@
+1	Large	large	JJ	_	2	amod
+2	rafters	rafter	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	turkeys	turkey	NNS	_	3	pobj
+5	have	have	VBP	_	6	aux
+6	drown	drown	VB	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	standing	stand	VBG	_	7	pcomp
+9	out	out	RP	_	8	prt
+10	in	in	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	rain	rain	NN	_	10	pobj
+13	,	,	,	_	6	punct
+14	looking	look	VBG	_	6	xcomp
+15	up	up	RP	_	14	prt
+16	at	at	IN	_	14	prep
+17	it	it	PRP	_	16	pobj
+18	,	,	,	_	14	punct
+19	with	with	IN	_	14	prep
+20	their	they	PRP$	_	21	poss
+21	mouths	mouth	NNS	_	22	nsubj
+22	open	open	JJ	_	19	pcomp
+23	.	.	.	_	6	punct
+

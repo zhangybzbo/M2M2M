@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	mentality	mentality	NN	_	3	nsubj
+3	is	be	VBZ	_	14	dep
+4	since	since	IN	_	8	mark
+5	oil	oil	NN	_	8	nsubj
+6	and	and	CC	_	5	cc
+7	bacteria	bacterium	NNS	_	5	conj
+8	cause	cause	VBP	_	14	advcl
+9	acne	acne	NN	_	8	dobj
+10	,	,	,	_	14	punct
+11	I	I	PRP	_	14	nsubj
+12	'll	'll	MD	_	14	aux
+13	just	just	RB	_	14	advmod
+14	remove	remove	VB	_	0	ROOT
+15	the	the	DT	_	16	det
+16	oil	oil	NN	_	14	dobj
+17	off	off	IN	_	16	prep
+18	my	my	PRP$	_	19	poss
+19	face	face	NN	_	17	pobj
+20	and	and	CC	_	14	cc
+21	kill	kill	VB	_	14	conj
+22	the	the	DT	_	23	det
+23	bacteria	bacterium	NNS	_	21	dobj
+24	.	.	.	_	14	punct
+

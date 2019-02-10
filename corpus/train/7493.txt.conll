@@ -1,0 +1,11 @@
+1	Companies	company	NNS	_	2	nsubj
+2	face	face	VBP	_	0	ROOT
+3	big	big	JJ	_	4	amod
+4	risk	risk	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	loss	loss	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	key	key	JJ	_	9	amod
+9	employees	employee	NNS	_	7	pobj
+10	.	.	.	_	2	punct
+

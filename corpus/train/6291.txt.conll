@@ -1,0 +1,19 @@
+1	Mr	Mr	NNP	_	2	nn
+2	Clinton	Clinton	NNP	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	request	request	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	10	det
+8	twenty-minute	twenty-minute	JJ	_	10	amod
+9	phone	phone	NN	_	10	nn
+10	call	call	NN	_	6	pobj
+11	to	to	TO	_	10	prep
+12	the	the	DT	_	14	det
+13	prime	prime	JJ	_	14	amod
+14	minister	minister	NN	_	11	pobj
+15	,	,	,	_	14	punct
+16	John	John	NNP	_	17	nn
+17	Howard	Howard	NNP	_	14	appos
+18	.	.	.	_	3	punct
+

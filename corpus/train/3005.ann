@@ -1,0 +1,3 @@
+T1	Term 11 18	cockpit
+T2	Term 26 34	airplane
+R1	Component-Whole Arg1:T1 Arg2:T2

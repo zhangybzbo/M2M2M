@@ -1,0 +1,10 @@
+1	Parameters	parameter	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	obtained	obtain	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	EEG	eeg	NN	_	6	nn
+6	epochs	epoch	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	30s	30s	CD	_	7	pobj
+9	.	.	.	_	3	punct
+

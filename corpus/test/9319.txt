@@ -1,0 +1,1 @@
+The output noise was caused by the biasing resistors and the shot noises of the base currents of Q1 and Q4 .

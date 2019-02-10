@@ -1,0 +1,24 @@
+1	Taking	take	VBG	_	16	vmod
+2	advantage	advantage	NN	_	1	dobj
+3	of	of	IN	_	2	prep
+4	your	you	PRP$	_	6	poss
+5	seasonal	seasonal	JJ	_	6	amod
+6	obligation	obligation	NN	_	3	pobj
+7	to	to	TO	_	8	aux
+8	buy	buy	VB	_	6	vmod
+9	stuff	stuff	NN	_	8	dobj
+10	for	for	IN	_	8	prep
+11	people	people	NNS	_	10	pobj
+12	,	,	,	_	16	punct
+13	the	the	DT	_	15	det
+14	music	music	NN	_	15	nn
+15	industry	industry	NN	_	16	nsubj
+16	unleashes	unleash	VBZ	_	0	ROOT
+17	its	its	PRP$	_	19	poss
+18	annual	annual	JJ	_	19	amod
+19	torrent	torrent	NN	_	16	dobj
+20	of	of	IN	_	19	prep
+21	giftable	giftable	JJ	_	22	amod
+22	crap	crap	NN	_	20	pobj
+23	.	.	.	_	16	punct
+

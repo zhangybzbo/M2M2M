@@ -1,0 +1,10 @@
+0	59	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Seacrest" pos="NNP" nn="t1"
+9	17	tok id="t1" base="student" pos="NNS" nsubj="t2"
+18	25	tok id="t2" base="donate" pos="VBD" ROOT="ROOT"
+26	34	tok id="t3" base="uniform" pos="NNS" dobj="t2"
+35	37	tok id="t4" base="to" pos="TO" prep="t2"
+38	48	tok id="t5" base="shadowlawn" pos="JJ" amod="t6"
+49	57	tok id="t6" base="student" pos="NNS" pobj="t4"
+58	59	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

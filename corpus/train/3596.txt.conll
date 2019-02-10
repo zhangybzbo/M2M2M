@@ -1,0 +1,18 @@
+1	Pneumonia	pneumonia	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	an	a	DT	_	4	det
+4	inflammation	inflammation	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	lungs	lung	NNS	_	5	pobj
+8	caused	cause	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	bacteria	bacterium	NNS	_	9	pobj
+11	,	,	,	_	10	punct
+12	viruses	virus	NNS	_	10	conj
+13	,	,	,	_	10	punct
+14	or	or	CC	_	10	cc
+15	chemical	chemical	NN	_	16	nn
+16	irritants	irritant	NNS	_	10	conj
+17	.	.	.	_	4	punct
+

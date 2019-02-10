@@ -1,0 +1,17 @@
+1	Additionally	additionally	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	president	president	NN	_	5	nsubj
+5	won	win	VBD	_	0	ROOT
+6	the	the	DT	_	8	det
+7	Democratic	democratic	JJ	_	8	amod
+8	nomination	nomination	NN	_	5	dobj
+9	with	with	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	help	help	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	super	super	JJ	_	15	amod
+15	delegates	delegate	NNS	_	12	pobj
+16	.	.	.	_	5	punct
+

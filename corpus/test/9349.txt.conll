@@ -1,0 +1,19 @@
+1	As	as	IN	_	8	prep
+2	a	a	DT	_	4	det
+3	strategic	strategic	JJ	_	4	amod
+4	move	move	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	researcher	researcher	NN	_	8	nsubj
+8	started	start	VBD	_	0	ROOT
+9	the	the	DT	_	10	det
+10	school	school	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	a	a	DT	_	14	det
+13	third-year	third-year	JJ	_	14	amod
+14	programme	programme	NN	_	11	pobj
+15	with	with	IN	_	14	prep
+16	mature	mature	JJ	_	17	amod
+17	students	student	NNS	_	15	pobj
+18	.	.	.	_	8	punct
+

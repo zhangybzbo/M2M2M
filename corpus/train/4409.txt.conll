@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	culture	culture	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	violence	violence	NN	_	3	pobj
+5	has	have	VBZ	_	6	aux
+6	become	become	VBN	_	0	ROOT
+7	the	the	DT	_	8	det
+8	topic	topic	NN	_	6	xcomp
+9	of	of	IN	_	8	prep
+10	discussion	discussion	NN	_	9	pobj
+11	among	among	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	people	people	NNS	_	11	pobj
+14	following	follow	VBG	_	6	prep
+15	the	the	DT	_	16	det
+16	series	series	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	recent	recent	JJ	_	19	amod
+19	riots	riot	NNS	_	17	pobj
+20	in	in	IN	_	19	prep
+21	Java	Java	NNP	_	20	pobj
+22	.	.	.	_	6	punct
+

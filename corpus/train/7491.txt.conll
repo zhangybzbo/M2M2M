@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	margarine	margarine	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	imitation	imitation	NN	_	5	nn
+5	butter	butter	NN	_	0	ROOT
+6	was	be	VBD	_	5	vmod
+7	without	without	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	superior	superior	JJ	_	10	amod
+10	flavor	flavor	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	pleasant	pleasant	JJ	_	13	amod
+13	mouthfeel	mouthfeel	NN	_	10	conj
+14	.	.	.	_	5	punct
+

@@ -1,0 +1,9 @@
+1	I	I	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	abuse	abuse	NN	_	2	dobj
+4	originating	originate	VBG	_	3	vmod
+5	from	from	IN	_	4	prep
+6	my	my	PRP$	_	7	poss
+7	server	server	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

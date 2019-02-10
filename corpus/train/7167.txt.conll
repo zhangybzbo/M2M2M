@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	enclosed	enclosed	JJ	_	3	amod
+3	community	community	NN	_	4	nsubj
+4	produced	produce	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	enclosed	enclosed	JJ	_	7	amod
+7	personality	personality	NN	_	4	dobj
+8	,	,	,	_	4	punct
+9	and	and	CC	_	4	cc
+10	vice	vice	NN	_	4	conj
+11	versa	versa	RB	_	10	advmod
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,10 @@
+0	46	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="kidney" pos="NNS" nsubjpass="t3"
+12	16	tok id="t2" base="be" pos="VBD" auxpass="t3"
+17	23	tok id="t3" base="place" pos="VBN" ROOT="ROOT"
+24	28	tok id="t4" base="into" pos="IN" prep="t3"
+29	38	tok id="t5" base="wild-type" pos="JJ" amod="t6"
+39	44	tok id="t6" base="host" pos="NNS" pobj="t4"
+45	46	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

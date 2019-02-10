@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	nails	nail	NNS	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	right	right	JJ	_	6	amod
+6	hand	hand	NN	_	3	pobj
+7	are	be	VBP	_	9	auxpass
+8	easily	easily	RB	_	9	advmod
+9	cut	cut	VBN	_	0	ROOT
+10	with	with	IN	_	9	prep
+11	scissors	scissors	NNS	_	10	pobj
+12	made	make	VBN	_	11	vmod
+13	for	for	IN	_	12	prep
+14	cutting	cut	VBG	_	13	pcomp
+15	the	the	DT	_	16	det
+16	nails	nail	NNS	_	14	dobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	left	left	JJ	_	20	amod
+20	hand	hand	NN	_	17	pobj
+21	.	.	.	_	9	punct
+

@@ -1,0 +1,19 @@
+1	This	this	DT	_	3	det
+2	book	book	NN	_	3	nn
+3	chapter	chapter	NN	_	4	nsubj
+4	provides	provide	VBZ	_	0	ROOT
+5	pluralistic	pluralistic	JJ	_	8	amod
+6	yet	yet	RB	_	7	advmod
+7	concise	concise	JJ	_	8	amod
+8	introduction	introduction	NN	_	4	dobj
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	11	det
+11	doctrine	doctrine	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	theory	theory	NN	_	11	conj
+14	of	of	IN	_	11	prep
+15	employment	employment	NN	_	17	nn
+16	discrimination	discrimination	NN	_	17	nn
+17	law	law	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

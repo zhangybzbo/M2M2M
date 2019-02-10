@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	method	method	NN	_	3	nsubj
+3	examines	examine	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	hypothesis	hypothesis	NN	_	3	dobj
+6	stack	stack	VB	_	5	dep
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	decoder	decoder	NN	_	7	pobj
+10	during	during	IN	_	6	prep
+11	recognition	recognition	NN	_	10	pobj
+12	and	and	CC	_	6	cc
+13	picks	pick	VBZ	_	6	conj
+14	the	the	DT	_	17	det
+15	most	most	RBS	_	16	advmod
+16	likely	likely	JJ	_	17	amod
+17	terms	term	NNS	_	13	dobj
+18	before	before	IN	_	21	mark
+19	they	they	PRP	_	21	nsubjpass
+20	are	be	VBP	_	21	auxpass
+21	pruned	prune	VBN	_	6	advcl
+22	.	.	.	_	3	punct
+

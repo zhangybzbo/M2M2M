@@ -1,0 +1,11 @@
+1	Your	you	PRP$	_	2	poss
+2	e-mail	e-mail	NN	_	6	nsubjpass
+3	has	have	VBZ	_	6	aux
+4	been	be	VBN	_	6	auxpass
+5	successfully	successfully	RB	_	6	advmod
+6	delivered	deliver	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	receiver	receiver	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

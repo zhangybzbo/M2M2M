@@ -1,0 +1,3 @@
+T1	Term 35 45	restaurant
+T2	Term 61 68	package
+R1	Component-Whole Arg1:T1 Arg2:T2

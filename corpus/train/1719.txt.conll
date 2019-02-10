@@ -1,0 +1,18 @@
+1	Sumatera	Sumatera	NNP	_	5	nsubj
+2	-LRB-	-lrb-	-LRB-	_	3	punct
+3	Yagasu	Yagasu	NNP	_	1	appos
+4	-RRB-	-rrb-	-RRB-	_	3	punct
+5	made	make	VBD	_	0	ROOT
+6	a	a	DT	_	7	det
+7	profit	profit	NN	_	5	dobj
+8	from	from	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	selling	selling	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	women	woman	NNS	_	13	nn
+13	groups	group	NNS	_	16	poss
+14	'	'	POS	_	13	possessive
+15	handicrafts	handicraft	NNS	_	16	nn
+16	activities	activity	NNS	_	11	pobj
+17	.	.	.	_	5	punct
+

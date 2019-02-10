@@ -1,0 +1,15 @@
+1	In	in	IN	_	8	prep
+2	the	the	DT	_	3	det
+3	1950s	1950s	CD	_	1	pobj
+4	,	,	,	_	8	punct
+5	several	several	JJ	_	6	amod
+6	books	book	NNS	_	8	nsubjpass
+7	were	be	VBD	_	8	auxpass
+8	published	publish	VBN	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	topic	topic	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	sociometrics	sociometric	NNS	_	12	pobj
+14	.	.	.	_	8	punct
+

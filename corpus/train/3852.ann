@@ -1,0 +1,3 @@
+T1	Term 73 83	federation
+T2	Term 92 100	dwellers
+R1	Member-Collection Arg1:T2 Arg2:T1

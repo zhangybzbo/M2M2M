@@ -1,0 +1,18 @@
+1	Parker	Parker	NNP	_	2	nn
+2	Dunlap	Dunlap	NNP	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	startled	startle	VBN	_	0	ROOT
+5	when	when	WRB	_	4	dep
+6	a	a	DT	_	8	det
+7	beautiful	beautiful	JJ	_	8	amod
+8	genie	genie	NN	_	5	dep
+9	popped	pop	VBN	_	8	vmod
+10	out	out	IN	_	9	prep
+11	of	of	IN	_	10	pcomp
+12	an	a	DT	_	16	det
+13	old	old	JJ	_	16	amod
+14	,	,	,	_	16	punct
+15	beat-up	beat-up	JJ	_	16	amod
+16	lamp	lamp	NN	_	11	pobj
+17	.	.	.	_	4	punct
+

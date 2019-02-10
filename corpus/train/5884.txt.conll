@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	Ca	ca	JJ	_	3	amod
+3	content	content	NN	_	12	nsubj
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	corn	corn	NN	_	7	nn
+7	flour	flour	NN	_	4	pobj
+8	has	have	VBZ	_	12	aux
+9	also	also	RB	_	12	advmod
+10	a	a	DT	_	12	det
+11	strong	strong	JJ	_	12	amod
+12	dependence	dependence	NN	_	0	ROOT
+13	on	on	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	pericarp	pericarp	NN	_	16	nn
+16	thickness	thickness	NN	_	13	pobj
+17	-LRB-	-lrb-	-LRB-	_	18	punct
+18	Gutierrez	Gutierrez	NNP	_	12	dep
+19	et	et	FW	_	18	nn
+20	al.	al.	FW	_	18	dep
+21	,	,	,	_	18	punct
+22	2007	2007	CD	_	18	amod
+23	-RRB-	-rrb-	-RRB-	_	18	punct
+24	.	.	.	_	12	punct
+

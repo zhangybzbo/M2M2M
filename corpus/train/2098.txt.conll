@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	released	release	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	brake	brake	NNP	_	5	nn
+5	cable	cable	NN	_	2	dobj
+6	by	by	IN	_	2	prep
+7	detaching	detach	VBG	_	6	pcomp
+8	the	the	DT	_	10	det
+9	retaining	retain	VBG	_	10	amod
+10	clip	clip	NN	_	7	dobj
+11	from	from	IN	_	7	prep
+12	the	the	DT	_	14	det
+13	cable	cable	NN	_	14	nn
+14	housing	housing	NN	_	11	pobj
+15	.	.	.	_	2	punct
+

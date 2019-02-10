@@ -1,0 +1,9 @@
+1	Meanwhile	meanwhile	RB	_	5	advmod
+2	the	the	DT	_	3	det
+3	appellant	appellant	NN	_	5	nsubj
+4	had	have	VBD	_	5	aux
+5	left	leave	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	house	house	NN	_	5	dobj
+8	.	.	.	_	5	punct
+

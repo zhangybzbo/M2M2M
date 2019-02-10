@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	love	love	NN	_	2	dobj
+5	a	a	DT	_	6	det
+6	letter	letter	NN	_	4	dep
+7	with	with	IN	_	6	prep
+8	confetti	confetti	NN	_	9	nn
+9	hearts	heart	NNS	_	7	pobj
+10	inside	inside	IN	_	9	prep
+11	of	of	IN	_	10	pcomp
+12	the	the	DT	_	13	det
+13	letter	letter	NN	_	11	pobj
+14	so	so	IN	_	16	mark
+15	they	they	PRP	_	16	nsubj
+16	pour	pour	VBP	_	2	advcl
+17	out	out	RP	_	16	prt
+18	everywhere	everywhere	RB	_	16	advmod
+19	when	when	WRB	_	22	advmod
+20	his	he	PRP$	_	21	poss
+21	sweetheart	sweetheart	NN	_	22	nsubj
+22	opens	open	VBZ	_	16	advcl
+23	it	it	PRP	_	22	dobj
+24	.	.	.	_	2	punct
+

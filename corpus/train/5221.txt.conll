@@ -1,0 +1,9 @@
+1	It	it	PRP	_	3	nsubj
+2	only	only	RB	_	3	advmod
+3	spreads	spread	VBZ	_	0	ROOT
+4	tick	tick	NN	_	3	dobj
+5	to	to	TO	_	3	prep
+6	other	other	JJ	_	7	amod
+7	cats	cat	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

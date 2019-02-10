@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det
+2	original	original	JJ	_	4	amod
+3	Waldorf	Waldorf	NNP	_	4	nn
+4	salad	salad	NN	_	18	nsubj
+5	,	,	,	_	4	punct
+6	created	create	VBN	_	4	vmod
+7	at	at	IN	_	6	prep
+8	New	New	NNP	_	9	nn
+9	York	York	NNP	_	13	poss
+10	's	's	POS	_	9	possessive
+11	Waldorf	Waldorf	NNP	_	13	nn
+12	Astoria	Astoria	NNP	_	13	nn
+13	Hotel	Hotel	NNP	_	7	pobj
+14	in	in	IN	_	6	prep
+15	the	the	DT	_	16	det
+16	1890s	1890s	CD	_	14	pobj
+17	,	,	,	_	4	punct
+18	contained	contain	VBD	_	0	ROOT
+19	only	only	RB	_	20	advmod
+20	apples	apple	NNS	_	18	dobj
+21	,	,	,	_	20	punct
+22	mayonnaise	mayonnaise	NN	_	20	conj
+23	,	,	,	_	20	punct
+24	and	and	CC	_	20	cc
+25	celery	celery	NN	_	20	conj
+26	.	.	.	_	18	punct
+

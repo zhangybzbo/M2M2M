@@ -1,0 +1,13 @@
+0	55	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="animal" pos="NNS" nsubj="t6"
+12	14	tok id="t2" base="on" pos="IN" prep="t1"
+15	19	tok id="t3" base="this" pos="DT" det="t4"
+20	24	tok id="t4" base="farm" pos="NN" pobj="t2"
+25	28	tok id="t5" base="be" pos="VBP" cop="t6"
+29	38	tok id="t6" base="contented" pos="JJ" ROOT="ROOT"
+39	40	tok id="t7" base="-COMMA-" pos="," punct="t6"
+41	46	tok id="t8" base="happy" pos="JJ" amod="t9"
+47	53	tok id="t9" base="cattle" pos="NNS" dobj="t6"
+54	55	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

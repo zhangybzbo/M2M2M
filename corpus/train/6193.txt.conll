@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj
+2	recoil	recoil	VBP	_	0	ROOT
+3	at	at	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	Roman	Roman	NNP	_	6	nn
+6	delicacy	delicacy	NN	_	3	pobj
+7	made	make	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	drowning	drown	VBG	_	8	pcomp
+10	tiny	tiny	JJ	_	11	amod
+11	birds	bird	NNS	_	9	dobj
+12	in	in	IN	_	9	prep
+13	wine	wine	NN	_	12	pobj
+14	before	before	IN	_	9	prep
+15	consuming	consume	VBG	_	14	pcomp
+16	them	they	PRP	_	17	nsubj
+17	whole	whole	JJ	_	15	xcomp
+18	.	.	.	_	2	punct
+

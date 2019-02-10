@@ -1,0 +1,21 @@
+1	Small	small	JJ	_	2	amod
+2	particles	particle	NNS	_	7	nsubj
+3	,	,	,	_	2	punct
+4	grime	grime	NN	_	2	appos
+5	and	and	CC	_	4	cc
+6	dirt	dirt	NN	_	4	conj
+7	cause	cause	VBP	_	0	ROOT
+8	friction	friction	NN	_	7	dobj
+9	and	and	CC	_	8	cc
+10	microscopic	microscopic	JJ	_	11	amod
+11	scratches	scratch	NNS	_	8	conj
+12	that	that	WDT	_	15	nsubj
+13	over	over	IN	_	15	prep
+14	time	time	NN	_	13	pobj
+15	destroy	destroy	VB	_	8	rcmod
+16	the	the	DT	_	17	det
+17	performance	performance	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	equipment	equipment	NN	_	18	pobj
+20	.	.	.	_	7	punct
+

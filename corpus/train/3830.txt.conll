@@ -1,0 +1,12 @@
+1	Another	another	DT	_	4	det
+2	mathematical	mathematical	JJ	_	4	amod
+3	system	system	NN	_	4	nn
+4	description	description	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	presented	present	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	next	next	JJ	_	10	amod
+10	section	section	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

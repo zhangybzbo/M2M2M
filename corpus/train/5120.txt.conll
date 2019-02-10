@@ -1,0 +1,27 @@
+1	A	a	DT	_	5	det
+2	large	large	JJ	_	5	amod
+3	wading	wade	VBG	_	5	amod
+4	bird	bird	NN	_	5	nn
+5	rookery	rookery	NN	_	14	nsubj
+6	of	of	IN	_	5	prep
+7	egrets	egret	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	herons	heron	NNS	_	7	conj
+10	,	,	,	_	7	punct
+11	ibis	ibis	NN	_	7	conj
+12	and	and	CC	_	7	cc
+13	anhinga	anhinga	NN	_	7	conj
+14	is	be	VBZ	_	0	ROOT
+15	along	along	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	lake	lake	NN	_	18	nn
+18	edge	edge	NN	_	15	pobj
+19	at	at	IN	_	14	prep
+20	the	the	DT	_	22	det
+21	east	east	JJ	_	22	amod
+22	side	side	NN	_	19	pobj
+23	of	of	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	park	park	NN	_	23	pobj
+26	.	.	.	_	14	punct
+

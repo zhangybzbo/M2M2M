@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	3	nsubj
+3	sent	send	VBD	_	0	ROOT
+4	floral	floral	JJ	_	5	amod
+5	bouquets	bouquet	NNS	_	3	dobj
+6	to	to	TO	_	3	prep
+7	a	a	DT	_	8	det
+8	city	city	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	Ireland	Ireland	NNP	_	9	pobj
+11	.	.	.	_	3	punct
+

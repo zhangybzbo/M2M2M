@@ -1,0 +1,9 @@
+1	They	they	PRP	_	2	nsubj
+2	packed	pack	VBD	_	7	csubj
+3	saltpetre	saltpetre	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	thin-size	thin-size	JJ	_	6	amod
+6	bamboo	bamboo	NN	_	4	pobj
+7	sticks	stick	VBZ	_	0	ROOT
+8	.	.	.	_	7	punct
+

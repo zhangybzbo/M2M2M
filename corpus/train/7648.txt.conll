@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	saved	save	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	planet	planet	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	imperialist	imperialist	JJ	_	8	amod
+8	threat	threat	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

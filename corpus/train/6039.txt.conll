@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	organizers	organizer	NNS	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	retreat	retreat	NN	_	3	pobj
+6	near	near	IN	_	5	prep
+7	Lake	Lake	NNP	_	8	nn
+8	Placid	Placid	NNP	_	6	pobj
+9	threw	throw	VBD	_	0	ROOT
+10	together	together	RP	_	9	prt
+11	a	a	DT	_	12	det
+12	group	group	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	people	people	NNS	_	13	pobj
+15	on	on	IN	_	9	prep
+16	a	a	DT	_	17	det
+17	hunch	hunch	NN	_	15	pobj
+18	.	.	.	_	9	punct
+

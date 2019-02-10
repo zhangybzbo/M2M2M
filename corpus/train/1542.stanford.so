@@ -1,0 +1,12 @@
+0	55	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="poem" pos="NN" nsubj="t2"
+9	17	tok id="t2" base="explore" pos="VBZ" ROOT="ROOT"
+18	21	tok id="t3" base="the" pos="DT" det="t5"
+22	32	tok id="t4" base="inevitable" pos="JJ" amod="t5"
+33	37	tok id="t5" base="need" pos="NN" dobj="t2"
+38	40	tok id="t6" base="to" pos="TO" aux="t7"
+41	45	tok id="t7" base="make" pos="VB" vmod="t5"
+46	53	tok id="t8" base="choice" pos="NNS" dobj="t7"
+54	55	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

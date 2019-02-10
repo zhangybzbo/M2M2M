@@ -1,0 +1,16 @@
+1	Our	we	PRP$	_	2	poss
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	landed	land	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	serious	serious	JJ	_	7	amod
+7	trouble	trouble	NN	_	5	pobj
+8	with	with	IN	_	7	prep
+9	its	its	PRP$	_	11	poss
+10	London	London	NNP	_	11	nn
+11	network	network	NN	_	8	pobj
+12	since	since	IN	_	4	prep
+13	the	the	DT	_	14	det
+14	summer	summer	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

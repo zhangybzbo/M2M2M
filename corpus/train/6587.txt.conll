@@ -1,0 +1,21 @@
+1	Twice	twice	RB	_	0	ROOT
+2	when	when	WRB	_	5	advmod
+3	I	I	PRP	_	5	nsubj
+4	was	be	VBD	_	5	aux
+5	putting	put	VBG	_	1	dep
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	fully	fully	RB	_	9	advmod
+9	loaded	load	VBN	_	10	amod
+10	Atlas	Atlas	NNP	_	6	pobj
+11	,	,	,	_	13	punct
+12	the	the	DT	_	13	det
+13	knobs	knob	NNS	_	5	dobj
+14	popped	pop	VBN	_	13	vmod
+15	out	out	IN	_	14	prep
+16	of	of	IN	_	15	pcomp
+17	the	the	DT	_	19	det
+18	frame	frame	NN	_	19	nn
+19	slots	slot	NNS	_	16	pobj
+20	.	.	.	_	13	punct
+

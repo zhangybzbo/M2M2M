@@ -1,0 +1,21 @@
+1	Weights	weight	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	added	add	VBN	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	7	det
+6	other	other	JJ	_	7	amod
+7	side	side	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	balance	balance	NN	_	8	pobj
+11	until	until	IN	_	19	mark
+12	tissue	tissue	NN	_	13	nn
+13	release	release	NN	_	19	nsubjpass
+14	from	from	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	choroidal	choroidal	JJ	_	17	amod
+17	side	side	NN	_	14	pobj
+18	was	be	VBD	_	19	auxpass
+19	achieved	achieve	VBN	_	3	advcl
+20	.	.	.	_	3	punct
+

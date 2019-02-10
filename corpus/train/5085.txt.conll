@@ -1,0 +1,19 @@
+1	At	at	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	same	same	JJ	_	4	amod
+4	time	time	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	the	the	DT	_	7	det
+7	government	government	NN	_	9	nsubj
+8	carefully	carefully	RB	_	9	advmod
+9	chose	choose	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	facts	fact	NNS	_	9	dobj
+12	that	that	IN	_	14	mark
+13	it	it	PRP	_	14	nsubj
+14	gave	give	VBD	_	11	ccomp
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	17	det
+17	newspapers	newspaper	NNS	_	15	pobj
+18	.	.	.	_	9	punct
+

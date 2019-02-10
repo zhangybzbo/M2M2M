@@ -1,0 +1,13 @@
+0	70	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="statement" pos="NN" ROOT="ROOT"
+14	19	tok id="t2" base="below" pos="IN" prep="t1"
+20	25	tok id="t3" base="come" pos="VBZ" pcomp="t2"
+26	30	tok id="t4" base="from" pos="IN" prep="t3"
+31	34	tok id="t5" base="the" pos="DT" det="t9"
+35	45	tok id="t6" base="Morristown" pos="NNP" nn="t9"
+46	52	tok id="t7" base="Humane" pos="NNP" nn="t9"
+53	60	tok id="t8" base="Society" pos="NNP" nn="t9"
+61	68	tok id="t9" base="website" pos="NN" pobj="t4"
+69	70	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

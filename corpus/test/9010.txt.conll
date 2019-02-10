@@ -1,0 +1,13 @@
+1	World	World	NNP	_	6	poss
+2	's	's	POS	_	1	possessive
+3	slimmest	slimmest	JJS	_	6	amod
+4	USB	usb	JJ	_	6	amod
+5	flash	flash	NN	_	6	nn
+6	drive	drive	NN	_	7	nsubj
+7	fits	fit	VBZ	_	0	ROOT
+8	comfortably	comfortably	RB	_	7	advmod
+9	in	in	IN	_	7	prep
+10	a	a	DT	_	11	det
+11	wallet	wallet	NN	_	9	pobj
+12	.	.	.	_	7	punct
+

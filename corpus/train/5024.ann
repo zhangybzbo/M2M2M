@@ -1,0 +1,3 @@
+T1	Term 35 40	cream
+T2	Term 41 46	sauce
+R1	Entity-Origin Arg1:T2 Arg2:T1

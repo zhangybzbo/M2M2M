@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	newsletter	newsletter	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	published	publish	VBN	_	0	ROOT
+5	once	once	RB	_	7	advmod
+6	a	a	DT	_	7	det
+7	fortnight	fortnight	NN	_	4	dobj
+8	to	to	TO	_	9	aux
+9	keep	keep	VB	_	7	vmod
+10	families	family	NNS	_	11	nsubj
+11	informed	inform	VBN	_	9	xcomp
+12	on	on	IN	_	11	prep
+13	school	school	NN	_	14	nn
+14	happenings	happening	NNS	_	12	pobj
+15	.	.	.	_	4	punct
+

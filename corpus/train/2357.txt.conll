@@ -1,0 +1,20 @@
+1	They	they	PRP	_	2	nsubj
+2	raided	raid	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	house	house	NN	_	2	dobj
+5	behind	behind	IN	_	4	prep
+6	Mustapha	Mustapha	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	residence	residence	NN	_	5	pobj
+9	and	and	CC	_	2	cc
+10	seized	seize	VBD	_	2	conj
+11	a	a	DT	_	12	det
+12	cache	cache	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	arms	arm	NNS	_	13	pobj
+15	,	,	,	_	14	punct
+16	weapons	weapon	NNS	_	14	conj
+17	and	and	CC	_	14	cc
+18	explosives	explosive	NNS	_	14	conj
+19	.	.	.	_	2	punct
+

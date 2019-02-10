@@ -1,0 +1,10 @@
+1	Violence	violence	NN	_	5	nsubj
+2	and	and	CC	_	1	cc
+3	corruption	corruption	NN	_	1	conj
+4	are	be	VBP	_	5	aux
+5	spreading	spread	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	this	this	DT	_	8	det
+8	country	country	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

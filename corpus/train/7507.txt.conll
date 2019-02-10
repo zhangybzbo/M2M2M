@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	president	president	NN	_	3	nsubj
+3	used	use	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	pretext	pretext	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	national	national	JJ	_	8	amod
+8	security	security	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

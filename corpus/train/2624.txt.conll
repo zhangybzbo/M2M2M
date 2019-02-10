@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	internal	internal	JJ	_	3	amod
+3	proletariat	proletariat	NN	_	10	nsubj
+4	,	,	,	_	3	punct
+5	consisting	consist	VBG	_	3	vmod
+6	of	of	IN	_	5	prep
+7	failed	fail	VBN	_	8	amod
+8	citizens	citizen	NNS	_	6	pobj
+9	,	,	,	_	3	punct
+10	conquered	conquer	VBD	_	0	ROOT
+11	peoples	people	NNS	_	10	dobj
+12	,	,	,	_	10	punct
+13	and	and	CC	_	10	cc
+14	slaves	slave	NNS	_	10	conj
+15	,	,	,	_	14	punct
+16	turn	turn	VB	_	14	vmod
+17	away	away	RP	_	16	prt
+18	from	from	IN	_	16	prep
+19	the	the	DT	_	22	det
+20	aggressive	aggressive	JJ	_	22	amod
+21	conquering	conquer	VBG	_	22	amod
+22	state	state	NN	_	18	pobj
+23	.	.	.	_	10	punct
+

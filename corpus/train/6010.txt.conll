@@ -1,0 +1,12 @@
+1	Earl	Earl	NNP	_	2	nsubj
+2	turned	turn	VBD	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	leaned	lean	VBD	_	2	conj
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	railing	railing	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	balcony	balcony	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

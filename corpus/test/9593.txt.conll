@@ -1,0 +1,12 @@
+1	Insurgents	insurgent	NNS	_	5	nsubj
+2	in	in	IN	_	1	prep
+3	Asadabad	Asadabad	NNP	_	2	pobj
+4	have	have	VBP	_	5	aux
+5	thrown	throw	VBN	_	0	ROOT
+6	a	a	DT	_	7	det
+7	grenade	grenade	NN	_	5	dobj
+8	into	into	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	crowd	crowd	NN	_	8	pobj
+11	.	.	.	_	5	punct
+

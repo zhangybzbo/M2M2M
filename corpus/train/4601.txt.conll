@@ -1,0 +1,17 @@
+1	Shin	Shin	NNP	_	2	nn
+2	splints	splint	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	muscles	muscle	NNS	_	5	pobj
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	front	front	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	sides	side	NNS	_	10	conj
+13	of	of	IN	_	10	prep
+14	the	the	DT	_	15	det
+15	leg	leg	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

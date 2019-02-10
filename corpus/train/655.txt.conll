@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	mast	mast	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	folded	fold	VBN	_	0	ROOT
+5	up	up	RP	_	4	prt
+6	accordion-style	accordion-style	JJ	_	4	xcomp
+7	inside	inside	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	canister	canister	NN	_	7	pobj
+10	that	that	WDT	_	12	nsubjpass
+11	was	be	VBD	_	12	auxpass
+12	attached	attach	VBN	_	9	rcmod
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	15	det
+15	side	side	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	main	main	JJ	_	19	amod
+19	antenna	antenna	NN	_	16	pobj
+20	.	.	.	_	4	punct
+

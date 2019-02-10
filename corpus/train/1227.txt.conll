@@ -1,0 +1,14 @@
+1	Scientists	scientist	NNS	_	4	nsubj
+2	have	have	VBP	_	4	aux
+3	successfully	successfully	RB	_	4	advmod
+4	tested	test	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	system	system	NN	_	4	dobj
+7	that	that	WDT	_	8	nsubj
+8	translates	translate	VBZ	_	6	rcmod
+9	brain	brain	NN	_	10	nn
+10	waves	wave	NNS	_	8	dobj
+11	into	into	IN	_	8	prep
+12	speech	speech	NN	_	11	pobj
+13	.	.	.	_	4	punct
+

@@ -1,0 +1,3 @@
+T1	Term 0 4	Acne
+T2	Term 18 28	infections
+R1	Cause-Effect Arg1:T2 Arg2:T1

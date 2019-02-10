@@ -1,0 +1,22 @@
+1	The	the	DT	_	4	det
+2	constant	constant	JJ	_	4	amod
+3	polarization	polarization	NN	_	4	nn
+4	voltage	voltage	NN	_	9	nsubj
+5	between	between	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	two	two	CD	_	8	num
+8	electrodes	electrode	NNS	_	5	pobj
+9	instigates	instigate	VBZ	_	0	ROOT
+10	the	the	DT	_	12	det
+11	electrochemical	electrochemical	JJ	_	12	amod
+12	reaction	reaction	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	chlorine	chlorine	NN	_	16	nn
+16	compounds	compound	NNS	_	13	pobj
+17	on	on	IN	_	12	prep
+18	the	the	DT	_	20	det
+19	working	work	VBG	_	20	amod
+20	electrode	electrode	NN	_	17	pobj
+21	.	.	.	_	9	punct
+

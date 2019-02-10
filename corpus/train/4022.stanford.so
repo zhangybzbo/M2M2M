@@ -1,0 +1,10 @@
+0	54	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	18	tok id="t1" base="bond-insurance" pos="JJ" amod="t2"
+19	23	tok id="t2" base="unit" pos="NN" nsubjpass="t4"
+24	27	tok id="t3" base="be" pos="VBD" auxpass="t4"
+28	34	tok id="t4" base="place" pos="VBN" ROOT="ROOT"
+35	39	tok id="t5" base="into" pos="IN" prep="t4"
+40	52	tok id="t6" base="receivership" pos="NN" pobj="t5"
+53	54	tok id="t7" base="-PERIOD-" pos="." punct="t4"
+

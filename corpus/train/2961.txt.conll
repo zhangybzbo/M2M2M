@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	noise	noise	NN	_	11	nsubj
+3	and	and	CC	_	2	cc
+4	vibration	vibration	NN	_	2	conj
+5	caused	cause	VBN	_	2	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	passage	passage	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	trains	train	NNS	_	9	pobj
+11	resulted	result	VBD	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	unacceptable	unacceptable	JJ	_	14	amod
+14	conditions	condition	NNS	_	12	pobj
+15	within	within	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	convention	convention	NN	_	18	nn
+18	center	center	NN	_	15	pobj
+19	as	as	IN	_	25	mark
+20	standard	standard	JJ	_	22	amod
+21	construction	construction	NN	_	22	nn
+22	techniques	technique	NNS	_	25	nsubjpass
+23	had	have	VBD	_	25	aux
+24	been	be	VBN	_	25	auxpass
+25	used	use	VBN	_	11	advcl
+26	.	.	.	_	11	punct
+

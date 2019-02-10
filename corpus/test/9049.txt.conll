@@ -1,0 +1,17 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	student	student	NN	_	5	nn
+5	organization	organization	NN	_	0	ROOT
+6	founded	found	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	some	some	DT	_	10	det
+9	master	master	NN	_	10	nn
+10	student	student	NN	_	7	pobj
+11	at	at	IN	_	6	prep
+12	university	university	NN	_	11	pobj
+13	of	of	IN	_	12	prep
+14	rajasthan	rajasthan	NN	_	15	nn
+15	India	India	NNP	_	13	pobj
+16	.	.	.	_	5	punct
+

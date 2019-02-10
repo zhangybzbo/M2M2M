@@ -1,0 +1,13 @@
+1	When	when	WRB	_	3	advmod
+2	I	I	PRP	_	3	nsubj
+3	start	start	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	engine	engine	NN	_	3	dobj
+6	the	the	DT	_	7	det
+7	car	car	NN	_	8	nsubj
+8	makes	make	VBZ	_	5	rcmod
+9	a	a	DT	_	11	det
+10	screaching	screach	VBG	_	11	amod
+11	sound	sound	NN	_	8	dobj
+12	.	.	.	_	3	punct
+

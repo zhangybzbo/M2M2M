@@ -1,0 +1,3 @@
+T1	Term 16 21	shirt
+T2	Term 22 28	sleeve
+R1	Component-Whole Arg1:T2 Arg2:T1

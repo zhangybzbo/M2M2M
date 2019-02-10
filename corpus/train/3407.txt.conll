@@ -1,0 +1,21 @@
+1	His	he	PRP$	_	2	poss
+2	novels	novel	NNS	_	6	nsubj
+3	and	and	CC	_	2	cc
+4	stories	story	NNS	_	2	conj
+5	often	often	RB	_	6	advmod
+6	have	have	VBP	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	do	do	VB	_	6	xcomp
+9	with	with	IN	_	8	prep
+10	black	black	JJ	_	11	amod
+11	comedy	comedy	NN	_	9	pobj
+12	,	,	,	_	11	punct
+13	parody	parody	NN	_	11	conj
+14	,	,	,	_	11	punct
+15	satire	satire	NN	_	11	conj
+16	,	,	,	_	11	punct
+17	and	and	CC	_	11	cc
+18	Zen	Zen	NNP	_	19	nn
+19	Buddhism	Buddhism	NNP	_	11	conj
+20	.	.	.	_	6	punct
+

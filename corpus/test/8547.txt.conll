@@ -1,0 +1,25 @@
+1	A	a	DT	_	3	det
+2	hinge	hinge	NN	_	3	nn
+3	assembly	assembly	NN	_	4	nsubj
+4	attaches	attach	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	cover	cover	NN	_	4	dobj
+7	pivotally	pivotally	RB	_	6	advmod
+8	to	to	TO	_	7	prep
+9	a	a	DT	_	10	det
+10	base	base	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	an	a	DT	_	14	det
+13	electronic	electronic	JJ	_	14	amod
+14	device	device	NN	_	11	pobj
+15	and	and	CC	_	4	cc
+16	has	have	VBZ	_	4	conj
+17	a	a	DT	_	19	det
+18	pivoting	pivot	VBG	_	19	amod
+19	leaf	leaf	NN	_	16	dobj
+20	and	and	CC	_	19	cc
+21	a	a	DT	_	23	det
+22	stationary	stationary	JJ	_	23	amod
+23	leaf	leaf	NN	_	19	conj
+24	.	.	.	_	4	punct
+

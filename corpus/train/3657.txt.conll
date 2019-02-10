@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	3	nsubj
+3	stapled	staple	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	plastic	plastic	NN	_	3	dobj
+6	along	along	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	joists	joist	NNS	_	6	pobj
+9	with	with	IN	_	8	prep
+10	heavy	heavy	JJ	_	13	amod
+11	duty	duty	NN	_	13	nn
+12	staple	staple	NN	_	13	nn
+13	guns	gun	NNS	_	9	pobj
+14	to	to	TO	_	15	aux
+15	hold	hold	VB	_	3	xcomp
+16	it	it	PRP	_	15	dobj
+17	in	in	IN	_	15	prep
+18	place	place	NN	_	17	pobj
+19	.	.	.	_	3	punct
+

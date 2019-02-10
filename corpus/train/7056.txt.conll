@@ -1,0 +1,20 @@
+1	In	in	IN	_	6	prep
+2	the	the	DT	_	3	det
+3	Fifties	Fifties	NNP	_	1	pobj
+4	,	,	,	_	6	punct
+5	they	they	PRP	_	6	nsubj
+6	developed	develop	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	technique	technique	NN	_	6	dobj
+9	for	for	IN	_	8	prep
+10	treating	treat	VBG	_	9	pcomp
+11	blood	blood	NN	_	10	dobj
+12	with	with	IN	_	10	prep
+13	ozone	ozone	NN	_	12	pobj
+14	called	call	VBN	_	13	vmod
+15	`	`	``	_	17	punct
+16	major	major	JJ	_	17	amod
+17	autohemotherapy	autohemotherapy	NN	_	14	dep
+18	'	'	''	_	17	punct
+19	.	.	.	_	6	punct
+

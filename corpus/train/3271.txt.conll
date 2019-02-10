@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	kids	kid	NNS	_	3	nsubj
+3	get	get	VBP	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	hop	hop	VB	_	3	xcomp
+6	around	around	RP	_	5	prt
+7	in	in	IN	_	5	prep
+8	a	a	DT	_	9	det
+9	sack	sack	NN	_	7	pobj
+10	or	or	CC	_	9	cc
+11	pillowcase	pillowcase	NN	_	9	conj
+12	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	9/11	9/11	CD	_	3	num
+3	planes	plane	NNS	_	5	nsubj
+4	directly	directly	RB	_	5	advmod
+5	flew	fly	VBD	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	computer	computer	NN	_	9	nn
+9	rooms	room	NNS	_	6	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,24 @@
+1	Springwatch	Springwatch	NNP	_	7	nsubj
+2	is	be	VBZ	_	7	cop
+3	an	a	DT	_	7	det
+4	annual	annual	JJ	_	7	amod
+5	BBC	BBC	NNP	_	7	nn
+6	television	television	NN	_	7	nn
+7	series	series	NN	_	0	ROOT
+8	which	which	WDT	_	9	det
+9	charts	chart	NNS	_	7	dep
+10	the	the	DT	_	11	det
+11	fortunes	fortune	NNS	_	9	dep
+12	of	of	IN	_	11	prep
+13	wildlife	wildlife	NN	_	12	pobj
+14	during	during	IN	_	11	prep
+15	the	the	DT	_	16	det
+16	arrival	arrival	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	springtime	springtime	NN	_	17	pobj
+19	in	in	IN	_	16	prep
+20	the	the	DT	_	22	det
+21	United	United	NNP	_	22	nn
+22	Kingdom	Kingdom	NNP	_	19	pobj
+23	.	.	.	_	7	punct
+

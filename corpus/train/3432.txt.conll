@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	locker	locker	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	7	det
+5	big	big	JJ	_	7	amod
+6	fluffy	fluffy	JJ	_	7	amod
+7	robe	robe	NN	_	3	dobj
+8	for	for	IN	_	7	prep
+9	me	I	PRP	_	8	pobj
+10	to	to	TO	_	11	aux
+11	change	change	VB	_	3	vmod
+12	into	into	IN	_	11	prt
+13	.	.	.	_	3	punct
+

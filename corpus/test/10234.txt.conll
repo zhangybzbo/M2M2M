@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	assembled	assemble	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	portfolio	portfolio	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	precious	precious	JJ	_	13	amod
+9	and	and	CC	_	8	cc
+10	base	base	JJ	_	8	conj
+11	metal	metal	NN	_	13	nn
+12	exploration	exploration	NN	_	13	nn
+13	prospects	prospects	NNS	_	7	pobj
+14	in	in	IN	_	13	prep
+15	Ontario	Ontario	NNP	_	14	pobj
+16	,	,	,	_	15	punct
+17	Saskatchewan	Saskatchewan	NNP	_	15	appos
+18	,	,	,	_	4	punct
+19	and	and	CC	_	4	cc
+20	the	the	DT	_	23	det
+21	North	North	NNP	_	23	nn
+22	West	West	NNP	_	23	nn
+23	Territories	Territories	NNPS	_	4	conj
+24	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	We	we	PRP	_	2	nsubj
+2	recommend	recommend	VBP	_	0	ROOT
+3	rinsing	rinse	VBG	_	2	xcomp
+4	your	you	PRP$	_	5	poss
+5	grater	grater	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	warm	warm	JJ	_	8	amod
+8	water	water	NN	_	6	pobj
+9	immediately	immediately	RB	_	3	advmod
+10	after	after	IN	_	9	prep
+11	each	each	DT	_	12	det
+12	use	use	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

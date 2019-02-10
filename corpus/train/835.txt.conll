@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	missile	missile	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	placed	place	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	canister	canister	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	loaded	load	VBN	_	4	conj
+10	into	into	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	launch	launch	NN	_	13	nn
+13	facility	facility	NN	_	10	pobj
+14	.	.	.	_	4	punct
+

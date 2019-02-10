@@ -1,0 +1,26 @@
+1	He	he	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	a	a	DT	_	5	det
+4	civilian	civilian	JJ	_	5	amod
+5	president	president	NN	_	0	ROOT
+6	,	,	,	_	5	punct
+7	but	but	CC	_	5	cc
+8	also	also	RB	_	11	advmod
+9	he	he	PRP	_	11	nsubj
+10	was	be	VBD	_	11	aux
+11	functioning	function	VBG	_	5	conj
+12	as	as	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	chairman	chairman	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	political	political	JJ	_	18	amod
+18	party	party	NN	_	15	pobj
+19	that	that	IN	_	21	mark
+20	he	he	PRP	_	21	nsubj
+21	founded	found	VBD	_	14	ccomp
+22	from	from	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	cantonment	cantonment	NN	_	22	pobj
+25	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	punks	punk	NNS	_	4	nsubj
+3	carefully	carefully	RB	_	4	advmod
+4	chose	choose	VBD	_	0	ROOT
+5	objects	object	NNS	_	4	dobj
+6	to	to	TO	_	8	aux
+7	be	be	VB	_	8	auxpass
+8	used	use	VBN	_	5	vmod
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	nihilistic	nihilistic	JJ	_	12	amod
+12	approach	approach	NN	_	9	pobj
+13	to	to	TO	_	12	prep
+14	style	style	NN	_	13	pobj
+15	.	.	.	_	4	punct
+

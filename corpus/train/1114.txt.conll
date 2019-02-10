@@ -1,0 +1,11 @@
+1	A	a	DT	_	3	det
+2	temporary	temporary	JJ	_	3	amod
+3	password	password	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	sent	send	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	your	you	PRP$	_	9	poss
+9	email	email	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

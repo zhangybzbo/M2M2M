@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	Ultravox	Ultravox	NNP	_	3	nn
+3	song	song	NN	_	16	nsubjpass
+4	,	,	,	_	3	punct
+5	with	with	IN	_	3	prep
+6	its	its	PRP$	_	8	poss
+7	faint	faint	JJ	_	8	amod
+8	allusions	allusion	NNS	_	5	pobj
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	13	det
+11	crumbling	crumble	VBG	_	13	amod
+12	Hapsburg	Hapsburg	NNP	_	13	nn
+13	Empire	Empire	NNP	_	9	pobj
+14	,	,	,	_	3	punct
+15	was	be	VBD	_	16	auxpass
+16	written	write	VBN	_	0	ROOT
+17	by	by	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	group	group	NN	_	17	pobj
+20	that	that	WDT	_	22	nsubj
+21	never	never	RB	_	22	neg
+22	set	set	VBD	_	19	rcmod
+23	foot	foot	NN	_	22	dobj
+24	in	in	IN	_	22	prep
+25	Vienna	Vienna	NNP	_	24	pobj
+26	.	.	.	_	16	punct
+

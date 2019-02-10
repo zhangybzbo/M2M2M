@@ -1,0 +1,13 @@
+1	Implementation	implementation	NN	_	7	nsubjpass
+2	of	of	IN	_	1	prep
+3	this	this	DT	_	4	det
+4	proposal	proposal	NN	_	2	pobj
+5	is	be	VBZ	_	7	aux
+6	being	be	VBG	_	7	auxpass
+7	discussed	discuss	VBN	_	0	ROOT
+8	at	at	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	state	state	NN	_	11	nn
+11	level	level	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

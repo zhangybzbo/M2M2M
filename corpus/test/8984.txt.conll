@@ -1,0 +1,26 @@
+1	Without	without	IN	_	11	prep
+2	wasting	waste	VBG	_	1	pcomp
+3	time	time	NN	_	2	dobj
+4	,	,	,	_	11	punct
+5	a	a	DT	_	7	det
+6	medical	medical	JJ	_	7	amod
+7	team	team	NN	_	11	nsubj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	army	army	NN	_	8	pobj
+11	rushed	rush	VBD	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	the	the	DT	_	14	det
+14	house	house	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	militant	militant	JJ	_	15	pobj
+18	and	and	CC	_	17	cc
+19	provided	provide	VBN	_	17	conj
+20	emergent	emergent	JJ	_	22	amod
+21	medical	medical	JJ	_	22	amod
+22	treatment	treatment	NN	_	19	dobj
+23	to	to	TO	_	11	prep
+24	her	she	PRP	_	23	pobj
+25	.	.	.	_	11	punct
+

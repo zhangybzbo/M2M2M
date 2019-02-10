@@ -1,0 +1,12 @@
+1	Farmers	Farmers	NNP	_	5	nsubj
+2	till	till	IN	_	5	advmod
+3	now	now	RB	_	5	advmod
+4	have	have	VBP	_	5	aux
+5	negotiated	negotiate	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	market	market	NN	_	6	pobj
+9	as	as	IN	_	5	prep
+10	individuals	individual	NNS	_	9	pobj
+11	.	.	.	_	5	punct
+

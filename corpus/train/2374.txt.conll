@@ -1,0 +1,15 @@
+1	Toda	Toda	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	established	establish	VBN	_	0	ROOT
+4	himself	himself	PRP	_	3	dobj
+5	as	as	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	world	world	NN	_	10	poss
+8	's	's	POS	_	7	possessive
+9	foremost	foremost	JJ	_	10	amod
+10	folder	folder	NN	_	5	pobj
+11	of	of	IN	_	10	prep
+12	paper	paper	NN	_	13	nn
+13	planes	plane	NNS	_	11	pobj
+14	.	.	.	_	3	punct
+

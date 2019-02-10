@@ -1,0 +1,12 @@
+0	81	sentence id="s0" parse_status="success"
+0	13	tok id="t0" base="International" pos="NNP" nn="t1"
+14	24	tok id="t1" base="committee" pos="NNS" nsubj="t3"
+25	29	tok id="t2" base="have" pos="VBP" aux="t3"
+30	38	tok id="t3" base="bestow" pos="VBN" ROOT="ROOT"
+39	47	tok id="t4" base="industry" pos="NN" nn="t5"
+48	54	tok id="t5" base="award" pos="NNS" dobj="t3"
+55	57	tok id="t6" base="to" pos="TO" prep="t3"
+58	69	tok id="t7" base="outstanding" pos="JJ" amod="t8"
+70	79	tok id="t8" base="company" pos="NNS" pobj="t6"
+80	81	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	power	power	NN	_	6	nsubjpass
+3	to	to	TO	_	2	prep
+4	rule	rule	NN	_	3	pobj
+5	is	be	VBZ	_	6	auxpass
+6	derived	derive	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	mandate	mandate	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	masses	mass	NNS	_	10	pobj
+13	.	.	.	_	6	punct
+

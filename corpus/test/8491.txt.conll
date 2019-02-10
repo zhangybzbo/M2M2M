@@ -1,0 +1,9 @@
+1	Students	student	NNS	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	Mozambique	Mozambique	NNP	_	2	pobj
+4	planted	plant	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	crops	crop	NNS	_	4	dobj
+8	.	.	.	_	4	punct
+

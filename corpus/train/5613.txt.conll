@@ -1,0 +1,15 @@
+1	Lineman	lineman	NN	_	3	poss
+2	's	's	POS	_	1	possessive
+3	pliers	pliers	NNS	_	7	nsubj
+4	are	be	VBP	_	7	cop
+5	an	a	DT	_	7	det
+6	essential	essential	JJ	_	7	amod
+7	item	item	NN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	electrician	electrician	NN	_	13	poss
+11	's	's	POS	_	10	possessive
+12	tool	tool	NN	_	13	nn
+13	complement	complement	NN	_	8	pobj
+14	.	.	.	_	7	punct
+

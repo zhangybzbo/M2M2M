@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	living	living	NN	_	3	nn
+3	vaccine	vaccine	NN	_	5	nsubj
+4	,	,	,	_	3	punct
+5	caused	cause	VBD	_	0	ROOT
+6	a	a	DT	_	8	det
+7	sharp	sharp	JJ	_	8	amod
+8	temperature	temperature	NN	_	5	dobj
+9	elevation	elevation	NN	_	8	dep
+10	on	on	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	day	day	NN	_	10	pobj
+13	following	follow	VBG	_	9	prep
+14	the	the	DT	_	16	det
+15	second	second	JJ	_	16	amod
+16	injection	injection	NN	_	13	pobj
+17	.	.	.	_	5	punct
+

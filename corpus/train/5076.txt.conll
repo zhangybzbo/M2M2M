@@ -1,0 +1,20 @@
+1	Their	they	PRP$	_	2	poss
+2	dash	dash	NN	_	3	nsubj
+3	raised	raise	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	flock	flock	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	morning	morning	NN	_	8	nn
+8	doves	dove	NNS	_	6	pobj
+9	and	and	CC	_	3	cc
+10	caused	cause	VBD	_	3	conj
+11	a	a	DT	_	10	dobj
+12	scurry	scurry	VB	_	11	dep
+13	of	of	IN	_	12	prep
+14	ground	ground	NN	_	15	nn
+15	squirrels	squirrel	NNS	_	13	pobj
+16	into	into	IN	_	12	prep
+17	their	they	PRP$	_	18	poss
+18	holes	hole	NNS	_	16	pobj
+19	.	.	.	_	3	punct
+

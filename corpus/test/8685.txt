@@ -1,0 +1,1 @@
+A data warehouse is a place where data is stored for archival purposes .

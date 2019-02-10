@@ -1,0 +1,14 @@
+1	This	this	DT	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	demonstrated	demonstrate	VBN	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	servomotor	servomotor	NN	_	8	nn
+7	driven-robot	driven-robot	NN	_	8	nn
+8	arm	arm	NN	_	4	pobj
+9	using	use	VBG	_	8	vmod
+10	a	a	DT	_	12	det
+11	computer	computer	NN	_	12	nn
+12	simulation	simulation	NN	_	9	dobj
+13	.	.	.	_	3	punct
+

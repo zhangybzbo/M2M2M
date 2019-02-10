@@ -1,0 +1,3 @@
+T1	Term 10 16	valves
+T2	Term 24 31	trumpet
+R1	Component-Whole Arg1:T1 Arg2:T2

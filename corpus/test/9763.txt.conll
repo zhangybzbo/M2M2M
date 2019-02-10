@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	plasma	plasma	NN	_	4	nn
+3	processing	processing	NN	_	4	nn
+4	apparatus	apparatus	NN	_	5	nsubj
+5	produces	produce	VBZ	_	0	ROOT
+6	a	a	DT	_	7	det
+7	plasma	plasma	NN	_	5	dobj
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	vessel	vessel	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	processes	process	NNS	_	13	nn
+13	samples	sample	NNS	_	10	conj
+14	using	use	VBG	_	5	xcomp
+15	the	the	DT	_	16	det
+16	plasma	plasma	NN	_	14	dobj
+17	.	.	.	_	5	punct
+

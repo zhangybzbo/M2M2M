@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	duration	duration	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	visa	visa	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	estimated	estimate	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	first	first	JJ	_	11	amod
+11	exit	exit	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	applicant	applicant	NN	_	12	pobj
+15	from	from	IN	_	11	prep
+16	the	the	DT	_	17	det
+17	country	country	NN	_	15	pobj
+18	after	after	IN	_	7	prep
+19	issuance	issuance	NN	_	18	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	visa	visa	NN	_	20	pobj
+23	.	.	.	_	7	punct
+

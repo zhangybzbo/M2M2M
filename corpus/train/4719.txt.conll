@@ -1,0 +1,9 @@
+1	Gavin	Gavin	NNP	_	2	nsubj
+2	wears	wear	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	kilt	kilt	NN	_	2	dobj
+5	for	for	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	outing	outing	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

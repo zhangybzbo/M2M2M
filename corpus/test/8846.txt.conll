@@ -1,0 +1,12 @@
+1	Saudi	Saudi	NNP	_	2	nn
+2	Arabia	Arabia	NNP	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	exported	export	VBN	_	0	ROOT
+5	wheat	wheat	NN	_	4	dobj
+6	to	to	TO	_	4	prep
+7	30	30	CD	_	8	num
+8	countries	country	NNS	_	6	pobj
+9	including	include	VBG	_	8	prep
+10	China	China	NNP	_	9	pobj
+11	.	.	.	_	4	punct
+

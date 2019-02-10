@@ -1,0 +1,15 @@
+1	Dissidents	dissident	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	drawn	draw	VBN	_	0	ROOT
+4	up	up	RP	_	3	prt
+5	plans	plan	NNS	_	3	dobj
+6	to	to	TO	_	7	aux
+7	kill	kill	VB	_	5	vmod
+8	policemen	policeman	NNS	_	7	dobj
+9	in	in	IN	_	7	prep
+10	Milltown	Milltown	NNP	_	9	pobj
+11	in	in	IN	_	10	prep
+12	west	west	JJ	_	13	amod
+13	Belfast	Belfast	NNP	_	11	pobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,21 @@
+1	It	it	PRP	_	3	nsubj
+2	was	be	VBD	_	3	cop
+3	windy	windy	JJ	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	cold	cold	JJ	_	3	conj
+6	yesterday	yesterday	NN	_	3	tmod
+7	and	and	CC	_	3	cc
+8	there	there	EX	_	9	expl
+9	is	be	VBZ	_	3	conj
+10	still	still	RB	_	9	advmod
+11	some	some	DT	_	12	det
+12	remnants	remnant	NNS	_	15	nsubj
+13	of	of	IN	_	12	prep
+14	snow	snow	NN	_	13	pobj
+15	left	leave	VBD	_	9	parataxis
+16	from	from	IN	_	15	prep
+17	early	early	JJ	_	19	amod
+18	yesterdays	yesterday	NNS	_	19	nn
+19	storm	storm	NN	_	16	pobj
+20	.	.	.	_	3	punct
+

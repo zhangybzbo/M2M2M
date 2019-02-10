@@ -1,0 +1,22 @@
+1	Kind-hearted	kind-hearted	JJ	_	3	amod
+2	market	market	NN	_	3	nn
+3	traders	trader	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	stepped	step	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	to	to	TO	_	8	aux
+8	rescue	rescue	VB	_	6	pcomp
+9	a	a	DT	_	10	det
+10	litter	litter	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	kittens	kitten	NNS	_	11	pobj
+13	which	which	WDT	_	15	nsubjpass
+14	were	be	VBD	_	15	auxpass
+15	abandoned	abandon	VBN	_	12	rcmod
+16	under	under	IN	_	15	prep
+17	one	one	CD	_	16	pobj
+18	of	of	IN	_	17	prep
+19	their	they	PRP$	_	20	poss
+20	stalls	stall	NNS	_	18	pobj
+21	.	.	.	_	5	punct
+

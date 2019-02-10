@@ -1,0 +1,21 @@
+1	In	in	IN	_	4	prep
+2	the	the	DT	_	3	det
+3	background	background	NN	_	1	pobj
+4	is	be	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	depiction	depiction	NN	_	4	nsubj
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	city	city	NN	_	7	pobj
+10	with	with	IN	_	6	prep
+11	angels	angel	NNS	_	10	pobj
+12	that	that	WDT	_	11	dep
+13	along	along	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	path	path	NN	_	13	pobj
+16	that	that	WDT	_	17	nsubj
+17	leads	lead	VBZ	_	15	rcmod
+18	towards	towards	IN	_	17	prep
+19	it	it	PRP	_	18	pobj
+20	.	.	.	_	4	punct
+

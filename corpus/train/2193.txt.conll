@@ -1,0 +1,12 @@
+1	He	he	PRP	_	3	nsubj
+2	slowly	slowly	RB	_	3	advmod
+3	inserted	insert	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	disk	disk	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	10	det
+8	removable	removable	JJ	_	10	amod
+9	disk	disk	NN	_	10	nn
+10	drive	drive	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

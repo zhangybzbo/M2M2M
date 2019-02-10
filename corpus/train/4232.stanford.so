@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="homeless" pos="JJ" amod="t1"
+9	18	tok id="t1" base="teenager" pos="NNS" nsubj="t2"
+19	25	tok id="t2" base="return" pos="VBP" ROOT="ROOT"
+26	30	tok id="t3" base="home" pos="NN" dobj="t2"
+31	35	tok id="t4" base="with" pos="IN" prep="t2"
+36	39	tok id="t5" base="the" pos="DT" det="t6"
+40	44	tok id="t6" base="help" pos="NN" pobj="t4"
+45	47	tok id="t7" base="of" pos="IN" prep="t6"
+48	54	tok id="t8" base="family" pos="NN" nn="t9"
+55	59	tok id="t9" base="tie" pos="NNS" pobj="t7"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

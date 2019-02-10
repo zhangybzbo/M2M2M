@@ -1,0 +1,11 @@
+1	Insulin	insulin	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	hormone	hormone	NN	_	0	ROOT
+5	naturally	naturally	RB	_	6	advmod
+6	produced	produce	VBN	_	4	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	pancreas	pancreas	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

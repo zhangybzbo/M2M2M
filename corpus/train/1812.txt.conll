@@ -1,0 +1,13 @@
+1	One	one	CD	_	2	num
+2	day	day	NN	_	7	tmod
+3	the	the	DT	_	6	det
+4	little	little	JJ	_	6	amod
+5	orphan	orphan	NN	_	6	nn
+6	boy	boy	NN	_	7	nsubj
+7	ran	run	VBD	_	0	ROOT
+8	away	away	RB	_	7	advmod
+9	from	from	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	orphanage	orphanage	NN	_	9	pobj
+12	.	.	.	_	7	punct
+

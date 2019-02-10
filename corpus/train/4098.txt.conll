@@ -1,0 +1,16 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	2004	2004	CD	_	5	num
+5	book	book	NN	_	0	ROOT
+6	criticizing	criticize	VBG	_	5	vmod
+7	the	the	DT	_	11	det
+8	political	political	JJ	_	11	amod
+9	and	and	CC	_	8	cc
+10	linguistic	linguistic	JJ	_	8	conj
+11	writings	writings	NNS	_	6	dobj
+12	of	of	IN	_	11	prep
+13	Noam	Noam	NNP	_	14	nn
+14	Chomsky	Chomsky	NNP	_	12	pobj
+15	.	.	.	_	5	punct
+

@@ -1,0 +1,3 @@
+T1	Term 45 48	hum
+T2	Term 56 68	refrigerator
+R1	Cause-Effect Arg1:T2 Arg2:T1

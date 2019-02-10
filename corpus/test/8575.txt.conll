@@ -1,0 +1,13 @@
+1	For	for	IN	_	9	prep
+2	15	15	CD	_	3	num
+3	years	year	NNS	_	1	pobj
+4	,	,	,	_	9	punct
+5	NASA	NASA	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	shuttles	shuttle	NNS	_	9	nsubj
+8	have	have	VBP	_	9	aux
+9	journeyed	journey	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	space	space	NN	_	10	pobj
+12	.	.	.	_	9	punct
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	chairman	chairman	NN	_	19	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	political	political	JJ	_	6	amod
+6	party	party	NN	_	3	pobj
+7	or	or	CC	_	2	cc
+8	the	the	DT	_	10	det
+9	independent/primary	independent/primary	JJ	_	10	amod
+10	candidate	candidate	NN	_	2	conj
+11	entitled	entitle	VBN	_	10	vmod
+12	to	to	TO	_	11	prep
+13	representatives	representative	NNS	_	12	pobj
+14	,	,	,	_	19	punct
+15	as	as	IN	_	19	prep
+16	appropriate	appropriate	JJ	_	15	pobj
+17	,	,	,	_	19	punct
+18	must	must	MD	_	19	aux
+19	provide	provide	VB	_	0	ROOT
+20	a	a	DT	_	21	det
+21	notice	notice	NN	_	19	dobj
+22	of	of	IN	_	21	prep
+23	authorization	authorization	NN	_	22	pobj
+24	.	.	.	_	19	punct
+

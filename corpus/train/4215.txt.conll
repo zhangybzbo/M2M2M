@@ -1,0 +1,9 @@
+1	Public	Public	NNP	_	3	nn
+2	brand	brand	NN	_	3	nn
+3	products	product	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	donated	donate	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	charities	charity	NNS	_	6	pobj
+8	.	.	.	_	5	punct
+

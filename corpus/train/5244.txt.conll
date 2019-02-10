@@ -1,0 +1,16 @@
+1	Grint	grint	NN	_	2	nsubj
+2	shows	show	VBZ	_	0	ROOT
+3	he	he	PRP	_	5	nsubj
+4	's	be	VBZ	_	5	aux
+5	becoming	become	VBG	_	2	ccomp
+6	a	a	DT	_	9	det
+7	delightful	delightful	JJ	_	9	amod
+8	comic	comic	JJ	_	9	amod
+9	actor	actor	NN	_	5	xcomp
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	14	det
+12	highly	highly	RB	_	13	advmod
+13	flexible	flexible	JJ	_	14	amod
+14	voice	voice	NN	_	10	pobj
+15	.	.	.	_	2	punct
+

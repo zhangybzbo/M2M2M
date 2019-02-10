@@ -1,0 +1,22 @@
+1	You	you	PRP	_	2	nsubj
+2	counted	count	VBD	_	0	ROOT
+3	almost	almost	RB	_	4	quantmod
+4	thirty-three	thirty-three	CD	_	6	num
+5	honorable	honorable	JJ	_	6	amod
+6	punches	punch	NNS	_	2	dobj
+7	and	and	CC	_	2	cc
+8	kicks	kick	VBZ	_	2	conj
+9	thrown	throw	VBN	_	8	vmod
+10	in	in	IN	_	9	prep
+11	this	this	DT	_	12	det
+12	clip	clip	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	little	little	JJ	_	15	amod
+15	kid	kid	NN	_	13	pobj
+16	screaming	scream	VBG	_	15	vmod
+17	after	after	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	terrible	terrible	JJ	_	20	amod
+20	fight	fight	NN	_	17	pobj
+21	.	.	.	_	2	punct
+

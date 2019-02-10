@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	design	design	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	my	my	PRP$	_	6	poss
+6	wife	wife	NN	_	4	pobj
+7	,	,	,	_	6	punct
+8	Bianca	Bianca	NNP	_	6	appos
+9	.	.	.	_	3	punct
+

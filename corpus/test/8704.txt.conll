@@ -1,0 +1,15 @@
+1	Cooking	cooking	NN	_	0	ROOT
+2	and	and	CC	_	1	cc
+3	fermenting	ferment	VBG	_	1	conj
+4	the	the	DT	_	5	det
+5	grain	grain	NN	_	6	nsubj
+6	produced	produce	VBD	_	3	ccomp
+7	a	a	DT	_	10	det
+8	tasty	tasty	JJ	_	10	amod
+9	nutritious	nutritious	JJ	_	10	amod
+10	drink	drink	NN	_	6	dobj
+11	which	which	WDT	_	12	nsubj
+12	stored	store	VBD	_	10	rcmod
+13	well	well	RB	_	12	advmod
+14	.	.	.	_	1	punct
+

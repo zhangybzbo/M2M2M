@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	how	how	WRB	_	6	advmod
+4	a	a	DT	_	5	det
+5	politician	politician	NN	_	6	nsubj
+6	uses	use	VBZ	_	2	ccomp
+7	tourism	tourism	NN	_	6	dobj
+8	as	as	IN	_	6	prep
+9	an	a	DT	_	10	det
+10	instrument	instrument	NN	_	8	pobj
+11	for	for	IN	_	10	prep
+12	power	power	NN	_	11	pobj
+13	.	.	.	_	2	punct
+

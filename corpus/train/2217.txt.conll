@@ -1,0 +1,19 @@
+1	New	New	NNP	_	2	nn
+2	plans	plan	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	outlined	outline	VBN	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	another	another	DT	_	8	det
+7	wind	wind	NN	_	8	nn
+8	farm	farm	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	north	north	NN	_	11	nn
+11	Devon	Devon	NNP	_	9	pobj
+12	of	of	IN	_	11	prep
+13	no	no	DT	_	17	neg
+14	more	more	JJR	_	15	mwe
+15	than	than	IN	_	16	quantmod
+16	four	four	CD	_	17	num
+17	turbines	turbine	NNS	_	12	pobj
+18	.	.	.	_	4	punct
+

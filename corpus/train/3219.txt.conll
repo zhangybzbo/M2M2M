@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	portion	portion	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	ethernet	ethernet	NN	_	6	nn
+6	cable	cable	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	outer	outer	JJ	_	9	amod
+9	insulation	insulation	NN	_	3	pobj
+10	is	be	VBZ	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	connector	connector	NN	_	11	pobj
+14	as	as	RB	_	15	advmod
+15	well	well	RB	_	10	advmod
+16	.	.	.	_	10	punct
+

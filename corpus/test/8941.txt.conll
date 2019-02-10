@@ -1,0 +1,19 @@
+1	The	the	DT	_	5	det
+2	first	first	JJ	_	5	amod
+3	French	french	JJ	_	5	amod
+4	aircraft	aircraft	NN	_	5	nn
+5	designer	designer	NN	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	try	try	VB	_	5	vmod
+8	this	this	DT	_	7	dobj
+9	simply	simply	RB	_	10	advmod
+10	installed	install	VBN	_	8	vmod
+11	a	a	DT	_	13	det
+12	deflector	deflector	NN	_	13	nn
+13	plate	plate	NN	_	10	dobj
+14	on	on	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	propellor	propellor	NN	_	17	nn
+17	blade	blade	NN	_	14	pobj
+18	.	.	.	_	5	punct
+

@@ -1,0 +1,20 @@
+1	One	one	CD	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	my	my	PRP$	_	4	poss
+4	girlfriends	girlfriend	NNS	_	2	pobj
+5	ordered	order	VBD	_	0	ROOT
+6	the	the	DT	_	9	det
+7	Lomo	Lomo	NNP	_	9	nn
+8	de	de	IN	_	9	amod
+9	Puerco	Puerco	NNP	_	5	dobj
+10	which	which	WDT	_	14	nsubj
+11	was	be	VBD	_	14	aux
+12	their	they	PRP$	_	13	poss
+13	pork	pork	NN	_	14	nsubj
+14	chop	chop	VB	_	9	rcmod
+15	in	in	IN	_	14	prep
+16	some	some	DT	_	18	det
+17	guava	guava	NN	_	18	nn
+18	sauce	sauce	NN	_	15	pobj
+19	.	.	.	_	5	punct
+

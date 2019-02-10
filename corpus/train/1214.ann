@@ -1,0 +1,3 @@
+T1	Term 14 24	politician
+T2	Term 30 37	tourism
+R1	Instrument-Agency Arg1:T2 Arg2:T1

@@ -1,0 +1,27 @@
+1	One	one	CD	_	8	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	most	most	RBS	_	5	advmod
+5	vivid	vivid	JJ	_	6	amod
+6	portraits	portrait	NNS	_	2	pobj
+7	is	be	VBZ	_	8	cop
+8	that	that	DT	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	Brookie	Brookie	NNP	_	11	nn
+11	Simmons	Simmons	NNP	_	9	pobj
+12	,	,	,	_	11	punct
+13	a	a	DT	_	15	det
+14	white	white	JJ	_	15	amod
+15	woman	woman	NN	_	11	appos
+16	who	who	WP	_	17	nsubj
+17	fought	fight	VBD	_	15	rcmod
+18	to	to	TO	_	19	aux
+19	abolish	abolish	VB	_	17	xcomp
+20	child	child	NN	_	21	nn
+21	labor	labor	NN	_	19	dobj
+22	in	in	IN	_	19	prep
+23	a	a	DT	_	25	det
+24	town	town	NN	_	25	nn
+25	factory	factory	NN	_	22	pobj
+26	.	.	.	_	8	punct
+

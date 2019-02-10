@@ -1,0 +1,27 @@
+1	Relieve	relieve	VB	_	0	ROOT
+2	spinal	spinal	JJ	_	3	amod
+3	stenosis	stenosis	NN	_	1	dobj
+4	by	by	IN	_	1	prep
+5	enlarging	enlarge	VBG	_	4	pcomp
+6	the	the	DT	_	8	det
+7	spinal	spinal	JJ	_	8	amod
+8	canal	canal	NN	_	5	dobj
+9	to	to	TO	_	10	aux
+10	relieve	relieve	VB	_	5	vmod
+11	pressure	pressure	NN	_	10	dobj
+12	on	on	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	spinal	spinal	JJ	_	15	amod
+15	cord	cord	NN	_	12	pobj
+16	that	that	WDT	_	19	nsubjpass
+17	has	have	VBZ	_	19	aux
+18	been	be	VBN	_	19	auxpass
+19	caused	cause	VBN	_	11	rcmod
+20	by	by	IN	_	19	prep
+21	a	a	DT	_	25	det
+22	herniated	herniate	VBN	_	25	amod
+23	or	or	CC	_	22	cc
+24	bulging	bulge	VBG	_	22	conj
+25	disc	disc	NN	_	20	pobj
+26	.	.	.	_	1	punct
+

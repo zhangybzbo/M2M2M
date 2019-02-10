@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	baby	baby	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	falling	fall	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	sleep	sleep	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

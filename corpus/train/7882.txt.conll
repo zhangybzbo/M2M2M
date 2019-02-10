@@ -1,0 +1,7 @@
+1	Stereograph	Stereograph	NNP	_	2	nsubj
+2	produces	produce	VBZ	_	0	ROOT
+3	the	the	DT	_	5	det
+4	same	same	JJ	_	5	amod
+5	output	output	NN	_	2	dobj
+6	.	.	.	_	2	punct
+

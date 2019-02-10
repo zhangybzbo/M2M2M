@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	looked	look	VBD	_	0	ROOT
+3	straight	straight	RB	_	2	advmod
+4	under	under	IN	_	2	prep
+5	the	the	DT	_	6	det
+6	nose	nose	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	plane	plane	NN	_	7	pobj
+10	and	and	CC	_	2	cc
+11	sure	sure	JJ	_	2	conj
+12	enough	enough	RB	_	11	advmod
+13	,	,	,	_	2	punct
+14	I	I	PRP	_	15	nsubj
+15	was	be	VBD	_	2	ccomp
+16	directly	directly	RB	_	15	advmod
+17	over	over	IN	_	15	prep
+18	the	the	DT	_	20	det
+19	tiny	tiny	JJ	_	20	amod
+20	airstrip	airstrip	NN	_	17	pobj
+21	.	.	.	_	2	punct
+

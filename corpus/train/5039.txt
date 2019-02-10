@@ -1,0 +1,1 @@
+A client copes with replica failures using a simple retransmission mechanism .

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	device	device	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	the	the	DT	_	6	det
+5	best	best	JJS	_	6	amod
+6	solution	solution	NN	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	headphone	headphone	NN	_	10	nn
+9	cable	cable	NN	_	10	nn
+10	knots	knot	NNS	_	7	pobj
+11	on	on	IN	_	6	prep
+12	your	you	PRP$	_	14	poss
+13	MP3	mp3	NN	_	14	nn
+14	player	player	NN	_	11	pobj
+15	.	.	.	_	6	punct
+

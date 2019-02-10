@@ -1,0 +1,19 @@
+1	Either	either	CC	_	3	cc
+2	we	we	PRP	_	3	nsubj
+3	saw	see	VBD	_	0	ROOT
+4	our	we	PRP$	_	5	poss
+5	mothers	mother	NNS	_	3	dobj
+6	show	show	VBP	_	3	dep
+7	fear	fear	NN	_	6	dobj
+8	from	from	IN	_	7	prep
+9	bugs	bug	NNS	_	8	pobj
+10	/	/	:	_	9	punct
+11	spiders/cockroaches	spiders/cockroaches	NNS	_	9	dep
+12	and	and	CC	_	3	cc
+13	learned	learn	VBD	_	3	conj
+14	to	to	TO	_	15	aux
+15	fear	fear	VB	_	13	xcomp
+16	them	they	PRP	_	15	dobj
+17	irrationally	irrationally	RB	_	15	advmod
+18	.	.	.	_	3	punct
+

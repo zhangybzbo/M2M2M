@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	forth	forth	RB	_	3	advmod
+3	devision	devision	NN	_	6	nsubj
+4	of	of	IN	_	3	prep
+5	crossbowmen	crossbowman	NNS	_	4	pobj
+6	marched	march	VBD	_	0	ROOT
+7	through	through	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	gate	gate	NN	_	7	pobj
+10	,	,	,	_	9	punct
+11	dust	dust	NN	_	12	nn
+12	hanging	hanging	NN	_	9	appos
+13	in	in	IN	_	12	prep
+14	stifling	stifle	VBG	_	13	pcomp
+15	clouds	cloud	NNS	_	14	dobj
+16	above	above	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	column	column	NN	_	16	pobj
+19	.	.	.	_	6	punct
+

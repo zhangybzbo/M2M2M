@@ -1,0 +1,1 @@
+The slide system consists of a slideway and a sliding element , whereas the slide system is connected to at least one piston and the crank of the shaft .

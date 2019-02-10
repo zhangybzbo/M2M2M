@@ -1,0 +1,16 @@
+1	It	it	PRP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	set	set	VBN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	future	future	NN	_	4	pobj
+7	in	in	IN	_	12	prep
+8	which	which	WDT	_	7	pobj
+9	the	the	DT	_	10	det
+10	oceans	ocean	NNS	_	12	nsubjpass
+11	are	be	VBP	_	12	auxpass
+12	farmed	farm	VBN	_	6	rcmod
+13	for	for	IN	_	12	prep
+14	food	food	NN	_	13	pobj
+15	.	.	.	_	3	punct
+

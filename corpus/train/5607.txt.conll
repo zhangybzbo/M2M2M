@@ -1,0 +1,23 @@
+1	This	this	DT	_	4	det
+2	rather	rather	RB	_	3	advmod
+3	bizarre	bizarre	JJ	_	4	amod
+4	picture	picture	NN	_	5	nsubj
+5	is	be	VBZ	_	18	csubj
+6	of	of	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	whirl	whirl	NN	_	9	nn
+9	hedge	hedge	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	herons	heron	NNS	_	10	pobj
+12	-	-	:	_	5	punct
+13	for	for	IN	_	5	prep
+14	such	such	JJ	_	13	pobj
+15	is	be	VBZ	_	18	cop
+16	the	the	DT	_	18	det
+17	collective	collective	JJ	_	18	amod
+18	noun	noun	NN	_	0	ROOT
+19	for	for	IN	_	18	prep
+20	these	these	DT	_	21	det
+21	birds	bird	NNS	_	19	pobj
+22	.	.	.	_	18	punct
+

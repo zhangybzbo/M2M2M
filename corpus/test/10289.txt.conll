@@ -1,0 +1,19 @@
+1	Earlier	earlier	RBR	_	9	advmod
+2	,	,	,	_	9	punct
+3	a	a	DT	_	4	det
+4	dray	dray	NN	_	9	nsubj
+5	of	of	IN	_	4	prep
+6	terrified	terrify	VBN	_	8	amod
+7	ground	ground	NN	_	8	nn
+8	squirrels	squirrel	NNS	_	5	pobj
+9	ran	run	VBD	_	0	ROOT
+10	for	for	IN	_	9	prep
+11	their	they	PRP$	_	12	poss
+12	lives	life	NNS	_	10	pobj
+13	as	as	IN	_	15	mark
+14	flames	flame	NNS	_	15	nsubj
+15	raced	race	VBD	_	12	advcl
+16	their	they	PRP$	_	17	poss
+17	way	way	NN	_	15	dobj
+18	.	.	.	_	9	punct
+

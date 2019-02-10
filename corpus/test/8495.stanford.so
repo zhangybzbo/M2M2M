@@ -1,0 +1,13 @@
+0	73	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="change" pos="NNS" nsubjpass="t6"
+8	10	tok id="t1" base="to" pos="TO" prep="t0"
+11	14	tok id="t2" base="the" pos="DT" det="t3"
+15	26	tok id="t3" base="regulation" pos="NNS" pobj="t1"
+27	31	tok id="t4" base="have" pos="VBP" aux="t6"
+32	36	tok id="t5" base="be" pos="VBN" auxpass="t6"
+37	46	tok id="t6" base="discuss" pos="VBN" ROOT="ROOT"
+47	49	tok id="t7" base="in" pos="IN" prep="t6"
+50	57	tok id="t8" base="cabinet" pos="NN" nn="t9"
+58	71	tok id="t9" base="sub-committee" pos="NN" pobj="t7"
+72	73	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

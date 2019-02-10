@@ -1,0 +1,27 @@
+1	In	in	IN	_	7	prep
+2	simplest	simplest	JJS	_	3	amod
+3	terms	term	NNS	_	1	pobj
+4	,	,	,	_	7	punct
+5	a	a	DT	_	6	det
+6	hybrid	hybrid	NN	_	7	nsubj
+7	combines	combine	VBZ	_	0	ROOT
+8	a	a	DT	_	10	det
+9	gasoline	gasoline	NN	_	10	nn
+10	engine	engine	NN	_	7	dobj
+11	and	and	CC	_	10	cc
+12	an	a	DT	_	14	det
+13	electric	electric	JJ	_	14	amod
+14	motor	motor	NN	_	10	conj
+15	to	to	TO	_	16	aux
+16	provide	provide	VB	_	14	vmod
+17	adequate	adequate	JJ	_	18	amod
+18	power	power	NN	_	16	dobj
+19	with	with	IN	_	16	prep
+20	minimal	minimal	JJ	_	22	amod
+21	fuel	fuel	NN	_	22	nn
+22	useage	useage	NN	_	19	pobj
+23	and	and	CC	_	22	cc
+24	low	low	JJ	_	25	amod
+25	emissions	emission	NNS	_	22	conj
+26	.	.	.	_	7	punct
+

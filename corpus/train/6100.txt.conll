@@ -1,0 +1,11 @@
+1	Groups	group	NNS	_	5	nsubjpass
+2	of	of	IN	_	1	prep
+3	them	they	PRP	_	2	pobj
+4	were	be	VBD	_	5	auxpass
+5	gathered	gather	VBN	_	0	ROOT
+6	,	,	,	_	5	punct
+7	drinking	drink	VBG	_	5	xcomp
+8	barley	barley	NN	_	9	nn
+9	ale	ale	NN	_	7	dobj
+10	.	.	.	_	5	punct
+

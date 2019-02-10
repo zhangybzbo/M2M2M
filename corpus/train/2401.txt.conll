@@ -1,0 +1,24 @@
+1	Another	another	DT	_	2	nsubj
+2	shows	show	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	worker	worker	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	cigarette	cigarette	NN	_	5	pobj
+8	dangling	dangle	VBG	_	7	vmod
+9	from	from	IN	_	8	prep
+10	his	he	PRP$	_	11	poss
+11	mouth	mouth	NN	_	9	pobj
+12	,	,	,	_	4	punct
+13	a	a	DT	_	15	det
+14	lunch	lunch	NN	_	15	nn
+15	box	box	NN	_	4	appos
+16	popping	pop	VBG	_	15	vmod
+17	out	out	RP	_	16	prt
+18	from	from	IN	_	16	prep
+19	under	under	IN	_	18	pcomp
+20	a	a	DT	_	22	det
+21	well-muscled	well-muscled	JJ	_	22	amod
+22	arm	arm	NN	_	19	pobj
+23	.	.	.	_	2	punct
+

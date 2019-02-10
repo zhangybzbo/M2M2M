@@ -1,0 +1,10 @@
+0	49	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Dolphins" pos="NNPS" nsubj="t1"
+9	16	tok id="t1" base="create" pos="VBD" ROOT="ROOT"
+17	22	tok id="t2" base="tool" pos="NNS" dobj="t1"
+23	25	tok id="t3" base="to" pos="TO" aux="t4"
+26	29	tok id="t4" base="use" pos="VB" vmod="t2"
+30	33	tok id="t5" base="for" pos="IN" prep="t4"
+34	47	tok id="t6" base="entertainment" pos="NN" pobj="t5"
+48	49	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

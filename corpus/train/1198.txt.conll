@@ -1,0 +1,21 @@
+1	That	that	DT	_	3	det
+2	ominous	ominous	JJ	_	3	amod
+3	message	message	NN	_	9	nsubjpass
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	chairman	chairman	NN	_	4	pobj
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	followed	follow	VBN	_	0	ROOT
+10	up	up	RP	_	9	prt
+11	this	this	DT	_	12	det
+12	afternoon	afternoon	NN	_	9	tmod
+13	with	with	IN	_	9	prep
+14	the	the	DT	_	15	det
+15	departure	departure	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	manager	manager	NN	_	19	nn
+18	Russell	Russell	NNP	_	19	nn
+19	Slade	Slade	NNP	_	16	pobj
+20	.	.	.	_	9	punct
+

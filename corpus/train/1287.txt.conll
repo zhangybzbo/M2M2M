@@ -1,0 +1,22 @@
+1	In	in	IN	_	12	prep
+2	addition	addition	NN	_	1	pobj
+3	,	,	,	_	12	punct
+4	the	the	DT	_	6	det
+5	CPU	CPU	NNP	_	6	nn
+6	bus	bus	NN	_	12	nsubjpass
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	non-safety	non-safety	JJ	_	10	amod
+10	controller	controller	NN	_	7	pobj
+11	is	be	VBZ	_	12	auxpass
+12	connected	connect	VBN	_	0	ROOT
+13	to	to	TO	_	12	prep
+14	each	each	DT	_	16	det
+15	safety	safety	NN	_	16	nn
+16	unit	unit	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	safety	safety	NN	_	20	nn
+20	controller	controller	NN	_	17	pobj
+21	.	.	.	_	12	punct
+

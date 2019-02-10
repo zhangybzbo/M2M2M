@@ -1,0 +1,3 @@
+T1	Term 4 16	manufacturer
+T2	Term 69 76	process
+R1	Instrument-Agency Arg1:T2 Arg2:T1

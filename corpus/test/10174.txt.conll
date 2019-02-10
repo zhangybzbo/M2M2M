@@ -1,0 +1,21 @@
+1	Once	once	RB	_	2	advmod
+2	upon	upon	IN	_	7	prep
+3	a	a	DT	_	4	det
+4	pond	pond	NN	_	2	pobj
+5	,	,	,	_	7	punct
+6	there	there	EX	_	7	expl
+7	lived	live	VBD	_	0	ROOT
+8	a	a	DT	_	9	det
+9	froggery	froggery	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	Muppet	Muppet	NNP	_	12	nn
+12	frogs	frog	NNS	_	10	pobj
+13	and	and	CC	_	9	cc
+14	their	they	PRP$	_	15	poss
+15	leader	leader	NN	_	9	conj
+16	,	,	,	_	15	punct
+17	Kermit	Kermit	NNP	_	19	nn
+18	the	the	DT	_	19	det
+19	Frog	frog	NN	_	15	appos
+20	.	.	.	_	7	punct
+

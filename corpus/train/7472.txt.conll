@@ -1,0 +1,20 @@
+1	Try	try	VB	_	0	ROOT
+2	a	a	DT	_	4	det
+3	Google	Google	NNP	_	4	nn
+4	search	search	NN	_	1	dobj
+5	for	for	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	motherboard	motherboard	NN	_	8	nn
+8	manufacturer	manufacturer	NN	_	5	pobj
+9	and	and	CC	_	8	cc
+10	exact	exact	JJ	_	11	amod
+11	model	model	NN	_	8	conj
+12	if	if	IN	_	17	mark
+13	the	the	DT	_	14	det
+14	information	information	NN	_	17	nsubjpass
+15	is	be	VBZ	_	17	auxpass
+16	not	not	RB	_	17	neg
+17	listed	list	VBN	_	1	advcl
+18	above	above	RB	_	17	advmod
+19	.	.	.	_	1	punct
+

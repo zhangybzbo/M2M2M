@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	earthquake	earthquake	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	massive	massive	JJ	_	6	amod
+6	avalanche	avalanche	NN	_	3	dobj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	northern	northern	JJ	_	10	amod
+10	slope	slope	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	Mount	Mount	NNP	_	13	nn
+13	Huascar	Huascar	NNP	_	11	pobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	Only	only	RB	_	2	advmod
+2	part	part	NN	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	food	food	NN	_	6	nn
+6	energy	energy	NN	_	3	pobj
+7	is	be	VBZ	_	8	auxpass
+8	passed	pass	VBN	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	to	to	TO	_	9	pcomp
+11	another	another	DT	_	12	det
+12	consumer	consumer	NN	_	10	pobj
+13	.	.	.	_	8	punct
+

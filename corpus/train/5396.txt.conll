@@ -1,0 +1,17 @@
+1	His	he	PRP$	_	2	poss
+2	aim	aim	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	regain	regain	VB	_	3	xcomp
+6	the	the	DT	_	10	det
+7	previous	previous	JJ	_	10	amod
+8	high	high	JJ	_	10	amod
+9	artistic	artistic	JJ	_	10	amod
+10	level	level	NN	_	5	dobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	factory	factory	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	products	product	NNS	_	11	pobj
+16	.	.	.	_	3	punct
+

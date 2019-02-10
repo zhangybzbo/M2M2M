@@ -1,0 +1,20 @@
+1	Joint	Joint	NNP	_	2	nn
+2	problems	problem	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	osteoarthitis	osteoarthitis	NN	_	5	pobj
+7	-LRB-	-lrb-	-LRB-	_	10	punct
+8	degenerative	degenerative	JJ	_	10	amod
+9	joint	joint	JJ	_	10	amod
+10	disease	disease	NN	_	6	appos
+11	-RRB-	-rrb-	-RRB-	_	10	punct
+12	,	,	,	_	6	punct
+13	subluxations	subluxation	NNS	_	6	conj
+14	,	,	,	_	6	punct
+15	sprains	sprain	NNS	_	6	conj
+16	,	,	,	_	6	punct
+17	intervertebral	intervertebral	JJ	_	18	amod
+18	disc	disc	NN	_	6	appos
+19	.	.	.	_	4	punct
+

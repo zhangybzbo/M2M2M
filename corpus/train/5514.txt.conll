@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	tsunami	tsunami	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	generated	generate	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	undersea	undersea	NN	_	8	nn
+8	landslide	landslide	NN	_	5	pobj
+9	,	,	,	_	8	punct
+10	which	which	WDT	_	12	nsubjpass
+11	was	be	VBD	_	12	auxpass
+12	triggered	trigger	VBN	_	8	rcmod
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	earthquake	earthquake	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

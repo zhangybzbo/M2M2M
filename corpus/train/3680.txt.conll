@@ -1,0 +1,10 @@
+1	She	she	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	flour	flour	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	a	a	DT	_	8	det
+6	flat	flat	JJ	_	8	amod
+7	metal	metal	NN	_	8	nn
+8	pan	pan	NN	_	4	pobj
+9	.	.	.	_	2	punct
+

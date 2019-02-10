@@ -1,0 +1,14 @@
+1	Artists	artist	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	created	create	VBN	_	0	ROOT
+4	a	a	DT	_	6	det
+5	living	living	NN	_	6	nn
+6	piece	piece	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	leather	leather	NN	_	7	pobj
+9	from	from	IN	_	3	prep
+10	mouse	mouse	NN	_	12	nn
+11	stem	stem	NN	_	12	nn
+12	cells	cell	NNS	_	9	pobj
+13	.	.	.	_	3	punct
+

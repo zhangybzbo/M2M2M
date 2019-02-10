@@ -1,0 +1,27 @@
+1	Many	many	JJ	_	2	amod
+2	times	time	NNS	_	0	ROOT
+3	,	,	,	_	5	punct
+4	the	the	DT	_	5	det
+5	problem	problem	NN	_	2	dep
+6	of	of	IN	_	5	prep
+7	keeping	keep	VBG	_	17	dep
+8	track	track	NN	_	7	dobj
+9	of	of	IN	_	8	prep
+10	depreciation	depreciation	NN	_	11	nn
+11	rates	rate	NNS	_	9	pobj
+12	in	in	IN	_	7	prep
+13	you	you	PRP	_	12	pobj
+14	fixed	fixed	JJ	_	15	amod
+15	assets	asset	NNS	_	17	nsubjpass
+16	is	be	VBZ	_	17	auxpass
+17	attempted	attempt	VBN	_	6	pcomp
+18	by	by	IN	_	17	prep
+19	managers	manager	NNS	_	18	pobj
+20	using	use	VBG	_	5	vmod
+21	spreadsheets	spreadsheet	NNS	_	20	dobj
+22	which	which	WDT	_	24	dobj
+23	they	they	PRP	_	24	nsubj
+24	program	program	VBP	_	21	rcmod
+25	themselves	themselves	PRP	_	24	dobj
+26	.	.	.	_	5	punct
+

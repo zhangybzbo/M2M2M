@@ -1,0 +1,27 @@
+1	Citing	cite	VBG	_	13	vmod
+2	the	the	DT	_	3	det
+3	conflict	conflict	NN	_	1	dobj
+4	of	of	IN	_	3	prep
+5	interest	interest	NN	_	4	pobj
+6	created	create	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	ethics	ethic	NNS	_	10	nn
+10	charges	charge	NNS	_	7	pobj
+11	,	,	,	_	13	punct
+12	Nifong	Nifong	NNP	_	13	nsubj
+13	asked	ask	VBD	_	0	ROOT
+14	the	the	DT	_	17	det
+15	state	state	NN	_	17	nn
+16	attorney	attorney	NN	_	17	nn
+17	general	general	NN	_	19	poss
+18	's	's	POS	_	17	possessive
+19	office	office	NN	_	13	dobj
+20	to	to	TO	_	21	aux
+21	take	take	VB	_	13	xcomp
+22	over	over	RP	_	21	prt
+23	the	the	DT	_	25	det
+24	lacrosse	lacrosse	NN	_	25	nn
+25	case	case	NN	_	21	dobj
+26	.	.	.	_	13	punct
+

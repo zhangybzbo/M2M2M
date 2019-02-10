@@ -1,0 +1,12 @@
+1	A	a	DT	_	4	det
+2	basic	basic	JJ	_	4	amod
+3	data	datum	NNS	_	4	nn
+4	entry	entry	NN	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	added	add	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	database	database	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

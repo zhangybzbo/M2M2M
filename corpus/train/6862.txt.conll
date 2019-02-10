@@ -1,0 +1,12 @@
+1	A	a	DT	_	2	det
+2	preamble	preamble	NN	_	3	nsubj
+3	explains	explain	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	document	document	NN	_	7	poss
+6	's	's	POS	_	5	possessive
+7	purpose	purpose	NN	_	3	dobj
+8	and	and	CC	_	7	cc
+9	underlying	underlie	VBG	_	10	amod
+10	philosophy	philosophy	NN	_	7	conj
+11	.	.	.	_	3	punct
+

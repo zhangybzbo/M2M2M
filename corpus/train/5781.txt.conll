@@ -1,0 +1,15 @@
+1	``	``	``	_	5	punct
+2	Suzy	Suzy	NNP	_	5	nsubj
+3	''	''	''	_	5	punct
+4	probably	probably	RB	_	5	advmod
+5	refers	refer	VBZ	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	artist	artist	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	assistant	assistant	NN	_	6	pobj
+11	,	,	,	_	10	punct
+12	Suzanne	Suzanne	NNP	_	13	nn
+13	Miller	Miller	NNP	_	10	appos
+14	.	.	.	_	5	punct
+

@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	det
+2	document	document	NN	_	3	nsubj
+3	looks	look	VBZ	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	diversity	diversity	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	arts	art	NNS	_	7	pobj
+9	and	and	CC	_	8	cc
+10	creativity	creativity	NN	_	8	conj
+11	in	in	IN	_	6	prep
+12	rural	rural	JJ	_	13	amod
+13	England	England	NNP	_	11	pobj
+14	,	,	,	_	3	punct
+15	and	and	CC	_	3	cc
+16	the	the	DT	_	18	det
+17	key	key	JJ	_	18	amod
+18	role	role	NN	_	3	conj
+19	that	that	IN	_	22	mark
+20	the	the	DT	_	21	det
+21	arts	art	NNS	_	22	nsubj
+22	play	play	VBP	_	18	ccomp
+23	in	in	IN	_	22	prep
+24	rural	rural	JJ	_	25	amod
+25	regeneration	regeneration	NN	_	23	pobj
+26	.	.	.	_	3	punct
+

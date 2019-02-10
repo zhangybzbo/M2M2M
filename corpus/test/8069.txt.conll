@@ -1,0 +1,17 @@
+1	In	in	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	article	article	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	authors	author	NNS	_	7	nsubj
+7	explore	explore	VBP	_	0	ROOT
+8	the	the	DT	_	9	det
+9	use	use	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	technology	technology	NN	_	10	pobj
+12	in	in	IN	_	9	prep
+13	small	small	JJ	_	15	amod
+14	pharmacy	pharmacy	NN	_	15	nn
+15	chains	chain	NNS	_	12	pobj
+16	.	.	.	_	7	punct
+

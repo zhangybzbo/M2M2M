@@ -1,0 +1,17 @@
+1	This	this	DT	_	4	det
+2	particular	particular	JJ	_	4	amod
+3	X-ray	x-ray	NN	_	4	nn
+4	machine	machine	NN	_	5	nsubj
+5	has	have	VBZ	_	0	ROOT
+6	a	a	DT	_	7	det
+7	timer	timer	NN	_	5	dobj
+8	on	on	IN	_	5	prep
+9	it	it	PRP	_	8	pobj
+10	that	that	IN	_	12	mark
+11	they	they	PRP	_	12	nsubj
+12	used	use	VBD	_	5	ccomp
+13	for	for	IN	_	12	prep
+14	exposure	exposure	NN	_	15	nn
+15	time	time	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

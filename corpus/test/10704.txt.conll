@@ -1,0 +1,16 @@
+1	She	she	PRP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	looking	look	VBG	_	0	ROOT
+4	beautiful	beautiful	JJ	_	3	acomp
+5	in	in	IN	_	3	prep
+6	the	the	DT	_	8	det
+7	dim	dim	JJ	_	8	amod
+8	light	light	NN	_	5	pobj
+9	that	that	WDT	_	10	nsubj
+10	emanated	emanate	VBD	_	8	rcmod
+11	from	from	IN	_	10	prep
+12	my	my	PRP$	_	14	poss
+13	broken	broken	JJ	_	14	amod
+14	table-lamp	table-lamp	NN	_	11	pobj
+15	.	.	.	_	3	punct
+

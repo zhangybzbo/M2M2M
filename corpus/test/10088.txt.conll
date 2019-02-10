@@ -1,0 +1,11 @@
+1	A	a	DT	_	3	det
+2	user	user	NN	_	3	nn
+3	inputs	input	NNS	_	0	ROOT
+4	spatio-temporal	spatio-temporal	JJ	_	5	amod
+5	information	information	NN	_	3	dep
+6	intuitively	intuitively	RB	_	5	advmod
+7	by	by	IN	_	5	prep
+8	using	use	VBG	_	7	pcomp
+9	gestures	gesture	NNS	_	8	dobj
+10	.	.	.	_	3	punct
+

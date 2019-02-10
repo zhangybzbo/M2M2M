@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	epithelium	epithelium	NN	_	9	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	knockout	knockout	JJ	_	7	amod
+6	mouse	mouse	NN	_	7	nn
+7	bladder	bladder	NN	_	3	pobj
+8	is	be	VBZ	_	9	aux
+9	migrating	migrate	VBG	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	transplanted	transplant	VBN	_	13	amod
+13	matrix	matrix	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

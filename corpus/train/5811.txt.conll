@@ -1,0 +1,16 @@
+1	Tad	Tad	NNP	_	2	nn
+2	Wilkes	Wilkes	NNP	_	3	nsubj
+3	wrote	write	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	note	note	NN	_	3	dobj
+6	titled	title	VBN	_	5	vmod
+7	``	``	``	_	9	punct
+8	Kind	Kind	NNP	_	9	nn
+9	words	word	NNS	_	6	dep
+10	from	from	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	local	local	JJ	_	13	amod
+13	press	press	NN	_	10	pobj
+14	''	''	''	_	9	punct
+15	.	.	.	_	3	punct
+

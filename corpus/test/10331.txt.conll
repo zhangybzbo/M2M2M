@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	4	nsubj
+3	then	then	RB	_	4	advmod
+4	sequenced	sequence	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	captured	capture	VBN	_	7	amod
+7	DNA	dna	NN	_	4	dobj
+8	with	with	IN	_	4	prep
+9	the	the	DT	_	14	det
+10	GS	g	NN	_	14	nn
+11	FLX	FLX	NNP	_	14	nn
+12	Titanium	Titanium	NNP	_	14	nn
+13	series	series	NN	_	14	nn
+14	chemistry	chemistry	NN	_	8	pobj
+15	.	.	.	_	4	punct
+

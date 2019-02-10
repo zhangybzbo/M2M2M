@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	det
+2	dishwasher	dishwasher	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	tallest	tallest	JJS	_	6	amod
+6	tub	tub	NN	_	3	dobj
+7	available	available	JJ	_	8	amod
+8	*	*	NN	_	6	dep
+9	and	and	CC	_	3	cc
+10	allows	allow	VBZ	_	3	conj
+11	you	you	PRP	_	10	dobj
+12	to	to	TO	_	13	aux
+13	wash	wash	VB	_	10	xcomp
+14	more	more	JJR	_	13	dobj
+15	than	than	IN	_	14	prep
+16	ever	ever	RB	_	17	advmod
+17	before	before	RB	_	15	pcomp
+18	.	.	.	_	3	punct
+

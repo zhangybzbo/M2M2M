@@ -1,0 +1,11 @@
+0	52	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="someone" pos="NN" nsubj="t1"
+8	14	tok id="t1" base="leak" pos="VBD" ROOT="ROOT"
+15	18	tok id="t2" base="the" pos="DT" det="t4"
+19	25	tok id="t3" base="secret" pos="JJ" amod="t4"
+26	34	tok id="t4" base="document" pos="NN" dobj="t1"
+35	37	tok id="t5" base="to" pos="TO" prep="t1"
+38	39	tok id="t6" base="a" pos="DT" det="t7"
+40	50	tok id="t7" base="journalist" pos="NN" pobj="t5"
+51	52	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

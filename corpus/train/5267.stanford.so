@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="before" pos="IN" ROOT="ROOT"
+7	14	tok id="t1" base="leave" pos="VBG" pcomp="t0"
+15	20	tok id="t2" base="Peter" pos="NNP" nsubj="t3"
+21	27	tok id="t3" base="buy" pos="VBD" ccomp="t1"
+28	29	tok id="t4" base="a" pos="DT" det="t7"
+30	36	tok id="t5" base="silver" pos="NN" nn="t7"
+37	41	tok id="t6" base="star" pos="NN" nn="t7"
+42	50	tok id="t7" base="necklace" pos="NN" dobj="t3"
+51	54	tok id="t8" base="for" pos="IN" prep="t7"
+55	59	tok id="t9" base="Tina" pos="NNP" pobj="t8"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t0"
+

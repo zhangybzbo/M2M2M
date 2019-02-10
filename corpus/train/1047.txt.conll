@@ -1,0 +1,16 @@
+1	This	this	DT	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	tutorial	tutorial	NN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	how	how	WRB	_	8	advmod
+7	to	to	TO	_	8	aux
+8	fix	fix	VB	_	5	pcomp
+9	a	a	DT	_	11	det
+10	mighty	mighty	JJ	_	11	amod
+11	mouse	mouse	NN	_	14	poss
+12	's	's	POS	_	11	possessive
+13	scroll	scroll	NN	_	14	nn
+14	ball	ball	NN	_	8	dobj
+15	.	.	.	_	4	punct
+

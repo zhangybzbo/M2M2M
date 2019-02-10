@@ -1,0 +1,20 @@
+1	As	as	IN	_	12	prep
+2	a	a	DT	_	4	det
+3	general	general	JJ	_	4	amod
+4	rule	rule	NN	_	1	pobj
+5	,	,	,	_	12	punct
+6	chapters	chapter	NNS	_	12	nsubjpass
+7	later	later	RB	_	12	advmod
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	book	book	NN	_	8	pobj
+11	are	be	VBP	_	12	auxpass
+12	designed	design	VBN	_	0	ROOT
+13	to	to	TO	_	15	aux
+14	be	be	VB	_	15	auxpass
+15	studied	study	VBN	_	12	xcomp
+16	after	after	IN	_	15	prep
+17	earlier	earlier	JJR	_	18	amod
+18	ones	one	NNS	_	16	pobj
+19	.	.	.	_	12	punct
+

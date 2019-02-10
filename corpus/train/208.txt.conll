@@ -1,0 +1,22 @@
+1	James	James	NNP	_	2	nn
+2	Hagler	Hagler	NNP	_	12	nsubj
+3	,	,	,	_	2	punct
+4	Venice	Venice	NNP	_	6	poss
+5	's	's	POS	_	4	possessive
+6	director	director	NN	_	2	appos
+7	of	of	IN	_	6	prep
+8	historical	historical	JJ	_	9	amod
+9	resources	resource	NNS	_	7	pobj
+10	,	,	,	_	2	punct
+11	has	have	VBZ	_	12	aux
+12	completed	complete	VBN	_	0	ROOT
+13	a	a	DT	_	15	det
+14	picture	picture	NN	_	15	nn
+15	book	book	NN	_	12	dobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	area	area	NN	_	20	poss
+19	's	's	POS	_	18	possessive
+20	buildings	building	NNS	_	16	pobj
+21	.	.	.	_	12	punct
+

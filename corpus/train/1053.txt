@@ -1,0 +1,1 @@
+The weight of the pharmaceutical in a capsule is dependent on the volume of the channel in the dosage plate and the density of the pharmaceutical .

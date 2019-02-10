@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	courts	court	NNS	_	3	nsubj
+3	created	create	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	Freeman-Walter-Abele	freeman-walter-abele	JJ	_	6	amod
+6	test	test	NN	_	3	dobj
+7	to	to	TO	_	8	aux
+8	determine	determine	VB	_	3	vmod
+9	whether	whether	IN	_	13	mark
+10	an	a	DT	_	11	det
+11	algorithm	algorithm	NN	_	13	nsubj
+12	only	only	RB	_	13	advmod
+13	represents	represent	VBZ	_	8	ccomp
+14	an	a	DT	_	16	det
+15	abstract	abstract	JJ	_	16	amod
+16	idea	idea	NN	_	13	dobj
+17	.	.	.	_	3	punct
+

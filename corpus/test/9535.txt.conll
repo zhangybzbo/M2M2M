@@ -1,0 +1,12 @@
+1	Optimizing	optimize	VBG	_	0	ROOT
+2	a	a	DT	_	3	det
+3	transformer	transformer	NN	_	1	dobj
+4	driven	drive	VBN	_	7	amod
+5	active	active	JJ	_	7	amod
+6	magnetic	magnetic	JJ	_	7	amod
+7	shield	shield	NN	_	3	dep
+8	in	in	IN	_	7	prep
+9	induction	induction	NN	_	10	nn
+10	heating	heating	NN	_	8	pobj
+11	.	.	.	_	1	punct
+

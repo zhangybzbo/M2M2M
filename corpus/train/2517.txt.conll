@@ -1,0 +1,14 @@
+1	Over	over	IN	_	12	prep
+2	the	the	DT	_	3	det
+3	years	year	NNS	_	1	pobj
+4	a	a	DT	_	6	det
+5	sound	sound	JJ	_	6	amod
+6	stud	stud	NN	_	12	nsubj
+7	of	of	IN	_	6	prep
+8	homogenous	homogenous	JJ	_	10	amod
+9	brood	brood	NN	_	10	nn
+10	mares	mare	NNS	_	7	pobj
+11	has	have	VBZ	_	12	aux
+12	developed	develop	VBN	_	0	ROOT
+13	.	.	.	_	12	punct
+

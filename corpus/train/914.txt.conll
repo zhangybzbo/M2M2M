@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	cancer	cancer	NN	_	3	nn
+3	cells	cell	NNS	_	7	nsubj
+4	have	have	VBP	_	7	aux
+5	increasingly	increasingly	RB	_	7	advmod
+6	been	be	VBN	_	7	aux
+7	moving	move	VBG	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	bone	bone	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

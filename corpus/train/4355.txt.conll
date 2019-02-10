@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	nsubj
+2	quarrel	quarrel	VBP	_	0	ROOT
+3	during	during	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	night	night	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	crime	crime	NN	_	6	pobj
+9	was	be	VBD	_	10	auxpass
+10	caused	cause	VBN	_	2	dep
+11	by	by	IN	_	10	prep
+12	money	money	NN	_	11	pobj
+13	.	.	.	_	2	punct
+

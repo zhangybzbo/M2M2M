@@ -1,0 +1,13 @@
+0	66	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="profit" pos="NN" nsubj="t6"
+7	11	tok id="t1" base="from" pos="IN" prep="t0"
+12	16	tok id="t2" base="sale" pos="NN" pobj="t1"
+17	19	tok id="t3" base="of" pos="IN" prep="t2"
+20	31	tok id="t4" base="investment" pos="NNS" pobj="t3"
+32	34	tok id="t5" base="be" pos="VBZ" cop="t6"
+35	43	tok id="t6" base="tax-free" pos="JJ" ROOT="ROOT"
+44	47	tok id="t7" base="for" pos="IN" prep="t6"
+48	55	tok id="t8" base="general" pos="JJ" amod="t9"
+56	64	tok id="t9" base="insurer" pos="NNS" pobj="t7"
+65	66	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	Hawke	Hawke	NNP	_	6	poss
+3	's	's	POS	_	2	possessive
+4	Bay	Bay	NNP	_	6	nn
+5	Herald	Herald	NNP	_	6	nn
+6	building	building	NN	_	9	nsubjpass
+7	was	be	VBD	_	9	auxpass
+8	completely	completely	RB	_	9	advmod
+9	destroyed	destroy	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	fire	fire	NN	_	10	pobj
+13	after	after	IN	_	9	prep
+14	the	the	DT	_	15	det
+15	earthquake	earthquake	NN	_	13	pobj
+16	.	.	.	_	9	punct
+

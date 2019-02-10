@@ -1,0 +1,9 @@
+1	Everton	Everton	NNP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	hammers	hammer	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	the	the	DT	_	7	det
+6	drop	drop	NN	_	7	nn
+7	zone	zone	NN	_	4	pobj
+8	.	.	.	_	2	punct
+

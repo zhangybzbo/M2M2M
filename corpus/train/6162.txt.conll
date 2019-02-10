@@ -1,0 +1,22 @@
+1	It	it	PRP	_	2	nsubj
+2	shows	show	VBZ	_	0	ROOT
+3	a	a	DT	_	5	det
+4	female	female	JJ	_	5	amod
+5	doctor	doctor	NN	_	2	dobj
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	veil	veil	NN	_	9	nn
+9	standing	standing	NN	_	6	pobj
+10	beside	beside	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	female	female	JJ	_	13	amod
+13	patient	patient	NN	_	10	pobj
+14	in	in	IN	_	13	prep
+15	bed	bed	NN	_	14	pobj
+16	,	,	,	_	2	punct
+17	also	also	RB	_	18	advmod
+18	wearing	wear	VBG	_	2	vmod
+19	the	the	DT	_	20	det
+20	veil	veil	NN	_	18	dobj
+21	.	.	.	_	2	punct
+

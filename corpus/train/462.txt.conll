@@ -1,0 +1,25 @@
+1	Still	still	RB	_	2	advmod
+2	filled	fill	VBN	_	13	vmod
+3	with	with	IN	_	2	prep
+4	rage	rage	NN	_	3	pobj
+5	after	after	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	fight	fight	NN	_	5	pobj
+8	with	with	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	Darkside	Darkside	NNP	_	8	pobj
+11	,	,	,	_	13	punct
+12	I	I	PRP	_	13	nsubj
+13	rush	rush	VBP	_	0	ROOT
+14	at	at	IN	_	13	prep
+15	Ansem	Ansem	NNP	_	14	pobj
+16	,	,	,	_	15	punct
+17	light	light	JJ	_	15	conj
+18	and	and	CC	_	15	cc
+19	dark	dark	JJ	_	20	amod
+20	energy	energy	NN	_	15	conj
+21	overflowing	overflow	VBG	_	15	vmod
+22	from	from	IN	_	21	prep
+23	me	I	PRP	_	22	pobj
+24	.	.	.	_	13	punct
+

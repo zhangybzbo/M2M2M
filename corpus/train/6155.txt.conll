@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	det
+2	apartment	apartment	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	recently	recently	RB	_	6	advmod
+6	redone	redone	NN	_	7	nn
+7	kitchen	kitchen	NN	_	3	dobj
+8	and	and	CC	_	7	cc
+9	bathroom	bathroom	NN	_	7	conj
+10	and	and	CC	_	3	cc
+11	gets	get	VBZ	_	3	conj
+12	lots	lot	NNS	_	11	dobj
+13	of	of	IN	_	12	prep
+14	light	light	NN	_	13	pobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,3 @@
+T1	Term 33 42	scientist
+T2	Term 81 87	string
+R1	Instrument-Agency Arg1:T2 Arg2:T1

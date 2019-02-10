@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	speech	speech	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	delivered	deliver	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	steps	step	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	Lincoln	Lincoln	NNP	_	10	nn
+10	Memorial	Memorial	NNP	_	8	pobj
+11	on	on	IN	_	4	prep
+12	August	August	NNP	_	11	pobj
+13	28	28	CD	_	12	num
+14	,	,	,	_	12	punct
+15	1963	1963	CD	_	12	num
+16	as	as	IN	_	4	prep
+17	part	part	NN	_	16	pobj
+18	of	of	IN	_	17	prep
+19	his	he	PRP$	_	21	poss
+20	famous	famous	JJ	_	21	amod
+21	March	March	NNP	_	18	pobj
+22	on	on	IN	_	21	prep
+23	Washington	Washington	NNP	_	22	pobj
+24	.	.	.	_	4	punct
+

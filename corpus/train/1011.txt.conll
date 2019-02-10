@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	det
+2	website	website	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	dedicated	dedicate	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	providing	provide	VBG	_	5	pcomp
+7	event	event	NN	_	8	nn
+8	details	detail	NNS	_	6	dobj
+9	,	,	,	_	4	punct
+10	guest	guest	NN	_	11	nn
+11	book	book	NN	_	4	dep
+12	,	,	,	_	11	punct
+13	class	class	NN	_	14	nn
+14	photos	photo	NNS	_	11	conj
+15	,	,	,	_	11	punct
+16	rsvp	rsvp	NN	_	11	conj
+17	,	,	,	_	11	punct
+18	payment	payment	NN	_	19	nn
+19	collection	collection	NN	_	11	conj
+20	and	and	CC	_	11	cc
+21	trip	trip	NN	_	23	nn
+22	planning	planning	NN	_	23	nn
+23	information	information	NN	_	11	conj
+24	.	.	.	_	4	punct
+

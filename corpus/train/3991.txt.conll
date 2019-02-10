@@ -1,0 +1,23 @@
+1	JISC	JISC	NNP	_	4	nsubj
+2	has	have	VBZ	_	4	aux
+3	recently	recently	RB	_	4	advmod
+4	released	release	VBN	_	0	ROOT
+5	preliminary	preliminary	JJ	_	6	amod
+6	results	result	NNS	_	4	dobj
+7	of	of	IN	_	6	prep
+8	one	one	CD	_	7	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	largest	largest	JJS	_	12	amod
+12	investigations	investigation	NNS	_	9	pobj
+13	ever	ever	RB	_	14	advmod
+14	undertaken	undertake	VBN	_	12	vmod
+15	into	into	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	usage	usage	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	e-books	e-book	NNS	_	18	pobj
+20	by	by	IN	_	17	prep
+21	students	student	NNS	_	20	pobj
+22	.	.	.	_	4	punct
+

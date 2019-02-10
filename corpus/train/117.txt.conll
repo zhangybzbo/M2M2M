@@ -1,0 +1,18 @@
+1	Forward	forward	RB	_	2	advmod
+2	motion	motion	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	vehicle	vehicle	NN	_	3	pobj
+6	through	through	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	air	air	NN	_	6	pobj
+9	caused	cause	VBD	_	0	ROOT
+10	a	a	DT	_	11	det
+11	suction	suction	NN	_	9	dobj
+12	on	on	IN	_	9	prep
+13	the	the	DT	_	16	det
+14	road	road	NN	_	16	nn
+15	draft	draft	NN	_	16	nn
+16	tube	tube	NN	_	12	pobj
+17	.	.	.	_	9	punct
+

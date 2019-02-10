@@ -1,0 +1,12 @@
+1	Infamous	infamous	JJ	_	4	amod
+2	criminal	criminal	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	skull	skull	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	handed	hand	VBN	_	0	ROOT
+7	over	over	IN	_	6	prep
+8	to	to	TO	_	7	pcomp
+9	the	the	DT	_	10	det
+10	authorities	authority	NNS	_	8	pobj
+11	.	.	.	_	6	punct
+

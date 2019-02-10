@@ -1,0 +1,22 @@
+1	It	it	PRP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	1956	1956	CD	_	6	num
+5	crime	crime	NN	_	6	nn
+6	drama	drama	NN	_	0	ROOT
+7	examining	examine	VBG	_	6	vmod
+8	the	the	DT	_	9	det
+9	reactions	reaction	NNS	_	7	dobj
+10	of	of	IN	_	9	prep
+11	parents	parent	NNS	_	10	pobj
+12	,	,	,	_	11	punct
+13	police	police	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	and	and	CC	_	11	cc
+16	the	the	DT	_	17	det
+17	public	public	JJ	_	11	conj
+18	to	to	TO	_	17	prep
+19	a	a	DT	_	20	det
+20	kidnapping	kidnapping	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

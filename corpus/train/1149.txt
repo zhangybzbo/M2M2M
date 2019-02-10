@@ -1,0 +1,1 @@
+To connect the microcontroller to the Internet , one must implement a protocol stack on the device .

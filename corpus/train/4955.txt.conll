@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	pan-and-scan	pan-and-scan	JJ	_	3	amod
+3	area	area	NN	_	0	ROOT
+4	-LRB-	-lrb-	-LRB-	_	6	punct
+5	lighter	lighter	JJR	_	6	amod
+6	shaded	shaded	JJ	_	3	dep
+7	-RRB-	-rrb-	-RRB-	_	6	punct
+8	is	be	VBZ	_	3	dep
+9	what	what	WP	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	shown	show	VBN	_	8	ccomp
+12	when	when	WRB	_	17	advmod
+13	your	you	PRP$	_	15	poss
+14	television	television	NN	_	15	nn
+15	screen	screen	NN	_	17	nsubj
+16	is	be	VBZ	_	17	cop
+17	full	full	JJ	_	11	advcl
+18	.	.	.	_	3	punct
+

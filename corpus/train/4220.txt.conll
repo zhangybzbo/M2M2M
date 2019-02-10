@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	urine	urine	NN	_	3	nn
+3	output	output	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	normal	normal	JJ	_	7	amod
+7	adults	adult	NNS	_	4	pobj
+8	was	be	VBD	_	9	cop
+9	1350ml	1350ml	CD	_	0	ROOT
+10	.	.	.	_	9	punct
+

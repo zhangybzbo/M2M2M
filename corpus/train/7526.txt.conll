@@ -1,0 +1,26 @@
+1	In	in	IN	_	16	prep
+2	America	America	NNP	_	1	pobj
+3	,	,	,	_	16	punct
+4	generations	generation	NNS	_	16	dep
+5	of	of	IN	_	4	prep
+6	Portuguese	portuguese	NN	_	7	nn
+7	immigrants	immigrant	NNS	_	5	pobj
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	mainland	mainland	NN	_	8	pobj
+11	,	,	,	_	4	punct
+12	Azores	Azores	NNP	_	16	nsubj
+13	and	and	CC	_	12	cc
+14	Madeira	Madeira	NNP	_	12	conj
+15	have	have	VBP	_	16	aux
+16	brought	bring	VBN	_	0	ROOT
+17	their	they	PRP$	_	18	poss
+18	often-simple	often-simple	NN	_	16	dobj
+19	but	but	CC	_	18	cc
+20	diverse	diverse	JJ	_	18	conj
+21	and	and	CC	_	18	cc
+22	always	always	RB	_	23	advmod
+23	tasty	tasty	JJ	_	24	amod
+24	cuisine	cuisine	NN	_	18	conj
+25	.	.	.	_	16	punct
+

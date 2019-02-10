@@ -1,0 +1,21 @@
+1	In	in	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	study	study	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	we	we	PRP	_	6	nsubj
+6	examined	examine	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	suspension	suspension	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	solid	solid	JJ	_	11	amod
+11	particles	particle	NNS	_	9	pobj
+12	in	in	IN	_	8	prep
+13	a	a	DT	_	14	det
+14	vessel	vessel	NN	_	12	pobj
+15	equipped	equip	VBN	_	14	vmod
+16	with	with	IN	_	15	prep
+17	dual	dual	JJ	_	19	amod
+18	traditional	traditional	JJ	_	19	amod
+19	impellers	impeller	NNS	_	16	pobj
+20	.	.	.	_	6	punct
+

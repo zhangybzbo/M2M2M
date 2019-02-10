@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	get	get	VBP	_	0	ROOT
+3	severe	severe	JJ	_	4	amod
+4	headaches	headache	NNS	_	2	dobj
+5	and	and	CC	_	4	cc
+6	dizziness	dizziness	NN	_	4	conj
+7	from	from	IN	_	6	prep
+8	colas	cola	NNS	_	7	pobj
+9	and	and	CC	_	8	cc
+10	drinks	drink	NNS	_	8	conj
+11	with	with	IN	_	2	prep
+12	nutrasweet	nutrasweet	NN	_	11	pobj
+13	-LRB-	-lrb-	-LRB-	_	14	punct
+14	aspartame	aspartame	NN	_	12	appos
+15	-RRB-	-rrb-	-RRB-	_	14	punct
+16	and	and	CC	_	12	cc
+17	splenda	splenda	NN	_	12	conj
+18	-LRB-	-lrb-	-LRB-	_	19	punct
+19	sucralose	sucralose	NN	_	17	appos
+20	-RRB-	-rrb-	-RRB-	_	19	punct
+21	.	.	.	_	2	punct
+

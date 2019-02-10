@@ -1,0 +1,26 @@
+1	Patient	patient	NN	_	2	nn
+2	survival	survival	NN	_	13	dep
+3	one	one	CD	_	4	num
+4	year	year	NN	_	13	nsubj
+5	after	after	IN	_	4	prep
+6	transplantation	transplantation	NN	_	5	pobj
+7	from	from	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	living-related	living-related	JJ	_	10	amod
+10	donor	donor	NN	_	7	pobj
+11	is	be	VBZ	_	13	cop
+12	95	95	CD	_	13	num
+13	%	%	NN	_	0	ROOT
+14	and	and	CC	_	13	cc
+15	comparably	comparably	RB	_	16	advmod
+16	high	high	JJ	_	13	conj
+17	if	if	IN	_	20	mark
+18	the	the	DT	_	19	det
+19	organ	organ	NN	_	20	nsubj
+20	comes	come	VBZ	_	13	advcl
+21	from	from	IN	_	20	prep
+22	a	a	DT	_	24	det
+23	cadaveric	cadaveric	JJ	_	24	amod
+24	donor	donor	NN	_	21	pobj
+25	.	.	.	_	13	punct
+

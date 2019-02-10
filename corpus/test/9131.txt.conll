@@ -1,0 +1,8 @@
+1	Accident	Accident	NNP	_	2	nsubj
+2	causes	cause	VBZ	_	0	ROOT
+3	delays	delay	NNS	_	2	dobj
+4	on	on	IN	_	3	prep
+5	BW	bw	NN	_	6	nn
+6	Parkway	Parkway	NNP	_	4	pobj
+7	.	.	.	_	2	punct
+

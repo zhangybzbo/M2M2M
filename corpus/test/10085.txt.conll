@@ -1,0 +1,11 @@
+1	She	she	PRP	_	2	nsubj
+2	invested	invest	VBD	_	0	ROOT
+3	all	all	DT	_	6	det
+4	her	she	PRP$	_	6	poss
+5	retirement	retirement	NN	_	6	nn
+6	fund	fund	NN	_	2	dobj
+7	into	into	IN	_	2	prep
+8	this	this	DT	_	9	det
+9	business	business	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,25 @@
+1	On	on	IN	_	0	ROOT
+2	a	a	DT	_	5	det
+3	gorgeous	gorgeous	JJ	_	5	amod
+4	Autumn	autumn	NN	_	5	nn
+5	morning	morning	NN	_	1	pobj
+6	,	,	,	_	1	punct
+7	the	the	DT	_	6	dep
+8	amble	amble	VB	_	7	amod
+9	of	of	IN	_	8	prep
+10	walkers	walker	NNS	_	9	pobj
+11	snaked	snake	VBD	_	8	dep
+12	down	down	RP	_	11	prt
+13	Terrace	Terrace	NNP	_	14	nn
+14	Road	Road	NNP	_	11	dobj
+15	to	to	TO	_	11	prep
+16	the	the	DT	_	18	det
+17	main	main	JJ	_	18	amod
+18	entrance	entrance	NN	_	15	pobj
+19	on	on	IN	_	18	prep
+20	the	the	DT	_	23	det
+21	Great	Great	NNP	_	23	nn
+22	Eastern	Eastern	NNP	_	23	nn
+23	Highway	Highway	NNP	_	19	pobj
+24	.	.	.	_	7	punct
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	chemicals	chemical	NNS	_	8	nsubj
+3	used	use	VBN	_	2	vmod
+4	for	for	IN	_	3	prep
+5	screen	screen	NN	_	6	nn
+6	reclamation	reclamation	NN	_	4	pobj
+7	are	be	VBP	_	8	cop
+8	some	some	DT	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	most	most	RBS	_	12	advmod
+12	hazardous	hazardous	JJ	_	13	amod
+13	products	product	NNS	_	9	pobj
+14	in	in	IN	_	8	prep
+15	a	a	DT	_	18	det
+16	screen	screen	NN	_	18	nn
+17	printing	printing	NN	_	18	nn
+18	facility	facility	NN	_	14	pobj
+19	.	.	.	_	8	punct
+

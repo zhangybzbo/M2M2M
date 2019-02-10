@@ -1,0 +1,3 @@
+T1	Term 22 35	cable network
+T2	Term 78 102	science fiction TV shows
+R1	Other Arg1:T1 Arg2:T2

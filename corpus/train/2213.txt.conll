@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	paperback	paperback	NN	_	3	nn
+3	pamphlet	pamphlet	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	inside	inside	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	binder	binder	NN	_	6	pobj
+9	,	,	,	_	5	punct
+10	as	as	IN	_	11	mark
+11	shown	show	VBN	_	5	advcl
+12	below	below	IN	_	11	advmod
+13	.	.	.	_	5	punct
+

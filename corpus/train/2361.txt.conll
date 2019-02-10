@@ -1,0 +1,22 @@
+1	Peter	Peter	NNP	_	2	nn
+2	Wayner	Wayner	NNP	_	8	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	6	det
+5	technology	technology	NN	_	6	nn
+6	writer	writer	NN	_	2	appos
+7	,	,	,	_	2	punct
+8	struggles	struggle	VBZ	_	0	ROOT
+9	with	with	IN	_	8	prep
+10	how	how	WRB	_	12	advmod
+11	to	to	TO	_	12	aux
+12	respond	respond	VB	_	9	pcomp
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	16	det
+15	widespread	widespread	JJ	_	16	amod
+16	piracy	piracy	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	his	he	PRP$	_	19	poss
+19	books	book	NNS	_	17	pobj
+20	online	online	JJ	_	19	amod
+21	.	.	.	_	8	punct
+

@@ -1,0 +1,3 @@
+T1	Term 114 122	creation
+T2	Term 128 136	designer
+R1	Product-Producer Arg1:T1 Arg2:T2

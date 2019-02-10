@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	det
+2	sculpture	sculpture	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	part	part	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	shoes	shoe	NNS	_	8	nn
+8	series	series	NN	_	5	pobj
+9	I	I	PRP	_	12	nsubj
+10	'm	be	VBP	_	12	aux
+11	currently	currently	RB	_	12	advmod
+12	working	work	VBG	_	8	rcmod
+13	on	on	IN	_	12	prep
+14	where	where	WRB	_	16	advmod
+15	I	I	PRP	_	16	nsubj
+16	revisit	revisit	VBP	_	13	pcomp
+17	some	some	DT	_	16	dobj
+18	of	of	IN	_	17	prep
+19	my	my	PRP$	_	23	poss
+20	favorite	favorite	JJ	_	23	amod
+21	classic	classic	JJ	_	23	amod
+22	sneakers	sneaker	NNS	_	23	nn
+23	silhouettes	silhouette	NNS	_	18	pobj
+24	.	.	.	_	4	punct
+

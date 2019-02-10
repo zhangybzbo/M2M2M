@@ -1,0 +1,20 @@
+1	U.S.	U.S.	NNP	_	2	nn
+2	Customs	Customs	NNP	_	7	nsubj
+3	and	and	CC	_	2	cc
+4	Border	Border	NNP	_	6	nn
+5	Protection	Protection	NNP	_	6	nn
+6	officers	officer	NNS	_	2	conj
+7	stopped	stop	VBD	_	0	ROOT
+8	a	a	DT	_	10	det
+9	drug-smuggling	drug-smuggling	JJ	_	10	amod
+10	attempt	attempt	NN	_	7	dobj
+11	when	when	WRB	_	13	advmod
+12	they	they	PRP	_	13	nsubj
+13	seized	seize	VBD	_	7	advcl
+14	a	a	DT	_	15	det
+15	suitcase	suitcase	NN	_	13	dobj
+16	full	full	JJ	_	15	amod
+17	of	of	IN	_	16	prep
+18	marijuana	marijuana	NN	_	17	pobj
+19	.	.	.	_	7	punct
+

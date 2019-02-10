@@ -1,0 +1,19 @@
+1	Term	term	NN	_	2	nn
+2	limits	limit	NNS	_	3	nsubj
+3	apply	apply	VBP	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	many	many	JJ	_	6	amod
+6	offices	office	NNS	_	4	pobj
+7	at	at	IN	_	6	prep
+8	both	both	CC	_	13	preconj
+9	the	the	DT	_	13	det
+10	federal	federal	JJ	_	13	amod
+11	and	and	CC	_	10	cc
+12	state	state	NN	_	10	conj
+13	level	level	NN	_	7	pobj
+14	in	in	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	United	United	NNP	_	17	nn
+17	States	States	NNPS	_	14	pobj
+18	.	.	.	_	3	punct
+

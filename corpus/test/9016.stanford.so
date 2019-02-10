@@ -1,0 +1,10 @@
+0	60	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="extend" pos="VBG" amod="t1"
+10	17	tok id="t1" base="ninject" pos="NN" nsubj="t2"
+18	25	tok id="t2" base="inject" pos="VBZ" ROOT="ROOT"
+26	38	tok id="t3" base="dependency" pos="NNS" dobj="t2"
+39	43	tok id="t4" base="into" pos="IN" prep="t2"
+44	50	tok id="t5" base="action" pos="NN" nn="t6"
+51	58	tok id="t6" base="filter" pos="NNS" pobj="t4"
+59	60	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

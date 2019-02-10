@@ -1,0 +1,10 @@
+0	49	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="other" pos="JJ" amod="t1"
+6	15	tok id="t1" base="country" pos="NNS" nsubj="t4"
+16	19	tok id="t2" base="be" pos="VBP" aux="t4"
+20	24	tok id="t3" base="also" pos="RB" advmod="t4"
+25	32	tok id="t4" base="sink" pos="VBG" ROOT="ROOT"
+33	37	tok id="t5" base="into" pos="IN" prep="t4"
+38	47	tok id="t6" base="recession" pos="NN" pobj="t5"
+48	49	tok id="t7" base="-PERIOD-" pos="." punct="t4"
+

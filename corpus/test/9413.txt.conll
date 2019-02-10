@@ -1,0 +1,22 @@
+1	This	this	DT	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	an	a	DT	_	4	det
+4	allegory	allegory	NN	_	0	ROOT
+5	illustrating	illustrate	VBG	_	4	vmod
+6	a	a	DT	_	8	det
+7	Flemish	flemish	JJ	_	8	amod
+8	proverb	proverb	NN	_	5	dobj
+9	which	which	WDT	_	10	nsubj
+10	shows	show	VBZ	_	8	rcmod
+11	a	a	DT	_	12	det
+12	merchant	merchant	NN	_	10	dobj
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	basket	basket	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	seven	seven	CD	_	18	num
+18	duct-flutes	duct-flute	NNS	_	16	pobj
+19	for	for	IN	_	15	prep
+20	sale	sale	NN	_	19	pobj
+21	.	.	.	_	4	punct
+

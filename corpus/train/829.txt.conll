@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	anthrax	anthrax	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	suitcase	suitcase	NN	_	4	pobj
+7	that	that	IN	_	11	mark
+8	the	the	DT	_	9	det
+9	Egyptian	egyptian	JJ	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	supposed	suppose	VBN	_	3	ccomp
+12	to	to	TO	_	13	aux
+13	deliver	deliver	VB	_	11	xcomp
+14	to	to	TO	_	13	prep
+15	someone	someone	NN	_	14	pobj
+16	in	in	IN	_	15	prep
+17	Canada	Canada	NNP	_	16	pobj
+18	.	.	.	_	3	punct
+

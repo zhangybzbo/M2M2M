@@ -1,0 +1,11 @@
+0	54	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="energy" pos="NN" nsubj="t4"
+11	13	tok id="t2" base="of" pos="IN" prep="t1"
+14	22	tok id="t3" base="emission" pos="NN" pobj="t2"
+23	31	tok id="t4" base="produce" pos="VBZ" ROOT="ROOT"
+32	35	tok id="t5" base="the" pos="DT" det="t7"
+36	46	tok id="t6" base="separation" pos="NN" nn="t7"
+47	52	tok id="t7" base="field" pos="NN" dobj="t4"
+53	54	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

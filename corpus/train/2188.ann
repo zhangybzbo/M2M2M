@@ -1,0 +1,3 @@
+T1	Term 4 15	stethoscope
+T2	Term 25 31	doctor
+R1	Instrument-Agency Arg1:T1 Arg2:T2

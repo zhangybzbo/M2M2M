@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	trail	trail	NN	_	3	nsubj
+3	starts	start	VBZ	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	elevation	elevation	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	5600	5600	CD	_	7	pobj
+9	'	'	''	_	3	punct
+10	and	and	CC	_	3	cc
+11	steadily	steadily	RB	_	12	advmod
+12	climbs	climb	VBZ	_	3	conj
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	15	det
+15	top	top	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	a	a	DT	_	20	det
+18	6850	6850	CD	_	20	num
+19	'	'	''	_	20	punct
+20	promontory	promontory	NN	_	16	pobj
+21	overlooking	overlook	VBG	_	20	vmod
+22	Pine	Pine	NNP	_	25	nn
+23	and	and	CC	_	22	cc
+24	Juniper	Juniper	NNP	_	22	conj
+25	Canyons	Canyons	NNPS	_	21	dobj
+26	.	.	.	_	3	punct
+

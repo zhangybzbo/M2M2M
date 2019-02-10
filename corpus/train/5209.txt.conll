@@ -1,0 +1,12 @@
+1	Exposure	exposure	NN	_	4	nsubj
+2	to	to	TO	_	1	prep
+3	vapor	vapor	NN	_	2	pobj
+4	causes	cause	VBZ	_	0	ROOT
+5	intense	intense	JJ	_	6	amod
+6	watering	watering	NN	_	4	dobj
+7	and	and	CC	_	6	cc
+8	irritation	irritation	NN	_	6	conj
+9	to	to	TO	_	8	prep
+10	eyes	eye	NNS	_	9	pobj
+11	.	.	.	_	4	punct
+

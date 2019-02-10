@@ -1,0 +1,16 @@
+1	In	in	IN	_	6	prep
+2	a	a	DT	_	3	det
+3	nutshell	nutshell	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	orienteering	orienteering	NN	_	6	nsubj
+6	combines	combine	VBZ	_	0	ROOT
+7	a	a	DT	_	9	det
+8	physical	physical	JJ	_	9	amod
+9	skill	skill	NN	_	6	dobj
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	14	det
+12	more	more	RBR	_	13	advmod
+13	cerebral	cerebral	JJ	_	14	amod
+14	element	element	NN	_	10	pobj
+15	.	.	.	_	6	punct
+

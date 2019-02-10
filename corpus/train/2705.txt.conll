@@ -1,0 +1,20 @@
+1	Holding	hold	VBG	_	10	vmod
+2	firmly	firmly	RB	_	1	advmod
+3	onto	onto	IN	_	1	prep
+4	the	the	DT	_	5	det
+5	stick	stick	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	plunger	plunger	NN	_	6	pobj
+9	,	,	,	_	10	punct
+10	plant	plant	NN	_	0	ROOT
+11	the	the	DT	_	12	det
+12	mouth	mouth	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	it	it	PRP	_	13	pobj
+15	over	over	IN	_	12	prep
+16	the	the	DT	_	18	det
+17	toilet	toilet	NN	_	18	nn
+18	hole	hole	NN	_	15	pobj
+19	.	.	.	_	10	punct
+

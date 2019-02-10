@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	3	poss
+2	8	8	CD	_	3	num
+3	year	year	NN	_	6	tmod
+4	old	old	JJ	_	5	amod
+5	daughter	daughter	NN	_	6	nsubj
+6	came	come	VBD	_	0	ROOT
+7	up	up	RP	_	6	prt
+8	with	with	IN	_	6	prep
+9	an	a	DT	_	12	det
+10	extremely	extremely	RB	_	11	advmod
+11	good	good	JJ	_	12	amod
+12	idea	idea	NN	_	8	pobj
+13	.	.	.	_	6	punct
+

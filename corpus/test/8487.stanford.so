@@ -1,0 +1,9 @@
+0	39	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="Nido" pos="NNP" nn="t1"
+5	14	tok id="t1" base="Petroleum" pos="NNP" nsubj="t2"
+15	20	tok id="t2" base="hire" pos="VBZ" ROOT="ROOT"
+21	24	tok id="t3" base="rig" pos="NN" dobj="t2"
+25	28	tok id="t4" base="for" pos="IN" prep="t3"
+29	37	tok id="t5" base="drilling" pos="NN" pobj="t4"
+38	39	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,18 @@
+1	Latest	latest	JJS	_	2	amod
+2	figures	figure	NNS	_	3	nsubj
+3	show	show	VBP	_	0	ROOT
+4	unemployment	unemployment	NN	_	3	dobj
+5	in	in	IN	_	3	prep
+6	Wales	Wales	NNP	_	5	pobj
+7	is	be	VBZ	_	8	aux
+8	rising	rise	VBG	_	3	dep
+9	again	again	RB	_	8	advmod
+10	despite	despite	IN	_	8	prep
+11	falls	fall	VBZ	_	10	pcomp
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	16	det
+14	previous	previous	JJ	_	16	amod
+15	two	two	CD	_	16	num
+16	months	month	NNS	_	12	pobj
+17	.	.	.	_	3	punct
+

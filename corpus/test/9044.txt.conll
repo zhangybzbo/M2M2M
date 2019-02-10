@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	bottle	bottle	NN	_	0	ROOT
+3	full	full	JJ	_	2	amod
+4	of	of	IN	_	3	prep
+5	milk	milk	NN	_	4	pobj
+6	that	that	WDT	_	9	nsubjpass
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	left	leave	VBN	_	5	rcmod
+10	sitting	sit	VBG	_	24	dep
+11	out	out	RP	_	10	prt
+12	in	in	IN	_	10	prep
+13	a	a	DT	_	15	det
+14	warm	warm	JJ	_	15	amod
+15	room	room	NN	_	12	pobj
+16	quickly	quickly	RB	_	17	advmod
+17	breeds	breed	NNS	_	19	nn
+18	more	more	RBR	_	19	advmod
+19	bacteria	bacterium	NNS	_	24	nsubj
+20	than	than	IN	_	19	prep
+21	a	a	DT	_	22	det
+22	newborn	newborn	JJ	_	20	pobj
+23	can	can	MD	_	24	aux
+24	handle	handle	VB	_	9	ccomp
+25	.	.	.	_	2	punct
+

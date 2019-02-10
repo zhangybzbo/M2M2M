@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	study	study	NN	_	10	nsubjpass
+3	on	on	IN	_	8	prep
+4	which	which	WDT	_	3	pobj
+5	this	this	DT	_	6	det
+6	paper	paper	NN	_	8	nsubjpass
+7	is	be	VBZ	_	8	auxpass
+8	based	base	VBN	_	2	rcmod
+9	was	be	VBD	_	10	auxpass
+10	prompted	prompt	VBN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	concerns	concern	NNS	_	11	pobj
+13	about	about	IN	_	12	prep
+14	marking	mark	VBG	_	13	pcomp
+15	standards	standard	NNS	_	14	dobj
+16	.	.	.	_	10	punct
+

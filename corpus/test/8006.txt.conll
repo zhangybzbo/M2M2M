@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	ear	ear	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	African	african	JJ	_	6	amod
+6	elephant	elephant	NN	_	3	pobj
+7	is	be	VBZ	_	9	cop
+8	significantly	significantly	RB	_	9	advmod
+9	larger	larger	JJR	_	0	ROOT
+10	--	--	:	_	9	punct
+11	measuring	measure	VBG	_	9	dep
+12	183	183	CD	_	13	num
+13	cm	cm	NN	_	11	dobj
+14	by	by	IN	_	11	prep
+15	114	114	CD	_	16	num
+16	cm	cm	NN	_	14	pobj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	bush	bush	JJ	_	20	amod
+20	elephant	elephant	NN	_	17	pobj
+21	.	.	.	_	9	punct
+

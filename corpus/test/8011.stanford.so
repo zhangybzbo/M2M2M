@@ -1,0 +1,11 @@
+0	57	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="ten" pos="CD" number="t1"
+4	11	tok id="t1" base="million" pos="CD" num="t3"
+12	17	tok id="t2" base="quake" pos="NN" nn="t3"
+18	27	tok id="t3" base="survivor" pos="NNS" nsubj="t4"
+28	33	tok id="t4" base="move" pos="VBD" ROOT="ROOT"
+34	38	tok id="t5" base="into" pos="IN" prep="t4"
+39	48	tok id="t6" base="makeshift" pos="JJ" amod="t7"
+49	55	tok id="t7" base="house" pos="NNS" pobj="t5"
+56	57	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

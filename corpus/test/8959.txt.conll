@@ -1,0 +1,27 @@
+1	When	when	WRB	_	6	advmod
+2	the	the	DT	_	4	det
+3	loading	load	VBG	_	4	amod
+4	time	time	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	completed	complete	VBN	_	15	advcl
+7	,	,	,	_	15	punct
+8	the	the	DT	_	10	det
+9	sliding	slide	VBG	_	10	amod
+10	bar	bar	NN	_	15	nsubj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	injector	injector	NN	_	11	pobj
+14	was	be	VBD	_	15	cop
+15	displaced	displaced	JJ	_	0	ROOT
+16	manually	manually	RB	_	15	advmod
+17	to	to	TO	_	15	prep
+18	the	the	DT	_	21	det
+19	other	other	JJ	_	21	amod
+20	resting	rest	VBG	_	21	amod
+21	position	position	NN	_	17	pobj
+22	-LRB-	-lrb-	-LRB-	_	24	punct
+23	dashed	dash	VBN	_	24	amod
+24	area	area	NN	_	21	appos
+25	-RRB-	-rrb-	-RRB-	_	24	punct
+26	.	.	.	_	15	punct
+

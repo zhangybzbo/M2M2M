@@ -1,0 +1,12 @@
+0	62	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="take" pos="VB" ROOT="ROOT"
+5	13	tok id="t1" base="medicine" pos="NN" dobj="t0"
+14	16	tok id="t2" base="to" pos="TO" aux="t3"
+17	23	tok id="t3" base="reduce" pos="VB" xcomp="t0"
+24	32	tok id="t4" base="sneezing" pos="NN" dobj="t3"
+33	36	tok id="t5" base="and" pos="CC" cc="t3"
+37	45	tok id="t6" base="cough" pos="VBG" conj="t3"
+46	50	tok id="t7" base="from" pos="IN" prep="t6"
+51	60	tok id="t8" base="allergy" pos="NNS" pobj="t7"
+61	62	tok id="t9" base="-PERIOD-" pos="." punct="t0"
+

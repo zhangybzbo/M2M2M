@@ -1,0 +1,21 @@
+1	He	he	PRP	_	2	nsubj
+2	opened	open	VBD	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	the	the	DT	_	5	det
+5	nostrils	nostril	NNS	_	2	dobj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	nose	nose	NN	_	6	pobj
+9	a	a	DT	_	10	det
+10	bit	bit	NN	_	2	npadvmod
+11	to	to	TO	_	12	aux
+12	fit	fit	VB	_	10	vmod
+13	the	the	DT	_	17	det
+14	left	left	JJ	_	17	amod
+15	and	and	CC	_	14	cc
+16	right	right	JJ	_	14	conj
+17	winglets	winglet	NNS	_	12	dobj
+18	into	into	IN	_	12	prep
+19	it	it	PRP	_	18	pobj
+20	.	.	.	_	2	punct
+

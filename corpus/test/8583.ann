@@ -1,0 +1,3 @@
+T1	Term 71 79	congress
+T2	Term 94 103	provinces
+R1	Member-Collection Arg1:T2 Arg2:T1

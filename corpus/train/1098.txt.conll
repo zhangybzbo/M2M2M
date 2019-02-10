@@ -1,0 +1,26 @@
+1	During	during	IN	_	13	prep
+2	the	the	DT	_	3	det
+3	1980s	1980s	CD	_	1	pobj
+4	,	,	,	_	13	punct
+5	that	that	WDT	_	7	det
+6	exceptional	exceptional	JJ	_	7	amod
+7	teacher	teacher	NN	_	13	nsubj
+8	at	at	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	poor	poor	JJ	_	12	amod
+11	public	public	JJ	_	12	amod
+12	school	school	NN	_	8	pobj
+13	built	build	VBD	_	0	ROOT
+14	a	a	DT	_	16	det
+15	calculus	calculus	NN	_	16	nn
+16	program	program	NN	_	13	dobj
+17	rivaled	rival	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	only	only	RB	_	21	advmod
+20	a	a	DT	_	21	det
+21	handful	handful	NN	_	18	pobj
+22	of	of	IN	_	21	prep
+23	exclusive	exclusive	JJ	_	24	amod
+24	academies	academy	NNS	_	22	pobj
+25	.	.	.	_	13	punct
+

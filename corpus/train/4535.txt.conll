@@ -1,0 +1,9 @@
+1	Suspects	suspect	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	brought	bring	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	custody	custody	NN	_	4	pobj
+6	for	for	IN	_	3	prep
+7	questions	question	NNS	_	6	pobj
+8	.	.	.	_	3	punct
+

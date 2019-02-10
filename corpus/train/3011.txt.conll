@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	plot	plot	NN	_	3	nn
+3	centers	center	NNS	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	goldfish	goldfish	NN	_	4	pobj
+7	named	name	VBN	_	6	vmod
+8	Ponyo	Ponyo	NNP	_	7	dep
+9	who	who	WP	_	10	nsubj
+10	befriends	befriend	VBZ	_	8	rcmod
+11	a	a	DT	_	14	det
+12	five-year-old	five-year-old	JJ	_	14	amod
+13	human	human	JJ	_	14	amod
+14	boy	boy	NN	_	10	dobj
+15	.	.	.	_	3	punct
+

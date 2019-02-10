@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	corpse	corpse	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	murderer	murderer	NN	_	3	pobj
+6	was	be	VBD	_	7	aux
+7	dangling	dangle	VBG	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	noose	noose	NN	_	8	pobj
+11	,	,	,	_	7	punct
+12	twisting	twist	VBG	_	7	vmod
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	wind	wind	NN	_	13	pobj
+16	.	.	.	_	7	punct
+

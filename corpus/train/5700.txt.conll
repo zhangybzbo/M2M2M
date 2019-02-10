@@ -1,0 +1,27 @@
+1	These	these	DT	_	2	det
+2	photographs	photograph	NNS	_	3	nsubj
+3	show	show	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	survivors	survivor	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	time	time	NN	_	6	pobj
+9	that	that	IN	_	14	mark
+10	the	the	DT	_	12	det
+11	truly	truly	RB	_	12	advmod
+12	nostalgic	nostalgic	JJ	_	14	nsubj
+13	fondly	fondly	RB	_	14	advmod
+14	remember	remember	VB	_	8	ccomp
+15	and	and	CC	_	14	cc
+16	the	the	DT	_	17	det
+17	rest	rest	NN	_	22	nsubj
+18	of	of	IN	_	17	prep
+19	us	we	PRP	_	18	pobj
+20	ca	can	MD	_	22	aux
+21	n't	not	RB	_	22	neg
+22	believe	believe	VB	_	14	conj
+23	existed	exist	VBN	_	22	ccomp
+24	at	at	IN	_	23	prep
+25	all	all	DT	_	24	pobj
+26	.	.	.	_	3	punct
+

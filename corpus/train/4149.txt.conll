@@ -1,0 +1,12 @@
+1	Only	only	RB	_	4	advmod
+2	a	a	DT	_	4	det
+3	few	few	JJ	_	4	amod
+4	congressmen	congressman	NNS	_	5	nsubj
+5	attended	attend	VBD	_	0	ROOT
+6	that	that	IN	_	5	prep
+7	first	first	JJ	_	8	amod
+8	party	party	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	1977	1977	CD	_	9	pobj
+11	.	.	.	_	5	punct
+

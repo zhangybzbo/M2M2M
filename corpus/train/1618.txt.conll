@@ -1,0 +1,9 @@
+1	DOJ	DOJ	NNP	_	2	nsubj
+2	released	release	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	probe	probe	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	Siegelman	Siegelman	NNP	_	7	nn
+7	prosecution	prosecution	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

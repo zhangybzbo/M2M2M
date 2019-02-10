@@ -1,0 +1,21 @@
+1	Most	most	JJS	_	9	nsubj
+2	of	of	IN	_	1	prep
+3	his	he	PRP$	_	4	poss
+4	speeches	speech	NNS	_	2	pobj
+5	at	at	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	rallies	rally	NNS	_	5	pobj
+8	have	have	VBP	_	9	aux
+9	been	be	VBN	_	0	ROOT
+10	about	about	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	economy	economy	NN	_	10	pobj
+13	and	and	CC	_	9	cc
+14	the	the	DT	_	15	det
+15	need	need	NN	_	9	conj
+16	to	to	TO	_	17	aux
+17	fight	fight	VB	_	15	vmod
+18	against	against	IN	_	17	prep
+19	corruption	corruption	NN	_	18	pobj
+20	.	.	.	_	9	punct
+

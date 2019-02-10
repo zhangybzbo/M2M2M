@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	contents	contents	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	memorandum	memorandum	NN	_	3	pobj
+6	included	include	VBD	_	0	ROOT
+7	stigmatizing	stigmatize	VBG	_	6	xcomp
+8	statements	statement	NNS	_	7	dobj
+9	about	about	IN	_	8	prep
+10	Cannon	Cannon	NNP	_	9	pobj
+11	.	.	.	_	6	punct
+

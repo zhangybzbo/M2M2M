@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	genteel	genteel	JJ	_	3	amod
+3	tranquility	tranquility	NN	_	8	nsubjpass
+4	of	of	IN	_	3	prep
+5	Victorian	victorian	JJ	_	6	amod
+6	England	England	NNP	_	4	pobj
+7	is	be	VBZ	_	8	auxpass
+8	shattered	shatter	VBN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	arrival	arrival	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	an	a	DT	_	15	det
+14	invasion	invasion	NN	_	15	nn
+15	force	force	NN	_	12	pobj
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	red	red	JJ	_	19	amod
+19	planet	planet	NN	_	16	pobj
+20	.	.	.	_	8	punct
+

@@ -1,0 +1,12 @@
+0	80	sentence id="s0" parse_status="success"
+0	18	tok id="t0" base="enteric-formulated" pos="JJ" amod="t1"
+19	30	tok id="t1" base="lactoferrin" pos="NN" nsubjpass="t5"
+31	34	tok id="t2" base="be" pos="VBD" auxpass="t5"
+35	39	tok id="t3" base="more" pos="RBR" advmod="t4"
+40	51	tok id="t4" base="effectively" pos="RB" advmod="t5"
+52	63	tok id="t5" base="transport" pos="VBN" ROOT="ROOT"
+64	68	tok id="t6" base="into" pos="IN" prep="t5"
+69	72	tok id="t7" base="the" pos="DT" det="t8"
+73	78	tok id="t8" base="blood" pos="NN" pobj="t6"
+79	80	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

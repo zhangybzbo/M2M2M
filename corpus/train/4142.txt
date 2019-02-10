@@ -1,0 +1,1 @@
+A choice takes you forward by a more or less fixed number of pages at any given position in the book .

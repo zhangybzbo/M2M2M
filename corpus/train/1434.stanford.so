@@ -1,0 +1,12 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	9	tok id="t1" base="final" pos="JJ" amod="t2"
+10	19	tok id="t2" base="programme" pos="NN" ROOT="ROOT"
+20	28	tok id="t3" base="detail" pos="VBN" vmod="t2"
+29	32	tok id="t4" base="the" pos="DT" det="t5"
+33	40	tok id="t5" base="history" pos="NN" dobj="t3"
+41	43	tok id="t6" base="of" pos="IN" prep="t5"
+44	55	tok id="t7" base="Russborough" pos="NNP" nn="t8"
+56	61	tok id="t8" base="House" pos="NNP" pobj="t6"
+62	63	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

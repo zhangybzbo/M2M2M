@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	other	other	JJ	_	4	amod
+3	great	great	JJ	_	4	amod
+4	character	character	NN	_	0	ROOT
+5	from	from	IN	_	9	prep
+6	Arabic	arabic	JJ	_	7	amod
+7	literature	literature	NN	_	5	pobj
+8	Sinbad	Sinbad	NNP	_	9	nsubj
+9	is	be	VBZ	_	4	rcmod
+10	from	from	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	Tales	tale	NNS	_	10	pobj
+13	.	.	.	_	4	punct
+

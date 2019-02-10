@@ -1,0 +1,3 @@
+T1	Term 25 37	organisation
+T2	Term 51 56	woman
+R1	Product-Producer Arg1:T1 Arg2:T2

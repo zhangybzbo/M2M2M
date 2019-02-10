@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	furnace	furnace	NN	_	3	nn
+3	thermostat	thermostat	NN	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	the	the	DT	_	7	det
+6	nerve	nerve	NN	_	7	nn
+7	center	center	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	your	you	PRP$	_	12	poss
+10	home	home	NN	_	12	nn
+11	heating	heating	NN	_	12	nn
+12	system	system	NN	_	8	pobj
+13	.	.	.	_	7	punct
+

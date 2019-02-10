@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	you	you	PRP	_	2	iobj
+4	a	a	DT	_	5	det
+5	suitcase	suitcase	NN	_	2	dobj
+6	with	with	IN	_	5	prep
+7	cash	cash	NN	_	6	pobj
+8	in	in	IN	_	2	prep
+9	it	it	PRP	_	8	pobj
+10	so	so	IN	_	13	mark
+11	you	you	PRP	_	13	nsubj
+12	can	can	MD	_	13	aux
+13	fill	fill	VB	_	2	advcl
+14	it	it	PRP	_	13	dobj
+15	up	up	RP	_	13	prt
+16	with	with	IN	_	13	prep
+17	wine	wine	NN	_	18	nn
+18	gummies	gummy	NNS	_	16	pobj
+19	.	.	.	_	2	punct
+

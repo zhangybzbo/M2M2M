@@ -1,0 +1,11 @@
+1	He	he	PRP	_	2	nsubj
+2	rescheduled	reschedule	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	birthday	birthday	NN	_	5	nn
+5	party	party	NN	_	2	dobj
+6	to	to	TO	_	2	prep
+7	the	the	DT	_	9	det
+8	next	next	JJ	_	9	amod
+9	day	day	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

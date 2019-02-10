@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	week	week	NN	_	4	tmod
+3	we	we	PRP	_	4	nsubj
+4	take	take	VBP	_	0	ROOT
+5	a	a	DT	_	6	det
+6	look	look	NN	_	4	dobj
+7	at	at	IN	_	6	prep
+8	instructions	instruction	NNS	_	7	pobj
+9	for	for	IN	_	8	prep
+10	all	all	DT	_	13	det
+11	grain	grain	NN	_	13	nn
+12	beer	beer	NN	_	13	nn
+13	brewing	brewing	NN	_	9	pobj
+14	using	use	VBG	_	6	vmod
+15	a	a	DT	_	20	det
+16	single	single	JJ	_	20	amod
+17	step	step	NN	_	20	nn
+18	infusion	infusion	NN	_	20	nn
+19	mash	mash	NN	_	20	nn
+20	setup	setup	NN	_	14	dobj
+21	.	.	.	_	4	punct
+

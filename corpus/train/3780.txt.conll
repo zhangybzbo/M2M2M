@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	professor	professor	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	released	release	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	dungeon	dungeon	NN	_	8	nn
+8	right	right	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	front	front	NN	_	9	pobj
+11	of	of	IN	_	10	prep
+12	my	my	PRP$	_	13	poss
+13	eyes	eye	NNS	_	11	pobj
+14	.	.	.	_	4	punct
+

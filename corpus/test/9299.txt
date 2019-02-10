@@ -1,0 +1,1 @@
+We assume that the energy release from the charge is pot instantaneous , but it depends on time .

@@ -1,0 +1,24 @@
+1	With	with	IN	_	9	prep
+2	the	the	DT	_	3	det
+3	end	end	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	his	he	PRP$	_	6	poss
+6	task	task	NN	_	4	pobj
+7	,	,	,	_	9	punct
+8	Gibbon	Gibbon	NNP	_	9	nsubj
+9	felt	feel	VBD	_	0	ROOT
+10	that	that	IN	_	9	prep
+11	ambiguous	ambiguous	JJ	_	12	amod
+12	elation	elation	NN	_	10	pobj
+13	known	know	VBN	_	12	vmod
+14	to	to	TO	_	13	prep
+15	all	all	DT	_	16	det
+16	authors	author	NNS	_	14	pobj
+17	who	who	WP	_	19	nsubj
+18	have	have	VBP	_	19	aux
+19	completed	complete	VBN	_	16	rcmod
+20	a	a	DT	_	22	det
+21	weighty	weighty	JJ	_	22	amod
+22	work	work	NN	_	19	dobj
+23	.	.	.	_	9	punct
+

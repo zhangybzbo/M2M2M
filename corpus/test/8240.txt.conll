@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	aircraft	aircraft	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	written	write	VBN	_	0	ROOT
+5	off	off	RP	_	4	prt
+6	in	in	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	accident	accident	NN	_	6	pobj
+9	due	due	JJ	_	10	mwe
+10	to	to	TO	_	8	prep
+11	the	the	DT	_	13	det
+12	severe	severe	JJ	_	13	amod
+13	impact	impact	NN	_	10	pobj
+14	caused	cause	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	KLM	KLM	NNP	_	18	nn
+18	aircraft	aircraft	NN	_	15	pobj
+19	,	,	,	_	4	punct
+20	and	and	CC	_	4	cc
+21	the	the	DT	_	23	det
+22	resulting	result	VBG	_	23	amod
+23	fire	fire	NN	_	4	conj
+24	.	.	.	_	4	punct
+

@@ -1,0 +1,1 @@
+Ground resonance occurs while the helicopter is on the ground with rotors turning ; it will not happen in flight .

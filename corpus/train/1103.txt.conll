@@ -1,0 +1,10 @@
+1	A	a	DT	_	3	det
+2	happy	happy	JJ	_	3	amod
+3	resident	resident	NN	_	4	nsubj
+4	feels	feel	VBZ	_	0	ROOT
+5	part	part	NN	_	4	dobj
+6	of	of	IN	_	5	prep
+7	their	they	PRP$	_	8	poss
+8	association	association	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

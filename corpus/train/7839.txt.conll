@@ -1,0 +1,23 @@
+1	Equipment	equipment	NN	_	8	nsubjpass
+2	for	for	IN	_	1	prep
+3	making	make	VBG	_	2	pcomp
+4	repairs	repair	NNS	_	3	dobj
+5	en	en	IN	_	4	prep
+6	route	route	NN	_	5	pobj
+7	was	be	VBD	_	8	auxpass
+8	carried	carry	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	jockey	jockey	NN	_	12	nn
+12	box	box	NN	_	9	pobj
+13	attached	attach	VBN	_	12	vmod
+14	to	to	TO	_	13	prep
+15	one	one	CD	_	16	num
+16	end	end	NN	_	14	pobj
+17	or	or	CC	_	16	cc
+18	side	side	NN	_	16	conj
+19	of	of	IN	_	16	prep
+20	the	the	DT	_	21	det
+21	wagon	wagon	NN	_	19	pobj
+22	.	.	.	_	8	punct
+

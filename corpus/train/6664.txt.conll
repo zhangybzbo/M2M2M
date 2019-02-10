@@ -1,0 +1,12 @@
+1	All	all	DT	_	4	det
+2	1000	1000	CD	_	4	num
+3	lemote	lemote	NN	_	4	nn
+4	boxes	box	NNS	_	7	nsubjpass
+5	have	have	VBP	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	delivered	deliver	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	users	user	NNS	_	8	pobj
+11	.	.	.	_	7	punct
+

@@ -1,0 +1,24 @@
+1	Here	here	RB	_	4	advmod
+2	was	be	VBD	_	4	cop
+3	a	a	DT	_	4	det
+4	woman	woman	NN	_	0	ROOT
+5	who	who	WP	_	6	nsubj
+6	invented	invent	VBD	_	4	rcmod
+7	a	a	DT	_	9	det
+8	generic	generic	JJ	_	9	amod
+9	plastic	plastic	NN	_	6	dobj
+10	pouring	pour	VBG	_	11	amod
+11	insert	insert	NN	_	9	dep
+12	a	a	DT	_	14	det
+13	few	few	JJ	_	14	amod
+14	years	year	NNS	_	15	npadvmod
+15	ago	ago	IN	_	11	advmod
+16	-	-	:	_	11	punct
+17	making	make	VBG	_	11	dep
+18	the	the	DT	_	20	det
+19	spout-to-cup	spout-to-cup	JJ	_	20	amod
+20	distance	distance	NN	_	22	nsubj
+21	less	less	RBR	_	22	advmod
+22	critical	critical	JJ	_	17	xcomp
+23	.	.	.	_	4	punct
+

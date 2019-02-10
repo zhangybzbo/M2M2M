@@ -1,0 +1,22 @@
+1	Any	any	DT	_	2	det
+2	deformation	deformation	NN	_	7	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	circular	circular	JJ	_	6	amod
+6	form	form	NN	_	3	pobj
+7	have	have	VBP	_	0	ROOT
+8	a	a	DT	_	10	det
+9	significant	significant	JJ	_	10	amod
+10	effect	effect	NN	_	7	dobj
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	ability	ability	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	hose	hose	NN	_	14	pobj
+17	to	to	TO	_	18	aux
+18	sustain	sustain	VB	_	13	vmod
+19	internal	internal	JJ	_	20	amod
+20	pressure	pressure	NN	_	18	dobj
+21	.	.	.	_	7	punct
+

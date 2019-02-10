@@ -1,0 +1,24 @@
+1	Ellis	Ellis	NNP	_	3	nsubj
+2	was	be	VBD	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	4	pobj
+6	so	so	RB	_	7	advmod
+7	called	call	VBN	_	5	vmod
+8	bratpack	bratpack	NN	_	7	dep
+9	of	of	IN	_	8	prep
+10	American	american	JJ	_	11	amod
+11	authors	author	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	1980	1980	CD	_	12	pobj
+15	's	's	POS	_	14	possessive
+16	along	along	IN	_	14	prep
+17	with	with	IN	_	16	pcomp
+18	Jay	Jay	NNP	_	19	nn
+19	McInerney	McInerney	NNP	_	17	pobj
+20	and	and	CC	_	19	cc
+21	Tama	Tama	NNP	_	22	nn
+22	Janowitz	Janowitz	NNP	_	19	conj
+23	.	.	.	_	3	punct
+

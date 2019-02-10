@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	aircraft	aircraft	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	making	make	VBG	_	0	ROOT
+5	a	a	DT	_	7	det
+6	third	third	JJ	_	7	amod
+7	approach	approach	NN	_	4	dobj
+8	to	to	TO	_	7	prep
+9	Irkutsk	Irkutsk	NNP	_	8	pobj
+10	,	,	,	_	9	punct
+11	a	a	DT	_	9	appos
+12	scheduled	schedule	VBN	_	11	vmod
+13	refueling	refuel	VBG	_	12	dep
+14	stop	stop	NN	_	13	dobj
+15	,	,	,	_	9	punct
+16	when	when	WRB	_	18	advmod
+17	it	it	PRP	_	18	nsubj
+18	crashed	crash	VBD	_	4	advcl
+19	.	.	.	_	4	punct
+

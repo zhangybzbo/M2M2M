@@ -1,0 +1,18 @@
+1	Veuve	Veuve	NNP	_	2	nn
+2	Clicquot	Clicquot	NNP	_	6	poss
+3	's	's	POS	_	2	possessive
+4	Yellow	Yellow	NNP	_	6	nn
+5	Label	label	NN	_	6	nn
+6	wine	wine	NN	_	11	nsubjpass
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	jeroboam	jeroboam	NN	_	7	pobj
+10	is	be	VBZ	_	11	auxpass
+11	aged	age	VBN	_	0	ROOT
+12	for	for	IN	_	11	prep
+13	up	up	RB	_	15	quantmod
+14	to	to	TO	_	15	dep
+15	15	15	CD	_	16	num
+16	years	year	NNS	_	12	pobj
+17	.	.	.	_	11	punct
+

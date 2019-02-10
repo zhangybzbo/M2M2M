@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	1858	1858	CD	_	3	num
+3	exhibition	exhibition	NN	_	7	nsubj
+4	was	be	VBD	_	7	cop
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	exhibition	exhibition	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	photographs	photograph	NNS	_	8	pobj
+10	to	to	TO	_	12	aux
+11	be	be	VB	_	12	auxpass
+12	held	hold	VBN	_	9	vmod
+13	in	in	IN	_	12	prep
+14	any	any	DT	_	15	det
+15	museum	museum	NN	_	13	pobj
+16	.	.	.	_	7	punct
+

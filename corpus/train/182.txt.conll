@@ -1,0 +1,27 @@
+1	Isolated	isolate	VBN	_	2	amod
+2	fractures	fracture	NNS	_	15	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	shaft	shaft	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	ulna	ulna	NN	_	6	pobj
+9	,	,	,	_	2	punct
+10	without	without	IN	_	2	prep
+11	other	other	JJ	_	12	amod
+12	fractures	fracture	NNS	_	10	pobj
+13	,	,	,	_	2	punct
+14	often	often	RB	_	15	advmod
+15	result	result	VBP	_	0	ROOT
+16	when	when	WRB	_	20	advmod
+17	the	the	DT	_	18	det
+18	forearm	forearm	NN	_	20	nsubjpass
+19	is	be	VBZ	_	20	auxpass
+20	raised	raise	VBN	_	15	advcl
+21	to	to	TO	_	22	aux
+22	fend	fend	VB	_	20	xcomp
+23	off	off	RP	_	22	prt
+24	a	a	DT	_	25	det
+25	blow	blow	NN	_	22	dobj
+26	.	.	.	_	15	punct
+

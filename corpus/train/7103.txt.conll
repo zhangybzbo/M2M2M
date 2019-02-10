@@ -1,0 +1,20 @@
+1	Anybody	anybody	NN	_	8	nsubj
+2	who	who	WP	_	3	nsubj
+3	has	have	VBZ	_	1	rcmod
+4	a	a	DT	_	5	det
+5	peep	peep	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	chickens	chicken	NNS	_	6	pobj
+8	has	have	VBZ	_	0	ROOT
+9	an	a	DT	_	10	det
+10	opportunity	opportunity	NN	_	8	dobj
+11	for	for	IN	_	10	prep
+12	some	some	DT	_	14	det
+13	interesting	interesting	JJ	_	14	amod
+14	observations	observation	NNS	_	11	pobj
+15	and	and	CC	_	14	cc
+16	great	great	JJ	_	18	amod
+17	omelet	omelet	JJ	_	18	amod
+18	material	material	NN	_	14	conj
+19	.	.	.	_	8	punct
+

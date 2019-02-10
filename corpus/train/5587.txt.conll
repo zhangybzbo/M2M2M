@@ -1,0 +1,22 @@
+1	In	in	IN	_	0	ROOT
+2	relation	relation	NN	_	1	pobj
+3	to	to	TO	_	2	prep
+4	the	the	DT	_	5	det
+5	catastrophe	catastrophe	NN	_	3	pobj
+6	caused	cause	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	rains	rain	NNS	_	7	pobj
+10	of	of	IN	_	9	prep
+11	recent	recent	JJ	_	12	amod
+12	days	day	NNS	_	10	pobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	Sierra	Sierra	NNP	_	13	pobj
+16	and	and	CC	_	15	cc
+17	Coastal	Coastal	NNP	_	18	nn
+18	zones	zone	NNS	_	15	conj
+19	of	of	IN	_	15	prep
+20	Chiapas	Chiapas	NNP	_	19	pobj
+21	.	.	.	_	1	punct
+

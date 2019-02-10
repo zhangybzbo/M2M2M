@@ -1,0 +1,3 @@
+T1	Term 2 7	train
+T2	Term 19 25	cattle
+R1	Entity-Destination Arg1:T1 Arg2:T2

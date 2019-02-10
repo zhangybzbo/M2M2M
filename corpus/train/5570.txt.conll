@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	Affiliate	Affiliate	NNP	_	3	nn
+3	Classroom	Classroom	NNP	_	4	nsubj
+4	promotes	promote	VBZ	_	0	ROOT
+5	the	the	DT	_	7	det
+6	direct	direct	JJ	_	7	amod
+7	sales	sale	NNS	_	4	dobj
+8	and	and	CC	_	4	cc
+9	gets	get	VBZ	_	4	conj
+10	commission	commission	NN	_	9	dobj
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	selling	selling	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	products	product	NNS	_	14	pobj
+16	.	.	.	_	4	punct
+

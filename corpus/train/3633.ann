@@ -1,0 +1,3 @@
+T1	Term 86 95	radiation
+T2	Term 105 108	sun
+R1	Cause-Effect Arg1:T2 Arg2:T1

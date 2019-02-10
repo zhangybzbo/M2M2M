@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	Earth	Earth	NNP	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	center	center	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	universe	universe	NN	_	6	pobj
+9	,	,	,	_	5	punct
+10	and	and	CC	_	5	cc
+11	the	the	DT	_	12	det
+12	sky	sky	NN	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	enclosed	enclose	VBN	_	5	conj
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	dome	dome	NN	_	15	pobj
+18	.	.	.	_	5	punct
+

@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	experiment	experiment	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	performed	perform	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	aqueous	aqueous	JJ	_	8	amod
+8	solution	solution	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	strong	strong	JJ	_	12	amod
+12	acid	acid	NN	_	9	pobj
+13	inside	inside	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	flask	flask	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

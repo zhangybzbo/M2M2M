@@ -1,0 +1,12 @@
+0	50	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="artist" pos="NNS" nsubj="t2"
+12	17	tok id="t2" base="carve" pos="VBP" ROOT="ROOT"
+18	22	tok id="t3" base="away" pos="RB" advmod="t2"
+23	26	tok id="t4" base="the" pos="DT" det="t5"
+27	34	tok id="t5" base="surface" pos="NN" dobj="t2"
+35	39	tok id="t6" base="with" pos="IN" prep="t2"
+40	41	tok id="t7" base="a" pos="DT" det="t8"
+42	48	tok id="t8" base="chisel" pos="VBP" pobj="t6"
+49	50	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

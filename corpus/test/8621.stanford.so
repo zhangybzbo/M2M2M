@@ -1,0 +1,10 @@
+0	43	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="pollution" pos="NN" nsubjpass="t3"
+14	17	tok id="t2" base="be" pos="VBD" auxpass="t3"
+18	24	tok id="t3" base="cause" pos="VBN" ROOT="ROOT"
+25	27	tok id="t4" base="by" pos="IN" prep="t3"
+28	31	tok id="t5" base="the" pos="DT" det="t6"
+32	41	tok id="t6" base="shipwreck" pos="NN" pobj="t4"
+42	43	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,18 @@
+1	National	National	NNP	_	3	nn
+2	Geographic	Geographic	NNP	_	3	nn
+3	videos	video	NNS	_	4	nsubj
+4	include	include	VBP	_	0	ROOT
+5	several	several	JJ	_	6	amod
+6	tapes	tape	NNS	_	4	dobj
+7	dealing	deal	VBG	_	6	vmod
+8	with	with	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	shrewdness	shrewdness	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	apes	ape	NNS	_	11	pobj
+13	that	that	WDT	_	14	nsubj
+14	dwells	dwell	VBZ	_	10	rcmod
+15	in	in	IN	_	14	prep
+16	Zaire	Zaire	NNP	_	15	pobj
+17	.	.	.	_	4	punct
+

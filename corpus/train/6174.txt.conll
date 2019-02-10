@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj
+2	notice	notice	VBP	_	0	ROOT
+3	that	that	IN	_	11	mark
+4	some	some	DT	_	6	det
+5	Indian	indian	JJ	_	6	amod
+6	actors	actor	NNS	_	11	nsubj
+7	from	from	IN	_	6	prep
+8	Bollywood	Bollywood	NNP	_	9	nn
+9	movies	movie	NNS	_	7	pobj
+10	sometimes	sometimes	RB	_	11	advmod
+11	star	star	VB	_	2	ccomp
+12	in	in	IN	_	11	prep
+13	Punjabi	punjabi	JJ	_	14	amod
+14	movies	movie	NNS	_	12	pobj
+15	.	.	.	_	2	punct
+

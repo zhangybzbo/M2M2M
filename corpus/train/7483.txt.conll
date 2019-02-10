@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	design	design	NN	_	11	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	shape	shape	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	can	can	MD	_	9	aux
+9	ends	end	NNS	_	6	pobj
+10	moreover	moreover	RB	_	9	advmod
+11	has	have	VBZ	_	0	ROOT
+12	a	a	DT	_	14	det
+13	marked	marked	JJ	_	14	amod
+14	effect	effect	NN	_	11	dobj
+15	on	on	IN	_	14	prep
+16	their	they	PRP$	_	17	poss
+17	ability	ability	NN	_	15	pobj
+18	to	to	TO	_	19	aux
+19	resist	resist	VB	_	17	vmod
+20	deformation	deformation	NN	_	19	dobj
+21	from	from	IN	_	19	prep
+22	internal	internal	JJ	_	23	amod
+23	pressure	pressure	NN	_	21	pobj
+24	.	.	.	_	11	punct
+

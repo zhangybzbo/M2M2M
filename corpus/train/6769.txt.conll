@@ -1,0 +1,27 @@
+1	Annie	Annie	NNP	_	3	nn
+2	Mae	Mae	NNP	_	3	nn
+3	Young	Young	NNP	_	5	nsubj
+4	is	be	VBZ	_	5	aux
+5	looking	look	VBG	_	0	ROOT
+6	at	at	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	photograph	photograph	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	quilt	quilt	NN	_	9	pobj
+12	she	she	PRP	_	13	nsubj
+13	pieced	piece	VBD	_	11	rcmod
+14	together	together	RB	_	13	advmod
+15	out	out	IN	_	13	prep
+16	of	of	IN	_	15	pcomp
+17	strips	strip	NNS	_	16	pobj
+18	torn	tear	VBN	_	17	vmod
+19	from	from	IN	_	18	prep
+20	well-worn	well-worn	JJ	_	22	amod
+21	cotton	cotton	NN	_	22	nn
+22	shirts	shirt	NNS	_	19	pobj
+23	and	and	CC	_	22	cc
+24	polyester	polyester	NN	_	25	nn
+25	pants	pants	NNS	_	22	conj
+26	.	.	.	_	5	punct
+

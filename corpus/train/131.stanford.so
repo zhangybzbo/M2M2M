@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="many" pos="JJ" amod="t2"
+5	10	tok id="t1" base="other" pos="JJ" amod="t2"
+11	18	tok id="t2" base="dwarf" pos="NNS" nsubj="t4"
+19	23	tok id="t3" base="also" pos="RB" advmod="t4"
+24	30	tok id="t4" base="hail" pos="VBD" ROOT="ROOT"
+31	35	tok id="t5" base="from" pos="IN" prep="t4"
+36	40	tok id="t6" base="this" pos="DT" det="t8"
+41	49	tok id="t7" base="infamous" pos="JJ" amod="t8"
+50	54	tok id="t8" base="clan" pos="NN" pobj="t5"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

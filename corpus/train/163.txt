@@ -1,0 +1,1 @@
+Initially the user calibrates the microscope with a fluorescence lifetime standard positioned at the sample plane .

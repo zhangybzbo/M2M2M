@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	shocking	shocking	JJ	_	4	amod
+3	macro-economics	macro-economics	NNS	_	4	nn
+4	numbers	number	NNS	_	6	nsubj
+5	have	have	VBP	_	6	aux
+6	postponed	postpone	VBN	_	0	ROOT
+7	the	the	DT	_	8	det
+8	recovery	recovery	NN	_	6	dobj
+9	to	to	TO	_	8	prep
+10	next	next	JJ	_	11	amod
+11	year	year	NN	_	9	pobj
+12	.	.	.	_	6	punct
+

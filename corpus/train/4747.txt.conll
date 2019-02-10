@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	composition	composition	NN	_	10	nsubj
+3	forming	form	VBG	_	2	vmod
+4	the	the	DT	_	5	det
+5	subject	subject	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	present	present	JJ	_	9	amod
+9	invention	invention	NN	_	6	pobj
+10	included	include	VBD	_	0	ROOT
+11	one	one	CD	_	14	num
+12	or	or	CC	_	11	cc
+13	more	more	JJR	_	11	conj
+14	fillers	filler	NNS	_	10	dobj
+15	as	as	IN	_	16	mark
+16	defined	define	VBN	_	14	dep
+17	above	above	IN	_	16	advmod
+18	.	.	.	_	10	punct
+

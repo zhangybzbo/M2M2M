@@ -1,0 +1,15 @@
+1	In	in	IN	_	8	prep
+2	the	the	DT	_	4	det
+3	Western	western	JJ	_	4	amod
+4	Province	Province	NNP	_	1	pobj
+5	the	the	DT	_	6	det
+6	starch	starch	NN	_	8	nsubjpass
+7	is	be	VBZ	_	8	auxpass
+8	stored	store	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	woven	weave	VBN	_	13	amod
+11	palm	palm	NN	_	13	nn
+12	leaf	leaf	NN	_	13	nn
+13	bundles	bundle	NNS	_	9	pobj
+14	.	.	.	_	8	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	melodramatic	melodramatic	JJ	_	3	amod
+3	plot	plot	NN	_	0	ROOT
+4	dealt	deal	VBN	_	3	vmod
+5	with	with	IN	_	4	prep
+6	crises	crisis	NNS	_	5	pobj
+7	of	of	IN	_	6	prep
+8	human	human	JJ	_	9	amod
+9	emotion	emotion	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

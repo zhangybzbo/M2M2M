@@ -1,0 +1,17 @@
+1	Only	only	RB	_	3	advmod
+2	the	the	DT	_	3	det
+3	session	session	NN	_	0	ROOT
+4	identifier	identifier	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	stored	store	VBN	_	3	rcmod
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	cookie	cookie	NN	_	7	pobj
+10	whether	whether	IN	_	13	mark
+11	database	database	NN	_	13	nsubjpass
+12	is	be	VBZ	_	13	auxpass
+13	used	use	VBN	_	6	ccomp
+14	or	or	CC	_	13	cc
+15	not	not	RB	_	13	conj
+16	.	.	.	_	3	punct
+

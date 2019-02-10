@@ -1,0 +1,22 @@
+1	In	in	IN	_	5	prep
+2	Japan	Japan	NNP	_	1	pobj
+3	I	I	PRP	_	5	nsubj
+4	was	be	VBD	_	5	cop
+5	able	able	JJ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	bring	bring	VB	_	5	xcomp
+8	a	a	DT	_	9	det
+9	bottle	bottle	NN	_	7	dobj
+10	with	with	IN	_	7	prep
+11	water	water	NN	_	10	pobj
+12	in	in	IN	_	7	prep
+13	it	it	PRP	_	12	pobj
+14	through	through	IN	_	7	prep
+15	security	security	NN	_	14	pobj
+16	on	on	IN	_	7	prep
+17	my	my	PRP$	_	18	poss
+18	way	way	NN	_	16	pobj
+19	to	to	TO	_	18	prep
+20	Singapore	Singapore	NNP	_	19	pobj
+21	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="a" pos="DT" det="t2"
+3	10	tok id="t1" base="unknown" pos="JJ" amod="t2"
+11	17	tok id="t2" base="source" pos="NN" nsubj="t3"
+18	25	tok id="t3" base="bring" pos="VBD" ROOT="ROOT"
+26	28	tok id="t4" base="a" pos="DT" det="t6"
+29	34	tok id="t5" base="alien" pos="JJ" amod="t6"
+35	39	tok id="t6" base="frog" pos="NN" dobj="t3"
+40	44	tok id="t7" base="into" pos="IN" prep="t3"
+45	48	tok id="t8" base="we" pos="PRP$" poss="t9"
+49	59	tok id="t9" base="eco-system" pos="NN" pobj="t7"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

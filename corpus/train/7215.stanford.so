@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="colorful" pos="JJ" advmod="t6"
+9	10	tok id="t1" base="-COMMA-" pos="," punct="t6"
+11	17	tok id="t2" base="almost" pos="RB" advmod="t3"
+18	26	tok id="t3" base="fat-free" pos="JJ" amod="t5"
+27	32	tok id="t4" base="salad" pos="NN" nn="t5"
+33	42	tok id="t5" base="dressing" pos="NNS" nsubj="t6"
+43	48	tok id="t6" base="start" pos="VBP" ROOT="ROOT"
+49	53	tok id="t7" base="with" pos="IN" prep="t6"
+54	59	tok id="t8" base="fresh" pos="JJ" amod="t9"
+60	65	tok id="t9" base="fruit" pos="NN" pobj="t7"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

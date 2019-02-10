@@ -1,0 +1,24 @@
+1	However	however	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	the	the	DT	_	5	det
+4	Barbary	Barbary	NNP	_	5	nn
+5	macaque	macaque	JJ	_	6	nsubj
+6	grows	grow	VBZ	_	0	ROOT
+7	a	a	DT	_	10	det
+8	big	big	JJ	_	10	amod
+9	thick	thick	JJ	_	10	amod
+10	coat	coat	NN	_	6	dobj
+11	for	for	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	winter	winter	NN	_	11	pobj
+14	,	,	,	_	10	punct
+15	which	which	WDT	_	16	nsubj
+16	means	mean	VBZ	_	10	rcmod
+17	they	they	PRP	_	19	nsubj
+18	can	can	MD	_	19	aux
+19	live	live	VB	_	16	ccomp
+20	outside	outside	IN	_	19	prep
+21	all	all	DT	_	22	det
+22	year	year	NN	_	20	pobj
+23	.	.	.	_	6	punct
+

@@ -1,0 +1,21 @@
+1	Britain	Britain	NNP	_	6	poss
+2	's	's	POS	_	1	possessive
+3	oldest	oldest	JJS	_	6	amod
+4	surviving	survive	VBG	_	6	amod
+5	human	human	JJ	_	6	amod
+6	brain	brain	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	discovered	discover	VBN	_	0	ROOT
+9	inside	inside	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	decapitated	decapitated	JJ	_	12	amod
+12	skull	skull	NN	_	9	pobj
+13	placed	place	VBN	_	12	vmod
+14	in	in	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	small	small	JJ	_	17	amod
+17	pit	pit	NN	_	14	pobj
+18	near	near	IN	_	17	prep
+19	York	York	NNP	_	18	pobj
+20	.	.	.	_	8	punct
+

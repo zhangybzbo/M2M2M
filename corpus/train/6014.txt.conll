@@ -1,0 +1,21 @@
+1	During	during	IN	_	15	prep
+2	the	the	DT	_	3	det
+3	period	period	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	Professor	Professor	NNP	_	7	nn
+6	Mikko	Mikko	NNP	_	7	nn
+7	Niemi	Niemi	NNP	_	4	pobj
+8	-LRB-	-lrb-	-LRB-	_	9	punct
+9	1965-1996	1965-1996	CD	_	7	appos
+10	-RRB-	-rrb-	-RRB-	_	9	punct
+11	the	the	DT	_	12	det
+12	focus	focus	NN	_	15	nsubj
+13	of	of	IN	_	12	prep
+14	research	research	NN	_	13	pobj
+15	was	be	VBD	_	0	ROOT
+16	in	in	IN	_	15	prep
+17	male	male	JJ	_	19	amod
+18	reproduction	reproduction	NN	_	19	nn
+19	biology	biology	NN	_	16	pobj
+20	.	.	.	_	15	punct
+

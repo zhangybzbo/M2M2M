@@ -1,0 +1,22 @@
+1	After	after	IN	_	7	prep
+2	various	various	JJ	_	3	amod
+3	rituals	ritual	NNS	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	oracle	oracle	NN	_	7	nsubj
+7	brought	bring	VBD	_	0	ROOT
+8	forth	forth	RB	_	7	advmod
+9	mysteriously	mysteriously	RB	_	7	advmod
+10	cryptic	cryptic	JJ	_	11	amod
+11	answers	answer	NNS	_	7	dobj
+12	that	that	WDT	_	13	nsubj
+13	had	have	VBD	_	11	rcmod
+14	somehow	somehow	RB	_	13	advmod
+15	to	to	TO	_	17	aux
+16	be	be	VB	_	17	auxpass
+17	interpreted	interpret	VBN	_	13	xcomp
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	visitor	visitor	NN	_	18	pobj
+21	.	.	.	_	7	punct
+

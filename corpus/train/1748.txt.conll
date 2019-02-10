@@ -1,0 +1,14 @@
+1	He	he	PRP	_	2	nsubj
+2	needs	need	VBZ	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	capture	capture	VB	_	2	xcomp
+5	22nd	22nd	JJ	_	7	amod
+6	century	century	NN	_	7	nn
+7	criminals	criminal	NNS	_	4	dobj
+8	who	who	WP	_	10	nsubj
+9	have	have	VBP	_	10	aux
+10	escaped	escape	VBN	_	7	rcmod
+11	by	by	IN	_	10	prep
+12	time-traveling	time-traveling	JJ	_	11	pobj
+13	.	.	.	_	2	punct
+

@@ -1,0 +1,21 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	very	very	RB	_	4	advmod
+4	realistic	realistic	JJ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	the	the	DT	_	7	det
+7	crimes	crime	NNS	_	15	nsubj
+8	that	that	WDT	_	10	nsubjpass
+9	are	be	VBP	_	10	auxpass
+10	investigated	investigate	VBN	_	7	rcmod
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	show	show	NN	_	11	pobj
+14	are	be	VBP	_	15	cop
+15	crimes	crime	NNS	_	4	conj
+16	that	that	WDT	_	19	nsubj
+17	have	have	VBP	_	19	aux
+18	actually	actually	RB	_	19	advmod
+19	occured	occur	VBN	_	15	rcmod
+20	.	.	.	_	4	punct
+

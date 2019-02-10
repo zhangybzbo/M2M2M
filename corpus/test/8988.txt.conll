@@ -1,0 +1,15 @@
+1	PSA	psa	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	chemical	chemical	NN	_	0	ROOT
+5	produced	produce	VBD	_	4	vmod
+6	exclusively	exclusively	RB	_	5	advmod
+7	by	by	IN	_	5	prep
+8	the	the	DT	_	10	det
+9	prostate	prostate	NN	_	10	nn
+10	gland	gland	NN	_	7	pobj
+11	to	to	TO	_	12	aux
+12	liquefy	liquefy	VB	_	5	xcomp
+13	semen	semen	NN	_	12	dobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	Human	human	JJ	_	3	amod
+2	rights	rights	NNS	_	3	nn
+3	advocates	advocate	NNS	_	4	nsubj
+4	lit	light	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	flame	flame	NN	_	4	dobj
+7	to	to	TO	_	8	aux
+8	press	press	VB	_	4	vmod
+9	the	the	DT	_	11	det
+10	international	international	JJ	_	11	amod
+11	community	community	NN	_	8	dobj
+12	-	-	:	_	11	punct
+13	especially	especially	RB	_	14	advmod
+14	China	China	NNP	_	11	dep
+15	-	-	:	_	14	punct
+16	to	to	TO	_	17	aux
+17	bring	bring	VB	_	14	vmod
+18	security	security	NN	_	17	dobj
+19	to	to	TO	_	17	prep
+20	Darfur	Darfur	NNP	_	19	pobj
+21	,	,	,	_	20	punct
+22	Sudan	Sudan	NNP	_	20	appos
+23	.	.	.	_	4	punct
+

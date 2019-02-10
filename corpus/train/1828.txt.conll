@@ -1,0 +1,15 @@
+1	Iraqi	iraqi	JJ	_	2	amod
+2	soldiers	soldier	NNS	_	3	nsubj
+3	inspect	inspect	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	damage	damage	NN	_	3	dobj
+6	after	after	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	explosion	explosion	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	school	school	NN	_	9	pobj
+12	in	in	IN	_	11	prep
+13	Baghdad	Baghdad	NNP	_	12	pobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,21 @@
+1	Immediately	immediately	RB	_	4	advmod
+2	a	a	DT	_	4	det
+3	soft	soft	JJ	_	4	amod
+4	glow	glow	NN	_	5	nsubj
+5	appeared	appear	VBD	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	her	she	PRP$	_	9	poss
+8	lovely	lovely	JJ	_	9	amod
+9	face	face	NN	_	6	pobj
+10	as	as	IN	_	14	mark
+11	the	the	DT	_	12	det
+12	light	light	NN	_	14	nsubj
+13	was	be	VBD	_	14	aux
+14	radiating	radiate	VBG	_	5	advcl
+15	from	from	IN	_	14	prep
+16	her	she	PRP$	_	19	poss
+17	soft	soft	JJ	_	19	amod
+18	winged	winged	JJ	_	19	amod
+19	friend	friend	NN	_	15	pobj
+20	.	.	.	_	5	punct
+

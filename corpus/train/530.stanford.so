@@ -1,0 +1,12 @@
+0	50	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="murder" pos="NN" nsubj="t3"
+11	14	tok id="t2" base="have" pos="VBZ" aux="t3"
+15	22	tok id="t3" base="drag" pos="VBN" ROOT="ROOT"
+23	26	tok id="t4" base="the" pos="DT" det="t5"
+27	33	tok id="t5" base="victim" pos="NN" dobj="t3"
+34	38	tok id="t6" base="into" pos="IN" prep="t3"
+39	42	tok id="t7" base="the" pos="DT" det="t8"
+43	48	tok id="t8" base="water" pos="NN" pobj="t6"
+49	50	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

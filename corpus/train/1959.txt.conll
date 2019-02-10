@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	judge	judge	NN	_	3	nsubj
+3	directed	direct	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	court	court	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	decide	decide	VB	_	3	vmod
+8	the	the	DT	_	10	det
+9	preliminary	preliminary	JJ	_	10	amod
+10	issue	issue	NN	_	7	dobj
+11	raised	raise	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	petitioner	petitioner	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

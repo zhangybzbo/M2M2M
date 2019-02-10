@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	payment	payment	NN	_	2	dobj
+5	to	to	TO	_	2	prep
+6	the	the	DT	_	9	det
+7	registered	register	VBN	_	9	amod
+8	email	email	NN	_	9	nn
+9	address	address	NN	_	5	pobj
+10	in	in	IN	_	9	prep
+11	sandbox	sandbox	NN	_	10	pobj
+12	.	.	.	_	2	punct
+

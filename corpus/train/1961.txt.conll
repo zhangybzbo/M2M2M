@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	grabed	grabe	VBD	_	0	ROOT
+3	one	one	CD	_	4	num
+4	end	end	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	broom	broom	NN	_	8	nn
+8	stick	stick	NN	_	5	pobj
+9	as	as	IN	_	11	mark
+10	they	they	PRP	_	11	nsubj
+11	grab	grab	VBP	_	2	advcl
+12	the	the	DT	_	14	det
+13	other	other	JJ	_	14	amod
+14	end	end	NN	_	11	dobj
+15	.	.	.	_	2	punct
+

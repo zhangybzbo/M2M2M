@@ -1,0 +1,22 @@
+1	The	the	DT	_	6	nsubj
+2	v	v	LS	_	6	dep
+3	=	=	SYM	_	6	dep
+4	1	1	CD	_	5	num
+5	emission	emission	NN	_	6	nsubj
+6	originates	originate	VBZ	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	an	a	DT	_	12	det
+9	80	80	CD	_	12	num
+10	AU	au	NN	_	12	nn
+11	diameter	diameter	NN	_	12	nn
+12	ring	ring	NN	_	7	pobj
+13	of	of	IN	_	12	prep
+14	maser	maser	NN	_	15	nn
+15	spots	spot	NNS	_	13	pobj
+16	centered	center	VBN	_	15	vmod
+17	on	on	IN	_	16	prep
+18	radio	radio	NN	_	20	nn
+19	continuum	continuum	NN	_	20	nn
+20	source	source	NN	_	17	pobj
+21	I.	i.	NN	_	20	dep
+

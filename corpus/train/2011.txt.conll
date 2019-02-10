@@ -1,0 +1,16 @@
+1	However	however	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	some	some	DT	_	4	det
+4	person	person	NN	_	6	nsubj
+5	had	have	VBD	_	6	aux
+6	broken	break	VBN	_	0	ROOT
+7	the	the	DT	_	8	det
+8	padlock	padlock	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	chain	chain	NN	_	9	pobj
+12	across	across	IN	_	6	prep
+13	the	the	DT	_	14	det
+14	road	road	NN	_	12	pobj
+15	.	.	.	_	6	punct
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	ear	ear	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	mouse	mouse	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	used	use	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	study	study	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

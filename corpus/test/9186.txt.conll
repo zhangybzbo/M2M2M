@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	petition	petition	NN	_	3	nsubj
+3	described	describe	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	oil	oil	NN	_	3	dobj
+6	as	as	IN	_	3	prep
+7	being	be	VBG	_	8	cop
+8	useful	useful	JJ	_	6	pcomp
+9	for	for	IN	_	8	prep
+10	salads	salad	NNS	_	9	pobj
+11	and	and	CC	_	10	cc
+12	culinary	culinary	JJ	_	13	amod
+13	purposes	purpose	NNS	_	10	conj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	As	as	IN	_	3	mark
+2	I	I	PRP	_	3	nsubj
+3	move	move	VBP	_	15	advcl
+4	closer	closer	RBR	_	3	advmod
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	kitchen	kitchen	NN	_	5	pobj
+8	,	,	,	_	15	punct
+9	the	the	DT	_	11	det
+10	steady	steady	JJ	_	11	amod
+11	hum	hum	NN	_	15	nsubj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	refrigerator	refrigerator	NN	_	12	pobj
+15	grows	grow	VBZ	_	0	ROOT
+16	stronger	stronger	JJR	_	15	acomp
+17	.	.	.	_	15	punct
+

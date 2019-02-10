@@ -1,0 +1,24 @@
+1	This	this	DT	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	due	due	JJ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	amount	amount	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	sand	sand	NN	_	7	pobj
+9	in	in	IN	_	6	prep
+10	the	the	DT	_	11	det
+11	hourglass	hourglass	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	the	the	DT	_	14	det
+14	size	size	NN	_	11	conj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	hole	hole	NN	_	15	pobj
+18	the	the	DT	_	19	det
+19	sand	sand	NN	_	21	nsubj
+20	must	must	MD	_	21	aux
+21	pass	pass	VB	_	17	rcmod
+22	through	through	RB	_	21	advmod
+23	.	.	.	_	3	punct
+

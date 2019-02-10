@@ -1,0 +1,3 @@
+T1	Term 0 6	Famine
+T2	Term 17 24	drought
+R1	Cause-Effect Arg1:T2 Arg2:T1

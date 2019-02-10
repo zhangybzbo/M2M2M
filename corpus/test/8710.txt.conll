@@ -1,0 +1,21 @@
+1	Critical	critical	JJ	_	3	amod
+2	audience	audience	NN	_	3	nn
+3	studies	study	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	migrating	migrate	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	intellectual	intellectual	JJ	_	8	amod
+8	inquiry	inquiry	NN	_	6	pobj
+9	focused	focus	VBD	_	5	dobj
+10	on	on	IN	_	9	prep
+11	participation	participation	NN	_	10	pobj
+12	developing	develop	VBG	_	11	vmod
+13	the	the	DT	_	14	det
+14	stress	stress	NN	_	12	dobj
+15	on	on	IN	_	12	prep
+16	processes	process	NNS	_	15	pobj
+17	of	of	IN	_	16	prep
+18	interactive	interactive	JJ	_	19	amod
+19	engagement	engagement	NN	_	17	pobj
+20	.	.	.	_	5	punct
+

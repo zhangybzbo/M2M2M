@@ -1,0 +1,10 @@
+1	Jane	Jane	NNP	_	2	nsubj
+2	works	work	VBZ	_	0	ROOT
+3	all	all	DT	_	4	det
+4	day	day	NN	_	2	tmod
+5	in	in	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	toy	toy	NN	_	8	nn
+8	factory	factory	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

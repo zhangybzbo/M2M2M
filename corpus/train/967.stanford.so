@@ -1,0 +1,10 @@
+0	48	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="extrusion" pos="NN" nsubj="t2"
+14	18	tok id="t2" base="blow" pos="VBD" ROOT="ROOT"
+19	22	tok id="t3" base="the" pos="DT" det="t4"
+23	30	tok id="t4" base="molding" pos="NN" dobj="t2"
+31	35	tok id="t5" base="into" pos="IN" prep="t2"
+36	46	tok id="t6" base="paperboard" pos="NN" pobj="t5"
+47	48	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

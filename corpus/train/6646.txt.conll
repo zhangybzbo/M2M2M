@@ -1,0 +1,26 @@
+1	Earlier	earlier	RBR	_	3	advmod
+2	this	this	DT	_	3	det
+3	year	year	NN	_	0	ROOT
+4	,	,	,	_	9	punct
+5	the	the	DT	_	6	det
+6	author	author	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	latest	latest	JJS	_	9	amod
+9	novel	novel	NN	_	3	dep
+10	,	,	,	_	9	punct
+11	The	the	DT	_	12	det
+12	Complaints	complaint	NNS	_	20	nsubj
+13	-	-	:	_	20	punct
+14	his	he	PRP$	_	15	poss
+15	first	first	JJ	_	20	dep
+16	since	since	IN	_	20	mark
+17	retiring	retire	VBG	_	20	dep
+18	Rebus	Rebus	NNP	_	20	nsubj
+19	-	-	:	_	18	punct
+20	became	become	VBD	_	9	rcmod
+21	a	a	DT	_	24	det
+22	number	number	NN	_	24	nn
+23	one	one	CD	_	24	num
+24	bestseller	bestseller	NN	_	20	xcomp
+25	.	.	.	_	9	punct
+

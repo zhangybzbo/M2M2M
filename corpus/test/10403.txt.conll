@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	robbers	robber	NNS	_	3	nsubj
+3	ran	run	VBD	_	0	ROOT
+4	away	away	RB	_	3	advmod
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	scene	scene	NN	_	5	pobj
+8	as	as	IN	_	10	mark
+9	he	he	PRP	_	10	nsubj
+10	drove	drive	VBD	_	3	advcl
+11	away	away	RB	_	10	advmod
+12	and	and	CC	_	10	cc
+13	called	call	VBD	_	10	conj
+14	his	he	PRP$	_	15	poss
+15	employer	employer	NN	_	13	dobj
+16	to	to	TO	_	17	aux
+17	report	report	VB	_	13	xcomp
+18	the	the	DT	_	19	det
+19	incident	incident	NN	_	17	dobj
+20	.	.	.	_	3	punct
+

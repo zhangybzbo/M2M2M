@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	ended	end	VBD	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	going	go	VBG	_	2	xcomp
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	doctor	doctor	NN	_	5	pobj
+8	,	,	,	_	2	punct
+9	although	although	IN	_	13	mark
+10	it	it	PRP	_	13	nsubj
+11	was	be	VBD	_	13	aux
+12	just	just	RB	_	13	advmod
+13	coughing	cough	VBG	_	2	advcl
+14	from	from	IN	_	13	prep
+15	allergies	allergy	NNS	_	14	pobj
+16	.	.	.	_	2	punct
+

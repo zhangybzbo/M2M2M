@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	extrusion	extrusion	NN	_	3	nsubj
+3	blew	blow	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	molding	molding	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	paperboard	paperboard	NN	_	6	pobj
+8	.	.	.	_	3	punct
+

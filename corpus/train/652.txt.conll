@@ -1,0 +1,17 @@
+1	In	in	IN	_	7	prep
+2	1594	1594	CD	_	1	pobj
+3	and	and	CC	_	1	cc
+4	in	in	IN	_	1	conj
+5	1608	1608	CD	_	4	pobj
+6	he	he	PRP	_	7	nsubj
+7	published	publish	VBD	_	0	ROOT
+8	an	a	DT	_	9	det
+9	atlas	atla	NN	_	7	dobj
+10	created	create	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	cartographer	cartographer	NN	_	15	nn
+14	Matthias	Matthias	NNP	_	15	nn
+15	Quad	Quad	NNP	_	11	pobj
+16	.	.	.	_	7	punct
+

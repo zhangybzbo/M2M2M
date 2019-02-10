@@ -1,0 +1,24 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	several	several	JJ	_	6	amod
+4	bulk	bulk	NN	_	6	nn
+5	sms	sm	NNS	_	6	nn
+6	software	software	NN	_	13	nsubjpass
+7	and	and	CC	_	6	cc
+8	the	the	DT	_	10	det
+9	popular	popular	JJ	_	10	amod
+10	ones	one	NNS	_	6	conj
+11	can	can	MD	_	13	aux
+12	be	be	VB	_	13	auxpass
+13	purchased	purchase	VBN	_	2	ccomp
+14	online	online	NN	_	13	dobj
+15	after	after	IN	_	13	prep
+16	making	make	VBG	_	15	pcomp
+17	the	the	DT	_	18	det
+18	payment	payment	NN	_	16	dobj
+19	through	through	IN	_	16	prep
+20	secured	secure	VBN	_	22	amod
+21	payment	payment	NN	_	22	nn
+22	gateway	gateway	NN	_	19	pobj
+23	.	.	.	_	2	punct
+

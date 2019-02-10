@@ -1,0 +1,13 @@
+1	Treatment	treatment	NN	_	2	nsubj
+2	consists	consist	VBZ	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	antifungal	antifungal	JJ	_	5	amod
+5	therapy	therapy	NN	_	3	pobj
+6	,	,	,	_	5	punct
+7	surgery	surgery	NN	_	5	conj
+8	,	,	,	_	5	punct
+9	and	and	CC	_	5	cc
+10	supportive	supportive	JJ	_	11	amod
+11	care	care	NN	_	5	conj
+12	.	.	.	_	2	punct
+

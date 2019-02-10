@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	hero	hero	NN	_	4	nsubj
+3	initially	initially	RB	_	4	advmod
+4	attempts	attempt	VBZ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	stop	stop	VB	_	4	xcomp
+7	the	the	DT	_	8	det
+8	train	train	NN	_	6	dobj
+9	with	with	IN	_	6	prep
+10	his	he	PRP$	_	12	poss
+11	own	own	JJ	_	12	amod
+12	strength	strength	NN	_	9	pobj
+13	,	,	,	_	4	punct
+14	but	but	CC	_	4	cc
+15	fails	fail	VBZ	_	4	conj
+16	miserably	miserably	RB	_	15	advmod
+17	and	and	CC	_	15	cc
+18	does	do	VBZ	_	20	aux
+19	n't	not	RB	_	20	neg
+20	slow	slow	VB	_	15	conj
+21	the	the	DT	_	22	det
+22	train	train	NN	_	20	dobj
+23	down	down	RB	_	20	advmod
+24	.	.	.	_	4	punct
+

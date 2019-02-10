@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	vessel	vessel	NN	_	3	nsubj
+3	went	go	VBD	_	12	csubjpass
+4	down	down	RB	_	3	advmod
+5	in	in	IN	_	3	prep
+6	a	a	DT	_	7	det
+7	typhoon	typhoon	NN	_	5	pobj
+8	and	and	CC	_	7	cc
+9	the	the	DT	_	10	det
+10	man	man	NN	_	7	conj
+11	was	be	VBD	_	12	auxpass
+12	discovered	discover	VBN	_	0	ROOT
+13	inside	inside	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	cork	cork	NN	_	16	nn
+16	buffer	buffer	NN	_	13	pobj
+17	used	use	VBN	_	16	vmod
+18	to	to	TO	_	19	aux
+19	prevent	prevent	VB	_	17	xcomp
+20	damage	damage	NN	_	19	dobj
+21	to	to	TO	_	20	prep
+22	the	the	DT	_	23	det
+23	ship	ship	NN	_	21	pobj
+24	during	during	IN	_	19	prep
+25	docking	docking	NN	_	24	pobj
+26	.	.	.	_	12	punct
+

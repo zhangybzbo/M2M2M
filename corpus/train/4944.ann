@@ -1,0 +1,3 @@
+T1	Term 110 115	grief
+T2	Term 126 131	death
+R1	Cause-Effect Arg1:T2 Arg2:T1

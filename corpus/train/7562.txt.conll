@@ -1,0 +1,19 @@
+1	For	for	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	reason	reason	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	hairdresser	hairdresser	NN	_	6	nsubj
+6	prefers	prefer	VBZ	_	0	ROOT
+7	conventional	conventional	JJ	_	8	amod
+8	scissors	scissors	NNS	_	6	dobj
+9	,	,	,	_	8	punct
+10	which	which	WDT	_	14	nsubj
+11	however	however	RB	_	14	advmod
+12	do	do	VBP	_	14	aux
+13	not	not	RB	_	14	neg
+14	exhibit	exhibit	VB	_	8	rcmod
+15	the	the	DT	_	17	det
+16	ergonomical	ergonomical	JJ	_	17	amod
+17	advantages	advantage	NNS	_	14	dobj
+18	.	.	.	_	6	punct
+

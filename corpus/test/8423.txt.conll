@@ -1,0 +1,11 @@
+1	I	I	PRP	_	3	nsubj
+2	accidentally	accidentally	RB	_	3	advmod
+3	dropped	drop	VBD	_	0	ROOT
+4	my	my	PRP$	_	6	poss
+5	mobile	mobile	JJ	_	6	amod
+6	phone	phone	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	toilet	toilet	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

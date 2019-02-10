@@ -1,0 +1,15 @@
+1	There	there	EX	_	2	expl
+2	were	be	VBD	_	0	ROOT
+3	stacks	stack	NNS	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	Verizon	Verizon	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	directories	directory	NNS	_	4	pobj
+8	piled	pile	VBD	_	2	ccomp
+9	up	up	RP	_	8	prt
+10	by	by	IN	_	8	prep
+11	entrances	entrance	NNS	_	10	pobj
+12	of	of	IN	_	11	prep
+13	buldings	bulding	NNS	_	12	pobj
+14	.	.	.	_	2	punct
+

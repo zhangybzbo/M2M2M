@@ -1,0 +1,13 @@
+1	English	English	NNP	_	2	nn
+2	cricket	cricket	NN	_	6	nsubjpass
+3	has	have	VBZ	_	6	aux
+4	now	now	RB	_	6	advmod
+5	been	be	VBN	_	6	auxpass
+6	dragged	drag	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	whole	whole	JJ	_	11	amod
+10	revolting	revolting	JJ	_	11	amod
+11	business	business	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

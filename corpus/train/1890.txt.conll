@@ -1,0 +1,14 @@
+1	It	it	PRP	_	3	nsubj
+2	's	be	VBZ	_	3	cop
+3	funny	funny	JJ	_	0	ROOT
+4	my	my	PRP$	_	5	poss
+5	friend	friend	NN	_	3	dep
+6	just	just	RB	_	7	advmod
+7	used	use	VBN	_	9	amod
+8	agave	agave	NN	_	9	nn
+9	nectar	nectar	NN	_	5	dep
+10	in	in	IN	_	9	prep
+11	his	he	PRP$	_	12	poss
+12	margaritas	margarita	NNS	_	10	pobj
+13	.	.	.	_	3	punct
+

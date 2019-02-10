@@ -1,0 +1,16 @@
+1	Unwrapped	Unwrapped	NNP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	television	television	NN	_	5	nn
+5	program	program	NN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	Food	Food	NNP	_	8	nn
+8	Network	Network	NNP	_	6	pobj
+9	that	that	IN	_	10	nsubj
+10	reveals	reveal	VBZ	_	5	rcmod
+11	the	the	DT	_	12	det
+12	origins	origin	NNS	_	10	dobj
+13	of	of	IN	_	12	prep
+14	foods	food	NNS	_	13	pobj
+15	.	.	.	_	5	punct
+

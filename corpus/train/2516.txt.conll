@@ -1,0 +1,10 @@
+1	My	my	PRP$	_	2	poss
+2	brother	brother	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	entered	enter	VBN	_	0	ROOT
+5	my	my	PRP$	_	6	poss
+6	room	room	NN	_	4	dobj
+7	without	without	IN	_	4	prep
+8	knocking	knock	VBG	_	7	pcomp
+9	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	month	month	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	snowy	snowy	JJ	_	5	amod
+5	sundays	sunday	NNS	_	3	pobj
+6	in	in	IN	_	2	prep
+7	January	January	NNP	_	6	pobj
+8	had	have	VBD	_	0	ROOT
+9	an	a	DT	_	11	det
+10	adverse	adverse	JJ	_	11	amod
+11	impact	impact	NN	_	8	dobj
+12	on	on	IN	_	11	prep
+13	Prospect	Prospect	NNP	_	15	poss
+14	's	's	POS	_	13	possessive
+15	finances	finances	NNS	_	12	pobj
+16	.	.	.	_	8	punct
+

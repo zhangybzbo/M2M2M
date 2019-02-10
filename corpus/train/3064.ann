@@ -1,0 +1,3 @@
+T1	Term 20 28	firebomb
+T2	Term 45 48	lot
+R1	Entity-Destination Arg1:T1 Arg2:T2

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	bottles	bottle	NNS	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	substance	substance	NN	_	6	nn
+6	authorities	authority	NNS	_	7	nsubj
+7	believe	believe	VBP	_	3	ccomp
+8	is	be	VBZ	_	10	cop
+9	human	human	JJ	_	10	amod
+10	fat	fat	NN	_	7	ccomp
+11	.	.	.	_	3	punct
+

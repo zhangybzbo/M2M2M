@@ -1,0 +1,22 @@
+1	I	I	PRP	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	diagnosed	diagnose	VBN	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	bipolar	bipolar	JJ	_	6	amod
+6	disorder	disorder	NN	_	4	pobj
+7	following	follow	VBG	_	3	prep
+8	a	a	DT	_	9	det
+9	breakdown	breakdown	NN	_	7	pobj
+10	triggered	trigger	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	sudden	sudden	JJ	_	14	amod
+14	death	death	NN	_	11	pobj
+15	of	of	IN	_	14	prep
+16	my	my	PRP$	_	17	poss
+17	brother	brother	NN	_	15	pobj
+18	six	six	CD	_	19	num
+19	years	year	NNS	_	20	npadvmod
+20	ago	ago	RB	_	14	advmod
+21	.	.	.	_	3	punct
+

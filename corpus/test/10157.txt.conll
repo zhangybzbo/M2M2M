@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	title	title	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	gives	give	VBZ	_	0	ROOT
+7	you	you	PRP	_	6	iobj
+8	a	a	DT	_	9	det
+9	sense	sense	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	its	its	PRP$	_	12	poss
+12	breadth	breadth	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	scope	scope	NN	_	12	conj
+15	.	.	.	_	6	punct
+

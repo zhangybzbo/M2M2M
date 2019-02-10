@@ -1,0 +1,1 @@
+Consequently , play of a game starts in an initial state , at which players collect payoffs only if they remain in that state so that it becomes the final .

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	statement	statement	NN	_	0	ROOT
+3	below	below	IN	_	2	prep
+4	comes	come	VBZ	_	3	pcomp
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	10	det
+7	Morristown	Morristown	NNP	_	10	nn
+8	Humane	Humane	NNP	_	10	nn
+9	Society	Society	NNP	_	10	nn
+10	website	website	NN	_	5	pobj
+11	.	.	.	_	2	punct
+

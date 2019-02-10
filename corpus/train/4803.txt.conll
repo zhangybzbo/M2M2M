@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	Parthenon	Parthenon	NNP	_	3	nn
+3	frieze	frieze	NN	_	4	nsubj
+4	shows	show	VBZ	_	0	ROOT
+5	racing	race	VBG	_	6	amod
+6	chariots	chariot	NNS	_	4	dobj
+7	ahead	ahead	RB	_	6	advmod
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	cavalcade	cavalcade	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	mounted	mount	VBN	_	13	amod
+13	horsemen	horseman	NNS	_	11	pobj
+14	.	.	.	_	4	punct
+

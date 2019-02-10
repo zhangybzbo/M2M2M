@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	donated	donate	VBN	_	3	amod
+3	money	money	NN	_	4	nsubj
+4	flows	flow	VBZ	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	quake	quake	NN	_	9	nn
+8	recovery	recovery	NN	_	9	nn
+9	projects	project	NNS	_	5	pobj
+10	.	.	.	_	4	punct
+

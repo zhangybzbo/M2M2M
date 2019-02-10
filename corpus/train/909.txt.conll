@@ -1,0 +1,26 @@
+1	His	he	PRP$	_	2	poss
+2	reformation	reformation	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	many	many	JJ	_	3	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	roman	roman	NN	_	8	nn
+8	laws	law	NNS	_	5	pobj
+9	caused	cause	VBD	_	0	ROOT
+10	quite	quite	RB	_	12	advmod
+11	a	a	DT	_	12	det
+12	bit	bit	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	discomfort	discomfort	NN	_	13	pobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	seats	seat	NNS	_	15	pobj
+18	of	of	IN	_	17	prep
+19	power	power	NN	_	18	pobj
+20	at	at	IN	_	17	prep
+21	the	the	DT	_	22	det
+22	house	house	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	senators	senator	NNS	_	23	pobj
+25	.	.	.	_	9	punct
+

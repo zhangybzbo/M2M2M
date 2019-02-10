@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	read	read	VBP	_	0	ROOT
+3	that	that	IN	_	2	prep
+4	interview	interview	NN	_	3	dep
+5	you	you	PRP	_	6	nsubj
+6	did	do	VBD	_	4	rcmod
+7	with	with	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	guy	guy	NN	_	7	pobj
+10	who	who	WP	_	11	nsubj
+11	came	come	VBD	_	9	rcmod
+12	up	up	RP	_	11	prt
+13	with	with	IN	_	11	prep
+14	flash	flash	NN	_	15	nn
+15	mobs	mob	NNS	_	13	pobj
+16	.	.	.	_	2	punct
+

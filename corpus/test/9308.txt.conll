@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	solid	solid	JJ	_	3	amod
+3	fuel	fuel	NN	_	8	nsubj
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	conventional	conventional	JJ	_	7	amod
+7	grill	grill	NN	_	4	pobj
+8	remains	remain	VBZ	_	0	ROOT
+9	stationary	stationary	JJ	_	8	acomp
+10	,	,	,	_	8	punct
+11	unless	unless	IN	_	15	mark
+12	the	the	DT	_	13	det
+13	cook	cook	NN	_	15	nsubj
+14	manually	manually	RB	_	15	advmod
+15	stirs	stir	VBZ	_	8	advcl
+16	the	the	DT	_	17	det
+17	coals	coal	NNS	_	15	dobj
+18	with	with	IN	_	15	prep
+19	a	a	DT	_	20	det
+20	stick	stick	NN	_	18	pobj
+21	or	or	CC	_	20	cc
+22	similar	similar	JJ	_	23	amod
+23	tool	tool	NN	_	20	conj
+24	.	.	.	_	8	punct
+

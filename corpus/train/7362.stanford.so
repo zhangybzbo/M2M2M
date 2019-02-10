@@ -1,0 +1,9 @@
+0	42	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="Biodiesel" pos="NNP" nsubjpass="t2"
+10	12	tok id="t1" base="be" pos="VBZ" auxpass="t2"
+13	20	tok id="t2" base="derive" pos="VBN" ROOT="ROOT"
+21	25	tok id="t3" base="from" pos="IN" prep="t2"
+26	35	tok id="t4" base="vegetable" pos="NN" nn="t5"
+36	40	tok id="t5" base="oils" pos="NNS" pobj="t3"
+41	42	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

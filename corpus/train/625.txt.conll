@@ -1,0 +1,13 @@
+1	Extensive	extensive	JJ	_	2	amod
+2	damage	damage	NN	_	8	nsubjpass
+3	at	at	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	mine	mine	NN	_	3	pobj
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	caused	cause	VBN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	strikers	striker	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	bulbar	bulbar	JJ	_	3	amod
+3	region	region	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	an	a	DT	_	6	det
+6	area	area	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	brain	brain	NN	_	7	pobj
+10	composed	compose	VBN	_	9	vmod
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	11	pobj
+13	cerebellum	cerebellum	NN	_	12	dep
+14	,	,	,	_	13	punct
+15	medulla	medullum	NN	_	13	conj
+16	and	and	CC	_	13	cc
+17	pons	pon	NNS	_	13	conj
+18	.	.	.	_	6	punct
+

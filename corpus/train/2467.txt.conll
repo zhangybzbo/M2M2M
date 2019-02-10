@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	a	a	DT	_	6	det
+4	large	large	JJ	_	6	amod
+5	garbage	garbage	NN	_	6	nn
+6	bag	bag	NN	_	2	dobj
+7	full	full	JJ	_	6	amod
+8	of	of	IN	_	7	prep
+9	clothes	clothes	NNS	_	8	pobj
+10	for	for	IN	_	9	prep
+11	a	a	DT	_	15	det
+12	teen	teen	NN	_	15	nn
+13	or	or	CC	_	12	cc
+14	preteen	preteen	JJ	_	12	conj
+15	girl	girl	NN	_	10	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,17 @@
+1	He	he	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	all	all	PDT	_	5	predet
+4	the	the	DT	_	5	det
+5	water	water	NN	_	2	dobj
+6	he	he	PRP	_	7	nsubj
+7	got	get	VBD	_	5	rcmod
+8	out	out	RP	_	7	prt
+9	from	from	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	oven	oven	NN	_	9	pobj
+12	and	and	CC	_	2	cc
+13	went	go	VBD	_	2	conj
+14	tothe	tothe	NN	_	15	nn
+15	boyer	boyer	NN	_	13	dobj
+16	.	.	.	_	2	punct
+

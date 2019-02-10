@@ -1,0 +1,20 @@
+1	Once	once	RB	_	3	advmod
+2	the	the	DT	_	3	det
+3	list	list	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	relevant	relevant	JJ	_	6	amod
+6	patents	patent	NNS	_	4	pobj
+7	appears	appear	VBZ	_	14	parataxis
+8	,	,	,	_	7	punct
+9	clicking	click	VBG	_	14	csubj
+10	on	on	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	patent	patent	NN	_	13	nn
+13	number	number	NN	_	10	pobj
+14	brings	bring	VBZ	_	0	ROOT
+15	up	up	RP	_	14	prt
+16	the	the	DT	_	18	det
+17	entire	entire	JJ	_	18	amod
+18	patent	patent	NN	_	14	dobj
+19	.	.	.	_	14	punct
+

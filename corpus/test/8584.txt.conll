@@ -1,0 +1,19 @@
+1	Another	another	DT	_	4	det
+2	popular	popular	JJ	_	4	amod
+3	military	military	JJ	_	4	amod
+4	blade	blade	NN	_	7	nsubj
+5	was	be	VBD	_	7	cop
+6	the	the	DT	_	7	det
+7	hyup-do	hyup-do	NN	_	0	ROOT
+8	,	,	,	_	7	punct
+9	a	a	DT	_	13	det
+10	heavy	heavy	JJ	_	13	amod
+11	,	,	,	_	13	punct
+12	long	long	JJ	_	13	amod
+13	sword	sword	NN	_	7	appos
+14	with	with	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	curved	curved	JJ	_	17	amod
+17	blade	blade	NN	_	14	pobj
+18	.	.	.	_	7	punct
+

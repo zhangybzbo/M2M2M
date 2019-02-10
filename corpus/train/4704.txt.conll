@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	researcher	researcher	NN	_	3	nsubj
+3	approached	approach	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	subjects	subject	NNS	_	3	dobj
+6	and	and	CC	_	5	cc
+7	their	they	PRP$	_	8	poss
+8	experiences	experience	NNS	_	5	conj
+9	with	with	IN	_	3	prep
+10	an	a	DT	_	12	det
+11	open	open	JJ	_	12	amod
+12	mind	mind	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

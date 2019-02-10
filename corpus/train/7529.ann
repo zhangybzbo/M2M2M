@@ -1,0 +1,3 @@
+T1	Term 110 118	language
+T2	Term 145 154	designers
+R1	Product-Producer Arg1:T1 Arg2:T2

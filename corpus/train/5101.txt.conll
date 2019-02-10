@@ -1,0 +1,20 @@
+1	In	in	IN	_	12	prep
+2	these	these	DT	_	3	det
+3	cases	case	NNS	_	1	pobj
+4	,	,	,	_	12	punct
+5	the	the	DT	_	6	det
+6	disappointment	disappointment	NN	_	12	nsubjpass
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	purchase	purchase	NN	_	7	pobj
+10	is	be	VBZ	_	12	auxpass
+11	not	not	RB	_	12	neg
+12	forgotten	forget	VBN	_	0	ROOT
+13	over	over	IN	_	12	prep
+14	time	time	NN	_	13	pobj
+15	,	,	,	_	12	punct
+16	but	but	CC	_	12	cc
+17	rather	rather	RB	_	18	advmod
+18	accumulates	accumulate	VBZ	_	12	conj
+19	.	.	.	_	12	punct
+

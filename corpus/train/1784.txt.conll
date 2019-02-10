@@ -1,0 +1,20 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	everyday	everyday	JJ	_	4	amod
+4	actions	action	NNS	_	2	nsubj
+5	that	that	WDT	_	7	nsubj
+6	can	can	MD	_	7	aux
+7	help	help	VB	_	4	rcmod
+8	prevent	prevent	VB	_	7	ccomp
+9	the	the	DT	_	10	det
+10	spread	spread	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	germs	germ	NNS	_	11	pobj
+13	that	that	WDT	_	14	nsubj
+14	cause	cause	VBP	_	12	rcmod
+15	respiratory	respiratory	JJ	_	16	amod
+16	illnesses	illness	NNS	_	14	dobj
+17	like	like	IN	_	16	prep
+18	influenza	influenza	NN	_	17	pobj
+19	.	.	.	_	2	punct
+

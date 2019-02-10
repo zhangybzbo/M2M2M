@@ -1,0 +1,22 @@
+1	He	he	PRP	_	2	nsubj
+2	gets	get	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	door	door	NN	_	5	nsubj
+5	open	open	JJ	_	2	xcomp
+6	easily	easily	RB	_	5	advmod
+7	and	and	CC	_	2	cc
+8	leads	lead	VBZ	_	2	conj
+9	Sam	Sam	NNP	_	8	dobj
+10	inside	inside	IN	_	8	prep
+11	,	,	,	_	2	punct
+12	fingers	finger	NNS	_	13	nsubj
+13	curled	curl	VBD	_	2	conj
+14	into	into	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	front	front	JJ	_	17	amod
+17	pocket	pocket	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	his	he	PRP$	_	20	poss
+20	jeans	jeans	NNS	_	18	pobj
+21	.	.	.	_	2	punct
+

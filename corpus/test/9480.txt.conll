@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	category	category	NN	_	3	nsubj
+3	classifies	classify	VBZ	_	0	ROOT
+4	military	military	JJ	_	5	amod
+5	units	unit	NNS	_	3	dobj
+6	and	and	CC	_	5	cc
+7	formations	formation	NNS	_	5	conj
+8	by	by	IN	_	3	prep
+9	the	the	DT	_	10	det
+10	year	year	NN	_	8	pobj
+11	in	in	IN	_	15	prep
+12	which	which	WDT	_	11	pobj
+13	they	they	PRP	_	15	nsubjpass
+14	were	be	VBD	_	15	auxpass
+15	established	establish	VBN	_	10	rcmod
+16	.	.	.	_	3	punct
+

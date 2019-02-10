@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	contents	contents	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	bag	bag	NN	_	3	pobj
+6	included	include	VBD	_	0	ROOT
+7	numerous	numerous	JJ	_	8	amod
+8	flyers	flyer	NNS	_	6	dobj
+9	from	from	IN	_	8	prep
+10	other	other	JJ	_	12	amod
+11	conference	conference	NN	_	12	nn
+12	sponsors	sponsor	NNS	_	9	pobj
+13	and	and	CC	_	12	cc
+14	exhibitors	exhibitor	NNS	_	12	conj
+15	and	and	CC	_	8	cc
+16	some	some	DT	_	19	det
+17	useful	useful	JJ	_	19	amod
+18	stationery	stationery	NN	_	19	nn
+19	supplies	supplies	NNS	_	8	conj
+20	.	.	.	_	6	punct
+

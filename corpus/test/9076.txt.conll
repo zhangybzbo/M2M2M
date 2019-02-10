@@ -1,0 +1,8 @@
+1	Nitrogen	nitrogen	NN	_	3	nsubj
+2	is	be	VBZ	_	3	aux
+3	falling	fall	VBG	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	remote	remote	JJ	_	6	amod
+6	lakes	lake	NNS	_	4	pobj
+7	.	.	.	_	3	punct
+

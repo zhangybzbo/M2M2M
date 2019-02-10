@@ -1,0 +1,22 @@
+1	Months	month	NNS	_	2	npadvmod
+2	later	later	RB	_	0	ROOT
+3	,	,	,	_	5	punct
+4	the	the	DT	_	5	det
+5	birds	bird	NNS	_	2	dep
+6	composed	compose	VBN	_	5	vmod
+7	the	the	DT	_	8	det
+8	syllables	syllable	NNS	_	6	dobj
+9	into	into	IN	_	8	prep
+10	complete	complete	JJ	_	11	amod
+11	songs	song	NNS	_	9	pobj
+12	,	,	,	_	5	punct
+13	whether	whether	IN	_	16	mark
+14	the	the	DT	_	15	det
+15	songs	song	NNS	_	16	nsubj
+16	matched	match	VBD	_	5	dep
+17	natural	natural	JJ	_	18	amod
+18	patterns	pattern	NNS	_	16	dobj
+19	or	or	CC	_	16	cc
+20	not	not	RB	_	16	conj
+21	.	.	.	_	5	punct
+

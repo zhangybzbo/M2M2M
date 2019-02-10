@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	bring	bring	VB	_	2	xcomp
+5	some	some	DT	_	6	det
+6	cigarettes	cigarette	NNS	_	4	dobj
+7	into	into	IN	_	4	prep
+8	these	these	DT	_	11	det
+9	Middle	Middle	NNP	_	11	nn
+10	Eastern	Eastern	NNP	_	11	nn
+11	countries	country	NNS	_	7	pobj
+12	.	.	.	_	2	punct
+

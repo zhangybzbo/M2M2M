@@ -1,0 +1,17 @@
+1	At	at	IN	_	9	prep
+2	73	73	CD	_	3	num
+3	meters	meter	NNS	_	1	pobj
+4	underwater	underwater	JJ	_	3	amod
+5	,	,	,	_	9	punct
+6	a	a	DT	_	8	det
+7	petty	petty	JJ	_	8	amod
+8	officer	officer	NN	_	9	nsubj
+9	reached	reach	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	surface	surface	NN	_	9	dobj
+12	using	use	VBG	_	9	xcomp
+13	his	he	PRP$	_	15	poss
+14	Drager	Drager	NNP	_	15	nn
+15	apparatus	apparatus	NN	_	12	dobj
+16	.	.	.	_	9	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	subject	subject	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	``	``	``	_	5	punct
+5	imply	imply	VBP	_	3	pcomp
+6	''	''	''	_	5	punct
+7	is	be	VBZ	_	9	cop
+8	the	the	DT	_	9	det
+9	source	source	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	an	a	DT	_	12	det
+12	implication	implication	NN	_	10	pobj
+13	while	while	IN	_	22	mark
+14	the	the	DT	_	15	det
+15	subject	subject	NN	_	22	nsubj
+16	of	of	IN	_	15	prep
+17	``	``	``	_	18	punct
+18	infer	infer	VB	_	16	pcomp
+19	''	''	''	_	18	punct
+20	is	be	VBZ	_	22	cop
+21	the	the	DT	_	22	det
+22	recipient	recipient	JJ	_	9	advcl
+23	of	of	IN	_	22	prep
+24	an	a	DT	_	25	det
+25	implication	implication	NN	_	23	pobj
+26	.	.	.	_	9	punct
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	4	det
+2	annual	annual	JJ	_	4	amod
+3	residence	residence	NN	_	4	nn
+4	league	league	NN	_	19	nsubj
+5	of	of	IN	_	4	prep
+6	various	various	JJ	_	8	amod
+7	sport	sport	NN	_	8	nn
+8	codes	code	NNS	_	5	pobj
+9	,	,	,	_	4	punct
+10	the	the	DT	_	12	det
+11	Mini	Mini	NNP	_	12	nn
+12	Olympics	Olympics	NNPS	_	13	nsubj
+13	held	hold	VBD	_	4	rcmod
+14	during	during	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	September	September	NNP	_	17	nn
+17	break	break	NN	_	14	pobj
+18	has	have	VBZ	_	19	aux
+19	proven	prove	VBN	_	0	ROOT
+20	very	very	RB	_	21	advmod
+21	popular	popular	JJ	_	19	acomp
+22	amongst	amongst	IN	_	19	prep
+23	our	we	PRP$	_	24	poss
+24	students	student	NNS	_	22	pobj
+25	.	.	.	_	19	punct
+

@@ -1,0 +1,20 @@
+1	Obama	Obama	NNP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	adapting	adapt	VBG	_	0	ROOT
+4	the	the	DT	_	5	det
+5	tactic	tactic	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	further	further	VB	_	3	xcomp
+8	the	the	DT	_	11	det
+9	bedrock	bedrock	NN	_	11	nn
+10	American	american	JJ	_	11	amod
+11	principle	principle	NN	_	7	dobj
+12	that	that	WDT	_	14	dobj
+13	everyone	everyone	NN	_	14	nsubj
+14	deserves	deserve	VBZ	_	11	rcmod
+15	a	a	DT	_	16	det
+16	phalanx	phalanx	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	lawyers	lawyer	NNS	_	17	pobj
+19	.	.	.	_	3	punct
+

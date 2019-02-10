@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	biggest	biggest	JJS	_	3	amod
+3	broadcast	broadcast	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	election	election	NN	_	7	nn
+7	eve	eve	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	when	when	WRB	_	15	advmod
+10	a	a	DT	_	11	det
+11	hookup	hookup	NN	_	15	nsubj
+12	of	of	IN	_	11	prep
+13	twenty-six	twenty-six	CD	_	14	num
+14	stations	station	NNS	_	12	pobj
+15	carried	carry	VBD	_	4	advcl
+16	Coolidge	Coolidge	NNP	_	18	poss
+17	's	's	POS	_	16	possessive
+18	speech	speech	NN	_	15	dobj
+19	.	.	.	_	4	punct
+

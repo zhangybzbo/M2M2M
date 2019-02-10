@@ -1,0 +1,10 @@
+1	4300	4300	CD	_	2	num
+2	years	year	NNS	_	3	npadvmod
+3	ago	ago	IN	_	5	advmod
+4	chimps	chimp	NNS	_	5	nsubj
+5	started	start	VBD	_	0	ROOT
+6	making	make	VBG	_	5	xcomp
+7	stone	stone	NN	_	8	nn
+8	tools	tool	NNS	_	6	dobj
+9	.	.	.	_	5	punct
+

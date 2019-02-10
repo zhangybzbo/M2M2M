@@ -1,0 +1,19 @@
+1	Investigations	investigation	NNS	_	3	nsubj
+2	had	have	VBD	_	3	aux
+3	indicated	indicate	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	fire	fire	NN	_	6	nsubj
+6	started	start	VBD	_	3	ccomp
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	airconditioners	airconditioner	NNS	_	7	pobj
+10	because	because	IN	_	17	mark
+11	on	on	IN	_	17	prep
+12	arrival	arrival	NN	_	11	pobj
+13	that	that	WDT	_	16	nsubj
+14	was	be	VBD	_	16	cop
+15	the	the	DT	_	16	det
+16	area	area	NN	_	12	rcmod
+17	engulfed	engulf	VBD	_	6	advcl
+18	.	.	.	_	3	punct
+

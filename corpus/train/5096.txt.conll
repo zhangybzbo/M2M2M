@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	Catalog	catalog	NN	_	11	nsubj
+3	of	of	IN	_	2	prep
+4	Norwegian	Norwegian	NNP	_	6	nn
+5	Research	Research	NNP	_	6	nn
+6	Institutes	Institutes	NNPS	_	3	pobj
+7	and	and	CC	_	6	cc
+8	Laboratories	Laboratories	NNPS	_	6	conj
+9	is	be	VBZ	_	11	cop
+10	a	a	DT	_	11	det
+11	database	database	NN	_	0	ROOT
+12	containing	contain	VBG	_	11	vmod
+13	information	information	NN	_	12	dobj
+14	on	on	IN	_	12	prep
+15	more	more	JJR	_	16	mwe
+16	than	than	IN	_	17	quantmod
+17	110	110	CD	_	18	num
+18	R&D	r&d	NN	_	14	pobj
+19	performing	perform	VBG	_	18	vmod
+20	institutions	institution	NNS	_	19	dobj
+21	in	in	IN	_	19	prep
+22	the	the	DT	_	25	det
+23	Norwegian	norwegian	JJ	_	25	amod
+24	Institute	Institute	NNP	_	25	nn
+25	Sector	Sector	NNP	_	21	pobj
+26	.	.	.	_	11	punct
+

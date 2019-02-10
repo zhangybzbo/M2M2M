@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	debates	debate	NNS	_	3	nn
+3	proposal	proposal	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	still	still	RB	_	4	advmod
+6	under	under	IN	_	4	prep
+7	consideration	consideration	NN	_	6	pobj
+8	,	,	,	_	4	punct
+9	although	although	IN	_	11	mark
+10	there	there	EX	_	11	expl
+11	are	be	VBP	_	4	advcl
+12	potential	potential	JJ	_	13	amod
+13	problems	problem	NNS	_	11	nsubj
+14	.	.	.	_	4	punct
+

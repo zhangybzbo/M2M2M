@@ -1,0 +1,20 @@
+1	He	he	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	author	author	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	eight	eight	CD	_	7	num
+7	books	book	NNS	_	5	pobj
+8	which	which	WDT	_	10	nsubj
+9	have	have	VBP	_	10	aux
+10	charted	chart	VBN	_	7	rcmod
+11	the	the	DT	_	12	det
+12	transformation	transformation	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	Europe	Europe	NNP	_	13	pobj
+15	over	over	IN	_	12	prep
+16	the	the	DT	_	18	det
+17	last	last	JJ	_	18	amod
+18	quarter-century	quarter-century	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

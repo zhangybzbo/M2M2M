@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	pendant	pendant	NN	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	bail	bail	NN	_	6	nn
+6	measure	measure	NN	_	3	pobj
+7	1	1	CD	_	8	number
+8	1/4	1/4	CD	_	6	num
+9	''	''	''	_	2	punct
+10	.	.	.	_	2	punct
+

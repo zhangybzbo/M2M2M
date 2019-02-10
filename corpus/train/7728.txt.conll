@@ -1,0 +1,11 @@
+1	Everybody	everybody	NN	_	5	nsubj
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	region	region	NN	_	2	pobj
+5	experienced	experience	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	tremors	tremor	NNS	_	5	dobj
+8	after	after	IN	_	5	prep
+9	midnight	midnight	NN	_	8	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,3 @@
+T1	Term 10 16	ticker
+T2	Term 45 50	posts
+R1	Entity-Origin Arg1:T1 Arg2:T2

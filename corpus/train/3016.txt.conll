@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	channel	channel	NN	_	3	nsubj
+3	promotes	promote	VBZ	_	0	ROOT
+4	the	the	DT	_	7	det
+5	traditional	traditional	JJ	_	7	amod
+6	outdoor	outdoor	JJ	_	7	amod
+7	activities	activity	NNS	_	3	dobj
+8	that	that	WDT	_	12	nsubj
+9	are	be	VBP	_	12	cop
+10	a	a	DT	_	12	det
+11	vital	vital	JJ	_	12	amod
+12	part	part	NN	_	7	rcmod
+13	of	of	IN	_	12	prep
+14	our	we	PRP$	_	16	poss
+15	national	national	JJ	_	16	amod
+16	heritage	heritage	NN	_	13	pobj
+17	including	include	VBG	_	16	prep
+18	fishing	fishing	NN	_	17	pobj
+19	,	,	,	_	18	punct
+20	hunting	hunting	NN	_	18	conj
+21	and	and	CC	_	18	cc
+22	shooting	shooting	JJ	_	23	amod
+23	sports	sport	NNS	_	18	conj
+24	.	.	.	_	3	punct
+

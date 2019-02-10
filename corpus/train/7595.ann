@@ -1,0 +1,3 @@
+T1	Term 98 102	wine
+T2	Term 108 114	cellar
+R1	Entity-Destination Arg1:T1 Arg2:T2

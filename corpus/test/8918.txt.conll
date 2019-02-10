@@ -1,0 +1,14 @@
+1	At	at	IN	_	9	prep
+2	my	my	PRP$	_	3	poss
+3	work	work	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	an	a	DT	_	7	det
+6	electronic	electronic	JJ	_	7	amod
+7	engineer	engineer	NN	_	9	nsubj
+8	has	have	VBZ	_	9	aux
+9	migrated	migrate	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	embedded	embedded	JJ	_	12	amod
+12	software	software	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

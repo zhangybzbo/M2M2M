@@ -1,0 +1,11 @@
+0	37	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Extra" pos="NNP" nn="t3"
+6	12	tok id="t1" base="virgin" pos="JJ" amod="t3"
+13	18	tok id="t2" base="olive" pos="NN" nn="t3"
+19	22	tok id="t3" base="oil" pos="NN" nsubj="t4"
+23	25	tok id="t4" base="be" pos="VBZ" ROOT="ROOT"
+26	28	tok id="t5" base="in" pos="IN" prep="t4"
+29	30	tok id="t6" base="a" pos="DT" det="t7"
+31	35	tok id="t7" base="cask" pos="NN" pobj="t5"
+36	37	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

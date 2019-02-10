@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	apartment	apartment	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	two	two	CD	_	6	num
+6	bedrooms	bedroom	NNS	_	4	pobj
+7	with	with	IN	_	6	prep
+8	fitted	fitted	JJ	_	9	amod
+9	wardrobes	wardrobe	NNS	_	7	pobj
+10	,	,	,	_	6	punct
+11	two	two	CD	_	12	num
+12	bathrooms	bathroom	NNS	_	6	appos
+13	with	with	IN	_	12	prep
+14	tub	tub	NN	_	13	pobj
+15	,	,	,	_	14	punct
+16	a	a	DT	_	18	det
+17	spacious	spacious	JJ	_	18	amod
+18	kitchen	kitchen	NN	_	14	conj
+19	and	and	CC	_	14	cc
+20	lounge/dining	lounge/dining	VBG	_	21	amod
+21	room	room	NN	_	14	conj
+22	...	...	:	_	3	punct
+

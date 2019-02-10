@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	temperature	temperature	NN	_	8	nsubj
+3	inside	inside	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	car	car	NN	_	3	pobj
+6	was	be	VBD	_	8	cop
+7	79	79	CD	_	8	num
+8	degrees	degree	NNS	_	0	ROOT
+9	.	.	.	_	8	punct
+

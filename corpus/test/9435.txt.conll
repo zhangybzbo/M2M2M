@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	meeting	meeting	NN	_	3	nsubj
+3	decided	decide	VBD	_	0	ROOT
+4	definitively	definitively	RB	_	3	advmod
+5	by	by	IN	_	3	prep
+6	secret	secret	JJ	_	7	amod
+7	vote	vote	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	at	at	IN	_	11	quantmod
+10	least	least	JJS	_	9	mwe
+11	2/3	2/3	CD	_	8	pobj
+12	of	of	IN	_	11	prep
+13	those	those	DT	_	12	pobj
+14	present	present	JJ	_	13	amod
+15	entitled	entitle	VBN	_	14	dep
+16	to	to	TO	_	17	aux
+17	vote	vote	VB	_	15	xcomp
+18	.	.	.	_	3	punct
+

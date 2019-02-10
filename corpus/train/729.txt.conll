@@ -1,0 +1,9 @@
+1	Voters	voter	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	eluded	elude	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	fundamental	fundamental	JJ	_	7	amod
+7	issues	issue	NNS	_	4	pobj
+8	.	.	.	_	3	punct
+

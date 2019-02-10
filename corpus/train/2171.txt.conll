@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	presentation	presentation	NN	_	3	nsubj
+3	generated	generate	VBD	_	0	ROOT
+4	debate	debate	NN	_	3	dobj
+5	and	and	CC	_	3	cc
+6	there	there	EX	_	7	expl
+7	was	be	VBD	_	3	conj
+8	general	general	JJ	_	9	amod
+9	discussion	discussion	NN	_	7	nsubj
+10	on	on	IN	_	9	prep
+11	how	how	WRB	_	15	advmod
+12	journalists	journalist	NNS	_	15	nsubj
+13	can	can	MD	_	15	aux
+14	better	better	RB	_	15	advmod
+15	equip	equip	VB	_	10	pcomp
+16	themselves	themselves	PRP	_	15	dobj
+17	to	to	TO	_	18	aux
+18	handle	handle	VB	_	15	xcomp
+19	the	the	DT	_	20	det
+20	challenges	challenge	NNS	_	18	dobj
+21	.	.	.	_	3	punct
+

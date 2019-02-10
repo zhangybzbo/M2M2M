@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	muscular	muscular	JJ	_	3	amod
+3	dystrophies	dystrophy	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	genetic	genetic	JJ	_	8	amod
+8	defects	defect	NNS	_	6	pobj
+9	,	,	,	_	8	punct
+10	which	which	WDT	_	11	nsubj
+11	means	mean	VBZ	_	8	rcmod
+12	they	they	PRP	_	14	nsubjpass
+13	are	be	VBP	_	14	auxpass
+14	inherited	inherit	VBN	_	11	ccomp
+15	at	at	IN	_	14	prep
+16	birth	birth	NN	_	15	pobj
+17	.	.	.	_	5	punct
+

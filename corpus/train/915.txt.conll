@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	det
+2	Christmas	Christmas	NNP	_	5	tmod
+3	,	,	,	_	5	punct
+4	visitors	visitor	NNS	_	5	nsubj
+5	travelled	travel	VBD	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	vineyard	vineyard	NN	_	6	pobj
+9	by	by	IN	_	5	prep
+10	the	the	DT	_	12	det
+11	free	free	JJ	_	12	amod
+12	bus	bus	NN	_	9	pobj
+13	.	.	.	_	5	punct
+

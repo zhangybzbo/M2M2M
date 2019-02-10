@@ -1,0 +1,14 @@
+1	Tsunamis	Tsunamis	NNP	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	sudden	sudden	JJ	_	7	amod
+7	displacement	displacement	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	large	large	JJ	_	10	amod
+10	volumes	volume	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	water	water	NN	_	11	pobj
+13	.	.	.	_	3	punct
+

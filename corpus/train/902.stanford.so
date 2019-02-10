@@ -1,0 +1,10 @@
+0	31	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="my" pos="PRP$" poss="t1"
+3	7	tok id="t1" base="gun" pos="NNS" nsubjpass="t3"
+8	11	tok id="t2" base="be" pos="VBP" auxpass="t3"
+12	18	tok id="t3" base="lock" pos="VBN" ROOT="ROOT"
+19	21	tok id="t4" base="in" pos="IN" prep="t3"
+22	24	tok id="t5" base="my" pos="PRP$" poss="t6"
+25	29	tok id="t6" base="room" pos="NN" pobj="t4"
+30	31	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

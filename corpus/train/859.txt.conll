@@ -1,0 +1,14 @@
+1	This	this	DT	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	more	more	JJR	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	production	production	NN	_	8	nn
+7	machine	machine	NN	_	8	nn
+8	stitching	stitching	NN	_	4	pobj
+9	600	600	CD	_	10	num
+10	stitches	stitch	NNS	_	8	dep
+11	per	per	IN	_	10	prep
+12	minute	minute	NN	_	11	pobj
+13	.	.	.	_	3	punct
+

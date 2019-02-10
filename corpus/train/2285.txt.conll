@@ -1,0 +1,10 @@
+1	Audiences	audience	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	dragged	drag	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	Troi	Troi	NNP	_	8	poss
+6	's	's	POS	_	5	possessive
+7	counseling	counseling	NN	_	8	nn
+8	sessions	session	NNS	_	4	pobj
+9	.	.	.	_	3	punct
+

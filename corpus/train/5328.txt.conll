@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	accommodation	accommodation	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	hall	hall	NN	_	7	nn
+5	,	,	,	_	7	punct
+6	dining	dining	NN	_	7	nn
+7	room	room	NN	_	3	dobj
+8	,	,	,	_	3	punct
+9	extended	extend	VBD	_	3	dep
+10	lounge	lounge	NN	_	9	dobj
+11	,	,	,	_	10	punct
+12	kitchen	kitchen	NN	_	10	conj
+13	,	,	,	_	10	punct
+14	two	two	CD	_	16	num
+15	double	double	JJ	_	16	amod
+16	bedrooms	bedroom	NNS	_	10	conj
+17	,	,	,	_	10	punct
+18	single	single	JJ	_	19	amod
+19	bedroom	bedroom	NN	_	10	conj
+20	,	,	,	_	10	punct
+21	shower	shower	NN	_	22	nn
+22	room	room	NN	_	10	appos
+23	.	.	.	_	3	punct
+

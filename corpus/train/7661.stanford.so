@@ -1,0 +1,12 @@
+0	42	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="in" pos="IN" prep="t6"
+3	6	tok id="t1" base="any" pos="DT" det="t2"
+7	11	tok id="t2" base="case" pos="NN" pobj="t0"
+12	13	tok id="t3" base="-COMMA-" pos="," punct="t6"
+14	18	tok id="t4" base="fish" pos="NN" nn="t5"
+19	22	tok id="t5" base="oil" pos="NN" nsubj="t6"
+23	26	tok id="t6" base="do" pos="VBD" ROOT="ROOT"
+27	31	tok id="t7" base="harm" pos="NN" nn="t8"
+32	40	tok id="t8" base="patient" pos="NNS" dobj="t6"
+41	42	tok id="t9" base="-PERIOD-" pos="." punct="t6"
+

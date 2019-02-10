@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	collision	collision	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	two	two	CD	_	7	num
+6	more	more	JJR	_	7	amod
+7	crashes	crash	NNS	_	4	pobj
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	intersection	intersection	NN	_	8	pobj
+11	,	,	,	_	7	punct
+12	including	include	VBG	_	7	prep
+13	a	a	DT	_	16	det
+14	Central	Central	NNP	_	16	nn
+15	Concrete	Concrete	NNP	_	16	nn
+16	truck	truck	NN	_	12	pobj
+17	that	that	WDT	_	19	nsubj
+18	was	be	VBD	_	19	aux
+19	about	about	IN	_	16	rcmod
+20	to	to	TO	_	21	aux
+21	turn	turn	VB	_	19	xcomp
+22	left	left	JJ	_	21	acomp
+23	onto	onto	IN	_	22	prep
+24	College	College	NNP	_	25	nn
+25	Ave.	Ave.	NNP	_	23	pobj
+

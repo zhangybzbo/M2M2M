@@ -1,0 +1,12 @@
+1	He	he	PRP	_	4	nsubj
+2	has	have	VBZ	_	4	aux
+3	been	be	VBN	_	4	aux
+4	draining	drain	VBG	_	0	ROOT
+5	the	the	DT	_	6	det
+6	wetlands	wetland	NNS	_	4	dobj
+7	into	into	IN	_	4	prep
+8	Federally	federally	RB	_	9	advmod
+9	owned	own	VBN	_	10	amod
+10	ditches	ditch	NNS	_	7	pobj
+11	.	.	.	_	4	punct
+

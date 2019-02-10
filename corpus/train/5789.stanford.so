@@ -1,0 +1,10 @@
+0	43	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="real" pos="JJ" amod="t1"
+5	11	tok id="t1" base="estate" pos="NN" nsubj="t2"
+12	18	tok id="t2" base="build" pos="VBZ" ROOT="ROOT"
+19	25	tok id="t3" base="itself" pos="PRP" dobj="t2"
+26	29	tok id="t4" base="out" pos="IN" prep="t2"
+30	32	tok id="t5" base="of" pos="IN" pcomp="t4"
+33	41	tok id="t6" base="downturn" pos="NN" pobj="t5"
+42	43	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

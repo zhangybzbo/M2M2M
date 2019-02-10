@@ -1,0 +1,13 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="two" pos="CD" num="t2"
+4	14	tok id="t1" base="extra-time" pos="JJ" amod="t2"
+15	20	tok id="t2" base="goal" pos="NNS" nsubj="t3"
+21	25	tok id="t3" base="send" pos="VBD" ROOT="ROOT"
+26	29	tok id="t4" base="the" pos="DT" det="t5"
+30	34	tok id="t5" base="team" pos="NN" dobj="t3"
+35	39	tok id="t6" base="into" pos="IN" prep="t3"
+40	43	tok id="t7" base="the" pos="DT" det="t8"
+44	51	tok id="t8" base="Carling" pos="NNP" pobj="t6"
+52	57	tok id="t9" base="final" pos="JJ" amod="t8"
+58	59	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

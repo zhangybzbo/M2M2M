@@ -1,0 +1,11 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	great	great	JJ	_	4	amod
+4	concern	concern	NN	_	2	nsubj
+5	among	among	IN	_	4	prep
+6	voters	voter	NNS	_	5	pobj
+7	over	over	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	economy	economy	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

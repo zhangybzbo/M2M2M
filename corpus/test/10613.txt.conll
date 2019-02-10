@@ -1,0 +1,14 @@
+1	He	he	PRP	_	2	nsubj
+2	posted	post	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	gifts	gift	NNS	_	2	dobj
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	8	det
+7	military	military	JJ	_	8	amod
+8	base	base	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	Middle	Middle	NNP	_	12	nn
+11	East	East	NNP	_	12	nn
+12	Asia	Asia	NNP	_	9	pobj
+13	.	.	.	_	2	punct
+

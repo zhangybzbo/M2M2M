@@ -1,0 +1,15 @@
+1	Boils	boil	NNS	_	5	nsubjpass
+2	or	or	CC	_	1	cc
+3	furuncles	furuncle	NNS	_	1	conj
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	staphylococcal	staphylococcal	JJ	_	9	amod
+8	bacterial	bacterial	JJ	_	9	amod
+9	infections	infection	NNS	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	hair	hair	NN	_	13	nn
+13	follicles	follicle	NNS	_	10	pobj
+14	.	.	.	_	5	punct
+

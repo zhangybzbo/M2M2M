@@ -1,0 +1,19 @@
+1	In	in	IN	_	15	prep
+2	a	a	DT	_	4	det
+3	recent	recent	JJ	_	4	amod
+4	emendation	emendation	NN	_	1	pobj
+5	,	,	,	_	15	punct
+6	formation	formation	NN	_	15	nsubjpass
+7	of	of	IN	_	6	prep
+8	parties	party	NNS	_	7	pobj
+9	on	on	IN	_	6	prep
+10	religious	religious	JJ	_	11	amod
+11	basis	basis	NN	_	9	pobj
+12	has	have	VBZ	_	15	aux
+13	been	be	VBN	_	15	auxpass
+14	strictly	strictly	RB	_	15	advmod
+15	prohibited	prohibit	VBN	_	0	ROOT
+16	in	in	IN	_	15	prep
+17	Egypt	Egypt	NNP	_	16	pobj
+18	.	.	.	_	15	punct
+

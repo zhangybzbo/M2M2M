@@ -1,0 +1,16 @@
+1	These	these	DT	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	memorable	memorable	JJ	_	4	amod
+4	words	word	NNS	_	0	ROOT
+5	written	write	VBN	_	4	vmod
+6	on	on	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	piece	piece	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	paper	paper	NN	_	9	pobj
+11	kept	keep	VBN	_	8	vmod
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	museum	museum	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

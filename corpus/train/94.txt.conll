@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	det
+2	user	user	NN	_	3	nsubj
+3	plays	play	VBZ	_	0	ROOT
+4	games	game	NNS	_	3	dobj
+5	on	on	IN	_	3	prep
+6	a	a	DT	_	8	det
+7	portable	portable	JJ	_	8	amod
+8	console	console	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

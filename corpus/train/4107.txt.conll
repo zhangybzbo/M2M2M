@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	directive	directive	NN	_	3	nsubj
+3	applied	apply	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	discrimination	discrimination	NN	_	4	pobj
+6	on	on	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	basis	basis	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	gender	gender	NN	_	11	nn
+11	reassignment	reassignment	NN	_	9	pobj
+12	as	as	RB	_	13	advmod
+13	well	well	RB	_	3	cc
+14	as	as	IN	_	13	mwe
+15	discrimination	discrimination	NN	_	3	conj
+16	on	on	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	basis	basis	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	sex	sex	NN	_	19	pobj
+21	alone	alone	RB	_	20	advmod
+22	.	.	.	_	3	punct
+

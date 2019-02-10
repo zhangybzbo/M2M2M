@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	situation	situation	NN	_	0	ROOT
+3	called	call	VBN	_	2	vmod
+4	for	for	IN	_	3	prep
+5	peanut	peanut	NN	_	7	nn
+6	butter	butter	NN	_	7	nn
+7	cookies	cookie	NNS	_	4	pobj
+8	baked	baked	JJ	_	7	amod
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	simplest	simplest	JJS	_	12	amod
+12	recipe	recipe	NN	_	9	pobj
+13	imaginable	imaginable	JJ	_	12	amod
+14	.	.	.	_	2	punct
+

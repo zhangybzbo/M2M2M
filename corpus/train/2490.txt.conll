@@ -1,0 +1,13 @@
+1	Various	various	JJ	_	2	amod
+2	studies	study	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	conducted	conduct	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	regard	regard	NN	_	6	pobj
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	11	det
+10	above	above	JJ	_	11	amod
+11	phenomena	phenomenon	NNS	_	8	pobj
+12	.	.	.	_	5	punct
+

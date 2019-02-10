@@ -1,0 +1,19 @@
+1	That	that	DT	_	2	nsubj
+2	's	be	VBZ	_	0	ROOT
+3	why	why	WRB	_	5	advmod
+4	I	I	PRP	_	5	nsubj
+5	gave	give	VBD	_	2	advcl
+6	birth	birth	NN	_	5	dobj
+7	in	in	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	toilet	toilet	NN	_	7	pobj
+10	and	and	CC	_	5	cc
+11	hid	hide	VBD	_	5	conj
+12	the	the	DT	_	13	det
+13	baby	baby	NN	_	11	dobj
+14	in	in	IN	_	11	prep
+15	a	a	DT	_	17	det
+16	cupboard	cupboard	NN	_	17	nn
+17	drawer	drawer	NN	_	14	pobj
+18	.	.	.	_	2	punct
+

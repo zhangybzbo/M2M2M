@@ -1,0 +1,18 @@
+1	Another	another	DT	_	2	det
+2	variety	variety	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	flower	flower	NN	_	5	nn
+5	wine	wine	NN	_	3	pobj
+6	,	,	,	_	5	punct
+7	called	call	VBN	_	5	vmod
+8	baekhwaju	baekhwaju	NN	_	7	dep
+9	,	,	,	_	2	punct
+10	is	be	VBZ	_	11	auxpass
+11	made	make	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	100	100	CD	_	14	num
+14	varieties	variety	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	flowers	flower	NNS	_	15	pobj
+17	.	.	.	_	11	punct
+

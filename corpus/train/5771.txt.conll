@@ -1,0 +1,27 @@
+1	Coconut	Coconut	NNP	_	2	nn
+2	rice	rice	NN	_	9	nsubj
+3	and	and	CC	_	2	cc
+4	potato	potato	NN	_	5	nn
+5	stew	stew	NN	_	2	conj
+6	was	be	VBD	_	9	cop
+7	a	a	DT	_	9	det
+8	Sunday	Sunday	NNP	_	9	nn
+9	lunch	lunch	NN	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	day	day	NN	_	10	pobj
+13	when	when	WRB	_	15	advmod
+14	I	I	PRP	_	15	nsubj
+15	wanted	want	VBD	_	9	rcmod
+16	to	to	TO	_	17	aux
+17	spend	spend	VB	_	15	xcomp
+18	as	as	IN	_	17	prep
+19	less	less	JJR	_	20	amod
+20	time	time	NN	_	18	pobj
+21	as	as	IN	_	20	prep
+22	possible	possible	JJ	_	21	pobj
+23	in	in	IN	_	20	prep
+24	the	the	DT	_	25	det
+25	kitchen	kitchen	NN	_	23	pobj
+26	.	.	.	_	9	punct
+

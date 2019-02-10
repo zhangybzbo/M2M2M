@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	traveler	traveler	NN	_	3	nsubj
+3	wears	wear	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	mask	mask	NN	_	3	dobj
+6	for	for	IN	_	5	prep
+7	protection	protection	NN	_	6	pobj
+8	against	against	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	swine	swine	NNS	_	11	nn
+11	flu	flu	NN	_	8	pobj
+12	.	.	.	_	3	punct
+

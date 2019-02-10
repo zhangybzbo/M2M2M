@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	pronouns	pronoun	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	indicated	indicate	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	parentheses	parenthesis	NNS	_	5	pobj
+7	and	and	CC	_	4	cc
+8	are	be	VBP	_	9	auxpass
+9	given	give	VBN	_	4	conj
+10	for	for	IN	_	9	prep
+11	example	example	NN	_	12	nn
+12	purposes	purpose	NNS	_	10	pobj
+13	.	.	.	_	4	punct
+

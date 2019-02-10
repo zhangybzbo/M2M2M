@@ -1,0 +1,20 @@
+1	Amtrak	Amtrak	NNP	_	2	nsubj
+2	expects	expect	VBZ	_	0	ROOT
+3	a	a	DT	_	6	det
+4	normal	normal	JJ	_	6	amod
+5	rush	rush	NN	_	6	nn
+6	hour	hour	NN	_	2	dobj
+7	after	after	IN	_	2	prep
+8	a	a	DT	_	10	det
+9	fatal	fatal	JJ	_	10	amod
+10	accident	accident	NN	_	7	pobj
+11	near	near	IN	_	10	prep
+12	Baltimore	Baltimore	NNP	_	11	pobj
+13	caused	cause	VBD	_	2	dep
+14	delays	delay	NNS	_	13	dobj
+15	along	along	IN	_	13	prep
+16	the	the	DT	_	18	det
+17	Northeast	Northeast	NNP	_	18	nn
+18	corridor	corridor	NN	_	15	pobj
+19	.	.	.	_	2	punct
+

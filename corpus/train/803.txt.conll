@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det
+2	famous	famous	JJ	_	3	amod
+3	poet	poet	NN	_	4	nsubj
+4	moved	move	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	medical	medical	JJ	_	8	amod
+8	center	center	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

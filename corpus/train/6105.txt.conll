@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	bottom	bottom	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	welded	weld	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	each	each	DT	_	8	det
+7	monoseal	monoseal	NN	_	8	nn
+8	casket	casket	NN	_	5	pobj
+9	using	use	VBG	_	4	xcomp
+10	a	a	DT	_	12	det
+11	continuous	continuous	JJ	_	12	amod
+12	weld	weld	NN	_	9	dobj
+13	aldong	aldong	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	entire	entire	JJ	_	16	amod
+16	seam	seam	NN	_	13	pobj
+17	.	.	.	_	4	punct
+

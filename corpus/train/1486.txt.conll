@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj
+2	sold	sell	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	gold	gold	NN	_	5	nn
+5	ring	ring	NN	_	2	dobj
+6	to	to	TO	_	2	prep
+7	another	another	DT	_	8	det
+8	company	company	NN	_	6	pobj
+9	online	online	NN	_	12	nsubj
+10	and	and	CC	_	9	cc
+11	they	they	PRP	_	9	conj
+12	sent	send	VBD	_	2	dep
+13	me	I	PRP	_	12	iobj
+14	a	a	DT	_	16	det
+15	lousy	lousy	JJ	_	16	amod
+16	check	check	NN	_	12	dobj
+17	for	for	IN	_	16	prep
+18	$	$	$	_	17	pobj
+19	14.00	14.00	CD	_	18	num
+20	.	.	.	_	2	punct
+

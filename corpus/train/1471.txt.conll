@@ -1,0 +1,19 @@
+1	He	he	PRP	_	2	nsubj
+2	underlined	underline	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	tiny	tiny	JJ	_	5	amod
+5	sacrifices	sacrifice	NNS	_	2	dobj
+6	made	make	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	Western	western	JJ	_	9	amod
+9	armies	army	NNS	_	7	pobj
+10	in	in	IN	_	6	prep
+11	comparison	comparison	NN	_	10	pobj
+12	with	with	IN	_	11	prep
+13	those	those	DT	_	12	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	Red	Red	NNP	_	17	nn
+17	Army	Army	NNP	_	14	pobj
+18	.	.	.	_	2	punct
+

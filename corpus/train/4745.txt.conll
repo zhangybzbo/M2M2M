@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	chosen	choose	VBN	_	3	amod
+3	volume	volume	NN	_	4	nsubj
+4	contains	contain	VBZ	_	0	ROOT
+5	software	software	NN	_	4	dobj
+6	which	which	WDT	_	8	nsubj
+7	is	be	VBZ	_	8	cop
+8	newer	newer	JJR	_	5	rcmod
+9	than	than	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	software	software	NN	_	9	pobj
+12	you	you	PRP	_	14	nsubj
+13	are	be	VBP	_	14	aux
+14	installing	install	VBG	_	11	rcmod
+15	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	MP	mp	NN	_	2	nsubj
+2	shows	show	VBZ	_	0	ROOT
+3	spread	spread	VBN	_	2	dobj
+4	into	into	IN	_	3	prep
+5	mesophyll	mesophyll	NN	_	4	pobj
+6	rather	rather	RB	_	7	advmod
+7	than	than	IN	_	3	prep
+8	epidermal	epidermal	JJ	_	9	amod
+9	tissues	tissue	NNS	_	7	pobj
+10	during	during	IN	_	3	prep
+11	virus	virus	NN	_	12	nn
+12	infection	infection	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

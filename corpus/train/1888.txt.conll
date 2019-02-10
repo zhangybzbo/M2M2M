@@ -1,0 +1,25 @@
+1	Dartmouth	Dartmouth	NNP	_	3	nsubj
+2	nearly	nearly	RB	_	3	advmod
+3	narrowed	narrow	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	gap	gap	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	one	one	CD	_	8	num
+8	goal	goal	NN	_	6	pobj
+9	when	when	WRB	_	3	dep
+10	a	a	DT	_	11	det
+11	slapshot	slapshot	NN	_	9	dep
+12	popped	pop	VBN	_	11	vmod
+13	out	out	IN	_	12	prep
+14	of	of	IN	_	13	pcomp
+15	the	the	DT	_	16	det
+16	glove	glove	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	Princeton	Princeton	NNP	_	21	nn
+19	goalie	goalie	NN	_	21	nn
+20	Zane	Zane	NNP	_	21	nn
+21	Kalemba	Kalemba	NNP	_	17	pobj
+22	'	'	POS	_	21	possessive
+23	10	10	CD	_	21	num
+24	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	deformity	deformity	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	similar	similar	JJ	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	claw	claw	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	lower	lower	JJR	_	10	amod
+10	animals	animal	NNS	_	8	pobj
+11	,	,	,	_	4	punct
+12	and	and	CC	_	4	cc
+13	perhaps	perhaps	RB	_	15	advmod
+14	its	its	PRP$	_	15	poss
+15	cause	cause	NN	_	17	nsubj
+16	is	be	VBZ	_	17	cop
+17	atavistic	atavistic	JJ	_	4	conj
+18	.	.	.	_	4	punct
+

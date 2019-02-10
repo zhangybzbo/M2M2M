@@ -1,0 +1,27 @@
+1	It	it	PRP	_	2	nsubj
+2	became	become	VBD	_	0	ROOT
+3	an	a	DT	_	4	det
+4	obsession	obsession	NN	_	2	dobj
+5	but	but	CC	_	2	cc
+6	,	,	,	_	2	punct
+7	frustrated	frustrated	JJ	_	2	conj
+8	at	at	IN	_	7	prep
+9	every	every	DT	_	10	det
+10	turn	turn	NN	_	8	pobj
+11	,	,	,	_	2	punct
+12	he	he	PRP	_	14	nsubj
+13	eventually	eventually	RB	_	14	advmod
+14	made	make	VBD	_	2	ccomp
+15	do	do	RP	_	14	prt
+16	with	with	IN	_	14	prep
+17	a	a	DT	_	18	det
+18	copy	copy	NN	_	16	pobj
+19	made	make	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	a	a	DT	_	23	det
+22	family	family	NN	_	23	nn
+23	firm	firm	NN	_	20	pobj
+24	in	in	IN	_	23	prep
+25	Nottingham	Nottingham	NNP	_	24	pobj
+26	.	.	.	_	2	punct
+

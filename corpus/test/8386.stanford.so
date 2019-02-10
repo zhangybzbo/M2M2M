@@ -1,0 +1,11 @@
+0	66	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	15	tok id="t1" base="dishwasher" pos="NN" nsubj="t2"
+16	19	tok id="t2" base="have" pos="VBZ" ROOT="ROOT"
+20	26	tok id="t3" base="simple" pos="JJ" amod="t7"
+27	28	tok id="t4" base="-COMMA-" pos="," punct="t7"
+29	44	tok id="t5" base="straightforward" pos="JJ" amod="t7"
+45	55	tok id="t6" base="electronic" pos="JJ" amod="t7"
+56	64	tok id="t7" base="control" pos="NNS" dobj="t2"
+65	66	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

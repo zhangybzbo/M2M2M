@@ -1,0 +1,17 @@
+1	Dogs	dog	NNS	_	2	nsubj
+2	develop	develop	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	fever	fever	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	stress	stress	NN	_	5	pobj
+7	and/or	and/or	CC	_	6	cc
+8	pain	pain	NN	_	6	conj
+9	such	such	JJ	_	10	mwe
+10	as	as	IN	_	6	prep
+11	in	in	IN	_	10	pcomp
+12	a	a	DT	_	15	det
+13	severe	severe	JJ	_	15	amod
+14	flea	flea	NN	_	15	nn
+15	infestation	infestation	NN	_	11	pobj
+16	.	.	.	_	2	punct
+

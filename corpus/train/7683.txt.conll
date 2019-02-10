@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	site	site	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	currently	currently	RB	_	5	advmod
+5	dry	dry	JJ	_	0	ROOT
+6	farmed	farm	VBN	_	5	dep
+7	for	for	IN	_	6	prep
+8	wheat	wheat	NN	_	7	pobj
+9	.	.	.	_	5	punct
+

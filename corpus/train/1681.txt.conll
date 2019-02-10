@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	money	money	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	hidden	hide	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	air-conditioning	air-conditioning	NN	_	8	nn
+8	system	system	NN	_	11	poss
+9	's	's	POS	_	8	possessive
+10	return	return	NN	_	11	nn
+11	duct	duct	NN	_	5	pobj
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	15	nsubj
+14	conveniently	conveniently	RB	_	15	advmod
+15	connected	connect	VBN	_	11	rcmod
+16	to	to	TO	_	15	prep
+17	the	the	DT	_	18	det
+18	room	room	NN	_	16	pobj
+19	behind	behind	IN	_	18	dep
+20	.	.	.	_	4	punct
+

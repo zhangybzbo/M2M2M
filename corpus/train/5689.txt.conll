@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	news	news	NN	_	0	ROOT
+3	that	that	IN	_	5	mark
+4	there	there	EX	_	5	expl
+5	was	be	VBD	_	2	ccomp
+6	an	a	DT	_	7	det
+7	execution	execution	NN	_	5	nsubj
+8	in	in	IN	_	7	prep
+9	Lydgate	Lydgate	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	house	house	NN	_	8	pobj
+12	had	have	VBD	_	13	aux
+13	got	get	VBN	_	5	dep
+14	to	to	TO	_	15	aux
+15	Lowick	lowick	VB	_	13	xcomp
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	evening	evening	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

@@ -1,0 +1,19 @@
+1	Finally	finally	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	the	the	DT	_	4	det
+4	slider	slider	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	inserted	insert	VBN	_	0	ROOT
+7	up	up	RP	_	6	prt
+8	into	into	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	machine	machine	NN	_	8	pobj
+11	and	and	CC	_	6	cc
+12	used	use	VBN	_	6	conj
+13	to	to	TO	_	12	prep
+14	trip	trip	NN	_	13	pobj
+15	the	the	DT	_	17	det
+16	payout	payout	NN	_	17	nn
+17	switch	switch	NN	_	12	dobj
+18	.	.	.	_	6	punct
+

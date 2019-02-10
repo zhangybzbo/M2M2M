@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	interference	interference	NN	_	3	nsubj
+3	arrives	arrive	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	direction	direction	NN	_	4	pobj
+7	near	near	IN	_	6	prep
+8	endfire	endfire	NN	_	7	pobj
+9	since	since	IN	_	13	mark
+10	this	this	DT	_	13	nsubj
+11	is	be	VBZ	_	13	cop
+12	the	the	DT	_	13	det
+13	direction	direction	NN	_	3	advcl
+14	where	where	WRB	_	23	advmod
+15	the	the	DT	_	18	det
+16	interelement	interelement	NN	_	18	nn
+17	propagation	propagation	NN	_	18	nn
+18	delay	delay	NN	_	23	nsubj
+19	for	for	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	interference	interference	NN	_	19	pobj
+22	is	be	VBZ	_	23	cop
+23	largest	largest	JJS	_	13	rcmod
+24	.	.	.	_	3	punct
+

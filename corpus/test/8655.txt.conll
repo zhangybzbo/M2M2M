@@ -1,0 +1,16 @@
+1	Wind	wind	NN	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	water	water	NN	_	1	conj
+4	cause	cause	VB	_	0	ROOT
+5	weathering	weather	VBG	_	4	xcomp
+6	and	and	CC	_	5	cc
+7	erosion	erosion	NN	_	5	conj
+8	to	to	TO	_	9	aux
+9	change	change	VB	_	5	xcomp
+10	the	the	DT	_	11	det
+11	shape	shape	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	earth	earth	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

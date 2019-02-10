@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	everything	everything	NN	_	2	dobj
+4	out	out	IN	_	2	advmod
+5	and	and	CC	_	2	cc
+6	immediately	immediately	RB	_	7	advmod
+7	placed	place	VBD	_	2	conj
+8	the	the	DT	_	9	det
+9	phone	phone	NN	_	7	dobj
+10	in	in	IN	_	7	prep
+11	the	the	DT	_	12	det
+12	cradle	cradle	NN	_	10	pobj
+13	to	to	TO	_	14	aux
+14	charge	charge	VB	_	7	vmod
+15	the	the	DT	_	16	det
+16	battery	battery	NN	_	14	dobj
+17	.	.	.	_	2	punct
+

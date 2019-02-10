@@ -1,0 +1,17 @@
+1	Crude	crude	JJ	_	4	amod
+2	soybean	soybean	NN	_	4	nn
+3	oil	oil	NN	_	4	nn
+4	meeting	meeting	NN	_	0	ROOT
+5	exchange-approved	exchange-approved	JJ	_	6	amod
+6	grades	grade	NNS	_	4	dep
+7	and	and	CC	_	6	cc
+8	standards-see	standards-see	JJ	_	10	amod
+9	exchange	exchange	NN	_	10	nn
+10	Rules	rule	NNS	_	6	conj
+11	and	and	CC	_	6	cc
+12	Regulations	Regulations	NNPS	_	6	conj
+13	for	for	IN	_	6	prep
+14	exact	exact	JJ	_	15	amod
+15	specifications	specification	NNS	_	13	pobj
+16	.	.	.	_	4	punct
+

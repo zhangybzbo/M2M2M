@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	bus	bus	NN	_	3	nsubj
+3	departed	depart	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	Panaji	Panaji	NNP	_	6	nn
+6	bus	bus	NN	_	4	pobj
+7	stand	stand	VB	_	3	dobj
+8	at	at	IN	_	7	prep
+9	six	six	CD	_	10	num
+10	a.m.	a.m.	NN	_	8	pobj
+11	and	and	CC	_	7	cc
+12	reached	reach	VBD	_	7	conj
+13	Mangalore	Mangalore	NNP	_	16	nsubj
+14	the	the	DT	_	16	det
+15	same	same	JJ	_	16	amod
+16	day	day	NN	_	12	tmod
+17	at	at	IN	_	12	prep
+18	four	four	CD	_	17	pobj
+19	in	in	IN	_	7	prep
+20	the	the	DT	_	21	det
+21	evening	evening	NN	_	19	pobj
+22	.	.	.	_	3	punct
+

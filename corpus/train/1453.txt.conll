@@ -1,0 +1,14 @@
+1	Factories	factory	NNS	_	2	nsubj
+2	accommodated	accommodate	VBD	_	0	ROOT
+3	large-scale	large-scale	JJ	_	4	amod
+4	manufacture	manufacture	NN	_	2	dobj
+5	and	and	CC	_	4	cc
+6	assembly	assembly	NN	_	4	conj
+7	of	of	IN	_	4	prep
+8	aircraft	aircraft	NN	_	9	nn
+9	components	component	NNS	_	7	pobj
+10	by	by	IN	_	2	prep
+11	unskilled	unskilled	JJ	_	12	amod
+12	workers	worker	NNS	_	10	pobj
+13	.	.	.	_	2	punct
+

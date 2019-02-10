@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj
+2	reversed	reverse	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	position	position	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	batteries	battery	NNS	_	5	pobj
+8	stored	store	VBN	_	7	vmod
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	flashlights	flashlight	NNS	_	9	pobj
+12	to	to	TO	_	13	aux
+13	prevent	prevent	VB	_	8	xcomp
+14	them	they	PRP	_	13	dobj
+15	from	from	IN	_	13	prep
+16	accidentally	accidentally	RB	_	17	advmod
+17	switching	switch	VBG	_	15	pcomp
+18	on	on	IN	_	17	prep
+19	and	and	CC	_	18	cc
+20	losing	lose	VBG	_	18	conj
+21	power	power	NN	_	20	dobj
+22	.	.	.	_	2	punct
+

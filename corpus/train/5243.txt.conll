@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	modern	modern	JJ	_	3	amod
+3	industry	industry	NN	_	4	nsubj
+4	fabricates	fabricate	VBZ	_	0	ROOT
+5	foods	food	NNS	_	4	dobj
+6	from	from	IN	_	4	prep
+7	non-traditional	non-traditional	JJ	_	8	amod
+8	ingredients	ingredient	NNS	_	6	pobj
+9	and	and	CC	_	8	cc
+10	additives	additive	NNS	_	8	conj
+11	to	to	TO	_	12	aux
+12	look	look	VB	_	4	vmod
+13	like	like	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	familiar	familiar	JJ	_	16	amod
+16	product	product	NN	_	13	pobj
+17	.	.	.	_	4	punct
+

@@ -1,0 +1,21 @@
+1	During	during	IN	_	14	prep
+2	this	this	DT	_	3	det
+3	transport	transport	NN	_	1	pobj
+4	,	,	,	_	14	punct
+5	over	over	IN	_	14	prep
+6	about	about	IN	_	7	quantmod
+7	10	10	CD	_	8	num
+8	kilometres	kilometre	NNS	_	5	pobj
+9	,	,	,	_	14	punct
+10	the	the	DT	_	12	det
+11	Herschel	Herschel	NNP	_	12	nn
+12	spacecraft	spacecraft	NN	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	placed	place	VBN	_	0	ROOT
+15	inside	inside	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	payload	payload	NN	_	19	nn
+18	transport	transport	NN	_	19	nn
+19	container	container	NN	_	15	pobj
+20	.	.	.	_	14	punct
+

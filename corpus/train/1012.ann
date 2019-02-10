@@ -1,0 +1,3 @@
+T1	Term 44 49	chain
+T2	Term 50 54	saws
+R1	Component-Whole Arg1:T1 Arg2:T2

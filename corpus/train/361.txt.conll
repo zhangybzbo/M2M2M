@@ -1,0 +1,14 @@
+1	Blood	blood	NN	_	2	nsubj
+2	arrives	arrive	VBZ	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	animal	animal	NN	_	3	pobj
+6	via	via	IN	_	2	prep
+7	suitable	suitable	JJ	_	8	amod
+8	tubing	tubing	NN	_	6	pobj
+9	and	and	CC	_	2	cc
+10	enters	enter	VBZ	_	2	conj
+11	the	the	DT	_	12	det
+12	pump	pump	NN	_	10	dobj
+13	.	.	.	_	2	punct
+

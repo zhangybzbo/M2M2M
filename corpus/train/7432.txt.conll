@@ -1,0 +1,19 @@
+1	Francisco	Francisco	NNP	_	3	nn
+2	Garcia	Garcia	NNP	_	3	nn
+3	Lorca	Lorca	NNP	_	4	nsubj
+4	sees	see	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	horse	horse	NN	_	4	dobj
+7	carrying	carry	VBG	_	6	vmod
+8	the	the	DT	_	9	det
+9	rider	rider	NN	_	7	dobj
+10	,	,	,	_	4	punct
+11	against	against	IN	_	4	prep
+12	his	he	PRP$	_	11	pobj
+13	will	will	MD	_	12	dep
+14	,	,	,	_	13	punct
+15	to	to	TO	_	14	dep
+16	his	he	PRP$	_	17	poss
+17	death	death	NN	_	15	pobj
+18	.	.	.	_	15	punct
+

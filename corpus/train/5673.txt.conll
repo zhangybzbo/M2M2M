@@ -1,0 +1,19 @@
+1	Stack	stack	VB	_	0	ROOT
+2	gummy	gummy	NN	_	3	nn
+3	savers	saver	NNS	_	1	dobj
+4	with	with	IN	_	1	prep
+5	a	a	DT	_	7	det
+6	little	little	JJ	_	7	amod
+7	frosting	frosting	NN	_	4	pobj
+8	in	in	IN	_	1	prep
+9	between	between	IN	_	8	pcomp
+10	to	to	TO	_	11	aux
+11	make	make	VB	_	9	pcomp
+12	a	a	DT	_	13	det
+13	smoke	smoke	NN	_	14	nsubj
+14	stack	stack	VB	_	11	ccomp
+15	on	on	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	engine	engine	NN	_	15	pobj
+18	.	.	.	_	1	punct
+

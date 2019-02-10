@@ -1,0 +1,15 @@
+1	Goods	Goods	NNP	_	8	nsubjpass
+2	such	such	JJ	_	3	mwe
+3	as	as	IN	_	1	prep
+4	soaps	soap	NNS	_	3	pobj
+5	and	and	CC	_	4	cc
+6	towels	towel	NNS	_	4	conj
+7	were	be	VBD	_	8	auxpass
+8	transported	transport	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	countries	country	NNS	_	9	pobj
+11	in	in	IN	_	10	prep
+12	Central	Central	NNP	_	13	nn
+13	Africa	Africa	NNP	_	11	pobj
+14	.	.	.	_	8	punct
+

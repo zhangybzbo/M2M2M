@@ -1,0 +1,19 @@
+1	Vestigial	vestigial	JJ	_	2	amod
+2	organs	organ	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	parts	part	NNS	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	body	body	NN	_	5	pobj
+8	that	that	WDT	_	10	nsubj
+9	once	once	RB	_	10	advmod
+10	had	have	VBD	_	4	rcmod
+11	a	a	DT	_	12	det
+12	function	function	NN	_	10	dobj
+13	but	but	CC	_	10	cc
+14	are	be	VBP	_	16	cop
+15	now	now	RB	_	16	advmod
+16	more-or-less	more-or-less	JJ	_	10	conj
+17	useless	useless	JJ	_	16	advmod
+18	.	.	.	_	4	punct
+

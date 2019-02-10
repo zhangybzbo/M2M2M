@@ -1,0 +1,14 @@
+1	It	it	PRP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	a	a	DT	_	4	det
+4	cloud	cloud	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	shrieking	shriek	VBG	_	8	amod
+7	black	black	JJ	_	8	amod
+8	bats	bat	NNS	_	5	pobj
+9	that	that	WDT	_	11	nsubj
+10	was	be	VBD	_	11	aux
+11	attacking	attack	VBG	_	4	rcmod
+12	them	they	PRP	_	11	dobj
+13	.	.	.	_	4	punct
+

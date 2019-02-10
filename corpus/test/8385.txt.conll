@@ -1,0 +1,13 @@
+1	After	after	IN	_	5	prep
+2	recovery	recovery	NN	_	1	pobj
+3	,	,	,	_	5	punct
+4	three	three	CD	_	5	nsubj
+5	rescued	rescue	VBD	_	0	ROOT
+6	turtles	turtle	NNS	_	5	dobj
+7	come	come	VBN	_	6	vmod
+8	out	out	IN	_	7	prep
+9	of	of	IN	_	8	pcomp
+10	their	they	PRP$	_	11	poss
+11	shells	shell	NNS	_	9	pobj
+12	.	.	.	_	5	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	umbrella	umbrella	NN	_	3	nn
+3	frame	frame	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	provided	provide	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	movable	movable	JJ	_	9	amod
+9	yoke	yoke	NN	_	6	pobj
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	upper	upper	JJ	_	13	amod
+13	end	end	NN	_	10	pobj
+14	and	and	CC	_	9	cc
+15	a	a	DT	_	17	det
+16	stationary	stationary	JJ	_	17	amod
+17	yoke	yoke	NN	_	9	conj
+18	at	at	IN	_	17	prep
+19	an	a	DT	_	21	det
+20	intermediate	intermediate	JJ	_	21	amod
+21	point	point	NN	_	18	pobj
+22	.	.	.	_	5	punct
+

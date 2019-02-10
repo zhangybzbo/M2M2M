@@ -1,0 +1,12 @@
+1	His	he	PRP$	_	2	poss
+2	act	act	NN	_	3	nsubj
+3	includes	include	VBZ	_	0	ROOT
+4	everything	everything	NN	_	3	dobj
+5	from	from	IN	_	4	prep
+6	golden	golden	JJ	_	7	amod
+7	oldies	oldy	NNS	_	5	pobj
+8	to	to	TO	_	5	prep
+9	contemporary	contemporary	JJ	_	10	amod
+10	tunes	tune	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

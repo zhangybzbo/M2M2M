@@ -1,0 +1,19 @@
+1	Ancient	ancient	JJ	_	4	amod
+2	Roman	roman	JJ	_	4	amod
+3	sewer	sewer	NN	_	4	nn
+4	grate	grate	NN	_	0	ROOT
+5	made	make	VBN	_	4	vmod
+6	out	out	IN	_	5	prep
+7	of	of	IN	_	6	pcomp
+8	lime	lime	NN	_	9	nn
+9	sandstone	sandstone	NN	_	7	pobj
+10	,	,	,	_	4	punct
+11	1st	1st	JJ	_	13	amod
+12	century	century	NN	_	13	nn
+13	AD	ad	NN	_	4	appos
+14	,	,	,	_	4	punct
+15	excavated	excavate	VBN	_	4	vmod
+16	at	at	IN	_	15	prep
+17	Vindobona	Vindobona	NNP	_	16	pobj
+18	.	.	.	_	4	punct
+

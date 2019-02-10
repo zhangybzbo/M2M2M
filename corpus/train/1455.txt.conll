@@ -1,0 +1,12 @@
+1	A	a	DT	_	2	det
+2	soldier	soldier	NN	_	3	nsubj
+3	brings	bring	VBZ	_	0	ROOT
+4	oranges	orange	NNS	_	3	dobj
+5	he	he	PRP	_	6	nsubj
+6	got	get	VBD	_	3	ccomp
+7	out	out	RP	_	6	prt
+8	from	from	IN	_	6	prep
+9	a	a	DT	_	10	det
+10	tank	tank	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

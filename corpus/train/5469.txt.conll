@@ -1,0 +1,13 @@
+1	Second	second	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	user	user	NN	_	5	nsubj
+5	removes	remove	VBZ	_	0	ROOT
+6	the	the	DT	_	8	det
+7	safety	safety	NN	_	8	nn
+8	clip	clip	NN	_	5	dobj
+9	from	from	IN	_	5	prep
+10	the	the	DT	_	11	det
+11	grenade	grenade	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

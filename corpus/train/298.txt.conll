@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	oculomotor	oculomotor	NN	_	3	nn
+3	nerve	nerve	NN	_	4	nsubj
+4	rests	rest	VBZ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	cistern	cistern	NN	_	5	pobj
+8	within	within	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	sinus	sinus	NN	_	11	nn
+11	roof	roof	NN	_	8	pobj
+12	.	.	.	_	4	punct
+

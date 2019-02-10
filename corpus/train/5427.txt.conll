@@ -1,0 +1,25 @@
+1	Three	three	CD	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	men	man	NNS	_	2	pobj
+5	flew	fly	VBD	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	Miami	Miami	NNP	_	6	pobj
+8	on	on	IN	_	5	prep
+9	a	a	DT	_	11	det
+10	private	private	JJ	_	11	amod
+11	jet	jet	NN	_	8	pobj
+12	,	,	,	_	5	punct
+13	and	and	CC	_	5	cc
+14	the	the	DT	_	15	det
+15	fourth	fourth	JJ	_	5	conj
+16	traveled	travel	VBN	_	15	vmod
+17	to	to	TO	_	16	prep
+18	Honduras	Honduras	NNP	_	17	pobj
+19	on	on	IN	_	16	prep
+20	a	a	DT	_	23	det
+21	false	false	JJ	_	23	amod
+22	U.S.	U.S.	NNP	_	23	nn
+23	passport	passport	NN	_	19	pobj
+24	.	.	.	_	5	punct
+

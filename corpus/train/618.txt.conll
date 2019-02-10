@@ -1,0 +1,13 @@
+1	Accidentally	accidentally	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	electricity	electricity	NN	_	5	nsubj
+5	flew	fly	VBD	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	water	water	NN	_	6	pobj
+9	on	on	IN	_	5	prep
+10	the	the	DT	_	11	det
+11	ground	ground	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

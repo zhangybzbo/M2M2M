@@ -1,0 +1,12 @@
+0	55	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="often" pos="RB" advmod="t3"
+6	11	tok id="t1" base="user" pos="NNS" nsubj="t3"
+12	16	tok id="t2" base="have" pos="VBP" aux="t3"
+17	24	tok id="t3" base="drag" pos="VBN" ROOT="ROOT"
+25	29	tok id="t4" base="MIDI" pos="NNP" nn="t5"
+30	35	tok id="t5" base="clip" pos="NNS" dobj="t3"
+36	40	tok id="t6" base="into" pos="IN" prep="t3"
+41	46	tok id="t7" base="Audio" pos="NNP" nn="t8"
+47	53	tok id="t8" base="track" pos="NNS" pobj="t6"
+54	55	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

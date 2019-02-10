@@ -1,0 +1,24 @@
+1	Pam	Pam	NNP	_	2	nn
+2	Court	Court	NNP	_	3	nsubj
+3	added	add	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	debate	debate	NN	_	4	pobj
+7	pointing	point	VBG	_	6	vmod
+8	out	out	RP	_	7	prt
+9	the	the	DT	_	10	det
+10	need	need	NN	_	7	dobj
+11	for	for	IN	_	10	prep
+12	investment	investment	NN	_	11	pobj
+13	in	in	IN	_	12	prep
+14	primary	primary	JJ	_	15	amod
+15	care	care	NN	_	13	pobj
+16	as	as	IN	_	7	prep
+17	part	part	NN	_	16	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	long	long	JJ	_	22	amod
+21	term	term	NN	_	22	nn
+22	strategy	strategy	NN	_	18	pobj
+23	.	.	.	_	3	punct
+

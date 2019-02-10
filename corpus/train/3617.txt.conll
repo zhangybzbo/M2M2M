@@ -1,0 +1,15 @@
+1	Reporters	reporter	NNS	_	2	nsubj
+2	commented	comment	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	crush	crush	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	candidates	candidate	NNS	_	6	pobj
+8	compared	compare	VBN	_	2	prep
+9	to	to	TO	_	8	pcomp
+10	the	the	DT	_	11	det
+11	crowd	crowd	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	supporters	supporter	NNS	_	12	pobj
+14	.	.	.	_	2	punct
+

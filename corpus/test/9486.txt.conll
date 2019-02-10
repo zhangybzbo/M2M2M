@@ -1,0 +1,23 @@
+1	Until	until	IN	_	12	mark
+2	1864	1864	CD	_	3	num
+3	vessels	vessel	NNS	_	12	nsubj
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	service	service	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	certain	certain	JJ	_	11	amod
+9	UK	UK	NNP	_	11	nn
+10	public	public	NN	_	11	nn
+11	offices	office	NNS	_	7	pobj
+12	defaced	deface	VBD	_	0	ROOT
+13	the	the	DT	_	15	det
+14	Red	Red	NNP	_	15	nn
+15	Ensign	Ensign	NNP	_	12	dobj
+16	with	with	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	badge	badge	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	their	they	PRP$	_	21	poss
+21	office	office	NN	_	19	pobj
+22	.	.	.	_	12	punct
+

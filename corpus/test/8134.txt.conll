@@ -1,0 +1,18 @@
+1	After	after	IN	_	11	prep
+2	handsome	handsome	JJ	_	3	amod
+3	renovations	renovation	NNS	_	1	pobj
+4	at	at	IN	_	3	prep
+5	various	various	JJ	_	6	amod
+6	locales	locale	NNS	_	4	pobj
+7	,	,	,	_	11	punct
+8	the	the	DT	_	9	det
+9	company	company	NN	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	remodeled	remodel	VBN	_	0	ROOT
+12	a	a	DT	_	13	det
+13	church	church	NN	_	11	dobj
+14	into	into	IN	_	11	prep
+15	a	a	DT	_	16	det
+16	home	home	NN	_	14	pobj
+17	.	.	.	_	11	punct
+

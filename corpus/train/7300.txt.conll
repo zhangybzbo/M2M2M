@@ -1,0 +1,22 @@
+1	When	when	WRB	_	12	advmod
+2	man	man	NN	_	12	nsubj
+3	sinned	sin	VBN	_	2	vmod
+4	,	,	,	_	2	punct
+5	the	the	DT	_	6	det
+6	occasion	occasion	NN	_	2	appos
+7	of	of	IN	_	6	prep
+8	his	he	PRP$	_	9	poss
+9	fall	fall	NN	_	7	pobj
+10	was	be	VBD	_	12	cop
+11	a	a	DT	_	12	det
+12	tree	tree	NN	_	0	ROOT
+13	,	,	,	_	12	punct
+14	and	and	CC	_	12	cc
+15	the	the	DT	_	16	det
+16	ground	ground	NN	_	12	conj
+17	cursed	curse	VBD	_	16	vmod
+18	brought	bring	VBN	_	17	dobj
+19	forth	forth	RB	_	18	prep
+20	thorns	thorn	NNS	_	19	pobj
+21	.	.	.	_	12	punct
+

@@ -1,0 +1,27 @@
+1	It	it	PRP	_	3	nsubj
+2	's	be	VBZ	_	3	aux
+3	coming	come	VBG	_	0	ROOT
+4	along	along	IN	_	3	advmod
+5	really	really	RB	_	6	advmod
+6	well	well	RB	_	4	advmod
+7	;	;	:	_	3	punct
+8	I	I	PRP	_	10	nsubj
+9	've	have	VBP	_	10	aux
+10	got	get	VBD	_	3	parataxis
+11	a	a	DT	_	13	det
+12	base	base	NN	_	13	nn
+13	version	version	NN	_	10	dobj
+14	with	with	IN	_	13	prep
+15	diffing	diffing	NN	_	14	pobj
+16	in	in	IN	_	18	mark
+17	it	it	PRP	_	18	nsubj
+18	released	release	VBD	_	10	advcl
+19	in	in	IN	_	18	prep
+20	less	less	JJR	_	19	pobj
+21	than	than	IN	_	20	prep
+22	a	a	DT	_	23	det
+23	couple	couple	NN	_	21	pobj
+24	of	of	IN	_	23	prep
+25	weeks	week	NNS	_	24	pobj
+26	.	.	.	_	3	punct
+

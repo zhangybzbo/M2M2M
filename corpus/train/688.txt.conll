@@ -1,0 +1,7 @@
+1	China	China	NNP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	seeds	seed	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	space	space	NN	_	4	pobj
+6	.	.	.	_	2	punct
+

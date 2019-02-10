@@ -1,0 +1,20 @@
+1	Your	you	PRP$	_	2	poss
+2	products	product	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	landed	land	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	our	we	PRP$	_	7	poss
+7	warehouse	warehouse	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	you	you	PRP	_	12	nsubjpass
+10	have	have	VBP	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	called	call	VBN	_	4	conj
+13	to	to	TO	_	12	prep
+14	book	book	NN	_	13	pobj
+15	in	in	IN	_	12	prep
+16	a	a	DT	_	18	det
+17	delivery	delivery	NN	_	18	nn
+18	date	date	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

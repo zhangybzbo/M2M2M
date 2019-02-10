@@ -1,0 +1,21 @@
+1	Among	among	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	contents	contents	NNS	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	bag	bag	NN	_	4	pobj
+7	were	be	VBD	_	0	ROOT
+8	a	a	DT	_	10	det
+9	diamond	diamond	NN	_	10	nn
+10	ring	ring	NN	_	7	nsubj
+11	worth	worth	JJ	_	10	amod
+12	$	$	$	_	11	dep
+13	2000	2000	CD	_	12	num
+14	and	and	CC	_	10	cc
+15	a	a	DT	_	16	det
+16	watch	watch	NN	_	10	conj
+17	worth	worth	JJ	_	16	amod
+18	$	$	$	_	17	dep
+19	500	500	CD	_	18	num
+20	.	.	.	_	7	punct
+

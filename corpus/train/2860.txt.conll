@@ -1,0 +1,13 @@
+1	We	we	PRP	_	2	nsubj
+2	pop	pop	VBP	_	0	ROOT
+3	our	we	PRP$	_	4	poss
+4	heads	head	NNS	_	2	dobj
+5	out	out	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	capped	capped	JJ	_	8	amod
+8	dome	dome	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	building	building	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

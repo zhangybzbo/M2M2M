@@ -1,0 +1,13 @@
+0	70	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="they" pos="PRP$" poss="t2"
+6	14	tok id="t1" base="parental" pos="JJ" amod="t2"
+15	31	tok id="t2" base="responsibility" pos="NNS" nsubjpass="t4"
+32	35	tok id="t3" base="be" pos="VBP" auxpass="t4"
+36	42	tok id="t4" base="hand" pos="VBN" ROOT="ROOT"
+43	47	tok id="t5" base="over" pos="RP" prt="t4"
+48	52	tok id="t6" base="into" pos="IN" prep="t4"
+53	60	tok id="t7" base="another" pos="DT" poss="t9"
+61	63	tok id="t8" base="'s" pos="POS" possessive="t9"
+64	68	tok id="t9" base="care" pos="NN" pobj="t6"
+69	70	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

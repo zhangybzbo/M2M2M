@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	flyer	flyer	NN	_	3	nsubj
+3	advertised	advertise	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	two-week	two-week	JJ	_	6	amod
+6	workshop	workshop	NN	_	3	dobj
+7	being	be	VBG	_	8	auxpass
+8	conducted	conduct	VBN	_	6	vmod
+9	at	at	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	university	university	NN	_	9	pobj
+12	this	this	DT	_	13	det
+13	summer	summer	NN	_	8	tmod
+14	.	.	.	_	3	punct
+

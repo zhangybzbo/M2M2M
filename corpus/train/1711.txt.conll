@@ -1,0 +1,13 @@
+1	Half	half	NN	_	6	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	new	new	JJ	_	5	amod
+5	subscribers	subscriber	NNS	_	2	pobj
+6	hailed	hail	VBD	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	China	China	NNP	_	11	poss
+9	's	's	POS	_	8	possessive
+10	vast	vast	JJ	_	11	amod
+11	countryside	countryside	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

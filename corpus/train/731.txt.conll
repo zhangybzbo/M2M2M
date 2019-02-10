@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	misery	misery	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	passengers	passenger	NNS	_	3	pobj
+6	had	have	VBD	_	7	aux
+7	started	start	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	Singapore	Singapore	NNP	_	8	pobj
+10	as	as	IN	_	13	mark
+11	the	the	DT	_	12	det
+12	plane	plane	NN	_	13	nsubj
+13	took	take	VBD	_	7	advcl
+14	off	off	RP	_	13	prt
+15	from	from	IN	_	13	prep
+16	the	the	DT	_	17	det
+17	city	city	NN	_	15	pobj
+18	seven	seven	CD	_	19	num
+19	hours	hour	NNS	_	13	dobj
+20	behind	behind	IN	_	19	prep
+21	schedule	schedule	NN	_	20	pobj
+22	.	.	.	_	7	punct
+

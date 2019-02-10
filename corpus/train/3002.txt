@@ -1,0 +1,1 @@
+First , we fetched the cursor into the target variables .

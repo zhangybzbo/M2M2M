@@ -1,0 +1,11 @@
+1	Extremely	extremely	RB	_	2	advmod
+2	dangerous	dangerous	JJ	_	3	amod
+3	blizzards	blizzard	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	moved	move	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Midwest	Midwest	NNP	_	9	nn
+9	region	region	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	det
+2	chapter	chapter	NN	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	how	how	WRB	_	5	advmod
+5	much	much	JJ	_	8	advmod
+6	Nova	Nova	NNP	_	8	nsubj
+7	has	have	VBZ	_	8	aux
+8	accomplished	accomplish	VBN	_	3	ccomp
+9	earning	earn	VBG	_	8	xcomp
+10	the	the	DT	_	11	det
+11	companionship	companionship	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	her	she	PRP$	_	14	poss
+14	teammates	teammate	NNS	_	12	pobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	Some	some	DT	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	nurses	nurse	NNS	_	2	pobj
+5	drank	drink	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	alcohol	alcohol	NN	_	5	dobj
+8	out	out	IN	_	5	prep
+9	of	of	IN	_	8	pcomp
+10	jars	jar	NNS	_	9	pobj
+11	containing	contain	VBG	_	10	vmod
+12	diseased	diseased	JJ	_	14	amod
+13	human	human	JJ	_	14	amod
+14	viscera	viscera	NN	_	11	dobj
+15	.	.	.	_	5	punct
+

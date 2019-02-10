@@ -1,0 +1,22 @@
+1	Examples	example	NNS	_	2	nsubj
+2	include	include	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	exclusion	exclusion	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	certain	certain	JJ	_	7	amod
+7	benefits	benefit	NNS	_	5	pobj
+8	from	from	IN	_	7	prep
+9	funding	funding	NN	_	10	nn
+10	standards	standard	NNS	_	8	pobj
+11	and	and	CC	_	4	cc
+12	the	the	DT	_	13	det
+13	exclusion	exclusion	NN	_	4	conj
+14	of	of	IN	_	13	prep
+15	entire	entire	JJ	_	16	amod
+16	plans	plan	NNS	_	14	pobj
+17	from	from	IN	_	16	prep
+18	certain	certain	JJ	_	20	amod
+19	funding	funding	NN	_	20	nn
+20	requirements	requirement	NNS	_	17	pobj
+21	.	.	.	_	2	punct
+

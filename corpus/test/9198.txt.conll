@@ -1,0 +1,16 @@
+1	Yes	yes	UH	_	4	discourse
+2	,	,	,	_	4	punct
+3	I	I	PRP	_	4	nsubj
+4	have	have	VBP	_	0	ROOT
+5	a	a	DT	_	6	det
+6	mutation	mutation	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	thrushes	thrush	NNS	_	7	pobj
+9	eating	eat	VBG	_	8	vmod
+10	me	I	PRP	_	9	dobj
+11	out	out	IN	_	9	prep
+12	of	of	IN	_	11	pcomp
+13	bird	bird	NN	_	14	nn
+14	food	food	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

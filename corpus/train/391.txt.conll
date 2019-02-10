@@ -1,0 +1,16 @@
+1	Mechanical	mechanical	JJ	_	2	amod
+2	faults	fault	NNS	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	delays	delay	NNS	_	3	dobj
+5	and	and	CC	_	4	cc
+6	cancellations	cancellation	NNS	_	4	conj
+7	on	on	IN	_	3	prep
+8	Wellington	Wellington	NNP	_	12	poss
+9	's	's	POS	_	8	possessive
+10	suburban	suburban	JJ	_	12	amod
+11	train	train	NN	_	12	nn
+12	services	service	NNS	_	7	pobj
+13	this	this	DT	_	14	det
+14	morning	morning	NN	_	3	tmod
+15	.	.	.	_	3	punct
+

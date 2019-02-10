@@ -1,0 +1,23 @@
+1	Specific	specific	JJ	_	3	amod
+2	viral	viral	JJ	_	3	amod
+3	RNA	rna	NN	_	7	nsubjpass
+4	and	and	CC	_	3	cc
+5	antigen	antigen	NN	_	3	conj
+6	were	be	VBD	_	7	auxpass
+7	detected	detect	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	reverse-transcription	reverse-transcription	JJ	_	10	amod
+10	PCR	pcr	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	immunohistochemical	immunohistochemical	JJ	_	13	amod
+13	evaluation	evaluation	NN	_	10	conj
+14	,	,	,	_	7	punct
+15	respectively	respectively	RB	_	7	advmod
+16	,	,	,	_	7	punct
+17	in	in	IN	_	7	prep
+18	nasal	nasal	JJ	_	19	amod
+19	turbinates	turbinate	NNS	_	17	pobj
+20	of	of	IN	_	19	prep
+21	birds	bird	NNS	_	20	pobj
+22	.	.	.	_	7	punct
+

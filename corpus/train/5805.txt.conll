@@ -1,0 +1,16 @@
+1	Winter	Winter	NNP	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	here	here	RB	_	2	advmod
+4	,	,	,	_	2	punct
+5	and	and	CC	_	2	cc
+6	the	the	DT	_	9	det
+7	little	little	JJ	_	9	amod
+8	fir	fir	NN	_	9	nn
+9	tree	tree	NN	_	10	nsubj
+10	stands	stand	VBZ	_	2	conj
+11	lonely	lonely	JJ	_	10	acomp
+12	in	in	IN	_	10	prep
+13	the	the	DT	_	14	det
+14	forest	forest	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

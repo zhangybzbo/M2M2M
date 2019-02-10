@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="author" pos="NNS" nsubj="t2"
+12	19	tok id="t2" base="propose" pos="VBP" ROOT="ROOT"
+20	26	tok id="t3" base="galaxy" pos="NN" nn="t4"
+27	35	tok id="t4" base="cluster" pos="NNS" dobj="t2"
+36	38	tok id="t5" base="as" pos="IN" prep="t2"
+39	40	tok id="t6" base="a" pos="DT" det="t7"
+41	45	tok id="t7" base="tool" pos="NN" pobj="t5"
+46	49	tok id="t8" base="for" pos="IN" prep="t7"
+50	59	tok id="t9" base="cosmology" pos="NN" pobj="t8"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

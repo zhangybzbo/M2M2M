@@ -1,0 +1,3 @@
+T1	Term 24 28	guns
+T2	Term 38 48	court room
+R1	Entity-Destination Arg1:T1 Arg2:T2

@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	brain	brain	NN	_	5	nsubj
+5	was	be	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	jar	jar	NN	_	6	pobj
+9	on	on	IN	_	8	prep
+10	my	my	PRP$	_	11	poss
+11	desk	desk	NN	_	9	pobj
+12	,	,	,	_	5	punct
+13	but	but	CC	_	5	cc
+14	for	for	IN	_	17	mark
+15	all	all	DT	_	17	dep
+16	I	I	PRP	_	17	nsubj
+17	know	know	VBP	_	5	conj
+18	he	he	PRP	_	20	nsubj
+19	could	could	MD	_	20	aux
+20	be	be	VB	_	17	ccomp
+21	out	out	IN	_	20	prep
+22	practicing	practice	VBG	_	21	pcomp
+23	law	law	NN	_	22	dobj
+24	somewhere	somewhere	RB	_	22	advmod
+25	.	.	.	_	5	punct
+

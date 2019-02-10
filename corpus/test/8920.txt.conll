@@ -1,0 +1,15 @@
+1	Roni	Roni	NNP	_	2	nn
+2	Music	Music	NNP	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	software	software	NN	_	6	nn
+6	company	company	NN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	an	a	DT	_	9	det
+9	emphasis	emphasis	NN	_	7	pobj
+10	on	on	IN	_	9	prep
+11	powerful	powerful	JJ	_	13	amod
+12	music	music	NN	_	13	nn
+13	software	software	NN	_	10	pobj
+14	.	.	.	_	6	punct
+

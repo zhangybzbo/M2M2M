@@ -1,0 +1,10 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	thrown	throw	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	balls	ball	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	basket	basket	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

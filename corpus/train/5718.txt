@@ -1,0 +1,1 @@
+When a key is pressed and the circuit is completed , the code generated is sent to the computer either via a keyboard cable -LRB- using on-off electrical pulses to represent bits -RRB- or over a wireless connection .

@@ -1,0 +1,13 @@
+1	Unificationists	Unificationists	NNP	_	2	nsubj
+2	sees	see	VBZ	_	0	ROOT
+3	Kingdom	Kingdom	NNP	_	4	nsubj
+4	coming	come	VBG	_	2	xcomp
+5	with	with	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	help	help	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	new	new	JJ	_	11	amod
+11	president	president	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

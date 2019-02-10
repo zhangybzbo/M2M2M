@@ -1,0 +1,16 @@
+1	A	a	DT	_	2	det
+2	rasher	rasher	NN	_	6	nsubjpass
+3	of	of	IN	_	2	prep
+4	bacon	bacon	NN	_	3	pobj
+5	was	be	VBD	_	6	auxpass
+6	found	find	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	returned	return	VBN	_	10	amod
+10	book	book	NN	_	7	pobj
+11	by	by	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	Worthing	worthing	JJ	_	14	amod
+14	librarian	librarian	NN	_	11	pobj
+15	.	.	.	_	6	punct
+

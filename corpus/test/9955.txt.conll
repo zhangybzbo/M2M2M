@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	backpack	backpack	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	laptop	laptop	JJ	_	6	amod
+6	computer	computer	NN	_	3	dobj
+7	and	and	CC	_	6	cc
+8	a	a	DT	_	9	det
+9	wallet	wallet	NN	_	6	conj
+10	with	with	IN	_	9	prep
+11	identification	identification	NN	_	10	pobj
+12	.	.	.	_	3	punct
+

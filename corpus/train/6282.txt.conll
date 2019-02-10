@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	discussion	discussion	NN	_	5	nsubj
+3	here	here	RB	_	2	advmod
+4	has	have	VBZ	_	5	aux
+5	made	make	VBN	_	0	ROOT
+6	extensive	extensive	JJ	_	7	amod
+7	reference	reference	NN	_	5	dobj
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	nsubj
+10	contrasts	contrast	VBZ	_	8	pcomp
+11	between	between	IN	_	10	prep
+12	systems	system	NNS	_	11	pobj
+13	.	.	.	_	5	punct
+

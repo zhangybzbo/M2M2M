@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	other	other	JJ	_	3	amod
+3	stations	station	NNS	_	4	nsubj
+4	responded	respond	VBD	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	hiring	hire	VBG	_	5	pcomp
+7	a	a	DT	_	8	det
+8	cast	cast	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	precocious	precocious	JJ	_	11	amod
+11	cats	cat	NNS	_	9	pobj
+12	,	,	,	_	11	punct
+13	ferrets	ferret	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	chimpanzees	chimpanzee	NNS	_	11	conj
+16	and	and	CC	_	11	cc
+17	marmosets	marmoset	NNS	_	11	conj
+18	.	.	.	_	4	punct
+

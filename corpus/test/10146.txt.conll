@@ -1,0 +1,22 @@
+1	Colourmovie	Colourmovie	NNP	_	0	ROOT
+2	is	be	VBZ	_	1	dep
+3	a	a	DT	_	4	det
+4	design	design	NN	_	2	nsubj
+5	driven	drive	VBN	_	7	amod
+6	creative	creative	JJ	_	7	amod
+7	studio	studio	NN	_	4	dep
+8	specializing	specialize	VBG	_	7	vmod
+9	in	in	IN	_	8	prep
+10	motion	motion	NN	_	11	nn
+11	design	design	NN	_	9	pobj
+12	,	,	,	_	11	punct
+13	animation	animation	NN	_	11	conj
+14	,	,	,	_	11	punct
+15	brand	brand	NN	_	16	nn
+16	identity	identity	NN	_	11	conj
+17	,	,	,	_	11	punct
+18	and	and	CC	_	11	cc
+19	live-action	live-action	JJ	_	20	amod
+20	production	production	NN	_	11	conj
+21	.	.	.	_	1	punct
+

@@ -1,0 +1,12 @@
+0	57	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="panic" pos="NN" nn="t1"
+6	13	tok id="t1" base="attack" pos="NNS" ROOT="ROOT"
+14	20	tok id="t2" base="link" pos="VBN" vmod="t1"
+21	23	tok id="t3" base="to" pos="TO" prep="t2"
+24	29	tok id="t4" base="heart" pos="NN" nn="t5"
+30	37	tok id="t5" base="disease" pos="NN" pobj="t3"
+38	41	tok id="t6" base="and" pos="CC" cc="t5"
+42	47	tok id="t7" base="heart" pos="NN" nn="t8"
+48	55	tok id="t8" base="attack" pos="NNS" conj="t5"
+56	57	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

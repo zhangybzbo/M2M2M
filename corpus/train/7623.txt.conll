@@ -1,0 +1,20 @@
+1	You	you	PRP	_	2	nsubj
+2	are	be	VBP	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	chair	chair	NN	_	3	pobj
+6	while	while	IN	_	9	mark
+7	the	the	DT	_	8	det
+8	dentist	dentist	NN	_	9	nsubj
+9	gets	get	VBZ	_	2	advcl
+10	the	the	DT	_	11	det
+11	drill	drill	NN	_	12	nsubj
+12	ready	ready	JJ	_	9	xcomp
+13	to	to	TO	_	14	aux
+14	begin	begin	VB	_	12	xcomp
+15	work	work	NN	_	14	dobj
+16	on	on	IN	_	14	prep
+17	your	you	PRP$	_	18	poss
+18	teeth	tooth	NNS	_	16	pobj
+19	.	.	.	_	2	punct
+

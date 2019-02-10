@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	wind	wind	NN	_	3	nsubj
+3	lifted	lift	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	umbrella	umbrella	NN	_	3	dobj
+6	,	,	,	_	3	punct
+7	tipped	tip	VBD	_	3	conj
+8	the	the	DT	_	9	det
+9	table	table	NN	_	7	dobj
+10	,	,	,	_	3	punct
+11	smashed	smash	VBD	_	3	conj
+12	some	some	DT	_	11	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	umbrella	umbrella	NN	_	16	nn
+16	ribs	rib	NNS	_	13	pobj
+17	,	,	,	_	3	punct
+18	and	and	CC	_	3	cc
+19	ripped	rip	VBD	_	3	conj
+20	about	about	IN	_	21	quantmod
+21	half	half	PDT	_	24	num
+22	the	the	DT	_	24	det
+23	umbrella	umbrella	NN	_	24	nn
+24	seams	seam	NNS	_	19	dobj
+25	.	.	.	_	3	punct
+

@@ -1,0 +1,1 @@
+As the face of each card is displayed , the subject identifies the name associated with the card .

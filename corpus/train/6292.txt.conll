@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	letter	letter	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	stamped	stamped	JJ	_	8	amod
+8	envelope	envelope	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	type	type	NN	_	9	pobj
+12	sold	sell	VBN	_	11	vmod
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	19	det
+15	South	South	NNP	_	19	nn
+16	Dakota	Dakota	NNP	_	19	nn
+17	state	state	NN	_	19	nn
+18	penitentiary	penitentiary	JJ	_	19	amod
+19	commissary	commissary	NN	_	13	pobj
+20	.	.	.	_	4	punct
+

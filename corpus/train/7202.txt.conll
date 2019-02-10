@@ -1,0 +1,23 @@
+1	It	it	PRP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	family	family	NN	_	6	nn
+5	luxury	luxury	NN	_	6	nn
+6	villa	villa	NN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	breeze-kissed	breeze-kissed	JJ	_	9	amod
+9	balconies	balcony	NNS	_	7	pobj
+10	from	from	IN	_	17	prep
+11	which	which	WDT	_	10	pobj
+12	the	the	DT	_	13	det
+13	sounds	sound	NNS	_	17	nsubj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	sea	sea	NN	_	14	pobj
+17	provide	provide	VBP	_	9	rcmod
+18	a	a	DT	_	21	det
+19	sensuous	sensuous	JJ	_	21	amod
+20	nightly	nightly	JJ	_	21	amod
+21	serenade	serenade	NN	_	17	dobj
+22	.	.	.	_	6	punct
+

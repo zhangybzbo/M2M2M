@@ -1,0 +1,13 @@
+1	Another	another	DT	_	4	det
+2	40	40	CD	_	3	number
+3	million	million	CD	_	4	num
+4	people	people	NNS	_	7	nsubjpass
+5	have	have	VBP	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	pushed	push	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	hunger	hunger	NN	_	8	pobj
+10	this	this	DT	_	11	det
+11	year	year	NN	_	7	tmod
+12	.	.	.	_	7	punct
+

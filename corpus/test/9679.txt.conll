@@ -1,0 +1,27 @@
+1	Man	man	NN	_	0	ROOT
+2	at	at	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	norhtern	norhtern	JJ	_	5	amod
+5	edge	edge	NN	_	2	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	mouth	mouth	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	cave	cave	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	Stora	Stora	NNP	_	14	nn
+14	Forvar	Forvar	NNP	_	12	pobj
+15	,	,	,	_	1	punct
+16	with	with	IN	_	1	prep
+17	a	a	DT	_	20	det
+18	Stone	Stone	NNP	_	20	nn
+19	Age	Age	NNP	_	20	nn
+20	settlement	settlement	NN	_	16	pobj
+21	which	which	WDT	_	23	nsubjpass
+22	was	be	VBD	_	23	auxpass
+23	excavated	excavate	VBN	_	20	rcmod
+24	in	in	IN	_	23	prep
+25	1888-1893	1888-1893	CD	_	24	pobj
+26	.	.	.	_	1	punct
+

@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	case	case	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	craniopharyngioma	craniopharyngioma	NN	_	3	pobj
+5	originating	originate	VBG	_	2	vmod
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	sphenoid	sphenoid	JJ	_	9	amod
+9	bone	bone	NN	_	6	pobj
+10	is	be	VBZ	_	11	auxpass
+11	presented	present	VBN	_	0	ROOT
+12	.	.	.	_	11	punct
+

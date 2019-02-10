@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	origin	origin	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	berserkers	berserker	NNS	_	3	pobj
+5	is	be	VBZ	_	6	cop
+6	unknown	unknown	JJ	_	0	ROOT
+7	,	,	,	_	6	punct
+8	although	although	IN	_	10	mark
+9	Tacitus	Tacitus	NNP	_	10	nsubj
+10	mentions	mention	VBZ	_	6	advcl
+11	groups	group	NNS	_	10	dobj
+12	of	of	IN	_	11	prep
+13	Germanic	germanic	JJ	_	14	amod
+14	warriors	warrior	NNS	_	12	pobj
+15	with	with	IN	_	11	prep
+16	berserk-like	berserk-like	JJ	_	17	amod
+17	fury	fury	NN	_	15	pobj
+18	.	.	.	_	6	punct
+

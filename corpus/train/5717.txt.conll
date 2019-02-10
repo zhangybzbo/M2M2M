@@ -1,0 +1,20 @@
+1	While	while	IN	_	5	mark
+2	the	the	DT	_	4	det
+3	curved	curved	JJ	_	4	amod
+4	shape	shape	NN	_	5	nsubj
+5	resembles	resemble	VBZ	_	14	advcl
+6	the	the	DT	_	8	det
+7	gentle	gentle	JJ	_	8	amod
+8	undulation	undulation	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	sand	sand	NN	_	11	nn
+11	dunes	dune	NNS	_	9	pobj
+12	,	,	,	_	14	punct
+13	two	two	CD	_	14	nsubj
+14	raised	raise	VBD	_	0	ROOT
+15	starfish	starfish	JJ	_	16	amod
+16	accent	accent	NN	_	14	dobj
+17	the	the	DT	_	18	det
+18	border	border	NN	_	16	dep
+19	.	.	.	_	14	punct
+

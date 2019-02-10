@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	collagen	collagen	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	extracted	extract	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	chrome	chrome	JJ	_	7	amod
+7	shavings	shaving	NNS	_	5	pobj
+8	with	with	IN	_	7	prep
+9	alkali	alkali	NNS	_	8	pobj
+10	.	.	.	_	4	punct
+

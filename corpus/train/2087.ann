@@ -1,0 +1,3 @@
+T1	Term 0 9	Brickwork
+T2	Term 35 45	bricklayer
+R1	Product-Producer Arg1:T1 Arg2:T2

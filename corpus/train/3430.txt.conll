@@ -1,0 +1,21 @@
+1	Art	Art	NNP	_	13	nsubj
+2	,	,	,	_	1	punct
+3	a	a	DT	_	4	det
+4	concept	concept	NN	_	1	appos
+5	separate	separate	JJ	_	4	amod
+6	from	from	IN	_	5	prep
+7	both	both	DT	_	8	preconj
+8	artwork	artwork	NN	_	6	pobj
+9	and	and	CC	_	8	cc
+10	creator	creator	NN	_	8	conj
+11	,	,	,	_	1	punct
+12	thus	thus	RB	_	13	advmod
+13	exists	exist	VBZ	_	0	ROOT
+14	as	as	IN	_	19	mark
+15	the	the	DT	_	16	det
+16	source	source	NN	_	19	nsubj
+17	for	for	IN	_	16	prep
+18	them	they	PRP	_	17	pobj
+19	both	both	DT	_	13	advcl
+20	.	.	.	_	13	punct
+

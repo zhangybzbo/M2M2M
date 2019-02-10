@@ -1,0 +1,11 @@
+1	Take	take	VB	_	0	ROOT
+2	medicine	medicine	NN	_	1	dobj
+3	to	to	TO	_	4	aux
+4	reduce	reduce	VB	_	1	xcomp
+5	sneezing	sneezing	NN	_	4	dobj
+6	and	and	CC	_	4	cc
+7	coughing	cough	VBG	_	4	conj
+8	from	from	IN	_	7	prep
+9	allergies	allergy	NNS	_	8	pobj
+10	.	.	.	_	1	punct
+

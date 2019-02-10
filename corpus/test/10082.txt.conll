@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	example	example	NN	_	7	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	is	be	VBZ	_	7	aux
+7	building	build	VBG	_	0	ROOT
+8	a	a	DT	_	9	det
+9	GWT	gwt	NN	_	7	dobj
+10	based	base	VBN	_	12	amod
+11	Todo	Todo	NNP	_	12	nn
+12	List	list	NN	_	9	dep
+13	with	with	IN	_	12	prep
+14	different	different	JJ	_	15	amod
+15	categories	category	NNS	_	13	pobj
+16	,	,	,	_	15	punct
+17	something	something	NN	_	15	appos
+18	which	which	WDT	_	22	nsubj
+19	is	be	VBZ	_	22	cop
+20	actually	actually	RB	_	22	advmod
+21	quite	quite	RB	_	22	advmod
+22	handy	handy	JJ	_	17	rcmod
+23	to	to	TO	_	24	aux
+24	have	have	VB	_	22	xcomp
+25	.	.	.	_	7	punct
+

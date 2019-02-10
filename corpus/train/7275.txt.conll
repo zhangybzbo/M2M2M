@@ -1,0 +1,18 @@
+1	Preliminary	preliminary	JJ	_	2	amod
+2	experiments	experiment	NNS	_	3	nsubj
+3	seemed	seem	VBD	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	support	support	VB	_	3	xcomp
+6	this	this	DT	_	7	det
+7	idea	idea	NN	_	5	dobj
+8	in	in	IN	_	5	prep
+9	that	that	IN	_	12	mark
+10	the	the	DT	_	11	det
+11	quenches	quench	NNS	_	12	nsubj
+12	produced	produce	VBD	_	8	pcomp
+13	the	the	DT	_	16	det
+14	predicted	predict	VBN	_	16	amod
+15	high	high	JJ	_	16	amod
+16	vortex-densities	vortex-density	NNS	_	12	dobj
+17	.	.	.	_	3	punct
+

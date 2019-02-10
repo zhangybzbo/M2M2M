@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	shell	shell	NN	_	3	nsubj
+3	encloses	enclose	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	rod	rod	NN	_	3	dobj
+6	having	have	VBG	_	5	vmod
+7	a	a	DT	_	9	det
+8	nickel	nickel	NN	_	9	nn
+9	layer	layer	NN	_	6	dobj
+10	with	with	IN	_	6	prep
+11	a	a	DT	_	13	det
+12	phosphorous	phosphorous	JJ	_	13	amod
+13	content	content	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

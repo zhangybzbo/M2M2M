@@ -1,0 +1,25 @@
+1	As	as	IN	_	4	mark
+2	Mr.	Mr.	NNP	_	3	nn
+3	Appenzeller	Appenzeller	NNP	_	4	nsubj
+4	retracted	retract	VBD	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	hand	hand	NN	_	4	dobj
+7	in	in	IN	_	4	prep
+8	shock	shock	NN	_	7	pobj
+9	,	,	,	_	4	punct
+10	a	a	DT	_	11	det
+11	head	head	NN	_	9	dep
+12	popped	pop	VBN	_	11	vmod
+13	out	out	IN	_	12	prep
+14	of	of	IN	_	13	pcomp
+15	the	the	DT	_	17	det
+16	wet	wet	JJ	_	17	amod
+17	clothing	clothing	NN	_	14	pobj
+18	,	,	,	_	11	punct
+19	its	its	PRP$	_	20	poss
+20	eyes	eye	NNS	_	21	nsubj
+21	wide	wide	JJ	_	11	rcmod
+22	and	and	CC	_	21	cc
+23	frightened	frightened	JJ	_	21	conj
+24	.	.	.	_	11	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	continuing	continue	VBG	_	4	amod
+3	Nigerian	nigerian	JJ	_	4	amod
+4	outbreak	outbreak	NN	_	7	nsubj
+5	is	be	VBZ	_	7	cop
+6	the	the	DT	_	7	det
+7	biggest	biggest	JJS	_	0	ROOT
+8	ever	ever	RB	_	9	advmod
+9	caused	cause	VBN	_	7	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	vaccine	vaccine	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

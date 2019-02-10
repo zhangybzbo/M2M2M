@@ -1,0 +1,22 @@
+1	A	a	DT	_	4	det
+2	digital	digital	JJ	_	4	amod
+3	door	door	NN	_	4	nn
+4	lock	lock	NN	_	8	nsubj
+5	is	be	VBZ	_	8	cop
+6	an	a	DT	_	8	det
+7	electronic	electronic	JJ	_	8	amod
+8	lock	lock	NN	_	0	ROOT
+9	for	for	IN	_	8	prep
+10	residential	residential	JJ	_	11	amod
+11	applications	application	NNS	_	9	pobj
+12	such	such	JJ	_	13	mwe
+13	as	as	IN	_	11	prep
+14	front	front	JJ	_	15	amod
+15	doors	door	NNS	_	13	pobj
+16	on	on	IN	_	15	prep
+17	apartments	apartment	NNS	_	16	pobj
+18	and	and	CC	_	17	cc
+19	single-family	single-family	JJ	_	20	amod
+20	houses	house	NNS	_	17	conj
+21	.	.	.	_	8	punct
+

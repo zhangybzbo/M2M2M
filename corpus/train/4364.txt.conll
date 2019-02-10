@@ -1,0 +1,14 @@
+1	Because	because	IN	_	2	mwe
+2	of	of	IN	_	9	prep
+3	the	the	DT	_	5	det
+4	air	air	NN	_	5	nn
+5	pressure	pressure	NN	_	2	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	objects	object	NNS	_	9	nsubj
+9	sank	sink	VBD	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	sand	sand	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

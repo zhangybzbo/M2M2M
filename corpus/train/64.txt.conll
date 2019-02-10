@@ -1,0 +1,14 @@
+1	As	as	IN	_	7	prep
+2	a	a	DT	_	3	det
+3	control	control	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	cowpea	cowpea	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	sealed	seal	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	double	double	JJ	_	10	amod
+10	bags	bag	NNS	_	8	pobj
+11	without	without	IN	_	7	prep
+12	fumigant	fumigant	NN	_	11	pobj
+13	.	.	.	_	7	punct
+

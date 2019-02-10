@@ -1,0 +1,27 @@
+1	This	this	DT	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	an	a	DT	_	5	det
+4	exciting	exciting	JJ	_	5	amod
+5	innovation	innovation	NN	_	0	ROOT
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	packaging	packaging	NN	_	9	nn
+9	industry	industry	NN	_	6	pobj
+10	because	because	IN	_	15	mark
+11	the	the	DT	_	12	det
+12	aluminum	aluminum	NN	_	15	nsubjpass
+13	can	can	MD	_	15	aux
+14	was	be	VBD	_	15	auxpass
+15	made	make	VBN	_	5	advcl
+16	with	with	IN	_	15	prep
+17	only	only	RB	_	18	quantmod
+18	two	two	CD	_	19	num
+19	pieces	piece	NNS	_	16	pobj
+20	-	-	:	_	19	punct
+21	a	a	DT	_	22	det
+22	body	body	NN	_	19	dep
+23	and	and	CC	_	22	cc
+24	an	a	DT	_	25	det
+25	end	end	NN	_	22	conj
+26	.	.	.	_	5	punct
+

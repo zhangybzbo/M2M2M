@@ -1,0 +1,15 @@
+1	Work	work	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	completed	complete	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	contractors	contractor	NNS	_	4	pobj
+6	using	use	VBG	_	3	xcomp
+7	a	a	DT	_	9	det
+8	temporary	temporary	JJ	_	9	amod
+9	entrance	entrance	NN	_	6	dobj
+10	off	off	IN	_	9	prep
+11	Old	old	JJ	_	13	amod
+12	Renwick	Renwick	NNP	_	13	nn
+13	Road	Road	NNP	_	10	pobj
+14	.	.	.	_	3	punct
+

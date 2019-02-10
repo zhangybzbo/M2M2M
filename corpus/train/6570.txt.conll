@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	news	news	NN	_	0	ROOT
+3	that	that	IN	_	9	mark
+4	the	the	DT	_	6	det
+5	stock-index	stock-index	NN	_	6	nn
+6	futures	future	NNS	_	9	nsubjpass
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	approved	approve	VBN	_	2	ccomp
+10	stimulated	stimulate	VBN	_	13	amod
+11	Wednesday	Wednesday	NNP	_	13	poss
+12	's	's	POS	_	11	possessive
+13	market	market	NN	_	9	dobj
+14	.	.	.	_	2	punct
+

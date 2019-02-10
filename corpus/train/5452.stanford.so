@@ -1,0 +1,10 @@
+0	44	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="medical" pos="JJ" amod="t1"
+8	13	tok id="t1" base="bill" pos="NNS" nsubj="t2"
+14	18	tok id="t2" base="make" pos="VBP" ROOT="ROOT"
+19	21	tok id="t3" base="up" pos="RP" prt="t2"
+22	26	tok id="t4" base="half" pos="NN" dobj="t2"
+27	29	tok id="t5" base="of" pos="IN" prep="t4"
+30	42	tok id="t6" base="bankruptcy" pos="NNS" pobj="t5"
+43	44	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

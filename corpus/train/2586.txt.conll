@@ -1,0 +1,10 @@
+1	Professional	professional	JJ	_	2	amod
+2	modelmakers	modelmaker	NNS	_	4	nsubj
+3	often	often	RB	_	4	advmod
+4	create	create	VBP	_	0	ROOT
+5	models	model	NNS	_	4	dobj
+6	for	for	IN	_	5	prep
+7	many	many	JJ	_	8	amod
+8	professions	profession	NNS	_	6	pobj
+9	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	But	but	CC	_	3	cc
+2	we	we	PRP	_	3	nsubj
+3	are	be	VBP	_	0	ROOT
+4	not	not	RB	_	3	neg
+5	at	at	IN	_	7	dep
+6	all	all	DT	_	7	dep
+7	complacent	complacent	JJ	_	3	dep
+8	and	and	CC	_	7	cc
+9	we	we	PRP	_	12	nsubj
+10	are	be	VBP	_	12	cop
+11	well	well	RB	_	12	advmod
+12	aware	aware	JJ	_	7	conj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	challenges	challenge	NNS	_	13	pobj
+16	around	around	IN	_	15	prep
+17	recruitment	recruitment	NN	_	16	pobj
+18	.	.	.	_	3	punct
+

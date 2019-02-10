@@ -1,0 +1,1 @@
+A technician uses an in-circuit emulator on the host PC to set breakpoints , read/write internal registers , dump memory , and perform other debugger-like functions .

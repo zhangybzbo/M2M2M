@@ -1,0 +1,10 @@
+1	Most	most	JJS	_	3	amod
+2	commercial	commercial	JJ	_	3	amod
+3	pasta	pasta	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	this	this	DT	_	8	det
+8	method	method	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

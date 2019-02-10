@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	best	best	JJS	_	3	amod
+3	mode	mode	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	invention	invention	NN	_	4	pobj
+7	is	be	VBZ	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	form	form	VB	_	7	xcomp
+10	the	the	DT	_	11	det
+11	pillow	pillow	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	firm	firm	NN	_	14	nn
+14	foam	foam	NN	_	12	pobj
+15	rather	rather	RB	_	9	cc
+16	than	than	IN	_	15	mwe
+17	using	use	VBG	_	9	conj
+18	cotton	cotton	NN	_	23	nn
+19	or	or	CC	_	18	cc
+20	cloth	cloth	NN	_	18	conj
+21	or	or	CC	_	18	cc
+22	feather	feather	NN	_	18	conj
+23	filers	filer	NNS	_	17	dobj
+24	.	.	.	_	7	punct
+

@@ -1,0 +1,18 @@
+1	With	with	IN	_	6	prep
+2	robotic	robotic	JJ	_	3	amod
+3	surgery	surgery	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	surgeon	surgeon	NN	_	6	nsubj
+6	manipulates	manipulate	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	robot	robot	NN	_	6	dobj
+9	to	to	TO	_	10	aux
+10	do	do	VB	_	6	xcomp
+11	the	the	DT	_	12	det
+12	operation	operation	NN	_	10	dobj
+13	through	through	IN	_	10	prep
+14	the	the	DT	_	16	det
+15	small	small	JJ	_	16	amod
+16	openings	opening	NNS	_	13	pobj
+17	.	.	.	_	6	punct
+

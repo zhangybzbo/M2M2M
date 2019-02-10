@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	3	nsubj
+3	includes	include	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	13-page	13-page	JJ	_	6	amod
+6	index	index	NN	_	3	dobj
+7	,	,	,	_	6	punct
+8	which	which	WDT	_	11	nsubj
+9	is	be	VBZ	_	11	cop
+10	quite	quite	RB	_	11	advmod
+11	extensive	extensive	JJ	_	6	rcmod
+12	for	for	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	volume	volume	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	this	this	DT	_	17	det
+17	length	length	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

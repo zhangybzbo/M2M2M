@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	subject	subject	JJ	_	4	amod
+3	first	first	JJ	_	4	amod
+4	moves	move	NNS	_	0	ROOT
+5	a	a	DT	_	6	det
+6	foot	foot	NN	_	4	dep
+7	in	in	IN	_	10	mark
+8	order	order	NN	_	10	dep
+9	to	to	TO	_	10	aux
+10	take	take	VB	_	6	vmod
+11	a	a	DT	_	12	det
+12	step	step	NN	_	10	dobj
+13	.	.	.	_	4	punct
+

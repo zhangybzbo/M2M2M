@@ -1,0 +1,19 @@
+1	Sounds	sound	VBZ	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	trumpets	trumpet	VBZ	_	2	pobj
+4	,	,	,	_	3	punct
+5	bagpipes	bagpipe	NNS	_	3	conj
+6	,	,	,	_	3	punct
+7	and	and	CC	_	3	cc
+8	church	church	NN	_	9	nn
+9	organ	organ	NN	_	3	conj
+10	all	all	DT	_	11	nsubj
+11	appear	appear	VBP	_	1	dep
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	strings	string	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	cello	cello	NN	_	15	pobj
+18	.	.	.	_	1	punct
+

@@ -1,0 +1,14 @@
+1	Condo	Condo	NNP	_	2	nn
+2	associations	association	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	turning	turn	VBG	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	receiverships	receivership	NNS	_	5	pobj
+7	to	to	TO	_	8	aux
+8	collect	collect	VB	_	4	xcomp
+9	rent	rent	NN	_	8	dobj
+10	on	on	IN	_	8	prep
+11	foreclosed	foreclose	VBN	_	12	amod
+12	units	unit	NNS	_	10	pobj
+13	.	.	.	_	4	punct
+

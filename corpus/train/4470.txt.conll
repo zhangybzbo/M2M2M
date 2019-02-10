@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	famous	famous	JJ	_	3	amod
+3	actor	actor	NN	_	4	nsubj
+4	donated	donate	VBN	_	0	ROOT
+5	100	100	CD	_	6	num
+6	houses	house	NNS	_	4	dobj
+7	to	to	TO	_	4	prep
+8	victims	victim	NNS	_	7	pobj
+9	of	of	IN	_	8	prep
+10	last	last	JJ	_	11	amod
+11	year	year	NN	_	13	poss
+12	's	's	POS	_	11	possessive
+13	flood	flood	NN	_	9	pobj
+14	.	.	.	_	4	punct
+

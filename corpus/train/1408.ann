@@ -1,0 +1,3 @@
+T1	Term 17 26	complaint
+T2	Term 61 65	lead
+R1	Cause-Effect Arg1:T1 Arg2:T2

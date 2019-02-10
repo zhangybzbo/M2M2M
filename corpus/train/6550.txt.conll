@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	5	poss
+3	's	's	POS	_	2	possessive
+4	new	new	JJ	_	5	amod
+5	measures	measure	NNS	_	14	nsubj
+6	to	to	TO	_	7	aux
+7	regulate	regulate	VB	_	5	vmod
+8	cosmetic	cosmetic	NN	_	10	nn
+9	surgery	surgery	NN	_	10	nn
+10	procedures	procedure	NNS	_	7	dobj
+11	are	be	VBP	_	14	cop
+12	a	a	DT	_	14	det
+13	good	good	JJ	_	14	amod
+14	move	move	NN	_	0	ROOT
+15	.	.	.	_	14	punct
+

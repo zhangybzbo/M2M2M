@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	seek	seek	VBP	_	0	ROOT
+3	to	to	TO	_	5	aux
+4	actually	actually	RB	_	5	advmod
+5	reverse	reverse	VB	_	2	xcomp
+6	the	the	DT	_	7	det
+7	injury	injury	NN	_	5	dobj
+8	that	that	WDT	_	11	nsubjpass
+9	has	have	VBZ	_	11	aux
+10	been	be	VBN	_	11	auxpass
+11	caused	cause	VBN	_	7	rcmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	heart	heart	NN	_	15	nn
+15	attack	attack	NN	_	12	pobj
+16	.	.	.	_	2	punct
+

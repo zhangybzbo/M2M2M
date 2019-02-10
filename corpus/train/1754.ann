@@ -1,0 +1,3 @@
+T1	Term 78 87	landscape
+T2	Term 88 95	company
+R1	Product-Producer Arg1:T1 Arg2:T2

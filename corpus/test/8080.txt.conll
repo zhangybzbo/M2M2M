@@ -1,0 +1,26 @@
+1	The	the	DT	_	4	det
+2	UBC	UBC	NNP	_	4	nn
+3	graduate	graduate	NN	_	4	nn
+4	student	student	NN	_	5	nsubj
+5	spent	spend	VBD	_	0	ROOT
+6	his	he	PRP$	_	8	poss
+7	free	free	JJ	_	8	amod
+8	time	time	NN	_	5	dobj
+9	creating	create	VBG	_	5	xcomp
+10	an	a	DT	_	11	det
+11	application	application	NN	_	9	dobj
+12	called	call	VBN	_	11	vmod
+13	ColorSplash	ColorSplash	NNP	_	12	dep
+14	that	that	IN	_	15	nsubj
+15	lets	let	VBZ	_	11	rcmod
+16	people	people	NNS	_	17	nsubj
+17	play	play	VBP	_	15	ccomp
+18	with	with	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	colour	colour	NN	_	18	pobj
+21	in	in	IN	_	17	prep
+22	their	they	PRP$	_	24	poss
+23	digital	digital	JJ	_	24	amod
+24	photos	photo	NNS	_	21	pobj
+25	.	.	.	_	5	punct
+

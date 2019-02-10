@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	earthquake	earthquake	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	failures	failure	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	electric	electric	JJ	_	10	amod
+9	power	power	NN	_	10	nn
+10	system	system	NN	_	6	pobj
+11	,	,	,	_	3	punct
+12	the	the	DT	_	15	det
+13	water	water	NN	_	15	nn
+14	supply	supply	NN	_	15	nn
+15	system	system	NN	_	11	ccomp
+16	,	,	,	_	15	punct
+17	the	the	DT	_	19	det
+18	sewer	sewer	NN	_	19	nn
+19	system	system	NN	_	15	appos
+20	,	,	,	_	15	punct
+21	the	the	DT	_	25	det
+22	telephone	telephone	NN	_	25	nn
+23	and	and	CC	_	22	cc
+24	telegraph	telegraph	NN	_	22	conj
+25	systems	system	NNS	_	15	appos
+26	.	.	.	_	15	punct
+

@@ -1,0 +1,10 @@
+1	Money	money	NN	_	5	nsubjpass
+2	for	for	IN	_	1	prep
+3	communication	communication	NN	_	2	pobj
+4	is	be	VBZ	_	5	auxpass
+5	invested	invest	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	Ethernet	Ethernet	NNP	_	8	nn
+8	technology	technology	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

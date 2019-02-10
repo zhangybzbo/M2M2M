@@ -1,0 +1,13 @@
+1	A	a	DT	_	3	det
+2	small	small	JJ	_	3	amod
+3	number	number	NN	_	6	nsubj
+4	of	of	IN	_	3	prep
+5	students	student	NNS	_	4	pobj
+6	continue	continue	VBP	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	bring	bring	VB	_	6	xcomp
+9	guns	gun	NNS	_	8	dobj
+10	to	to	TO	_	8	prep
+11	school	school	NN	_	10	pobj
+12	.	.	.	_	6	punct
+

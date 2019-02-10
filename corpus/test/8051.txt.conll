@@ -1,0 +1,15 @@
+1	As	as	IN	_	3	mark
+2	Vinay	Vinay	NNP	_	3	nsubj
+3	collapsed	collapse	VBD	_	9	advcl
+4	in	in	IN	_	3	prep
+5	pain	pain	NN	_	4	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	villagers	villager	NNS	_	9	nsubj
+9	poured	pour	VBD	_	0	ROOT
+10	acid	acid	NN	_	9	dobj
+11	into	into	IN	_	9	prep
+12	his	he	PRP$	_	13	poss
+13	eyes	eye	NNS	_	11	pobj
+14	.	.	.	_	9	punct
+

@@ -1,0 +1,16 @@
+1	Fair	Fair	NNP	_	3	nn
+2	trade	trade	NN	_	3	nn
+3	bananas	banana	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	imported	import	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	few	few	JJ	_	10	amod
+10	countries	country	NNS	_	7	pobj
+11	in	in	IN	_	10	prep
+12	Europe	Europe	NNP	_	11	pobj
+13	for	for	IN	_	6	prep
+14	decades	decade	NNS	_	13	pobj
+15	.	.	.	_	6	punct
+

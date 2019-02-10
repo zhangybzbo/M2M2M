@@ -1,0 +1,12 @@
+1	Along	along	IN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	way	way	NN	_	1	pobj
+4	she	she	PRP	_	5	nsubj
+5	presents	present	VBZ	_	3	rcmod
+6	anecdotes	anecdote	NNS	_	5	dobj
+7	illustrating	illustrate	VBG	_	6	vmod
+8	basic	basic	JJ	_	10	amod
+9	business	business	NN	_	10	nn
+10	principles	principle	NNS	_	7	dobj
+11	.	.	.	_	1	punct
+

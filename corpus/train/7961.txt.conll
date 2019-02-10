@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	a	a	DT	_	9	det
+4	bright	bright	JJ	_	9	amod
+5	and	and	CC	_	4	cc
+6	cheery	cheery	JJ	_	4	conj
+7	yellow	yellow	JJ	_	9	amod
+8	casement	casement	NN	_	9	nn
+9	window	window	NN	_	2	dobj
+10	over	over	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	sink	sink	NN	_	10	pobj
+13	in	in	IN	_	12	prep
+14	my	my	PRP$	_	15	poss
+15	kitchen	kitchen	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

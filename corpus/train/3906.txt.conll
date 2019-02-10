@@ -1,0 +1,16 @@
+1	America	America	NNP	_	2	nsubj
+2	allows	allow	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	media	media	NNS	_	2	dobj
+5	to	to	TO	_	6	aux
+6	manipulate	manipulate	VB	_	2	xcomp
+7	society	society	NN	_	6	dobj
+8	as	as	IN	_	12	mark
+9	easy	easy	JJ	_	12	dep
+10	a	a	DT	_	11	det
+11	puppeteer	puppeteer	NN	_	12	nsubj
+12	manipulates	manipulate	VBZ	_	6	advcl
+13	a	a	DT	_	14	det
+14	puppet	puppet	NN	_	12	dobj
+15	.	.	.	_	2	punct
+

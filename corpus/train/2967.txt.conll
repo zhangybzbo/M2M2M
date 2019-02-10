@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	Lebedev-Milin	lebedev-milin	JJ	_	3	amod
+3	conjecture	conjecture	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	distilled	distil	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	original	original	JJ	_	9	amod
+9	manuscript	manuscript	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

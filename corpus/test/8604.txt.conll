@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	paper	paper	NN	_	3	nsubj
+3	includes	include	VBZ	_	0	ROOT
+4	both	both	CC	_	6	preconj
+5	an	a	DT	_	6	det
+6	essay	essay	NN	_	3	dobj
+7	surveying	survey	VBG	_	6	vmod
+8	the	the	DT	_	9	det
+9	literature	literature	NN	_	7	dobj
+10	and	and	CC	_	9	cc
+11	a	a	DT	_	13	det
+12	descriptor-indexed	descriptor-indexed	JJ	_	13	amod
+13	bibliography	bibliography	NN	_	9	conj
+14	of	of	IN	_	9	prep
+15	over	over	IN	_	14	pcomp
+16	200	200	CD	_	17	num
+17	papers	papers	NNS	_	15	pobj
+18	and	and	CC	_	17	cc
+19	books	book	NNS	_	17	conj
+20	.	.	.	_	3	punct
+

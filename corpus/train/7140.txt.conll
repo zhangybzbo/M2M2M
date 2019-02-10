@@ -1,0 +1,16 @@
+1	Villagers	villager	NNS	_	2	nsubj
+2	live	live	VBP	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	constant	constant	JJ	_	5	amod
+5	terror	terror	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	indiscriminate	indiscriminate	JJ	_	8	amod
+8	gunfire	gunfire	NN	_	6	pobj
+9	which	which	WDT	_	10	nsubj
+10	fills	fill	VBZ	_	8	rcmod
+11	the	the	DT	_	12	det
+12	nights	night	NNS	_	10	dobj
+13	throughout	throughout	IN	_	10	prep
+14	Chechnya	Chechnya	NNP	_	13	pobj
+15	.	.	.	_	2	punct
+

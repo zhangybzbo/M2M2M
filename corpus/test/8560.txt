@@ -1,0 +1,1 @@
+A single good starting geometry was generated from an input SMILES string .

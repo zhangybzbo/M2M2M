@@ -1,0 +1,3 @@
+T1	Term 0 5	Smoke
+T2	Term 16 21	fires
+R1	Cause-Effect Arg1:T2 Arg2:T1

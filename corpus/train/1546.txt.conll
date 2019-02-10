@@ -1,0 +1,25 @@
+1	His	he	PRP$	_	3	poss
+2	ninth	ninth	JJ	_	3	amod
+3	novel	novel	NN	_	9	nsubj
+4	,	,	,	_	3	punct
+5	The	the	DT	_	7	det
+6	Echo	Echo	NNP	_	7	nn
+7	Maker	Maker	NNP	_	3	appos
+8	,	,	,	_	3	punct
+9	starts	start	VBZ	_	0	ROOT
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	siege	siege	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	sandhill	sandhill	JJ	_	15	amod
+15	cranes	crane	NNS	_	13	pobj
+16	,	,	,	_	15	punct
+17	a	a	DT	_	20	det
+18	one-vehicle	one-vehicle	JJ	_	20	amod
+19	highway	highway	NN	_	20	nn
+20	accident	accident	NN	_	15	conj
+21	and	and	CC	_	15	cc
+22	a	a	DT	_	23	det
+23	mystery	mystery	NN	_	15	conj
+24	.	.	.	_	9	punct
+

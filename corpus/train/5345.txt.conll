@@ -1,0 +1,20 @@
+1	I	I	PRP	_	3	nsubjpass
+2	am	be	VBP	_	3	auxpass
+3	prepared	prepare	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	accept	accept	VB	_	3	xcomp
+6	what	what	WP	_	8	nsubj
+7	was	be	VBD	_	8	aux
+8	going	go	VBG	_	5	ccomp
+9	on	on	IN	_	8	prep
+10	in	in	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	family	family	NN	_	10	pobj
+13	from	from	IN	_	8	prep
+14	letters	letter	NNS	_	13	pobj
+15	written	write	VBN	_	14	vmod
+16	by	by	IN	_	15	prep
+17	your	you	PRP$	_	18	poss
+18	family	family	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

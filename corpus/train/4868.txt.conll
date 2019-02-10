@@ -1,0 +1,21 @@
+1	Another	another	DT	_	3	det
+2	known	known	JJ	_	3	amod
+3	connector	connector	NN	_	4	nsubj
+4	uses	use	VBZ	_	0	ROOT
+5	the	the	DT	_	7	det
+6	center	center	NN	_	7	nn
+7	conductor	conductor	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	coaxial	coaxial	JJ	_	11	amod
+11	cable	cable	NN	_	8	pobj
+12	to	to	TO	_	13	aux
+13	push	push	VB	_	4	vmod
+14	out	out	RP	_	13	prt
+15	the	the	DT	_	16	det
+16	pin	pin	NN	_	13	dobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	connector	connector	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

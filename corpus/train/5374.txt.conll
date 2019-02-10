@@ -1,0 +1,24 @@
+1	He	he	PRP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	the	the	DT	_	4	det
+4	muster-spirit	muster-spirit	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	that	that	DT	_	8	det
+7	glorious	glorious	JJ	_	8	amod
+8	pleiad	pleiad	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	warriors	warrior	NNS	_	9	pobj
+11	and	and	CC	_	10	cc
+12	sailors	sailor	NNS	_	10	conj
+13	who	who	WP	_	10	dep
+14	at	at	IN	_	13	dep
+15	that	that	DT	_	16	det
+16	epoch	epoch	NN	_	14	pobj
+17	used	use	VBN	_	16	vmod
+18	to	to	TO	_	19	aux
+19	swarm	swarm	VB	_	17	xcomp
+20	the	the	DT	_	22	det
+21	Indian	indian	JJ	_	22	amod
+22	seas	sea	NNS	_	19	dobj
+23	.	.	.	_	4	punct
+

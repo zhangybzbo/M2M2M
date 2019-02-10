@@ -1,0 +1,18 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	weeping	weep	VBG	_	2	dep
+4	and	and	CC	_	3	cc
+5	wailing	wail	VBG	_	3	conj
+6	and	and	CC	_	3	cc
+7	gnashing	gnash	VBG	_	3	conj
+8	of	of	IN	_	7	prep
+9	teeth	tooth	NNS	_	8	pobj
+10	in	in	IN	_	7	prep
+11	the	the	DT	_	12	det
+12	camp	camp	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	outsiders	outsider	NNS	_	13	pobj
+16	now	now	RB	_	7	advmod
+17	.	.	.	_	2	punct
+

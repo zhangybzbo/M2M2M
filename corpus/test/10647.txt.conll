@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	beginning	beginning	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	BBC	BBC	NNP	_	8	poss
+6	's	's	POS	_	5	possessive
+7	wartime	wartime	JJ	_	8	amod
+8	role	role	NN	_	3	pobj
+9	is	be	VBZ	_	11	auxpass
+10	also	also	RB	_	11	advmod
+11	explored	explore	VBN	_	0	ROOT
+12	through	through	IN	_	11	prep
+13	documents	document	NNS	_	12	pobj
+14	and	and	CC	_	13	cc
+15	photographs	photograph	NNS	_	13	conj
+16	dating	date	VBG	_	13	vmod
+17	back	back	RB	_	16	advmod
+18	to	to	TO	_	17	prep
+19	1935	1935	CD	_	18	pobj
+20	.	.	.	_	11	punct
+

@@ -1,0 +1,27 @@
+1	Officer	Officer	NNP	_	2	nn
+2	Daniel	Daniel	NNP	_	3	nsubj
+3	testified	testify	VBD	_	0	ROOT
+4	that	that	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	methamphetamine	methamphetamine	NN	_	7	nsubj
+7	was	be	VBD	_	3	ccomp
+8	inside	inside	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	glass	glass	NN	_	11	nn
+11	container	container	NN	_	8	pobj
+12	that	that	WDT	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	placed	place	VBN	_	11	rcmod
+15	and	and	CC	_	14	cc
+16	sealed	seal	VBN	_	14	conj
+17	inside	inside	IN	_	14	prep
+18	a	a	DT	_	25	det
+19	``	``	``	_	25	punct
+20	Winnie	Winnie	NNP	_	25	nn
+21	the	the	DT	_	25	det
+22	Pooh	Pooh	NNP	_	25	nn
+23	''	''	''	_	25	punct
+24	plastic	plastic	NN	_	25	nn
+25	container	container	NN	_	17	pobj
+26	.	.	.	_	3	punct
+

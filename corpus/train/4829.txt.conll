@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	church	church	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	six	six	CD	_	5	num
+5	portals	portal	NNS	_	3	dobj
+6	,	,	,	_	5	punct
+7	representing	represent	VBG	_	5	vmod
+8	different	different	JJ	_	10	amod
+9	architectural	architectural	JJ	_	10	amod
+10	styles	style	NNS	_	7	dobj
+11	from	from	IN	_	10	prep
+12	Gothic	gothic	JJ	_	11	pobj
+13	to	to	TO	_	12	prep
+14	Renaissance	Renaissance	NNP	_	15	nn
+15	style	style	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

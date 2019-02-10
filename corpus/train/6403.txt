@@ -1,0 +1,1 @@
+Prior to the 4004 , engineers built computers either from collections of chips or from discrete components .

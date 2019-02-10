@@ -1,0 +1,8 @@
+1	Guinea	Guinea	NNP	_	2	nn
+2	unions	union	NNS	_	3	nsubj
+3	threaten	threaten	VBP	_	0	ROOT
+4	junta	junta	NN	_	3	dobj
+5	with	with	IN	_	3	prep
+6	walkout	walkout	NN	_	5	pobj
+7	.	.	.	_	3	punct
+

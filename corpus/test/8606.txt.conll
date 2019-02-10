@@ -1,0 +1,14 @@
+1	He	he	PRP	_	2	nsubj
+2	assigned	assign	VBD	_	0	ROOT
+3	an	a	DT	_	4	det
+4	interview	interview	NN	_	2	dobj
+5	with	with	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	presidential	presidential	JJ	_	8	amod
+8	candidate	candidate	NN	_	5	pobj
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	12	det
+11	next	next	JJ	_	12	amod
+12	show	show	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

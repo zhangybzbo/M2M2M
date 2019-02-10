@@ -1,0 +1,1 @@
+In addition , the CPU bus of the non-safety controller is connected to each safety unit of the safety controller .

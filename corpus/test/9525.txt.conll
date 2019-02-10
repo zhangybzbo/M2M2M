@@ -1,0 +1,18 @@
+1	A	a	DT	_	3	det
+2	French	french	JJ	_	3	amod
+3	initiative	initiative	NN	_	10	nsubjpass
+4	aimed	aim	VBN	_	3	vmod
+5	at	at	IN	_	4	prep
+6	tackling	tackle	VBG	_	5	pcomp
+7	childhood	childhood	NN	_	8	nn
+8	obesity	obesity	NN	_	6	dobj
+9	is	be	VBZ	_	10	auxpass
+10	adopted	adopt	VBN	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	town	town	NN	_	11	pobj
+14	in	in	IN	_	13	prep
+15	North	North	NNP	_	16	nn
+16	Lanarkshire	Lanarkshire	NNP	_	14	pobj
+17	.	.	.	_	10	punct
+

@@ -1,0 +1,10 @@
+1	Givers	Givers	NNP	_	4	nn
+2	gain	gain	NN	_	4	nn
+3	moral	moral	JJ	_	4	amod
+4	strength	strength	NN	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	happiness	happiness	NN	_	4	conj
+7	from	from	IN	_	4	prep
+8	giving	give	VBG	_	7	pcomp
+9	.	.	.	_	4	punct
+

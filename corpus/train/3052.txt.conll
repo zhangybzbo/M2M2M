@@ -1,0 +1,22 @@
+1	I	I	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	ruined	ruin	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	outside	outside	JJ	_	3	dobj
+6	,	,	,	_	5	punct
+7	when	when	WRB	_	10	advmod
+8	I	I	PRP	_	10	nsubj
+9	mistakenly	mistakenly	RB	_	10	advmod
+10	used	use	VBD	_	5	rcmod
+11	a	a	DT	_	12	det
+12	bottle	bottle	NN	_	10	dobj
+13	with	with	IN	_	10	prep
+14	soap	soap	NN	_	13	pobj
+15	in	in	IN	_	10	prep
+16	it	it	PRP	_	15	pobj
+17	,	,	,	_	5	punct
+18	instead	instead	RB	_	19	advmod
+19	of	of	IN	_	5	prep
+20	water	water	NN	_	19	pobj
+21	.	.	.	_	3	punct
+

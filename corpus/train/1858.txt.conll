@@ -1,0 +1,22 @@
+1	With	with	IN	_	9	prep
+2	these	these	DT	_	4	det
+3	two	two	CD	_	4	num
+4	tools	tool	NNS	_	1	pobj
+5	,	,	,	_	9	punct
+6	the	the	DT	_	7	det
+7	dataset	dataset	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	reduced	reduce	VBN	_	0	ROOT
+10	from	from	IN	_	9	prep
+11	its	its	PRP$	_	13	poss
+12	original	original	JJ	_	13	amod
+13	size	size	NN	_	10	pobj
+14	of	of	IN	_	13	prep
+15	over	over	IN	_	14	pcomp
+16	200	200	CD	_	17	num
+17	features	feature	NNS	_	15	pobj
+18	into	into	IN	_	9	prep
+19	17	17	CD	_	20	num
+20	%	%	NN	_	18	pobj
+21	.	.	.	_	9	punct
+

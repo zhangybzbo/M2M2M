@@ -1,0 +1,11 @@
+1	Fill	fill	VB	_	0	ROOT
+2	the	the	DT	_	3	det
+3	reservoir	reservoir	NN	_	1	dobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	coffeemaker	coffeemaker	NN	_	4	pobj
+7	with	with	IN	_	1	prep
+8	white	white	JJ	_	9	amod
+9	vinegar	vinegar	NN	_	7	pobj
+10	.	.	.	_	1	punct
+

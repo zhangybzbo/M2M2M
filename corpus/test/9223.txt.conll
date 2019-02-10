@@ -1,0 +1,17 @@
+1	His	he	PRP$	_	2	poss
+2	approach	approach	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	similar	similar	JJ	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	8	det
+7	recent	recent	JJ	_	8	amod
+8	comment	comment	NN	_	5	pobj
+9	made	make	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	a	a	DT	_	15	det
+12	prominent	prominent	JJ	_	15	amod
+13	video	video	NN	_	15	nn
+14	game	game	NN	_	15	nn
+15	developer	developer	NN	_	10	pobj
+16	.	.	.	_	4	punct
+

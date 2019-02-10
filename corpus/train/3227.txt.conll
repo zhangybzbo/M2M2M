@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	workers	worker	NNS	_	3	nsubj
+3	fell	fall	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	upper	upper	JJ	_	7	amod
+7	part	part	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	roof	roof	NN	_	8	pobj
+11	to	to	TO	_	3	prep
+12	a	a	DT	_	14	det
+13	lower	lower	JJR	_	14	amod
+14	part	part	NN	_	11	pobj
+15	.	.	.	_	3	punct
+

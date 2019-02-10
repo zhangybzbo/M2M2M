@@ -1,0 +1,8 @@
+1	Seniors	senior	NNS	_	2	nsubj
+2	get	get	VBP	_	0	ROOT
+3	much	much	JJ	_	4	amod
+4	joy	joy	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	animals	animal	NNS	_	5	pobj
+7	.	.	.	_	2	punct
+

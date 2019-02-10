@@ -1,0 +1,25 @@
+1	Many	many	JJ	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	ingredients	ingredient	NNS	_	2	pobj
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	gourmet	gourmet	NN	_	8	nn
+8	basket	basket	NN	_	5	pobj
+9	are	be	VBP	_	11	cop
+10	vaguely	vaguely	RB	_	11	advmod
+11	familiar	familiar	JJ	_	0	ROOT
+12	,	,	,	_	11	punct
+13	but	but	CC	_	11	cc
+14	they	they	PRP	_	17	nsubjpass
+15	have	have	VBP	_	17	aux
+16	been	be	VBN	_	17	auxpass
+17	taken	take	VBN	_	11	conj
+18	to	to	TO	_	17	prep
+19	the	the	DT	_	21	det
+20	ultimate	ultimate	JJ	_	21	amod
+21	level	level	NN	_	18	pobj
+22	in	in	IN	_	21	prep
+23	luxury	luxury	NN	_	22	pobj
+24	.	.	.	_	11	punct
+

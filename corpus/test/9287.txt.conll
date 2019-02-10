@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det
+2	mid-oleic	mid-oleic	JJ	_	4	amod
+3	sunflower	sunflower	NN	_	4	nn
+4	oil	oil	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	compared	compare	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	cottonseed	cottonseed	NN	_	14	nn
+9	-LRB-	-lrb-	-LRB-	_	11	punct
+10	Gossypium	gossypium	NN	_	11	nn
+11	spp	spp	NN	_	14	appos
+12	.	.	.	_	11	punct
+13	-RRB-	-rrb-	-RRB-	_	11	punct
+14	oil	oil	NN	_	7	pobj
+15	,	,	,	_	6	punct
+16	the	the	DT	_	19	det
+17	``	``	``	_	19	punct
+18	Gold	Gold	NNP	_	19	nn
+19	Standard	Standard	NNP	_	6	xcomp
+20	''	''	''	_	19	punct
+21	for	for	IN	_	19	prep
+22	frying	fry	VBG	_	21	pobj
+23	.	.	.	_	6	punct
+

@@ -1,0 +1,19 @@
+1	Beeswax	beeswax	NN	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	natural	natural	JJ	_	5	amod
+5	wax	wax	NN	_	0	ROOT
+6	produced	produce	VBN	_	5	vmod
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	bee	bee	NN	_	10	nn
+10	hive	hive	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	honey	honey	NN	_	13	nn
+13	bees	bee	NNS	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	genus	genus	NN	_	17	nn
+17	Apis	Apis	NNP	_	14	pobj
+18	.	.	.	_	5	punct
+

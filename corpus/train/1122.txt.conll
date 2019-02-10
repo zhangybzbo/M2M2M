@@ -1,0 +1,13 @@
+1	Mitochondria	mitochondrium	NN	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	passed	pass	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	to	to	TO	_	4	pcomp
+6	subsequent	subsequent	JJ	_	7	amod
+7	generations	generation	NNS	_	5	pobj
+8	only	only	RB	_	9	advmod
+9	through	through	IN	_	5	prep
+10	egg	egg	NN	_	11	nn
+11	cells	cell	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

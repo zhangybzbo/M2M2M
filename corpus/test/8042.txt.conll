@@ -1,0 +1,10 @@
+1	My	my	PRP$	_	2	poss
+2	cat	cat	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	problem	problem	NN	_	3	dobj
+6	with	with	IN	_	5	prep
+7	his	he	PRP$	_	8	poss
+8	paw	paw	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

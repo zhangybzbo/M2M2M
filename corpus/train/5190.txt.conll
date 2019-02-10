@@ -1,0 +1,18 @@
+1	By	by	IN	_	7	prep
+2	1906	1906	CD	_	1	pobj
+3	,	,	,	_	7	punct
+4	the	the	DT	_	5	det
+5	company	company	NN	_	7	nsubj
+6	was	be	VBD	_	7	aux
+7	making	make	VBG	_	0	ROOT
+8	over	over	IN	_	7	prep
+9	3000	3000	CD	_	11	num
+10	different	different	JJ	_	11	amod
+11	soaps	soap	NNS	_	8	pobj
+12	,	,	,	_	11	punct
+13	perfumes	perfume	NNS	_	11	appos
+14	and	and	CC	_	13	cc
+15	other	other	JJ	_	16	amod
+16	products	product	NNS	_	13	conj
+17	.	.	.	_	7	punct
+

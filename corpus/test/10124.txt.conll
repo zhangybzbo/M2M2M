@@ -1,0 +1,21 @@
+1	In	in	IN	_	0	ROOT
+2	ancient	ancient	JJ	_	3	amod
+3	Egypt	Egypt	NNP	_	1	pobj
+4	,	,	,	_	1	punct
+5	the	the	DT	_	6	det
+6	people	people	NNS	_	4	dep
+7	in	in	IN	_	6	prep
+8	that	that	DT	_	10	mark
+9	civilization	civilization	NN	_	10	nsubj
+10	depilated	depilate	VBD	_	7	pcomp
+11	their	they	PRP$	_	12	poss
+12	bodies	body	NNS	_	10	dobj
+13	to	to	TO	_	14	aux
+14	prevent	prevent	VB	_	10	vmod
+15	infestation	infestation	NN	_	14	dobj
+16	of	of	IN	_	15	prep
+17	fleas	flea	NNS	_	16	pobj
+18	and	and	CC	_	17	cc
+19	lice	louse	NN	_	17	conj
+20	.	.	.	_	6	punct
+

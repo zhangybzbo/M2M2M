@@ -1,0 +1,17 @@
+1	But	but	CC	_	4	cc
+2	my	my	PRP$	_	3	poss
+3	soda	soda	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	cup	cup	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	so	so	IN	_	12	mark
+10	no	no	DT	_	11	neg
+11	top	top	NN	_	12	nsubj
+12	made	make	VBD	_	4	advcl
+13	it	it	PRP	_	12	dobj
+14	very	very	RB	_	15	advmod
+15	unwieldy	unwieldy	JJ	_	12	advmod
+16	.	.	.	_	4	punct
+

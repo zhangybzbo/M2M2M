@@ -1,0 +1,26 @@
+1	Swissair	Swissair	NNP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	a	a	DT	_	4	det
+4	victim	victim	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	clandestine	clandestine	JJ	_	8	amod
+8	wealth-transfer	wealth-transfer	NN	_	5	pobj
+9	plaguing	plague	VBG	_	8	vmod
+10	the	the	DT	_	12	det
+11	productive	productive	JJ	_	12	amod
+12	sector	sector	NN	_	9	dobj
+13	as	as	IN	_	9	prep
+14	a	a	DT	_	15	det
+15	result	result	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	20	det
+18	falling	fall	VBG	_	20	amod
+19	interest-rate	interest-rate	NN	_	20	nn
+20	structure	structure	NN	_	16	pobj
+21	caused	cause	VBN	_	20	vmod
+22	by	by	IN	_	21	prep
+23	bond	bond	NN	_	24	nn
+24	speculation	speculation	NN	_	22	pobj
+25	.	.	.	_	4	punct
+

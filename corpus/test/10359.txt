@@ -1,0 +1,1 @@
+You reassigned them after making a change in the registry through the administrative console or by using wsadmin scriptin .

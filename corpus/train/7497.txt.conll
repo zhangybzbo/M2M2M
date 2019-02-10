@@ -1,0 +1,19 @@
+1	Once	once	IN	_	5	mark
+2	it	it	PRP	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	middle	middle	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	winter	winter	NN	_	6	pobj
+8	,	,	,	_	5	punct
+9	and	and	CC	_	5	cc
+10	the	the	DT	_	11	det
+11	snowflakes	snowflake	NNS	_	12	nsubj
+12	fell	fall	VBD	_	5	conj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	sky	sky	NN	_	13	pobj
+16	like	like	IN	_	15	prep
+17	feathers	feather	NNS	_	16	pobj
+18	.	.	.	_	5	punct
+

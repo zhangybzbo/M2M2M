@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	findings	finding	NNS	_	4	nsubj
+3	clearly	clearly	RB	_	4	advmod
+4	show	show	VBP	_	0	ROOT
+5	a	a	DT	_	7	det
+6	high	high	JJ	_	7	amod
+7	level	level	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	satisfaction	satisfaction	NN	_	8	pobj
+10	from	from	IN	_	7	prep
+11	customers	customer	NNS	_	10	pobj
+12	using	use	VBG	_	7	vmod
+13	new	new	JJ	_	16	amod
+14	cutting-edge	cutting-edge	JJ	_	16	amod
+15	retail	retail	JJ	_	16	amod
+16	technology	technology	NN	_	12	dobj
+17	that	that	WDT	_	19	nsubj
+18	has	have	VBZ	_	19	aux
+19	led	lead	VBN	_	16	rcmod
+20	to	to	TO	_	19	prep
+21	higher	higher	JJR	_	22	amod
+22	sales	sale	NNS	_	20	pobj
+23	.	.	.	_	4	punct
+

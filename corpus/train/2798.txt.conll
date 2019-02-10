@@ -1,0 +1,21 @@
+1	Fans	fan	NNS	_	2	nsubj
+2	scale	scale	VBP	_	0	ROOT
+3	these	these	DT	_	5	det
+4	city	city	NN	_	5	nn
+5	walls	wall	NNS	_	2	dobj
+6	after	after	IN	_	8	mark
+7	organizers	organizer	NNS	_	8	nsubj
+8	threw	throw	VBD	_	2	advcl
+9	up	up	RP	_	8	prt
+10	a	a	DT	_	11	det
+11	barrier	barrier	NN	_	8	dobj
+12	to	to	TO	_	13	aux
+13	block	block	VB	_	11	vmod
+14	the	the	DT	_	15	det
+15	view	view	NN	_	13	dobj
+16	for	for	IN	_	15	prep
+17	those	those	DT	_	16	pobj
+18	without	without	IN	_	17	prep
+19	tickets	ticket	NNS	_	18	pobj
+20	.	.	.	_	2	punct
+

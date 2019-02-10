@@ -1,0 +1,10 @@
+1	I	I	PRP	_	2	nsubj
+2	owed	owe	VBD	_	0	ROOT
+3	some	some	DT	_	5	det
+4	back	back	JJ	_	5	amod
+5	taxes	tax	NNS	_	2	dobj
+6	from	from	IN	_	2	prep
+7	pervious	pervious	JJ	_	8	amod
+8	years	year	NNS	_	6	pobj
+9	.	.	.	_	2	punct
+

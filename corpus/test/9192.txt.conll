@@ -1,0 +1,21 @@
+1	High-frequency	high-frequency	NN	_	4	nn
+2	geometric	geometric	JJ	_	4	amod
+3	ray	ray	NN	_	4	nn
+4	theory	theory	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	used	use	VBN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	study	study	VB	_	6	xcomp
+9	the	the	DT	_	11	det
+10	refracted	refracted	JJ	_	11	amod
+11	arrival	arrival	NN	_	8	dobj
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	layer	layer	NN	_	12	pobj
+15	embedded	embed	VBN	_	14	vmod
+16	in	in	IN	_	15	prep
+17	an	a	DT	_	19	det
+18	infinite	infinite	JJ	_	19	amod
+19	medium	medium	NN	_	16	pobj
+20	.	.	.	_	6	punct
+

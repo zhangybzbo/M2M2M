@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	dispute	dispute	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	resulted	result	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	major	major	JJ	_	8	amod
+7	regional	regional	JJ	_	8	amod
+8	wars	war	NNS	_	5	pobj
+9	and	and	CC	_	8	cc
+10	two	two	CD	_	12	num
+11	Palestinian	palestinian	JJ	_	12	amod
+12	Intifadas	intifada	NNS	_	8	conj
+13	with	with	IN	_	12	prep
+14	tragedies	tragedy	NNS	_	13	pobj
+15	on	on	IN	_	14	prep
+16	both	both	DT	_	17	det
+17	sides	side	NNS	_	15	pobj
+18	.	.	.	_	4	punct
+

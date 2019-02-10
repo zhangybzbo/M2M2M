@@ -1,0 +1,24 @@
+1	Based	base	VBN	_	0	ROOT
+2	in	in	IN	_	1	prep
+3	Cambridge	Cambridge	NNP	_	2	pobj
+4	,	,	,	_	3	punct
+5	New	New	NNP	_	6	nn
+6	Zealand	Zealand	NNP	_	3	appos
+7	,	,	,	_	3	punct
+8	the	the	DT	_	9	det
+9	company	company	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	bees	bee	NNS	_	12	nsubj
+12	produce	produce	VBP	_	1	ccomp
+13	manuka	manuka	NN	_	14	nn
+14	honey	honey	NN	_	12	dobj
+15	,	,	,	_	14	punct
+16	rewarewa	rewarewa	NN	_	17	nn
+17	honey	honey	NN	_	14	conj
+18	,	,	,	_	14	punct
+19	bee	bee	NN	_	20	nn
+20	pollen	pollen	NN	_	14	conj
+21	and	and	CC	_	14	cc
+22	propolis	propoli	NN	_	14	conj
+23	.	.	.	_	1	punct
+

@@ -1,0 +1,20 @@
+1	British	british	JJ	_	2	amod
+2	scientists	scientist	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	created	create	VBN	_	0	ROOT
+5	human	human	JJ	_	6	amod
+6	sperm	sperm	NN	_	4	dobj
+7	using	use	VBG	_	4	xcomp
+8	stem	stem	NN	_	9	nn
+9	cells	cell	NNS	_	7	dobj
+10	in	in	IN	_	7	prep
+11	a	a	DT	_	13	det
+12	medical	medical	JJ	_	13	amod
+13	first	first	JJ	_	10	pobj
+14	that	that	DT	_	16	nsubj
+15	could	could	MD	_	16	aux
+16	revolutionise	revolutionise	VB	_	13	rcmod
+17	fertility	fertility	NN	_	18	nn
+18	treatment	treatment	NN	_	16	dobj
+19	.	.	.	_	4	punct
+

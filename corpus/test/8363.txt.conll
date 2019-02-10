@@ -1,0 +1,24 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	boat	boat	NN	_	4	nsubj
+4	sailed	sail	VBD	_	0	ROOT
+5	away	away	RB	_	4	advmod
+6	from	from	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	harbour	harbour	NN	_	6	pobj
+9	one	one	CD	_	13	nsubj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	crew	crew	NN	_	10	pobj
+13	felt	feel	VBD	_	8	rcmod
+14	increasingly	increasingly	RB	_	15	advmod
+15	uneasy	uneasy	JJ	_	13	acomp
+16	about	about	IN	_	15	prep
+17	some	some	DT	_	16	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	signs	sign	NNS	_	18	pobj
+21	he	he	PRP	_	22	nsubj
+22	observed	observe	VBD	_	20	rcmod
+23	.	.	.	_	4	punct
+

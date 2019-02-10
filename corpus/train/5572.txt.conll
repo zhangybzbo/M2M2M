@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	infusion	infusion	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	11	det
+7	6	6	CD	_	8	number
+8	ml	ml	NN	_	11	amod
+9	plastic	plastic	NN	_	11	nn
+10	disposable	disposable	JJ	_	11	amod
+11	syringe	syringe	NN	_	5	pobj
+12	.	.	.	_	4	punct
+

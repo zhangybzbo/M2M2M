@@ -1,0 +1,18 @@
+1	In	in	IN	_	8	prep
+2	recent	recent	JJ	_	3	amod
+3	years	year	NNS	_	1	pobj
+4	,	,	,	_	8	punct
+5	most	most	JJS	_	6	amod
+6	floppies	floppy	NNS	_	8	nsubj
+7	have	have	VBP	_	8	aux
+8	shipped	ship	VBN	_	0	ROOT
+9	pre-formatted	pre-formatted	JJ	_	8	dobj
+10	from	from	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	factory	factory	NN	_	10	pobj
+13	as	as	IN	_	8	prep
+14	DOS	DOS	NNP	_	16	nn
+15	FAT12	FAT12	NNP	_	16	nn
+16	floppies	floppy	NNS	_	13	pobj
+17	.	.	.	_	8	punct
+

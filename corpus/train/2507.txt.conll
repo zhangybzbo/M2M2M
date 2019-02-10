@@ -1,0 +1,12 @@
+1	Andre	Andre	NNP	_	3	nn
+2	Hartman	Hartman	NNP	_	3	nn
+3	touches	touch	NNS	_	0	ROOT
+4	the	the	DT	_	5	det
+5	snout	snout	NN	_	3	dep
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	great	great	JJ	_	10	amod
+9	white	white	JJ	_	10	amod
+10	shark	shark	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

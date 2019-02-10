@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	firm	firm	NN	_	3	nsubj
+3	assembled	assemble	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	project	project	NN	_	6	nn
+6	team	team	NN	_	3	dobj
+7	consisting	consist	VBG	_	6	vmod
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	authors	author	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	this	this	DT	_	13	det
+13	paper	paper	NN	_	11	pobj
+14	to	to	TO	_	15	aux
+15	develop	develop	VB	_	7	xcomp
+16	its	its	PRP$	_	19	poss
+17	OnStar	OnStar	NNP	_	19	nn
+18	telematics	telematic	NNS	_	19	nn
+19	business	business	NN	_	15	dobj
+20	.	.	.	_	3	punct
+

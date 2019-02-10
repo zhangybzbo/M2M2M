@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="member" pos="NNS" nsubj="t1"
+8	11	tok id="t1" base="use" pos="VBP" ROOT="ROOT"
+12	15	tok id="t2" base="the" pos="DT" det="t3"
+16	23	tok id="t3" base="website" pos="NN" dobj="t1"
+24	26	tok id="t4" base="to" pos="TO" aux="t5"
+27	33	tok id="t5" base="inform" pos="VB" vmod="t1"
+34	39	tok id="t6" base="about" pos="IN" prep="t5"
+40	48	tok id="t7" base="project" pos="NNS" pobj="t6"
+49	52	tok id="t8" base="and" pos="CC" cc="t7"
+53	59	tok id="t9" base="event" pos="NNS" conj="t7"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

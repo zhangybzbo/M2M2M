@@ -1,0 +1,14 @@
+1	For	for	IN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	present	present	JJ	_	1	pobj
+4	,	,	,	_	1	punct
+5	the	the	DT	_	8	det
+6	religious	religious	JJ	_	8	amod
+7	conception	conception	NN	_	8	nn
+8	uprises	uprise	NNS	_	4	dep
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	human	human	JJ	_	12	amod
+12	intellect	intellect	NN	_	9	pobj
+13	.	.	.	_	8	punct
+

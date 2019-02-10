@@ -1,0 +1,27 @@
+1	Dianetics	dianetic	NN	_	2	nsubj
+2	appealed	appeal	VBD	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	a	a	DT	_	6	det
+5	broad	broad	JJ	_	6	amod
+6	range	range	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	people	people	NNS	_	7	pobj
+9	who	who	WP	_	10	nsubj
+10	used	use	VBD	_	8	rcmod
+11	instructions	instruction	NNS	_	10	dobj
+12	from	from	IN	_	10	prep
+13	the	the	DT	_	14	det
+14	book	book	NN	_	12	pobj
+15	and	and	CC	_	10	cc
+16	applied	apply	VBD	_	10	conj
+17	the	the	DT	_	18	det
+18	method	method	NN	_	16	dobj
+19	to	to	TO	_	16	prep
+20	each	each	DT	_	21	det
+21	other	other	JJ	_	19	pobj
+22	,	,	,	_	2	punct
+23	becoming	become	VBG	_	2	xcomp
+24	practitioners	practitioner	NNS	_	23	xcomp
+25	themselves	themselves	PRP	_	24	npadvmod
+26	.	.	.	_	2	punct
+

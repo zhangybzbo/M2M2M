@@ -1,0 +1,14 @@
+1	We	we	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	molten	molten	JJ	_	5	amod
+5	aluminium	aluminium	NN	_	2	dobj
+6	into	into	IN	_	2	prep
+7	ingots	ingot	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	12	nsubj
+10	was	be	VBD	_	12	cop
+11	very	very	RB	_	12	advmod
+12	dangerous	dangerous	JJ	_	7	rcmod
+13	.	.	.	_	2	punct
+

@@ -1,0 +1,16 @@
+1	Next	next	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	soldiers	soldier	NNS	_	4	nsubj
+4	put	put	VBD	_	0	ROOT
+5	up	up	RP	_	4	prt
+6	a	a	DT	_	7	det
+7	wall	wall	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	stakes	stake	NNS	_	8	pobj
+10	on	on	IN	_	4	prep
+11	the	the	DT	_	12	det
+12	pile	pile	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	dirt	dirt	NN	_	13	pobj
+15	.	.	.	_	4	punct
+

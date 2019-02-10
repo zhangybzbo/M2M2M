@@ -1,0 +1,20 @@
+1	Most	most	JJS	_	2	amod
+2	Americans	Americans	NNPS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	interested	interested	JJ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	topics	topic	NNS	_	5	pobj
+7	or	or	CC	_	6	cc
+8	questions	question	NNS	_	6	conj
+9	that	that	WDT	_	10	nsubj
+10	have	have	VBP	_	6	rcmod
+11	to	to	TO	_	12	aux
+12	do	do	VB	_	10	xcomp
+13	with	with	IN	_	12	prep
+14	cultural	cultural	JJ	_	15	amod
+15	differences	difference	NNS	_	13	pobj
+16	and	and	CC	_	10	cc
+17	with	with	IN	_	10	conj
+18	language	language	NN	_	17	pobj
+19	.	.	.	_	4	punct
+

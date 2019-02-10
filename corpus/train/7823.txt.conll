@@ -1,0 +1,18 @@
+1	Before	before	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	barber	barber	NN	_	4	nsubj
+4	takes	take	VBZ	_	14	advcl
+5	his	he	PRP$	_	6	poss
+6	scissors	scissors	NNS	_	4	dobj
+7	out	out	RP	_	4	prt
+8	,	,	,	_	14	punct
+9	family	family	NN	_	14	nsubj
+10	,	,	,	_	9	punct
+11	friends	friend	NNS	_	9	conj
+12	and	and	CC	_	9	cc
+13	rabbis	rabbi	NNS	_	9	conj
+14	take	take	VBP	_	0	ROOT
+15	turns	turn	VBZ	_	14	dobj
+16	snipping	snip	VBG	_	15	xcomp
+17	.	.	.	_	14	punct
+

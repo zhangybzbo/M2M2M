@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	discipline	discipline	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	political	political	JJ	_	5	amod
+5	science	science	NN	_	3	pobj
+6	revolves	revolve	VBZ	_	0	ROOT
+7	around	around	IN	_	6	prep
+8	government	government	NN	_	7	pobj
+9	,	,	,	_	6	punct
+10	public	public	JJ	_	11	amod
+11	policy	policy	NN	_	6	dobj
+12	and	and	CC	_	11	cc
+13	ethics	ethic	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	foreign	foreign	JJ	_	16	amod
+16	politics	politics	NNS	_	11	conj
+17	,	,	,	_	11	punct
+18	law	law	NN	_	11	conj
+19	and	and	CC	_	11	cc
+20	judicial	judicial	JJ	_	21	amod
+21	process	process	NN	_	11	conj
+22	.	.	.	_	6	punct
+

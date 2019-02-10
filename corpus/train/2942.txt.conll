@@ -1,0 +1,11 @@
+1	He	he	PRP	_	2	nsubj
+2	dropped	drop	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	instilled	instilled	JJ	_	5	amod
+5	water	water	NN	_	2	dobj
+6	into	into	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	study	study	NN	_	9	nn
+9	eye	eye	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

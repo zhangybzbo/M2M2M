@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	tiller	tiller	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	stonebow	stonebow	NN	_	3	pobj
+6	is	be	VBZ	_	7	cop
+7	curved	curved	JJ	_	0	ROOT
+8	downward	downward	JJ	_	7	acomp
+9	between	between	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	latch	latch	VB	_	9	pobj
+12	and	and	CC	_	11	cc
+13	the	the	DT	_	14	det
+14	prod	prod	NN	_	11	conj
+15	.	.	.	_	7	punct
+

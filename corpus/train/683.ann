@@ -1,0 +1,3 @@
+T1	Term 38 45	factory
+T2	Term 59 67	firearms
+R1	Product-Producer Arg1:T2 Arg2:T1

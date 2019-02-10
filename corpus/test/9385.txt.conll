@@ -1,0 +1,24 @@
+1	In	in	IN	_	0	ROOT
+2	a	a	DT	_	3	det
+3	cistern	cistern	NN	_	1	pobj
+4	that	that	WDT	_	7	det
+5	stores	store	NNS	_	7	nn
+6	cold	cold	JJ	_	7	amod
+7	liquids	liquid	NNS	_	19	nsubjpass
+8	,	,	,	_	7	punct
+9	the	the	DT	_	11	det
+10	concrete	concrete	JJ	_	11	amod
+11	ring	ring	NN	_	7	appos
+12	serving	serve	VBG	_	11	vmod
+13	as	as	IN	_	12	prep
+14	juncture	juncture	NN	_	15	nn
+15	element	element	NN	_	13	pobj
+16	may	may	MD	_	19	aux
+17	be	be	VB	_	19	auxpass
+18	thermally	thermally	RB	_	19	advmod
+19	lagged	lag	VBN	_	3	rcmod
+20	against	against	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	rock	rock	NN	_	20	pobj
+23	.	.	.	_	1	punct
+

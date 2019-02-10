@@ -1,0 +1,22 @@
+1	The	the	DT	_	4	det
+2	poet	poet	NN	_	4	nn
+3	Essex	Essex	NNP	_	4	nn
+4	Hemphill	Hemphill	NNP	_	5	nsubj
+5	conquered	conquer	VBD	_	0	ROOT
+6	sorrow	sorrow	NN	_	5	dobj
+7	after	after	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	loss	loss	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	friend	friend	NN	_	10	pobj
+13	by	by	IN	_	5	prep
+14	taking	take	VBG	_	13	pcomp
+15	up	up	RP	_	14	prt
+16	the	the	DT	_	17	det
+17	cause	cause	NN	_	14	dobj
+18	of	of	IN	_	17	prep
+19	that	that	DT	_	20	det
+20	friend	friend	NN	_	18	pobj
+21	.	.	.	_	5	punct
+

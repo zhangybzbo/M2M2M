@@ -1,0 +1,11 @@
+1	360	360	CD	_	3	num
+2	bln	bln	NN	_	3	nn
+3	yuan	yuan	NN	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	invested	invest	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	post-quake	post-quake	JJ	_	9	amod
+9	reconstruction	reconstruction	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

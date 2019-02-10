@@ -1,0 +1,9 @@
+1	Difficult	difficult	JJ	_	2	amod
+2	passages	passage	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	explained	explain	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	footnotes	footnote	NNS	_	6	pobj
+8	.	.	.	_	5	punct
+

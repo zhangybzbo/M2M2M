@@ -1,0 +1,14 @@
+1	A	a	DT	_	2	det
+2	teacher	teacher	NN	_	3	nsubj
+3	writes	write	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	whole	whole	JJ	_	6	amod
+6	number	number	NN	_	3	dobj
+7	less	less	JJR	_	6	amod
+8	than	than	IN	_	7	prep
+9	50000	50000	CD	_	8	pobj
+10	on	on	IN	_	6	prep
+11	the	the	DT	_	12	det
+12	blackboard	blackboard	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

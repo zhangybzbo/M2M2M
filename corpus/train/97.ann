@@ -1,0 +1,3 @@
+T1	Term 172 181	recession
+T2	Term 216 221	crash
+R1	Cause-Effect Arg1:T2 Arg2:T1

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	blockages	blockage	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	build-up	build-up	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	fatty	fatty	NN	_	10	nn
+10	plaque	plaque	NN	_	8	pobj
+11	along	along	IN	_	7	prep
+12	the	the	DT	_	14	det
+13	artery	artery	NN	_	14	nn
+14	walls	wall	NNS	_	11	pobj
+15	.	.	.	_	4	punct
+

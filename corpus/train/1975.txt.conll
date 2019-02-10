@@ -1,0 +1,14 @@
+1	I	I	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	placed	place	VBN	_	0	ROOT
+4	a	a	DT	_	7	det
+5	new	new	JJ	_	7	amod
+6	memory	memory	NN	_	7	nn
+7	card	card	NN	_	3	dobj
+8	directly	directly	RB	_	3	advmod
+9	into	into	IN	_	3	prep
+10	my	my	PRP$	_	12	poss
+11	mobile	mobile	JJ	_	12	amod
+12	phone	phone	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

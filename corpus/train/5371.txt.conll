@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	dinner	dinner	NN	_	11	nsubj
+3	,	,	,	_	2	punct
+4	cooked	cook	VBN	_	2	vmod
+5	by	by	IN	_	4	prep
+6	his	he	PRP$	_	8	poss
+7	gorgeous	gorgeous	JJ	_	8	amod
+8	fiance	fiance	NN	_	5	pobj
+9	,	,	,	_	2	punct
+10	was	be	VBD	_	11	cop
+11	beautiful	beautiful	JJ	_	0	ROOT
+12	.	.	.	_	11	punct
+

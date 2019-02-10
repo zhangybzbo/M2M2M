@@ -1,0 +1,21 @@
+1	In	in	IN	_	6	prep
+2	his	he	PRP$	_	3	poss
+3	speech	speech	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	he	he	PRP	_	6	nsubj
+6	related	relate	VBD	_	0	ROOT
+7	his	he	PRP$	_	10	poss
+8	trishaw	trishaw	NN	_	10	nn
+9	journey	journey	NN	_	10	nn
+10	experience	experience	NN	_	6	dobj
+11	to	to	TO	_	6	prep
+12	the	the	DT	_	13	det
+13	residents	resident	NNS	_	11	pobj
+14	who	who	WP	_	15	nsubj
+15	kept	keep	VBD	_	13	rcmod
+16	giving	give	VBG	_	15	xcomp
+17	him	he	PRP	_	16	iobj
+18	loud	loud	JJ	_	19	amod
+19	applause	applause	NN	_	16	dobj
+20	.	.	.	_	6	punct
+

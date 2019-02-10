@@ -1,0 +1,20 @@
+1	Dehydration	dehydration	NN	_	9	nsubj
+2	from	from	IN	_	1	prep
+3	fluid	fluid	JJ	_	4	amod
+4	loss	loss	NN	_	2	pobj
+5	is	be	VBZ	_	9	cop
+6	the	the	DT	_	9	det
+7	only	only	RB	_	9	advmod
+8	major	major	JJ	_	9	amod
+9	problem	problem	NN	_	0	ROOT
+10	the	the	DT	_	11	det
+11	virus	virus	NN	_	12	nsubj
+12	causes	cause	VBZ	_	9	rcmod
+13	,	,	,	_	12	punct
+14	most	most	RBS	_	15	advmod
+15	often	often	RB	_	16	advmod
+16	in	in	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	elderly	elderly	JJ	_	16	pobj
+19	.	.	.	_	9	punct
+

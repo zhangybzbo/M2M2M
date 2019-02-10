@@ -1,0 +1,23 @@
+1	Two	two	CD	_	2	num
+2	plants	plant	NNS	_	4	nsubj
+3	were	be	VBD	_	4	aux
+4	producing	produce	VBG	_	0	ROOT
+5	cold-smoked	cold-smoked	JJ	_	6	amod
+6	salmon	salmon	NN	_	4	dobj
+7	,	,	,	_	4	punct
+8	the	the	DT	_	10	det
+9	third	third	JJ	_	10	amod
+10	plant	plant	NN	_	12	nsubj
+11	was	be	VBD	_	12	aux
+12	producing	produce	VBG	_	4	parataxis
+13	semi-preserved	semi-preserved	JJ	_	14	amod
+14	herring	herring	NN	_	12	dobj
+15	and	and	CC	_	14	cc
+16	the	the	DT	_	18	det
+17	fourth	fourth	JJ	_	18	amod
+18	plant	plant	NN	_	14	conj
+19	was	be	VBD	_	20	aux
+20	producing	produce	VBG	_	12	vmod
+21	caviar	caviar	NN	_	20	dobj
+22	.	.	.	_	4	punct
+

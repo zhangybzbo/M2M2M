@@ -1,0 +1,22 @@
+1	A	a	DT	_	3	det
+2	newborn	newborn	JJ	_	3	amod
+3	baby	baby	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	found	find	VBN	_	0	ROOT
+6	stuffed	stuff	VBN	_	5	dep
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	shoebox	shoebox	NN	_	7	pobj
+10	and	and	CC	_	6	cc
+11	dumped	dump	VBN	_	6	conj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	lobby	lobby	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	20	det
+17	Long	Long	NNP	_	20	nn
+18	Island	Island	NNP	_	20	nn
+19	apartment	apartment	NN	_	20	nn
+20	building	building	NN	_	15	pobj
+21	.	.	.	_	5	punct
+

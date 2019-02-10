@@ -1,0 +1,17 @@
+1	It	it	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	includes	include	VBZ	_	0	ROOT
+4	an	a	DT	_	7	det
+5	automatic	automatic	JJ	_	7	amod
+6	purge	purge	NN	_	7	nn
+7	valve	valve	NN	_	3	dobj
+8	for	for	IN	_	7	prep
+9	quick	quick	JJ	_	10	amod
+10	equalization	equalization	NN	_	8	pobj
+11	after	after	IN	_	3	prep
+12	changes	change	NNS	_	11	pobj
+13	in	in	IN	_	12	prep
+14	atmospheric	atmospheric	JJ	_	15	amod
+15	pressure	pressure	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

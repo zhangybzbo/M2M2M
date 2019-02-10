@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	apple	apple	NN	_	4	nn
+3	blossom	blossom	NN	_	4	nn
+4	season	season	NN	_	6	nsubj
+5	usually	usually	RB	_	6	advmod
+6	runs	run	VBZ	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	mid-April	mid-april	NN	_	7	pobj
+9	to	to	TO	_	6	prep
+10	early	early	JJ	_	11	amod
+11	May	May	NNP	_	9	pobj
+12	.	.	.	_	6	punct
+

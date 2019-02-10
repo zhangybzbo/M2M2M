@@ -1,0 +1,19 @@
+1	One	one	CD	_	10	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	soft	soft	JJ	_	6	amod
+5	baby	baby	NN	_	6	nn
+6	toys	toy	NNS	_	2	pobj
+7	were	be	VBD	_	10	cop
+8	four	four	CD	_	10	num
+9	bug	bug	NN	_	10	nn
+10	buddies	buddy	NNS	_	0	ROOT
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	jug	jug	NN	_	11	pobj
+14	with	with	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	mesh-top	mesh-top	JJ	_	17	amod
+17	lid	lid	NN	_	14	pobj
+18	.	.	.	_	10	punct
+

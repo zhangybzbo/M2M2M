@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	azeotrope	azeotrope	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	distilled	distil	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	equimolar	equimolar	JJ	_	8	amod
+8	mixture	mixture	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

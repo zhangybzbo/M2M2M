@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	mouse	mouse	NN	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	traditional	traditional	JJ	_	7	amod
+6	ball	ball	NN	_	7	nn
+7	mouse	mouse	NN	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	3	3	CD	_	10	num
+10	buttons	button	NNS	_	8	pobj
+11	and	and	CC	_	7	cc
+12	a	a	DT	_	14	det
+13	scroll	scroll	NN	_	14	nn
+14	wheel	wheel	NN	_	7	conj
+15	.	.	.	_	7	punct
+

@@ -1,0 +1,12 @@
+0	63	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="hundred" pos="NNS" nsubjpass="t5"
+9	11	tok id="t1" base="of" pos="IN" prep="t0"
+12	17	tok id="t2" base="toxic" pos="JJ" amod="t3"
+18	27	tok id="t3" base="chemical" pos="NNS" pobj="t1"
+28	32	tok id="t4" base="be" pos="VBD" auxpass="t5"
+33	41	tok id="t5" base="release" pos="VBN" ROOT="ROOT"
+42	46	tok id="t6" base="into" pos="IN" prep="t5"
+47	50	tok id="t7" base="the" pos="DT" det="t8"
+51	61	tok id="t8" base="atmosphere" pos="NN" pobj="t6"
+62	63	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

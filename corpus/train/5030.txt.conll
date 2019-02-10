@@ -1,0 +1,22 @@
+1	Both	both	DT	_	3	det
+2	her	she	PRP$	_	3	poss
+3	parents	parent	NNS	_	4	nsubj
+4	wind	wind	VBP	_	0	ROOT
+5	up	up	RP	_	4	prt
+6	accompanying	accompany	VBG	_	4	xcomp
+7	her	she	PRP$	_	6	dobj
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	factory	factory	NN	_	8	pobj
+11	,	,	,	_	4	punct
+12	though	though	IN	_	15	mark
+13	her	she	PRP$	_	14	poss
+14	mother	mother	NN	_	15	nsubj
+15	disapproves	disapprove	VBZ	_	4	advcl
+16	of	of	IN	_	15	prep
+17	Violet	Violet	NNP	_	20	poss
+18	's	's	POS	_	17	possessive
+19	gum-chewing	gum-chewing	JJ	_	20	amod
+20	habit	habit	NN	_	16	pobj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	examiner	examiner	NN	_	4	nsubj
+3	lightly	lightly	RB	_	4	advmod
+4	touched	touch	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	cornea	cornea	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	hand-held	hand-held	JJ	_	10	amod
+10	probe	probe	NN	_	7	pobj
+11	until	until	IN	_	16	mark
+12	a	a	DT	_	13	det
+13	reading	reading	NN	_	16	nsubjpass
+14	was	be	VBD	_	16	auxpass
+15	automatically	automatically	RB	_	16	advmod
+16	recorded	record	VBN	_	4	advcl
+17	.	.	.	_	4	punct
+

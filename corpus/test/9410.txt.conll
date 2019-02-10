@@ -1,0 +1,15 @@
+1	Bertolli	Bertolli	NNP	_	2	nsubj
+2	takes	take	VBZ	_	0	ROOT
+3	pages	page	NNS	_	2	dobj
+4	and	and	CC	_	3	cc
+5	pages	page	NNS	_	3	conj
+6	of	of	IN	_	3	prep
+7	text	text	NN	_	6	pobj
+8	to	to	TO	_	9	aux
+9	explain	explain	VB	_	2	vmod
+10	the	the	DT	_	11	det
+11	significance	significance	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	flours	flour	NNS	_	12	pobj
+14	.	.	.	_	2	punct
+

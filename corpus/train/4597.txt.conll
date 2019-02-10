@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	material	material	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	trunk	trunk	NN	_	4	pobj
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	basement	basement	NN	_	7	pobj
+10	and	and	CC	_	3	cc
+11	I	I	PRP	_	12	nsubj
+12	knew	know	VBD	_	3	conj
+13	I	I	PRP	_	14	nsubj
+14	needed	need	VBD	_	12	ccomp
+15	to	to	TO	_	16	aux
+16	get	get	VB	_	14	xcomp
+17	it	it	PRP	_	16	dobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	Now	now	RB	_	4	advmod
+2	we	we	PRP	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	beginning	begin	VBG	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	understand	understand	VB	_	4	xcomp
+7	how	how	WRB	_	10	advmod
+8	the	the	DT	_	9	det
+9	brain	brain	NN	_	10	nsubj
+10	works	work	VBZ	_	6	ccomp
+11	using	use	VBG	_	10	xcomp
+12	brain-machine	brain-machine	JJ	_	14	amod
+13	interface	interface	NN	_	14	nn
+14	technology	technology	NN	_	11	dobj
+15	.	.	.	_	4	punct
+

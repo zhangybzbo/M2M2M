@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	move	move	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	mockery	mockery	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	China	China	NNP	_	10	poss
+8	's	's	POS	_	7	possessive
+9	long-standing	long-standing	JJ	_	10	amod
+10	opposition	opposition	NN	_	6	pobj
+11	to	to	TO	_	10	prep
+12	such	such	JJ	_	13	amod
+13	capabilities	capability	NNS	_	11	pobj
+14	in	in	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	hands	hand	NNS	_	14	pobj
+17	of	of	IN	_	16	prep
+18	other	other	JJ	_	19	amod
+19	powers	power	NNS	_	17	pobj
+20	.	.	.	_	3	punct
+

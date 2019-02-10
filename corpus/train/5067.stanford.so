@@ -1,0 +1,12 @@
+0	64	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	16	tok id="t1" base="organisation" pos="NN" nn="t2"
+17	26	tok id="t2" base="campaign" pos="NNS" ROOT="ROOT"
+27	34	tok id="t3" base="against" pos="IN" prep="t2"
+35	39	tok id="t4" base="such" pos="JJ" amod="t5"
+40	46	tok id="t5" base="thing" pos="NNS" pobj="t3"
+47	49	tok id="t6" base="as" pos="IN" prep="t5"
+50	55	tok id="t7" base="child" pos="NN" nn="t8"
+56	62	tok id="t8" base="labour" pos="NN" pobj="t6"
+63	64	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

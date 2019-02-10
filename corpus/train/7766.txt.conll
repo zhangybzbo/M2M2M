@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	pool	pool	NN	_	8	nsubj
+3	with	with	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	sand	sand	NN	_	6	nn
+6	beach	beach	NN	_	3	pobj
+7	is	be	VBZ	_	8	cop
+8	located	located	JJ	_	0	ROOT
+9	inside	inside	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	cave	cave	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

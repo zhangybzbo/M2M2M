@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	manure	manure	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	stored	store	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	open	open	JJ	_	7	amod
+7	sheds	shed	NNS	_	5	pobj
+8	,	,	,	_	4	punct
+9	though	though	IN	_	4	prep
+10	some	some	DT	_	9	pobj
+11	stored	store	VBN	_	10	vmod
+12	it	it	PRP	_	11	dobj
+13	in	in	IN	_	12	prep
+14	closed	close	VBN	_	15	amod
+15	sheds	shed	NNS	_	13	pobj
+16	.	.	.	_	4	punct
+

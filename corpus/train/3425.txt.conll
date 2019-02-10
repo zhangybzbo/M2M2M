@@ -1,0 +1,20 @@
+1	However	however	RB	_	11	advmod
+2	,	,	,	_	11	punct
+3	apart	apart	RB	_	4	advmod
+4	from	from	IN	_	11	prep
+5	visual	visual	JJ	_	7	amod
+6	design	design	NN	_	7	nn
+7	elements	element	NNS	_	4	pobj
+8	,	,	,	_	11	punct
+9	one	one	CD	_	11	nsubj
+10	also	also	RB	_	11	advmod
+11	gets	get	VBZ	_	0	ROOT
+12	creative	creative	JJ	_	11	acomp
+13	with	with	IN	_	11	prep
+14	the	the	DT	_	15	det
+15	layout	layout	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	site	site	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

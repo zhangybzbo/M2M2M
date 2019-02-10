@@ -1,0 +1,25 @@
+1	And	and	CC	_	7	cc
+2	,	,	,	_	7	punct
+3	of	of	IN	_	7	prep
+4	course	course	NN	_	3	pobj
+5	,	,	,	_	7	punct
+6	everyone	everyone	NN	_	7	nsubj
+7	wants	want	VBZ	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	prove	prove	VB	_	7	xcomp
+10	the	the	DT	_	11	det
+11	truth	truth	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	their	they	PRP$	_	14	poss
+14	beliefs	belief	NNS	_	12	pobj
+15	through	through	IN	_	9	prep
+16	experience	experience	NN	_	15	pobj
+17	,	,	,	_	7	punct
+18	but	but	CC	_	7	cc
+19	the	the	DT	_	20	det
+20	belief	belief	NN	_	21	nsubj
+21	begets	beget	VBZ	_	7	conj
+22	the	the	DT	_	23	det
+23	experience	experience	NN	_	21	dobj
+24	.	.	.	_	7	punct
+

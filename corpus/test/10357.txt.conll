@@ -1,0 +1,16 @@
+1	It	it	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	taken	take	VBN	_	0	ROOT
+4	time	time	NN	_	3	dobj
+5	and	and	CC	_	4	cc
+6	effort	effort	NN	_	4	conj
+7	to	to	TO	_	8	aux
+8	get	get	VB	_	3	vmod
+9	the	the	DT	_	10	det
+10	metal	metal	NN	_	8	dobj
+11	out	out	IN	_	8	prep
+12	of	of	IN	_	11	pcomp
+13	the	the	DT	_	14	det
+14	ground	ground	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

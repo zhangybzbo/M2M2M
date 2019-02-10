@@ -1,0 +1,11 @@
+1	Many	many	JJ	_	3	amod
+2	other	other	JJ	_	3	amod
+3	dwarves	dwarf	NNS	_	5	nsubj
+4	also	also	RB	_	5	advmod
+5	hailed	hail	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	this	this	DT	_	9	det
+8	infamous	infamous	JJ	_	9	amod
+9	clan	clan	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

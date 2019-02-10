@@ -1,0 +1,27 @@
+1	Much	much	RB	_	17	advmod
+2	like	like	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	virus	virus	NN	_	2	pobj
+5	that	that	WDT	_	6	nsubj
+6	caused	cause	VBD	_	4	rcmod
+7	the	the	DT	_	10	det
+8	1918	1918	CD	_	10	num
+9	flu	flu	NN	_	10	nn
+10	pandemic	pandemic	NN	_	6	dobj
+11	,	,	,	_	17	punct
+12	this	this	DT	_	16	det
+13	new	new	JJ	_	16	amod
+14	H1N1	h1n1	NN	_	16	nn
+15	flu	flu	NN	_	16	nn
+16	virus	virus	NN	_	17	nsubj
+17	affects	affect	VBZ	_	0	ROOT
+18	young	young	JJ	_	19	amod
+19	adults	adult	NNS	_	17	dobj
+20	and	and	CC	_	19	cc
+21	school	school	NN	_	22	nn
+22	children	child	NNS	_	19	conj
+23	in	in	IN	_	17	prep
+24	greater	greater	JJR	_	25	amod
+25	numbers	number	NNS	_	23	pobj
+26	.	.	.	_	17	punct
+

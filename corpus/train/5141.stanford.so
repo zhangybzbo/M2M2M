@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	13	tok id="t1" base="pipeline" pos="NN" nsubj="t3"
+14	17	tok id="t2" base="have" pos="VBZ" aux="t3"
+18	29	tok id="t3" base="transport" pos="VBN" ROOT="ROOT"
+30	37	tok id="t4" base="natural" pos="JJ" amod="t5"
+38	41	tok id="t5" base="gas" pos="NN" dobj="t3"
+42	44	tok id="t6" base="to" pos="TO" prep="t3"
+45	48	tok id="t7" base="the" pos="DT" det="t9"
+49	54	tok id="t8" base="urban" pos="JJ" amod="t9"
+55	59	tok id="t9" base="area" pos="NN" pobj="t6"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

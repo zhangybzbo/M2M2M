@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	economic	economic	JJ	_	3	amod
+3	collapse	collapse	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	consumers	consumer	NNS	_	6	pobj
+8	buying	buy	VBG	_	7	vmod
+9	mortgages	mortgage	NNS	_	8	dobj
+10	they	they	PRP	_	13	nsubj
+11	could	could	MD	_	13	aux
+12	n't	not	RB	_	13	neg
+13	afford	afford	VB	_	5	ccomp
+14	and	and	CC	_	13	cc
+15	the	the	DT	_	17	det
+16	housing	housing	NN	_	17	nn
+17	collapse	collapse	NN	_	13	conj
+18	.	.	.	_	5	punct
+

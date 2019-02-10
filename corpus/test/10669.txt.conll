@@ -1,0 +1,17 @@
+1	These	these	DT	_	2	det
+2	observations	observation	NNS	_	3	nsubj
+3	determine	determine	VBP	_	0	ROOT
+4	the	the	DT	_	7	det
+5	high	high	JJ	_	7	amod
+6	spatial	spatial	JJ	_	7	amod
+7	resolution	resolution	NN	_	3	dobj
+8	stellar	stellar	JJ	_	9	amod
+9	kinematics	kinematic	NNS	_	7	dep
+10	within	within	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	nuclei	nucleus	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	these	these	DT	_	15	det
+15	galaxies	galaxy	NNS	_	13	pobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	Beginning	begin	VBG	_	7	vmod
+2	in	in	IN	_	1	prep
+3	1966-67	1966-67	CD	_	2	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	club	club	NN	_	7	nsubj
+7	made	make	VBD	_	0	ROOT
+8	the	the	DT	_	9	det
+9	playoffs	playoff	NNS	_	7	dobj
+10	nine	nine	CD	_	12	num
+11	consecutive	consecutive	JJ	_	12	amod
+12	seasons	season	NNS	_	9	dep
+13	,	,	,	_	12	punct
+14	the	the	DT	_	17	det
+15	only	only	JJ	_	17	amod
+16	NHL	nhl	NN	_	17	nn
+17	team	team	NN	_	12	appos
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	period	period	NN	_	18	pobj
+21	to	to	TO	_	22	aux
+22	accomplish	accomplish	VB	_	17	vmod
+23	that	that	IN	_	24	amod
+24	feat	feat	NN	_	22	dobj
+25	.	.	.	_	7	punct
+

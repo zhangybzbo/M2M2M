@@ -1,0 +1,16 @@
+1	That	that	DT	_	3	nsubj
+2	's	be	VBZ	_	3	cop
+3	more	more	JJR	_	0	ROOT
+4	or	or	CC	_	3	cc
+5	less	less	JJR	_	3	conj
+6	how	how	WRB	_	12	advmod
+7	the	the	DT	_	8	det
+8	book	book	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	author	author	NN	_	12	nsubj
+11	is	be	VBZ	_	12	aux
+12	viewing	view	VBG	_	3	ccomp
+13	the	the	DT	_	14	det
+14	situation	situation	NN	_	12	dobj
+15	.	.	.	_	3	punct
+

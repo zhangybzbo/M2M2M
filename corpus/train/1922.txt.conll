@@ -1,0 +1,16 @@
+1	Propionibacteria	Propionibacteria	NNP	_	2	nn
+2	acnes	acne	NNS	_	10	nsubj
+3	,	,	,	_	2	punct
+4	or	or	CC	_	2	cc
+5	P.	P.	NNP	_	6	nn
+6	acnes	acne	NNS	_	2	conj
+7	,	,	,	_	2	punct
+8	are	be	VBP	_	10	cop
+9	the	the	DT	_	10	det
+10	bacteria	bacterium	NNS	_	0	ROOT
+11	responsible	responsible	JJ	_	10	amod
+12	for	for	IN	_	11	prep
+13	acne	acne	NN	_	14	nn
+14	breakouts	breakout	NNS	_	12	pobj
+15	.	.	.	_	10	punct
+

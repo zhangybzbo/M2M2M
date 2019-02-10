@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	scandals	scandal	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	young	young	JJ	_	9	amod
+8	female	female	JJ	_	9	amod
+9	celebs	celeb	NNS	_	5	pobj
+10	who	who	WP	_	14	nsubj
+11	`	`	``	_	14	punct
+12	inadvertently	inadvertently	RB	_	14	advmod
+13	'	'	''	_	14	punct
+14	reveal	reveal	VBP	_	9	rcmod
+15	glimpses	glimpse	NNS	_	14	dobj
+16	of	of	IN	_	15	prep
+17	their	they	PRP$	_	19	poss
+18	naked	naked	JJ	_	19	amod
+19	faces	face	NNS	_	16	pobj
+20	as	as	IN	_	22	mark
+21	they	they	PRP	_	22	nsubj
+22	get	get	VBP	_	14	advcl
+23	out	out	IN	_	22	prep
+24	of	of	IN	_	23	pcomp
+25	limousines	limousine	NNS	_	24	pobj
+26	.	.	.	_	4	punct
+

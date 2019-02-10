@@ -1,0 +1,11 @@
+1	We	we	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	burlap	burlap	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	bucket	bucket	NN	_	5	pobj
+8	as	as	IN	_	2	prep
+9	lining	lining	NN	_	8	pobj
+10	.	.	.	_	2	punct
+

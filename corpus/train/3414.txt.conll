@@ -1,0 +1,14 @@
+1	Their	they	PRP$	_	2	poss
+2	marriage	marriage	NN	_	3	nsubj
+3	became	become	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	topic	topic	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	conversation	conversation	NN	_	6	pobj
+8	in	in	IN	_	5	prep
+9	all	all	DT	_	10	det
+10	circles	circle	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	society	society	NN	_	11	pobj
+13	.	.	.	_	3	punct
+

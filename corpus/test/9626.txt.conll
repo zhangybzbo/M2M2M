@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	reason	reason	NN	_	9	nsubj
+3	peanut	peanut	NN	_	5	nn
+4	butter	butter	NN	_	5	nn
+5	cookies	cookie	NNS	_	8	nsubjpass
+6	are	be	VBP	_	8	aux
+7	being	be	VBG	_	8	auxpass
+8	recalled	recall	VBN	_	2	rcmod
+9	is	be	VBZ	_	0	ROOT
+10	that	that	IN	_	15	mark
+11	the	the	DT	_	12	det
+12	cookies	cookie	NNS	_	15	nsubj
+13	might	might	MD	_	15	aux
+14	not	not	RB	_	15	neg
+15	get	get	VB	_	9	ccomp
+16	hot	hot	JJ	_	15	acomp
+17	enough	enough	RB	_	16	advmod
+18	throughout	throughout	IN	_	20	mark
+19	to	to	TO	_	20	aux
+20	kill	kill	VB	_	16	ccomp
+21	all	all	PDT	_	23	predet
+22	the	the	DT	_	23	det
+23	salmonella	salmonella	NN	_	20	dobj
+24	.	.	.	_	9	punct
+

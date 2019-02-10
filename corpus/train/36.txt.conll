@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	technology	technology	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	available	available	JJ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	produce	produce	VB	_	4	xcomp
+7	and	and	CC	_	6	cc
+8	transmit	transmit	VB	_	6	conj
+9	electricity	electricity	NN	_	6	dobj
+10	economically	economically	RB	_	11	advmod
+11	from	from	IN	_	6	prep
+12	OTEC	otec	NN	_	13	nn
+13	systems	system	NNS	_	11	pobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	Millers	miller	NNS	_	2	nsubj
+2	checked	check	VBD	_	0	ROOT
+3	that	that	IN	_	12	mark
+4	the	the	DT	_	5	det
+5	stones	stone	NNS	_	12	nsubj
+6	used	use	VBN	_	5	vmod
+7	for	for	IN	_	6	prep
+8	cereal	cereal	NN	_	7	pobj
+9	grinding	grind	VBG	_	8	amod
+10	were	be	VBD	_	12	aux
+11	n't	not	RB	_	12	neg
+12	overheating	overheate	VBG	_	2	ccomp
+13	.	.	.	_	2	punct
+

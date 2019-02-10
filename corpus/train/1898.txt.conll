@@ -1,0 +1,25 @@
+1	Most	most	JJS	_	7	nsubj
+2	of	of	IN	_	1	prep
+3	Birdtown	Birdtown	NNP	_	6	poss
+4	's	's	POS	_	3	possessive
+5	earliest	earliest	JJS	_	6	amod
+6	residents	resident	NNS	_	2	pobj
+7	hailed	hail	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	Eastern	eastern	JJ	_	11	amod
+10	European	european	JJ	_	11	amod
+11	countries	country	NNS	_	8	pobj
+12	,	,	,	_	11	punct
+13	including	include	VBG	_	11	prep
+14	Slovakia	Slovakia	NNP	_	13	pobj
+15	,	,	,	_	14	punct
+16	Ukraine	Ukraine	NNP	_	14	conj
+17	,	,	,	_	14	punct
+18	Czech	Czech	NNP	_	19	nn
+19	Republic	Republic	NNP	_	14	conj
+20	,	,	,	_	14	punct
+21	Poland	Poland	NNP	_	14	conj
+22	and	and	CC	_	14	cc
+23	Carpatho-Rusyn	Carpatho-Rusyn	NNP	_	14	conj
+24	.	.	.	_	7	punct
+

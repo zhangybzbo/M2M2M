@@ -1,0 +1,10 @@
+1	People	people	NNS	_	3	nsubj
+2	now	now	RB	_	3	advmod
+3	post	post	VBP	_	0	ROOT
+4	their	they	PRP$	_	5	poss
+5	opinions	opinion	NNS	_	3	dobj
+6	to	to	TO	_	3	prep
+7	this	this	DT	_	8	det
+8	blog	blog	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

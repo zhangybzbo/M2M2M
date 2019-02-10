@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	Senator	Senator	NNP	_	3	nsubj
+3	donated	donate	VBD	_	0	ROOT
+4	money	money	NN	_	3	dobj
+5	to	to	TO	_	3	prep
+6	a	a	DT	_	8	det
+7	local	local	JJ	_	8	amod
+8	charity	charity	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	Even	even	RB	_	5	advmod
+2	the	the	DT	_	5	det
+3	most	most	RBS	_	4	advmod
+4	self-contained	self-contained	JJ	_	5	amod
+5	stories	story	NNS	_	7	nsubj
+6	have	have	VBP	_	7	aux
+7	spawned	spawn	VBN	_	0	ROOT
+8	sequels	sequel	NNS	_	7	dobj
+9	,	,	,	_	8	punct
+10	or	or	CC	_	8	cc
+11	even	even	RB	_	12	advmod
+12	prequels	prequel	NNS	_	8	conj
+13	.	.	.	_	7	punct
+

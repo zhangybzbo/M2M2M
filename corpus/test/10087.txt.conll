@@ -1,0 +1,12 @@
+1	Soon	soon	RB	_	2	advmod
+2	after	after	IN	_	6	advmod
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	ship	ship	NN	_	6	nsubj
+6	departed	depart	VBD	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	10	det
+9	next	next	JJ	_	10	amod
+10	destination	destination	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

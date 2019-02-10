@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	principal	principal	JJ	_	3	amod
+3	hazard	hazard	NN	_	13	nsubjpass
+4	facing	face	VBG	_	3	vmod
+5	the	the	DT	_	6	det
+6	publisher	publisher	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	respect	respect	NN	_	7	pobj
+9	to	to	TO	_	8	prep
+10	reviews	review	NNS	_	9	pobj
+11	is	be	VBZ	_	13	aux
+12	getting	get	VBG	_	13	auxpass
+13	panned	pan	VBN	_	0	ROOT
+14	by	by	IN	_	13	prep
+15	an	a	DT	_	18	det
+16	honest	honest	JJ	_	18	amod
+17	book	book	NN	_	18	nn
+18	reviewer	reviewer	NN	_	14	pobj
+19	or	or	CC	_	18	cc
+20	scammed	scam	VBN	_	18	conj
+21	by	by	IN	_	20	prep
+22	a	a	DT	_	25	det
+23	phony	phony	JJ	_	25	amod
+24	book	book	NN	_	25	nn
+25	reviewer	reviewer	NN	_	21	pobj
+26	.	.	.	_	13	punct
+

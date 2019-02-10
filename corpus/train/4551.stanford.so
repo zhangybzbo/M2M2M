@@ -1,0 +1,12 @@
+0	65	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="doctor" pos="NN" nsubj="t2"
+11	18	tok id="t2" base="inject" pos="VBZ" ROOT="ROOT"
+19	22	tok id="t3" base="the" pos="DT" det="t4"
+23	31	tok id="t4" base="solution" pos="NN" dobj="t2"
+32	37	tok id="t5" base="after" pos="IN" prep="t2"
+38	50	tok id="t6" base="disinfection" pos="NN" pobj="t5"
+51	55	tok id="t7" base="with" pos="IN" prep="t6"
+56	63	tok id="t8" base="alcohol" pos="NN" pobj="t7"
+64	65	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

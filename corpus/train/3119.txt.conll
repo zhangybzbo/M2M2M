@@ -1,0 +1,18 @@
+1	Luckily	luckily	RB	_	9	advmod
+2	,	,	,	_	9	punct
+3	the	the	DT	_	4	det
+4	timer	timer	NN	_	9	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	bomb	bomb	NN	_	5	pobj
+8	had	have	VBD	_	9	aux
+9	malfunctioned	malfunction	VBN	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	it	it	PRP	_	14	nsubj
+12	had	have	VBD	_	14	aux
+13	not	not	RB	_	14	neg
+14	caused	cause	VBN	_	9	conj
+15	further	further	JJ	_	16	amod
+16	damage	damage	NN	_	14	dobj
+17	.	.	.	_	9	punct
+

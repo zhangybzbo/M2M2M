@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	water	water	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	drained	drain	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	10	det
+7	second	second	JJ	_	10	amod
+8	water	water	NN	_	10	nn
+9	drain	drain	NN	_	10	nn
+10	tank	tank	NN	_	5	pobj
+11	through	through	IN	_	4	prep
+12	the	the	DT	_	14	det
+13	connecting	connect	VBG	_	14	amod
+14	pipes	pipe	NNS	_	11	pobj
+15	.	.	.	_	4	punct
+

@@ -1,0 +1,8 @@
+1	Criticism	criticism	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	directed	direct	VBN	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	its	its	PRP$	_	6	poss
+6	storyline	storyline	NN	_	4	pobj
+7	.	.	.	_	3	punct
+

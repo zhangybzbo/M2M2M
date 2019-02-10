@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	door	door	NN	_	3	nsubj
+3	locks	lock	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	sliding	slide	VBG	_	7	amod
+7	bar	bar	NN	_	4	pobj
+8	hidden	hide	VBN	_	7	vmod
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	carved	carve	VBN	_	12	amod
+12	piece	piece	NN	_	9	pobj
+13	across	across	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	center	center	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	door	door	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

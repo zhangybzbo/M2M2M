@@ -1,0 +1,18 @@
+1	Bellini	Bellini	NNP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	not	not	RB	_	5	neg
+4	very	very	RB	_	5	advmod
+5	good	good	JJ	_	0	ROOT
+6	though	though	IN	_	5	prep
+7	,	,	,	_	10	punct
+8	like	like	IN	_	10	mark
+9	they	they	PRP	_	10	nsubj
+10	used	use	VBD	_	6	dep
+11	peach	peach	NN	_	12	nn
+12	nectar	nectar	NN	_	10	dobj
+13	instead	instead	RB	_	14	advmod
+14	of	of	IN	_	10	prep
+15	fresh	fresh	JJ	_	16	amod
+16	peaches	peach	NNS	_	14	pobj
+17	.	.	.	_	10	punct
+

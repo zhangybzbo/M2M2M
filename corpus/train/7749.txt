@@ -1,0 +1,1 @@
+Infection starts with manual execution of the binary .

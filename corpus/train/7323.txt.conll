@@ -1,0 +1,20 @@
+1	As	as	IN	_	5	mark
+2	the	the	DT	_	4	det
+3	molten	molten	JJ	_	4	amod
+4	metal	metal	NN	_	5	nsubj
+5	cools	cool	VBZ	_	8	advcl
+6	,	,	,	_	8	punct
+7	it	it	PRP	_	8	nsubj
+8	hardens	harden	VBZ	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	assumes	assume	VBZ	_	8	conj
+11	the	the	DT	_	12	det
+12	shape	shape	NN	_	8	dobj
+13	created	create	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	mold	mold	NN	_	18	poss
+17	's	's	POS	_	16	possessive
+18	cavity	cavity	NN	_	14	pobj
+19	.	.	.	_	8	punct
+

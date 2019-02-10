@@ -1,0 +1,23 @@
+1	James	James	NNP	_	4	nsubjpass
+2	was	be	VBD	_	4	auxpass
+3	seriously	seriously	RB	_	4	advmod
+4	injured	injure	VBN	_	0	ROOT
+5	;	;	:	_	4	punct
+6	the	the	DT	_	7	det
+7	shot	shot	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	fired	fire	VBN	_	4	parataxis
+10	from	from	IN	_	9	prep
+11	his	he	PRP$	_	13	poss
+12	own	own	JJ	_	13	amod
+13	gun	gun	NN	_	10	pobj
+14	,	,	,	_	13	punct
+15	which	which	WDT	_	18	dobj
+16	he	he	PRP	_	18	nsubj
+17	had	have	VBD	_	18	aux
+18	left	leave	VBN	_	13	rcmod
+19	on	on	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	bank	bank	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

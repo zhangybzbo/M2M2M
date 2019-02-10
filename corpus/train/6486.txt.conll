@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	transmitter	transmitter	NN	_	3	nsubj
+3	sends	send	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	radio	radio	NN	_	6	nn
+6	signal	signal	NN	_	3	dobj
+7	to	to	TO	_	3	prep
+8	the	the	DT	_	11	det
+9	doorbell	doorbell	NN	_	11	nn
+10	radio	radio	NN	_	11	nn
+11	receiver	receiver	NN	_	7	pobj
+12	inside	inside	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	building	building	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

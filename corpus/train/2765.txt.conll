@@ -1,0 +1,14 @@
+1	In	in	IN	_	5	prep
+2	the	the	DT	_	4	det
+3	center	center	NN	_	4	nn
+4	ring	ring	NN	_	1	pobj
+5	is	be	VBZ	_	0	ROOT
+6	a	a	DT	_	7	det
+7	bottle	bottle	NN	_	5	nsubj
+8	with	with	IN	_	7	prep
+9	mystic	mystic	JJ	_	10	amod
+10	ingredients	ingredient	NNS	_	8	pobj
+11	in	in	IN	_	5	prep
+12	it	it	PRP	_	11	pobj
+13	.	.	.	_	5	punct
+

@@ -1,0 +1,15 @@
+1	This	this	DT	_	3	det
+2	winter	winter	NN	_	3	nn
+3	season	season	NN	_	9	tmod
+4	,	,	,	_	9	punct
+5	bird	bird	NN	_	6	nn
+6	flu	flu	NN	_	9	nsubjpass
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	carried	carry	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	country	country	NN	_	10	pobj
+13	quickly	quickly	RB	_	9	advmod
+14	.	.	.	_	9	punct
+

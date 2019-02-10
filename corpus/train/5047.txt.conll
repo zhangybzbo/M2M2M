@@ -1,0 +1,20 @@
+1	It	it	PRP	_	4	nsubjpass
+2	was	be	VBD	_	4	auxpass
+3	first	first	JJ	_	4	dep
+4	applied	apply	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	an	a	DT	_	8	det
+7	eating	eating	NN	_	8	nn
+8	establishment	establishment	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	around	around	IN	_	9	pcomp
+11	1765	1765	CD	_	10	pobj
+12	founded	found	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	Parisian	parisian	JJ	_	16	amod
+16	soup-seller	soup-seller	NN	_	13	pobj
+17	named	name	VBN	_	16	vmod
+18	Boulanger	Boulanger	NNP	_	17	dep
+19	.	.	.	_	4	punct
+

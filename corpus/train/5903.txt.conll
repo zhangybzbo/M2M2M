@@ -1,0 +1,11 @@
+1	Family	Family	NNP	_	2	nn
+2	values	value	NNS	_	6	nsubjpass
+3	and	and	CC	_	2	cc
+4	meanings	meaning	NNS	_	2	conj
+5	are	be	VBP	_	6	auxpass
+6	narrated	narrate	VBN	_	0	ROOT
+7	through	through	IN	_	6	prep
+8	family	family	NN	_	9	nn
+9	albums	album	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

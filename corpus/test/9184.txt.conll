@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	maintained	maintain	VBD	_	0	ROOT
+3	an	a	DT	_	5	det
+4	even	even	RB	_	5	advmod
+5	temperature	temperature	NN	_	2	dobj
+6	in	in	IN	_	5	prep
+7	my	my	PRP$	_	8	poss
+8	ward	ward	NN	_	6	pobj
+9	by	by	IN	_	2	prep
+10	bringing	bring	VBG	_	9	pcomp
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	11	pobj
+13	scuttle	scuttle	VBP	_	12	amod
+14	of	of	IN	_	13	prep
+15	coal	coal	NN	_	14	pobj
+16	for	for	IN	_	13	prep
+17	the	the	DT	_	18	det
+18	day	day	NN	_	20	poss
+19	's	's	POS	_	18	possessive
+20	business	business	NN	_	16	pobj
+21	.	.	.	_	2	punct
+

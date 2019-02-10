@@ -1,0 +1,11 @@
+1	Students	student	NNS	_	2	nsubj
+2	learn	learn	VBP	_	0	ROOT
+3	at	at	IN	_	2	prep
+4	their	they	PRP$	_	6	poss
+5	own	own	JJ	_	6	amod
+6	pace	pace	NN	_	3	pobj
+7	by	by	IN	_	2	prep
+8	using	use	VBG	_	7	pcomp
+9	computers	computer	NNS	_	8	dobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	use	use	NN	_	11	nsubj
+3	of	of	IN	_	2	prep
+4	mathematical	mathematical	JJ	_	5	amod
+5	models	model	NNS	_	3	pobj
+6	and	and	CC	_	5	cc
+7	numerical	numerical	JJ	_	8	amod
+8	techniques	technique	NNS	_	5	conj
+9	is	be	VBZ	_	11	cop
+10	a	a	DT	_	11	det
+11	practice	practice	NN	_	0	ROOT
+12	employed	employ	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	growing	grow	VBG	_	16	amod
+16	number	number	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	applied	apply	VBN	_	19	amod
+19	mathematicians	mathematician	NNS	_	17	pobj
+20	working	work	VBG	_	19	vmod
+21	on	on	IN	_	20	prep
+22	applications	application	NNS	_	21	pobj
+23	in	in	IN	_	22	prep
+24	finance	finance	NN	_	23	pobj
+25	.	.	.	_	11	punct
+

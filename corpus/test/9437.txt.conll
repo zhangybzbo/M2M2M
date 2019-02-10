@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	magazines	magazine	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	delivered	deliver	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	subscribers	subscriber	NNS	_	5	pobj
+8	on	on	IN	_	7	prep
+9	Tuesday	Tuesday	NNP	_	8	pobj
+10	.	.	.	_	4	punct
+

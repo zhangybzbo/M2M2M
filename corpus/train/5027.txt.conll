@@ -1,0 +1,19 @@
+1	Flag	flag	NN	_	2	nn
+2	holders	holder	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	pushed	push	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	floor	floor	NN	_	6	pobj
+9	to	to	TO	_	10	aux
+10	remove	remove	VB	_	5	xcomp
+11	the	the	DT	_	12	det
+12	bump	bump	NN	_	10	dobj
+13	on	on	IN	_	12	prep
+14	top	top	NN	_	13	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	flag	flag	NN	_	15	pobj
+18	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+1	Throughout	throughout	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	series	series	NN	_	4	nn
+4	run	run	NN	_	1	pobj
+5	,	,	,	_	9	punct
+6	the	the	DT	_	7	det
+7	character	character	NN	_	9	nsubj
+8	has	have	VBZ	_	9	aux
+9	received	receive	VBN	_	0	ROOT
+10	positive	positive	JJ	_	11	amod
+11	reviews	review	NNS	_	9	dobj
+12	.	.	.	_	9	punct
+

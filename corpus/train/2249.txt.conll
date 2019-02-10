@@ -1,0 +1,22 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	be	be	VB	_	6	cop
+4	just	just	RB	_	5	advmod
+5	sufficient	sufficient	JJ	_	6	amod
+6	time	time	NN	_	2	dep
+7	for	for	IN	_	6	prep
+8	him	he	PRP	_	7	pobj
+9	to	to	TO	_	10	aux
+10	go	go	VB	_	6	dep
+11	there	there	RB	_	10	advmod
+12	and	and	CC	_	10	cc
+13	return	return	VB	_	10	conj
+14	before	before	IN	_	18	mark
+15	the	the	DT	_	16	det
+16	boat	boat	NN	_	18	nsubj
+17	had	have	VBD	_	18	aux
+18	left	leave	VBN	_	13	advcl
+19	the	the	DT	_	20	det
+20	shore	shore	NN	_	18	dobj
+21	.	.	.	_	2	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	correspondence	correspondence	NN	_	3	nsubj
+3	encloses	enclose	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	purported	purported	JJ	_	6	amod
+6	cheque	cheque	NN	_	3	dobj
+7	,	,	,	_	3	punct
+8	as	as	IN	_	9	mark
+9	described	describe	VBN	_	3	advcl
+10	above	above	IN	_	9	advmod
+11	,	,	,	_	3	punct
+12	for	for	IN	_	3	prep
+13	$	$	$	_	12	pobj
+14	2980.00	2980.00	CD	_	13	num
+15	,	,	,	_	3	punct
+16	to	to	TO	_	17	aux
+17	go	go	VB	_	3	xcomp
+18	towards	towards	IN	_	17	prep
+19	these	these	DT	_	20	det
+20	fees	fee	NNS	_	18	pobj
+21	.	.	.	_	3	punct
+

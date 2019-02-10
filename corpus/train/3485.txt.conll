@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	concepts	concept	NNS	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	psychoanalysis	psychoanalysis	NN	_	3	pobj
+5	have	have	VBP	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	applied	apply	VBN	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	films	film	NNS	_	8	pobj
+10	in	in	IN	_	9	prep
+11	various	various	JJ	_	12	amod
+12	ways	way	NNS	_	10	pobj
+13	.	.	.	_	7	punct
+

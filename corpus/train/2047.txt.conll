@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det
+2	jack-knifed	jack-knifed	JJ	_	3	amod
+3	lorry	lorry	NN	_	4	nsubj
+4	caused	cause	VBD	_	0	ROOT
+5	delays	delay	NNS	_	4	dobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	A27	a27	NN	_	9	nn
+9	eastbound	eastbound	NN	_	6	pobj
+10	between	between	IN	_	9	prep
+11	Havant	Havant	NNP	_	10	pobj
+12	,	,	,	_	11	punct
+13	Hampshire	Hampshire	NNP	_	11	appos
+14	,	,	,	_	11	punct
+15	and	and	CC	_	11	cc
+16	Chichester	Chichester	NNP	_	11	conj
+17	,	,	,	_	11	punct
+18	West	West	NNP	_	19	nn
+19	Sussex	Sussex	NNP	_	11	appos
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,21 @@
+1	In	in	IN	_	0	ROOT
+2	this	this	DT	_	3	det
+3	section	section	NN	_	1	pobj
+4	are	be	VBP	_	1	dep
+5	horses	horse	NNS	_	4	nsubj
+6	born	bear	VBN	_	5	vmod
+7	in	in	IN	_	6	prep
+8	Tori	Tori	NNP	_	9	nn
+9	stud	stud	NN	_	7	pobj
+10	that	that	WDT	_	12	nsubj
+11	have	have	VBP	_	12	aux
+12	made	make	VBN	_	9	rcmod
+13	Tori	Tori	NNP	_	14	nn
+14	breed	breed	NN	_	12	dobj
+15	famous	famous	JJ	_	14	amod
+16	and	and	CC	_	4	cc
+17	maintained	maintain	VBD	_	4	conj
+18	that	that	IN	_	19	amod
+19	fame	fame	NN	_	17	dobj
+20	.	.	.	_	1	punct
+

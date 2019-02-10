@@ -1,0 +1,17 @@
+1	As	as	IN	_	0	ROOT
+2	a	a	DT	_	3	det
+3	guitarist	guitarist	NN	_	1	pobj
+4	I	I	PRP	_	5	nsubj
+5	get	get	VBP	_	3	rcmod
+6	so	so	RB	_	7	advmod
+7	much	much	JJ	_	8	amod
+8	satisfaction	satisfaction	NN	_	5	dobj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	playing	playing	NN	_	9	pobj
+12	and	and	CC	_	5	cc
+13	performing	perform	VBG	_	5	conj
+14	of	of	IN	_	13	prep
+15	music	music	NN	_	14	pobj
+16	.	.	.	_	1	punct
+

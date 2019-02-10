@@ -1,0 +1,12 @@
+1	Inside	inside	IN	_	6	prep
+2	,	,	,	_	6	punct
+3	the	the	DT	_	4	det
+4	poster	poster	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	enclosed	enclose	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	tight	tight	JJ	_	10	amod
+9	plastic	plastic	JJ	_	10	amod
+10	packaging	packaging	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

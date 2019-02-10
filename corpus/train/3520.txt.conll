@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	community	community	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	senior	senior	JJ	_	5	amod
+5	citizens	citizen	NNS	_	3	pobj
+6	already	already	RB	_	7	advmod
+7	has	have	VBZ	_	0	ROOT
+8	great	great	JJ	_	10	amod
+9	electoral	electoral	JJ	_	10	amod
+10	power	power	NN	_	7	dobj
+11	.	.	.	_	7	punct
+

@@ -1,0 +1,18 @@
+1	Designers	designer	NNS	_	2	nsubj
+2	focus	focus	VBP	_	0	ROOT
+3	more	more	JJR	_	4	amod
+4	time	time	NN	_	2	dobj
+5	and	and	CC	_	4	cc
+6	energy	energy	NN	_	4	conj
+7	on	on	IN	_	2	prep
+8	improving	improve	VBG	_	7	pcomp
+9	and	and	CC	_	8	cc
+10	differentiating	differentiate	VBG	_	8	conj
+11	their	they	PRP$	_	13	poss
+12	system-level	system-level	JJ	_	13	amod
+13	product	product	NN	_	10	dobj
+14	by	by	IN	_	8	prep
+15	using	use	VBG	_	14	pcomp
+16	megafunctions	megafunction	NNS	_	15	dobj
+17	.	.	.	_	2	punct
+

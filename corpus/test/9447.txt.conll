@@ -1,0 +1,20 @@
+1	My	my	PRP$	_	2	poss
+2	dish	dish	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	attached	attach	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	7	det
+7	pole	pole	NN	_	5	pobj
+8	that	that	WDT	_	9	nsubj
+9	resides	reside	VBZ	_	7	rcmod
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	receptacle	receptacle	NN	_	10	pobj
+13	designed	design	VBN	_	12	vmod
+14	for	for	IN	_	13	prep
+15	just	just	RB	_	18	advmod
+16	such	such	JJ	_	18	amod
+17	a	a	DT	_	18	det
+18	purpose	purpose	NN	_	14	pobj
+19	.	.	.	_	4	punct
+

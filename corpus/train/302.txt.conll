@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	sagas	saga	NNS	_	3	nsubj
+3	developed	develop	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	oral	oral	JJ	_	7	amod
+7	culture	culture	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	Viking	viking	JJ	_	11	amod
+11	Age	age	NN	_	8	pobj
+12	.	.	.	_	3	punct
+

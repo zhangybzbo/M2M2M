@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	work	work	VBP	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	design	design	NN	_	6	nn
+6	studio	studio	NN	_	3	pobj
+7	and	and	CC	_	2	cc
+8	by	by	IN	_	2	conj
+9	chance	chance	NN	_	8	pobj
+10	it	it	PRP	_	15	nsubj
+11	's	be	VBZ	_	15	cop
+12	a	a	DT	_	15	det
+13	really	really	RB	_	14	advmod
+14	good	good	JJ	_	15	amod
+15	profession	profession	NN	_	9	rcmod
+16	for	for	IN	_	15	prep
+17	me	I	PRP	_	16	pobj
+18	.	.	.	_	2	punct
+

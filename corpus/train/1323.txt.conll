@@ -1,0 +1,19 @@
+1	Purely	purely	RB	_	3	advmod
+2	textual	textual	JJ	_	3	amod
+3	posters	poster	NNS	_	4	nsubj
+4	advertised	advertise	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	plays	play	NNS	_	4	dobj
+7	of	of	IN	_	6	prep
+8	Shakespeare	Shakespeare	NNP	_	7	pobj
+9	and	and	CC	_	4	cc
+10	made	make	VBD	_	4	conj
+11	citizens	citizen	NNS	_	10	dobj
+12	aware	aware	JJ	_	11	amod
+13	of	of	IN	_	12	prep
+14	government	government	NN	_	15	nn
+15	proclamations	proclamation	NNS	_	13	pobj
+16	for	for	IN	_	10	prep
+17	centuries	century	NNS	_	16	pobj
+18	.	.	.	_	4	punct
+

@@ -1,0 +1,15 @@
+1	They	they	PRP	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	a	a	DT	_	4	det
+4	collection	collection	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	standards	standard	NNS	_	5	pobj
+7	defining	define	VBG	_	4	vmod
+8	the	the	DT	_	10	det
+9	allowed	allow	VBN	_	10	amod
+10	formats	format	NNS	_	7	dobj
+11	of	of	IN	_	10	prep
+12	Compact	Compact	NNP	_	13	nn
+13	Discs	Discs	NNP	_	11	pobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	bottle	bottle	NN	_	7	nsubj
+3	with	with	IN	_	2	prep
+4	cereal	cereal	NN	_	3	pobj
+5	in	in	IN	_	2	prep
+6	it	it	PRP	_	5	pobj
+7	contains	contain	VBZ	_	0	ROOT
+8	more	more	RBR	_	9	advmod
+9	calories	calorie	NNS	_	7	dobj
+10	than	than	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	bottle	bottle	NN	_	10	pobj
+13	alone	alone	RB	_	12	advmod
+14	so	so	IN	_	17	mark
+15	it	it	PRP	_	17	nsubj
+16	can	can	MD	_	17	aux
+17	set	set	VB	_	7	advcl
+18	your	you	PRP$	_	19	poss
+19	baby	baby	NN	_	17	dobj
+20	up	up	RP	_	17	prt
+21	for	for	IN	_	17	prep
+22	some	some	DT	_	24	det
+23	overeating	overeating	NN	_	24	nn
+24	habits	habit	NNS	_	21	pobj
+25	.	.	.	_	7	punct
+

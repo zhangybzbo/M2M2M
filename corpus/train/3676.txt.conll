@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	course	course	NN	_	3	nsubj
+3	teaches	teach	VBZ	_	0	ROOT
+4	home	home	NN	_	5	nn
+5	builders	builder	NNS	_	3	dobj
+6	when	when	WRB	_	8	advmod
+7	to	to	TO	_	8	aux
+8	use	use	VB	_	3	advcl
+9	concrete	concrete	NN	_	8	dobj
+10	for	for	IN	_	8	prep
+11	a	a	DT	_	15	det
+12	paving	paving	NN	_	15	nn
+13	or	or	CC	_	12	cc
+14	floor	floor	NN	_	12	conj
+15	project	project	NN	_	10	pobj
+16	.	.	.	_	3	punct
+

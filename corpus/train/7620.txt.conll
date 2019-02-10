@@ -1,0 +1,22 @@
+1	They	they	PRP	_	2	nsubj
+2	understand	understand	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	stakes	stake	NNS	_	2	dobj
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	personal	personal	JJ	_	8	amod
+8	perspective	perspective	NN	_	5	pobj
+9	,	,	,	_	4	punct
+10	as	as	RB	_	11	advmod
+11	well	well	RB	_	4	advmod
+12	,	,	,	_	4	punct
+13	since	since	IN	_	17	mark
+14	the	the	DT	_	15	det
+15	extremists	extremist	NNS	_	17	nsubj
+16	have	have	VBP	_	17	aux
+17	tried	try	VBN	_	4	advcl
+18	to	to	TO	_	19	aux
+19	assassinate	assassinate	VB	_	17	xcomp
+20	them	they	PRP	_	19	dobj
+21	.	.	.	_	2	punct
+

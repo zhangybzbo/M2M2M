@@ -1,0 +1,13 @@
+1	Since	since	IN	_	7	prep
+2	this	this	DT	_	3	det
+3	afternoon	afternoon	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	models	model	NNS	_	7	nsubj
+6	have	have	VBP	_	7	aux
+7	come	come	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	somewhat	somewhat	RB	_	10	advmod
+10	better	better	JJR	_	11	amod
+11	agreement	agreement	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

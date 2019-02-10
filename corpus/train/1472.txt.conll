@@ -1,0 +1,17 @@
+1	The	the	DT	_	6	det
+2	Kursk	Kursk	NNP	_	6	nn
+3	-LRB-	-lrb-	-LRB-	_	4	punct
+4	RBMK	RBMK	NNP	_	6	dep
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	reactor	reactor	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	manufactured	manufacture	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	15	det
+11	slurry-fed	slurry-fed	JJ	_	15	amod
+12	ceramic	ceramic	JJ	_	15	amod
+13	Joule-heated	joule-heated	JJ	_	15	amod
+14	glass	glass	NN	_	15	nn
+15	melter	melter	NN	_	9	pobj
+16	.	.	.	_	8	punct
+

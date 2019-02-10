@@ -1,0 +1,1 @@
+The difficulties in developing Vista stemmed from its monolithic structure and the need for ` backwards compatibility ' , i.e. ensuring that software used by customers on older versions of Windows will work under Vista .

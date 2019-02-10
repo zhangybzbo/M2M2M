@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	paper	paper	NN	_	19	nsubjpass
+3	co-authored	co-author	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	JRC	JRC	NNP	_	6	nn
+6	staff	staff	NN	_	4	pobj
+7	entitled	entitle	VBN	_	6	vmod
+8	``	``	``	_	10	punct
+9	Plutonium-based	plutonium-based	JJ	_	10	amod
+10	superconductivity	superconductivity	NN	_	7	dep
+11	with	with	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	transition	transition	NN	_	14	nn
+14	temperature	temperature	NN	_	11	pobj
+15	above	above	IN	_	14	prep
+16	18K	18K	NNP	_	15	pobj
+17	''	''	''	_	10	punct
+18	was	be	VBD	_	19	auxpass
+19	published	publish	VBN	_	0	ROOT
+20	on	on	IN	_	19	prep
+21	21	21	CD	_	22	num
+22	November	November	NNP	_	20	pobj
+23	in	in	IN	_	19	prep
+24	Nature	Nature	NNP	_	25	nn
+25	magazine	magazine	NN	_	23	pobj
+26	.	.	.	_	19	punct
+

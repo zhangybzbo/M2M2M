@@ -1,0 +1,11 @@
+0	49	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="grape" pos="NN" nn="t1"
+6	12	tok id="t1" base="brandy" pos="NN" nsubjpass="t3"
+13	15	tok id="t2" base="be" pos="VBZ" auxpass="t3"
+16	20	tok id="t3" base="make" pos="VBN" ROOT="ROOT"
+21	25	tok id="t4" base="from" pos="IN" prep="t3"
+26	35	tok id="t5" base="fermented" pos="JJ" amod="t7"
+36	41	tok id="t6" base="grape" pos="NN" nn="t7"
+42	47	tok id="t7" base="juice" pos="NN" pobj="t4"
+48	49	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

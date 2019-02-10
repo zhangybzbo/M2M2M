@@ -1,0 +1,25 @@
+1	Even	even	RB	_	2	advmod
+2	in	in	IN	_	9	prep
+3	World	World	NNP	_	5	nn
+4	War	War	NNP	_	5	nn
+5	II	II	NNP	_	2	pobj
+6	,	,	,	_	9	punct
+7	American	American	NNP	_	8	nn
+8	soldiers	soldier	NNS	_	9	nsubj
+9	targeted	target	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	men	man	NNS	_	9	dobj
+12	with	with	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	katanas	katanas	FW	_	12	pobj
+15	first	first	RB	_	21	advmod
+16	because	because	IN	_	21	mark
+17	their	they	PRP$	_	19	poss
+18	killing	kill	VBG	_	19	amod
+19	power	power	NN	_	21	nsubjpass
+20	was	be	VBD	_	21	auxpass
+21	feared	fear	VBN	_	14	dep
+22	and	and	CC	_	21	cc
+23	respected	respect	VBN	_	21	conj
+24	.	.	.	_	9	punct
+

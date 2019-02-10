@@ -1,0 +1,1 @@
+It has been assumed that the quench starts at the middle cross-section of the magnet .

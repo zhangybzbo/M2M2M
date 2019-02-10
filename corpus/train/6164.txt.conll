@@ -1,0 +1,11 @@
+1	Virgin	virgin	JJ	_	2	amod
+2	Galactic	galactic	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	determined	determine	VBN	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	send	send	VB	_	4	xcomp
+7	folks	folk	NNS	_	6	dobj
+8	into	into	IN	_	6	prep
+9	space	space	NN	_	8	pobj
+10	.	.	.	_	4	punct
+

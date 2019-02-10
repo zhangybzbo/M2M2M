@@ -1,0 +1,16 @@
+1	In	in	IN	_	0	ROOT
+2	some	some	DT	_	1	pobj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	other	other	JJ	_	6	amod
+6	stories	story	NNS	_	3	pobj
+7	,	,	,	_	10	punct
+8	an	a	DT	_	10	det
+9	orphan	orphan	JJ	_	10	amod
+10	runs	run	NNS	_	1	dep
+11	away	away	RB	_	10	advmod
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	orphanage	orphanage	NN	_	12	pobj
+15	.	.	.	_	10	punct
+

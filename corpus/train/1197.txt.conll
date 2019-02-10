@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	above	above	JJ	_	3	amod
+3	ticker	ticker	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	distilled	distil	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	my	my	PRP$	_	9	poss
+8	daily	daily	JJ	_	9	amod
+9	posts	post	NNS	_	6	pobj
+10	to	to	TO	_	5	prep
+11	Twitter	Twitter	NNP	_	10	pobj
+12	.	.	.	_	5	punct
+

@@ -1,0 +1,1 @@
+The paddle of the microaccelerometer is designed symmetric with respect to the direction of the beam .

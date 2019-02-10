@@ -1,0 +1,13 @@
+0	72	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="they" pos="PRP" nsubj="t1"
+5	12	tok id="t1" base="include" pos="VBP" ROOT="ROOT"
+13	20	tok id="t2" base="send" pos="VBG" xcomp="t1"
+21	28	tok id="t3" base="e-mail" pos="NNS" dobj="t2"
+29	31	tok id="t4" base="to" pos="TO" aux="t5"
+32	38	tok id="t5" base="remind" pos="VB" vmod="t2"
+39	48	tok id="t6" base="customer" pos="NNS" dobj="t5"
+49	54	tok id="t7" base="about" pos="IN" prep="t5"
+55	64	tok id="t8" base="abandon" pos="VBN" amod="t9"
+65	70	tok id="t9" base="item" pos="NNS" pobj="t7"
+71	72	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

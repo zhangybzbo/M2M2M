@@ -1,0 +1,17 @@
+1	LC	lc	NN	_	2	nn
+2	repair	repair	NN	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	special	special	JJ	_	7	amod
+6	welding	welding	NN	_	7	nn
+7	system	system	NN	_	0	ROOT
+8	that	that	WDT	_	9	nsubj
+9	employs	employ	VBZ	_	7	rcmod
+10	a	a	DT	_	15	det
+11	high	high	JJ	_	15	amod
+12	power	power	NN	_	15	nn
+13	YaG	yag	NN	_	15	nn
+14	laser	laser	NN	_	15	nn
+15	beam	beam	NN	_	9	dobj
+16	.	.	.	_	7	punct
+

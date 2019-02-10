@@ -1,0 +1,15 @@
+1	Interpolation	interpolation	NN	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	missing	miss	VBG	_	6	amod
+5	samples	sample	NNS	_	6	nn
+6	repairs	repair	NNS	_	2	pobj
+7	the	the	DT	_	8	det
+8	waveform	waveform	NN	_	6	dep
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	minimum	minimum	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	distortion	distortion	NN	_	12	pobj
+14	.	.	.	_	1	punct
+

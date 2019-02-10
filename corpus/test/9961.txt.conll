@@ -1,0 +1,22 @@
+1	Annie	Annie	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	the	the	DT	_	4	det
+4	inventor	inventor	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	10	det
+7	astoundingly	astoundingly	RB	_	10	advmod
+8	clever	clever	JJ	_	10	amod
+9	Flip	Flip	NNP	_	10	nn
+10	Knit	Knit	NNP	_	5	pobj
+11	,	,	,	_	4	punct
+12	a	a	DT	_	14	det
+13	low	low	JJ	_	14	amod
+14	tech	tech	NN	_	4	appos
+15	,	,	,	_	4	punct
+16	portable	portable	JJ	_	17	amod
+17	alternative	alternative	NN	_	4	appos
+18	to	to	TO	_	17	prep
+19	knitting	knit	VBG	_	20	amod
+20	videos	video	NNS	_	18	pobj
+21	.	.	.	_	4	punct
+

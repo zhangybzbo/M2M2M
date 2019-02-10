@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	central	central	JJ	_	4	amod
+3	nervous	nervous	JJ	_	4	amod
+4	system	system	NN	_	5	nsubj
+5	comprises	comprise	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	brain	brain	NN	_	5	dobj
+8	and	and	CC	_	7	cc
+9	the	the	DT	_	11	det
+10	spinal	spinal	JJ	_	11	amod
+11	chord	chord	NN	_	7	conj
+12	.	.	.	_	5	punct
+

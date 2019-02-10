@@ -1,0 +1,3 @@
+T1	Term 0 11	Dehydration
+T2	Term 41 46	death
+R1	Cause-Effect Arg1:T1 Arg2:T2

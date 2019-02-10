@@ -1,0 +1,13 @@
+1	It	it	PRP	_	2	nsubj
+2	covers	cover	VBZ	_	0	ROOT
+3	the	the	DT	_	5	det
+4	basic	basic	JJ	_	5	amod
+5	concepts	concept	NNS	_	2	dobj
+6	in	in	IN	_	2	prep
+7	a	a	DT	_	11	det
+8	clean	clean	JJ	_	11	amod
+9	and	and	CC	_	8	cc
+10	slick	slick	JJ	_	8	conj
+11	tutorial	tutorial	NN	_	6	pobj
+12	.	.	.	_	2	punct
+

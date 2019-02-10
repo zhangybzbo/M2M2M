@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	fifty	fifty	CD	_	3	num
+3	essays	essay	NNS	_	8	nsubj
+4	collected	collect	VBN	_	3	vmod
+5	in	in	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	volume	volume	NN	_	5	pobj
+8	testify	testify	VB	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	most	most	JJS	_	9	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	prominent	prominent	JJ	_	14	amod
+14	themes	theme	NNS	_	11	pobj
+15	from	from	IN	_	14	prep
+16	Professor	Professor	NNP	_	17	nn
+17	Quispel	Quispel	NNP	_	20	poss
+18	's	's	POS	_	17	possessive
+19	scholarly	scholarly	JJ	_	20	amod
+20	career	career	NN	_	15	pobj
+21	.	.	.	_	8	punct
+

@@ -1,0 +1,23 @@
+1	Phobia	phobia	NN	_	7	nsubj
+2	like	like	IN	_	1	prep
+3	fear	fear	NN	_	2	pobj
+4	from	from	IN	_	3	prep
+5	crowd	crowd	NN	_	4	pobj
+6	,	,	,	_	7	punct
+7	fear	fear	VBP	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	insects	insect	NNS	_	8	pobj
+10	,	,	,	_	7	punct
+11	fear	fear	VBP	_	7	dep
+12	from	from	IN	_	11	prep
+13	height	height	NN	_	12	pobj
+14	etc	etc	FW	_	16	advmod
+15	all	all	DT	_	16	nsubj
+16	contribute	contribute	VBP	_	11	ccomp
+17	in	in	IN	_	16	prep
+18	developing	develop	VBG	_	17	pcomp
+19	the	the	DT	_	21	det
+20	anxiety	anxiety	NN	_	21	nn
+21	disorder	disorder	NN	_	18	dobj
+22	.	.	.	_	7	punct
+

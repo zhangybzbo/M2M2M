@@ -1,0 +1,15 @@
+1	Much	much	JJ	_	2	amod
+2	effort	effort	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	research	research	NN	_	6	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	phenomenon	phenomenon	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	voltage	voltage	NN	_	13	nn
+13	collapse	collapse	NN	_	11	pobj
+14	.	.	.	_	5	punct
+

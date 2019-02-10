@@ -1,0 +1,27 @@
+1	Although	although	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	goats	goat	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	farmed	farm	VBN	_	0	ROOT
+6	for	for	IN	_	5	prep
+7	their	they	PRP$	_	8	poss
+8	fibre	fibre	NN	_	6	pobj
+9	from	from	IN	_	8	prep
+10	early	early	JJ	_	11	amod
+11	times	time	NNS	_	9	pobj
+12	it	it	PRP	_	13	nsubj
+13	was	be	VBD	_	8	rcmod
+14	not	not	RB	_	13	neg
+15	until	until	IN	_	13	prep
+16	the	the	DT	_	18	det
+17	16th	16th	JJ	_	18	amod
+18	century	century	NN	_	15	pobj
+19	that	that	WDT	_	20	det
+20	export	export	NN	_	25	nsubjpass
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	goats	goat	NNS	_	21	pobj
+24	was	be	VBD	_	25	auxpass
+25	permitted	permit	VBN	_	18	rcmod
+26	.	.	.	_	5	punct
+

@@ -1,0 +1,12 @@
+1	Both	both	DT	_	4	preconj
+2	over-the-counter	over-the-counter	JJ	_	4	amod
+3	pain	pain	NN	_	4	nn
+4	pills	pill	NNS	_	8	nsubj
+5	and	and	CC	_	4	cc
+6	prescription	prescription	NN	_	7	nn
+7	drugs	drug	NNS	_	4	conj
+8	cause	cause	VBP	_	0	ROOT
+9	medication-overuse	medication-overuse	JJ	_	10	amod
+10	headaches	headache	NNS	_	8	dobj
+11	.	.	.	_	8	punct
+

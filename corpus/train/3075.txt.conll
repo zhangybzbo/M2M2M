@@ -1,0 +1,24 @@
+1	Max	Max	NNP	_	2	nn
+2	Weber	Weber	NNP	_	0	ROOT
+3	's	's	POS	_	2	possessive
+4	1922	1922	CD	_	5	num
+5	opus	opus	NN	_	10	nsubj
+6	,	,	,	_	5	punct
+7	Economy	economy	NN	_	5	conj
+8	and	and	CC	_	5	cc
+9	Society	Society	NNP	_	5	conj
+10	discusses	discuss	VBZ	_	2	rcmod
+11	the	the	DT	_	12	det
+12	link	link	NN	_	10	dobj
+13	between	between	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	pantheon	pantheon	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	gods	god	NNS	_	16	pobj
+18	and	and	CC	_	15	cc
+19	the	the	DT	_	20	det
+20	development	development	NN	_	15	conj
+21	of	of	IN	_	20	prep
+22	monotheism	monotheism	NN	_	21	pobj
+23	.	.	.	_	2	punct
+

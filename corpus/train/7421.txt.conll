@@ -1,0 +1,24 @@
+1	First	first	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	the	the	DT	_	4	det
+4	contents	contents	NNS	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	proposal	proposal	NN	_	5	pobj
+8	included	include	VBD	_	0	ROOT
+9	a	a	DT	_	12	det
+10	detailed	detailed	JJ	_	12	amod
+11	cost	cost	NN	_	12	nn
+12	analysis	analysis	NN	_	8	dobj
+13	,	,	,	_	12	punct
+14	accurate	accurate	JJ	_	16	amod
+15	marketing	marketing	NN	_	16	nn
+16	analysis	analysis	NN	_	12	conj
+17	and	and	CC	_	12	cc
+18	a	a	DT	_	22	det
+19	preliminary	preliminary	JJ	_	22	amod
+20	project	project	NN	_	22	nn
+21	execution	execution	NN	_	22	nn
+22	plan	plan	NN	_	12	conj
+23	.	.	.	_	8	punct
+

@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	study	study	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	added	add	VBN	_	0	ROOT
+5	insights	insight	NNS	_	4	dobj
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	diversity	diversity	NN	_	6	pobj
+9	as	as	IN	_	4	prep
+10	a	a	DT	_	11	det
+11	phenomenon	phenomenon	NN	_	9	pobj
+12	in	in	IN	_	11	prep
+13	nursing	nursing	NN	_	12	pobj
+14	and	and	CC	_	4	cc
+15	has	have	VBZ	_	4	conj
+16	implications	implication	NNS	_	15	dobj
+17	for	for	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	nursing	nursing	NN	_	20	nn
+20	profession	profession	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

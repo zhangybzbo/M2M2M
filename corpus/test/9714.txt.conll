@@ -1,0 +1,12 @@
+1	All	all	DT	_	6	nsubj
+2	of	of	IN	_	1	prep
+3	our	we	PRP$	_	4	poss
+4	producers	producer	NNS	_	5	nsubj
+5	rear	rear	JJ	_	2	pobj
+6	produce	produce	VBP	_	0	ROOT
+7	within	within	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	New	New	NNP	_	10	nn
+10	Forest	Forest	NNP	_	7	pobj
+11	.	.	.	_	6	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	sketchy	sketchy	JJ	_	3	amod
+3	rock	rock	NN	_	8	nsubjpass
+4	in	in	IN	_	3	prep
+5	Figure	Figure	NNP	_	4	pobj
+6	16	16	CD	_	5	num
+7	is	be	VBZ	_	8	auxpass
+8	built	build	VBN	_	0	ROOT
+9	up	up	IN	_	8	prep
+10	of	of	IN	_	9	pcomp
+11	many	many	JJ	_	14	amod
+12	separate	separate	JJ	_	14	amod
+13	brush	brush	NN	_	14	nn
+14	strokes	stroke	NNS	_	10	pobj
+15	.	.	.	_	8	punct
+

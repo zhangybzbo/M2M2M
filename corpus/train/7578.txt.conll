@@ -1,0 +1,16 @@
+1	During	during	IN	_	0	ROOT
+2	his	he	PRP$	_	3	poss
+3	travel	travel	NN	_	1	pobj
+4	to	to	TO	_	3	prep
+5	Russia	Russia	NNP	_	4	pobj
+6	you	you	PRP	_	7	nsubj
+7	managed	manage	VBD	_	3	rcmod
+8	to	to	TO	_	9	aux
+9	buy	buy	VB	_	7	xcomp
+10	vodka	vodka	NN	_	9	dobj
+11	in	in	IN	_	9	prep
+12	a	a	DT	_	14	det
+13	plastic	plastic	JJ	_	14	amod
+14	bag	bag	NN	_	11	pobj
+15	.	.	.	_	1	punct
+

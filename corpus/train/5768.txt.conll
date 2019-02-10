@@ -1,0 +1,16 @@
+1	This	this	DT	_	4	det
+2	famous	famous	JJ	_	4	amod
+3	Chinese	chinese	JJ	_	4	amod
+4	fable	fable	NN	_	5	nsubj
+5	describes	describe	VBZ	_	0	ROOT
+6	a	a	DT	_	7	det
+7	fox	fox	NN	_	5	dobj
+8	,	,	,	_	7	punct
+9	who	who	WP	_	10	nsubj
+10	visits	visit	VBZ	_	7	rcmod
+11	chickens	chicken	NNS	_	10	dobj
+12	and	and	CC	_	10	cc
+13	brings	bring	VBZ	_	10	conj
+14	presents	present	NNS	_	13	dobj
+15	.	.	.	_	5	punct
+

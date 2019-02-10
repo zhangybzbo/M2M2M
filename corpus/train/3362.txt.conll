@@ -1,0 +1,19 @@
+1	She	she	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	her	she	PRP$	_	4	poss
+4	jewels	jewel	NNS	_	2	dobj
+5	back	back	RB	_	2	advmod
+6	in	in	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	casket	casket	NN	_	6	pobj
+9	,	,	,	_	2	punct
+10	and	and	CC	_	2	cc
+11	dressed	dress	VBN	_	2	conj
+12	herself	herself	PRP	_	11	dobj
+13	in	in	IN	_	11	prep
+14	the	the	DT	_	17	det
+15	plain	plain	JJ	_	17	amod
+16	black	black	JJ	_	17	amod
+17	gown	gown	NN	_	13	pobj
+18	.	.	.	_	2	punct
+

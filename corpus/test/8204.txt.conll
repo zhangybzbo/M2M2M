@@ -1,0 +1,24 @@
+1	His	he	PRP$	_	4	poss
+2	trademark	trademark	NN	_	4	nn
+3	steam-engine	steam-engine	NN	_	4	nn
+4	puffing	puffing	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	revealed	reveal	VBN	_	0	ROOT
+7	as	as	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	sound	sound	NN	_	7	pobj
+10	made	make	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	viper	viper	NN	_	11	pobj
+14	spitting	spit	VBG	_	15	amod
+15	venom	venom	NN	_	13	vmod
+16	at	at	IN	_	15	prep
+17	his	he	PRP$	_	18	poss
+18	prey	prey	NN	_	16	pobj
+19	before	before	IN	_	15	prep
+20	swallowing	swallow	VBG	_	19	pcomp
+21	her	she	PRP$	_	22	poss
+22	whole	whole	NN	_	20	dobj
+23	.	.	.	_	6	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	poem	poem	NN	_	3	nsubj
+3	consists	consist	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	short	short	JJ	_	6	amod
+6	verses	verse	NNS	_	4	pobj
+7	reflecting	reflect	VBG	_	6	vmod
+8	on	on	IN	_	7	prep
+9	nature	nature	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	travel	travel	NN	_	9	conj
+12	through	through	IN	_	7	prep
+13	the	the	DT	_	14	det
+14	landscape	landscape	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

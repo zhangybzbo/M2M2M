@@ -1,0 +1,19 @@
+1	Fish	fish	NN	_	2	nn
+2	eggs	egg	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	collected	collect	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	opening	open	VBG	_	5	pcomp
+7	the	the	DT	_	8	det
+8	outlet	outlet	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	spawning	spawn	VBG	_	12	amod
+12	pond	pond	NN	_	9	pobj
+13	leading	lead	VBG	_	12	vmod
+14	to	to	TO	_	13	prep
+15	the	the	DT	_	17	det
+16	egg-collection	egg-collection	JJ	_	17	amod
+17	chamber	chamber	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

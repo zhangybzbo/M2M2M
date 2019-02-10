@@ -1,0 +1,25 @@
+1	In	in	IN	_	9	prep
+2	your	you	PRP$	_	3	poss
+3	issue	issue	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	April	April	NNP	_	4	pobj
+6	26	26	CD	_	5	num
+7	a	a	DT	_	8	det
+8	photograph	photograph	NN	_	9	nsubj
+9	shows	show	VBZ	_	0	ROOT
+10	a	a	DT	_	12	det
+11	woman	woman	NN	_	12	nn
+12	doctor	doctor	NN	_	9	dobj
+13	with	with	IN	_	9	prep
+14	a	a	DT	_	16	det
+15	precautionary	precautionary	JJ	_	16	amod
+16	mask	mask	NN	_	13	pobj
+17	against	against	IN	_	16	prep
+18	SARS	sar	NN	_	19	nn
+19	infection	infection	NN	_	17	pobj
+20	,	,	,	_	9	punct
+21	attending	attend	VBG	_	9	xcomp
+22	a	a	DT	_	23	det
+23	patient	patient	NN	_	21	dobj
+24	.	.	.	_	9	punct
+

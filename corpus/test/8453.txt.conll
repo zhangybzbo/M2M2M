@@ -1,0 +1,12 @@
+1	A	a	DT	_	3	det
+2	Saudi	saudi	JJ	_	3	amod
+3	prisoner	prisoner	NN	_	4	nsubj
+4	escaped	escape	VBD	_	0	ROOT
+5	an	a	DT	_	7	det
+6	American	american	JJ	_	7	amod
+7	detention	detention	NN	_	4	dobj
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	desert	desert	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

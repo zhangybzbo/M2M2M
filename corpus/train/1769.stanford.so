@@ -1,0 +1,13 @@
+0	51	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="pig" pos="NNS" nsubj="t2"
+5	11	tok id="t1" base="really" pos="RB" advmod="t2"
+12	15	tok id="t2" base="fly" pos="VBP" ROOT="ROOT"
+16	19	tok id="t3" base="-PERIOD--PERIOD--PERIOD-" pos=":" punct="t2"
+20	24	tok id="t4" base="with" pos="IN" prep="t2"
+25	28	tok id="t5" base="the" pos="DT" det="t6"
+29	33	tok id="t6" base="help" pos="NN" pobj="t4"
+34	36	tok id="t7" base="of" pos="IN" prep="t6"
+37	38	tok id="t8" base="a" pos="DT" det="t9"
+39	49	tok id="t9" base="trampoline" pos="NN" pobj="t7"
+50	51	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,21 @@
+1	Frozen	frozen	JJ	_	5	amod
+2	concentrated	concentrated	JJ	_	5	amod
+3	orange	orange	NN	_	5	nn
+4	juice	juice	NN	_	5	nn
+5	futures	future	NNS	_	7	nsubj
+6	have	have	VBP	_	7	aux
+7	gained	gain	VBN	_	0	ROOT
+8	17	17	CD	_	9	num
+9	%	%	NN	_	7	dobj
+10	this	this	DT	_	11	det
+11	week	week	NN	_	7	tmod
+12	on	on	IN	_	7	prep
+13	fears	fear	NNS	_	12	pobj
+14	that	that	IN	_	19	mark
+15	crop	crop	NN	_	16	nn
+16	damage	damage	NN	_	19	nsubj
+17	could	could	MD	_	19	aux
+18	be	be	VB	_	19	cop
+19	substantial	substantial	JJ	_	13	ccomp
+20	.	.	.	_	7	punct
+

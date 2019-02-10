@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	sauce	sauce	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	soybean	soybean	NN	_	7	nn
+7	flour	flour	NN	_	5	pobj
+8	,	,	,	_	7	punct
+9	chiles	chile	NNS	_	7	conj
+10	,	,	,	_	7	punct
+11	red	red	JJ	_	12	amod
+12	beans	bean	NNS	_	7	conj
+13	,	,	,	_	7	punct
+14	and	and	CC	_	7	cc
+15	many	many	JJ	_	17	amod
+16	other	other	JJ	_	17	amod
+17	spices	spice	NNS	_	7	conj
+18	.	.	.	_	4	punct
+

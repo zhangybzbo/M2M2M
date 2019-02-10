@@ -1,0 +1,22 @@
+1	Two	two	CD	_	2	num
+2	reapers	reaper	NNS	_	11	nsubj
+3	and	and	CC	_	2	cc
+4	an	a	DT	_	6	det
+5	entire	entire	JJ	_	6	amod
+6	regiment	regiment	NN	_	2	conj
+7	of	of	IN	_	6	prep
+8	repeater	repeater	NN	_	9	nn
+9	crossbowmen	crossbowman	NNS	_	7	pobj
+10	had	have	VBD	_	11	aux
+11	trained	train	VBN	_	0	ROOT
+12	their	they	PRP$	_	13	poss
+13	weapons	weapon	NNS	_	11	dobj
+14	on	on	IN	_	11	prep
+15	Seth	Seth	NNP	_	16	nn
+16	Garrick	Garrick	NNP	_	14	pobj
+17	from	from	IN	_	11	prep
+18	their	they	PRP$	_	20	poss
+19	elevated	elevated	JJ	_	20	amod
+20	positions	position	NNS	_	17	pobj
+21	.	.	.	_	11	punct
+

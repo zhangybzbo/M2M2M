@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	icon	icon	NN	_	8	nsubj
+3	is	be	VBZ	_	8	cop
+4	generally	generally	RB	_	8	advmod
+5	a	a	DT	_	8	det
+6	flat	flat	JJ	_	8	amod
+7	panel	panel	NN	_	8	nn
+8	painting	painting	NN	_	0	ROOT
+9	depicting	depict	VBG	_	8	vmod
+10	a	a	DT	_	14	det
+11	holy	holy	JJ	_	14	amod
+12	being	be	VBG	_	14	cop
+13	or	or	CC	_	14	cc
+14	object	object	NN	_	9	dobj
+15	.	.	.	_	8	punct
+

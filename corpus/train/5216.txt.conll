@@ -1,0 +1,12 @@
+1	I	I	PRP	_	3	nsubj
+2	always	always	RB	_	3	advmod
+3	carry	carry	VBP	_	0	ROOT
+4	a	a	DT	_	5	det
+5	suitcase	suitcase	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	my	my	PRP$	_	8	poss
+8	clothes	clothes	NNS	_	6	pobj
+9	in	in	IN	_	3	prep
+10	it	it	PRP	_	9	pobj
+11	.	.	.	_	3	punct
+

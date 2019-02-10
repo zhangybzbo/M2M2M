@@ -1,0 +1,11 @@
+1	Side-pull	side-pull	JJ	_	2	amod
+2	brakes	brake	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	secured	secure	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	cable	cable	NN	_	9	nn
+8	clamp	clamp	NN	_	9	nn
+9	nut	nut	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

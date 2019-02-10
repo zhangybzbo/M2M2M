@@ -1,0 +1,24 @@
+1	Varicose	varicose	JJ	_	2	amod
+2	veins	vein	NNS	_	3	nsubj
+3	result	result	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	weakening	weakening	NN	_	4	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	valves	valve	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	veins	vein	NNS	_	9	pobj
+12	so	so	IN	_	5	prep
+13	that	that	IN	_	12	pcomp
+14	blood	blood	NN	_	15	nn
+15	pools	pool	NNS	_	13	pobj
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	legs	leg	NNS	_	16	pobj
+19	or	or	CC	_	18	cc
+20	another	another	DT	_	22	det
+21	dependent	dependent	JJ	_	22	amod
+22	area	area	NN	_	18	conj
+23	.	.	.	_	3	punct
+

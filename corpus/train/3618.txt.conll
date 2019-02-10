@@ -1,0 +1,15 @@
+1	Properties	Properties	NNP	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	soils	soil	NNS	_	2	pobj
+5	developed	develop	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	amphibolites	amphibolite	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	Santiago-Ponte	Santiago-Ponte	NNP	_	11	nn
+11	Ulla	Ulla	NNP	_	9	pobj
+12	,	,	,	_	11	punct
+13	Spain	Spain	NNP	_	11	appos
+14	.	.	.	_	5	punct
+

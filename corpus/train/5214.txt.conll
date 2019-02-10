@@ -1,0 +1,23 @@
+1	Each	each	DT	_	4	det
+2	weekday	weekday	NN	_	4	nn
+3	one	one	CD	_	4	num
+4	photograph	photograph	NN	_	14	nsubjpass
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	member	member	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	Utata	Utata	NNP	_	12	nn
+11	flickr	flickr	NN	_	12	nn
+12	group	group	NN	_	8	pobj
+13	is	be	VBZ	_	14	auxpass
+14	chosen	choose	VBN	_	0	ROOT
+15	to	to	TO	_	17	aux
+16	be	be	VB	_	17	auxpass
+17	featured	feature	VBN	_	14	xcomp
+18	on	on	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	Utata	Utata	NNP	_	21	nn
+21	Blog	Blog	NNP	_	18	pobj
+22	.	.	.	_	14	punct
+

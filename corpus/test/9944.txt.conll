@@ -1,0 +1,26 @@
+1	He	he	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	wonderful	wonderful	JJ	_	5	amod
+5	story	story	NN	_	2	dobj
+6	to	to	TO	_	7	aux
+7	tell	tell	VB	_	5	vmod
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	conquest	conquest	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	continent	continent	NN	_	11	pobj
+14	by	by	IN	_	7	prep
+15	a	a	DT	_	16	det
+16	people	people	NNS	_	14	pobj
+17	through	through	IN	_	16	prep
+18	thrift	thrift	NN	_	17	pobj
+19	,	,	,	_	18	punct
+20	endurance	endurance	JJ	_	18	conj
+21	,	,	,	_	18	punct
+22	sacrifice	sacrifice	NN	_	18	conj
+23	and	and	CC	_	18	cc
+24	grit	grit	NN	_	18	conj
+25	.	.	.	_	2	punct
+

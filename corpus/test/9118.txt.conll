@@ -1,0 +1,13 @@
+1	A	a	DT	_	3	det
+2	famous	famous	JJ	_	3	amod
+3	poet	poet	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	entered	enter	VBN	_	0	ROOT
+6	his	he	PRP$	_	7	poss
+7	poems	poem	NNS	_	5	dobj
+8	into	into	IN	_	5	prep
+9	three	three	CD	_	11	num
+10	current	current	JJ	_	11	amod
+11	contests	contest	NNS	_	8	pobj
+12	.	.	.	_	5	punct
+

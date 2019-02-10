@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	poisons	poison	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	poured	pour	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	his	he	PRP$	_	7	poss
+7	veins	vein	NNS	_	5	pobj
+8	.	.	.	_	4	punct
+

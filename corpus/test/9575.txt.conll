@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	clutch	clutch	NN	_	3	nn
+3	holder	holder	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	lathe	lathe	NN	_	6	pobj
+9	by	by	IN	_	5	prep
+10	a	a	DT	_	11	det
+11	friend	friend	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	mine	mine	NN	_	12	pobj
+14	.	.	.	_	5	punct
+

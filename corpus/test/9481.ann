@@ -1,0 +1,3 @@
+T1	Term 171 174	cow
+T2	Term 193 197	milk
+R1	Product-Producer Arg1:T2 Arg2:T1

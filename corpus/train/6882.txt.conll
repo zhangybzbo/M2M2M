@@ -1,0 +1,10 @@
+1	Nielsen	Nielsen	NNP	_	2	nsubj
+2	released	release	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	insights	insight	NNS	_	2	dobj
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	online	online	NN	_	8	nn
+8	industry	industry	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

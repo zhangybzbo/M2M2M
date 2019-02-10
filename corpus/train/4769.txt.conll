@@ -1,0 +1,12 @@
+1	Reagent-grade	reagent-grade	JJ	_	2	amod
+2	acetonitrile	acetonitrile	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	distilled	distil	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	phosphorus	phosphorus	NN	_	7	nn
+7	pentoxide	pentoxide	NN	_	5	pobj
+8	immediately	immediately	RB	_	4	advmod
+9	before	before	IN	_	4	prep
+10	use	use	NN	_	9	pobj
+11	.	.	.	_	4	punct
+

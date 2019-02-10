@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	Galileoscope	Galileoscope	NNP	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	named	name	VBN	_	0	ROOT
+5	after	after	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Italian	italian	JJ	_	8	amod
+8	astronomer	astronomer	NN	_	5	pobj
+9	,	,	,	_	8	punct
+10	who	who	WP	_	12	nsubj
+11	first	first	RB	_	12	advmod
+12	observed	observe	VBD	_	8	rcmod
+13	the	the	DT	_	14	det
+14	heavens	heaven	NNS	_	12	dobj
+15	through	through	IN	_	12	prep
+16	a	a	DT	_	17	det
+17	telescope	telescope	NN	_	15	pobj
+18	400	400	CD	_	19	num
+19	years	year	NNS	_	20	npadvmod
+20	ago	ago	RB	_	12	advmod
+21	.	.	.	_	4	punct
+

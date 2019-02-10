@@ -1,0 +1,21 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	soul	soul	NN	_	4	nsubj
+4	left	leave	VBD	_	9	advcl
+5	the	the	DT	_	6	det
+6	body	body	NN	_	4	dobj
+7	,	,	,	_	9	punct
+8	it	it	PRP	_	9	nsubj
+9	was	be	VBD	_	0	ROOT
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	first	first	JJ	_	13	amod
+13	moment	moment	NN	_	10	pobj
+14	quite	quite	RB	_	15	advmod
+15	unclothed	unclothed	JJ	_	9	dep
+16	,	,	,	_	15	punct
+17	as	as	IN	_	15	prep
+18	at	at	IN	_	17	pcomp
+19	birth	birth	NN	_	18	pobj
+20	.	.	.	_	9	punct
+

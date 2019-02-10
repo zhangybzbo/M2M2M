@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	red	red	JJ	_	3	amod
+3	bead	bead	NN	_	10	nsubj
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	crank	crank	VBP	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	toy	toy	NN	_	7	pobj
+10	detaches	detach	VBZ	_	0	ROOT
+11	,	,	,	_	10	punct
+12	posing	pose	VBG	_	10	xcomp
+13	a	a	DT	_	15	det
+14	choking	choke	VBG	_	15	amod
+15	hazard	hazard	NN	_	12	dobj
+16	to	to	TO	_	15	prep
+17	young	young	JJ	_	18	amod
+18	children	child	NNS	_	16	pobj
+19	.	.	.	_	10	punct
+

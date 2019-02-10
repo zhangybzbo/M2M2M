@@ -1,0 +1,3 @@
+T1	Term 116 120	harm
+T2	Term 150 156	driver
+R1	Cause-Effect Arg1:T2 Arg2:T1

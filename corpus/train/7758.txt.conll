@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	juicer	juicer	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	utensil	utensil	NN	_	0	ROOT
+6	used	use	VBN	_	5	vmod
+7	for	for	IN	_	6	prep
+8	squeezing	squeeze	VBG	_	7	pcomp
+9	juice	juice	NN	_	8	dobj
+10	from	from	IN	_	8	prep
+11	fruit	fruit	NN	_	10	pobj
+12	.	.	.	_	5	punct
+

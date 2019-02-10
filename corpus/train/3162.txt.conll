@@ -1,0 +1,11 @@
+1	200	200	CD	_	3	num
+2	IT	it	PRP	_	3	dep
+3	jobs	job	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	going	go	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	schools	school	NNS	_	6	pobj
+8	in	in	IN	_	7	prep
+9	Victoria	Victoria	NNP	_	8	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,12 @@
+1	Shampoos	Shampoos	NNP	_	2	nn
+2	work	work	NN	_	0	ROOT
+3	by	by	IN	_	2	prep
+4	using	use	VBG	_	3	pcomp
+5	acid	acid	NN	_	4	dobj
+6	to	to	TO	_	7	aux
+7	remove	remove	VB	_	4	vmod
+8	hard	hard	JJ	_	10	amod
+9	water	water	NN	_	10	nn
+10	scale	scale	NN	_	7	dobj
+11	.	.	.	_	2	punct
+

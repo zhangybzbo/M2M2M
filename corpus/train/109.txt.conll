@@ -1,0 +1,18 @@
+1	One	one	CD	_	2	num
+2	tablet	tablet	NN	_	6	nsubjpass
+3	per	per	IN	_	2	prep
+4	quart	quart	NN	_	3	pobj
+5	was	be	VBD	_	6	auxpass
+6	dropped	drop	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	canteen	canteen	NN	_	7	pobj
+10	and	and	CC	_	6	cc
+11	made	make	VBD	_	6	conj
+12	the	the	DT	_	13	det
+13	water	water	NN	_	14	nsubj
+14	safe	safe	JJ	_	11	xcomp
+15	to	to	TO	_	16	aux
+16	drink	drink	VB	_	14	xcomp
+17	.	.	.	_	6	punct
+

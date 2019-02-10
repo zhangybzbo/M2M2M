@@ -1,0 +1,16 @@
+1	Watching	watch	VBG	_	0	ROOT
+2	that	that	IN	_	13	mark
+3	`	`	``	_	4	punct
+4	apology	apology	NN	_	13	nsubj
+5	'	'	''	_	4	punct
+6	from	from	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	wunch	wunch	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	senior	senior	JJ	_	11	amod
+11	bankers	banker	NNS	_	9	pobj
+12	was	be	VBD	_	13	cop
+13	vomit	vomit	NN	_	1	ccomp
+14	inducing	induce	VBG	_	13	dep
+15	.	.	.	_	1	punct
+

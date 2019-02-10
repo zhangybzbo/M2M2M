@@ -1,0 +1,12 @@
+1	Antacids	antacid	NNS	_	2	nsubj
+2	work	work	VBP	_	0	ROOT
+3	by	by	IN	_	2	prep
+4	using	use	VBG	_	3	pcomp
+5	a	a	DT	_	6	det
+6	base	base	NN	_	4	dobj
+7	to	to	TO	_	8	aux
+8	neutralize	neutralize	VB	_	6	vmod
+9	the	the	DT	_	10	det
+10	acid	acid	NN	_	8	dobj
+11	.	.	.	_	2	punct
+

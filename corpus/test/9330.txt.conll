@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	bureau	bureau	NN	_	3	nsubj
+3	established	establish	VBD	_	0	ROOT
+4	an	a	DT	_	6	det
+5	audit-and-risk	audit-and-risk	JJ	_	6	amod
+6	committee	committee	NN	_	3	dobj
+7	based	base	VBN	_	6	vmod
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	large	large	JJ	_	11	amod
+11	number	number	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	receiverships	receivership	NNS	_	12	pobj
+14	and	and	CC	_	13	cc
+15	an	a	DT	_	17	det
+16	external	external	JJ	_	17	amod
+17	auditor	auditor	NN	_	13	conj
+18	was	be	VBD	_	19	auxpass
+19	appointed	appoint	VBN	_	3	dep
+20	to	to	TO	_	21	aux
+21	review	review	VB	_	19	xcomp
+22	all	all	DT	_	25	det
+23	2009	2009	CD	_	25	num
+24	receivership	receivership	NN	_	25	nn
+25	files	file	NNS	_	21	dobj
+26	.	.	.	_	3	punct
+

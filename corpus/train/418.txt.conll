@@ -1,0 +1,24 @@
+1	Fall	fall	NN	_	2	nn
+2	planting	planting	NN	_	6	nsubjpass
+3	can	can	MD	_	6	aux
+4	not	not	RB	_	6	neg
+5	be	be	VB	_	6	auxpass
+6	completed	complete	VBN	_	0	ROOT
+7	before	before	IN	_	10	mark
+8	the	the	DT	_	9	det
+9	ground	ground	NN	_	10	nsubj
+10	freezes	freeze	VBZ	_	6	advcl
+11	,	,	,	_	6	punct
+12	so	so	IN	_	14	mark
+13	I	I	PRP	_	14	nsubj
+14	stored	store	VBD	_	6	advcl
+15	the	the	DT	_	16	det
+16	seeds	seed	NNS	_	14	dobj
+17	in	in	IN	_	14	prep
+18	a	a	DT	_	20	det
+19	stratification	stratification	NN	_	20	nn
+20	unit	unit	NN	_	17	pobj
+21	until	until	IN	_	14	prep
+22	spring	spring	NN	_	21	pobj
+23	.	.	.	_	6	punct
+

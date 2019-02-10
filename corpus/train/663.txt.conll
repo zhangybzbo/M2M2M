@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	aim	aim	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	paper	paper	NN	_	3	pobj
+6	is	be	VBZ	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	present	present	VB	_	6	xcomp
+9	some	some	DT	_	12	det
+10	recent	recent	JJ	_	12	amod
+11	experimental	experimental	JJ	_	12	amod
+12	results	result	NNS	_	8	dobj
+13	obtained	obtain	VBN	_	12	vmod
+14	in	in	IN	_	13	prep
+15	Rayleigh-Benard	rayleigh-benard	NN	_	16	nn
+16	instability	instability	NN	_	14	pobj
+17	.	.	.	_	6	punct
+

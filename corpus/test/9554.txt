@@ -1,0 +1,1 @@
+They opened the text file and dumped the text into the text box .

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	location	location	NN	_	12	nsubjpass
+3	of	of	IN	_	2	prep
+4	each	each	DT	_	5	det
+5	airport	airport	NN	_	3	pobj
+6	and	and	CC	_	2	cc
+7	presence	presence	NN	_	2	conj
+8	of	of	IN	_	7	prep
+9	control	control	NN	_	10	nn
+10	towers	tower	NNS	_	8	pobj
+11	is	be	VBZ	_	12	auxpass
+12	indicated	indicate	VBN	_	0	ROOT
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	circle	circle	NN	_	13	pobj
+16	.	.	.	_	12	punct
+

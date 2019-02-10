@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	placed	place	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	every	every	DT	_	7	det
+7	store	store	NN	_	5	pobj
+8	within	within	IN	_	4	prep
+9	the	the	DT	_	12	det
+10	past	past	JJ	_	12	amod
+11	few	few	JJ	_	12	amod
+12	days	day	NNS	_	8	pobj
+13	.	.	.	_	4	punct
+

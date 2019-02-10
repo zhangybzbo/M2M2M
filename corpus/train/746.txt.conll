@@ -1,0 +1,23 @@
+1	Also	also	RB	_	14	advmod
+2	-LRB-	-lrb-	-LRB-	_	3	punct
+3	on	on	IN	_	14	dep
+4	a	a	DT	_	6	det
+5	proportional	proportional	JJ	_	6	amod
+6	basis	basis	NN	_	3	pobj
+7	-RRB-	-rrb-	-RRB-	_	3	punct
+8	the	the	DT	_	9	det
+9	rainbow	rainbow	NN	_	14	nsubj
+10	caused	cause	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	spray	spray	NN	_	11	pobj
+14	appeared	appear	VBD	_	0	ROOT
+15	smaller	smaller	JJR	_	14	acomp
+16	than	than	IN	_	15	prep
+17	that	that	DT	_	16	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	other	other	JJ	_	21	amod
+21	rainbow	rainbow	NN	_	18	pobj
+22	.	.	.	_	14	punct
+

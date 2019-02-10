@@ -1,0 +1,13 @@
+1	A	a	DT	_	5	det
+2	lovely	lovely	JJ	_	5	amod
+3	bauble	bauble	NN	_	5	nn
+4	homepage	homepage	NN	_	5	nn
+5	sticker	sticker	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	arrived	arrive	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	your	you	PRP$	_	11	poss
+10	homepage	homepage	NN	_	11	nn
+11	inventory	inventory	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

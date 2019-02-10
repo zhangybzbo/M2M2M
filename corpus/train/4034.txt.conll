@@ -1,0 +1,12 @@
+1	Studies	study	NNS	_	6	nsubj
+2	described	describe	VBN	_	1	vmod
+3	in	in	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	article	article	NN	_	3	pobj
+6	investigated	investigate	VBD	_	0	ROOT
+7	two	two	CD	_	8	num
+8	questions	question	NNS	_	6	dobj
+9	about	about	IN	_	8	prep
+10	forgiveness	forgiveness	NN	_	9	pobj
+11	.	.	.	_	6	punct
+

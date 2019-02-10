@@ -1,0 +1,16 @@
+1	Ovulation	ovulation	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	exit	exit	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	mature	mature	JJ	_	8	amod
+8	ova	ovum	NN	_	5	pobj
+9	-LRB-	-lrb-	-LRB-	_	10	punct
+10	egg	egg	NN	_	8	appos
+11	-RRB-	-rrb-	-RRB-	_	10	punct
+12	from	from	IN	_	4	prep
+13	the	the	DT	_	14	det
+14	ovary	ovary	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

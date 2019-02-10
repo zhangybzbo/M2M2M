@@ -1,0 +1,22 @@
+1	Dalindyebo	Dalindyebo	NNP	_	2	nn
+2	R900-million	r900-million	NN	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	the	the	DT	_	5	det
+5	tribe	tribe	NN	_	2	conj
+6	a	a	DT	_	8	det
+7	further	further	JJ	_	8	amod
+8	R80-billion	r80-billion	NN	_	2	dep
+9	in	in	IN	_	2	prep
+10	compensation	compensation	NN	_	9	pobj
+11	for	for	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	humiliation	humiliation	NN	_	11	pobj
+14	caused	cause	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	monarch	monarch	NN	_	20	poss
+18	's	's	POS	_	17	possessive
+19	criminal	criminal	JJ	_	20	amod
+20	trial	trial	NN	_	15	pobj
+21	.	.	.	_	2	punct
+

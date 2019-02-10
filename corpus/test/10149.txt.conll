@@ -1,0 +1,22 @@
+1	A	a	DT	_	2	det
+2	company	company	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	able	able	JJ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	determine	determine	VB	_	4	xcomp
+7	a	a	DT	_	8	det
+8	range	range	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	restrictions	restriction	NNS	_	9	pobj
+11	for	for	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	selection	selection	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	perspective	perspective	NN	_	17	nn
+17	countries	country	NNS	_	14	pobj
+18	by	by	IN	_	6	prep
+19	using	use	VBG	_	18	pcomp
+20	benchmarking	benchmarking	NN	_	19	dobj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	In	in	IN	_	7	prep
+2	January	January	NNP	_	1	pobj
+3	2003	2003	CD	_	2	num
+4	a	a	DT	_	5	det
+5	symposium	symposium	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	held	hold	VBN	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	discuss	discuss	VB	_	7	xcomp
+10	the	the	DT	_	12	det
+11	current	current	JJ	_	12	amod
+12	state	state	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	progress	progress	NN	_	13	pobj
+15	and	and	CC	_	14	cc
+16	future	future	JJ	_	17	amod
+17	challenges	challenge	NNS	_	14	conj
+18	.	.	.	_	7	punct
+

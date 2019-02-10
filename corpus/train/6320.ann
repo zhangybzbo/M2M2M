@@ -1,0 +1,3 @@
+T1	Term 22 32	dishwasher
+T2	Term 39 45	filter
+R1	Component-Whole Arg1:T2 Arg2:T1

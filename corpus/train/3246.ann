@@ -1,0 +1,3 @@
+T1	Term 60 72	escargotoire
+T2	Term 95 101	snails
+R1	Member-Collection Arg1:T2 Arg2:T1

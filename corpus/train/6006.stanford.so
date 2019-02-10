@@ -1,0 +1,11 @@
+0	57	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="newly" pos="RB" advmod="t1"
+6	15	tok id="t1" base="generate" pos="VBN" amod="t2"
+16	28	tok id="t2" base="pneuroblast" pos="NNS" nsubj="t4"
+29	32	tok id="t3" base="be" pos="VBP" aux="t4"
+33	42	tok id="t4" base="migrate" pos="VBG" ROOT="ROOT"
+43	47	tok id="t5" base="into" pos="IN" prep="t4"
+48	51	tok id="t6" base="the" pos="DT" det="t7"
+52	55	tok id="t7" base="dam" pos="NN" pobj="t5"
+56	57	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

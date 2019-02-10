@@ -1,0 +1,9 @@
+0	47	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="anger" pos="NN" nsubj="t1"
+6	11	tok id="t1" base="lead" pos="VBZ" ROOT="ROOT"
+12	14	tok id="t2" base="to" pos="TO" prep="t1"
+15	26	tok id="t3" base="aggression" pos="NNS" pobj="t2"
+27	34	tok id="t4" base="towards" pos="IN" prep="t3"
+35	45	tok id="t5" base="colleague" pos="NNS" pobj="t4"
+46	47	tok id="t6" base="-PERIOD-" pos="." punct="t1"
+

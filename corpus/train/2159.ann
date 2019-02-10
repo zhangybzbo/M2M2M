@@ -1,0 +1,3 @@
+T1	Term 114 121	scandal
+T2	Term 138 149	resignation
+R1	Cause-Effect Arg1:T1 Arg2:T2

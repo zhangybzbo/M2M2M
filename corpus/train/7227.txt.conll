@@ -1,0 +1,14 @@
+1	Television	television	NN	_	3	nn
+2	cooking	cooking	NN	_	3	nn
+3	shows	show	NNS	_	8	nsubj
+4	and	and	CC	_	3	cc
+5	more	more	JJR	_	6	amod
+6	advertising	advertising	NN	_	3	conj
+7	have	have	VBP	_	8	aux
+8	put	put	VBN	_	0	ROOT
+9	wine	wine	NN	_	8	dobj
+10	in	in	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	limelight	limelight	NN	_	10	pobj
+13	.	.	.	_	8	punct
+

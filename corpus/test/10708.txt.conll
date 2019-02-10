@@ -1,0 +1,11 @@
+1	More	more	RBR	_	2	advmod
+2	weapons	weapon	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	aux
+4	being	be	VBG	_	5	auxpass
+5	delivered	deliver	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	9	det
+8	French	french	JJ	_	9	amod
+9	navy	navy	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

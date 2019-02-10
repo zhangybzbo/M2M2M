@@ -1,0 +1,17 @@
+1	Recently	recently	RB	_	12	advmod
+2	,	,	,	_	12	punct
+3	a	a	DT	_	5	det
+4	huge	huge	JJ	_	5	amod
+5	amount	amount	NN	_	12	nsubj
+6	of	of	IN	_	5	prep
+7	commercial	commercial	JJ	_	8	amod
+8	fish	fish	NN	_	6	pobj
+9	and	and	CC	_	8	cc
+10	shellfish	shellfish	NN	_	8	conj
+11	have	have	VBP	_	12	aux
+12	migrated	migrate	VBN	_	0	ROOT
+13	to	to	TO	_	12	prep
+14	cooler	cooler	JJR	_	15	amod
+15	water	water	NN	_	13	pobj
+16	.	.	.	_	12	punct
+

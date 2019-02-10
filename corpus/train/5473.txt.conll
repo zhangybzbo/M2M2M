@@ -1,0 +1,17 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	an	a	DT	_	5	det
+4	exceptional	exceptional	JJ	_	5	amod
+5	location	location	NN	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	see	see	VB	_	5	vmod
+8	Lake	Lake	NNP	_	9	nn
+9	Tenkiller	Tenkiller	NNP	_	7	dobj
+10	and	and	CC	_	9	cc
+11	private	private	JJ	_	13	amod
+12	plane	plane	NN	_	13	nn
+13	takeoffs	takeoff	NNS	_	9	conj
+14	from	from	IN	_	7	prep
+15	runway	runway	NN	_	14	pobj
+16	.	.	.	_	5	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	wind	wind	NN	_	3	nsubj
+3	pried	pry	VBD	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	its	its	PRP$	_	7	poss
+6	stiff	stiff	JJ	_	7	amod
+7	fingers	finger	NNS	_	4	pobj
+8	at	at	IN	_	3	prep
+9	the	the	DT	_	11	det
+10	very	very	RB	_	11	advmod
+11	foundations	foundation	NNS	_	8	pobj
+12	.	.	.	_	3	punct
+

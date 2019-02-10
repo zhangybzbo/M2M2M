@@ -1,0 +1,16 @@
+1	A	a	DT	_	3	det
+2	locksmith	locksmith	NN	_	3	nn
+3	copies	copy	NNS	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	repairs	repair	NNS	_	7	nn
+6	car	car	NN	_	7	nn
+7	keys	key	NNS	_	3	conj
+8	for	for	IN	_	3	prep
+9	modern	modern	JJ	_	10	amod
+10	vehicles	vehicle	NNS	_	8	pobj
+11	at	at	IN	_	3	prep
+12	a	a	DT	_	14	det
+13	lower	lower	JJR	_	14	amod
+14	cost	cost	NN	_	11	pobj
+15	.	.	.	_	3	punct
+

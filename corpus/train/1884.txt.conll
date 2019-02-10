@@ -1,0 +1,13 @@
+1	STE	STE	NNP	_	3	nn
+2	Oil	Oil	NNP	_	3	nn
+3	Company	Company	NNP	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	all	all	DT	_	4	dobj
+6	your	you	PRP$	_	9	poss
+7	white	white	JJ	_	9	amod
+8	mineral	mineral	NN	_	9	nn
+9	oil	oil	NN	_	10	nsubj
+10	needs	need	VBZ	_	5	rcmod
+11	covered	cover	VBN	_	10	acomp
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	Depression	depression	NN	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	among	among	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	top	top	JJ	_	7	amod
+6	10	10	CD	_	7	num
+7	causes	cause	NNS	_	3	pobj
+8	of	of	IN	_	7	prep
+9	suicide	suicide	NN	_	8	pobj
+10	both	both	CC	_	11	preconj
+11	among	among	IN	_	2	dep
+12	doctors	doctor	NNS	_	11	pobj
+13	as	as	RB	_	14	advmod
+14	well	well	RB	_	11	cc
+15	as	as	IN	_	14	mwe
+16	nursing	nursing	NN	_	17	nn
+17	professionals	professional	NNS	_	11	conj
+18	.	.	.	_	2	punct
+

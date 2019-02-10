@@ -1,0 +1,26 @@
+1	Using	use	VBG	_	13	vmod
+2	an	a	DT	_	4	det
+3	e-prescription	e-prescription	NN	_	4	nn
+4	module	module	NN	_	1	dobj
+5	in	in	IN	_	1	prep
+6	an	a	DT	_	9	det
+7	electronic	electronic	JJ	_	9	amod
+8	record	record	NN	_	9	nn
+9	system	system	NN	_	5	pobj
+10	,	,	,	_	13	punct
+11	the	the	DT	_	12	det
+12	prescriber	prescriber	NN	_	13	nsubj
+13	makes	make	VBZ	_	0	ROOT
+14	out	out	RP	_	13	prt
+15	a	a	DT	_	16	det
+16	prescription	prescription	NN	_	13	dobj
+17	and	and	CC	_	16	cc
+18	transfers	transfer	NNS	_	16	conj
+19	it	it	PRP	_	16	dobj
+20	to	to	TO	_	16	prep
+21	the	the	DT	_	24	det
+22	national	national	JJ	_	24	amod
+23	e-prescription	e-prescription	NN	_	24	nn
+24	mailbox	mailbox	NN	_	20	pobj
+25	.	.	.	_	13	punct
+

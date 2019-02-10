@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det
+2	marketing	marketing	NN	_	4	nn
+3	research	research	NN	_	4	nn
+4	firm	firm	NN	_	5	nsubj
+5	reeased	reease	VBD	_	0	ROOT
+6	a	a	DT	_	8	det
+7	recent	recent	JJ	_	8	amod
+8	report	report	NN	_	5	dobj
+9	saying	say	VBG	_	8	vmod
+10	the	the	DT	_	11	det
+11	number	number	NN	_	17	nsubj
+12	of	of	IN	_	11	prep
+13	Americans	Americans	NNPS	_	12	pobj
+14	watching	watch	VBG	_	11	vmod
+15	online	online	JJ	_	16	amod
+16	video	video	NN	_	14	dobj
+17	has	have	VBZ	_	9	ccomp
+18	more	more	JJR	_	17	dobj
+19	than	than	IN	_	20	mark
+20	tripled	triple	VBD	_	18	advcl
+21	in	in	IN	_	20	prep
+22	the	the	DT	_	25	det
+23	last	last	JJ	_	25	amod
+24	5	5	CD	_	25	num
+25	years	year	NNS	_	21	pobj
+26	.	.	.	_	5	punct
+

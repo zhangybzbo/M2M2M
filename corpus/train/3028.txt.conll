@@ -1,0 +1,14 @@
+1	Lavender	lavender	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	excellent	excellent	JJ	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	reatment	reatment	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	headaches	headache	NNS	_	7	pobj
+9	from	from	IN	_	8	prep
+10	fatigue	fatigue	NN	_	9	pobj
+11	and	and	CC	_	10	cc
+12	exhaustion	exhaustion	NN	_	10	conj
+13	.	.	.	_	3	punct
+

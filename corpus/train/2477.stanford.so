@@ -1,0 +1,11 @@
+0	40	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="a" pos="DT" det="t1"
+3	11	tok id="t1" base="accident" pos="NN" nsubjpass="t4"
+12	15	tok id="t2" base="have" pos="VBZ" aux="t4"
+16	20	tok id="t3" base="be" pos="VBN" auxpass="t4"
+21	27	tok id="t4" base="cause" pos="VBN" ROOT="ROOT"
+28	30	tok id="t5" base="by" pos="IN" prep="t4"
+31	34	tok id="t6" base="the" pos="DT" det="t7"
+35	38	tok id="t7" base="fog" pos="NN" pobj="t5"
+39	40	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

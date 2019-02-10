@@ -1,0 +1,7 @@
+1	A	a	DT	_	2	det
+2	nurse	nurse	NN	_	3	nsubj
+3	helps	help	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	caregiver	caregiver	NN	_	3	dobj
+6	.	.	.	_	3	punct
+

@@ -1,0 +1,21 @@
+1	Ahead	Ahead	NNP	_	7	nsubj
+2	of	of	IN	_	1	prep
+3	her	she	PRP$	_	6	poss
+4	the	the	DT	_	6	det
+5	young	young	JJ	_	6	amod
+6	woman	woman	NN	_	2	pobj
+7	stops	stop	VBZ	_	0	ROOT
+8	again	again	RB	_	7	advmod
+9	and	and	CC	_	7	cc
+10	is	be	VBZ	_	11	aux
+11	leaning	lean	VBG	_	7	conj
+12	over	over	IN	_	11	prep
+13	the	the	DT	_	16	det
+14	heavy	heavy	JJ	_	16	amod
+15	iron	iron	NN	_	16	nn
+16	railing	railing	NN	_	12	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	bridge	bridge	NN	_	17	pobj
+20	.	.	.	_	7	punct
+

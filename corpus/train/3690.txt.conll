@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	nsubj
+2	bending	bend	VBG	_	1	amod
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	fracture	fracture	NN	_	3	dobj
+6	on	on	IN	_	3	prep
+7	the	the	DT	_	9	det
+8	tension	tension	NN	_	9	nn
+9	side	side	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	test	test	NN	_	13	nn
+13	specimen	specimen	NN	_	10	pobj
+14	,	,	,	_	3	punct
+15	but	but	CC	_	3	cc
+16	the	the	DT	_	19	det
+17	UHMP	uhmp	NN	_	19	nn
+18	fiber	fiber	NN	_	19	nn
+19	ribbon	ribbon	NN	_	20	nsubj
+20	held	hold	VBD	_	3	conj
+21	the	the	DT	_	23	det
+22	fractured	fractured	JJ	_	23	amod
+23	parts	part	NNS	_	20	dobj
+24	together	together	RB	_	20	advmod
+25	.	.	.	_	3	punct
+

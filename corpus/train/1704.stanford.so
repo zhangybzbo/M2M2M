@@ -1,0 +1,9 @@
+0	33	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="infection" pos="NN" nsubj="t2"
+14	18	tok id="t2" base="come" pos="VBD" ROOT="ROOT"
+19	23	tok id="t3" base="from" pos="IN" prep="t2"
+24	25	tok id="t4" base="a" pos="DT" det="t5"
+26	31	tok id="t5" base="wound" pos="NN" pobj="t3"
+32	33	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

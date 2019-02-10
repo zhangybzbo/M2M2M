@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	hostname	hostname	NN	_	2	dobj
+5	to	to	TO	_	2	prep
+6	the	the	DT	_	8	det
+7	primary	primary	JJ	_	8	amod
+8	server	server	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

@@ -1,0 +1,10 @@
+1	Addiction	addiction	NN	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	poverty	poverty	NN	_	1	conj
+4	lead	lead	VBP	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	neglect	neglect	NN	_	5	pobj
+7	and	and	CC	_	6	cc
+8	abuse	abuse	NN	_	6	conj
+9	.	.	.	_	4	punct
+

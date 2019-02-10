@@ -1,0 +1,1 @@
+You have added complexity into the mix by not having the proxy server and media server together .

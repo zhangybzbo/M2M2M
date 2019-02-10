@@ -1,0 +1,16 @@
+1	Since	since	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	chops	chop	NNS	_	5	nsubj
+4	were	be	VBD	_	5	cop
+5	brown	brown	JJ	_	9	advcl
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	chef	chef	NN	_	9	nsubj
+9	drained	drain	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	drippings	dripping	NNS	_	9	dobj
+12	into	into	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	sauerkraut	sauerkraut	NN	_	12	pobj
+15	.	.	.	_	9	punct
+

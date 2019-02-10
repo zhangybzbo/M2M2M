@@ -1,0 +1,23 @@
+1	Brazilian	brazilian	JJ	_	3	amod
+2	campaign	campaign	NN	_	3	nn
+3	laws	law	NNS	_	4	nsubj
+4	include	include	VBP	_	0	ROOT
+5	several	several	JJ	_	6	amod
+6	restrictions	restriction	NNS	_	4	dobj
+7	on	on	IN	_	6	prep
+8	political	political	JJ	_	9	amod
+9	speech	speech	NN	_	7	pobj
+10	that	that	WDT	_	12	nsubj
+11	can	can	MD	_	12	aux
+12	seem	seem	VB	_	6	rcmod
+13	arcane	arcane	JJ	_	12	acomp
+14	to	to	TO	_	12	prep
+15	outsiders	outsider	NNS	_	14	pobj
+16	,	,	,	_	4	punct
+17	and	and	CC	_	4	cc
+18	even	even	RB	_	19	advmod
+19	to	to	TO	_	4	conj
+20	some	some	DT	_	21	det
+21	Brazilians	brazilian	NNS	_	19	pobj
+22	.	.	.	_	4	punct
+

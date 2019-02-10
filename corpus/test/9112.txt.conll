@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	parcels	parcel	NNS	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	8	det
+5	few	few	JJ	_	8	amod
+6	basic	basic	JJ	_	8	amod
+7	food	food	NN	_	8	nn
+8	items	item	NNS	_	3	dobj
+9	to	to	TO	_	10	aux
+10	supplement	supplement	VB	_	8	vmod
+11	the	the	DT	_	12	det
+12	prisoners	prisoner	NNS	_	15	poss
+13	'	'	POS	_	12	possessive
+14	meagre	meagre	JJ	_	15	amod
+15	rations	ration	NNS	_	10	dobj
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	teach	teach	VBP	_	0	ROOT
+3	conflict	conflict	NN	_	5	nn
+4	resolution	resolution	NN	_	5	nn
+5	skills	skill	NNS	_	2	dobj
+6	to	to	TO	_	2	prep
+7	young	young	JJ	_	8	amod
+8	people	people	NNS	_	6	pobj
+9	through	through	IN	_	2	prep
+10	workshops	workshop	NNS	_	9	pobj
+11	in	in	IN	_	10	prep
+12	schools	school	NNS	_	11	pobj
+13	and	and	CC	_	12	cc
+14	youth	youth	NN	_	15	nn
+15	centres	centre	NNS	_	12	conj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+1	People	people	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	travelled	travel	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	space	space	NN	_	4	pobj
+6	,	,	,	_	3	punct
+7	but	but	CC	_	3	cc
+8	not	not	RB	_	11	neg
+9	the	the	DT	_	11	det
+10	deep	deep	JJ	_	11	amod
+11	ocean	ocean	NN	_	3	conj
+12	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+1	His	he	PRP$	_	3	poss
+2	previous	previous	JJ	_	3	amod
+3	work	work	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	explored	explore	VBN	_	0	ROOT
+6	archetypal	archetypal	JJ	_	9	amod
+7	and	and	CC	_	6	cc
+8	symbolic	symbolic	JJ	_	6	conj
+9	themes	theme	NNS	_	5	dobj
+10	.	.	.	_	5	punct
+

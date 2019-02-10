@@ -1,0 +1,18 @@
+1	Overpopulation	overpopulation	NN	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	poverty	poverty	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	tension	tension	NN	_	4	dobj
+6	not	not	RB	_	7	neg
+7	only	only	RB	_	8	preconj
+8	within	within	IN	_	5	prep
+9	communities	community	NNS	_	8	pobj
+10	and	and	CC	_	9	cc
+11	countries	country	NNS	_	9	conj
+12	,	,	,	_	8	punct
+13	but	but	CC	_	8	cc
+14	throughout	throughout	IN	_	8	conj
+15	the	the	DT	_	16	det
+16	world	world	NN	_	14	pobj
+17	.	.	.	_	4	punct
+

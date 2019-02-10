@@ -1,0 +1,22 @@
+1	He	he	PRP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	a	a	DT	_	4	det
+4	corporal	corporal	NN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	army	army	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	Sierra	Sierra	NNP	_	10	nn
+10	Leone	Leone	NNP	_	8	pobj
+11	,	,	,	_	4	punct
+12	a	a	DT	_	14	det
+13	wedding	wedding	NN	_	14	nn
+14	photographer	photographer	NNP	_	4	appos
+15	and	and	CC	_	14	cc
+16	cameraman	cameraman	NN	_	14	conj
+17	for	for	IN	_	14	prep
+18	the	the	DT	_	20	det
+19	State	State	NNP	_	20	nn
+20	television	television	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

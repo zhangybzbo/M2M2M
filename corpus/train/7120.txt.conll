@@ -1,0 +1,25 @@
+1	They	they	PRP	_	3	nsubj
+2	're	be	VBP	_	3	aux
+3	bringing	bring	VBG	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	applications	application	NNS	_	4	pobj
+6	such	such	JJ	_	7	mwe
+7	as	as	IN	_	5	prep
+8	catalog	catalog	NN	_	9	nn
+9	management	management	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	order	order	NN	_	12	nn
+12	fulfillment	fulfillment	NN	_	9	conj
+13	from	from	IN	_	5	prep
+14	vendors	vendor	NNS	_	13	pobj
+15	,	,	,	_	3	punct
+16	then	then	RB	_	18	advmod
+17	laboriously	laboriously	RB	_	18	advmod
+18	developing	develop	VBG	_	3	ccomp
+19	and	and	CC	_	18	cc
+20	integrating	integrate	VBG	_	18	conj
+21	those	those	DT	_	22	det
+22	applications	application	NNS	_	20	dobj
+23	themselves	themselves	PRP	_	22	npadvmod
+24	.	.	.	_	3	punct
+

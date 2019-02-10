@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	base	base	NN	_	7	nsubj
+3	in	in	IN	_	6	prep
+4	which	which	WDT	_	3	pobj
+5	it	it	PRP	_	6	nsubj
+6	sits	sit	VBZ	_	2	rcmod
+7	hides	hide	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	damage	damage	NN	_	7	dobj
+10	which	which	WDT	_	11	nsubj
+11	occurred	occur	VBD	_	9	rcmod
+12	when	when	WRB	_	16	advmod
+13	the	the	DT	_	14	det
+14	cross	cross	NN	_	16	nsubjpass
+15	was	be	VBD	_	16	auxpass
+16	removed	remove	VBN	_	11	advcl
+17	from	from	IN	_	16	prep
+18	its	its	PRP$	_	20	poss
+19	initial	initial	JJ	_	20	amod
+20	site	site	NN	_	17	pobj
+21	on	on	IN	_	20	prep
+22	the	the	DT	_	25	det
+23	Long	long	JJ	_	25	amod
+24	Tan	Tan	NNP	_	25	nn
+25	battlefield	battlefield	NN	_	21	pobj
+26	.	.	.	_	7	punct
+

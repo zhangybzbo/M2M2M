@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	test	test	NN	_	3	nn
+3	payment	payment	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	my	my	PRP$	_	9	poss
+8	bank	bank	NN	_	9	nn
+9	account	account	NN	_	6	pobj
+10	on	on	IN	_	5	prep
+11	October	October	NNP	_	12	nn
+12	13th	13th	NNP	_	10	pobj
+13	.	.	.	_	5	punct
+

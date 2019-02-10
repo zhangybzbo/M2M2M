@@ -1,0 +1,22 @@
+1	He	he	PRP	_	2	nsubj
+2	unwinded	unwind	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	pocketwatch	pocketwatch	NN	_	2	dobj
+5	by	by	IN	_	2	prep
+6	letting	let	VBG	_	5	pcomp
+7	down	down	RP	_	6	prt
+8	the	the	DT	_	9	det
+9	mainspring	mainspring	NN	_	6	dobj
+10	,	,	,	_	9	punct
+11	a	a	DT	_	12	det
+12	ribbon	ribbon	NN	_	9	appos
+13	of	of	IN	_	12	prep
+14	tightly	tightly	RB	_	15	advmod
+15	rolled	roll	VBN	_	16	amod
+16	steel	steel	NN	_	13	pobj
+17	inside	inside	IN	_	12	prep
+18	the	the	DT	_	20	det
+19	mainspring	mainspr	VBG	_	20	amod
+20	barrel	barrel	NN	_	17	pobj
+21	.	.	.	_	2	punct
+

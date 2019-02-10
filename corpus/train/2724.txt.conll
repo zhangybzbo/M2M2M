@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	det
+2	convention	convention	NN	_	3	nsubj
+3	covered	cover	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	kidnapping	kidnapping	NN	_	3	dobj
+6	,	,	,	_	5	punct
+7	murder	murder	NN	_	5	conj
+8	,	,	,	_	5	punct
+9	and	and	CC	_	5	cc
+10	assault	assault	NN	_	5	conj
+11	of	of	IN	_	10	prep
+12	persons	person	NNS	_	11	pobj
+13	specially	specially	RB	_	14	advmod
+14	protected	protect	VBN	_	12	vmod
+15	by	by	IN	_	14	prep
+16	international	international	JJ	_	17	amod
+17	law	law	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

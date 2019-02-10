@@ -1,0 +1,21 @@
+1	Santiago	Santiago	NNP	_	3	nn
+2	Meza	Meza	NNP	_	3	nn
+3	Lopez	Lopez	NNP	_	11	nsubj
+4	,	,	,	_	3	punct
+5	known	know	VBN	_	3	vmod
+6	as	as	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Stew	Stew	NNP	_	9	nn
+9	Maker	Maker	NNP	_	6	pobj
+10	,	,	,	_	3	punct
+11	stuffed	stuff	VBD	_	0	ROOT
+12	bodies	body	NNS	_	11	dobj
+13	into	into	IN	_	11	prep
+14	barrels	barrel	NNS	_	13	pobj
+15	of	of	IN	_	14	prep
+16	lye	lye	NN	_	15	pobj
+17	for	for	IN	_	11	prep
+18	drug	drug	NN	_	19	nn
+19	cartels	cartel	NNS	_	17	pobj
+20	.	.	.	_	11	punct
+

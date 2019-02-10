@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	Seattle	Seattle	NNP	_	3	nn
+3	women	woman	NNS	_	5	poss
+4	's	's	POS	_	3	possessive
+5	group	group	NN	_	6	nsubj
+6	distributes	distribute	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	number	number	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	small	small	JJ	_	11	amod
+11	scholarships	scholarship	NNS	_	9	pobj
+12	for	for	IN	_	6	prep
+13	single	single	JJ	_	14	amod
+14	mothers	mother	NNS	_	12	pobj
+15	who	who	WP	_	16	nsubj
+16	want	want	VBP	_	14	rcmod
+17	to	to	TO	_	18	aux
+18	go	go	VB	_	16	xcomp
+19	to	to	TO	_	18	prep
+20	college	college	NN	_	19	pobj
+21	.	.	.	_	6	punct
+

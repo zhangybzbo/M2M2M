@@ -1,0 +1,3 @@
+T1	Term 64 71	heating
+T2	Term 77 84	compost
+R1	Other Arg1:T1 Arg2:T2

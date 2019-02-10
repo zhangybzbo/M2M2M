@@ -1,0 +1,26 @@
+1	To	to	TO	_	16	prep
+2	date	date	NN	_	1	pobj
+3	,	,	,	_	16	punct
+4	all	all	DT	_	5	det
+5	outbreaks	outbreak	NNS	_	16	nsubjpass
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	highly	highly	RB	_	9	advmod
+9	pathogenic	pathogenic	JJ	_	10	amod
+10	form	form	NN	_	6	pobj
+11	of	of	IN	_	10	prep
+12	avian	avian	JJ	_	13	amod
+13	influenza	influenza	NN	_	11	pobj
+14	have	have	VBP	_	16	aux
+15	been	be	VBN	_	16	auxpass
+16	caused	cause	VBN	_	0	ROOT
+17	by	by	IN	_	16	prep
+18	viruses	virus	NNS	_	17	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	24	det
+21	H5	h5	NN	_	24	nn
+22	and	and	CC	_	21	cc
+23	H7	h7	NN	_	21	conj
+24	subtypes	subtype	NNS	_	19	pobj
+25	.	.	.	_	16	punct
+

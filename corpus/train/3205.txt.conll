@@ -1,0 +1,12 @@
+1	Intruders	intruder	NNS	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	going	go	VBG	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	organisation	organisation	NN	_	4	pobj
+7	looking	look	VBG	_	6	vmod
+8	for	for	IN	_	7	prep
+9	key	key	JJ	_	10	amod
+10	documents	document	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

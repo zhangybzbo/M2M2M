@@ -1,0 +1,3 @@
+T1	Term 3 11	employee
+T2	Term 30 37	comment
+R1	Product-Producer Arg1:T2 Arg2:T1

@@ -1,0 +1,18 @@
+1	Lasers	laser	NNS	_	2	nsubj
+2	work	work	VBP	_	0	ROOT
+3	by	by	IN	_	2	prep
+4	using	use	VBG	_	3	pcomp
+5	various	various	JJ	_	9	amod
+6	soft	soft	JJ	_	9	amod
+7	pulsing	pulse	VBG	_	9	amod
+8	light	light	JJ	_	9	amod
+9	wavelengths	wavelength	NNS	_	4	dobj
+10	and	and	CC	_	9	cc
+11	intensities	intensity	NNS	_	9	conj
+12	to	to	TO	_	13	aux
+13	help	help	VB	_	4	vmod
+14	reshape	reshape	VB	_	13	ccomp
+15	scar	scar	NN	_	16	nn
+16	tissue	tissue	NN	_	14	dobj
+17	.	.	.	_	2	punct
+

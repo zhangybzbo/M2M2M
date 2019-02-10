@@ -1,0 +1,10 @@
+1	An	a	DT	_	3	det
+2	unnamed	unnamed	JJ	_	3	amod
+3	lifeguard	lifeguard	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	pushed	push	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	pool	pool	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

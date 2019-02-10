@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t4"
+5	8	tok id="t1" base="oil" pos="NN" nn="t4"
+9	16	tok id="t2" base="company" pos="NN" nn="t4"
+17	24	tok id="t3" base="import" pos="NNS" nn="t4"
+25	28	tok id="t4" base="oil" pos="NN" ROOT="ROOT"
+29	31	tok id="t5" base="to" pos="TO" prep="t4"
+32	36	tok id="t6" base="some" pos="DT" det="t7"
+37	46	tok id="t7" base="country" pos="NNS" pobj="t5"
+47	56	tok id="t8" base="illegally" pos="RB" advmod="t4"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

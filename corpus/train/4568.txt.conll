@@ -1,0 +1,14 @@
+1	Two	two	CD	_	2	num
+2	hours	hour	NNS	_	3	npadvmod
+3	later	later	RB	_	6	advmod
+4	,	,	,	_	6	punct
+5	I	I	PRP	_	6	nsubj
+6	had	have	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	bottle	bottle	NN	_	6	dobj
+9	full	full	JJ	_	8	amod
+10	of	of	IN	_	9	prep
+11	warm	warm	JJ	_	12	amod
+12	water	water	NN	_	10	pobj
+13	.	.	.	_	6	punct
+

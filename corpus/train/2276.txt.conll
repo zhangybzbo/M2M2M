@@ -1,0 +1,9 @@
+1	Ferrets	ferret	NNS	_	5	nsubj
+2	in	in	IN	_	1	prep
+3	a	a	DT	_	4	det
+4	sack	sack	NN	_	2	pobj
+5	show	show	VBP	_	0	ROOT
+6	more	more	JJR	_	7	amod
+7	politesse	politesse	NN	_	5	dobj
+8	.	.	.	_	5	punct
+

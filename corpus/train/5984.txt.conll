@@ -1,0 +1,13 @@
+1	This	this	DT	_	3	det
+2	little	little	JJ	_	3	amod
+3	cutie	cutie	NN	_	7	nsubj
+4	was	be	VBD	_	7	cop
+5	once	once	RB	_	7	advmod
+6	a	a	DT	_	7	det
+7	jumper	jumper	NN	_	0	ROOT
+8	knitted	knit	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	my	my	PRP$	_	11	poss
+11	grandmother	grandmother	NN	_	9	pobj
+12	.	.	.	_	7	punct
+

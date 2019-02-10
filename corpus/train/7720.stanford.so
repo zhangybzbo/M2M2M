@@ -1,0 +1,13 @@
+0	57	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t2"
+2	4	tok id="t1" base="be" pos="VBP" aux="t2"
+5	15	tok id="t2" base="install" pos="VBG" ROOT="ROOT"
+16	22	tok id="t3" base="light" pos="NNS" dobj="t2"
+23	28	tok id="t4" base="under" pos="IN" prep="t2"
+29	32	tok id="t5" base="the" pos="DT" det="t6"
+33	41	tok id="t6" base="cabinet" pos="NNS" pobj="t4"
+42	44	tok id="t7" base="in" pos="IN" prep="t6"
+45	47	tok id="t8" base="my" pos="PRP$" poss="t9"
+48	55	tok id="t9" base="kitchen" pos="NN" pobj="t7"
+56	57	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

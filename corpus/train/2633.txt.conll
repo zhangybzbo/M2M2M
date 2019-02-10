@@ -1,0 +1,25 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	federation	federation	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	different	different	JJ	_	7	amod
+7	companies	company	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	believers	believer	NNS	_	8	pobj
+10	that	that	WDT	_	12	nsubj
+11	has	have	VBZ	_	12	aux
+12	brought	bring	VBN	_	4	rcmod
+13	such	such	JJ	_	14	amod
+14	evils	evil	NNS	_	12	dobj
+15	as	as	IN	_	12	prep
+16	dabbling	dabble	VBG	_	15	pcomp
+17	in	in	IN	_	16	prep
+18	politics	politics	NNS	_	17	pobj
+19	into	into	IN	_	16	prep
+20	the	the	DT	_	21	det
+21	Church	Church	NNP	_	19	pobj
+22	of	of	IN	_	21	prep
+23	God	God	NNP	_	22	pobj
+24	.	.	.	_	4	punct
+

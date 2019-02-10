@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	these	these	DT	_	4	det
+4	techniques	technique	NNS	_	2	dobj
+5	to	to	TO	_	6	aux
+6	stretch	stretch	VB	_	2	vmod
+7	my	my	PRP$	_	9	poss
+8	ear	ear	NN	_	9	nn
+9	lobes	lobe	NNS	_	6	dobj
+10	to	to	TO	_	11	aux
+11	accept	accept	VB	_	6	vmod
+12	6	6	CD	_	14	num
+13	gauge	gauge	NN	_	14	nn
+14	earrings	earring	NNS	_	11	dobj
+15	.	.	.	_	2	punct
+

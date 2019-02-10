@@ -1,0 +1,17 @@
+1	Even	even	RB	_	2	advmod
+2	in	in	IN	_	9	prep
+3	its	its	PRP$	_	5	poss
+4	harshest	harshest	JJS	_	5	amod
+5	moments	moment	NNS	_	2	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	guitars	guitar	NNS	_	9	nsubj
+9	sound	sound	VB	_	0	ROOT
+10	like	like	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	chorus	chorus	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	fuzzed-out	fuzzed-out	JJ	_	15	amod
+15	angels	angel	NNS	_	13	pobj
+16	.	.	.	_	9	punct
+

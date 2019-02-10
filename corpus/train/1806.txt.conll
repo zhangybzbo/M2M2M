@@ -1,0 +1,23 @@
+1	Trade	Trade	NNP	_	3	nn
+2	Union	Union	NNP	_	3	nn
+3	Side	Side	NNP	_	4	nsubj
+4	reiterated	reiterate	VBD	_	0	ROOT
+5	its	its	PRP$	_	6	poss
+6	concerns	concern	NNS	_	4	dobj
+7	that	that	IN	_	13	mark
+8	the	the	DT	_	10	det
+9	public	public	JJ	_	10	amod
+10	sector	sector	NN	_	13	nsubj
+11	was	be	VBD	_	13	aux
+12	effectively	effectively	RB	_	13	advmod
+13	subsidising	subsidise	VBG	_	6	ccomp
+14	these	these	DT	_	15	det
+15	events	event	NNS	_	13	dobj
+16	and	and	CC	_	13	cc
+17	requested	request	VBD	_	13	conj
+18	that	that	IN	_	21	mark
+19	this	this	DT	_	20	det
+20	practice	practice	NN	_	21	nsubj
+21	cease	cease	VB	_	17	ccomp
+22	.	.	.	_	4	punct
+

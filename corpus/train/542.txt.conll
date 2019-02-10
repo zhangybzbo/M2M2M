@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	painting	painting	NN	_	3	nsubj
+3	represents	represent	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	last	last	JJ	_	6	amod
+6	meal	meal	NN	_	3	dobj
+7	shared	share	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	Jesus	Jesus	NNP	_	8	pobj
+10	with	with	IN	_	7	prep
+11	his	he	PRP$	_	12	poss
+12	disciples	disciple	NNS	_	10	pobj
+13	before	before	IN	_	7	prep
+14	his	he	PRP$	_	15	poss
+15	capture	capture	NN	_	13	pobj
+16	and	and	CC	_	15	cc
+17	death	death	NN	_	15	conj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj
+2	kept	keep	VBD	_	0	ROOT
+3	it	it	PRP	_	2	dobj
+4	in	in	IN	_	2	prep
+5	a	a	DT	_	6	det
+6	pocket	pocket	NN	_	4	pobj
+7	in	in	IN	_	2	prep
+8	my	my	PRP$	_	9	poss
+9	trousers	trousers	NNS	_	7	pobj
+10	and	and	CC	_	2	cc
+11	,	,	,	_	2	punct
+12	day	day	NN	_	2	conj
+13	after	after	IN	_	12	prep
+14	day	day	NN	_	13	pobj
+15	,	,	,	_	2	punct
+16	used	use	VBD	_	2	conj
+17	it	it	PRP	_	16	dobj
+18	more	more	RBR	_	19	advmod
+19	frequently	frequently	RB	_	16	advmod
+20	,	,	,	_	2	punct
+21	and	and	CC	_	2	cc
+22	with	with	IN	_	2	conj
+23	more	more	JJR	_	24	amod
+24	pleasure	pleasure	NN	_	22	pobj
+25	.	.	.	_	2	punct
+

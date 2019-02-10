@@ -1,0 +1,14 @@
+1	Most	most	JJS	_	4	nsubjpass
+2	ticking	tick	VBG	_	1	amod
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	synthetic	synthetic	JJ	_	7	amod
+7	fibers	fiber	NNS	_	5	pobj
+8	like	like	IN	_	7	prep
+9	polyester	polyester	NN	_	8	pobj
+10	,	,	,	_	9	punct
+11	or	or	CC	_	9	cc
+12	acrylic	acrylic	JJ	_	9	conj
+13	.	.	.	_	4	punct
+

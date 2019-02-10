@@ -1,0 +1,25 @@
+1	It	it	PRP	_	6	nsubj
+2	was	be	VBD	_	6	cop
+3	the	the	DT	_	6	det
+4	only	only	JJ	_	6	amod
+5	living	living	NN	_	6	nn
+6	thing	thing	NN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	sight	sight	NN	_	7	pobj
+9	except	except	IN	_	6	prep
+10	for	for	IN	_	9	pcomp
+11	a	a	DT	_	13	det
+12	stationary	stationary	JJ	_	13	amod
+13	cloud	cloud	NN	_	10	pobj
+14	of	of	IN	_	13	prep
+15	hysterical	hysterical	JJ	_	16	amod
+16	gnats	gnat	NNS	_	14	pobj
+17	suspended	suspend	VBN	_	16	vmod
+18	in	in	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	heat	heat	NN	_	18	pobj
+21	above	above	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	road	road	NN	_	21	pobj
+24	.	.	.	_	6	punct
+

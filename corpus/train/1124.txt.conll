@@ -1,0 +1,15 @@
+1	Moby	Moby	NNP	_	2	nn
+2	Doll	Doll	NNP	_	7	nsubj
+3	was	be	VBD	_	7	cop
+4	the	the	DT	_	7	det
+5	first	first	JJ	_	7	amod
+6	captive	captive	JJ	_	7	amod
+7	orca	orca	NN	_	8	nsubj
+8	displayed	display	VBD	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	public	public	JJ	_	13	amod
+12	aquarium	aquarium	NN	_	13	nn
+13	exhibit	exhibit	NN	_	9	pobj
+14	.	.	.	_	8	punct
+

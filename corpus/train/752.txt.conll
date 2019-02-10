@@ -1,0 +1,25 @@
+1	Later	later	RB	_	14	advmod
+2	in	in	IN	_	14	prep
+3	the	the	DT	_	4	det
+4	year	year	NN	_	2	pobj
+5	,	,	,	_	14	punct
+6	from	from	IN	_	14	prep
+7	November	November	NNP	_	6	pobj
+8	to	to	TO	_	6	prep
+9	April	April	NNP	_	8	pobj
+10	,	,	,	_	14	punct
+11	the	the	DT	_	13	det
+12	black	black	JJ	_	13	amod
+13	flood	flood	NN	_	14	nsubj
+14	arrives	arrive	VBZ	_	0	ROOT
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	upper	upper	JJ	_	18	amod
+18	reaches	reach	NNS	_	15	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	river	river	NN	_	19	pobj
+22	beyond	beyond	IN	_	18	prep
+23	Timbuktu	Timbuktu	NNP	_	22	pobj
+24	.	.	.	_	14	punct
+

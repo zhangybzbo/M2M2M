@@ -1,0 +1,18 @@
+1	Outcomes	outcome	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	integrated	integrate	VBN	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	the	the	DT	_	9	det
+6	entire	entire	JJ	_	9	amod
+7	developmental	developmental	JJ	_	9	amod
+8	disabilities	disability	NNS	_	9	nn
+9	population	population	NN	_	4	pobj
+10	,	,	,	_	9	punct
+11	including	include	VBG	_	9	prep
+12	individuals	individual	NNS	_	11	pobj
+13	who	who	WP	_	14	nsubj
+14	have	have	VBP	_	12	rcmod
+15	multiple	multiple	JJ	_	16	amod
+16	diagnoses	diagnosis	NNS	_	14	dobj
+17	.	.	.	_	3	punct
+

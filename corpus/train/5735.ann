@@ -1,0 +1,3 @@
+T1	Term 26 31	envoy
+T2	Term 52 62	government
+R1	Entity-Destination Arg1:T1 Arg2:T2

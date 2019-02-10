@@ -1,0 +1,14 @@
+1	Many	many	JJ	_	2	amod
+2	builders	builder	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	approached	approach	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	colony	colony	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	building	building	NN	_	9	nn
+9	committee	committee	NN	_	4	dobj
+10	for	for	IN	_	4	prep
+11	redevelopment	redevelopment	NN	_	12	nn
+12	projects	project	NNS	_	10	pobj
+13	.	.	.	_	4	punct
+

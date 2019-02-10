@@ -1,0 +1,23 @@
+1	Washington	Washington	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	forces	force	NNS	_	4	nsubj
+4	defeated	defeat	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	British	british	JJ	_	4	dobj
+7	in	in	IN	_	4	prep
+8	1781	1781	CD	_	7	pobj
+9	with	with	IN	_	4	prep
+10	the	the	DT	_	11	det
+11	help	help	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	French	french	JJ	_	14	amod
+14	troops	troops	NNS	_	12	pobj
+15	and	and	CC	_	14	cc
+16	German	german	JJ	_	21	amod
+17	military	military	JJ	_	21	amod
+18	officer	officer	NN	_	21	nn
+19	Baron	Baron	NNP	_	21	nn
+20	Von	Von	NNP	_	21	nn
+21	Steuben	Steuben	NNP	_	14	conj
+22	.	.	.	_	4	punct
+

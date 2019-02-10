@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	roof	roof	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	building	building	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	equipped	equip	VBN	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	two	two	CD	_	12	num
+10	helicopter	helicopter	NN	_	12	nn
+11	landing	landing	NN	_	12	nn
+12	pads	pad	NNS	_	8	pobj
+13	that	that	WDT	_	14	nsubj
+14	became	become	VBD	_	12	rcmod
+15	vital	vital	JJ	_	14	acomp
+16	during	during	IN	_	14	prep
+17	the	the	DT	_	18	det
+18	fire	fire	NN	_	16	pobj
+19	.	.	.	_	7	punct
+

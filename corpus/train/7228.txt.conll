@@ -1,0 +1,24 @@
+1	Currently	currently	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	villagers	villager	NNS	_	5	nsubj
+5	operate	operate	VBP	_	0	ROOT
+6	a	a	DT	_	9	det
+7	ram	ram	NN	_	9	nn
+8	oil	oil	NN	_	9	nn
+9	press	press	NN	_	5	dobj
+10	that	that	WDT	_	12	nsubj
+11	is	be	VBZ	_	12	cop
+12	counter-intuitive	counter-intuitive	JJ	_	9	rcmod
+13	to	to	TO	_	14	aux
+14	use	use	VB	_	12	xcomp
+15	and	and	CC	_	12	cc
+16	leads	lead	VBZ	_	12	conj
+17	to	to	TO	_	16	prep
+18	sub-optimal	sub-optimal	JJ	_	20	amod
+19	oil	oil	NN	_	20	nn
+20	extraction	extraction	NN	_	17	pobj
+21	from	from	IN	_	20	prep
+22	groundnuts	groundnut	NNS	_	21	pobj
+23	.	.	.	_	5	punct
+

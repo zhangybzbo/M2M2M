@@ -1,0 +1,17 @@
+1	Hitler	Hitler	NNP	_	2	nsubj
+2	expressed	express	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	disappointment	disappointment	NN	_	2	dobj
+5	over	over	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Munich	Munich	NNP	_	8	nn
+8	Agreement	Agreement	NNP	_	5	pobj
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	speech	speech	NN	_	9	pobj
+12	on	on	IN	_	8	prep
+13	9	9	CD	_	14	num
+14	October	October	NNP	_	12	pobj
+15	1938	1938	CD	_	14	num
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	bottle	bottle	NN	_	3	nn
+3	carrier	carrier	NN	_	4	nsubj
+4	converts	convert	VBZ	_	0	ROOT
+5	your	you	PRP$	_	6	poss
+6	bottle	bottle	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	a	a	DT	_	9	det
+9	canteen	canteen	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

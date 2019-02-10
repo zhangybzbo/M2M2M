@@ -1,0 +1,24 @@
+1	Lake	Lake	NNP	_	3	nn
+2	St.	St.	NNP	_	3	nn
+3	Lucia	Lucia	NNP	_	10	nsubj
+4	,	,	,	_	3	punct
+5	Africa	Africa	NNP	_	8	poss
+6	's	's	POS	_	5	possessive
+7	largest	largest	JJS	_	8	amod
+8	estuary	estuary	NN	_	3	appos
+9	,	,	,	_	3	punct
+10	is	be	VBZ	_	0	ROOT
+11	home	home	NN	_	10	nsubj
+12	to	to	TO	_	11	prep
+13	the	the	DT	_	15	det
+14	greatest	greatest	JJS	_	15	amod
+15	congregation	congregation	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	hippos	hippo	NNS	_	16	pobj
+18	and	and	CC	_	17	cc
+19	crocodiles	crocodile	NNS	_	17	conj
+20	in	in	IN	_	15	prep
+21	South	South	NNP	_	22	nn
+22	Africa	Africa	NNP	_	20	pobj
+23	.	.	.	_	10	punct
+

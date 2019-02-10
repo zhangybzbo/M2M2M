@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj
+2	saw	see	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	piece	piece	NN	_	2	dobj
+5	in	in	IN	_	4	prep
+6	The	the	DT	_	7	det
+7	Post	post	NN	_	5	pobj
+8	this	this	DT	_	9	det
+9	morning	morning	NN	_	2	tmod
+10	,	,	,	_	2	punct
+11	and	and	CC	_	2	cc
+12	it	it	PRP	_	14	nsubjpass
+13	is	be	VBZ	_	14	auxpass
+14	predicated	predicate	VBN	_	2	conj
+15	on	on	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	bunch	bunch	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	erroneous	erroneous	JJ	_	20	amod
+20	conclusions	conclusion	NNS	_	18	pobj
+21	.	.	.	_	2	punct
+

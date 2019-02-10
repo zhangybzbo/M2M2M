@@ -1,0 +1,24 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	story	story	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	teenager	teenager	NN	_	5	pobj
+8	who	who	WP	_	9	nsubj
+9	finds	find	VBZ	_	7	rcmod
+10	himself	himself	PRP	_	11	nsubj
+11	floating	float	VBG	_	9	xcomp
+12	on	on	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	raft	raft	NN	_	12	pobj
+15	down	down	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	Mississippi	Mississippi	NNP	_	18	nn
+18	River	River	NNP	_	15	pobj
+19	with	with	IN	_	11	prep
+20	an	a	DT	_	22	det
+21	escaping	escape	VBG	_	22	amod
+22	slave	slave	NN	_	19	pobj
+23	.	.	.	_	4	punct
+

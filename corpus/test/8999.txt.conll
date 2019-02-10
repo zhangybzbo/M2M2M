@@ -1,0 +1,23 @@
+1	One	one	CD	_	17	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	8	det
+4	few	few	JJ	_	8	amod
+5	clear	clear	JJ	_	8	amod
+6	and	and	CC	_	5	cc
+7	non-controversial	non-controversial	JJ	_	5	conj
+8	norms	norm	NNS	_	2	pobj
+9	governing	govern	VBG	_	8	vmod
+10	issues	issue	NNS	_	9	dobj
+11	of	of	IN	_	10	prep
+12	state	state	NN	_	13	nn
+13	succession	succession	NN	_	11	pobj
+14	are	be	VBP	_	17	cop
+15	the	the	DT	_	17	det
+16	customary	customary	JJ	_	17	amod
+17	rules	rule	NNS	_	0	ROOT
+18	enshrined	enshrine	VBN	_	17	vmod
+19	in	in	IN	_	18	prep
+20	article	article	NN	_	19	pobj
+21	11	11	CD	_	20	num
+22	.	.	.	_	17	punct
+

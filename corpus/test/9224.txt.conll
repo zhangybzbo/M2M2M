@@ -1,0 +1,22 @@
+1	Bacterial	bacterial	JJ	_	2	amod
+2	infections	infection	NNS	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	ear	ear	NN	_	6	nn
+6	result	result	NN	_	3	pobj
+7	in	in	IN	_	6	prep
+8	malodor	malodor	NN	_	7	pobj
+9	,	,	,	_	2	punct
+10	excessive	excessive	JJ	_	11	amod
+11	exudation	exudation	NN	_	2	conj
+12	-LRB-	-lrb-	-LRB-	_	13	punct
+13	drainage	drainage	NN	_	11	appos
+14	of	of	IN	_	13	prep
+15	pus-like	pus-like	JJ	_	16	amod
+16	material	material	NN	_	14	pobj
+17	-RRB-	-rrb-	-RRB-	_	13	punct
+18	,	,	,	_	2	punct
+19	and	and	CC	_	2	cc
+20	ulceration	ulceration	NN	_	2	conj
+21	.	.	.	_	2	punct
+

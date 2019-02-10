@@ -1,0 +1,24 @@
+1	Prospectors	prospector	NNS	_	0	ROOT
+2	seeking	seek	VBG	_	1	vmod
+3	their	they	PRP$	_	4	poss
+4	fortune	fortune	NN	_	2	dobj
+5	in	in	IN	_	10	mark
+6	the	the	DT	_	9	det
+7	Colorado	Colorado	NNP	_	9	nn
+8	gold	gold	NN	_	9	nn
+9	fields	field	NNS	_	10	nsubj
+10	traveled	travel	VBD	_	2	advcl
+11	to	to	TO	_	10	prep
+12	Denver	Denver	NNP	_	11	pobj
+13	on	on	IN	_	10	prep
+14	the	the	DT	_	17	det
+15	Smoky	Smoky	NNP	_	17	nn
+16	Hill	Hill	NNP	_	17	nn
+17	trail	trail	NN	_	13	pobj
+18	from	from	IN	_	17	prep
+19	Kansas	Kansas	NNP	_	18	pobj
+20	and	and	CC	_	17	cc
+21	points	point	NNS	_	22	npadvmod
+22	east	east	JJ	_	17	conj
+23	.	.	.	_	1	punct
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	controller	controller	NN	_	3	nsubj
+3	regulates	regulate	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	superheat	superheat	NN	_	3	dobj
+6	using	use	VBG	_	3	xcomp
+7	a	a	DT	_	10	det
+8	double	double	JJ	_	10	amod
+9	loop	loop	NN	_	10	nn
+10	system	system	NN	_	6	dobj
+11	.	.	.	_	3	punct
+

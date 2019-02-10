@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	site	site	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	encircled	encircle	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	high	high	JJ	_	8	amod
+8	fence	fence	NN	_	5	pobj
+9	and	and	CC	_	4	cc
+10	one	one	CD	_	12	nsubj
+11	could	could	MD	_	12	aux
+12	see	see	VB	_	4	conj
+13	a	a	DT	_	14	det
+14	crane	crane	NN	_	12	dobj
+15	lifting	lift	VBG	_	14	vmod
+16	some	some	DT	_	19	det
+17	heavy	heavy	JJ	_	19	amod
+18	construction	construction	NN	_	19	nn
+19	material	material	NN	_	15	dobj
+20	.	.	.	_	4	punct
+

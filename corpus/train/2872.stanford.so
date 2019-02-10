@@ -1,0 +1,10 @@
+0	41	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="Everton" pos="NNP" nsubj="t1"
+8	12	tok id="t1" base="send" pos="VBD" ROOT="ROOT"
+13	20	tok id="t2" base="hammer" pos="NNS" dobj="t1"
+21	25	tok id="t3" base="into" pos="IN" prep="t1"
+26	29	tok id="t4" base="the" pos="DT" det="t6"
+30	34	tok id="t5" base="drop" pos="NN" nn="t6"
+35	39	tok id="t6" base="zone" pos="NN" pobj="t3"
+40	41	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

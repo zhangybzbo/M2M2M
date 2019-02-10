@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	whole	whole	JJ	_	3	amod
+3	thing	thing	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	cleaned	clean	VBN	_	0	ROOT
+6	up	up	RP	_	5	prt
+7	by	by	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	mechanic	mechanic	NN	_	7	pobj
+10	with	with	IN	_	5	prep
+11	a	a	DT	_	14	det
+12	high	high	JJ	_	14	amod
+13	pressure	pressure	NN	_	14	nn
+14	hose	hose	NN	_	10	pobj
+15	.	.	.	_	5	punct
+

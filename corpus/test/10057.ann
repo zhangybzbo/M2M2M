@@ -1,0 +1,3 @@
+T1	Term 0 7	Parties
+T2	Term 18 27	telephone
+R1	Instrument-Agency Arg1:T2 Arg2:T1

@@ -1,0 +1,19 @@
+1	Schoniger	Schoniger	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	technique	technique	NN	_	17	nsubjpass
+4	for	for	IN	_	3	prep
+5	combustion	combustion	NN	_	4	pobj
+6	of	of	IN	_	5	prep
+7	organic	organic	JJ	_	8	amod
+8	compounds	compound	NNS	_	6	pobj
+9	in	in	IN	_	3	prep
+10	a	a	DT	_	11	det
+11	flask	flask	NN	_	9	pobj
+12	filled	fill	VBN	_	11	vmod
+13	with	with	IN	_	12	prep
+14	oxygen	oxygen	NN	_	13	pobj
+15	is	be	VBZ	_	17	auxpass
+16	well	well	RB	_	17	advmod
+17	known	know	VBN	_	0	ROOT
+18	.	.	.	_	17	punct
+

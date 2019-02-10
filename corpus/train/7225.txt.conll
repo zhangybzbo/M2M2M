@@ -1,0 +1,20 @@
+1	Kids	kid	NNS	_	2	nsubj
+2	love	love	VBP	_	0	ROOT
+3	watching	watch	VBG	_	2	xcomp
+4	the	the	DT	_	5	det
+5	stages	stage	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	growth	growth	NN	_	6	pobj
+8	from	from	IN	_	7	prep
+9	caterpillar	caterpillar	NN	_	8	pobj
+10	to	to	TO	_	11	aux
+11	cocoon	cocoon	VB	_	3	vmod
+12	to	to	TO	_	11	prep
+13	butterfly	butterfly	NN	_	12	pobj
+14	in	in	IN	_	11	prep
+15	this	this	DT	_	18	det
+16	easy	easy	JJ	_	18	amod
+17	reliable	reliable	JJ	_	18	amod
+18	kit	kit	NN	_	14	pobj
+19	.	.	.	_	2	punct
+

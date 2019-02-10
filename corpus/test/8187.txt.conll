@@ -1,0 +1,19 @@
+1	Meanwhile	meanwhile	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	we	we	PRP	_	4	nsubj
+4	placed	place	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	potatoes	potato	NNS	_	4	dobj
+7	in	in	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	steaming	steam	VBG	_	10	amod
+10	basket	basket	NN	_	7	pobj
+11	that	that	WDT	_	13	nsubj
+12	was	be	VBD	_	13	cop
+13	fitting	fitting	JJ	_	10	rcmod
+14	inside	inside	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	large	large	JJ	_	17	amod
+17	pot	pot	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

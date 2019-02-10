@@ -1,0 +1,13 @@
+1	They	they	PRP	_	2	nsubj
+2	rail	rail	NN	_	0	ROOT
+3	against	against	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	coffeehouse	coffeehouse	NN	_	6	nn
+6	fellowship	fellowship	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	artisans	artisan	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	others	other	NNS	_	9	conj
+12	.	.	.	_	2	punct
+

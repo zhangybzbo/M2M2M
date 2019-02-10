@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	parents	parent	NNS	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	American	american	JJ	_	6	amod
+6	student	student	NN	_	3	pobj
+7	said	say	VBD	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	statement	statement	NN	_	8	pobj
+11	that	that	IN	_	15	mark
+12	they	they	PRP	_	15	nsubj
+13	would	would	MD	_	15	aux
+14	immediately	immediately	RB	_	15	advmod
+15	begin	begin	VB	_	7	ccomp
+16	the	the	DT	_	17	det
+17	process	process	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	appealing	appeal	VBG	_	18	pcomp
+20	against	against	IN	_	19	prep
+21	her	she	PRP$	_	23	poss
+22	guilty	guilty	JJ	_	23	amod
+23	verdict	verdict	NN	_	20	pobj
+24	.	.	.	_	7	punct
+

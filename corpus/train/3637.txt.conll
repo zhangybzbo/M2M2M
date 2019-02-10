@@ -1,0 +1,26 @@
+1	Negotiations	negotiation	NNS	_	20	nsubjpass
+2	between	between	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	European	European	NNP	_	5	nn
+5	Community	Community	NNP	_	2	pobj
+6	and	and	CC	_	5	cc
+7	Greenland	Greenland	NNP	_	5	conj
+8	on	on	IN	_	1	prep
+9	a	a	DT	_	11	det
+10	fourth	fourth	JJ	_	11	amod
+11	protocol	protocol	NN	_	8	pobj
+12	concerning	concern	VBG	_	11	vmod
+13	the	the	DT	_	14	det
+14	implementation	implementation	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	agreement	agreement	NN	_	15	pobj
+18	,	,	,	_	1	punct
+19	were	be	VBD	_	20	auxpass
+20	concluded	conclude	VBN	_	0	ROOT
+21	at	at	IN	_	20	prep
+22	13	13	CD	_	23	num
+23	September	September	NNP	_	21	pobj
+24	2000	2000	CD	_	23	num
+25	.	.	.	_	20	punct
+

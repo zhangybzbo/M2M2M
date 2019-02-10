@@ -1,0 +1,11 @@
+1	Obama	Obama	NNP	_	0	ROOT
+2	speech	speech	NN	_	1	amod
+3	addresses	address	NNS	_	2	dep
+4	homophobia	homophobia	NN	_	3	dep
+5	,	,	,	_	4	punct
+6	anti-semitism	anti-semitism	NN	_	4	appos
+7	among	among	IN	_	6	prep
+8	black	black	JJ	_	9	amod
+9	Americans	Americans	NNPS	_	7	pobj
+10	.	.	.	_	1	punct
+

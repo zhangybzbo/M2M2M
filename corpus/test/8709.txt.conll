@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	mother	mother	NN	_	3	nsubj
+3	left	leave	VBD	_	0	ROOT
+4	her	she	PRP$	_	6	poss
+5	native	native	JJ	_	6	amod
+6	land	land	NN	_	3	dobj
+7	about	about	IN	_	3	prep
+8	the	the	DT	_	10	det
+9	same	same	JJ	_	10	amod
+10	time	time	NN	_	7	pobj
+11	and	and	CC	_	3	cc
+12	they	they	PRP	_	14	nsubjpass
+13	were	be	VBD	_	14	auxpass
+14	married	marry	VBN	_	3	conj
+15	in	in	IN	_	14	prep
+16	that	that	DT	_	17	det
+17	city	city	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

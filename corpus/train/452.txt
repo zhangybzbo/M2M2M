@@ -1,0 +1,1 @@
+The package includes an audio and video receiver that transmits information to the plasma display .

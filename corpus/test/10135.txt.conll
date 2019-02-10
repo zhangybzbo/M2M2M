@@ -1,0 +1,20 @@
+1	More	more	RBR	_	2	advmod
+2	particularly	particularly	RB	_	9	advmod
+3	,	,	,	_	9	punct
+4	the	the	DT	_	5	det
+5	invention	invention	NN	_	9	nsubj
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	sealless	sealless	JJ	_	9	amod
+9	pump	pump	NN	_	0	ROOT
+10	that	that	WDT	_	11	nsubj
+11	employs	employ	VBZ	_	9	rcmod
+12	a	a	DT	_	14	det
+13	magnetic	magnetic	JJ	_	14	amod
+14	coupling	coupling	NN	_	11	dobj
+15	to	to	TO	_	16	aux
+16	drive	drive	VB	_	11	vmod
+17	the	the	DT	_	18	det
+18	impeller	impeller	NN	_	16	dobj
+19	.	.	.	_	9	punct
+

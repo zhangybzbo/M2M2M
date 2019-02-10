@@ -1,0 +1,16 @@
+1	In	in	IN	_	6	prep
+2	a	a	DT	_	4	det
+3	taped	tape	VBN	_	4	amod
+4	interview	interview	NN	_	1	pobj
+5	she	she	PRP	_	6	nsubj
+6	recounted	recount	VBD	_	0	ROOT
+7	two	two	CD	_	8	num
+8	occasions	occasion	NNS	_	6	dobj
+9	on	on	IN	_	13	prep
+10	which	which	WDT	_	9	pobj
+11	she	she	PRP	_	13	nsubj
+12	had	have	VBD	_	13	aux
+13	lent	lend	VBN	_	8	rcmod
+14	money	money	NN	_	13	dobj
+15	.	.	.	_	6	punct
+

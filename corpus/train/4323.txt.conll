@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	trainer	trainer	NN	_	3	nsubj
+3	touched	touch	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	scorpion	scorpion	NN	_	3	dobj
+6	lightly	lightly	RB	_	3	advmod
+7	with	with	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	end	end	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	straw	straw	NN	_	10	pobj
+13	and	and	CC	_	3	cc
+14	it	it	PRP	_	15	nsubj
+15	lifted	lift	VBD	_	3	conj
+16	its	its	PRP$	_	17	poss
+17	tail	tail	NN	_	15	dobj
+18	up	up	RP	_	15	prt
+19	.	.	.	_	3	punct
+

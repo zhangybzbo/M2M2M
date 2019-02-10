@@ -1,0 +1,21 @@
+1	Another	another	DT	_	3	det
+2	favorite	favorite	JJ	_	3	amod
+3	supper	supper	NN	_	10	nsubj
+4	at	at	IN	_	3	prep
+5	my	my	PRP$	_	6	poss
+6	house	house	NN	_	4	pobj
+7	is	be	VBZ	_	10	cop
+8	the	the	DT	_	10	det
+9	classic	classic	JJ	_	10	amod
+10	combo	combo	NN	_	0	ROOT
+11	of	of	IN	_	10	prep
+12	grilled	grilled	JJ	_	14	amod
+13	cheese	cheese	NN	_	14	nn
+14	sandwiches	sandwich	NNS	_	11	pobj
+15	and	and	CC	_	14	cc
+16	cream	cream	NN	_	14	conj
+17	of	of	IN	_	16	prep
+18	tomato	tomato	NN	_	19	nn
+19	soup	soup	NN	_	17	pobj
+20	.	.	.	_	10	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	cow	cow	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	sound	sound	JJ	_	3	dobj
+6	called	call	VBN	_	5	vmod
+7	lowing	lowing	NN	_	6	dep
+8	,	,	,	_	5	punct
+9	also	also	RB	_	10	advmod
+10	known	know	VBN	_	5	vmod
+11	as	as	IN	_	10	prep
+12	mooing	mooing	JJ	_	11	pobj
+13	.	.	.	_	3	punct
+

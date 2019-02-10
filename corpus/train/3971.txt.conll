@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	blind	blind	JJ	_	3	amod
+3	woman	woman	NN	_	4	nsubj
+4	took	take	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	taxi	taxi	NN	_	7	nn
+7	driver	driver	NN	_	4	dobj
+8	to	to	TO	_	4	prep
+9	the	the	DT	_	11	det
+10	Equality	Equality	NNP	_	11	nn
+11	Tribunal	Tribunal	NNP	_	8	pobj
+12	.	.	.	_	4	punct
+

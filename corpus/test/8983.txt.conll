@@ -1,0 +1,12 @@
+1	All	all	DT	_	3	predet
+2	your	you	PRP$	_	3	poss
+3	posts	post	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	imported	import	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	standard	standard	JJ	_	10	amod
+9	Wordpress	wordpress	NN	_	10	nn
+10	installation	installation	NN	_	6	pobj
+11	.	.	.	_	5	punct
+

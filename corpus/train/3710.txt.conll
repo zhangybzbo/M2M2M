@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	teacher	teacher	NN	_	3	nsubj
+3	set	set	VBD	_	0	ROOT
+4	up	up	RP	_	3	prt
+5	an	a	DT	_	6	det
+6	activity	activity	NN	_	3	dobj
+7	where	where	WRB	_	12	advmod
+8	each	each	DT	_	9	det
+9	time	time	NN	_	12	tmod
+10	the	the	DT	_	11	det
+11	dancer	dancer	NN	_	12	nsubj
+12	performed	perform	VBD	_	6	rcmod
+13	a	a	DT	_	14	det
+14	tendu	tendu	NN	_	12	dobj
+15	with	with	IN	_	12	prep
+16	a	a	DT	_	19	det
+17	fully	fully	RB	_	18	advmod
+18	stretched	stretch	VBN	_	19	amod
+19	foot	foot	NN	_	15	pobj
+20	she	she	PRP	_	21	nsubj
+21	received	receive	VBD	_	12	ccomp
+22	a	a	DT	_	23	det
+23	tag	tag	NN	_	21	dobj
+24	.	.	.	_	3	punct
+

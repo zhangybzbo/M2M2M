@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	launch	launch	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	rescheduled	reschedule	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	next	next	JJ	_	8	amod
+8	month	month	NN	_	6	pobj
+9	due	due	JJ	_	10	mwe
+10	to	to	TO	_	5	prep
+11	bad	bad	JJ	_	12	amod
+12	weather	weather	NN	_	10	pobj
+13	.	.	.	_	5	punct
+

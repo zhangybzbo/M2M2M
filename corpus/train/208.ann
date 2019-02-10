@@ -1,0 +1,3 @@
+T1	Term 25 33	director
+T2	Term 84 88	book
+R1	Product-Producer Arg1:T2 Arg2:T1

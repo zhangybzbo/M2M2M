@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	Dissemination	Dissemination	NNP	_	3	nn
+3	grants	grant	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	awarded	award	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	three	three	CD	_	12	num
+9	Idaho	Idaho	NNP	_	12	nn
+10	public	public	JJ	_	12	amod
+11	charter	charter	NN	_	12	nn
+12	schools	school	NNS	_	7	pobj
+13	this	this	DT	_	14	det
+14	year	year	NN	_	6	tmod
+15	.	.	.	_	6	punct
+

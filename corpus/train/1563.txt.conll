@@ -1,0 +1,20 @@
+1	One	one	CD	_	2	num
+2	aspect	aspect	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	media	media	NNS	_	6	nn
+6	presentation	presentation	NN	_	3	pobj
+7	is	be	VBZ	_	9	cop
+8	the	the	DT	_	9	det
+9	status	status	NN	_	0	ROOT
+10	attributed	attribute	VBN	_	9	vmod
+11	to	to	TO	_	10	prep
+12	claims-makers	claims-maker	NNS	_	11	pobj
+13	on	on	IN	_	12	prep
+14	either	either	DT	_	15	det
+15	side	side	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	issue	issue	NN	_	16	pobj
+19	.	.	.	_	9	punct
+

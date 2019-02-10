@@ -1,0 +1,13 @@
+1	Eye	Eye	NNP	_	2	nn
+2	discomfort	discomfort	NN	_	8	nsubjpass
+3	from	from	IN	_	2	prep
+4	this	this	DT	_	6	det
+5	staring	stare	VBG	_	6	amod
+6	effect	effect	NN	_	3	pobj
+7	is	be	VBZ	_	8	auxpass
+8	exacerbated	exacerbate	VBN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	low	low	JJ	_	11	amod
+11	humidity	humidity	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

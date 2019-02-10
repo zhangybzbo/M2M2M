@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	curvature	curvature	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	piece	piece	NN	_	3	pobj
+6	was	be	VBD	_	7	cop
+7	originally	originally	RB	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	small	small	JJ	_	11	amod
+11	bowl	bowl	NN	_	8	pobj
+12	or	or	CC	_	11	cc
+13	cup	cup	NN	_	11	conj
+14	.	.	.	_	7	punct
+

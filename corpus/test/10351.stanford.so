@@ -1,0 +1,13 @@
+0	79	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="other" pos="JJ" amod="t2"
+6	11	tok id="t1" base="early" pos="JJ" amod="t2"
+12	21	tok id="t2" base="organism" pos="NNS" nsubj="t4"
+22	26	tok id="t3" base="have" pos="VBP" aux="t4"
+27	35	tok id="t4" base="release" pos="VBN" ROOT="ROOT"
+36	42	tok id="t5" base="barium" pos="NN" dobj="t4"
+43	47	tok id="t6" base="into" pos="IN" prep="t4"
+48	56	tok id="t7" base="sulphate" pos="NN" nn="t9"
+57	65	tok id="t8" base="deplete" pos="VBN" amod="t9"
+66	77	tok id="t9" base="pore-water" pos="NNS" pobj="t6"
+78	79	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

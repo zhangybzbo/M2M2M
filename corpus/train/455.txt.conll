@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	world	world	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	experiencing	experience	VBG	_	0	ROOT
+5	an	a	DT	_	7	det
+6	unprecedented	unprecedented	JJ	_	7	amod
+7	glut	glut	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	savings	savings	NNS	_	8	pobj
+10	,	,	,	_	4	punct
+11	driving	drive	VBG	_	4	vmod
+12	down	down	RP	_	11	prt
+13	real	real	JJ	_	15	amod
+14	interest	interest	NN	_	15	nn
+15	rates	rate	NNS	_	11	dobj
+16	.	.	.	_	4	punct
+

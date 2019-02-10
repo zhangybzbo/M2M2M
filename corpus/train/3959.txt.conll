@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	computer	computer	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	water-proof	water-proof	JJ	_	7	amod
+7	box	box	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

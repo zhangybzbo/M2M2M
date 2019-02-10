@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	det
+2	house	house	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	false	false	JJ	_	7	amod
+6	front	front	JJ	_	7	amod
+7	door	door	NN	_	3	dobj
+8	facing	face	VBG	_	7	vmod
+9	the	the	DT	_	10	det
+10	river	river	NN	_	8	dobj
+11	and	and	CC	_	10	cc
+12	a	a	DT	_	14	det
+13	real	real	JJ	_	14	amod
+14	entrance	entrance	NN	_	10	conj
+15	on	on	IN	_	14	prep
+16	Wilmington	Wilmington	NNP	_	17	nn
+17	Street	Street	NNP	_	15	pobj
+18	.	.	.	_	3	punct
+

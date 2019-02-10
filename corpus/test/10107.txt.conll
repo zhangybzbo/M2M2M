@@ -1,0 +1,24 @@
+1	Three	three	CD	_	2	num
+2	pages	page	NNS	_	10	nsubjpass
+3	from	from	IN	_	2	prep
+4	an	a	DT	_	6	det
+5	autograph	autograph	VBP	_	6	amod
+6	manuscript	manuscript	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	Hamlet	Hamlet	NNP	_	7	pobj
+9	were	be	VBD	_	10	auxpass
+10	found	find	VBN	_	0	ROOT
+11	wadded	wad	VBN	_	10	dep
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	tankard	tankard	NN	_	12	pobj
+15	near	near	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	former	former	JJ	_	18	amod
+18	site	site	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	a	a	DT	_	22	det
+21	Stratford	Stratford	NNP	_	22	nn
+22	tavern	tavern	NN	_	19	pobj
+23	.	.	.	_	10	punct
+

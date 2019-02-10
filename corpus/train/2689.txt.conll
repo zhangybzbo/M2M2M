@@ -1,0 +1,27 @@
+1	Teacher	teacher	NN	_	2	nn
+2	Man	man	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	2005	2005	CD	_	6	num
+6	memoir	memoir	NN	_	0	ROOT
+7	written	write	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	Frank	Frank	NNP	_	10	nn
+10	McCourt	McCourt	NNP	_	8	pobj
+11	which	which	WDT	_	12	nsubj
+12	describes	describe	VBZ	_	10	rcmod
+13	and	and	CC	_	12	cc
+14	reflects	reflect	VBZ	_	12	conj
+15	on	on	IN	_	12	prep
+16	his	he	PRP$	_	18	poss
+17	teaching	teaching	NN	_	18	nn
+18	experiences	experience	NNS	_	15	pobj
+19	in	in	IN	_	18	prep
+20	New	New	NNP	_	23	nn
+21	York	York	NNP	_	23	nn
+22	high	high	JJ	_	23	amod
+23	schools	school	NNS	_	19	pobj
+24	and	and	CC	_	23	cc
+25	colleges	college	NNS	_	23	conj
+26	.	.	.	_	6	punct
+

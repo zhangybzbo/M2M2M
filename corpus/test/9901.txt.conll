@@ -1,0 +1,14 @@
+1	Scientists	scientist	NNS	_	2	nsubj
+2	warn	warn	VBP	_	0	ROOT
+3	that	that	IN	_	12	mark
+4	the	the	DT	_	5	det
+5	damage	damage	NN	_	12	nsubj
+6	caused	cause	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	fishing	fishing	NN	_	10	nn
+10	industry	industry	NN	_	7	pobj
+11	is	be	VBZ	_	12	cop
+12	irreparable	irreparable	JJ	_	2	ccomp
+13	.	.	.	_	2	punct
+

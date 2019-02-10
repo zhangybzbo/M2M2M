@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	soldiers	soldier	NNS	_	3	nsubj
+3	moved	move	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	newest	newest	JJS	_	7	amod
+7	post	post	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

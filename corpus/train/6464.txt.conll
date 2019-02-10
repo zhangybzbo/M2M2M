@@ -1,0 +1,12 @@
+1	We	we	PRP	_	3	nsubj
+2	carefully	carefully	RB	_	3	advmod
+3	poured	pour	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	hot	hot	JJ	_	6	amod
+6	coffee	coffee	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	glass	glass	NN	_	10	nn
+10	cup	cup	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

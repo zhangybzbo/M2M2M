@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	mechanism	mechanism	NN	_	11	nsubjpass
+3	whereby	whereby	WRB	_	5	advmod
+4	air	air	NN	_	5	nsubj
+5	enters	enter	VBZ	_	2	rcmod
+6	the	the	DT	_	7	det
+7	skull	skull	NN	_	5	dobj
+8	could	could	MD	_	11	aux
+9	perhaps	perhaps	RB	_	11	advmod
+10	be	be	VB	_	11	auxpass
+11	compared	compare	VBN	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	that	that	DT	_	17	mark
+14	in	in	IN	_	17	prep
+15	which	which	WDT	_	14	pobj
+16	air	air	NN	_	17	nsubj
+17	enters	enter	VBZ	_	12	pcomp
+18	a	a	DT	_	19	det
+19	bottle	bottle	NN	_	17	dobj
+20	full	full	JJ	_	19	amod
+21	of	of	IN	_	20	prep
+22	liquid	liquid	NN	_	21	pobj
+23	.	.	.	_	11	punct
+

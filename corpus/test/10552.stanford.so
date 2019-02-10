@@ -1,0 +1,10 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	9	tok id="t1" base="sound" pos="JJ" amod="t2"
+10	15	tok id="t2" base="wave" pos="NNS" nsubj="t3"
+16	21	tok id="t3" base="cause" pos="VBP" ROOT="ROOT"
+22	36	tok id="t4" base="disorientation" pos="NN" dobj="t3"
+37	40	tok id="t5" base="and" pos="CC" cc="t4"
+41	47	tok id="t6" base="nausea" pos="NN" conj="t4"
+48	49	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

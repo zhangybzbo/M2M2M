@@ -1,0 +1,3 @@
+T1	Term 4 10	statue
+T2	Term 45 51	temple
+R1	Entity-Destination Arg1:T1 Arg2:T2

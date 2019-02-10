@@ -1,0 +1,17 @@
+1	A	a	DT	_	4	det
+2	combustion	combustion	NN	_	4	nn
+3	chamber	chamber	NN	_	4	nn
+4	leak	leak	NN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	cylinder	cylinder	NN	_	8	nn
+8	head	head	NN	_	5	pobj
+9	or	or	CC	_	8	cc
+10	block	block	NN	_	8	conj
+11	leaks	leak	NNS	_	12	nsubj
+12	coolant	coolant	VBP	_	4	rcmod
+13	into	into	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	cylinder	cylinder	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

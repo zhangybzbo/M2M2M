@@ -1,0 +1,16 @@
+1	What	what	WP	_	3	dobj
+2	we	we	PRP	_	3	nsubj
+3	saw	see	VBD	_	7	csubj
+4	was	be	VBD	_	7	cop
+5	a	a	DT	_	7	det
+6	promising	promising	JJ	_	7	amod
+7	idea	idea	NN	_	0	ROOT
+8	sabotaged	sabotage	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	a	a	DT	_	14	det
+11	muddled	muddle	VBN	_	14	amod
+12	and	and	CC	_	11	cc
+13	undernourished	undernourished	JJ	_	11	conj
+14	script	script	NN	_	9	pobj
+15	.	.	.	_	7	punct
+

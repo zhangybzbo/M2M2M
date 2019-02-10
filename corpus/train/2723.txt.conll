@@ -1,0 +1,13 @@
+1	Some	some	DT	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	plot	plot	NN	_	2	pobj
+5	is	be	VBZ	_	6	auxpass
+6	based	base	VBN	_	0	ROOT
+7	on	on	IN	_	6	prep
+8	real-life	real-life	JJ	_	9	amod
+9	people	people	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	events	event	NNS	_	9	conj
+12	.	.	.	_	6	punct
+

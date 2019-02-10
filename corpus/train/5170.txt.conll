@@ -1,0 +1,27 @@
+1	Highly	highly	RB	_	2	advmod
+2	durable	durable	JJ	_	6	amod
+3	,	,	,	_	6	punct
+4	the	the	DT	_	6	det
+5	umbrella	umbrella	NN	_	6	nn
+6	frame	frame	NN	_	12	nsubjpass
+7	and	and	CC	_	6	cc
+8	thatch	thatch	NN	_	9	nn
+9	tiles	tile	NNS	_	6	conj
+10	have	have	VBP	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	designed	design	VBN	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	withstand	withstand	VB	_	12	xcomp
+15	harsh	harsh	JJ	_	16	amod
+16	conditions	condition	NNS	_	14	dobj
+17	including	include	VBG	_	14	prep
+18	:	:	:	_	17	punct
+19	strong	strong	JJ	_	20	amod
+20	winds	wind	NNS	_	17	pobj
+21	,	,	,	_	20	punct
+22	driving	driving	JJ	_	23	amod
+23	rain	rain	NN	_	20	conj
+24	and	and	CC	_	20	cc
+25	snow	snow	NN	_	20	conj
+26	.	.	.	_	12	punct
+

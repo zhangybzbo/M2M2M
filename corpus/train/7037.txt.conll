@@ -1,0 +1,17 @@
+1	My	my	PRP$	_	2	poss
+2	grandmother	grandmother	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	beautiful	beautiful	JJ	_	0	ROOT
+5	too	too	RB	_	4	advmod
+6	but	but	CC	_	4	cc
+7	she	she	PRP	_	8	nsubj
+8	has	have	VBZ	_	4	conj
+9	a	a	DT	_	10	det
+10	lot	lot	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	wrinkles	wrinkle	NNS	_	11	pobj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	sun	sun	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

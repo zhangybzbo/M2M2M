@@ -1,0 +1,22 @@
+1	These	these	DT	_	6	nsubj
+2	are	be	VBP	_	6	cop
+3	the	the	DT	_	6	det
+4	least	least	JJS	_	5	dep
+5	expensive	expensive	JJ	_	6	amod
+6	scissors	scissors	NNS	_	0	ROOT
+7	produced	produce	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	manufacturer	manufacturer	NN	_	8	pobj
+11	and	and	CC	_	6	cc
+12	are	be	VBP	_	13	cop
+13	available	available	JJ	_	6	conj
+14	for	for	IN	_	13	prep
+15	less	less	JJR	_	17	quantmod
+16	than	than	IN	_	17	quantmod
+17	$	$	$	_	14	pobj
+18	6.00	6.00	CD	_	17	num
+19	per	per	IN	_	17	prep
+20	pair	pair	NN	_	19	pobj
+21	.	.	.	_	6	punct
+

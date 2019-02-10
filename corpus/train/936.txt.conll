@@ -1,0 +1,23 @@
+1	A	a	DT	_	3	det
+2	chance	chance	NN	_	3	nn
+3	discovery	discovery	NN	_	11	nsubj
+4	made	make	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	road	road	NN	_	8	nn
+8	worker	worker	NN	_	5	pobj
+9	in	in	IN	_	4	prep
+10	1956	1956	CD	_	9	pobj
+11	uncovered	uncover	VBD	_	0	ROOT
+12	a	a	DT	_	14	det
+13	rich	rich	JJ	_	14	amod
+14	find	find	VB	_	11	dobj
+15	of	of	IN	_	14	prep
+16	360	360	CD	_	17	number
+17	million	million	CD	_	21	num
+18	year	year	NN	_	19	npadvmod
+19	old	old	JJ	_	21	amod
+20	fish	fish	NN	_	21	nn
+21	fossils	fossil	NNS	_	15	pobj
+22	.	.	.	_	11	punct
+

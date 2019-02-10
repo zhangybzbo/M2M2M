@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	photoheliograph	photoheliograph	NN	_	3	nsubj
+3	produced	produce	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	glass-plate	glass-plate	JJ	_	6	amod
+6	photographs	photograph	NNS	_	3	dobj
+7	on	on	IN	_	6	prep
+8	display	display	NN	_	7	pobj
+9	in	in	IN	_	8	prep
+10	this	this	DT	_	12	det
+11	exhibition	exhibition	NN	_	12	nn
+12	gallery	gallery	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

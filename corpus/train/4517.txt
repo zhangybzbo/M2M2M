@@ -1,0 +1,1 @@
+This dryer has a sensor that is supposed to sense when the clothes are dry .

@@ -1,0 +1,9 @@
+1	An	a	DT	_	2	det
+2	object	object	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	placed	place	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	orbit	orbit	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

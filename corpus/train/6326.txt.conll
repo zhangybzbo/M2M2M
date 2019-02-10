@@ -1,0 +1,8 @@
+1	I	I	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	a	a	DT	_	6	det
+4	strawberry	strawberry	NN	_	6	nn
+5	tea	tea	NN	_	6	nn
+6	addiction	addiction	NN	_	2	dobj
+7	.	.	.	_	2	punct
+

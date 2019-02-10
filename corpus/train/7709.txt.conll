@@ -1,0 +1,22 @@
+1	Thailand	Thailand	NNP	_	4	nsubj
+2	has	have	VBZ	_	4	aux
+3	been	be	VBN	_	4	aux
+4	bracing	brace	VBG	_	0	ROOT
+5	itself	itself	PRP	_	4	dobj
+6	for	for	IN	_	4	prep
+7	a	a	DT	_	8	det
+8	downturn	downturn	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	wake	wake	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	bombs	bomb	NNS	_	12	pobj
+15	,	,	,	_	4	punct
+16	especially	especially	RB	_	17	advmod
+17	in	in	IN	_	4	prep
+18	the	the	DT	_	20	det
+19	tourist	tourist	NN	_	20	nn
+20	sector	sector	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

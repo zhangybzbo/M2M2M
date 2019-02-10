@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	musician	musician	NN	_	12	nsubj
+3	who	who	WP	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	written	write	VBN	_	2	rcmod
+6	an	a	DT	_	7	det
+7	album	album	NN	_	5	dobj
+8	describing	describe	VBG	_	7	vmod
+9	suicide	suicide	NN	_	10	nn
+10	bombers	bomber	NNS	_	8	dobj
+11	has	have	VBZ	_	12	aux
+12	said	say	VBN	_	0	ROOT
+13	he	he	PRP	_	15	nsubjpass
+14	is	be	VBZ	_	15	auxpass
+15	prepared	prepare	VBN	_	12	ccomp
+16	to	to	TO	_	18	aux
+17	be	be	VB	_	18	auxpass
+18	imprisoned	imprison	VBN	_	15	xcomp
+19	under	under	IN	_	18	prep
+20	new	new	JJ	_	22	amod
+21	anti-terrorism	anti-terrorism	JJ	_	22	amod
+22	legislation	legislation	NN	_	19	pobj
+23	.	.	.	_	12	punct
+

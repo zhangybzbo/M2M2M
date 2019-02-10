@@ -1,0 +1,12 @@
+0	64	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="applicant" pos="NN" nsubj="t2"
+14	23	tok id="t2" base="graduate" pos="VBD" ROOT="ROOT"
+24	28	tok id="t3" base="from" pos="IN" prep="t2"
+29	31	tok id="t4" base="a" pos="DT" det="t6"
+32	42	tok id="t5" base="accredited" pos="JJ" amod="t6"
+43	49	tok id="t6" base="school" pos="NN" pobj="t3"
+50	52	tok id="t7" base="of" pos="IN" prep="t6"
+53	62	tok id="t8" base="dentistry" pos="NN" pobj="t7"
+63	64	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

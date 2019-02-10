@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	as	as	IN	_	3	prep
+5	its	its	PRP$	_	6	poss
+6	backdrop	backdrop	NN	_	4	pobj
+7	the	the	DT	_	9	det
+8	political	political	JJ	_	9	amod
+9	controversy	controversy	NN	_	6	dep
+10	over	over	IN	_	9	prep
+11	euthanasia	euthanasia	NN	_	10	pobj
+12	in	in	IN	_	11	prep
+13	Australia	Australia	NNP	_	12	pobj
+14	,	,	,	_	13	punct
+15	where	where	WRB	_	20	advmod
+16	the	the	DT	_	17	det
+17	author	author	NN	_	20	nsubj
+18	is	be	VBZ	_	20	cop
+19	senior	senior	JJ	_	20	amod
+20	lecturer	lecturer	NN	_	13	rcmod
+21	in	in	IN	_	20	prep
+22	the	the	DT	_	25	det
+23	Health	Health	NNP	_	25	nn
+24	Law	Law	NNP	_	25	nn
+25	Program	Program	NNP	_	21	pobj
+26	.	.	.	_	3	punct
+

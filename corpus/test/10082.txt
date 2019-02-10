@@ -1,0 +1,1 @@
+The example from the book is building a GWT based Todo List with different categories , something which is actually quite handy to have .

@@ -1,0 +1,17 @@
+1	An	a	DT	_	3	det
+2	encapsulating	encapsulate	VBG	_	3	amod
+3	composition	composition	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	infused	infuse	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	channel	channel	NN	_	6	pobj
+9	to	to	TO	_	10	aux
+10	encapsulate	encapsulate	VB	_	5	xcomp
+11	the	the	DT	_	12	det
+12	tissue	tissue	NN	_	10	dobj
+13	in	in	IN	_	10	prep
+14	a	a	DT	_	15	det
+15	capsule	capsule	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

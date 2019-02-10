@@ -1,0 +1,26 @@
+1	Blade	Blade	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	accepted	accept	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	inner	inner	JJ	_	7	amod
+7	circle	circle	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	hardened	hardened	JJ	_	10	amod
+10	criminals	criminal	NNS	_	8	pobj
+11	who	who	WP	_	12	nsubj
+12	run	run	VBP	_	10	rcmod
+13	things	thing	NNS	_	12	dobj
+14	inside	inside	IN	_	12	prep
+15	the	the	DT	_	16	det
+16	prison	prison	NN	_	14	pobj
+17	and	and	CC	_	3	cc
+18	is	be	VBZ	_	19	auxpass
+19	offered	offer	VBN	_	3	conj
+20	a	a	DT	_	21	det
+21	job	job	NN	_	19	dobj
+22	on	on	IN	_	21	prep
+23	his	he	PRP$	_	24	poss
+24	release	release	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

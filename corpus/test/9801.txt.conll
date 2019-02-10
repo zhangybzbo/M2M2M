@@ -1,0 +1,24 @@
+1	He	he	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	the	the	DT	_	6	det
+4	most	most	RBS	_	5	advmod
+5	convenient	convenient	JJ	_	6	amod
+6	way	way	NN	_	2	dobj
+7	to	to	TO	_	8	aux
+8	go	go	VB	_	2	vmod
+9	to	to	TO	_	8	prep
+10	Lausanne	Lausanne	NNP	_	9	pobj
+11	:	:	:	_	2	punct
+12	using	use	VBG	_	2	dep
+13	a	a	DT	_	14	det
+14	train	train	NN	_	12	dobj
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	railway	railway	NN	_	18	nn
+18	station	station	NN	_	15	pobj
+19	located	located	JJ	_	14	amod
+20	at	at	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	airport	airport	NN	_	20	pobj
+23	.	.	.	_	2	punct
+

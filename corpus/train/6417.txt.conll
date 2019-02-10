@@ -1,0 +1,25 @@
+1	Quickly	quickly	RB	_	8	advmod
+2	,	,	,	_	1	punct
+3	but	but	CC	_	1	cc
+4	neatly	neatly	RB	_	1	conj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	secretary	secretary	NN	_	8	nsubj
+8	tore	tear	VBD	_	0	ROOT
+9	the	the	DT	_	10	det
+10	side	side	NN	_	11	nsubj
+11	open	open	JJ	_	8	xcomp
+12	with	with	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	letter	letter	NN	_	15	nn
+15	opener	opener	NN	_	12	pobj
+16	,	,	,	_	8	punct
+17	pulling	pull	VBG	_	8	vmod
+18	out	out	RP	_	17	prt
+19	yet	yet	RB	_	17	advmod
+20	another	another	DT	_	21	det
+21	sheet	sheet	NN	_	17	dobj
+22	of	of	IN	_	21	prep
+23	paper	paper	NN	_	22	pobj
+24	.	.	.	_	8	punct
+

@@ -1,0 +1,16 @@
+1	A	a	DT	_	3	det
+2	low	low	JJ	_	3	amod
+3	temperature	temperature	NN	_	0	ROOT
+4	superconducting	superconduct	VBG	_	5	amod
+5	magnet	magnet	NN	_	8	nsubjpass
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	delivered	deliver	VBN	_	3	rcmod
+9	to	to	TO	_	8	prep
+10	Ad	ad	NN	_	11	nn
+11	Astra	Astra	NNP	_	14	poss
+12	's	's	POS	_	11	possessive
+13	Houston	Houston	NNP	_	14	nn
+14	facility	facility	NN	_	9	pobj
+15	.	.	.	_	3	punct
+

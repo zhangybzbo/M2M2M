@@ -1,0 +1,17 @@
+1	Two	two	CD	_	2	num
+2	children	child	NNS	_	9	nsubj
+3	playing	play	VBG	_	2	vmod
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	Queens	Queens	NNP	_	7	nn
+7	park	park	NN	_	4	pobj
+8	have	have	VBP	_	9	aux
+9	found	find	VBN	_	0	ROOT
+10	a	a	DT	_	11	det
+11	suitcase	suitcase	NN	_	9	dobj
+12	with	with	IN	_	11	prep
+13	bones	bone	NNS	_	12	pobj
+14	in	in	IN	_	9	prep
+15	it	it	PRP	_	14	pobj
+16	.	.	.	_	9	punct
+

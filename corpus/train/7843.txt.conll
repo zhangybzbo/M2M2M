@@ -1,0 +1,26 @@
+1	Because	because	IN	_	9	mark
+2	it	it	PRP	_	9	nsubj
+3	's	be	VBZ	_	9	cop
+4	a	a	DT	_	9	det
+5	strong	strong	JJ	_	9	amod
+6	,	,	,	_	9	punct
+7	lint-free	lint-free	JJ	_	9	amod
+8	synthetic	synthetic	JJ	_	9	amod
+9	material	material	NN	_	16	advcl
+10	with	with	IN	_	9	prep
+11	tiny	tiny	JJ	_	13	amod
+12	absorbent	absorbent	JJ	_	13	amod
+13	fibers	fiber	NNS	_	10	pobj
+14	,	,	,	_	16	punct
+15	microfiber	microfiber	NN	_	16	nsubj
+16	allows	allow	VBZ	_	0	ROOT
+17	a	a	DT	_	18	det
+18	mop	mop	VB	_	16	dobj
+19	to	to	TO	_	20	aux
+20	hold	hold	VB	_	18	xcomp
+21	sufficient	sufficient	JJ	_	22	amod
+22	water	water	NN	_	20	dobj
+23	without	without	IN	_	20	prep
+24	dripping	drip	VBG	_	23	pcomp
+25	.	.	.	_	16	punct
+

@@ -1,0 +1,1 @@
+The charge to leak away before the arrival of the next impulse from the photocell .

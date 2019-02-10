@@ -1,0 +1,23 @@
+1	Most	most	JJS	_	3	amod
+2	cane	cane	NN	_	3	nn
+3	sugar	sugar	NN	_	4	nsubj
+4	comes	come	VBZ	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	countries	country	NNS	_	5	pobj
+7	with	with	IN	_	6	prep
+8	warm	warm	JJ	_	9	amod
+9	climates	climate	NNS	_	7	pobj
+10	,	,	,	_	9	punct
+11	such	such	JJ	_	12	mwe
+12	as	as	IN	_	9	prep
+13	Brazil	Brazil	NNP	_	12	pobj
+14	,	,	,	_	13	punct
+15	Pakistan	Pakistan	NNP	_	13	conj
+16	,	,	,	_	13	punct
+17	India	India	NNP	_	13	conj
+18	,	,	,	_	13	punct
+19	China	China	NNP	_	13	conj
+20	and	and	CC	_	13	cc
+21	Australia	Australia	NNP	_	13	conj
+22	.	.	.	_	4	punct
+

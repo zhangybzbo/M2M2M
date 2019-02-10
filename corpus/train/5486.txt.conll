@@ -1,0 +1,23 @@
+1	A	a	DT	_	3	det
+2	damper	damper	NN	_	3	nn
+3	assembly	assembly	NN	_	5	nsubj
+4	is	be	VBZ	_	5	cop
+5	further	further	JJ	_	0	ROOT
+6	comprising	comprise	VBG	_	5	xcomp
+7	a	a	DT	_	9	det
+8	control	control	NN	_	9	nn
+9	knob	knob	NN	_	6	dobj
+10	coupled	couple	VBN	_	9	vmod
+11	to	to	TO	_	12	aux
+12	said	say	VBD	_	10	xcomp
+13	rod	rod	NN	_	15	nsubj
+14	,	,	,	_	13	punct
+15	said	say	VBD	_	12	ccomp
+16	knob	knob	NN	_	20	nsubj
+17	extending	extend	VBG	_	20	dep
+18	radially	radially	RB	_	20	advmod
+19	about	about	IN	_	20	dep
+20	said	say	VBD	_	15	ccomp
+21	axis	axis	NN	_	20	dobj
+22	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	chimps	chimp	NNS	_	0	ROOT
+3	had	have	VBD	_	2	vmod
+4	tasted	taste	VBN	_	6	amod
+5	cooked	cook	VBN	_	6	amod
+6	food	food	NN	_	3	dobj
+7	before	before	RB	_	3	advmod
+8	,	,	,	_	2	punct
+9	which	which	WDT	_	12	nsubj
+10	may	may	MD	_	12	aux
+11	have	have	VB	_	12	aux
+12	influenced	influence	VBN	_	2	rcmod
+13	the	the	DT	_	14	det
+14	outcome	outcome	NN	_	12	dobj
+15	.	.	.	_	2	punct
+

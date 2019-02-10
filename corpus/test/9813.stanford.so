@@ -1,0 +1,13 @@
+0	89	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="aromatic" pos="JJ" amod="t2"
+9	26	tok id="t1" base="hydrocarbon-water" pos="NN" nn="t2"
+27	38	tok id="t2" base="separation" pos="NNS" ROOT="ROOT"
+39	41	tok id="t3" base="by" pos="IN" prep="t2"
+42	43	tok id="t4" base="a" pos="DT" det="t5"
+44	52	tok id="t5" base="pressure" pos="NN" dep="t9"
+53	59	tok id="t6" base="drive" pos="VBN" amod="t9"
+60	68	tok id="t7" base="membrane" pos="NN" nn="t9"
+69	79	tok id="t8" base="separation" pos="NN" nn="t9"
+80	87	tok id="t9" base="process" pos="NN" pobj="t3"
+88	89	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

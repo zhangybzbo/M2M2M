@@ -1,0 +1,1 @@
+Each side of the clock has a button that , when pressed , starts the other team 's timer running .

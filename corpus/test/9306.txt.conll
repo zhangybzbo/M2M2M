@@ -1,0 +1,10 @@
+1	His	he	PRP$	_	2	poss
+2	niece	niece	NN	_	3	nsubj
+3	moved	move	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	apartment	apartment	NN	_	4	pobj
+7	last	last	JJ	_	8	amod
+8	month	month	NN	_	3	tmod
+9	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	lid	lid	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	anthropoid	anthropoid	NN	_	6	nn
+6	coffin	coffin	NN	_	3	pobj
+7	of	of	IN	_	6	prep
+8	Khonstefnakht	khonstefnakht	NN	_	9	nn
+9	dates	date	NNS	_	7	pobj
+10	from	from	IN	_	2	prep
+11	the	the	DT	_	14	det
+12	4th	4th	JJ	_	14	amod
+13	century	century	NN	_	14	nn
+14	BC	bc	NN	_	10	pobj
+15	.	.	.	_	2	punct
+

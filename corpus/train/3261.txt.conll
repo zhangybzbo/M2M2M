@@ -1,0 +1,16 @@
+1	Engine	Engine	NNP	_	2	nn
+2	pistons	piston	NNS	_	3	nsubj
+3	transmit	transmit	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	force	force	NN	_	3	dobj
+6	generated	generate	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	combustion	combustion	NN	_	10	nn
+10	gas	gas	NN	_	7	pobj
+11	to	to	TO	_	6	prep
+12	the	the	DT	_	14	det
+13	connecting	connect	VBG	_	14	amod
+14	rods	rod	NNS	_	11	pobj
+15	.	.	.	_	3	punct
+

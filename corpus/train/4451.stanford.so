@@ -1,0 +1,12 @@
+0	73	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Obama" pos="NNP" ROOT="ROOT"
+6	12	tok id="t1" base="speech" pos="NN" amod="t0"
+13	22	tok id="t2" base="address" pos="NNS" dep="t1"
+23	33	tok id="t3" base="homophobia" pos="NN" dep="t2"
+34	35	tok id="t4" base="-COMMA-" pos="," punct="t3"
+36	49	tok id="t5" base="anti-semitism" pos="NN" appos="t3"
+50	55	tok id="t6" base="among" pos="IN" prep="t5"
+56	61	tok id="t7" base="black" pos="JJ" amod="t8"
+62	71	tok id="t8" base="Americans" pos="NNPS" pobj="t6"
+72	73	tok id="t9" base="-PERIOD-" pos="." punct="t0"
+

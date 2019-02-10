@@ -1,0 +1,18 @@
+1	Well	well	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	he	he	PRP	_	7	nsubj
+4	's	be	VBZ	_	7	cop
+5	only	only	RB	_	7	advmod
+6	the	the	DT	_	7	det
+7	creator	creator	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	possibly	possibly	RB	_	14	advmod
+10	the	the	DT	_	14	det
+11	most	most	RBS	_	12	advmod
+12	played	play	VBN	_	14	amod
+13	computer	computer	NN	_	14	nn
+14	game	game	NN	_	8	pobj
+15	ever	ever	RB	_	16	advmod
+16	written	write	VBN	_	14	vmod
+17	.	.	.	_	7	punct
+

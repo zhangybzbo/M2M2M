@@ -1,0 +1,22 @@
+1	A	a	DT	_	2	det
+2	lamp	lamp	NN	_	5	poss
+3	's	's	POS	_	2	possessive
+4	lumen	luman	NN	_	5	nn
+5	output	output	NN	_	6	nsubj
+6	expresses	express	VBZ	_	0	ROOT
+7	the	the	DT	_	9	det
+8	total	total	JJ	_	9	amod
+9	amount	amount	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	light	light	NN	_	10	pobj
+12	the	the	DT	_	13	det
+13	lamp	lamp	NN	_	14	nsubj
+14	emits	emit	VBZ	_	9	rcmod
+15	in	in	IN	_	14	prep
+16	all	all	DT	_	17	det
+17	directions	direction	NNS	_	15	pobj
+18	per	per	IN	_	17	prep
+19	unit	unit	NN	_	20	nn
+20	time	time	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

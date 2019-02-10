@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	Daily	Daily	NNP	_	5	nn
+5	family	family	NN	_	2	dobj
+6	a	a	DT	_	8	det
+7	moving	move	VBG	_	8	amod
+8	statement	statement	NN	_	2	dobj
+9	made	make	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	mother	mother	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	Michael	Michael	NNP	_	15	nn
+15	Kelly	Kelly	NNP	_	13	pobj
+16	.	.	.	_	2	punct
+

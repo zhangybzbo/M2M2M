@@ -1,0 +1,20 @@
+1	Figure	Figure	NNP	_	3	nsubj
+2	9	9	CD	_	1	num
+3	shows	show	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	average	average	JJ	_	6	amod
+6	delays	delay	NNS	_	3	dobj
+7	obtained	obtain	VBN	_	6	vmod
+8	with	with	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	policy	policy	NN	_	8	pobj
+11	as	as	IN	_	12	mark
+12	compared	compare	VBN	_	7	advcl
+13	with	with	IN	_	12	prep
+14	those	those	DT	_	13	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	previous	previous	JJ	_	18	amod
+18	subsection	subsection	NN	_	15	pobj
+19	.	.	.	_	3	punct
+

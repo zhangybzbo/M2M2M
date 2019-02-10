@@ -1,0 +1,10 @@
+1	I	I	PRP	_	2	nsubj
+2	learned	learn	VBD	_	0	ROOT
+3	my	my	PRP$	_	4	poss
+4	recipe	recipe	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	Cuban	cuban	JJ	_	8	amod
+8	lady	lady	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

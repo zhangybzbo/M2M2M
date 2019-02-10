@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	friend	friend	NN	_	4	nsubj
+3	had	have	VBD	_	4	aux
+4	given	give	VBN	_	0	ROOT
+5	her	she	PRP$	_	7	poss
+6	purple	purple	JJ	_	7	amod
+7	scraps	scrap	NNS	_	4	dobj
+8	from	from	IN	_	4	prep
+9	a	a	DT	_	11	det
+10	clothing	clothing	NN	_	11	nn
+11	factory	factory	NN	_	8	pobj
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	nearby	nearby	JJ	_	15	amod
+15	town	town	NN	_	12	pobj
+16	.	.	.	_	4	punct
+

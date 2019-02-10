@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	laptop	laptop	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	protective	protective	JJ	_	8	amod
+7	plastic	plastic	NN	_	8	nn
+8	bag	bag	NN	_	4	pobj
+9	made	make	VBN	_	8	vmod
+10	from	from	IN	_	9	prep
+11	LDPE	LDPE	NNP	_	12	nn
+12	number	number	NN	_	10	pobj
+13	4	4	CD	_	12	num
+14	,	,	,	_	12	punct
+15	which	which	WDT	_	19	nsubjpass
+16	can	can	MD	_	19	aux
+17	be	be	VB	_	19	auxpass
+18	easily	easily	RB	_	19	advmod
+19	recycled	recycle	VBN	_	12	rcmod
+20	.	.	.	_	3	punct
+

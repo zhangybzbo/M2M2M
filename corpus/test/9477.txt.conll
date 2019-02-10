@@ -1,0 +1,27 @@
+1	Marking	mark	VBG	_	14	csubj
+2	birds	bird	NNS	_	1	dobj
+3	with	with	IN	_	1	prep
+4	color	color	NN	_	5	nn
+5	bands	band	NNS	_	3	pobj
+6	and	and	CC	_	5	cc
+7	a	a	DT	_	9	det
+8	U.S.	U.S.	NNP	_	9	nn
+9	Fish	fish	NN	_	5	conj
+10	and	and	CC	_	9	cc
+11	Wildlife	Wildlife	NNP	_	12	nn
+12	Service	Service	NNP	_	9	conj
+13	uniquely	uniquely	RB	_	14	advmod
+14	numbered	number	VBD	_	0	ROOT
+15	metal	metal	NN	_	16	nn
+16	band	band	NN	_	14	dobj
+17	enables	enable	VBZ	_	14	vmod
+18	researchers	researcher	NNS	_	17	dobj
+19	to	to	TO	_	20	aux
+20	follow	follow	VB	_	17	xcomp
+21	individuals	individual	NNS	_	20	dobj
+22	from	from	IN	_	20	prep
+23	year	year	NN	_	22	pobj
+24	to	to	TO	_	20	prep
+25	year	year	NN	_	24	pobj
+26	.	.	.	_	14	punct
+

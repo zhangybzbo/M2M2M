@@ -1,0 +1,20 @@
+1	Before	before	IN	_	11	prep
+2	introducing	introduce	VBG	_	1	pcomp
+3	Via	Via	NNP	_	2	dobj
+4	in	in	IN	_	2	prep
+5	three	three	CD	_	7	num
+6	test	test	NN	_	7	nn
+7	markets	market	NNS	_	4	pobj
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	company	company	NN	_	11	nsubj
+11	told	tell	VBD	_	0	ROOT
+12	employees	employee	NNS	_	11	iobj
+13	an	a	DT	_	15	det
+14	elaborate	elaborate	JJ	_	15	amod
+15	story	story	NN	_	11	dobj
+16	about	about	IN	_	15	prep
+17	its	its	PRP$	_	18	poss
+18	creation	creation	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

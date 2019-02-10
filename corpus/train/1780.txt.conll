@@ -1,0 +1,23 @@
+1	Glaucoma	glaucoma	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	leading	lead	VBG	_	7	amod
+7	causes	cause	NNS	_	4	pobj
+8	for	for	IN	_	7	prep
+9	blindness	blindness	NN	_	8	pobj
+10	and	and	CC	_	3	cc
+11	currently	currently	RB	_	15	advmod
+12	about	about	IN	_	14	quantmod
+13	90	90	CD	_	14	number
+14	million	million	CD	_	15	num
+15	patients	patient	NNS	_	18	nsubjpass
+16	worldwide	worldwide	RB	_	15	advmod
+17	are	be	VBP	_	18	auxpass
+18	affected	affect	VBN	_	3	conj
+19	by	by	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	disease	disease	NN	_	19	pobj
+22	.	.	.	_	3	punct
+

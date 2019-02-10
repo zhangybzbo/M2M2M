@@ -1,0 +1,1 @@
+Often users have dragged MIDI clips into Audio tracks .

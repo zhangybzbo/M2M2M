@@ -1,0 +1,24 @@
+1	Acne	acne	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	oily	oily	NN	_	6	nn
+6	skin	skin	NN	_	4	pobj
+7	and	and	CC	_	3	cc
+8	often	often	RB	_	9	advmod
+9	has	have	VBZ	_	3	conj
+10	black	black	JJ	_	9	dobj
+11	or	or	CC	_	10	cc
+12	whiteheads	whitehead	NNS	_	10	conj
+13	,	,	,	_	10	punct
+14	inflamed	inflamed	JJ	_	15	amod
+15	sores	sore	NNS	_	10	conj
+16	,	,	,	_	10	punct
+17	and	and	CC	_	10	cc
+18	infected	infected	JJ	_	19	amod
+19	sores	sore	NNS	_	10	conj
+20	along	along	IN	_	19	prep
+21	with	with	IN	_	20	pcomp
+22	scars	scar	NNS	_	21	pobj
+23	.	.	.	_	3	punct
+

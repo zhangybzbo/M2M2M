@@ -1,0 +1,18 @@
+1	Approximately	approximately	RB	_	2	quantmod
+2	1,000	1,000	CD	_	4	num
+3	farm	farm	NN	_	4	nn
+4	animals	animal	NNS	_	5	nsubj
+5	receive	receive	VBP	_	0	ROOT
+6	health	health	NN	_	9	nn
+7	and	and	CC	_	6	cc
+8	medical	medical	JJ	_	6	conj
+9	care	care	NN	_	5	dobj
+10	each	each	DT	_	11	det
+11	year	year	NN	_	5	tmod
+12	in	in	IN	_	5	prep
+13	our	we	PRP$	_	16	poss
+14	Farm	farm	NN	_	16	nn
+15	Animal	Animal	NNP	_	16	nn
+16	Hospital	Hospital	NNP	_	12	pobj
+17	.	.	.	_	5	punct
+

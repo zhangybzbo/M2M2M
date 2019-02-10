@@ -1,0 +1,15 @@
+1	Toxoplasmosis	Toxoplasmosis	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	infection	infection	NN	_	4	pobj
+6	with	with	IN	_	5	prep
+7	Toxoplasma	Toxoplasma	NNP	_	8	nn
+8	gondii	gondius	NN	_	6	pobj
+9	,	,	,	_	8	punct
+10	an	a	DT	_	13	det
+11	obligate	obligate	JJ	_	13	amod
+12	intracellular	intracellular	JJ	_	13	amod
+13	parasite	parasite	NN	_	8	appos
+14	.	.	.	_	3	punct
+

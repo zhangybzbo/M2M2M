@@ -1,0 +1,13 @@
+1	Worker	worker	NN	_	2	nn
+2	bees	bee	NNS	_	6	nsubj
+3	eating	eat	VBG	_	2	vmod
+4	ordinary	ordinary	JJ	_	5	amod
+5	honey	honey	NN	_	3	dobj
+6	live	live	VBP	_	0	ROOT
+7	only	only	RB	_	10	quantmod
+8	four	four	CD	_	10	number
+9	to	to	TO	_	10	dep
+10	six	six	CD	_	11	num
+11	weeks	week	NNS	_	6	dobj
+12	.	.	.	_	6	punct
+

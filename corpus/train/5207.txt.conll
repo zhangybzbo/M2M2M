@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	watched	watch	VBD	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	utter	utter	JJ	_	5	amod
+5	amazement	amazement	NN	_	3	pobj
+6	as	as	IN	_	9	mark
+7	the	the	DT	_	8	det
+8	upholsterer	upholsterer	NN	_	9	nsubj
+9	attached	attach	VBD	_	5	advcl
+10	the	the	DT	_	11	det
+11	pieces	piece	NNS	_	9	dobj
+12	with	with	IN	_	9	prep
+13	a	a	DT	_	15	det
+14	hook-and-eye	hook-and-eye	JJ	_	15	amod
+15	gizmo	gizmo	NN	_	12	pobj
+16	.	.	.	_	2	punct
+

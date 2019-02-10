@@ -1,0 +1,15 @@
+1	Before	before	IN	_	3	mark
+2	databases	database	NNS	_	3	nsubj
+3	appeared	appear	VBD	_	11	advcl
+4	,	,	,	_	11	punct
+5	the	the	DT	_	6	det
+6	information	information	NN	_	11	nsubjpass
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	computers	computer	NNS	_	7	pobj
+10	was	be	VBD	_	11	auxpass
+11	stored	store	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	files	file	NNS	_	12	pobj
+14	.	.	.	_	11	punct
+

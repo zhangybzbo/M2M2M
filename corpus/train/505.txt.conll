@@ -1,0 +1,25 @@
+1	While	while	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	job	job	NN	_	5	nsubj
+4	was	be	VBD	_	5	cop
+5	good	good	JJ	_	19	advcl
+6	,	,	,	_	19	punct
+7	Ahmed	Ahmed	NNP	_	10	poss
+8	's	's	POS	_	7	possessive
+9	daily	daily	JJ	_	10	amod
+10	exposure	exposure	NN	_	19	nsubj
+11	to	to	TO	_	10	prep
+12	the	the	DT	_	13	det
+13	troupe	troupe	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	circus	circus	NN	_	16	nn
+16	performers	performer	NNS	_	14	pobj
+17	and	and	CC	_	16	cc
+18	artists	artist	NNS	_	16	conj
+19	continued	continue	VBD	_	0	ROOT
+20	to	to	TO	_	21	aux
+21	pique	pique	VB	_	19	xcomp
+22	his	he	PRP$	_	23	poss
+23	interest	interest	NN	_	21	dobj
+24	.	.	.	_	19	punct
+

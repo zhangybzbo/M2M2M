@@ -1,0 +1,20 @@
+1	At	at	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	end	end	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	long	long	JJ	_	7	amod
+7	day	day	NN	_	4	pobj
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	teacher	teacher	NN	_	11	nsubj
+11	relaxed	relax	VBN	_	0	ROOT
+12	with	with	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	short	short	JJ	_	15	amod
+15	nap	nap	NN	_	12	pobj
+16	on	on	IN	_	15	prep
+17	her	she	PRP$	_	18	poss
+18	sofa	sofa	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

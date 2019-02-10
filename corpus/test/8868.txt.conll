@@ -1,0 +1,22 @@
+1	As	as	IN	_	6	prep
+2	of	of	IN	_	1	pcomp
+3	2010	2010	CD	_	5	num
+4	the	the	DT	_	5	det
+5	farm	farm	NN	_	2	pobj
+6	has	have	VBZ	_	0	ROOT
+7	two	two	CD	_	9	num
+8	large	large	JJ	_	9	amod
+9	greenhouses	greenhouse	NNS	_	6	dobj
+10	and	and	CC	_	9	cc
+11	one	one	CD	_	13	num
+12	field	field	NN	_	13	nn
+13	tunnel	tunnel	NN	_	9	conj
+14	and	and	CC	_	9	cc
+15	cultivates	cultivate	VBZ	_	9	conj
+16	about	about	IN	_	17	quantmod
+17	6	6	CD	_	18	num
+18	acres	acre	NNS	_	15	dobj
+19	of	of	IN	_	18	prep
+20	vegetables	vegetable	NNS	_	19	pobj
+21	.	.	.	_	6	punct
+

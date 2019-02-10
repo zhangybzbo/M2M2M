@@ -1,0 +1,11 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	donated	donate	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	books	book	NNS	_	3	dobj
+6	to	to	TO	_	3	prep
+7	the	the	DT	_	9	det
+8	local	local	JJ	_	9	amod
+9	library	library	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

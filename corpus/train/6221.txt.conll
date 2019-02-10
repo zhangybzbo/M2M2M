@@ -1,0 +1,20 @@
+1	Once	once	RB	_	2	advmod
+2	outside	outside	RB	_	7	advmod
+3	,	,	,	_	7	punct
+4	the	the	DT	_	5	det
+5	python	python	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	placed	place	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	bag	bag	NN	_	8	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	put	put	VBN	_	10	rcmod
+15	inside	inside	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	dog	dog	NN	_	18	nn
+18	crate	crate	NN	_	15	pobj
+19	.	.	.	_	7	punct
+

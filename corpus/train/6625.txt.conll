@@ -1,0 +1,18 @@
+1	Given	give	VBN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	factory	factory	NN	_	6	poss
+4	's	's	POS	_	3	possessive
+5	primary	primary	JJ	_	6	amod
+6	product	product	NN	_	8	nsubj
+7	is	be	VBZ	_	8	cop
+8	condoms	condom	NNS	_	1	dep
+9	,	,	,	_	8	punct
+10	the	the	DT	_	12	det
+11	gay	gay	JJ	_	12	amod
+12	community	community	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	support	support	NN	_	16	nsubj
+15	is	be	VBZ	_	16	cop
+16	essential	essential	JJ	_	8	rcmod
+17	.	.	.	_	1	punct
+

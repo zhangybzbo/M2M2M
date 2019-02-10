@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	suspect	suspect	JJ	_	3	nsubj
+3	threw	throw	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	firebomb	firebomb	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	9	det
+8	church	church	NN	_	9	nn
+9	lot	lot	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

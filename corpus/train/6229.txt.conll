@@ -1,0 +1,21 @@
+1	Light	light	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	composed	compose	VBN	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	corpuscles	corpuscle	NNS	_	4	pobj
+6	-LRB-	-lrb-	-LRB-	_	7	punct
+7	particles	particle	NNS	_	5	dep
+8	of	of	IN	_	7	prep
+9	matter	matter	NN	_	8	pobj
+10	-RRB-	-rrb-	-RRB-	_	7	punct
+11	which	which	WDT	_	13	nsubjpass
+12	were	be	VBD	_	13	auxpass
+13	emitted	emit	VBN	_	5	rcmod
+14	in	in	IN	_	13	prep
+15	all	all	DT	_	16	det
+16	directions	direction	NNS	_	14	pobj
+17	from	from	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	source	source	NN	_	17	pobj
+20	.	.	.	_	3	punct
+

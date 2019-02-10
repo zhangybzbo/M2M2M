@@ -1,0 +1,19 @@
+1	They	they	PRP	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	prestige	prestige	NN	_	4	nn
+4	ratings	rating	NNS	_	2	dobj
+5	obtained	obtain	VBN	_	4	vmod
+6	from	from	IN	_	5	prep
+7	academic	academic	JJ	_	8	amod
+8	deans	dean	NNS	_	6	pobj
+9	,	,	,	_	2	punct
+10	recruiters	recruiter	NNS	_	2	conj
+11	at	at	IN	_	10	prep
+12	firms	firm	NNS	_	11	pobj
+13	,	,	,	_	2	punct
+14	and	and	CC	_	2	cc
+15	prospective	prospective	JJ	_	17	amod
+16	MBA	MBA	NNP	_	17	nn
+17	candidates	candidate	NNS	_	2	conj
+18	.	.	.	_	2	punct
+

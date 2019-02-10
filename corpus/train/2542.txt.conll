@@ -1,0 +1,25 @@
+1	This	this	DT	_	4	det
+2	air	air	NN	_	4	nn
+3	conditioning	conditioning	NN	_	4	nn
+4	system	system	NN	_	5	nsubj
+5	contains	contain	VBZ	_	0	ROOT
+6	refrigerant	refrigerant	NN	_	5	dobj
+7	under	under	IN	_	6	prep
+8	pressure	pressure	NN	_	7	pobj
+9	,	,	,	_	5	punct
+10	rotating	rotate	VBG	_	5	vmod
+11	parts	part	NNS	_	10	dobj
+12	and	and	CC	_	11	cc
+13	electrical	electrical	JJ	_	14	amod
+14	connections	connection	NNS	_	11	conj
+15	which	which	WDT	_	18	nsubj
+16	may	may	MD	_	18	aux
+17	be	be	VB	_	18	cop
+18	dangerous	dangerous	JJ	_	11	rcmod
+19	and	and	CC	_	18	cc
+20	could	could	MD	_	21	aux
+21	cause	cause	VB	_	18	conj
+22	serious	serious	JJ	_	23	amod
+23	injury	injury	NN	_	21	dobj
+24	.	.	.	_	5	punct
+

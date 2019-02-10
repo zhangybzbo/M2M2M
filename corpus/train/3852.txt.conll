@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	collaborative	collaborative	JJ	_	3	amod
+3	effort	effort	NN	_	4	nsubj
+4	helped	help	VBD	_	0	ROOT
+5	SA	SA	NNP	_	18	nsubj
+6	and	and	CC	_	5	cc
+7	its	its	PRP$	_	10	poss
+8	associate	associate	JJ	_	10	amod
+9	group	group	NN	_	10	nn
+10	Baandhani	Baandhani	NNP	_	5	conj
+11	,	,	,	_	10	punct
+12	a	a	DT	_	13	det
+13	federation	federation	NN	_	10	appos
+14	of	of	IN	_	13	prep
+15	slum	slum	NN	_	16	nn
+16	dwellers	dweller	NNS	_	14	pobj
+17	,	,	,	_	5	punct
+18	build	build	VB	_	4	ccomp
+19	strong	strong	JJ	_	20	amod
+20	relationships	relationship	NNS	_	18	dobj
+21	with	with	IN	_	18	prep
+22	the	the	DT	_	24	det
+23	local	local	JJ	_	24	amod
+24	government	government	NN	_	21	pobj
+25	.	.	.	_	4	punct
+

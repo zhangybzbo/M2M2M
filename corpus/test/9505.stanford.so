@@ -1,0 +1,10 @@
+0	39	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="rumor" pos="NNS" nsubjpass="t3"
+7	11	tok id="t1" base="have" pos="VBP" aux="t3"
+12	16	tok id="t2" base="be" pos="VBN" auxpass="t3"
+17	23	tok id="t3" base="leak" pos="VBN" ROOT="ROOT"
+24	26	tok id="t4" base="to" pos="TO" prep="t3"
+27	30	tok id="t5" base="the" pos="DT" det="t6"
+31	37	tok id="t6" base="public" pos="NN" pobj="t4"
+38	39	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj
+2	bought	buy	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	whole	whole	JJ	_	5	amod
+5	cartload	cartload	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	groceries	grocery	NNS	_	6	pobj
+8	,	,	,	_	2	punct
+9	and	and	CC	_	2	cc
+10	spent	spend	VBD	_	2	conj
+11	a	a	DT	_	12	det
+12	fraction	fraction	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	what	what	WP	_	13	pobj
+15	I	I	PRP	_	14	nsubj
+16	would	would	MD	_	15	vmod
+17	at	at	IN	_	16	prep
+18	any	any	DT	_	21	det
+19	regular	regular	JJ	_	21	amod
+20	grocery	grocery	NN	_	21	nn
+21	store	store	NN	_	17	pobj
+22	.	.	.	_	2	punct
+

@@ -1,0 +1,26 @@
+1	He	he	PRP	_	3	nsubj
+2	had	have	VBD	_	3	aux
+3	attended	attend	VBN	_	0	ROOT
+4	Vollenhoven	Vollenhoven	NNP	_	6	nsubj
+5	's	's	POS	_	4	possessive
+6	lectures	lecture	VBZ	_	3	dep
+7	and	and	CC	_	6	cc
+8	read	read	VB	_	6	conj
+9	the	the	DT	_	10	det
+10	philosopher	philosopher	NN	_	12	poss
+11	's	's	POS	_	10	possessive
+12	books	book	NNS	_	6	dobj
+13	,	,	,	_	6	punct
+14	much	much	RB	_	17	advmod
+15	of	of	IN	_	14	prep
+16	them	they	PRP	_	15	pobj
+17	available	available	JJ	_	6	dep
+18	for	for	IN	_	17	prep
+19	years	year	NNS	_	18	pobj
+20	in	in	IN	_	19	prep
+21	mimeo	mimeo	NN	_	22	nn
+22	editions	edition	NNS	_	20	pobj
+23	in	in	IN	_	22	prep
+24	Dutch	Dutch	NNP	_	23	pobj
+25	.	.	.	_	3	punct
+

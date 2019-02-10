@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	latter	latter	JJ	_	3	amod
+3	course	course	NN	_	4	nsubj
+4	explained	explain	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	biological	biological	JJ	_	7	amod
+7	phenomena	phenomenon	NNS	_	4	dobj
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	mathematical	mathematical	JJ	_	11	amod
+11	way	way	NN	_	8	pobj
+12	.	.	.	_	4	punct
+

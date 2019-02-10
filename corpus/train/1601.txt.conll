@@ -1,0 +1,12 @@
+1	China	China	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	feed	feed	NN	_	4	nn
+4	industry	industry	NN	_	6	nsubj
+5	has	have	VBZ	_	6	aux
+6	entered	enter	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	its	its	PRP$	_	10	poss
+9	mature	mature	JJ	_	10	amod
+10	period	period	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

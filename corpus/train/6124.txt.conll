@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det
+2	most	most	RBS	_	3	advmod
+3	specific	specific	JJ	_	4	amod
+4	prophecies	prophecy	NNS	_	5	nsubj
+5	are	be	VBP	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	topic	topic	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	rise	rise	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	fall	fall	NN	_	11	conj
+14	of	of	IN	_	11	prep
+15	leaders	leader	NNS	_	14	pobj
+16	and	and	CC	_	15	cc
+17	organizations	organization	NNS	_	15	conj
+18	.	.	.	_	5	punct
+

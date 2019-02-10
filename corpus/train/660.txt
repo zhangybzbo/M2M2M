@@ -1,0 +1,1 @@
+The flip-flop is a basic element of the sequential circuit and there are various structures even for the same type .

@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj
+2	repositioned	reposition	VBD	_	0	ROOT
+3	ourselves	ourselves	PRP	_	2	dobj
+4	and	and	CC	_	3	cc
+5	our	we	PRP$	_	6	poss
+6	events	event	NNS	_	3	conj
+7	,	,	,	_	2	punct
+8	thus	thus	RB	_	9	advmod
+9	attracting	attract	VBG	_	2	vmod
+10	scientists	scientist	NNS	_	9	dobj
+11	from	from	IN	_	9	prep
+12	complementary	complementary	JJ	_	13	amod
+13	disciplines	discipline	NNS	_	11	pobj
+14	.	.	.	_	2	punct
+

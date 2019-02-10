@@ -1,0 +1,18 @@
+1	His	he	PRP$	_	3	poss
+2	new	new	JJ	_	3	amod
+3	research	research	NN	_	4	nsubj
+4	shows	show	VBZ	_	0	ROOT
+5	that	that	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	tree	tree	NN	_	8	nn
+8	trunks	trunk	NNS	_	5	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	forest	forest	NN	_	12	nn
+12	act	act	NN	_	9	pobj
+13	like	like	IN	_	12	prep
+14	hot	hot	JJ	_	16	amod
+15	water	water	NN	_	16	nn
+16	bottles	bottle	NNS	_	13	pobj
+17	.	.	.	_	4	punct
+

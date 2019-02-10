@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	sculpture	sculpture	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	considered	consider	VBN	_	0	ROOT
+5	among	among	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	artist	artist	NN	_	11	poss
+8	's	's	POS	_	7	possessive
+9	most	most	RBS	_	10	advmod
+10	restrained	restrained	JJ	_	11	amod
+11	creations	creation	NNS	_	5	pobj
+12	.	.	.	_	4	punct
+

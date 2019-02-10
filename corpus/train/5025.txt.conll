@@ -1,0 +1,11 @@
+1	Naturally	naturally	RB	_	4	advmod
+2	the	the	DT	_	4	det
+3	exhibition	exhibition	NN	_	4	nn
+4	studies	study	NNS	_	0	ROOT
+5	the	the	DT	_	7	det
+6	modern	modern	JJ	_	7	amod
+7	techniques	technique	NNS	_	4	dep
+8	of	of	IN	_	7	prep
+9	communication	communication	NN	_	8	pobj
+10	.	.	.	_	4	punct
+

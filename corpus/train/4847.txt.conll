@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	det
+2	page	page	NN	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	you	you	PRP	_	3	dobj
+5	how	how	WRB	_	7	advmod
+6	to	to	TO	_	7	aux
+7	hold	hold	VB	_	3	ccomp
+8	your	you	PRP$	_	9	poss
+9	fingers	finger	NNS	_	7	dobj
+10	and	and	CC	_	9	cc
+11	hands	hand	NNS	_	9	conj
+12	correctly	correctly	RB	_	7	advmod
+13	,	,	,	_	7	punct
+14	and	and	CC	_	7	cc
+15	addresses	address	NNS	_	7	conj
+16	the	the	DT	_	19	det
+17	most	most	RBS	_	18	advmod
+18	common	common	JJ	_	19	amod
+19	problems	problem	NNS	_	15	dobj
+20	.	.	.	_	3	punct
+

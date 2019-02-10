@@ -1,0 +1,10 @@
+1	Now	now	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	this	this	DT	_	4	det
+4	reservoir	reservoir	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	put	put	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	operation	operation	NN	_	7	pobj
+9	.	.	.	_	6	punct
+

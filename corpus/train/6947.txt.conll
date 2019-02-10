@@ -1,0 +1,21 @@
+1	Just	just	RB	_	2	advmod
+2	then	then	RB	_	9	advmod
+3	a	a	DT	_	5	det
+4	camel	camel	NN	_	5	nn
+5	caravan	caravan	NN	_	9	nsubj
+6	of	of	IN	_	5	prep
+7	Ishmaelite	ishmaelite	NN	_	8	nn
+8	merchants	merchant	NNS	_	6	pobj
+9	came	come	VBD	_	0	ROOT
+10	passing	pass	VBG	_	9	xcomp
+11	by	by	IN	_	10	prep
+12	,	,	,	_	11	punct
+13	on	on	IN	_	11	prep
+14	their	they	PRP$	_	15	poss
+15	way	way	NN	_	13	pobj
+16	to	to	TO	_	17	aux
+17	trade	trade	VB	_	15	vmod
+18	in	in	IN	_	17	prep
+19	Egypt	Egypt	NNP	_	18	pobj
+20	.	.	.	_	9	punct
+

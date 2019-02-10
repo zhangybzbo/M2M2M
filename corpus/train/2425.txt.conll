@@ -1,0 +1,18 @@
+1	Four	four	CD	_	2	num
+2	hours	hour	NNS	_	3	npadvmod
+3	earlier	earlier	RBR	_	7	advmod
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	electrician	electrician	NN	_	7	nsubj
+7	injured	injure	VBN	_	0	ROOT
+8	his	he	PRP$	_	9	poss
+9	eye	eye	NN	_	7	dobj
+10	with	with	IN	_	7	prep
+11	the	the	DT	_	13	det
+12	blunt	blunt	JJ	_	13	amod
+13	end	end	NN	_	10	pobj
+14	of	of	IN	_	13	prep
+15	a	a	DT	_	16	det
+16	screwdriver	screwdriver	NN	_	14	pobj
+17	.	.	.	_	7	punct
+

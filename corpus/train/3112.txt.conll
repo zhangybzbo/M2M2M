@@ -1,0 +1,20 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	easier	easier	JJR	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	push	push	VB	_	3	xcomp
+6	the	the	DT	_	7	det
+7	blade	blade	NN	_	5	dobj
+8	through	through	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	soil	soil	NN	_	8	pobj
+11	and	and	CC	_	3	cc
+12	is	be	VBZ	_	13	cop
+13	easier	easier	JJR	_	3	conj
+14	on	on	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	gardener	gardener	NN	_	18	poss
+17	's	's	POS	_	16	possessive
+18	footwear	footwear	NN	_	14	pobj
+19	.	.	.	_	3	punct
+

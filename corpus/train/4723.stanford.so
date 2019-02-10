@@ -1,0 +1,10 @@
+0	45	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="Icen" pos="NNP" nsubj="t1"
+5	11	tok id="t1" base="yell" pos="VBD" ROOT="ROOT"
+12	14	tok id="t2" base="to" pos="TO" prep="t1"
+15	18	tok id="t3" base="he" pos="PRP$" poss="t4"
+19	28	tok id="t4" base="battalion" pos="NN" pobj="t2"
+29	31	tok id="t5" base="of" pos="IN" prep="t4"
+32	43	tok id="t6" base="crossbowman" pos="NNS" pobj="t5"
+44	45	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

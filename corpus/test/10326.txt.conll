@@ -1,0 +1,12 @@
+1	Such	such	JJ	_	2	amod
+2	tools	tool	NNS	_	3	nsubj
+3	sped	speed	VBD	_	0	ROOT
+4	up	up	RP	_	3	prt
+5	the	the	DT	_	8	det
+6	drug	drug	NN	_	8	nn
+7	development	development	NN	_	8	nn
+8	process	process	NN	_	3	dobj
+9	by	by	IN	_	3	prep
+10	years	year	NNS	_	9	pobj
+11	.	.	.	_	3	punct
+

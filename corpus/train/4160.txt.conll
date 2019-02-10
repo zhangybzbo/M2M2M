@@ -1,0 +1,17 @@
+1	Unlike	unlike	IN	_	7	prep
+2	modern	modern	JJ	_	3	amod
+3	tunnels	tunnel	NNS	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	brothers	brother	NNS	_	7	nsubj
+7	placed	place	VBD	_	0	ROOT
+8	their	they	PRP$	_	9	poss
+9	fan	fan	NN	_	7	dobj
+10	at	at	IN	_	7	prep
+11	the	the	DT	_	12	det
+12	entrance	entrance	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	tunnel	tunnel	NN	_	13	pobj
+16	.	.	.	_	7	punct
+

@@ -1,0 +1,1 @@
+Many simple DC power supplies regulate the voltage using a shunt regulator such as a zener diode .

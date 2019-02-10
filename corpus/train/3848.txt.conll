@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj
+2	hold	hold	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	stocks	stock	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	an	a	DT	_	9	det
+7	individual	individual	JJ	_	9	amod
+8	retirement	retirement	NN	_	9	nn
+9	account	account	NN	_	5	pobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,23 @@
+1	Deeply	deeply	RB	_	2	advmod
+2	chauvinistic	chauvinistic	JJ	_	7	ccomp
+3	,	,	,	_	7	punct
+4	the	the	DT	_	5	det
+5	movement	movement	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	rooted	root	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	an	a	DT	_	11	det
+10	atavistic	atavistic	JJ	_	11	amod
+11	sense	sense	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	Indian	indian	JJ	_	14	amod
+14	identity	identity	NN	_	12	pobj
+15	that	that	WDT	_	16	nsubj
+16	harks	hark	VBZ	_	11	rcmod
+17	back	back	RB	_	16	advmod
+18	to	to	TO	_	16	prep
+19	a	a	DT	_	21	det
+20	mystical	mystical	JJ	_	21	amod
+21	time	time	NN	_	18	pobj
+22	.	.	.	_	7	punct
+

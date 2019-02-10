@@ -1,0 +1,9 @@
+1	Three	three	CD	_	2	num
+2	houses	house	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	handed	hand	VBN	_	0	ROOT
+5	over	over	RP	_	4	prt
+6	to	to	TO	_	4	prep
+7	beneficiaries	beneficiary	NNS	_	6	pobj
+8	.	.	.	_	4	punct
+

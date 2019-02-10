@@ -1,0 +1,9 @@
+0	41	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Modern" pos="NNP" nn="t1"
+7	14	tok id="t1" base="pioneer" pos="NN" nsubj="t2"
+15	21	tok id="t2" base="build" pos="VBZ" ROOT="ROOT"
+22	26	tok id="t3" base="home" pos="NN" dobj="t2"
+27	31	tok id="t4" base="from" pos="IN" prep="t2"
+32	39	tok id="t5" base="scratch" pos="NN" pobj="t4"
+40	41	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

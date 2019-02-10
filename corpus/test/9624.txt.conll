@@ -1,0 +1,23 @@
+1	Stress	stress	NN	_	6	nn
+2	and	and	CC	_	1	cc
+3	anxiety	anxiety	NN	_	1	conj
+4	trigger	trigger	NN	_	6	nn
+5	panic	panic	NN	_	6	nn
+6	attacks	attack	NNS	_	0	ROOT
+7	,	,	,	_	6	punct
+8	however	however	RB	_	12	advmod
+9	healthy	healthy	JJ	_	10	amod
+10	people	people	NNS	_	12	nsubj
+11	may	may	MD	_	12	aux
+12	experience	experience	VB	_	6	dep
+13	panic	panic	NN	_	14	nn
+14	attacks	attack	NNS	_	12	dobj
+15	,	,	,	_	12	punct
+16	but	but	CC	_	12	cc
+17	they	they	PRP	_	19	nsubj
+18	are	be	VBP	_	19	cop
+19	no	no	DT	_	12	conj
+20	that	that	WDT	_	21	nsubj
+21	common	common	JJ	_	19	rcmod
+22	.	.	.	_	6	punct
+

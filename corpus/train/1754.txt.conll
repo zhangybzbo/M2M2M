@@ -1,0 +1,19 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	a	a	DT	_	6	det
+4	few	few	JJ	_	6	amod
+5	simple	simple	JJ	_	6	amod
+6	steps	step	NNS	_	2	nsubj
+7	you	you	PRP	_	8	nsubj
+8	take	take	VBP	_	6	rcmod
+9	to	to	TO	_	10	aux
+10	ensure	ensure	VB	_	8	xcomp
+11	you	you	PRP	_	13	nsubj
+12	have	have	VBP	_	13	aux
+13	selected	select	VBN	_	10	ccomp
+14	the	the	DT	_	17	det
+15	correct	correct	JJ	_	17	amod
+16	landscape	landscape	NN	_	17	nn
+17	company	company	NN	_	13	dobj
+18	.	.	.	_	2	punct
+

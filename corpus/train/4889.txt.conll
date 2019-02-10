@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	defendant	defendant	NN	_	3	nsubj
+3	battered	batter	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	victim	victim	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	11	det
+8	standard	standard	JJ	_	11	amod
+9	weighted	weighted	JJ	_	11	amod
+10	workout	workout	NN	_	11	nn
+11	glove	glove	NN	_	6	pobj
+12	containing	contain	VBG	_	11	vmod
+13	sand	sand	NN	_	12	dobj
+14	in	in	IN	_	12	prep
+15	the	the	DT	_	17	det
+16	palm	palm	NN	_	17	nn
+17	area	area	NN	_	14	pobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="detainee" pos="NN" nsubj="t2"
+13	21	tok id="t2" base="travel" pos="VBD" ROOT="ROOT"
+22	24	tok id="t3" base="to" pos="TO" prep="t2"
+25	36	tok id="t4" base="Afghanistan" pos="NNP" pobj="t3"
+37	39	tok id="t5" base="on" pos="IN" prep="t2"
+40	41	tok id="t6" base="a" pos="DT" det="t8"
+42	48	tok id="t7" base="forge" pos="VBN" amod="t8"
+49	57	tok id="t8" base="passport" pos="NN" pobj="t5"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

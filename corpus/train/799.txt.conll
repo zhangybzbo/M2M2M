@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det
+2	mechanic	mechanic	JJ	_	3	nsubj
+3	attaches	attach	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	socket	socket	NN	_	6	nn
+6	wrench	wrench	NN	_	3	dobj
+7	to	to	TO	_	3	prep
+8	a	a	DT	_	9	det
+9	bolt	bolt	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

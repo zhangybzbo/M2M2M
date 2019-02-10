@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det
+2	fable	fable	NN	_	3	nsubj
+3	illustrates	illustrate	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	force	force	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	jealousy	jealousy	NN	_	6	pobj
+8	between	between	IN	_	7	prep
+9	married	married	JJ	_	10	amod
+10	people	people	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	Plantar	plantar	JJ	_	2	amod
+2	warts	wart	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	virus	virus	NN	_	5	pobj
+8	that	that	WDT	_	9	nsubj
+9	infects	infect	VBZ	_	7	rcmod
+10	the	the	DT	_	12	det
+11	outer	outer	JJ	_	12	amod
+12	layer	layer	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	skin	skin	NN	_	13	pobj
+15	on	on	IN	_	9	prep
+16	the	the	DT	_	17	det
+17	soles	sole	NNS	_	15	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	feet	foot	NNS	_	18	pobj
+21	.	.	.	_	4	punct
+

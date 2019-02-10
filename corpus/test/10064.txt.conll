@@ -1,0 +1,27 @@
+1	In	in	IN	_	7	prep
+2	Sri	Sri	NNP	_	3	nn
+3	Lanka	Lanka	NNP	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	tsunami	tsunami	NN	_	7	nsubj
+7	resulted	result	VBD	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	31187	31187	CD	_	10	num
+10	deaths	death	NNS	_	8	pobj
+11	,	,	,	_	10	punct
+12	4280	4280	CD	_	14	num
+13	missing	missing	JJ	_	14	amod
+14	people	people	NNS	_	10	conj
+15	,	,	,	_	10	punct
+16	23189	23189	CD	_	18	num
+17	injured	injured	JJ	_	18	amod
+18	people	people	NNS	_	10	conj
+19	,	,	,	_	10	punct
+20	and	and	CC	_	10	cc
+21	the	the	DT	_	22	det
+22	displacement	displacement	NN	_	10	conj
+23	of	of	IN	_	22	prep
+24	545715	545715	CD	_	25	num
+25	people	people	NNS	_	23	pobj
+26	.	.	.	_	7	punct
+

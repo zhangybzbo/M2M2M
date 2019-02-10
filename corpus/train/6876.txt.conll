@@ -1,0 +1,20 @@
+1	So	so	RB	_	3	advmod
+2	Mary	Mary	NNP	_	3	nsubj
+3	found	find	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	pocketknife	pocketknife	NN	_	3	dobj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	compartment	compartment	NN	_	6	pobj
+9	and	and	CC	_	5	cc
+10	a	a	DT	_	11	det
+11	straw	straw	NN	_	17	nsubj
+12	from	from	IN	_	11	prep
+13	her	she	PRP$	_	15	poss
+14	soda	soda	NN	_	15	nn
+15	drink	drink	NN	_	12	pobj
+16	now	now	RB	_	17	advmod
+17	spilled	spill	VBD	_	5	conj
+18	everywhere	everywhere	RB	_	17	advmod
+19	.	.	.	_	3	punct
+

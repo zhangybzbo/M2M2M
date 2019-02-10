@@ -1,0 +1,17 @@
+1	Higher	higher	JJR	_	2	amod
+2	doses	dose	NNS	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	cocaine	cocaine	NN	_	6	nn
+5	cause	cause	NN	_	6	nn
+6	convulsions	convulsion	NNS	_	3	pobj
+7	,	,	,	_	2	punct
+8	severe	severe	JJ	_	11	amod
+9	maternal	maternal	JJ	_	11	amod
+10	weight	weight	NN	_	11	nn
+11	loss	loss	NN	_	2	conj
+12	and	and	CC	_	2	cc
+13	increased	increase	VBD	_	15	amod
+14	maternal	maternal	JJ	_	15	amod
+15	mortality	mortality	NN	_	2	conj
+16	.	.	.	_	2	punct
+

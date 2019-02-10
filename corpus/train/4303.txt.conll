@@ -1,0 +1,20 @@
+1	No	no	DT	_	2	neg
+2	one	one	NN	_	3	nsubj
+3	found	find	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	handcuff	handcuff	NN	_	6	nn
+6	key	key	NN	_	3	dobj
+7	,	,	,	_	6	punct
+8	which	which	WDT	_	10	nsubjpass
+9	was	be	VBD	_	10	auxpass
+10	hidden	hide	VBN	_	6	rcmod
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	small	small	JJ	_	14	amod
+14	pouch	pouch	NN	_	11	pobj
+15	in	in	IN	_	14	prep
+16	his	he	PRP$	_	18	poss
+17	gym	gym	NN	_	18	nn
+18	shorts	shorts	NNS	_	15	pobj
+19	.	.	.	_	3	punct
+

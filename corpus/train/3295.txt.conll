@@ -1,0 +1,17 @@
+1	Paradise	Paradise	NNP	_	2	nn
+2	Coffee	Coffee	NNP	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	one	one	CD	_	5	num
+5	producer	producer	NN	_	0	ROOT
+6	that	that	WDT	_	7	nsubj
+7	offers	offer	VBZ	_	5	rcmod
+8	several	several	JJ	_	9	amod
+9	coffees	coffee	NNS	_	7	dobj
+10	produced	produce	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	different	different	JJ	_	13	amod
+13	species	species	NNS	_	11	pobj
+14	of	of	IN	_	13	prep
+15	beans	bean	NNS	_	14	pobj
+16	.	.	.	_	5	punct
+

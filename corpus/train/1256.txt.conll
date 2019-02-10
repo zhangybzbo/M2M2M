@@ -1,0 +1,17 @@
+1	Myth-making	myth-making	NN	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	major	major	JJ	_	5	amod
+5	theme	theme	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	exhibition	exhibition	NN	_	6	pobj
+9	as	as	IN	_	10	mark
+10	witnessed	witness	VBN	_	5	advcl
+11	in	in	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	massive	massive	JJ	_	15	amod
+14	seven-piece	seven-piece	JJ	_	15	amod
+15	sculpture	sculpture	NN	_	11	pobj
+16	.	.	.	_	5	punct
+

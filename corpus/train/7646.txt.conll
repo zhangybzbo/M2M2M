@@ -1,0 +1,25 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	policeman	policeman	NN	_	4	nsubj
+4	hit	hit	VBD	_	13	csubj
+5	her	she	PRP	_	4	dobj
+6	with	with	IN	_	4	prep
+7	his	he	PRP$	_	8	poss
+8	truncheon	truncheon	NN	_	6	pobj
+9	,	,	,	_	8	punct
+10	another	another	DT	_	12	det
+11	police	police	NN	_	12	nn
+12	officer	officer	NN	_	8	appos
+13	pushed	push	VBD	_	0	ROOT
+14	him	he	PRP	_	13	dobj
+15	away	away	RB	_	13	advmod
+16	from	from	IN	_	15	prep
+17	her	she	PRP$	_	16	pobj
+18	and	and	CC	_	13	cc
+19	shouted	shout	VBD	_	13	conj
+20	for	for	IN	_	19	prep
+21	him	he	PRP	_	20	pobj
+22	to	to	TO	_	23	aux
+23	stop	stop	VB	_	19	xcomp
+24	.	.	.	_	13	punct
+

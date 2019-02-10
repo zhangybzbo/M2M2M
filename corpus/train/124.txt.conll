@@ -1,0 +1,15 @@
+1	One	one	CD	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	trickiest	trickiest	JJS	_	5	amod
+5	questions	question	NNS	_	2	pobj
+6	to	to	TO	_	7	aux
+7	answer	answer	VB	_	5	vmod
+8	in	in	IN	_	7	prep
+9	an	a	DT	_	10	det
+10	interview	interview	NN	_	8	pobj
+11	relates	relate	VBZ	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	salary	salary	NN	_	12	pobj
+14	.	.	.	_	11	punct
+

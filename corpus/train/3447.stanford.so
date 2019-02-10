@@ -1,0 +1,11 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="drug" pos="NNS" nsubj="t2"
+10	15	tok id="t2" base="cause" pos="VBP" ROOT="ROOT"
+16	31	tok id="t3" base="unconsciousness" pos="NN" dobj="t2"
+32	35	tok id="t4" base="and" pos="CC" cc="t3"
+36	43	tok id="t5" base="cardiac" pos="JJ" amod="t6"
+44	50	tok id="t6" base="arrest" pos="NN" conj="t3"
+51	61	tok id="t7" base="separately" pos="RB" advmod="t2"
+62	63	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

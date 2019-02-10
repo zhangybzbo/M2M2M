@@ -1,0 +1,15 @@
+1	After	after	IN	_	0	ROOT
+2	my	my	PRP$	_	3	poss
+3	arrival	arrival	NN	_	1	pobj
+4	a	a	DT	_	5	det
+5	flight	flight	NN	_	11	nsubj
+6	of	of	IN	_	5	prep
+7	seven	seven	CD	_	8	num
+8	Van	Van	NNP	_	10	poss
+9	's	's	POS	_	8	possessive
+10	aircrafts	aircraft	NNS	_	6	pobj
+11	came	come	VBD	_	3	rcmod
+12	in	in	IN	_	11	prep
+13	together	together	RB	_	12	pobj
+14	.	.	.	_	1	punct
+

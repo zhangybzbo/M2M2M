@@ -1,0 +1,16 @@
+1	On	on	IN	_	10	prep
+2	the	the	DT	_	4	det
+3	other	other	JJ	_	4	amod
+4	side	side	NN	_	1	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	grape	grape	NN	_	8	nn
+8	crusher	crusher	NN	_	5	pobj
+9	the	the	DT	_	10	det
+10	stems	stem	VBZ	_	0	ROOT
+11	poured	pour	VBD	_	10	dep
+12	out	out	RP	_	11	prt
+13	into	into	IN	_	11	prep
+14	trays	tray	NNS	_	13	pobj
+15	.	.	.	_	10	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	director	director	NN	_	15	nsubj
+3	,	,	,	_	2	punct
+4	Robert	Robert	NNP	_	5	nn
+5	Connolly	Connolly	NNP	_	2	appos
+6	,	,	,	_	2	punct
+7	who	who	WP	_	8	nsubj
+8	co-wrote	co-write	VBP	_	2	rcmod
+9	the	the	DT	_	10	det
+10	script	script	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	David	David	NNP	_	13	nn
+13	Williamson	Williamson	NNP	_	11	pobj
+14	,	,	,	_	2	punct
+15	assembles	assemble	VBZ	_	0	ROOT
+16	the	the	DT	_	17	det
+17	pieces	piece	NNS	_	15	dobj
+18	with	with	IN	_	15	prep
+19	great	great	JJ	_	21	amod
+20	methodical	methodical	JJ	_	21	amod
+21	logic	logic	NN	_	18	pobj
+22	.	.	.	_	15	punct
+

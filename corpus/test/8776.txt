@@ -1,0 +1,1 @@
+ThinkCascade is a CSS editor that uses a spreadsheet like interface .

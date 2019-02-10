@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	delivers	deliver	VBZ	_	0	ROOT
+4	one	one	CD	_	7	num
+5	more	more	JJR	_	7	amod
+6	hard-charging	hard-charging	JJ	_	7	amod
+7	book	book	NN	_	3	dobj
+8	about	about	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	hellish	hellish	JJ	_	11	amod
+11	demands	demand	NNS	_	8	pobj
+12	of	of	IN	_	11	prep
+13	corporate	corporate	JJ	_	14	amod
+14	law	law	NN	_	12	pobj
+15	with	with	IN	_	11	prep
+16	the	the	DT	_	17	det
+17	help	help	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	22	det
+20	well-used	well-used	JJ	_	22	amod
+21	cookie	cookie	NN	_	22	nn
+22	cutter	cutter	NN	_	18	pobj
+23	.	.	.	_	3	punct
+

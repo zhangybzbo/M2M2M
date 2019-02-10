@@ -1,0 +1,18 @@
+1	Ninety	ninety	CD	_	2	num
+2	percent	percent	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	water	water	NN	_	3	pobj
+6	evaporated	evaporate	VBN	_	5	vmod
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	ocean	ocean	NN	_	7	pobj
+10	falls	fall	VBZ	_	0	ROOT
+11	back	back	RB	_	10	advmod
+12	on	on	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	ocean	ocean	NN	_	12	pobj
+15	as	as	IN	_	10	prep
+16	rain	rain	NN	_	15	pobj
+17	.	.	.	_	10	punct
+

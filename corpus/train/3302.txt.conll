@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	original	original	JJ	_	3	amod
+3	santur	santur	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	tree	tree	NN	_	8	nn
+8	bark	bark	NN	_	6	pobj
+9	,	,	,	_	8	punct
+10	stones	stone	NNS	_	8	conj
+11	and	and	CC	_	8	cc
+12	stringed	stringed	JJ	_	8	conj
+13	with	with	IN	_	12	prep
+14	goat	goat	NN	_	15	nn
+15	intestines	intestine	NNS	_	13	pobj
+16	.	.	.	_	5	punct
+

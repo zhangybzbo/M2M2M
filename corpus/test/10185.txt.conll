@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	money	money	NN	_	8	nsubj
+3	to	to	TO	_	4	aux
+4	buy	buy	VB	_	2	vmod
+5	the	the	DT	_	6	det
+6	properties	property	NNS	_	4	dobj
+7	was	be	VBD	_	8	aux
+8	coming	come	VBG	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	his	he	PRP$	_	12	poss
+11	own	own	JJ	_	12	amod
+12	pocket	pocket	NN	_	9	pobj
+13	and	and	CC	_	8	cc
+14	it	it	PRP	_	16	nsubj
+15	was	be	VBD	_	16	cop
+16	risky	risky	JJ	_	8	conj
+17	for	for	IN	_	16	prep
+18	him	he	PRP	_	17	pobj
+19	.	.	.	_	8	punct
+

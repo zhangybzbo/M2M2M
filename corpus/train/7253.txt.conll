@@ -1,0 +1,24 @@
+1	This	this	DT	_	2	det
+2	program	program	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	an	a	DT	_	6	det
+5	effective	effective	JJ	_	6	amod
+6	step	step	NN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	mitigate	mitigate	VB	_	6	vmod
+9	damage	damage	NN	_	8	dobj
+10	from	from	IN	_	9	prep
+11	hurricanes	hurricane	NNS	_	10	pobj
+12	,	,	,	_	6	punct
+13	but	but	CC	_	6	cc
+14	let	let	VB	_	6	conj
+15	us	we	PRP	_	17	nsubj
+16	not	not	RB	_	17	neg
+17	forget	forget	VB	_	14	ccomp
+18	this	this	DT	_	22	nsubj
+19	is	be	VBZ	_	22	cop
+20	a	a	DT	_	22	det
+21	retroactive	retroactive	JJ	_	22	amod
+22	measure	measure	NN	_	17	ccomp
+23	.	.	.	_	6	punct
+

@@ -1,0 +1,27 @@
+1	Retailers	retailer	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	done	do	VBN	_	0	ROOT
+4	their	they	PRP$	_	5	poss
+5	bit	bit	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	put	put	VB	_	3	xcomp
+8	wine	wine	NN	_	7	dobj
+9	in	in	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	hands	hand	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	masses	mass	NNS	_	12	pobj
+15	,	,	,	_	3	punct
+16	to	to	TO	_	17	aux
+17	make	make	VB	_	3	xcomp
+18	it	it	PRP	_	20	nsubj
+19	more	more	RBR	_	20	advmod
+20	accessible	accessible	JJ	_	17	xcomp
+21	to	to	TO	_	20	prep
+22	the	the	DT	_	25	det
+23	wider	wider	JJR	_	25	amod
+24	UK	UK	NNP	_	25	nn
+25	public	public	NN	_	21	pobj
+26	.	.	.	_	3	punct
+

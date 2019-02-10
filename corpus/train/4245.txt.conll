@@ -1,0 +1,21 @@
+1	His	he	PRP$	_	2	poss
+2	portrait	portrait	NN	_	3	nsubj
+3	appears	appear	VBZ	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	innumerable	innumerable	JJ	_	6	amod
+6	paintings	painting	NNS	_	4	pobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	National	National	NNP	_	10	nn
+10	Gallery	Gallery	NNP	_	7	pobj
+11	,	,	,	_	3	punct
+12	sometimes	sometimes	RB	_	13	advmod
+13	with	with	IN	_	3	prep
+14	his	he	PRP$	_	15	poss
+15	mother	mother	NN	_	13	pobj
+16	in	in	IN	_	15	prep
+17	a	a	DT	_	19	det
+18	supporting	support	VBG	_	19	amod
+19	role	role	NN	_	16	pobj
+20	.	.	.	_	3	punct
+

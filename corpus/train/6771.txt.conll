@@ -1,0 +1,10 @@
+1	Skype	skype	VB	_	0	ROOT
+2	founders	founder	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	moved	move	VBN	_	1	ccomp
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	net	net	JJ	_	8	amod
+8	TV	tv	NN	_	5	pobj
+9	.	.	.	_	1	punct
+

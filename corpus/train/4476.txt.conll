@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	focus	focus	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	study	study	NN	_	3	pobj
+5	is	be	VBZ	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	psychological	psychological	JJ	_	10	amod
+8	or	or	CC	_	7	cc
+9	mental	mental	JJ	_	7	conj
+10	mechanisms	mechanism	NNS	_	6	pobj
+11	,	,	,	_	5	punct
+12	also	also	RB	_	13	advmod
+13	referred	refer	VBN	_	5	dep
+14	to	to	TO	_	13	prep
+15	as	as	IN	_	13	prep
+16	decision	decision	NN	_	17	nn
+17	processes	process	NNS	_	15	pobj
+18	,	,	,	_	17	punct
+19	information	information	NN	_	20	nn
+20	processes	process	NNS	_	17	conj
+21	,	,	,	_	17	punct
+22	or	or	CC	_	17	cc
+23	Darwinian	darwinian	JJ	_	24	amod
+24	algorithms	algorithm	NNS	_	17	conj
+25	.	.	.	_	5	punct
+

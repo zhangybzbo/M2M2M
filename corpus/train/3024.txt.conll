@@ -1,0 +1,24 @@
+1	Aspergillus	aspergillus	JJ	_	2	amod
+2	niger	niger	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	found	find	VBN	_	0	ROOT
+5	capable	capable	JJ	_	4	xcomp
+6	of	of	IN	_	5	prep
+7	rapidly	rapidly	RB	_	8	advmod
+8	converting	convert	VBG	_	6	pcomp
+9	about	about	IN	_	10	quantmod
+10	97	97	CD	_	11	num
+11	%	%	NN	_	8	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	sugar	sugar	NN	_	12	pobj
+15	from	from	IN	_	8	prep
+16	brewery	brewery	NN	_	15	pobj
+17	spent	spend	VBD	_	8	dep
+18	grain	grain	NN	_	19	nn
+19	liquor	liquor	NN	_	17	dobj
+20	to	to	TO	_	17	prep
+21	fungal	fungal	JJ	_	22	amod
+22	mass	mass	NN	_	20	pobj
+23	.	.	.	_	4	punct
+

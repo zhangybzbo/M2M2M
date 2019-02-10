@@ -1,0 +1,10 @@
+1	His	he	PRP$	_	2	poss
+2	works	work	NNS	_	3	nsubj
+3	criticize	criticize	VBP	_	0	ROOT
+4	agricultural	agricultural	JJ	_	5	amod
+5	civilization	civilization	NN	_	3	dobj
+6	as	as	IN	_	3	prep
+7	inherently	inherently	RB	_	8	advmod
+8	oppressive	oppressive	JJ	_	6	pobj
+9	.	.	.	_	3	punct
+

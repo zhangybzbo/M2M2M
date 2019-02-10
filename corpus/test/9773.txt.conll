@@ -1,0 +1,16 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	soon	soon	RB	_	4	advmod
+4	asleep	asleep	RB	_	0	ROOT
+5	,	,	,	_	4	punct
+6	however	however	RB	_	4	advmod
+7	,	,	,	_	4	punct
+8	on	on	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	pillow	pillow	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	mother	mother	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	breast	breast	NN	_	11	pobj
+15	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	This	this	DT	_	8	det
+2	cut	cut	NN	_	8	nn
+3	blue	blue	JJ	_	8	amod
+4	and	and	CC	_	3	cc
+5	white	white	JJ	_	3	conj
+6	striped	striped	JJ	_	8	amod
+7	cotton	cotton	NN	_	8	nn
+8	dress	dress	NN	_	15	nsubj
+9	with	with	IN	_	8	prep
+10	red	red	JJ	_	11	amod
+11	bands	band	NNS	_	9	pobj
+12	on	on	IN	_	8	prep
+13	the	the	DT	_	14	det
+14	bodice	bodice	NN	_	12	pobj
+15	was	be	VBD	_	0	ROOT
+16	in	in	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	trunk	trunk	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	vintage	vintage	JJ	_	22	amod
+21	Barbie	Barbie	NNP	_	22	nn
+22	clothing	clothing	NN	_	19	pobj
+23	.	.	.	_	15	punct
+

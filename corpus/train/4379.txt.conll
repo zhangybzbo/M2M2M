@@ -1,0 +1,20 @@
+1	In	in	IN	_	13	prep
+2	the	the	DT	_	8	det
+3	known	known	JJ	_	8	amod
+4	reciprocating	reciprocate	VBG	_	8	amod
+5	hermetically	hermetically	RB	_	6	advmod
+6	sealed	seal	VBN	_	8	amod
+7	motor	motor	NN	_	8	nn
+8	compressors	compressor	NNS	_	1	pobj
+9	,	,	,	_	13	punct
+10	the	the	DT	_	12	det
+11	refrigerant	refrigerant	NN	_	12	nn
+12	gas	gas	NN	_	13	nsubj
+13	arrives	arrive	VBZ	_	0	ROOT
+14	vaporized	vaporize	VBN	_	13	dep
+15	from	from	IN	_	14	prep
+16	in	in	IN	_	15	pcomp
+17	the	the	DT	_	18	det
+18	shell	shell	NN	_	16	pobj
+19	.	.	.	_	13	punct
+

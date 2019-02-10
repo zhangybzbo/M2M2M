@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	present	present	JJ	_	3	amod
+3	invention	invention	NN	_	4	nsubj
+4	relates	relate	VBZ	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	7	det
+7	method	method	NN	_	5	pobj
+8	for	for	IN	_	7	prep
+9	producing	produce	VBG	_	8	pcomp
+10	battery	battery	NN	_	11	nn
+11	electrodes	electrode	NNS	_	9	dobj
+12	,	,	,	_	11	punct
+13	electrodes	electrode	NNS	_	11	conj
+14	produced	produce	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	this	this	DT	_	17	det
+17	method	method	NN	_	15	pobj
+18	,	,	,	_	11	punct
+19	and	and	CC	_	11	cc
+20	batteries	battery	NNS	_	11	conj
+21	containing	contain	VBG	_	20	vmod
+22	such	such	JJ	_	23	amod
+23	electrodes	electrode	NNS	_	21	dobj
+24	.	.	.	_	4	punct
+

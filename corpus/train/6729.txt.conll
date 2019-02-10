@@ -1,0 +1,18 @@
+1	More	more	JJR	_	2	amod
+2	people	people	NNS	_	3	nsubj
+3	know	know	VBP	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	understand	understand	VBP	_	3	conj
+6	their	they	PRP$	_	7	poss
+7	rights	rights	NNS	_	5	dobj
+8	on	on	IN	_	7	prep
+9	issues	issue	NNS	_	8	pobj
+10	such	such	JJ	_	11	mwe
+11	as	as	IN	_	9	prep
+12	benefits	benefit	NNS	_	11	pobj
+13	,	,	,	_	12	punct
+14	housing	housing	NN	_	12	conj
+15	and	and	CC	_	12	cc
+16	employment	employment	NN	_	12	conj
+17	.	.	.	_	3	punct
+

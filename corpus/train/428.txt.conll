@@ -1,0 +1,20 @@
+1	However	however	RB	_	3	advmod
+2	Susanoo	Susanoo	NNP	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	sorrow	sorrow	NN	_	4	pobj
+6	after	after	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	loss	loss	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	his	he	PRP$	_	11	poss
+11	mother	mother	NN	_	9	pobj
+12	and	and	CC	_	3	cc
+13	he	he	PRP	_	15	nsubj
+14	was	be	VBD	_	15	aux
+15	raging	rage	VBG	_	3	conj
+16	in	in	IN	_	15	prep
+17	his	he	PRP$	_	18	poss
+18	kingdom	kingdom	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

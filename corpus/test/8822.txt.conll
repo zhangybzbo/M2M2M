@@ -1,0 +1,14 @@
+1	Each	each	DT	_	2	det
+2	congregation	congregation	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	body	body	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	appointed	appoint	VBN	_	9	amod
+8	male	male	JJ	_	9	amod
+9	elders	elder	NNS	_	6	pobj
+10	and	and	CC	_	9	cc
+11	ministerial	ministerial	JJ	_	12	amod
+12	servants	servant	NNS	_	9	conj
+13	.	.	.	_	3	punct
+

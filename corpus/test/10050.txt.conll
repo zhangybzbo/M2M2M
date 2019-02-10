@@ -1,0 +1,21 @@
+1	They	they	PRP	_	2	nsubj
+2	found	find	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	suitcase	suitcase	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	money	money	NN	_	5	pobj
+7	in	in	IN	_	2	prep
+8	it	it	PRP	_	7	pobj
+9	and	and	CC	_	2	cc
+10	were	be	VBD	_	11	aux
+11	driving	drive	VBG	_	2	conj
+12	to	to	TO	_	11	prep
+13	Denver	Denver	NNP	_	12	pobj
+14	to	to	TO	_	15	aux
+15	return	return	VB	_	11	xcomp
+16	it	it	PRP	_	15	dobj
+17	to	to	TO	_	15	prep
+18	the	the	DT	_	19	det
+19	owner	owner	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

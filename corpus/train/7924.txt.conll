@@ -1,0 +1,22 @@
+1	Muscles	muscle	NNS	_	7	nsubj
+2	,	,	,	_	1	punct
+3	tendons	tendon	NNS	_	1	conj
+4	,	,	,	_	1	punct
+5	and	and	CC	_	1	cc
+6	ligaments	ligament	NNS	_	1	conj
+7	surround	surround	VBP	_	0	ROOT
+8	the	the	DT	_	9	det
+9	ankle	ankle	NN	_	7	dobj
+10	providing	provide	VBG	_	9	vmod
+11	the	the	DT	_	12	det
+12	stability	stability	NN	_	10	dobj
+13	the	the	DT	_	16	det
+14	ankle	ankle	NN	_	16	nn
+15	joint	joint	JJ	_	16	amod
+16	needs	need	NNS	_	10	dobj
+17	for	for	IN	_	16	prep
+18	walking	walk	VBG	_	17	pcomp
+19	and	and	CC	_	18	cc
+20	running	run	VBG	_	18	conj
+21	.	.	.	_	7	punct
+

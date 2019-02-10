@@ -1,0 +1,13 @@
+1	Several	several	JJ	_	2	amod
+2	infections	infection	NNS	_	3	nsubj
+3	cause	cause	VBP	_	0	ROOT
+4	rash-fever	rash-fever	JJ	_	5	amod
+5	disease	disease	NN	_	3	dobj
+6	that	that	WDT	_	9	nsubjpass
+7	is	be	VBZ	_	9	auxpass
+8	commonly	commonly	RB	_	9	advmod
+9	mistaken	mistake	VBN	_	5	rcmod
+10	for	for	IN	_	9	prep
+11	measles	measles	NNS	_	10	pobj
+12	.	.	.	_	3	punct
+

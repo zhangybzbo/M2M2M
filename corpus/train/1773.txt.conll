@@ -1,0 +1,27 @@
+1	And	and	CC	_	11	cc
+2	a	a	DT	_	5	det
+3	22-page	22-page	JJ	_	5	amod
+4	internal	internal	JJ	_	5	amod
+5	report	report	NN	_	11	nsubj
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	computer	computer	NN	_	10	nn
+9	security	security	NN	_	10	nn
+10	company	company	NN	_	6	pobj
+11	named	name	VBD	_	0	ROOT
+12	MANDIANT	MANDIANT	NNP	_	18	nsubj
+13	,	,	,	_	12	punct
+14	dated	date	VBN	_	12	vmod
+15	August	August	NNP	_	14	tmod
+16	18	18	CD	_	15	num
+17	,	,	,	_	12	punct
+18	fleshes	flesh	VBZ	_	11	ccomp
+19	out	out	RP	_	18	prt
+20	many	many	JJ	_	21	amod
+21	details	detail	NNS	_	18	dobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	June-July	june-july	NN	_	25	nn
+25	breaches	breach	NNS	_	22	pobj
+26	.	.	.	_	11	punct
+

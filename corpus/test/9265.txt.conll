@@ -1,0 +1,21 @@
+1	Blowback	Blowback	NNP	_	2	nn
+2	firearms	firearm	NNS	_	3	nsubj
+3	use	use	VBP	_	0	ROOT
+4	the	the	DT	_	7	det
+5	expanding	expand	VBG	_	7	amod
+6	gas	gas	NN	_	7	nn
+7	impinging	impinging	NN	_	3	dobj
+8	on	on	IN	_	3	prep
+9	the	the	DT	_	10	det
+10	cartridge	cartridge	NN	_	8	pobj
+11	itself	itself	PRP	_	10	npadvmod
+12	to	to	TO	_	13	aux
+13	push	push	VB	_	3	vmod
+14	the	the	DT	_	15	det
+15	bolt	bolt	NN	_	13	dobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	firearm	firearm	NN	_	19	nn
+19	rearward	rearward	NN	_	16	pobj
+20	.	.	.	_	3	punct
+

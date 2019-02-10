@@ -1,0 +1,11 @@
+0	58	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="many" pos="JJ" amod="t2"
+5	14	tok id="t1" base="excellent" pos="JJ" amod="t2"
+15	24	tok id="t2" base="musician" pos="NNS" nsubj="t3"
+25	33	tok id="t3" base="emanate" pos="VBD" ROOT="ROOT"
+34	38	tok id="t4" base="from" pos="IN" prep="t3"
+39	42	tok id="t5" base="Ihe" pos="NNP" nn="t7"
+43	50	tok id="t6" base="Hoosier" pos="NNP" nn="t7"
+51	56	tok id="t7" base="state" pos="NN" pobj="t4"
+57	58	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

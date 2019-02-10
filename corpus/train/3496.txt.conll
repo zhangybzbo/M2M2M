@@ -1,0 +1,18 @@
+1	A	a	DT	_	3	det
+2	Stormont	Stormont	NNP	_	3	nn
+3	meeting	meeting	NN	_	15	nsubj
+4	on	on	IN	_	3	prep
+5	jobs	job	NNS	_	4	pobj
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	delegation	delegation	NN	_	6	pobj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	north	north	NN	_	12	nn
+12	west	west	NN	_	9	pobj
+13	was	be	VBD	_	15	cop
+14	`	`	``	_	15	punct
+15	constructive	constructive	JJ	_	0	ROOT
+16	'	'	''	_	15	punct
+17	.	.	.	_	15	punct
+

@@ -1,0 +1,14 @@
+1	Ho	Ho	NNP	_	4	nn
+2	Chi	Chi	NNP	_	4	nn
+3	Minh	Minh	NNP	_	4	nn
+4	City	City	NNP	_	7	nsubj
+5	and	and	CC	_	4	cc
+6	Hanoi	Hanoi	NNP	_	4	conj
+7	are	be	VBP	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	floods	flood	NNS	_	8	pobj
+10	after	after	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	rain	rain	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

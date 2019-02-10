@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	councilor	councilor	NN	_	3	nsubj
+3	proposed	propose	VBD	_	0	ROOT
+4	assessing	assess	VBG	_	6	csubj
+5	infinitival	infinitival	NN	_	4	dobj
+6	complements	complement	VBZ	_	3	ccomp
+7	through	through	IN	_	6	prep
+8	elicitation	elicitation	NN	_	7	pobj
+9	.	.	.	_	3	punct
+

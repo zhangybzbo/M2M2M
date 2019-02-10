@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	det
+2	fish	fish	NN	_	3	nsubj
+3	lives	live	VBZ	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	shoal	shoal	NN	_	4	pobj
+6	of	of	IN	_	5	prep
+7	150	150	CD	_	9	number
+8	to	to	TO	_	9	dep
+9	900	900	CD	_	6	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	exhibition	exhibition	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	more	more	JJR	_	5	mwe
+5	than	than	IN	_	6	quantmod
+6	sixty	sixty	CD	_	7	num
+7	works	work	NNS	_	3	dobj
+8	of	of	IN	_	7	prep
+9	art	art	NN	_	8	pobj
+10	from	from	IN	_	7	prep
+11	international	international	JJ	_	12	amod
+12	public	public	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	private	private	JJ	_	15	amod
+15	collections	collection	NNS	_	12	conj
+16	.	.	.	_	3	punct
+

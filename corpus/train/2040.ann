@@ -1,0 +1,3 @@
+T1	Term 130 136	letter
+T2	Term 157 166	president
+R1	Product-Producer Arg1:T1 Arg2:T2

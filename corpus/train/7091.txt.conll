@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	lamp	lamp	NN	_	9	nsubjpass
+3	emiting	emit	VBG	_	2	vmod
+4	a	a	DT	_	7	det
+5	strong	strong	JJ	_	7	amod
+6	white	white	JJ	_	7	amod
+7	light	light	NN	_	3	dobj
+8	is	be	VBZ	_	9	auxpass
+9	placed	place	VBN	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	an	a	DT	_	13	det
+12	mobile	mobile	JJ	_	13	amod
+13	block	block	NN	_	10	pobj
+14	makes	make	VBZ	_	9	dep
+15	it	it	PRP	_	16	nsubj
+16	possible	possible	JJ	_	14	xcomp
+17	to	to	TO	_	16	prep
+18	the	the	DT	_	19	det
+19	scanner	scanner	NN	_	17	pobj
+20	to	to	TO	_	21	aux
+21	sweep	sweep	NN	_	14	xcomp
+22	all	all	PDT	_	24	predet
+23	the	the	DT	_	24	det
+24	document	document	NN	_	21	dobj
+25	.	.	.	_	9	punct
+

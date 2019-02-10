@@ -1,0 +1,11 @@
+1	Pentagon	Pentagon	NNP	_	2	nsubj
+2	moves	move	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	troops	troops	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	9	det
+7	Middle	Middle	NNP	_	9	nn
+8	Eastern	Eastern	NNP	_	9	nn
+9	region	region	NN	_	5	pobj
+10	.	.	.	_	2	punct
+

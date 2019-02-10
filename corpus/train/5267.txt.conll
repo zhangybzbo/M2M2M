@@ -1,0 +1,12 @@
+1	Before	before	IN	_	0	ROOT
+2	leaving	leave	VBG	_	1	pcomp
+3	Peter	Peter	NNP	_	4	nsubj
+4	bought	buy	VBD	_	2	ccomp
+5	a	a	DT	_	8	det
+6	silver	silver	NN	_	8	nn
+7	star	star	NN	_	8	nn
+8	necklace	necklace	NN	_	4	dobj
+9	for	for	IN	_	8	prep
+10	Tina	Tina	NNP	_	9	pobj
+11	.	.	.	_	1	punct
+

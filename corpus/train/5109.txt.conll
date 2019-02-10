@@ -1,0 +1,25 @@
+1	In	in	IN	_	17	prep
+2	the	the	DT	_	4	det
+3	Festival	Festival	NNP	_	4	nn
+4	Hall	Hall	NNP	_	6	poss
+5	's	's	POS	_	4	possessive
+6	foyer	foyer	NN	_	1	pobj
+7	,	,	,	_	17	punct
+8	alongside	alongside	IN	_	17	prep
+9	videos	video	NNS	_	8	pobj
+10	of	of	IN	_	9	prep
+11	Birtwistle	Birtwistle	NNP	_	13	nn
+12	cooking	cooking	NN	_	13	nn
+13	pasta	pasta	NN	_	10	pobj
+14	,	,	,	_	17	punct
+15	is	be	VBZ	_	17	cop
+16	an	a	DT	_	17	det
+17	exhibition	exhibition	NN	_	0	ROOT
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	versatile	versatile	JJ	_	21	amod
+21	composer	composer	NN	_	23	poss
+22	's	's	POS	_	21	possessive
+23	drawings	drawing	NNS	_	18	pobj
+24	.	.	.	_	17	punct
+

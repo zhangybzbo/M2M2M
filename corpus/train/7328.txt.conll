@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	tailor	tailor	NN	_	3	nsubj
+3	left	leave	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	scissors	scissors	NNS	_	3	dobj
+6	on	on	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	wall	wall	NN	_	6	pobj
+9	below	below	IN	_	8	prep
+10	his	he	PRP$	_	11	poss
+11	balcony	balcony	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

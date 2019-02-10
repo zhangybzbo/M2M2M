@@ -1,0 +1,12 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="bowl" pos="NN" nsubj="t2"
+9	18	tok id="t2" base="contain" pos="VBD" ROOT="ROOT"
+19	25	tok id="t3" base="apple" pos="NNS" dobj="t2"
+26	27	tok id="t4" base="-COMMA-" pos="," punct="t3"
+28	33	tok id="t5" base="pear" pos="NNS" conj="t3"
+34	35	tok id="t6" base="-COMMA-" pos="," punct="t3"
+36	39	tok id="t7" base="and" pos="CC" cc="t3"
+40	47	tok id="t8" base="orange" pos="NNS" conj="t3"
+48	49	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

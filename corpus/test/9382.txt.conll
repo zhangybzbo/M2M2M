@@ -1,0 +1,16 @@
+1	When	when	WRB	_	0	ROOT
+2	a	a	DT	_	3	det
+3	joke	joke	NN	_	1	dep
+4	driven	drive	VBN	_	5	amod
+5	comedy	comedy	NN	_	6	nsubj
+6	has	have	VBZ	_	3	rcmod
+7	weaker	weaker	JJR	_	8	amod
+8	jokes	joke	NNS	_	6	dobj
+9	,	,	,	_	3	punct
+10	there	there	EX	_	11	expl
+11	's	be	VBZ	_	3	rcmod
+12	nothing	nothing	NN	_	11	nsubj
+13	behind	behind	IN	_	12	prep
+14	them	they	PRP	_	13	pobj
+15	.	.	.	_	1	punct
+

@@ -1,0 +1,24 @@
+1	Hell	hell	NN	_	3	nsubj
+2	already	already	RB	_	3	advmod
+3	offers	offer	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	cornucopia	cornucopia	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	employment	employment	NN	_	8	nn
+8	opportunities	opportunity	NNS	_	6	pobj
+9	for	for	IN	_	3	prep
+10	anyone	anyone	NN	_	9	pobj
+11	coming	come	VBG	_	10	vmod
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	myriad	myriad	JJ	_	12	pobj
+15	of	of	IN	_	14	prep
+16	backgrounds	background	NNS	_	15	pobj
+17	,	,	,	_	3	punct
+18	but	but	CC	_	3	cc
+19	they	they	PRP	_	20	nsubj
+20	lack	lack	VBP	_	3	conj
+21	name	name	NN	_	22	nn
+22	recognition	recognition	NN	_	20	dobj
+23	.	.	.	_	3	punct
+

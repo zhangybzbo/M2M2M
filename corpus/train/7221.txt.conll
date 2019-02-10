@@ -1,0 +1,19 @@
+1	Suddenly	suddenly	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	a	a	DT	_	4	det
+4	man	man	NN	_	5	nsubj
+5	approached	approach	VBD	_	0	ROOT
+6	me	I	PRP	_	5	dobj
+7	from	from	IN	_	5	prep
+8	nowhere	nowhere	RB	_	7	pobj
+9	and	and	CC	_	5	cc
+10	stuck	stick	VBD	_	5	conj
+11	a	a	DT	_	12	det
+12	bag	bag	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	candy	candy	NN	_	13	pobj
+15	in	in	IN	_	10	prep
+16	my	my	PRP$	_	17	poss
+17	face	face	NN	_	15	pobj
+18	.	.	.	_	5	punct
+

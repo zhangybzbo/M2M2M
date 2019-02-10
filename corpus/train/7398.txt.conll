@@ -1,0 +1,12 @@
+1	Stadler	Stadler	NNP	_	2	nsubj
+2	agrees	agree	VBZ	_	0	ROOT
+3	,	,	,	_	2	punct
+4	stating	state	VBG	_	2	xcomp
+5	that	that	IN	_	7	mark
+6	progress	progress	NN	_	7	nsubj
+7	comes	come	VBZ	_	4	ccomp
+8	from	from	IN	_	7	prep
+9	unexpected	unexpected	JJ	_	10	amod
+10	sources	source	NNS	_	8	pobj
+11	.	.	.	_	2	punct
+

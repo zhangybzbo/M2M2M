@@ -1,0 +1,15 @@
+1	Alfred	Alfred	NNP	_	2	nn
+2	Nobel	Nobel	NNP	_	3	nsubj
+3	created	create	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	fortune	fortune	NN	_	3	dobj
+6	from	from	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	selling	selling	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	explosives	explosive	NNS	_	9	pobj
+11	that	that	WDT	_	12	nsubj
+12	utilized	utilize	VBD	_	10	rcmod
+13	nitroglycerin	nitroglycerin	NN	_	12	dobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,21 @@
+1	After	after	IN	_	5	mark
+2	the	the	DT	_	4	det
+3	heimlich	heimlich	NN	_	4	nn
+4	maneuver	maneuver	NN	_	5	nsubj
+5	fails	fail	VBZ	_	9	advcl
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	teacher	teacher	NN	_	9	nsubj
+9	performs	perform	VBZ	_	0	ROOT
+10	a	a	DT	_	11	det
+11	cricothyrotomy	cricothyrotomy	NN	_	9	dobj
+12	with	with	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	kitchen	kitchen	NN	_	15	nn
+15	knife	knife	NN	_	12	pobj
+16	and	and	CC	_	15	cc
+17	a	a	DT	_	19	det
+18	drinking	drinking	NN	_	19	nn
+19	straw	straw	NN	_	15	conj
+20	.	.	.	_	9	punct
+

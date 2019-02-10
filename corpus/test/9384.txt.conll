@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	quarterback	quarterback	NN	_	4	nsubj
+3	then	then	RB	_	4	advmod
+4	wins	win	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	game	game	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	13	det
+9	``	``	``	_	13	punct
+10	Hail	hail	NN	_	13	nn
+11	Mary	Mary	NNP	_	13	nn
+12	''	''	''	_	13	punct
+13	pass	pass	NN	_	7	pobj
+14	.	.	.	_	4	punct
+

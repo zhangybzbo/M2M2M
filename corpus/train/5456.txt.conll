@@ -1,0 +1,15 @@
+1	In	in	IN	_	6	prep
+2	reality	reality	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	acne	acne	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	bacteria	bacterium	NNS	_	7	pobj
+9	and	and	CC	_	8	cc
+10	oil	oil	NN	_	8	conj
+11	on	on	IN	_	6	prep
+12	the	the	DT	_	13	det
+13	skin	skin	NN	_	11	pobj
+14	.	.	.	_	6	punct
+

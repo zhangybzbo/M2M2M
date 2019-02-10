@@ -1,0 +1,3 @@
+T1	Term 24 29	mouse
+T2	Term 30 36	button
+R1	Component-Whole Arg1:T2 Arg2:T1

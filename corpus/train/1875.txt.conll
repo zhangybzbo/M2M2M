@@ -1,0 +1,25 @@
+1	Parental	parental	JJ	_	2	amod
+2	pressures	pressure	NNS	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	unemployment	unemployment	NN	_	3	pobj
+5	and	and	CC	_	4	cc
+6	poverty	poverty	NN	_	4	conj
+7	lead	lead	VBP	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	drug	drug	NN	_	10	nn
+10	abuse	abuse	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	alcoholism	alcoholism	NN	_	10	conj
+13	or	or	CC	_	10	cc
+14	stress	stress	NN	_	10	conj
+15	and	and	CC	_	10	cc
+16	depression	depression	NN	_	10	conj
+17	which	which	WDT	_	18	nsubj
+18	have	have	VBP	_	10	rcmod
+19	a	a	DT	_	21	det
+20	profound	profound	JJ	_	21	amod
+21	effect	effect	NN	_	18	dobj
+22	on	on	IN	_	18	prep
+23	children	child	NNS	_	22	pobj
+24	.	.	.	_	7	punct
+

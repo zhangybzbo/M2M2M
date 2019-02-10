@@ -1,0 +1,12 @@
+0	51	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t4"
+4	8	tok id="t1" base="Gulf" pos="NNP" nn="t4"
+9	17	tok id="t2" base="monetary" pos="JJ" amod="t4"
+18	23	tok id="t3" base="union" pos="NN" nn="t4"
+24	28	tok id="t4" base="pact" pos="NN" nsubj="t6"
+29	32	tok id="t5" base="have" pos="VBZ" aux="t6"
+33	37	tok id="t6" base="come" pos="VBN" ROOT="ROOT"
+38	42	tok id="t7" base="into" pos="IN" prep="t6"
+43	49	tok id="t8" base="effect" pos="NN" pobj="t7"
+50	51	tok id="t9" base="-PERIOD-" pos="." punct="t6"
+

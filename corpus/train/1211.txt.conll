@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	followed	follow	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	specific	specific	JJ	_	5	amod
+5	procedure	procedure	NN	_	2	dobj
+6	for	for	IN	_	5	prep
+7	obtaining	obtain	VBG	_	6	pcomp
+8	the	the	DT	_	9	det
+9	engineer	engineer	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	permit	permit	NN	_	7	dobj
+12	in	in	IN	_	11	prep
+13	Quebec	Quebec	NNP	_	12	pobj
+14	and	and	CC	_	2	cc
+15	met	meet	VBD	_	2	conj
+16	certain	certain	JJ	_	17	amod
+17	requirements	requirement	NNS	_	15	dobj
+18	to	to	TO	_	19	aux
+19	receive	receive	VB	_	17	vmod
+20	an	a	DT	_	21	det
+21	engineer	engineer	NN	_	23	poss
+22	's	's	POS	_	21	possessive
+23	permit	permit	NN	_	19	dobj
+24	.	.	.	_	2	punct
+

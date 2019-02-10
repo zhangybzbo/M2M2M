@@ -1,0 +1,26 @@
+1	Many	many	JJ	_	3	amod
+2	different	different	JJ	_	3	amod
+3	bacteria	bacterium	NNS	_	0	ROOT
+4	,	,	,	_	3	punct
+5	protozoa	protozoan	NN	_	8	nsubj
+6	and	and	CC	_	5	cc
+7	viruses	virus	NNS	_	5	conj
+8	cause	cause	VBP	_	3	rcmod
+9	food	food	NN	_	10	nn
+10	poisoning	poisoning	NN	_	8	dobj
+11	,	,	,	_	3	punct
+12	but	but	CC	_	3	cc
+13	most	most	JJS	_	14	amod
+14	cases	case	NNS	_	17	nsubj
+15	are	be	VBP	_	17	cop
+16	the	the	DT	_	17	det
+17	result	result	NN	_	3	conj
+18	of	of	IN	_	17	prep
+19	just	just	RB	_	22	advmod
+20	a	a	DT	_	22	det
+21	few	few	JJ	_	22	amod
+22	species	species	NNS	_	18	pobj
+23	of	of	IN	_	22	prep
+24	bacteria	bacterium	NNS	_	23	pobj
+25	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	constable	constable	NN	_	6	nsubjpass
+3	of	of	IN	_	2	prep
+4	ravens	raven	NNS	_	3	pobj
+5	is	be	VBZ	_	6	auxpass
+6	stationed	station	VBN	_	0	ROOT
+7	at	at	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	Tower	tower	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	London	London	NNP	_	10	pobj
+12	.	.	.	_	6	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	charge	charge	NN	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	leak	leak	NN	_	2	vmod
+5	away	away	RB	_	4	advmod
+6	before	before	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	arrival	arrival	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	next	next	JJ	_	12	amod
+12	impulse	impulse	NN	_	9	pobj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	photocell	photocell	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

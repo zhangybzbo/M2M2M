@@ -1,0 +1,25 @@
+1	As	as	RB	_	2	advmod
+2	well	well	RB	_	0	ROOT
+3	as	as	IN	_	2	mwe
+4	the	the	DT	_	5	det
+5	wildlife	wildlife	NN	_	2	dep
+6	,	,	,	_	2	punct
+7	India	India	NNP	_	2	dep
+8	has	have	VBZ	_	2	dep
+9	a	a	DT	_	12	det
+10	vast	vast	JJ	_	12	amod
+11	treasure	treasure	NN	_	12	nn
+12	trove	trove	NN	_	8	dobj
+13	of	of	IN	_	12	prep
+14	palaces	palace	NNS	_	13	pobj
+15	,	,	,	_	14	punct
+16	forts	fort	NNS	_	14	conj
+17	,	,	,	_	14	punct
+18	temples	temple	NNS	_	14	conj
+19	,	,	,	_	14	punct
+20	museums	museum	NNS	_	14	conj
+21	and	and	CC	_	14	cc
+22	bustling	bustling	JJ	_	23	amod
+23	cities	city	NNS	_	14	conj
+24	.	.	.	_	2	punct
+

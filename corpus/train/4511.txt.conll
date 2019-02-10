@@ -1,0 +1,15 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	train	train	NN	_	4	nsubj
+4	left	leave	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	station	station	NN	_	4	iobj
+7	a	a	DT	_	10	det
+8	cool	cool	JJ	_	10	amod
+9	Spring	spring	NN	_	10	nn
+10	rain	rain	NN	_	11	nsubj
+11	pelted	pelt	VBD	_	4	ccomp
+12	the	the	DT	_	13	det
+13	windows	window	NNS	_	11	dobj
+14	.	.	.	_	4	punct
+

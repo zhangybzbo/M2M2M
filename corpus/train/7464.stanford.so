@@ -1,0 +1,13 @@
+0	66	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="sunflower" pos="NN" nn="t1"
+10	13	tok id="t1" base="oil" pos="NN" nsubjpass="t3"
+14	16	tok id="t2" base="be" pos="VBZ" auxpass="t3"
+17	25	tok id="t3" base="obtain" pos="VBN" ROOT="ROOT"
+26	28	tok id="t4" base="by" pos="IN" prep="t3"
+29	39	tok id="t5" base="extract" pos="VBG" pcomp="t4"
+40	43	tok id="t6" base="oil" pos="NN" dobj="t5"
+44	48	tok id="t7" base="from" pos="IN" prep="t6"
+49	58	tok id="t8" base="sunflower" pos="NN" nn="t9"
+59	64	tok id="t9" base="seed" pos="NNS" pobj="t7"
+65	66	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

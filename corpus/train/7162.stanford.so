@@ -1,0 +1,11 @@
+0	50	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="artist" pos="NN" nsubj="t2"
+11	17	tok id="t2" base="play" pos="VBD" ROOT="ROOT"
+18	21	tok id="t3" base="the" pos="DT" det="t4"
+22	27	tok id="t4" base="piano" pos="NN" dobj="t2"
+28	32	tok id="t5" base="with" pos="IN" prep="t2"
+33	38	tok id="t6" base="great" pos="JJ" amod="t7"
+39	48	tok id="t7" base="precision" pos="NN" pobj="t5"
+49	50	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

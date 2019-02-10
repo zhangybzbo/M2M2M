@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	damage	damage	NN	_	16	nsubj
+3	caused	cause	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	tsunami	tsunami	NN	_	4	pobj
+7	-	-	:	_	2	punct
+8	at	at	IN	_	12	advmod
+9	least	least	JJS	_	8	pobj
+10	the	the	DT	_	12	det
+11	physical	physical	JJ	_	12	amod
+12	damage	damage	NN	_	2	dep
+13	-	-	:	_	12	punct
+14	is	be	VBZ	_	16	cop
+15	barely	barely	RB	_	16	advmod
+16	visible	visible	JJ	_	0	ROOT
+17	in	in	IN	_	16	prep
+18	some	some	DT	_	19	det
+19	places	place	NNS	_	17	pobj
+20	.	.	.	_	16	punct
+

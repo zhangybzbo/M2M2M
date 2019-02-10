@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	coffee	coffee	NN	_	3	nn
+3	grounds	grounds	NNS	_	4	nsubj
+4	fall	fall	VBP	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	7	det
+7	bottom	bottom	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	pot	pot	NN	_	8	pobj
+11	,	,	,	_	4	punct
+12	and	and	CC	_	4	cc
+13	the	the	DT	_	14	det
+14	coffee	coffee	NN	_	16	nsubjpass
+15	is	be	VBZ	_	16	auxpass
+16	poured	pour	VBN	_	4	conj
+17	off	off	RP	_	16	prt
+18	into	into	IN	_	16	prep
+19	a	a	DT	_	21	det
+20	second	second	JJ	_	21	amod
+21	pot	pot	NN	_	18	pobj
+22	known	know	VBN	_	21	vmod
+23	as	as	IN	_	22	prep
+24	a	a	DT	_	25	det
+25	mutbak	mutbak	NN	_	23	pobj
+26	.	.	.	_	4	punct
+

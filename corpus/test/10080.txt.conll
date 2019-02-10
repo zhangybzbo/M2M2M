@@ -1,0 +1,12 @@
+1	Mothers	mother	NNS	_	6	nsubj
+2	were	be	VBD	_	6	cop
+3	the	the	DT	_	6	det
+4	single	single	JJ	_	6	amod
+5	largest	largest	JJS	_	6	amod
+6	group	group	NN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	donate	donate	VB	_	6	vmod
+9	their	they	PRP$	_	10	poss
+10	kidneys	kidney	NNS	_	8	dobj
+11	.	.	.	_	6	punct
+

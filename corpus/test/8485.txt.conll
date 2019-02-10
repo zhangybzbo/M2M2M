@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	shrinkage	shrinkage	NN	_	3	nn
+3	debate	debate	NN	_	5	nsubj
+4	suddenly	suddenly	RB	_	5	advmod
+5	gained	gain	VBD	_	0	ROOT
+6	prominence	prominence	NN	_	5	dobj
+7	last	last	JJ	_	8	amod
+8	month	month	NN	_	5	tmod
+9	with	with	IN	_	5	prep
+10	a	a	DT	_	12	det
+11	blunt	blunt	JJ	_	12	amod
+12	comment	comment	NN	_	9	pobj
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	acting	act	VBG	_	16	amod
+16	mayor	mayor	NN	_	13	pobj
+17	.	.	.	_	5	punct
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	alcohol	alcohol	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	distilled	distil	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	steam	steam	NN	_	8	nn
+8	bath	bath	NN	_	5	pobj
+9	,	,	,	_	4	punct
+10	and	and	CC	_	4	cc
+11	the	the	DT	_	12	det
+12	lactone	lactone	NN	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	separated	separate	VBN	_	4	conj
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	sodium	sodium	NN	_	18	nn
+18	bromide	bromide	NN	_	15	pobj
+19	by	by	IN	_	14	prep
+20	extraction	extraction	NN	_	19	pobj
+21	with	with	IN	_	20	prep
+22	ether	ether	NN	_	21	pobj
+23	.	.	.	_	4	punct
+

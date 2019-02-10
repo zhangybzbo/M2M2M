@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	synthesist	synthesist	NN	_	5	nsubj
+3	is	be	VBZ	_	5	aux
+4	thus	thus	RB	_	5	advmod
+5	carrying	carry	VBG	_	0	ROOT
+6	out	out	RP	_	5	prt
+7	a	a	DT	_	8	det
+8	role	role	NN	_	5	dobj
+9	which	which	WDT	_	11	nsubj
+10	is	be	VBZ	_	11	cop
+11	analogous	analogous	JJ	_	8	rcmod
+12	to	to	TO	_	11	prep
+13	that	that	DT	_	12	pobj
+14	of	of	IN	_	13	prep
+15	a	a	DT	_	16	det
+16	player	player	NN	_	14	pobj
+17	in	in	IN	_	16	prep
+18	an	a	DT	_	19	det
+19	orchestra	orchestra	NN	_	17	pobj
+20	.	.	.	_	5	punct
+

@@ -1,0 +1,18 @@
+1	In	in	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	book	book	NN	_	1	pobj
+4	,	,	,	_	11	punct
+5	the	the	DT	_	8	det
+6	main	main	JJ	_	8	amod
+7	female	female	JJ	_	8	amod
+8	character	character	NN	_	11	nsubj
+9	is	be	VBZ	_	11	cop
+10	a	a	DT	_	11	det
+11	woman	woman	NN	_	0	ROOT
+12	named	name	VBN	_	11	vmod
+13	Messua	Messua	NNP	_	12	dep
+14	who	who	WP	_	15	nsubj
+15	adopts	adopt	VBZ	_	13	rcmod
+16	Mowgli	Mowgli	NNP	_	15	dobj
+17	.	.	.	_	11	punct
+

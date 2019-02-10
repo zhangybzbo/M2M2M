@@ -1,0 +1,21 @@
+1	Tides	tide	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	gravitational	gravitational	JJ	_	7	amod
+7	pull	pull	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	moon	moon	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	sun	sun	NN	_	10	conj
+13	,	,	,	_	3	punct
+14	and	and	CC	_	3	cc
+15	the	the	DT	_	16	det
+16	rotation	rotation	NN	_	3	conj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	Earth	Earth	NNP	_	17	pobj
+20	.	.	.	_	3	punct
+

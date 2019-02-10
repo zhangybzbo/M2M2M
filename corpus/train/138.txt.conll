@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det
+2	maze	maze	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	interlocking	interlock	VBG	_	5	amod
+5	jurisdictions	jurisdiction	NNS	_	3	pobj
+6	and	and	CC	_	5	cc
+7	levels	level	NNS	_	5	conj
+8	of	of	IN	_	7	prep
+9	government	government	NN	_	8	pobj
+10	confronts	confront	VBZ	_	0	ROOT
+11	average	average	JJ	_	12	amod
+12	citizens	citizen	NNS	_	10	dobj
+13	in	in	IN	_	10	prep
+14	trying	try	VBG	_	13	pcomp
+15	to	to	TO	_	16	aux
+16	solve	solve	VB	_	14	xcomp
+17	even	even	RB	_	19	advmod
+18	the	the	DT	_	19	det
+19	simplest	simplest	JJS	_	16	dobj
+20	of	of	IN	_	19	prep
+21	problems	problem	NNS	_	20	pobj
+22	.	.	.	_	10	punct
+

@@ -1,0 +1,12 @@
+0	73	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	14	tok id="t1" base="technique" pos="NN" ROOT="ROOT"
+15	26	tok id="t2" base="efficiently" pos="RB" advmod="t3"
+27	35	tok id="t3" base="insert" pos="VBN" amod="t4"
+36	41	tok id="t4" base="gene" pos="NNS" dep="t1"
+42	46	tok id="t5" base="into" pos="IN" prep="t4"
+47	60	tok id="t6" base="hematopoietic" pos="JJ" amod="t8"
+61	65	tok id="t7" base="stem" pos="NN" nn="t8"
+66	71	tok id="t8" base="cell" pos="NNS" pobj="t5"
+72	73	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

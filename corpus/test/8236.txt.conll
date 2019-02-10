@@ -1,0 +1,24 @@
+1	These	these	DT	_	2	det
+2	types	type	NNS	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	scripts	script	NNS	_	3	pobj
+5	help	help	VBP	_	0	ROOT
+6	visually	visually	RB	_	7	advmod
+7	impaired	impaired	JJ	_	8	amod
+8	individuals	individual	NNS	_	5	dobj
+9	to	to	TO	_	10	aux
+10	get	get	VB	_	5	xcomp
+11	more	more	JJR	_	12	amod
+12	enjoyment	enjoyment	NN	_	10	dobj
+13	from	from	IN	_	10	prep
+14	programming	programming	NN	_	13	pobj
+15	because	because	IN	_	20	mark
+16	the	the	DT	_	17	det
+17	action	action	NN	_	20	nsubjpass
+18	on-screen	on-screen	JJ	_	17	amod
+19	is	be	VBZ	_	20	auxpass
+20	described	describe	VBN	_	10	advcl
+21	for	for	IN	_	20	prep
+22	them	they	PRP	_	21	pobj
+23	.	.	.	_	5	punct
+

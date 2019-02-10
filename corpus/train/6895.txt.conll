@@ -1,0 +1,19 @@
+1	But	but	CC	_	5	cc
+2	Pradyumna	Pradyumna	NNP	_	5	nsubj
+3	did	do	VBD	_	5	aux
+4	not	not	RB	_	5	neg
+5	die	die	VB	_	0	ROOT
+6	,	,	,	_	5	punct
+7	even	even	RB	_	11	advmod
+8	when	when	WRB	_	11	advmod
+9	he	he	PRP	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	digested	digest	VBN	_	5	advcl
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	belly	belly	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	fish	fish	NN	_	15	pobj
+18	.	.	.	_	5	punct
+

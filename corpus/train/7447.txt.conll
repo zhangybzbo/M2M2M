@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	debate	debate	NN	_	3	nsubj
+3	starts	start	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	Smalley	Smalley	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	questions	question	NNS	_	4	pobj
+8	about	about	IN	_	7	prep
+9	Drexler	Drexler	NNP	_	11	poss
+10	's	's	POS	_	9	possessive
+11	proposal	proposal	NN	_	8	pobj
+12	.	.	.	_	3	punct
+

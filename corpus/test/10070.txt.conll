@@ -1,0 +1,14 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	bedrooms	bedroom	NNS	_	2	nsubj
+4	,	,	,	_	3	punct
+5	dining	dine	VBG	_	6	amod
+6	rooms	room	NNS	_	3	conj
+7	and	and	CC	_	3	cc
+8	sitting	sit	VBG	_	9	amod
+9	rooms	room	NNS	_	3	conj
+10	in	in	IN	_	3	prep
+11	the	the	DT	_	12	det
+12	cottage	cottage	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

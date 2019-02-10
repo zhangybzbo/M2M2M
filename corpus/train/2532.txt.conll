@@ -1,0 +1,12 @@
+1	Supernatant	supernatant	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	removed	remove	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	a	a	DT	_	10	det
+6	100	100	CD	_	10	num
+7	mL	ml	NN	_	10	nn
+8	polypropylene	polypropylene	NN	_	10	nn
+9	centrifuge	centrifuge	NN	_	10	nn
+10	tube	tube	NN	_	4	pobj
+11	.	.	.	_	3	punct
+

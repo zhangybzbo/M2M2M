@@ -1,0 +1,14 @@
+1	By	by	IN	_	7	mark
+2	now	now	RB	_	7	advmod
+3	an	a	DT	_	5	det
+4	SEO-minded	seo-minded	JJ	_	5	amod
+5	attendee	attendee	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	journeyed	journey	VBN	_	0	ROOT
+8	deep	deep	RB	_	7	advmod
+9	into	into	IN	_	7	prep
+10	advanced	advanced	JJ	_	12	amod
+11	SEO	SEO	NNP	_	12	nn
+12	concepts	concept	NNS	_	9	pobj
+13	.	.	.	_	7	punct
+

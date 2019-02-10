@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	insurance	insurance	NN	_	3	nn
+3	cost	cost	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	added	add	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	shipping	shipping	NN	_	10	nn
+10	price	price	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

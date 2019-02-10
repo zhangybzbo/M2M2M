@@ -1,0 +1,16 @@
+1	It	it	PRP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	found	find	VBN	_	0	ROOT
+4	that	that	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	polysilicon	polysilicon	NN	_	7	nsubj
+7	grows	grow	VBZ	_	3	ccomp
+8	from	from	IN	_	7	prep
+9	an	a	DT	_	11	det
+10	initial	initial	JJ	_	11	amod
+11	step	step	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	deposition	deposition	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

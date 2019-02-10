@@ -1,0 +1,14 @@
+1	But	but	CC	_	4	cc
+2	O'Brien	O'Brien	NNP	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	proud	proud	JJ	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	how	how	WRB	_	9	advmod
+7	his	he	PRP$	_	8	poss
+8	team	team	NN	_	9	nsubj
+9	finished	finish	VBD	_	5	pcomp
+10	a	a	DT	_	12	det
+11	difficult	difficult	JJ	_	12	amod
+12	season	season	NN	_	9	dobj
+13	.	.	.	_	4	punct
+

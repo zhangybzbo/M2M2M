@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	5	poss
+3	's	's	POS	_	2	possessive
+4	storage	storage	NN	_	5	nn
+5	strategy	strategy	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	derived	derive	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	customer	customer	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	needs	need	NNS	_	8	pobj
+12	.	.	.	_	7	punct
+

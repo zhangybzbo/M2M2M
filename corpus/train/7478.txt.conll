@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj
+2	kept	keep	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	antenna	antenna	NN	_	2	dobj
+5	inside	inside	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	car	car	NN	_	5	pobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	10	nsubj
+10	limited	limit	VBD	_	7	rcmod
+11	range	range	NN	_	10	dobj
+12	due	due	JJ	_	10	advmod
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	15	det
+15	car	car	NN	_	17	poss
+16	's	's	POS	_	15	possessive
+17	attenuation	attenuation	NN	_	13	pobj
+18	.	.	.	_	2	punct
+

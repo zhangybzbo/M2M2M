@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	relationship	relationship	NN	_	10	nsubj
+3	between	between	IN	_	2	prep
+4	Gaelic	gaelic	JJ	_	7	amod
+5	and	and	CC	_	4	cc
+6	Australian	australian	JJ	_	4	conj
+7	football	football	NN	_	3	pobj
+8	is	be	VBZ	_	10	cop
+9	the	the	DT	_	10	det
+10	subject	subject	NN	_	0	ROOT
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	controversy	controversy	NN	_	11	pobj
+14	among	among	IN	_	13	prep
+15	historians	historian	NNS	_	14	pobj
+16	.	.	.	_	10	punct
+

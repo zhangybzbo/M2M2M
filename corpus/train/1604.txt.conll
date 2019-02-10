@@ -1,0 +1,22 @@
+1	Recently	recently	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	EFCC	efcc	NN	_	5	nsubj
+5	succeeded	succeed	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	arresting	arrest	VBG	_	6	pcomp
+8	a	a	DT	_	9	det
+9	syndicate	syndicate	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	internet	internet	NN	_	12	nn
+12	fraudsters	fraudster	NNS	_	10	pobj
+13	with	with	IN	_	7	prep
+14	the	the	DT	_	16	det
+15	following	follow	VBG	_	16	amod
+16	Identity	identity	NN	_	13	pobj
+17	,	,	,	_	5	punct
+18	Badiru	Badiru	NNP	_	20	nn
+19	Abidemi	Abidemi	NNP	_	20	nn
+20	Adeyinka	Adeyinka	NNP	_	5	dobj
+21	.	.	.	_	5	punct
+

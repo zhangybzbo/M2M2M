@@ -1,0 +1,10 @@
+0	44	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Honey" pos="NNP" nn="t1"
+6	10	tok id="t1" base="bee" pos="NNS" nsubj="t3"
+11	15	tok id="t2" base="have" pos="VBP" aux="t3"
+16	24	tok id="t3" base="migrate" pos="VBN" ROOT="ROOT"
+25	29	tok id="t4" base="into" pos="IN" prep="t3"
+30	36	tok id="t5" base="warmer" pos="JJR" amod="t6"
+37	42	tok id="t6" base="area" pos="NNS" pobj="t4"
+43	44	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

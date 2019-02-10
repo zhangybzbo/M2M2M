@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	findings	finding	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	published	publish	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	special	special	JJ	_	9	amod
+9	section	section	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	academic	academic	JJ	_	14	amod
+13	journal	journal	NN	_	14	nn
+14	Archives	archive	NNS	_	10	pobj
+15	of	of	IN	_	14	prep
+16	Sexual	Sexual	NNP	_	17	nn
+17	Behavior	Behavior	NNP	_	15	pobj
+18	.	.	.	_	5	punct
+

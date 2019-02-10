@@ -1,0 +1,22 @@
+1	Not	not	RB	_	3	neg
+2	too	too	RB	_	3	advmod
+3	long	long	JJ	_	9	advcl
+4	ago	ago	RB	_	3	advmod
+5	,	,	,	_	9	punct
+6	the	the	DT	_	7	det
+7	grass	grass	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	farmed	farm	VBN	_	0	ROOT
+10	for	for	IN	_	9	prep
+11	hay	hay	NN	_	10	pobj
+12	;	;	:	_	9	punct
+13	then	then	RB	_	17	advmod
+14	,	,	,	_	17	punct
+15	it	it	PRP	_	17	nsubjpass
+16	was	be	VBD	_	17	auxpass
+17	ditched	ditch	VBN	_	9	parataxis
+18	for	for	IN	_	17	prep
+19	mosquito	mosquito	NN	_	20	nn
+20	control	control	NN	_	18	pobj
+21	.	.	.	_	9	punct
+

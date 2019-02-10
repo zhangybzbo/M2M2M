@@ -1,0 +1,3 @@
+T1	Term 20 26	sizzle
+T2	Term 50 54	bill
+R1	Cause-Effect Arg1:T2 Arg2:T1

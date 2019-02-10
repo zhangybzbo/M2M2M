@@ -1,0 +1,23 @@
+1	In	in	IN	_	8	prep
+2	one	one	CD	_	3	num
+3	day	day	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	7	det
+6	Red	Red	NNP	_	7	nn
+7	Crescent	Crescent	NNP	_	8	nsubj
+8	treated	treat	VBD	_	0	ROOT
+9	more	more	JJR	_	10	mwe
+10	than	than	IN	_	11	quantmod
+11	50	50	CD	_	12	num
+12	injuries	injury	NNS	_	8	dobj
+13	-	-	:	_	12	punct
+14	mainly	mainly	RB	_	15	advmod
+15	broken	broken	JJ	_	16	amod
+16	bones	bone	NNS	_	12	dep
+17	caused	cause	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	panic	panic	NN	_	18	pobj
+20	from	from	IN	_	19	prep
+21	aftershocks	aftershock	NNS	_	20	pobj
+22	.	.	.	_	8	punct
+

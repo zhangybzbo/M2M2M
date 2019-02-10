@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	pouches	pouch	NNS	_	14	nsubj
+3	of	of	IN	_	2	prep
+4	female	female	JJ	_	5	amod
+5	wallabies	wallaby	NNS	_	3	pobj
+6	,	,	,	_	14	punct
+7	like	like	IN	_	14	prep
+8	those	those	DT	_	7	pobj
+9	of	of	IN	_	8	prep
+10	other	other	JJ	_	11	amod
+11	macropods	macropod	NNS	_	9	pobj
+12	,	,	,	_	14	punct
+13	are	be	VBP	_	14	cop
+14	front-opening	front-opening	JJ	_	0	ROOT
+15	.	.	.	_	14	punct
+

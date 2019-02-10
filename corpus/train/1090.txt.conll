@@ -1,0 +1,11 @@
+1	Her	she	PRP$	_	2	poss
+2	diamonds	diamond	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	locked	lock	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	safe	safe	JJ	_	9	amod
+8	deposit	deposit	NN	_	9	nn
+9	box	box	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

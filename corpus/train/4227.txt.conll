@@ -1,0 +1,10 @@
+1	I	I	PRP	_	2	nsubj
+2	visited	visit	VBD	_	0	ROOT
+3	other	other	JJ	_	4	amod
+4	communities	community	NNS	_	2	dobj
+5	the	the	DT	_	6	det
+6	builder	builder	NN	_	8	nsubj
+7	had	have	VBD	_	8	aux
+8	built	build	VBN	_	2	ccomp
+9	.	.	.	_	2	punct
+

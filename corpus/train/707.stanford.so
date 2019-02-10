@@ -1,0 +1,10 @@
+0	59	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="federal" pos="JJ" amod="t2"
+8	15	tok id="t1" base="dollar" pos="NNS" nn="t2"
+16	20	tok id="t2" base="flow" pos="NN" ROOT="ROOT"
+21	25	tok id="t3" base="into" pos="IN" prep="t2"
+26	33	tok id="t4" base="Halifax" pos="NNP" nn="t6"
+34	46	tok id="t5" base="recreational" pos="JJ" amod="t6"
+47	57	tok id="t6" base="facility" pos="NNS" pobj="t3"
+58	59	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,22 @@
+1	When	when	WRB	_	3	advmod
+2	they	they	PRP	_	3	nsubj
+3	took	take	VBD	_	18	advcl
+4	the	the	DT	_	5	det
+5	floor	floor	NN	_	3	dobj
+6	against	against	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	team	team	NN	_	6	pobj
+9	favored	favor	VBD	_	3	dep
+10	to	to	TO	_	11	aux
+11	win	win	VB	_	9	xcomp
+12	the	the	DT	_	14	det
+13	national	national	JJ	_	14	amod
+14	championship	championship	NN	_	11	dobj
+15	,	,	,	_	18	punct
+16	the	the	DT	_	17	det
+17	patriots	patriot	NNS	_	18	nsubj
+18	radiated	radiate	VBD	_	0	ROOT
+19	carefree	carefree	JJ	_	20	amod
+20	confidence	confidence	NN	_	18	dobj
+21	.	.	.	_	18	punct
+

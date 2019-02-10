@@ -1,0 +1,13 @@
+1	Sorace	Sorace	NNP	_	3	nsubj
+2	was	be	VBD	_	3	cop
+3	unaware	unaware	JJ	_	0	ROOT
+4	that	that	IN	_	8	mark
+5	her	she	PRP$	_	6	poss
+6	anger	anger	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	caused	cause	VBN	_	3	ccomp
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	abuse	abuse	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

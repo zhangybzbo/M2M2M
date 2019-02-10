@@ -1,0 +1,19 @@
+1	ER	er	NN	_	2	nn
+2	physicians	physician	NNS	_	0	ROOT
+3	trying	try	VBG	_	2	vmod
+4	to	to	TO	_	5	aux
+5	save	save	VB	_	3	xcomp
+6	an	a	DT	_	7	det
+7	eyeball	eyeball	NN	_	5	dobj
+8	that	that	WDT	_	10	nsubj
+9	has	have	VBZ	_	10	aux
+10	popped	pop	VBN	_	7	rcmod
+11	out	out	IN	_	10	prep
+12	of	of	IN	_	11	pcomp
+13	an	a	DT	_	15	det
+14	accident	accident	NN	_	15	nn
+15	victim	victim	NN	_	17	poss
+16	's	's	POS	_	15	possessive
+17	head	head	NN	_	12	pobj
+18	.	.	.	_	2	punct
+

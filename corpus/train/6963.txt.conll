@@ -1,0 +1,25 @@
+1	Many	many	JJ	_	2	amod
+2	people	people	NNS	_	3	nsubj
+3	gamble	gamble	VBP	_	0	ROOT
+4	away	away	RP	_	3	prt
+5	their	they	PRP$	_	6	poss
+6	rent	rent	NN	_	3	dobj
+7	and	and	CC	_	6	cc
+8	grocery	grocery	NN	_	9	nn
+9	money	money	NN	_	6	conj
+10	just	just	RB	_	12	advmod
+11	to	to	TO	_	12	aux
+12	take	take	VB	_	3	vmod
+13	a	a	DT	_	14	det
+14	chance	chance	NN	_	12	dobj
+15	on	on	IN	_	12	prep
+16	a	a	DT	_	17	det
+17	leash	leash	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	greyhounds	greyhound	NNS	_	18	pobj
+20	chasing	chase	VBG	_	19	vmod
+21	a	a	DT	_	23	det
+22	mechanical	mechanical	JJ	_	23	amod
+23	rabbit	rabbit	NN	_	20	dobj
+24	.	.	.	_	3	punct
+

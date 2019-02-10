@@ -1,0 +1,11 @@
+1	Lebanese	lebanese	JJ	_	2	amod
+2	gays	gay	NNS	_	3	nsubj
+3	come	come	VBP	_	0	ROOT
+4	out	out	IN	_	3	prep
+5	of	of	IN	_	4	pcomp
+6	closet	closet	NN	_	5	pobj
+7	,	,	,	_	3	punct
+8	but	but	CC	_	3	cc
+9	quietly	quietly	RB	_	3	advmod
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	author	author	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	observed	observe	VBN	_	0	ROOT
+6	a	a	DT	_	9	det
+7	ringed	ringed	JJ	_	9	amod
+8	seal	seal	NN	_	9	nn
+9	slapping	slapping	NN	_	5	dobj
+10	the	the	DT	_	11	det
+11	water	water	NN	_	9	dep
+12	with	with	IN	_	11	prep
+13	its	its	PRP$	_	14	poss
+14	flipper	flipper	NN	_	12	pobj
+15	as	as	IN	_	17	mark
+16	he	he	PRP	_	17	nsubj
+17	approached	approach	VBD	_	11	rcmod
+18	.	.	.	_	5	punct
+

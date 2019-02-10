@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	sensors	sensor	NNS	_	10	nsubj
+3	being	be	VBG	_	4	auxpass
+4	created	create	VBN	_	2	vmod
+5	inside	inside	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	fiber	fiber	NN	_	5	pobj
+8	are	be	VBP	_	10	cop
+9	so	so	RB	_	10	advmod
+10	tiny	tiny	JJ	_	0	ROOT
+11	that	that	IN	_	14	mark
+12	the	the	DT	_	13	det
+13	researchers	researcher	NNS	_	14	nsubj
+14	mark	mark	VBP	_	10	ccomp
+15	their	they	PRP$	_	16	poss
+16	location	location	NN	_	14	dobj
+17	with	with	IN	_	14	prep
+18	ink	ink	NN	_	17	pobj
+19	.	.	.	_	10	punct
+

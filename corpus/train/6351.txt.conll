@@ -1,0 +1,13 @@
+1	Their	they	PRP$	_	2	poss
+2	productions	production	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	presented	present	VBN	_	0	ROOT
+6	at	at	IN	_	5	prep
+7	drama	drama	NN	_	8	nn
+8	festivals	festival	NNS	_	6	pobj
+9	across	across	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	country	country	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

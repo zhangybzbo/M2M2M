@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	run	run	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	criticism	criticism	NN	_	5	pobj
+8	after	after	IN	_	4	prep
+9	quietly	quietly	RB	_	10	advmod
+10	closing	close	VBG	_	8	pcomp
+11	its	its	PRP$	_	13	poss
+12	grant	grant	NN	_	13	nn
+13	programme	programme	NN	_	10	dobj
+14	for	for	IN	_	10	prep
+15	solar	solar	JJ	_	16	amod
+16	energy	energy	NN	_	14	pobj
+17	last	last	JJ	_	18	amod
+18	week	week	NN	_	10	tmod
+19	.	.	.	_	4	punct
+

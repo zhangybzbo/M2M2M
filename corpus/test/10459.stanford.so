@@ -1,0 +1,12 @@
+0	65	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="collapse" pos="VBG" amod="t2"
+11	20	tok id="t1" base="commodity" pos="NN" nn="t2"
+21	27	tok id="t2" base="price" pos="NNS" nsubj="t4"
+28	32	tok id="t3" base="have" pos="VBP" aux="t4"
+33	39	tok id="t4" base="push" pos="VBN" ROOT="ROOT"
+40	43	tok id="t5" base="the" pos="DT" det="t6"
+44	50	tok id="t6" base="farmer" pos="NN" dobj="t4"
+51	55	tok id="t7" base="into" pos="IN" prep="t4"
+56	63	tok id="t8" base="poverty" pos="NN" pobj="t7"
+64	65	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

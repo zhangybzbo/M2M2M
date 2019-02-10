@@ -1,0 +1,3 @@
+T1	Term 40 47	teacher
+T2	Term 78 89	screwdriver
+R1	Instrument-Agency Arg1:T2 Arg2:T1

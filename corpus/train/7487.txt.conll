@@ -1,0 +1,22 @@
+1	To	to	TO	_	2	aux
+2	demonstrate	demonstrate	VB	_	11	advcl
+3	the	the	DT	_	4	det
+4	performance	performance	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	mixer	mixer	NN	_	5	pobj
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	researchers	researcher	NNS	_	11	nsubj
+11	used	use	VBD	_	0	ROOT
+12	a	a	DT	_	15	det
+13	cold	cold	JJ	_	15	amod
+14	shock	shock	NN	_	15	nn
+15	protein	protein	NN	_	11	dobj
+16	from	from	IN	_	11	prep
+17	the	the	DT	_	20	det
+18	bacterium	bacterium	NN	_	20	nn
+19	Thermotoga	Thermotoga	NNP	_	20	nn
+20	maritime	maritime	NN	_	16	pobj
+21	.	.	.	_	11	punct
+

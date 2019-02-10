@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	martyrs	martyr	NNS	_	3	nsubj
+3	conquered	conquer	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	fears	fear	NNS	_	3	dobj
+6	associated	associate	VBN	_	5	vmod
+7	with	with	IN	_	6	prep
+8	persecution	persecution	NN	_	7	pobj
+9	and	and	CC	_	3	cc
+10	always	always	RB	_	11	advmod
+11	remained	remain	VBD	_	3	conj
+12	loyal	loyal	JJ	_	11	acomp
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	15	det
+15	Lord	Lord	NNP	_	13	pobj
+16	.	.	.	_	3	punct
+

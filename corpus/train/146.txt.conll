@@ -1,0 +1,27 @@
+1	Flames	flame	NNS	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	purple	purple	JJ	_	10	amod
+4	,	,	,	_	3	punct
+5	pink	pink	JJ	_	3	conj
+6	,	,	,	_	3	punct
+7	yellow	yellow	JJ	_	3	conj
+8	and	and	CC	_	3	cc
+9	blue	blue	JJ	_	3	conj
+10	dance	dance	NN	_	2	pobj
+11	in	in	IN	_	1	prep
+12	the	the	DT	_	13	det
+13	air	air	NN	_	11	pobj
+14	as	as	IN	_	19	mark
+15	a	a	DT	_	16	det
+16	coven	coven	NN	_	19	nsubj
+17	of	of	IN	_	16	prep
+18	sorcerers	sorcerer	NNS	_	17	pobj
+19	call	call	VBP	_	1	advcl
+20	forth	forth	RB	_	21	advmod
+21	energies	energy	NNS	_	19	dobj
+22	from	from	IN	_	19	prep
+23	within	within	IN	_	22	pcomp
+24	the	the	DT	_	25	det
+25	Empyrean	Empyrean	NNP	_	23	pobj
+26	.	.	.	_	1	punct
+

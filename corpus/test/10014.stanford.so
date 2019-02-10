@@ -1,0 +1,13 @@
+0	79	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	20	tok id="t1" base="transcontinental" pos="JJ" amod="t2"
+21	29	tok id="t2" base="railroad" pos="NN" nsubj="t3"
+30	37	tok id="t3" base="bring" pos="VBD" ROOT="ROOT"
+38	42	tok id="t4" base="more" pos="RBR" advmod="t5"
+43	51	tok id="t5" base="settler" pos="NNS" dobj="t3"
+52	56	tok id="t6" base="into" pos="IN" prep="t3"
+57	60	tok id="t7" base="the" pos="DT" det="t9"
+61	69	tok id="t8" base="Southern" pos="NNP" nn="t9"
+70	77	tok id="t9" base="region" pos="NNS" pobj="t6"
+78	79	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

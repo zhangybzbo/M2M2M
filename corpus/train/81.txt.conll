@@ -1,0 +1,25 @@
+1	A	a	DT	_	2	det
+2	team	team	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	students	student	NNS	_	3	pobj
+5	from	from	IN	_	4	prep
+6	Virginia	Virginia	NNP	_	8	nn
+7	Tech	Tech	NNP	_	8	nn
+8	University	University	NNP	_	5	pobj
+9	have	have	VBP	_	10	aux
+10	created	create	VBN	_	0	ROOT
+11	a	a	DT	_	12	det
+12	vehicle	vehicle	NN	_	10	dobj
+13	that	that	WDT	_	14	nsubj
+14	allows	allow	VBZ	_	12	rcmod
+15	vision	vision	NN	_	17	nn
+16	impaired	impaired	JJ	_	17	amod
+17	drivers	driver	NNS	_	14	dobj
+18	to	to	TO	_	19	aux
+19	take	take	VB	_	14	xcomp
+20	control	control	NN	_	19	dobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	wheel	wheel	NN	_	21	pobj
+24	.	.	.	_	10	punct
+

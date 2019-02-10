@@ -1,0 +1,15 @@
+1	Liberal	liberal	JJ	_	2	amod
+2	ideas	idea	NNS	_	3	nsubj
+3	insist	insist	VBP	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	large	large	JJ	_	6	amod
+6	gambles	gamble	NNS	_	4	pobj
+7	and	and	CC	_	6	cc
+8	conservatives	conservative	NNS	_	6	conj
+9	rely	rely	VBP	_	3	dep
+10	on	on	IN	_	9	prep
+11	incremental	incremental	JJ	_	13	amod
+12	small	small	JJ	_	13	amod
+13	changes	change	NNS	_	10	pobj
+14	.	.	.	_	3	punct
+

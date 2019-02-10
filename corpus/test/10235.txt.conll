@@ -1,0 +1,22 @@
+1	Rather	rather	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	avenger	avenger	NN	_	5	nsubj
+5	killed	kill	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	victim	victim	NN	_	5	dobj
+8	with	with	IN	_	5	prep
+9	a	a	DT	_	10	det
+10	rifle	rifle	NN	_	8	pobj
+11	,	,	,	_	10	punct
+12	often	often	RB	_	13	advmod
+13	from	from	IN	_	10	prep
+14	a	a	DT	_	17	det
+15	secure	secure	JJ	_	17	amod
+16	hiding	hiding	NN	_	17	nn
+17	place	place	NN	_	13	pobj
+18	or	or	CC	_	13	cc
+19	in	in	IN	_	13	conj
+20	ambush	ambush	NN	_	19	pobj
+21	.	.	.	_	5	punct
+

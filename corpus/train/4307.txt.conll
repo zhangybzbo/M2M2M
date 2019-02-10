@@ -1,0 +1,17 @@
+1	For	for	IN	_	11	prep
+2	registration	registration	NN	_	3	nn
+3	purposes	purpose	NNS	_	1	pobj
+4	,	,	,	_	11	punct
+5	the	the	DT	_	6	det
+6	property	property	NN	_	11	nsubjpass
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	vessel	vessel	NN	_	7	pobj
+10	is	be	VBZ	_	11	auxpass
+11	divided	divide	VBN	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	64	64	CD	_	15	num
+14	indivisible	indivisible	JJ	_	15	amod
+15	shares	share	NNS	_	12	pobj
+16	.	.	.	_	11	punct
+

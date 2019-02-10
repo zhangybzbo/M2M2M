@@ -1,0 +1,17 @@
+1	Silent	silent	JJ	_	3	amod
+2	black-and-white	black-and-white	JJ	_	3	amod
+3	flashbacks	flashback	NNS	_	4	nsubj
+4	show	show	VBP	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	brother	brother	NN	_	7	nsubj
+7	punching	punch	VBG	_	4	ccomp
+8	him	he	PRP	_	7	dobj
+9	with	with	IN	_	7	prep
+10	gloves	glove	NNS	_	9	pobj
+11	as	as	IN	_	14	mark
+12	his	he	PRP$	_	13	poss
+13	father	father	NN	_	14	nsubj
+14	looks	look	VBZ	_	7	advcl
+15	on	on	IN	_	14	prep
+16	.	.	.	_	4	punct
+

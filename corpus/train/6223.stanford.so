@@ -1,0 +1,10 @@
+0	43	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="fireman" pos="NN" nsubj="t2"
+12	15	tok id="t2" base="run" pos="VBD" ROOT="ROOT"
+16	20	tok id="t3" base="into" pos="IN" prep="t2"
+21	24	tok id="t4" base="the" pos="DT" det="t6"
+25	32	tok id="t5" base="burning" pos="NN" nn="t6"
+33	41	tok id="t6" base="building" pos="NN" pobj="t3"
+42	43	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

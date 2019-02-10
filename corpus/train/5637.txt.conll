@@ -1,0 +1,12 @@
+1	A	a	DT	_	5	det
+2	qualified	qualified	JJ	_	5	amod
+3	medical	medical	JJ	_	5	amod
+4	professional	professional	JJ	_	5	amod
+5	uses	use	NNS	_	0	ROOT
+6	a	a	DT	_	7	det
+7	variety	variety	NN	_	5	dep
+8	of	of	IN	_	7	prep
+9	diagnostic	diagnostic	JJ	_	10	amod
+10	tests	test	NNS	_	8	pobj
+11	.	.	.	_	5	punct
+

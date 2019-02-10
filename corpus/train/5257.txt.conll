@@ -1,0 +1,22 @@
+1	Lucy	Lucy	NNP	_	6	nsubj
+2	,	,	,	_	1	punct
+3	Ali	Ali	NNP	_	1	conj
+4	and	and	CC	_	1	cc
+5	Beth	Beth	NNP	_	1	conj
+6	produced	produce	VBD	_	0	ROOT
+7	a	a	DT	_	10	det
+8	photo	photo	NN	_	10	nn
+9	story	story	NN	_	10	nn
+10	board	board	NN	_	6	dobj
+11	to	to	TO	_	12	aux
+12	tell	tell	VB	_	6	xcomp
+13	the	the	DT	_	14	det
+14	story	story	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	legend	legend	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	drift	drift	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

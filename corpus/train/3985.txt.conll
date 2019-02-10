@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	programme	programme	NN	_	3	nsubj
+3	began	begin	VBD	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	welcome	welcome	JJ	_	7	amod
+7	speech	speech	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	organisation	organisation	NN	_	14	poss
+11	's	's	POS	_	10	possessive
+12	president	president	NN	_	14	nn
+13	Mahabubul	Mahabubul	NNP	_	14	nn
+14	Haider	Haider	NNP	_	8	pobj
+15	and	and	CC	_	3	cc
+16	was	be	VBD	_	17	auxpass
+17	presided	preside	VBD	_	3	conj
+18	over	over	RP	_	17	prt
+19	by	by	IN	_	17	prep
+20	Kranti	Kranti	NNP	_	23	poss
+21	's	's	POS	_	20	possessive
+22	adviser	adviser	NN	_	23	nn
+23	Dilip	Dilip	NNP	_	19	pobj
+24	.	.	.	_	3	punct
+

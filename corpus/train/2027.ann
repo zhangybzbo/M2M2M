@@ -1,0 +1,3 @@
+T1	Term 81 87	anchor
+T2	Term 95 101	vessel
+R1	Component-Whole Arg1:T1 Arg2:T2

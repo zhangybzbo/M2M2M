@@ -1,0 +1,3 @@
+T1	Term 4 9	train
+T2	Term 25 36	destination
+R1	Entity-Destination Arg1:T1 Arg2:T2

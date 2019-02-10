@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	dataset	dataset	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	extracted	extract	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	internal	internal	JJ	_	7	amod
+7	documents	document	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	Ministry	Ministry	NNP	_	8	pobj
+11	of	of	IN	_	10	prep
+12	Justice	Justice	NNP	_	11	pobj
+13	and	and	CC	_	4	cc
+14	analysed	analyse	VBN	_	4	conj
+15	using	use	VBG	_	14	xcomp
+16	standard	standard	JJ	_	20	amod
+17	demographic	demographic	JJ	_	20	amod
+18	and	and	CC	_	17	cc
+19	epidemiological	epidemiological	JJ	_	17	conj
+20	methods	method	NNS	_	15	dobj
+21	.	.	.	_	4	punct
+

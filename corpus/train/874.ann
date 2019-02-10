@@ -1,0 +1,3 @@
+T1	Term 13 21	regiment
+T2	Term 29 37	marksmen
+R1	Member-Collection Arg1:T2 Arg2:T1

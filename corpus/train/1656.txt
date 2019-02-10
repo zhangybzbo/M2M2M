@@ -1,0 +1,1 @@
+The system combined the hierarchical structure of decision trees with a clean probabilistic semantics .

@@ -1,0 +1,24 @@
+1	Essentially	essentially	RB	_	11	advmod
+2	,	,	,	_	11	punct
+3	the	the	DT	_	4	det
+4	blisters	blister	NNS	_	11	nsubjpass
+5	that	that	WDT	_	6	nsubj
+6	appear	appear	VBP	_	4	rcmod
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	mouth	mouth	NN	_	7	pobj
+10	are	be	VBP	_	11	auxpass
+11	caused	cause	VBN	_	0	ROOT
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	17	det
+14	herpes	herpes	NN	_	17	nn
+15	simplex	simplex	NN	_	17	nn
+16	virus	virus	NN	_	17	nn
+17	type	type	NN	_	12	pobj
+18	1	1	CD	_	17	num
+19	,	,	,	_	17	punct
+20	HSV-1	hsv-1	NN	_	17	appos
+21	for	for	IN	_	20	prep
+22	short	short	JJ	_	21	pobj
+23	.	.	.	_	11	punct
+

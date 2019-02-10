@@ -1,0 +1,26 @@
+1	After	after	IN	_	14	prep
+2	this	this	DT	_	4	det
+3	preliminary	preliminary	JJ	_	4	amod
+4	identification	identification	NN	_	1	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Hittite	hittite	JJ	_	8	amod
+8	people	people	NNS	_	5	pobj
+9	and	and	CC	_	8	cc
+10	their	they	PRP$	_	11	poss
+11	language	language	NN	_	8	conj
+12	,	,	,	_	14	punct
+13	we	we	PRP	_	14	nsubj
+14	had	have	VBD	_	0	ROOT
+15	more	more	RBR	_	16	advmod
+16	confidently	confidently	RB	_	17	advmod
+17	approach	approach	VBP	_	14	ccomp
+18	the	the	DT	_	19	det
+19	story	story	NN	_	17	dobj
+20	of	of	IN	_	19	prep
+21	their	they	PRP$	_	22	poss
+22	rise	rise	NN	_	20	pobj
+23	to	to	TO	_	22	prep
+24	fame	fame	NN	_	23	pobj
+25	.	.	.	_	14	punct
+

@@ -1,0 +1,16 @@
+1	Much	much	JJ	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	rain	rain	NN	_	2	pobj
+5	evaporated	evaporate	VBN	_	4	vmod
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	forest	forest	NN	_	9	nn
+9	canopy	canopy	NN	_	6	pobj
+10	without	without	IN	_	1	prep
+11	ever	ever	RB	_	12	advmod
+12	reaching	reach	VBG	_	10	pcomp
+13	the	the	DT	_	14	det
+14	ground	ground	NN	_	12	dobj
+15	.	.	.	_	1	punct
+

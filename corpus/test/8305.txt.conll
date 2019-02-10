@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	county	county	NN	_	3	nn
+3	commissioners	commissioner	NNS	_	5	nsubj
+4	had	have	VBD	_	5	aux
+5	deeded	deed	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	district	district	NN	_	17	nsubj
+8	an	a	DT	_	9	det
+9	acre	acre	NN	_	7	dep
+10	of	of	IN	_	9	prep
+11	land	land	NN	_	10	pobj
+12	,	,	,	_	7	punct
+13	and	and	CC	_	7	cc
+14	volunteer	volunteer	NN	_	15	nn
+15	labor	labor	NN	_	7	conj
+16	had	have	VBD	_	17	aux
+17	put	put	VBN	_	5	ccomp
+18	up	up	RP	_	17	prt
+19	a	a	DT	_	20	det
+20	building	building	NN	_	17	dobj
+21	.	.	.	_	5	punct
+

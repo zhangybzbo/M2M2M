@@ -1,0 +1,20 @@
+1	In	in	IN	_	4	prep
+2	1672	1672	CD	_	1	pobj
+3	he	he	PRP	_	4	nsubj
+4	opened	open	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	tavern	tavern	NN	_	4	dobj
+7	in	in	IN	_	6	prep
+8	Leiden	Leiden	NNP	_	7	pobj
+9	and	and	CC	_	4	cc
+10	many	many	JJ	_	14	nsubj
+11	of	of	IN	_	10	prep
+12	his	he	PRP$	_	13	poss
+13	pictures	picture	NNS	_	11	pobj
+14	represent	represent	VBP	_	4	conj
+15	taverns	tavern	NNS	_	14	dobj
+16	and	and	CC	_	15	cc
+17	festive	festive	JJ	_	18	amod
+18	gatherings	gathering	NNS	_	15	conj
+19	.	.	.	_	4	punct
+

@@ -1,0 +1,10 @@
+1	My	my	PRP$	_	2	poss
+2	pug	pug	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	little	little	JJ	_	5	amod
+5	bumps	bump	NNS	_	3	dobj
+6	under	under	IN	_	3	prep
+7	his	he	PRP$	_	8	poss
+8	chin	chin	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

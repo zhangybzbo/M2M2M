@@ -1,0 +1,20 @@
+1	In	in	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	sequence	sequence	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	raven	raven	NN	_	7	nsubj
+7	looks	look	VBZ	_	0	ROOT
+8	on	on	IN	_	7	prep
+9	as	as	IN	_	12	mark
+10	the	the	DT	_	11	det
+11	witch	witch	NN	_	12	nsubj
+12	stirs	stir	VBZ	_	8	pcomp
+13	the	the	DT	_	14	det
+14	cauldron	cauldron	NN	_	12	dobj
+15	with	with	IN	_	12	prep
+16	a	a	DT	_	18	det
+17	huge	huge	JJ	_	18	amod
+18	bone	bone	NN	_	15	pobj
+19	.	.	.	_	7	punct
+

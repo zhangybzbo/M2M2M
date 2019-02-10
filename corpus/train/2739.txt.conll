@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	hacienda	hacienda	NN	_	3	nsubj
+3	originated	originate	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	colonial	colonial	JJ	_	7	amod
+7	period	period	NN	_	4	pobj
+8	and	and	CC	_	3	cc
+9	survived	survive	VBD	_	3	conj
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	20th	20th	JJ	_	13	amod
+13	century	century	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

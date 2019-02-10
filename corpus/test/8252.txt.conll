@@ -1,0 +1,12 @@
+1	In	in	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	panel	panel	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	gerbil	gerbil	NN	_	6	nsubj
+6	runs	run	VBZ	_	0	ROOT
+7	away	away	RB	_	6	advmod
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	threat	threat	NN	_	8	pobj
+11	.	.	.	_	6	punct
+

@@ -1,0 +1,27 @@
+1	He	he	PRP	_	2	nsubj
+2	had	have	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	huge	huge	JJ	_	5	amod
+5	zoo	zoo	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	animals	animal	NNS	_	6	pobj
+8	,	,	,	_	2	punct
+9	savage	savage	JJ	_	10	amod
+10	beasts	beast	NNS	_	2	conj
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	far	far	JJ	_	14	amod
+14	parts	part	NNS	_	11	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	world	world	NN	_	15	pobj
+18	,	,	,	_	2	punct
+19	but	but	CC	_	2	cc
+20	that	that	DT	_	23	nsubj
+21	was	be	VBD	_	23	cop
+22	n't	not	RB	_	23	neg
+23	enough	enough	RB	_	2	conj
+24	for	for	IN	_	23	prep
+25	him	he	PRP	_	24	pobj
+26	.	.	.	_	2	punct
+

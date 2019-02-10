@@ -1,0 +1,27 @@
+1	Dolf	Dolf	NNP	_	2	nn
+2	Oehler	Oehler	NNP	_	17	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	5	det
+5	leader	leader	NN	_	2	appos
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	leftist	leftist	JJ	_	9	amod
+9	camp	camp	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	Heine	Heine	NNP	_	12	nn
+12	champions	champion	NNS	_	10	pobj
+13	since	since	IN	_	5	prep
+14	the	the	DT	_	15	det
+15	1970s	1970	NNS	_	13	pobj
+16	,	,	,	_	2	punct
+17	gathered	gather	VBD	_	0	ROOT
+18	a	a	DT	_	19	det
+19	group	group	NN	_	17	dobj
+20	of	of	IN	_	19	prep
+21	likeminded	likeminded	JJ	_	22	amod
+22	critics	critic	NNS	_	20	pobj
+23	for	for	IN	_	22	prep
+24	this	this	DT	_	25	det
+25	symposium	symposium	NN	_	23	pobj
+26	.	.	.	_	17	punct
+

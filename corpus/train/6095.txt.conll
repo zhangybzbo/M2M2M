@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	decade	decade	NN	_	3	nsubj
+3	produced	produce	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	bumper	bumper	NN	_	6	nn
+6	crop	crop	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	great	great	JJ	_	9	amod
+9	movies	movie	NNS	_	7	pobj
+10	.	.	.	_	3	punct
+

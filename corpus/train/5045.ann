@@ -1,0 +1,3 @@
+T1	Term 62 69	coolant
+T2	Term 79 87	cylinder
+R1	Entity-Destination Arg1:T1 Arg2:T2

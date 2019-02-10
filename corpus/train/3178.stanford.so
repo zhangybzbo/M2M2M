@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="takeover" pos="NNS" nsubj="t2"
+10	14	tok id="t1" base="have" pos="VBP" aux="t2"
+15	20	tok id="t2" base="take" pos="VBN" ROOT="ROOT"
+21	24	tok id="t3" base="Ted" pos="NNP" poss="t5"
+25	27	tok id="t4" base="'s" pos="POS" possessive="t3"
+28	37	tok id="t5" base="portfolio" pos="NN" dobj="t2"
+38	42	tok id="t6" base="into" pos="IN" prep="t2"
+43	46	tok id="t7" base="new" pos="JJ" amod="t8"
+47	56	tok id="t8" base="territory" pos="NN" pobj="t6"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

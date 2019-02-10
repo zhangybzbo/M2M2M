@@ -1,0 +1,1 @@
+We sent the hostname to the primary server .

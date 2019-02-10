@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	film	film	NN	_	3	nsubj
+3	features	feature	VBZ	_	0	ROOT
+4	eight	eight	CD	_	7	num
+5	influential	influential	JJ	_	7	amod
+6	contemporary	contemporary	JJ	_	7	amod
+7	philosophers	philosopher	NNS	_	3	dobj
+8	walking	walk	VBG	_	7	vmod
+9	around	around	IN	_	8	prep
+10	New	New	NNP	_	11	nn
+11	York	York	NNP	_	9	pobj
+12	.	.	.	_	3	punct
+

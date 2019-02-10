@@ -1,0 +1,20 @@
+1	Three	three	CD	_	2	num
+2	times	time	NNS	_	12	tmod
+3	-LRB-	-lrb-	-LRB-	_	6	punct
+4	every	every	DT	_	6	det
+5	1200	1200	CD	_	6	num
+6	years	year	NNS	_	2	appos
+7	-RRB-	-rrb-	-RRB-	_	6	punct
+8	,	,	,	_	2	punct
+9	the	the	DT	_	10	det
+10	gods	god	NNS	_	12	nsubj
+11	were	be	VBD	_	12	cop
+12	distressed	distressed	JJ	_	0	ROOT
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	disturbance	disturbance	NN	_	13	pobj
+16	from	from	IN	_	15	prep
+17	human	human	JJ	_	18	amod
+18	overpopulation	overpopulation	NN	_	16	pobj
+19	.	.	.	_	12	punct
+

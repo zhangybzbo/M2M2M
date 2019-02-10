@@ -1,0 +1,24 @@
+1	There	there	EX	_	2	expl
+2	were	be	VBD	_	0	ROOT
+3	two	two	CD	_	4	num
+4	wounds	wound	NNS	_	2	nsubj
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	surface	surface	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	one	one	CD	_	13	nsubj
+10	was	be	VBD	_	13	cop
+11	the	the	DT	_	13	det
+12	exit	exit	NN	_	13	nn
+13	wound	wound	NN	_	4	conj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	gunshot	gunshot	NN	_	14	pobj
+17	from	from	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	victim	victim	NN	_	22	poss
+20	's	's	POS	_	19	possessive
+21	left	left	JJ	_	22	amod
+22	forearm	forearm	NN	_	17	pobj
+23	.	.	.	_	2	punct
+

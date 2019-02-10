@@ -1,0 +1,17 @@
+1	Harriers	harrier	NNS	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	large	large	JJ	_	0	ROOT
+4	,	,	,	_	3	punct
+5	slender	slender	JJ	_	7	amod
+6	hawk-like	hawk-like	JJ	_	7	amod
+7	birds	bird	NNS	_	3	conj
+8	with	with	IN	_	7	prep
+9	long	long	JJ	_	10	amod
+10	tails	tail	NNS	_	8	pobj
+11	and	and	CC	_	3	cc
+12	long	long	RB	_	15	advmod
+13	,	,	,	_	15	punct
+14	thin	thin	JJ	_	15	amod
+15	legs	leg	NNS	_	3	conj
+16	.	.	.	_	3	punct
+

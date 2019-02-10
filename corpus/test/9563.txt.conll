@@ -1,0 +1,12 @@
+1	Molten	Molten	NNP	_	2	nn
+2	copper	copper	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	poured	pour	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	molds	mold	NNS	_	5	pobj
+7	at	at	IN	_	4	prep
+8	Chuquicamata	Chuquicamata	NNP	_	10	nn
+9	copper	copper	NN	_	10	nn
+10	refinery	refinery	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

@@ -1,0 +1,12 @@
+1	Most	most	JJS	_	2	amod
+2	people	people	NNS	_	3	nsubj
+3	buy	buy	VBP	_	0	ROOT
+4	pre-made	pre-made	JJ	_	6	amod
+5	candle	candle	NN	_	6	nn
+6	wicks	wick	NNS	_	3	dobj
+7	when	when	WRB	_	8	advmod
+8	making	make	VBG	_	3	advcl
+9	homemade	homemade	JJ	_	10	amod
+10	candles	candle	NNS	_	8	dobj
+11	.	.	.	_	3	punct
+

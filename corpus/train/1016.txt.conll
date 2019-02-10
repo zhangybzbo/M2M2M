@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	speaker	speaker	NN	_	3	nsubj
+3	opens	open	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	poem	poem	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	question	question	NN	_	6	pobj
+9	addressed	address	VBD	_	3	dep
+10	to	to	TO	_	9	prep
+11	the	the	DT	_	12	det
+12	beloved	beloved	JJ	_	10	pobj
+13	.	.	.	_	3	punct
+

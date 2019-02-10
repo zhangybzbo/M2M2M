@@ -1,0 +1,9 @@
+0	40	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="noise" pos="NN" nn="t1"
+6	17	tok id="t1" base="regulation" pos="NNS" nsubj="t3"
+18	22	tok id="t2" base="have" pos="VBP" aux="t3"
+23	27	tok id="t3" base="come" pos="VBN" ROOT="ROOT"
+28	32	tok id="t4" base="into" pos="IN" prep="t3"
+33	38	tok id="t5" base="force" pos="NN" pobj="t4"
+39	40	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	three	three	CD	_	3	num
+3	fireplaces	fireplace	NNS	_	8	nsubjpass
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	cottage	cottage	NN	_	4	pobj
+7	are	be	VBP	_	8	auxpass
+8	constructed	construct	VBN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	random	random	JJ	_	11	amod
+11	stones	stone	NNS	_	9	pobj
+12	with	with	IN	_	11	prep
+13	mortar	mortar	JJ	_	14	amod
+14	joints	joint	NNS	_	12	pobj
+15	raised	raise	VBN	_	14	vmod
+16	and	and	CC	_	15	cc
+17	rounded	round	VBN	_	15	conj
+18	.	.	.	_	8	punct
+

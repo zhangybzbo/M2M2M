@@ -1,0 +1,15 @@
+1	One	one	CD	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	most	most	RBS	_	5	advmod
+5	dreaded	dreaded	JJ	_	6	amod
+6	types	type	NNS	_	2	pobj
+7	of	of	IN	_	6	prep
+8	scars	scar	NNS	_	7	pobj
+9	are	be	VBP	_	11	cop
+10	contracture	contracture	NN	_	11	nn
+11	scars	scar	NNS	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	burns	burn	NNS	_	12	pobj
+14	.	.	.	_	11	punct
+

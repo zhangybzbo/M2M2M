@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	humanity	humanity	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	migrated	migrate	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	space	space	NN	_	5	pobj
+7	to	to	TO	_	8	aux
+8	settle	settle	VB	_	4	xcomp
+9	in	in	IN	_	8	prep
+10	an	a	DT	_	13	det
+11	outer	outer	JJ	_	13	amod
+12	solar	solar	JJ	_	13	amod
+13	system	system	NN	_	9	pobj
+14	.	.	.	_	4	punct
+

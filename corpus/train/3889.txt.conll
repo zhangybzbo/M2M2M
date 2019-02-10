@@ -1,0 +1,23 @@
+1	To	to	TO	_	2	aux
+2	prevent	prevent	VB	_	11	advcl
+3	rust	rust	NN	_	2	dobj
+4	,	,	,	_	2	punct
+5	etc.	etc.	FW	_	2	dep
+6	,	,	,	_	11	punct
+7	the	the	DT	_	9	det
+8	slug	slug	NN	_	9	nn
+9	C	c	NN	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	enclosed	enclose	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	glass	glass	NN	_	15	nn
+15	envelope	envelope	NN	_	12	pobj
+16	before	before	IN	_	11	prep
+17	being	be	VBG	_	18	auxpass
+18	sealed	seal	VBN	_	16	pcomp
+19	into	into	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	tap	tap	NN	_	19	pobj
+22	.	.	.	_	11	punct
+

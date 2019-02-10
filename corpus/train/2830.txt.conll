@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	republics	republic	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	seeking	seek	VBG	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	assert	assert	VB	_	4	xcomp
+7	an	a	DT	_	9	det
+8	unequivocal	unequivocal	JJ	_	9	amod
+9	understanding	understanding	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	country	country	NN	_	15	poss
+13	's	's	POS	_	12	possessive
+14	ethnic	ethnic	JJ	_	15	amod
+15	nature	nature	NN	_	10	pobj
+16	as	as	IN	_	9	prep
+17	a	a	DT	_	18	det
+18	federation	federation	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	various	various	JJ	_	21	amod
+21	peoples	people	NNS	_	19	pobj
+22	.	.	.	_	4	punct
+

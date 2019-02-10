@@ -1,0 +1,18 @@
+1	He	he	PRP	_	2	nsubj
+2	decided	decide	VBD	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	pad	pad	NN	_	3	pobj
+5	the	the	DT	_	6	det
+6	heel	heel	NN	_	2	dobj
+7	of	of	IN	_	6	prep
+8	shoes	shoe	NNS	_	7	pobj
+9	with	with	IN	_	6	prep
+10	a	a	DT	_	11	det
+11	shock	shock	NN	_	9	pobj
+12	absorbing	absorb	VBG	_	11	vmod
+13	insole	insole	NN	_	16	nn
+14	or	or	CC	_	13	cc
+15	heel	heel	NN	_	13	conj
+16	pad	pad	NN	_	12	dobj
+17	.	.	.	_	2	punct
+

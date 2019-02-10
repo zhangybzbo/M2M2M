@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	only	only	JJ	_	3	amod
+3	light	light	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	two	two	CD	_	7	num
+7	turrets	turret	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	bulletproof	bulletproof	JJ	_	10	amod
+10	glass	glass	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

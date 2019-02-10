@@ -1,0 +1,11 @@
+0	47	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	12	tok id="t1" base="article" pos="NN" nsubj="t2"
+13	18	tok id="t2" base="deal" pos="VBZ" ROOT="ROOT"
+19	23	tok id="t3" base="with" pos="IN" prep="t2"
+24	25	tok id="t4" base="a" pos="DT" det="t5"
+26	34	tok id="t5" base="province" pos="NN" pobj="t3"
+35	37	tok id="t6" base="in" pos="IN" prep="t5"
+38	45	tok id="t7" base="Belgium" pos="NNP" pobj="t6"
+46	47	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

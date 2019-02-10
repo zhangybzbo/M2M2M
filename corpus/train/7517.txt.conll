@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	software	software	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	the	the	DT	_	7	det
+5	wrong	wrong	JJ	_	7	amod
+6	comment	comment	NN	_	7	nn
+7	marks	mark	NNS	_	3	dobj
+8	for	for	IN	_	7	prep
+9	PHP	PHP	NNP	_	10	nn
+10	files	file	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

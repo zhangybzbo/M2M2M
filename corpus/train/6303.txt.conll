@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	Financial	Financial	NNP	_	3	nn
+3	Regulator	Regulator	NNP	_	5	nsubj
+4	today	today	NN	_	5	tmod
+5	amended	amend	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	code	code	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	conduct	conduct	NN	_	8	pobj
+10	of	of	IN	_	9	prep
+11	mortgage	mortgage	NN	_	12	nn
+12	arrears	arrears	NNS	_	10	pobj
+13	by	by	IN	_	5	prep
+14	increasing	increase	VBG	_	13	pcomp
+15	the	the	DT	_	16	det
+16	moratorium	moratorium	NN	_	14	dobj
+17	from	from	IN	_	14	prep
+18	six	six	CD	_	19	num
+19	months	month	NNS	_	17	pobj
+20	to	to	TO	_	14	prep
+21	12	12	CD	_	22	num
+22	months	month	NNS	_	20	pobj
+23	.	.	.	_	5	punct
+

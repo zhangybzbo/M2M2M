@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	name	name	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	aquarium	aquarium	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	derived	derive	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	public	public	JJ	_	11	amod
+11	vote	vote	NN	_	8	pobj
+12	amongst	amongst	IN	_	11	prep
+13	Japanese	japanese	JJ	_	14	amod
+14	people	people	NNS	_	12	pobj
+15	.	.	.	_	7	punct
+

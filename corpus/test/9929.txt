@@ -1,0 +1,1 @@
+Before databases appeared , the information on the computers was stored in files .

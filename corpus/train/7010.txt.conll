@@ -1,0 +1,17 @@
+1	Young	young	JJ	_	2	amod
+2	people	people	NNS	_	5	nsubj
+3	from	from	IN	_	2	prep
+4	Bridgend	Bridgend	NNP	_	3	pobj
+5	made	make	VBD	_	0	ROOT
+6	this	this	DT	_	8	det
+7	animated	animated	JJ	_	8	amod
+8	film	film	NN	_	5	dobj
+9	to	to	TO	_	10	aux
+10	highlight	highlight	VB	_	5	vmod
+11	the	the	DT	_	12	det
+12	dangers	danger	NNS	_	10	dobj
+13	of	of	IN	_	12	prep
+14	forest	forest	NN	_	15	nn
+15	fires	fire	NNS	_	13	pobj
+16	.	.	.	_	5	punct
+

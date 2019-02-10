@@ -1,0 +1,20 @@
+1	The	the	DT	_	4	det
+2	adaptive	adaptive	JJ	_	4	amod
+3	control	control	NN	_	4	nn
+4	literature	literature	NN	_	5	nsubj
+5	focuses	focus	VBZ	_	0	ROOT
+6	primarily	primarily	RB	_	5	advmod
+7	on	on	IN	_	5	prep
+8	adaptive	adaptive	JJ	_	9	amod
+9	stabilization	stabilization	NN	_	7	pobj
+10	,	,	,	_	9	punct
+11	adaptive	adaptive	JJ	_	12	amod
+12	tracking	tracking	NN	_	9	conj
+13	,	,	,	_	9	punct
+14	and	and	CC	_	9	cc
+15	model	model	NN	_	18	nn
+16	reference	reference	NN	_	18	nn
+17	adaptive	adaptive	JJ	_	18	amod
+18	control	control	NN	_	9	conj
+19	.	.	.	_	5	punct
+

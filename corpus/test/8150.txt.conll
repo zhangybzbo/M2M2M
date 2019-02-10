@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	placenta	placenta	NN	_	4	nsubj
+3	fully	fully	RB	_	4	advmod
+4	functions	function	VBZ	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	time	time	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	the	the	DT	_	10	det
+10	fetus	fetus	NN	_	11	nsubj
+11	makes	make	VBZ	_	4	conj
+12	insulin	insulin	NN	_	11	dobj
+13	and	and	CC	_	11	cc
+14	urinates	urinate	VBZ	_	11	conj
+15	.	.	.	_	4	punct
+

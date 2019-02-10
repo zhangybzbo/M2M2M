@@ -1,0 +1,25 @@
+1	This	this	DT	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	made	make	VBN	_	0	ROOT
+4	it	it	PRP	_	6	nsubj
+5	much	much	JJ	_	6	amod
+6	richer	richer	JJR	_	3	xcomp
+7	,	,	,	_	6	punct
+8	rather	rather	RB	_	9	advmod
+9	like	like	IN	_	6	prep
+10	fried	fried	JJ	_	11	amod
+11	bread	bread	NN	_	9	pobj
+12	and	and	CC	_	6	cc
+13	altogether	altogether	RB	_	14	advmod
+14	different	different	JJ	_	6	conj
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	crisp	crisp	JJ	_	18	amod
+18	rectangles	rectangle	NNS	_	15	pobj
+19	produced	produce	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	modern	modern	JJ	_	23	amod
+23	cook	cook	NN	_	20	pobj
+24	.	.	.	_	3	punct
+

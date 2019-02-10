@@ -1,0 +1,20 @@
+1	Here	here	RB	_	3	advmod
+2	I	I	PRP	_	3	nsubj
+3	show	show	VBP	_	0	ROOT
+4	that	that	IN	_	12	mark
+5	Adh-psi	adh-psus	NN	_	12	nsubj
+6	is	be	VBZ	_	12	cop
+7	actually	actually	RB	_	12	advmod
+8	a	a	DT	_	12	det
+9	new	new	JJ	_	12	amod
+10	,	,	,	_	12	punct
+11	functional	functional	JJ	_	12	amod
+12	gene	gene	NN	_	3	ccomp
+13	recently	recently	RB	_	14	advmod
+14	descended	descend	VBD	_	12	vmod
+15	from	from	IN	_	14	prep
+16	an	a	DT	_	18	det
+17	Adh	Adh	NNP	_	18	nn
+18	duplication	duplication	NN	_	15	pobj
+19	.	.	.	_	3	punct
+

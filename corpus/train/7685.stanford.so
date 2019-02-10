@@ -1,0 +1,13 @@
+0	75	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="hamburger" pos="NNS" nsubjpass="t5"
+11	15	tok id="t1" base="from" pos="IN" prep="t0"
+16	19	tok id="t2" base="the" pos="DT" det="t3"
+20	30	tok id="t3" base="restaurant" pos="NN" pobj="t1"
+31	35	tok id="t4" base="be" pos="VBD" auxpass="t5"
+36	44	tok id="t5" base="recall" pos="VBN" ROOT="ROOT"
+45	46	tok id="t6" base="-COMMA-" pos="," punct="t5"
+47	57	tok id="t7" base="prevent" pos="VBG" xcomp="t5"
+58	65	tok id="t8" base="further" pos="JJ" amod="t9"
+66	73	tok id="t9" base="illness" pos="NN" dobj="t7"
+74	75	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

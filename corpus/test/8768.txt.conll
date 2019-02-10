@@ -1,0 +1,25 @@
+1	Ten	ten	CD	_	3	num
+2	short	short	JJ	_	3	amod
+3	films	film	NNS	_	0	ROOT
+4	,	,	,	_	3	punct
+5	both	both	DT	_	6	preconj
+6	single	single	JJ	_	11	dep
+7	and	and	CC	_	6	cc
+8	double	double	JJ	_	9	amod
+9	screen	screen	NN	_	6	conj
+10	,	,	,	_	11	punct
+11	reap	reap	VB	_	3	conj
+12	audio-visual	audio-visual	JJ	_	13	amod
+13	crops	crop	NNS	_	11	dobj
+14	from	from	IN	_	11	prep
+15	the	the	DT	_	17	det
+16	fertile	fertile	JJ	_	17	amod
+17	soil	soil	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	filmmakers	filmmaker	NNS	_	23	poss
+21	'	'	POS	_	20	possessive
+22	florid	florid	JJ	_	23	amod
+23	imaginations	imagination	NNS	_	18	pobj
+24	.	.	.	_	3	punct
+

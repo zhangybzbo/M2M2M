@@ -1,0 +1,21 @@
+1	Yoga	yoga	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	fantastic	fantastic	JJ	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	increased	increase	VBN	_	6	amod
+6	flexibility	flexibility	NN	_	4	pobj
+7	,	,	,	_	6	punct
+8	which	which	WDT	_	10	nsubj
+9	is	be	VBZ	_	10	cop
+10	great	great	JJ	_	6	rcmod
+11	for	for	IN	_	10	prep
+12	cross-training	cross-train	VBG	_	11	pcomp
+13	with	with	IN	_	12	prep
+14	all	all	PDT	_	17	predet
+15	the	the	DT	_	17	det
+16	other	other	JJ	_	17	amod
+17	programs	program	NNS	_	13	pobj
+18	we	we	PRP	_	19	nsubj
+19	offer	offer	VBP	_	17	rcmod
+20	.	.	.	_	3	punct
+

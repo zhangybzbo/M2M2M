@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	origin	origin	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	word	word	NN	_	7	nn
+6	``	``	``	_	7	punct
+7	thong	thong	NN	_	3	pobj
+8	''	''	''	_	7	punct
+9	is	be	VBZ	_	0	ROOT
+10	from	from	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	Old	old	JJ	_	14	amod
+13	English	english	JJ	_	14	amod
+14	thwong	thwong	NN	_	10	pobj
+15	.	.	.	_	9	punct
+

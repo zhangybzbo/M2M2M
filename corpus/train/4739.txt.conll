@@ -1,0 +1,26 @@
+1	As	as	IN	_	9	prep
+2	part	part	NN	_	1	pobj
+3	of	of	IN	_	2	prep
+4	his	he	PRP$	_	6	poss
+5	wicked	wicked	JJ	_	6	amod
+6	plan	plan	NN	_	3	pobj
+7	,	,	,	_	9	punct
+8	Pete	Pete	NNP	_	9	nsubj
+9	promotes	promote	VBZ	_	0	ROOT
+10	Mickey	Mickey	NNP	_	9	dobj
+11	and	and	CC	_	10	cc
+12	his	he	PRP$	_	13	poss
+13	pals	pal	NNS	_	10	conj
+14	into	into	IN	_	9	prep
+15	the	the	DT	_	16	det
+16	legion	legion	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	musketeers	musketeer	NNS	_	17	pobj
+19	and	and	CC	_	9	cc
+20	assigns	assign	VBZ	_	9	conj
+21	them	they	PRP	_	20	dobj
+22	to	to	TO	_	23	aux
+23	guard	guard	VB	_	20	vmod
+24	Minnie	Minnie	NNP	_	23	dobj
+25	.	.	.	_	9	punct
+

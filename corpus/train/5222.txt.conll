@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	stem	stem	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	tree	tree	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	carved	carve	VBN	_	0	ROOT
+8	all	all	DT	_	9	dep
+9	around	around	IN	_	7	advmod
+10	with	with	IN	_	7	prep
+11	names	name	NNS	_	10	pobj
+12	and	and	CC	_	11	cc
+13	dates	date	NNS	_	11	conj
+14	,	,	,	_	7	punct
+15	many	many	JJ	_	7	xcomp
+16	of	of	IN	_	15	prep
+17	them	they	PRP	_	18	nsubj
+18	grown	grow	VBN	_	16	pcomp
+19	into	into	IN	_	18	prep
+20	mere	mere	JJ	_	21	amod
+21	scars	scar	NNS	_	19	pobj
+22	on	on	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	bark	bark	NN	_	22	pobj
+25	.	.	.	_	7	punct
+

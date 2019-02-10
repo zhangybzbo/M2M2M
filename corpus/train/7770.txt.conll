@@ -1,0 +1,15 @@
+1	Different	different	JJ	_	11	ccomp
+2	from	from	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	curry	curry	NN	_	5	nn
+5	source	source	NN	_	2	pobj
+6	,	,	,	_	11	punct
+7	chicken	chicken	NN	_	8	nn
+8	bouillon	bouillon	NN	_	11	nsubjpass
+9	is	be	VBZ	_	11	auxpass
+10	mainly	mainly	RB	_	11	advmod
+11	distilled	distil	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	chicken	chicken	NN	_	12	pobj
+14	.	.	.	_	11	punct
+

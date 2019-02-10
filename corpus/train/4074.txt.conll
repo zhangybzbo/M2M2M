@@ -1,0 +1,25 @@
+1	One	one	CD	_	14	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	most	most	RBS	_	5	advmod
+5	important	important	JJ	_	6	amod
+6	ostraca	ostraca	NN	_	2	pobj
+7	found	find	VBN	_	6	vmod
+8	at	at	IN	_	7	prep
+9	Mesad	Mesad	NNP	_	10	nn
+10	Hashavyahu	Hashavyahu	NNP	_	8	pobj
+11	is	be	VBZ	_	14	cop
+12	a	a	DT	_	14	det
+13	written	written	JJ	_	14	amod
+14	appeal	appeal	NN	_	0	ROOT
+15	by	by	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	field	field	NN	_	18	nn
+18	worker	worker	NN	_	15	pobj
+19	to	to	TO	_	14	prep
+20	the	the	DT	_	21	det
+21	fortress	fortress	NN	_	23	poss
+22	's	's	POS	_	21	possessive
+23	governor	governor	NN	_	19	pobj
+24	.	.	.	_	14	punct
+

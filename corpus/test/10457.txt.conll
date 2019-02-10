@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	show	show	NN	_	3	nsubj
+3	offers	offer	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	constructive	constructive	JJ	_	6	amod
+6	discussion	discussion	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	hot-button	hot-button	NN	_	10	nn
+10	topic	topic	NN	_	7	pobj
+11	with	with	IN	_	6	prep
+12	leading	lead	VBG	_	14	amod
+13	M&A	m&a	NN	_	14	nn
+14	experts	expert	NNS	_	11	pobj
+15	.	.	.	_	3	punct
+

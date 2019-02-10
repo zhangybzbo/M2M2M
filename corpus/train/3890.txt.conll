@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	attachment	attachment	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	3	dobj
+5	taper	taper	VB	_	4	dep
+6	shank	shank	NN	_	5	dobj
+7	which	which	WDT	_	9	nsubjpass
+8	is	be	VBZ	_	9	auxpass
+9	inserted	insert	VBN	_	6	rcmod
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	spindle	spindle	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	machine	machine	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

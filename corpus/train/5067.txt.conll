@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	organisation	organisation	NN	_	3	nn
+3	campaigns	campaign	NNS	_	0	ROOT
+4	against	against	IN	_	3	prep
+5	such	such	JJ	_	6	amod
+6	things	thing	NNS	_	4	pobj
+7	as	as	IN	_	6	prep
+8	child	child	NN	_	9	nn
+9	labour	labour	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

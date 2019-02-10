@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	statement	statement	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	writer	writer	NN	_	8	poss
+7	's	's	POS	_	6	possessive
+8	knowledge	knowledge	NN	_	4	pobj
+9	and	and	CC	_	8	cc
+10	its	its	PRP$	_	11	poss
+11	ideas	idea	NNS	_	8	conj
+12	are	be	VBP	_	13	cop
+13	fresh	fresh	JJ	_	3	dep
+14	and	and	CC	_	13	cc
+15	original	original	JJ	_	13	conj
+16	.	.	.	_	3	punct
+

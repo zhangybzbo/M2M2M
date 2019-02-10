@@ -1,0 +1,11 @@
+1	Students	student	NNS	_	3	nsubj
+2	actually	actually	RB	_	3	advmod
+3	benefit	benefit	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	study	study	NN	_	4	pobj
+6	through	through	IN	_	3	prep
+7	an	a	DT	_	9	det
+8	STS	st	NN	_	9	nn
+9	approach	approach	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

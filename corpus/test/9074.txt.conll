@@ -1,0 +1,20 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	dispute	dispute	NN	_	0	ROOT
+5	over	over	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	plot	plot	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	land	land	NN	_	8	pobj
+10	where	where	WRB	_	15	advmod
+11	hundreds	hundred	NNS	_	15	nsubjpass
+12	of	of	IN	_	11	prep
+13	babies	baby	NNS	_	12	pobj
+14	are	be	VBP	_	15	auxpass
+15	believed	believe	VBN	_	9	rcmod
+16	to	to	TO	_	18	aux
+17	be	be	VB	_	18	auxpass
+18	buried	bury	VBN	_	15	xcomp
+19	.	.	.	_	4	punct
+

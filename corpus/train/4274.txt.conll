@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	authors	author	NNS	_	3	nsubj
+3	propose	propose	VBP	_	0	ROOT
+4	galaxy	galaxy	NN	_	5	nn
+5	clusters	cluster	NNS	_	3	dobj
+6	as	as	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	tool	tool	NN	_	6	pobj
+9	for	for	IN	_	8	prep
+10	cosmology	cosmology	NN	_	9	pobj
+11	.	.	.	_	3	punct
+

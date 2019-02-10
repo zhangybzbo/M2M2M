@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	large	large	JJ	_	3	amod
+3	rig	rig	NN	_	4	nsubj
+4	combines	combine	VBZ	_	0	ROOT
+5	a	a	DT	_	7	det
+6	trampoline	trampoline	NN	_	7	nn
+7	system	system	NN	_	4	dobj
+8	with	with	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	bungee	bungee	NN	_	12	nn
+11	cord	cord	NN	_	12	nn
+12	system	system	NN	_	8	pobj
+13	.	.	.	_	4	punct
+

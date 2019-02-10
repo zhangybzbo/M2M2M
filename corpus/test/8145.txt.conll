@@ -1,0 +1,16 @@
+1	William	William	NNP	_	3	nn
+2	H.	H.	NNP	_	3	nn
+3	Parker	Parker	NNP	_	0	ROOT
+4	was	be	VBD	_	3	dep
+5	the	the	DT	_	4	nsubj
+6	longest	longest	JJS	_	5	amod
+7	serving	serve	VBG	_	6	xcomp
+8	police	police	NN	_	9	nn
+9	chief	chief	NN	_	7	dobj
+10	in	in	IN	_	9	prep
+11	Los	Los	NNP	_	14	nn
+12	Angeles	Angeles	NNP	_	14	nn
+13	Police	Police	NNP	_	14	nn
+14	Department	Department	NNP	_	10	pobj
+15	.	.	.	_	3	punct
+

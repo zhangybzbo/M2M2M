@@ -1,0 +1,9 @@
+1	He	he	PRP	_	2	nsubj
+2	gave	give	VBD	_	0	ROOT
+3	two	two	CD	_	4	num
+4	candies	candy	NNS	_	2	dobj
+5	to	to	TO	_	2	prep
+6	each	each	DT	_	7	det
+7	child	child	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

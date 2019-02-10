@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	Trustees	trustee	NNS	_	3	nsubj
+3	invested	invest	VBD	_	0	ROOT
+4	money	money	NN	_	3	dobj
+5	directly	directly	RB	_	3	advmod
+6	into	into	IN	_	3	prep
+7	funds	fund	NNS	_	6	pobj
+8	made	make	VBN	_	7	vmod
+9	available	available	JJ	_	8	acomp
+10	by	by	IN	_	9	prep
+11	Newton	Newton	NNP	_	12	nn
+12	Investment	Investment	NNP	_	10	pobj
+13	.	.	.	_	3	punct
+

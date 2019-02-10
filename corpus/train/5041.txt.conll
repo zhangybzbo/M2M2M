@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	factory	factory	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	waste	waste	NN	_	9	nsubjpass
+5	had	have	VBD	_	9	aux
+6	still	still	RB	_	9	advmod
+7	not	not	RB	_	9	neg
+8	been	be	VBN	_	9	auxpass
+9	proven	prove	VBN	_	0	ROOT
+10	as	as	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	cause	cause	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	Minamata	minamata	JJ	_	15	amod
+15	disease	disease	NN	_	13	pobj
+16	.	.	.	_	9	punct
+

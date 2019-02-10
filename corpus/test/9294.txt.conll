@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss
+2	vision	vision	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	heaven	heaven	NN	_	3	pobj
+5	is	be	VBZ	_	0	ROOT
+6	to	to	TO	_	8	aux
+7	be	be	VB	_	8	auxpass
+8	surrounded	surround	VBN	_	5	xcomp
+9	by	by	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	clowder	clowder	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	cats	cat	NNS	_	12	pobj
+14	.	.	.	_	5	punct
+

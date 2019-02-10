@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	fire	fire	NN	_	6	nsubjpass
+3	inside	inside	IN	_	2	prep
+4	WTC	WTC	NNP	_	3	pobj
+5	was	be	VBD	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	exploding	explode	VBG	_	9	amod
+9	fuel	fuel	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

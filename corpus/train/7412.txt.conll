@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	contents	contents	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	questionnaire	questionnaire	NN	_	3	pobj
+6	included	include	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	gender	gender	NN	_	6	dobj
+9	and	and	CC	_	8	cc
+10	age	age	NN	_	8	conj
+11	of	of	IN	_	8	prep
+12	the	the	DT	_	13	det
+13	patient	patient	NN	_	11	pobj
+14	,	,	,	_	8	punct
+15	his/her	his/her	NN	_	16	nn
+16	knowledge	knowledge	NN	_	8	appos
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	procedure	procedure	NN	_	17	pobj
+20	undertaken	undertake	VBN	_	19	vmod
+21	and	and	CC	_	20	cc
+22	the	the	DT	_	23	det
+23	person	person	NN	_	20	conj
+24	obtaining	obtain	VBG	_	23	vmod
+25	consent	consent	NN	_	24	dobj
+26	.	.	.	_	6	punct
+

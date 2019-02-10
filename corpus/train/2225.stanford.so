@@ -1,0 +1,9 @@
+0	38	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="actress" pos="NN" nsubj="t2"
+12	16	tok id="t2" base="go" pos="VBD" ROOT="ROOT"
+17	21	tok id="t3" base="into" pos="IN" prep="t2"
+22	29	tok id="t4" base="cardiac" pos="JJ" amod="t5"
+30	36	tok id="t5" base="arrest" pos="NN" pobj="t3"
+37	38	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

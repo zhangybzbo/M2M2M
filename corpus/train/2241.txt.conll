@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	BM	bm	NN	_	0	ROOT
+3	purchased	purchase	VBN	_	2	vmod
+4	from	from	IN	_	3	prep
+5	Stevens	Stevens	NNP	_	4	pobj
+6	in	in	IN	_	2	prep
+7	December	December	NNP	_	6	pobj
+8	1861	1861	CD	_	7	num
+9	a	a	DT	_	10	det
+10	parcel	parcel	NN	_	7	dep
+11	of	of	IN	_	10	prep
+12	116	116	CD	_	13	num
+13	birds	bird	NNS	_	11	pobj
+14	from	from	IN	_	10	prep
+15	various	various	JJ	_	16	amod
+16	localities	locality	NNS	_	14	pobj
+17	including	include	VBG	_	16	prep
+18	Mysol	Mysol	NNP	_	17	pobj
+19	.	.	.	_	2	punct
+

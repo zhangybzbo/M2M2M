@@ -1,0 +1,13 @@
+1	Yesterday	yesterday	NN	_	8	tmod
+2	a	a	DT	_	7	det
+3	big	big	JJ	_	7	amod
+4	huge	huge	JJ	_	7	amod
+5	beautiful	beautiful	JJ	_	7	amod
+6	orange	orange	NN	_	7	nn
+7	butterfly	butterfly	NN	_	8	nsubj
+8	flew	fly	VBD	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	my	my	PRP$	_	11	poss
+11	patio	patio	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

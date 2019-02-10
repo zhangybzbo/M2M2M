@@ -1,0 +1,16 @@
+1	She	she	PRP	_	2	nsubj
+2	hold	hold	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	saw	saw	NN	_	2	dobj
+5	in	in	IN	_	4	prep
+6	place	place	NN	_	5	pobj
+7	with	with	IN	_	2	prep
+8	its	its	PRP$	_	10	poss
+9	blade	blade	NN	_	10	nn
+10	right	right	NN	_	7	pobj
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	cut	cut	NN	_	14	nn
+14	line	line	NN	_	11	pobj
+15	.	.	.	_	2	punct
+

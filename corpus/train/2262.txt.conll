@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	group	group	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	cover	cover	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	Rolling	Rolling	NNP	_	9	nn
+8	Stone	Stone	NNP	_	9	nn
+9	magazine	magazine	NN	_	6	pobj
+10	on	on	IN	_	3	prep
+11	March	March	NNP	_	10	pobj
+12	29	29	CD	_	11	num
+13	,	,	,	_	11	punct
+14	1973	1973	CD	_	11	num
+15	,	,	,	_	11	punct
+16	3	3	CD	_	17	num
+17	months	month	NNS	_	11	appos
+18	after	after	IN	_	21	mark
+19	this	this	DT	_	21	nsubjpass
+20	was	be	VBD	_	21	auxpass
+21	released	release	VBN	_	3	advcl
+22	.	.	.	_	3	punct
+

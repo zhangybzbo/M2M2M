@@ -1,0 +1,12 @@
+0	48	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="handbag" pos="NN" nsubjpass="t3"
+12	15	tok id="t2" base="be" pos="VBD" auxpass="t3"
+16	22	tok id="t3" base="lock" pos="VBN" ROOT="ROOT"
+23	25	tok id="t4" base="in" pos="IN" prep="t3"
+26	27	tok id="t5" base="a" pos="DT" det="t8"
+28	33	tok id="t6" base="glass" pos="NN" nn="t8"
+34	41	tok id="t7" base="display" pos="NN" nn="t8"
+42	46	tok id="t8" base="case" pos="NN" pobj="t4"
+47	48	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	6	det
+2	180	180	CD	_	6	num
+3	cm	cm	NN	_	6	nn
+4	thick	thick	JJ	_	6	amod
+5	concrete	concrete	JJ	_	6	amod
+6	shield	shield	NN	_	7	nsubj
+7	starts	start	VBZ	_	0	ROOT
+8	at	at	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	radius	radius	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	600	600	CD	_	13	num
+13	cm	cm	NN	_	11	pobj
+14	.	.	.	_	7	punct
+

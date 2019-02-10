@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	bottom	bottom	JJ	_	3	amod
+3	photo	photo	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	10	det
+7	New	New	NNP	_	10	nn
+8	York	York	NNP	_	10	nn
+9	public	public	JJ	_	10	amod
+10	library	library	NN	_	5	pobj
+11	.	.	.	_	4	punct
+

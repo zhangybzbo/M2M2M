@@ -1,0 +1,25 @@
+1	A	a	DT	_	3	det
+2	deposit	deposit	NN	_	3	nn
+3	ages	age	NNS	_	0	ROOT
+4	,	,	,	_	6	punct
+5	soil	soil	NN	_	6	nn
+6	formation	formation	NN	_	3	dep
+7	,	,	,	_	6	punct
+8	weathering	weather	VBG	_	6	vmod
+9	,	,	,	_	8	punct
+10	diagenetic	diagenetic	JJ	_	11	amod
+11	processes	process	NNS	_	8	conj
+12	,	,	,	_	8	punct
+13	and	and	CC	_	8	cc
+14	earthquake	earthquake	NN	_	8	conj
+15	shaking	shake	VBG	_	14	vmod
+16	lead	lead	NN	_	15	dobj
+17	to	to	TO	_	16	prep
+18	consolidation	consolidation	NN	_	17	pobj
+19	and	and	CC	_	18	cc
+20	cementation	cementation	NN	_	18	conj
+21	of	of	IN	_	18	prep
+22	the	the	DT	_	23	det
+23	sediment	sediment	NN	_	21	pobj
+24	.	.	.	_	6	punct
+

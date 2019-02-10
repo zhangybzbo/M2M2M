@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	punk	punk	NN	_	3	nn
+3	explosion	explosion	NN	_	4	nsubj
+4	cultivated	cultivate	VBD	_	0	ROOT
+5	the	the	DT	_	8	det
+6	underground/indie	underground/indie	NN	_	8	nn
+7	rock	rock	NN	_	8	nn
+8	scene	scene	NN	_	4	dobj
+9	that	that	WDT	_	14	nsubjpass
+10	would	would	MD	_	14	aux
+11	one	one	CD	_	12	num
+12	day	day	NN	_	14	tmod
+13	be	be	VB	_	14	auxpass
+14	called	call	VBN	_	8	rcmod
+15	`	`	``	_	17	punct
+16	alternative	alternative	JJ	_	17	amod
+17	music	music	NN	_	14	dep
+18	'	'	''	_	17	punct
+19	.	.	.	_	4	punct
+

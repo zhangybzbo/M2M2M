@@ -1,0 +1,20 @@
+1	Metallurgical	metallurgical	JJ	_	2	amod
+2	Plant	plant	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	shown	show	VBN	_	0	ROOT
+5	that	that	IN	_	16	mark
+6	the	the	DT	_	7	det
+7	performance	performance	NN	_	16	nsubj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	clamping	clamp	VBG	_	11	amod
+11	mechanism	mechanism	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	gun	gun	NN	_	12	pobj
+15	is	be	VBZ	_	16	cop
+16	less	less	JJR	_	4	ccomp
+17	than	than	IN	_	16	prep
+18	satisfactory	satisfactory	JJ	_	17	pobj
+19	.	.	.	_	4	punct
+

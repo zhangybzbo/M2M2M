@@ -1,0 +1,25 @@
+1	However	however	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	recent	recent	JJ	_	4	amod
+4	research	research	NN	_	5	nsubj
+5	demonstrates	demonstrate	VBZ	_	0	ROOT
+6	that	that	IN	_	13	mark
+7	most	most	JJS	_	8	amod
+8	ulcers	ulcer	NNS	_	13	nsubjpass
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	duodenum	duodenum	NN	_	9	pobj
+12	are	be	VBP	_	13	auxpass
+13	caused	cause	VBN	_	5	ccomp
+14	by	by	IN	_	13	prep
+15	an	a	DT	_	17	det
+16	infectious	infectious	JJ	_	17	amod
+17	agent	agent	NN	_	14	pobj
+18	named	name	VBN	_	17	vmod
+19	Helicobacter	Helicobacter	NNP	_	20	nn
+20	pylori	pylorus	NN	_	18	dep
+21	or	or	CC	_	20	cc
+22	H.	h.	NN	_	23	nn
+23	pylori	pylorus	NN	_	20	conj
+24	.	.	.	_	5	punct
+

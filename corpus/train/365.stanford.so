@@ -1,0 +1,10 @@
+0	50	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="past" pos="JJ" amod="t1"
+5	18	tok id="t1" base="consciousness" pos="NN" nsubj="t3"
+19	21	tok id="t2" base="be" pos="VBZ" aux="t3"
+22	32	tok id="t3" base="travel" pos="VBG" ROOT="ROOT"
+33	37	tok id="t4" base="into" pos="IN" prep="t3"
+38	41	tok id="t5" base="the" pos="DT" det="t6"
+42	48	tok id="t6" base="future" pos="NN" pobj="t4"
+49	50	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,18 @@
+1	Brightly	brightly	RB	_	5	advmod
+2	colored	color	VBN	_	5	amod
+3	honey	honey	NN	_	5	nn
+4	dipper	dipper	NN	_	5	nn
+5	beads	bead	NNS	_	10	nsubj
+6	and	and	CC	_	5	cc
+7	chunky	chunky	JJ	_	9	amod
+8	disk	disk	NN	_	9	nn
+9	rings	ring	NNS	_	5	conj
+10	make	make	VBP	_	0	ROOT
+11	up	up	RP	_	10	prt
+12	this	this	DT	_	16	det
+13	all	all	DT	_	16	det
+14	wood	wood	NN	_	16	nn
+15	foot	foot	NN	_	16	nn
+16	toy	toy	NN	_	10	dobj
+17	.	.	.	_	10	punct
+

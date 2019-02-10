@@ -1,0 +1,15 @@
+1	As	as	IN	_	2	mark
+2	discussed	discuss	VBN	_	13	advcl
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	literature	literature	NN	_	3	pobj
+6	,	,	,	_	13	punct
+7	several	several	JJ	_	9	amod
+8	experimental	experimental	JJ	_	9	amod
+9	problems	problem	NNS	_	13	nsubjpass
+10	have	have	VBP	_	13	aux
+11	not	not	RB	_	13	neg
+12	been	be	VBN	_	13	auxpass
+13	solved	solve	VBN	_	0	ROOT
+14	.	.	.	_	13	punct
+

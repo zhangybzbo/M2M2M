@@ -1,0 +1,15 @@
+1	The	the	DT	_	6	det
+2	soft	soft	JJ	_	6	amod
+3	brown	brown	JJ	_	6	amod
+4	and	and	CC	_	3	cc
+5	beige	beige	JJ	_	3	conj
+6	tones	tone	NNS	_	10	nsubj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	decoration	decoration	NN	_	7	pobj
+10	provide	provide	VBP	_	0	ROOT
+11	a	a	DT	_	13	det
+12	tranquil	tranquil	JJ	_	13	amod
+13	mood	mood	NN	_	10	dobj
+14	.	.	.	_	10	punct
+

@@ -1,0 +1,13 @@
+1	Most	most	JJS	_	8	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	taste	taste	NN	_	2	pobj
+5	of	of	IN	_	4	prep
+6	strong	strong	JJ	_	7	amod
+7	onions	onion	NNS	_	5	pobj
+8	comes	come	VBZ	_	0	ROOT
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	smell	smell	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

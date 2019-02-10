@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det
+2	deputy	deputy	NN	_	8	nsubj
+3	from	from	IN	_	2	prep
+4	Albania	Albania	NNP	_	7	poss
+5	's	's	POS	_	4	possessive
+6	ruling	rule	VBG	_	7	amod
+7	party	party	NN	_	3	pobj
+8	assaulted	assault	VBD	_	0	ROOT
+9	a	a	DT	_	12	det
+10	Balkan	Balkan	NNP	_	12	nn
+11	Insight	Insight	NNP	_	12	nn
+12	editor	editor	NN	_	8	dobj
+13	when	when	WRB	_	16	advmod
+14	he	he	PRP	_	16	nsubj
+15	was	be	VBD	_	16	cop
+16	grilled	grilled	JJ	_	8	advcl
+17	over	over	IN	_	16	prep
+18	a	a	DT	_	21	det
+19	fake	fake	JJ	_	21	amod
+20	law	law	NN	_	21	nn
+21	degree	degree	NN	_	17	pobj
+22	.	.	.	_	8	punct
+

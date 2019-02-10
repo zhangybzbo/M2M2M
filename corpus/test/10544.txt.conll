@@ -1,0 +1,21 @@
+1	Since	since	IN	_	5	mark
+2	hunger	hunger	NN	_	5	nsubj
+3	and	and	CC	_	2	cc
+4	poverty	poverty	NN	_	2	conj
+5	cause	cause	VBP	_	14	advcl
+6	violence	violence	NN	_	5	dobj
+7	and	and	CC	_	6	cc
+8	unrest	unrest	NN	_	6	conj
+9	,	,	,	_	14	punct
+10	the	the	DT	_	11	det
+11	solution	solution	NN	_	14	nsubjpass
+12	must	must	MD	_	14	aux
+13	be	be	VB	_	14	auxpass
+14	found	find	VBN	_	0	ROOT
+15	in	in	IN	_	14	prep
+16	other	other	JJ	_	15	pobj
+17	than	than	IN	_	16	prep
+18	military	military	JJ	_	19	amod
+19	action	action	NN	_	17	pobj
+20	.	.	.	_	14	punct
+

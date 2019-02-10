@@ -1,0 +1,11 @@
+0	61	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="commander" pos="NN" nsubj="t3"
+14	17	tok id="t2" base="have" pos="VBZ" aux="t3"
+18	25	tok id="t3" base="drag" pos="VBN" ROOT="ROOT"
+26	34	tok id="t4" base="soldier" pos="NNS" dobj="t3"
+35	39	tok id="t5" base="into" pos="IN" prep="t3"
+40	51	tok id="t6" base="unnecessary" pos="JJ" amod="t7"
+52	59	tok id="t7" base="battle" pos="NNS" pobj="t5"
+60	61	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

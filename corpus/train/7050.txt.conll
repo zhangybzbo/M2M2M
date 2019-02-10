@@ -1,0 +1,21 @@
+1	Characters	character	NNS	_	9	nsubjpass
+2	native	native	JJ	_	1	amod
+3	to	to	TO	_	2	prep
+4	the	the	DT	_	6	det
+5	African	african	JJ	_	6	amod
+6	continent	continent	NN	_	3	pobj
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	depicted	depict	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	comics	comic	NNS	_	10	pobj
+12	since	since	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	beginnings	beginning	NNS	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	modern	modern	JJ	_	19	amod
+18	comic	comic	JJ	_	19	amod
+19	strip	strip	NN	_	15	pobj
+20	.	.	.	_	9	punct
+

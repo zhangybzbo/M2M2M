@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj
+2	report	report	VBP	_	0	ROOT
+3	a	a	DT	_	6	det
+4	rather	rather	RB	_	5	advmod
+5	unusual	unusual	JJ	_	6	amod
+6	case	case	NN	_	2	dobj
+7	of	of	IN	_	6	prep
+8	severe	severe	JJ	_	10	amod
+9	ocular	ocular	JJ	_	10	amod
+10	injury	injury	NN	_	7	pobj
+11	caused	cause	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	shank	shank	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	19	det
+17	triplet	triplet	NN	_	19	nn
+18	fish	fish	NN	_	19	nn
+19	hook	hook	NN	_	15	pobj
+20	.	.	.	_	2	punct
+

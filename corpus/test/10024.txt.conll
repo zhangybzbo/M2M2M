@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	det
+2	book	book	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	collection	collection	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	his	he	PRP$	_	8	poss
+8	lectures	lecture	VBZ	_	6	pobj
+9	and	and	CC	_	8	cc
+10	papers	papers	NNS	_	8	conj
+11	that	that	WDT	_	12	nsubj
+12	summarised	summarise	VBD	_	8	rcmod
+13	his	he	PRP$	_	14	poss
+14	thoughts	thought	NNS	_	12	dobj
+15	on	on	IN	_	12	prep
+16	the	the	DT	_	17	det
+17	philosophy	philosophy	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	science	science	NN	_	18	pobj
+20	.	.	.	_	5	punct
+

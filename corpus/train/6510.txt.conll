@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	inserted	insert	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	faces	face	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	provided	provide	VBN	_	8	amod
+8	templates	template	NNS	_	5	pobj
+9	.	.	.	_	2	punct
+

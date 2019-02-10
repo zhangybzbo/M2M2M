@@ -1,0 +1,9 @@
+1	Celebrity	Celebrity	NNP	_	3	nn
+2	royalties	royalty	NNS	_	3	nn
+3	flow	flow	NN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	Dutch	dutch	JJ	_	7	amod
+6	tax	tax	NN	_	7	nn
+7	shelters	shelter	NNS	_	4	pobj
+8	.	.	.	_	3	punct
+

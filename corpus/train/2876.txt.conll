@@ -1,0 +1,19 @@
+1	In	in	IN	_	6	prep
+2	my	my	PRP$	_	3	poss
+3	case	case	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	disk	disk	NN	_	6	nsubj
+6	was	be	VBD	_	0	ROOT
+7	inside	inside	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	jewel	jewel	NN	_	10	nn
+10	case	case	NN	_	7	pobj
+11	which	which	WDT	_	12	nsubj
+12	was	be	VBD	_	10	rcmod
+13	itself	itself	PRP	_	12	nsubj
+14	inside	inside	IN	_	12	prep
+15	the	the	DT	_	17	det
+16	mailing	mailing	NN	_	17	nn
+17	box	box	NN	_	14	pobj
+18	.	.	.	_	6	punct
+

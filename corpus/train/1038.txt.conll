@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	container	container	NN	_	3	nsubj
+3	encloses	enclose	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	one-cup	one-cup	JJ	_	6	amod
+6	capacity	capacity	NN	_	3	dobj
+7	,	,	,	_	3	punct
+8	plus	plus	CC	_	3	cc
+9	with	with	IN	_	3	conj
+10	the	the	DT	_	12	det
+11	bonus	bonus	NN	_	12	nn
+12	lid	lid	NN	_	9	pobj
+13	it	it	PRP	_	14	nsubj
+14	provides	provide	VBZ	_	12	rcmod
+15	convenient	convenient	JJ	_	16	amod
+16	storage	storage	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	chopped	chop	VBN	_	19	amod
+19	foods	food	NNS	_	17	pobj
+20	.	.	.	_	3	punct
+

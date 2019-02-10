@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	brotherhood	brotherhood	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	feudal	feudal	JJ	_	5	amod
+5	aristocrats	aristocrat	NNS	_	3	pobj
+6	was	be	VBD	_	7	cop
+7	itself	itself	PRP	_	0	ROOT
+8	a	a	DT	_	9	det
+9	democracy	democracy	NN	_	7	dep
+10	and	and	CC	_	9	cc
+11	devolved	devolve	VBN	_	9	conj
+12	later	later	RB	_	11	advmod
+13	into	into	IN	_	11	prep
+14	democratic	democratic	JJ	_	16	amod
+15	European	european	JJ	_	16	amod
+16	states	state	NNS	_	13	pobj
+17	.	.	.	_	7	punct
+

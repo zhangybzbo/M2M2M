@@ -1,0 +1,20 @@
+1	Tofu	tofu	NN	_	13	nsubj
+2	-LRB-	-lrb-	-LRB-	_	3	punct
+3	to-fu	to-fu	NN	_	1	appos
+4	-RRB-	-rrb-	-RRB-	_	3	punct
+5	,	,	,	_	1	punct
+6	or	or	CC	_	1	cc
+7	bean	bean	NN	_	8	nn
+8	curd	curd	NN	_	1	conj
+9	is	be	VBZ	_	13	cop
+10	a	a	DT	_	13	det
+11	soft	soft	JJ	_	13	amod
+12	white	white	JJ	_	13	amod
+13	food	food	NN	_	0	ROOT
+14	made	make	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	coagulating	coagulate	VBG	_	15	pcomp
+17	soy	soy	NN	_	18	nn
+18	milk	milk	NN	_	16	dobj
+19	.	.	.	_	13	punct
+

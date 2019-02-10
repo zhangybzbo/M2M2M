@@ -1,0 +1,22 @@
+1	Yesterday	yesterday	NN	_	3	nsubj
+2	I	i	CD	_	1	num
+3	put	put	VBP	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	my	my	PRP$	_	7	poss
+6	largest	largest	JJS	_	7	amod
+7	pants	pants	NNS	_	4	pobj
+8	,	,	,	_	3	punct
+9	those	those	DT	_	10	det
+10	pants	pants	NNS	_	3	dobj
+11	that	that	WDT	_	12	nsubj
+12	were	be	VBD	_	10	rcmod
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	box	box	NN	_	13	pobj
+16	slated	slate	VBN	_	15	vmod
+17	to	to	TO	_	18	aux
+18	go	go	VB	_	16	xcomp
+19	to	to	TO	_	18	prep
+20	Goodwill	Goodwill	NNP	_	19	pobj
+21	.	.	.	_	3	punct
+

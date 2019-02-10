@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	letter	letter	NN	_	8	nsubjpass
+3	informing	inform	VBG	_	2	vmod
+4	about	about	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	study	study	NN	_	4	pobj
+7	was	be	VBD	_	8	auxpass
+8	sent	send	VBN	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	all	all	DT	_	11	det
+11	patients	patient	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

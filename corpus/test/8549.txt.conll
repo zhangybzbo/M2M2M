@@ -1,0 +1,17 @@
+1	I	I	PRP	_	3	nsubj
+2	then	then	RB	_	3	advmod
+3	widened	widen	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	opening	opening	NN	_	3	dobj
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	seat	seat	NN	_	15	nsubj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	cockpit	cockpit	NN	_	12	nn
+12	tub	tub	NN	_	9	pobj
+13	a	a	DT	_	15	det
+14	tiny	tiny	JJ	_	15	amod
+15	bit	bit	NN	_	6	pobj
+16	.	.	.	_	3	punct
+

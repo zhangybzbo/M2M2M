@@ -1,0 +1,10 @@
+1	Even	even	RB	_	3	advmod
+2	commercial	commercial	JJ	_	3	amod
+3	networks	network	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	moved	move	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	high-definition	high-definition	JJ	_	8	amod
+8	broadcast	broadcast	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

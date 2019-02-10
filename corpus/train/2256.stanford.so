@@ -1,0 +1,12 @@
+0	50	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="those" pos="DT" det="t1"
+6	12	tok id="t1" base="alien" pos="NNS" nsubj="t2"
+13	19	tok id="t2" base="travel" pos="VBP" ROOT="ROOT"
+20	22	tok id="t3" base="to" pos="TO" prep="t2"
+23	26	tok id="t4" base="the" pos="DT" det="t6"
+27	31	tok id="t5" base="deep" pos="JJ" amod="t6"
+32	37	tok id="t6" base="space" pos="NN" pobj="t3"
+38	40	tok id="t7" base="in" pos="IN" prep="t2"
+41	48	tok id="t8" base="seconds" pos="NNS" pobj="t7"
+49	50	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

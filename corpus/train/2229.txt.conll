@@ -1,0 +1,11 @@
+1	New	New	NNP	_	3	nn
+2	Western	Western	NNP	_	3	nn
+3	customs	custom	NNS	_	4	nsubj
+4	moved	move	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	traditional	traditional	JJ	_	9	amod
+8	Asian	asian	JJ	_	9	amod
+9	culture	culture	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

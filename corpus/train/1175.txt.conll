@@ -1,0 +1,24 @@
+1	Sun	Sun	NNP	_	2	nn
+2	astronomy	astronomy	NNP	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	explored	explore	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	book	book	NN	_	5	pobj
+8	with	with	IN	_	7	prep
+9	large	large	JJ	_	10	amod
+10	type	type	NN	_	8	pobj
+11	,	,	,	_	10	punct
+12	full-page	full-page	JJ	_	14	amod
+13	color	color	NN	_	14	nn
+14	photos	photo	NNS	_	10	conj
+15	,	,	,	_	10	punct
+16	and	and	CC	_	10	cc
+17	a	a	DT	_	19	det
+18	word	word	NN	_	19	nn
+19	list	list	NN	_	10	conj
+20	for	for	IN	_	19	prep
+21	young	young	JJ	_	22	amod
+22	readers	reader	NNS	_	20	pobj
+23	.	.	.	_	4	punct
+

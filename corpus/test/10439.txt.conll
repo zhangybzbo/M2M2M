@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	teenage	teenage	JJ	_	3	amod
+3	boys	boy	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	dragged	drag	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	fighting	fighting	NN	_	6	pobj
+9	at	at	IN	_	8	prep
+10	school	school	NN	_	9	pobj
+11	.	.	.	_	5	punct
+

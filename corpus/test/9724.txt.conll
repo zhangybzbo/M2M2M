@@ -1,0 +1,15 @@
+1	Subsequent	subsequent	JJ	_	3	amod
+2	DNA	dna	NN	_	3	nn
+3	analysis	analysis	NN	_	4	nsubj
+4	confirmed	confirm	VBD	_	0	ROOT
+5	that	that	IN	_	9	mark
+6	the	the	DT	_	7	det
+7	fetus	fetus	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	derived	derive	VBN	_	4	ccomp
+10	from	from	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	cloned	clone	VBN	_	13	amod
+13	embryo	embryo	NN	_	10	pobj
+14	.	.	.	_	4	punct
+

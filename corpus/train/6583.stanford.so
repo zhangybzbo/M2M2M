@@ -1,0 +1,13 @@
+0	69	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="Bob" pos="NNP" nsubj="t5"
+4	7	tok id="t1" base="the" pos="DT" det="t2"
+8	15	tok id="t2" base="builder" pos="NN" nsubj="t5"
+16	19	tok id="t3" base="and" pos="CC" cc="t2"
+20	27	tok id="t4" base="friend" pos="NNS" conj="t2"
+28	37	tok id="t5" base="construct" pos="VBP" ROOT="ROOT"
+38	40	tok id="t6" base="a" pos="DT" det="t9"
+41	53	tok id="t7" base="ecologically" pos="RB" advmod="t8"
+54	62	tok id="t8" base="friendly" pos="JJ" amod="t9"
+63	67	tok id="t9" base="town" pos="NN" dobj="t5"
+68	69	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

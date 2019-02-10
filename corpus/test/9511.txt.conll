@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	pilots	pilot	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	flown	fly	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	trouble	trouble	NN	_	5	pobj
+7	before	before	IN	_	11	mark
+8	they	they	PRP	_	11	nsubj
+9	have	have	VBP	_	11	aux
+10	even	even	RB	_	11	advmod
+11	seen	see	VBN	_	4	advcl
+12	it	it	PRP	_	11	dobj
+13	by	by	IN	_	11	prep
+14	flying	fly	VBG	_	13	pcomp
+15	near	near	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	base	base	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	clouds	cloud	NNS	_	18	pobj
+21	.	.	.	_	4	punct
+

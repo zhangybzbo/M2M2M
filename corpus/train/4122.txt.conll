@@ -1,0 +1,24 @@
+1	In	in	IN	_	0	ROOT
+2	1890	1890	CD	_	1	pobj
+3	,	,	,	_	1	punct
+4	the	the	DT	_	5	det
+5	nobleman	nobleman	NN	_	3	dep
+6	organized	organize	VBN	_	5	dep
+7	and	and	CC	_	6	cc
+8	founded	found	VBN	_	6	conj
+9	a	a	DT	_	11	det
+10	sports	sport	NNS	_	11	nn
+11	organization	organization	NN	_	6	dobj
+12	,	,	,	_	11	punct
+13	Union	Union	NNP	_	19	nn
+14	des	des	NNP	_	19	nn
+15	Societes	Societes	NNP	_	19	nn
+16	Francaises	Francaises	NNP	_	19	nn
+17	de	de	IN	_	19	amod
+18	Sports	Sports	NNP	_	19	nn
+19	Athletiques	Athletiques	NNP	_	11	appos
+20	-LRB-	-lrb-	-LRB-	_	21	punct
+21	USFSA	USFSA	NNP	_	19	appos
+22	-RRB-	-rrb-	-RRB-	_	21	punct
+23	.	.	.	_	5	punct
+

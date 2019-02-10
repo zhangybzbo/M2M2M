@@ -1,0 +1,15 @@
+1	Quo	quo	NN	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	monthly	monthly	JJ	_	5	amod
+5	magazine	magazine	NN	_	0	ROOT
+6	that	that	WDT	_	7	nsubj
+7	informs	inform	VBZ	_	5	rcmod
+8	about	about	IN	_	7	prep
+9	science	science	NN	_	8	pobj
+10	through	through	IN	_	7	prep
+11	thinking	thinking	NN	_	10	pobj
+12	and	and	CC	_	11	cc
+13	entertainment	entertainment	NN	_	11	conj
+14	.	.	.	_	5	punct
+

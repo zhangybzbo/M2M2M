@@ -1,0 +1,1 @@
+The purpose of this paper is to present an on-going research that constructs a live thesaurus directly from search term logs of real-world search engines .

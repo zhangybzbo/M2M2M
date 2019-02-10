@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	bacteria	bacterium	NNS	_	3	nsubj
+3	released	release	VBD	_	0	ROOT
+4	arsenic	arsenic	JJ	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	groundwater	groundwater	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

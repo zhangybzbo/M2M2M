@@ -1,0 +1,3 @@
+T1	Term 41 45	cars
+T2	Term 49 57	overseas
+R1	Entity-Destination Arg1:T1 Arg2:T2

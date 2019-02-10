@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	following	following	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	list	list	NN	_	0	ROOT
+6	showing	show	VBG	_	5	vmod
+7	the	the	DT	_	11	det
+8	100	100	CD	_	11	num
+9	largest	largest	JJS	_	11	amod
+10	incorporated	incorporated	JJ	_	11	amod
+11	cities	city	NNS	_	6	dobj
+12	in	in	IN	_	6	prep
+13	the	the	DT	_	14	det
+14	state	state	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	California	California	NNP	_	15	pobj
+17	ranked	rank	VBD	_	6	vmod
+18	by	by	IN	_	17	prep
+19	population	population	NN	_	18	pobj
+20	.	.	.	_	5	punct
+

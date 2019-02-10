@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	decedent	decedent	NN	_	8	nsubj
+3	was	be	VBD	_	8	cop
+4	a	a	DT	_	8	det
+5	licensed	licensed	JJ	_	8	amod
+6	commercial	commercial	JJ	_	8	amod
+7	truck	truck	NN	_	8	nn
+8	driver	driver	NN	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	had	have	VBD	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	employed	employ	VBN	_	8	conj
+13	by	by	IN	_	12	prep
+14	this	this	DT	_	16	det
+15	trucking	trucking	NN	_	16	nn
+16	company	company	NN	_	13	pobj
+17	for	for	IN	_	12	prep
+18	five	five	CD	_	19	num
+19	years	year	NNS	_	17	pobj
+20	.	.	.	_	8	punct
+

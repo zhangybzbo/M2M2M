@@ -1,0 +1,21 @@
+1	First	First	NNP	_	3	nn
+2	these	these	DT	_	3	det
+3	hawks	hawk	NNS	_	4	nsubj
+4	made	make	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	meal	meal	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	diving	diving	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	teal	teal	NN	_	10	pobj
+12	,	,	,	_	4	punct
+13	then	then	RB	_	18	advmod
+14	a	a	DT	_	18	nsubj
+15	trimming	trim	VBG	_	14	amod
+16	of	of	IN	_	15	prep
+17	finches	finch	NNS	_	16	pobj
+18	came	come	VBD	_	4	dep
+19	last	last	JJ	_	18	advmod
+20	.	.	.	_	4	punct
+

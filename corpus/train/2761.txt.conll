@@ -1,0 +1,15 @@
+1	He	he	PRP	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	surprised	surprise	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	discover	discover	VB	_	3	xcomp
+6	that	that	IN	_	10	mark
+7	the	the	DT	_	8	det
+8	suitcase	suitcase	NN	_	10	nsubj
+9	was	be	VBD	_	10	cop
+10	full	full	JJ	_	5	ccomp
+11	of	of	IN	_	10	prep
+12	black-and-white	black-and-white	JJ	_	13	amod
+13	photographs	photograph	NNS	_	11	pobj
+14	.	.	.	_	3	punct
+

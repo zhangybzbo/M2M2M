@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	opening	opening	NN	_	3	nsubj
+3	lay	lay	VBD	_	0	ROOT
+4	just	just	RB	_	5	advmod
+5	below	below	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	exit	exit	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	left	left	JJ	_	12	amod
+11	subclavian	subclavian	JJ	_	12	amod
+12	artery	artery	NN	_	8	pobj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	arch	arch	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

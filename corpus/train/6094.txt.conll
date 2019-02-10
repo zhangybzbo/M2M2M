@@ -1,0 +1,17 @@
+1	More	more	JJR	_	2	amod
+2	people	people	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	falling	fall	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	poverty	poverty	NN	_	5	pobj
+7	,	,	,	_	4	punct
+8	especially	especially	RB	_	9	advmod
+9	those	those	DT	_	4	dobj
+10	already	already	RB	_	11	advmod
+11	struggling	struggle	VBG	_	9	vmod
+12	to	to	TO	_	13	aux
+13	make	make	VB	_	11	xcomp
+14	ends	end	NNS	_	15	nsubj
+15	meet	meet	VB	_	13	ccomp
+16	.	.	.	_	4	punct
+

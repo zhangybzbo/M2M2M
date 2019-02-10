@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	specific	specific	JJ	_	3	amod
+3	legacy	legacy	NN	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	relation	relation	NN	_	4	dobj
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	time	time	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	making	make	VBG	_	9	pcomp
+11	the	the	DT	_	12	det
+12	will	will	NN	_	10	dobj
+13	.	.	.	_	4	punct
+

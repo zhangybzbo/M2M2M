@@ -1,0 +1,19 @@
+1	Early	early	RB	_	11	advmod
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	book	book	NN	_	2	pobj
+5	,	,	,	_	11	punct
+6	a	a	DT	_	9	det
+7	seashore	seashore	NN	_	9	nn
+8	tide	tide	NN	_	9	nn
+9	pool	pool	NN	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	used	use	VBN	_	0	ROOT
+12	as	as	IN	_	11	prep
+13	an	a	DT	_	15	det
+14	exquisite	exquisite	JJ	_	15	amod
+15	metaphor	metaphor	NN	_	12	pobj
+16	for	for	IN	_	15	prep
+17	discovery	discovery	NN	_	16	pobj
+18	.	.	.	_	11	punct
+

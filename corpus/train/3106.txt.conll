@@ -1,0 +1,11 @@
+1	Tea-related	tea-related	JJ	_	2	amod
+2	scenes	scene	NNS	_	3	nsubj
+3	form	form	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	subject	subject	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	paintings	painting	NNS	_	6	pobj
+8	and	and	CC	_	7	cc
+9	drawings	drawing	NNS	_	7	conj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	Issues	issue	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	presented	present	VBN	_	0	ROOT
+4	concerning	concern	VBG	_	3	xcomp
+5	the	the	DT	_	6	det
+6	importance	importance	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	annually	annually	RB	_	9	advmod
+9	inspecting	inspect	VBG	_	7	pcomp
+10	the	the	DT	_	11	det
+11	centerboard	centerboard	NN	_	9	dobj
+12	on	on	IN	_	9	prep
+13	a	a	DT	_	14	det
+14	yacht	yacht	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

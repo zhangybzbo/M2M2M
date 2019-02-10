@@ -1,0 +1,16 @@
+1	A	a	DT	_	2	det
+2	variety	variety	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	companies	company	NNS	_	3	pobj
+5	manufacture	manufacture	VBP	_	0	ROOT
+6	boPET	bopet	NN	_	5	dobj
+7	and	and	CC	_	6	cc
+8	other	other	JJ	_	10	amod
+9	polyester	polyester	NN	_	10	nn
+10	films	film	NNS	_	6	conj
+11	under	under	IN	_	5	prep
+12	different	different	JJ	_	14	amod
+13	trade	trade	NN	_	14	nn
+14	names	name	NNS	_	11	pobj
+15	.	.	.	_	5	punct
+

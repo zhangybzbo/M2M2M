@@ -1,0 +1,18 @@
+1	Acid	acid	NN	_	2	nn
+2	precipitation	precipitation	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	when	when	WRB	_	13	advmod
+6	sulphur	sulphur	NN	_	7	nn
+7	dioxides	dioxide	NNS	_	13	nsubjpass
+8	and	and	CC	_	7	cc
+9	oxides	oxide	NNS	_	7	conj
+10	of	of	IN	_	9	prep
+11	nitrogen	nitrogen	NN	_	10	pobj
+12	were	be	VBD	_	13	auxpass
+13	released	release	VBN	_	4	advcl
+14	into	into	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	atmosphere	atmosphere	NN	_	14	pobj
+17	.	.	.	_	4	punct
+

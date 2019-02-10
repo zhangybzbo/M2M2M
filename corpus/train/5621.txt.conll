@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	hailstorm	hailstorm	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	atoms	atom	NNS	_	3	pobj
+5	triggers	trigger	VBZ	_	0	ROOT
+6	nano-avalanches	nano-avalanche	NNS	_	5	dobj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	slopes	slope	NNS	_	7	pobj
+10	.	.	.	_	5	punct
+

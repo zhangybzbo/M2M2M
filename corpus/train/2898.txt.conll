@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	fighting	fighting	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	hundreds	hundred	NNS	_	4	pobj
+6	of	of	IN	_	5	prep
+7	deaths	death	NNS	_	6	pobj
+8	and	and	CC	_	4	cc
+9	in	in	IN	_	4	conj
+10	the	the	DT	_	11	det
+11	deployment	deployment	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	peace	peace	NN	_	14	nn
+14	keepers	keeper	NNS	_	12	pobj
+15	into	into	IN	_	11	prep
+16	East	East	NNP	_	17	nn
+17	Timor	Timor	NNP	_	15	pobj
+18	.	.	.	_	3	punct
+

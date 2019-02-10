@@ -1,0 +1,1 @@
+A multiple goal model structure is formulated for a garment factory based on the objectives of the company including minimisation of lateness .

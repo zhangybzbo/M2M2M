@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	senator	senator	NN	_	4	nsubj
+3	also	also	RB	_	4	advmod
+4	wielded	wield	VBD	_	0	ROOT
+5	enormous	enormous	JJ	_	6	amod
+6	influence	influence	NN	_	4	dobj
+7	in	in	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	dispensing	dispensing	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	Rhode	Rhode	NNP	_	12	nn
+12	Island	Island	NNP	_	14	poss
+13	's	's	POS	_	12	possessive
+14	share	share	NN	_	10	pobj
+15	of	of	IN	_	14	prep
+16	expanding	expand	VBG	_	15	pcomp
+17	federal	federal	JJ	_	18	amod
+18	budgets	budget	NNS	_	16	dobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	19	pobj
+21	1950s	1950s	CD	_	20	dep
+22	and	and	CC	_	21	cc
+23	1960s	1960s	CD	_	21	conj
+24	.	.	.	_	4	punct
+

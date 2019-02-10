@@ -1,0 +1,25 @@
+1	A	a	DT	_	3	det
+2	significant	significant	JJ	_	3	amod
+3	portion	portion	NN	_	19	nsubjpass
+4	of	of	IN	_	3	prep
+5	head	head	NN	_	8	nn
+6	and	and	CC	_	5	cc
+7	neck	neck	NN	_	5	conj
+8	cancers	cancer	NNS	_	4	pobj
+9	,	,	,	_	3	punct
+10	anal	anal	JJ	_	11	amod
+11	cancers	cancer	NNS	_	3	conj
+12	,	,	,	_	3	punct
+13	and	and	CC	_	3	cc
+14	cancer	cancer	NN	_	3	conj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	larynx	larynx	NN	_	15	pobj
+18	are	be	VBP	_	19	auxpass
+19	caused	cause	VBN	_	0	ROOT
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	human	human	JJ	_	23	amod
+23	papillomavirus	papillomavirus	NN	_	20	pobj
+24	.	.	.	_	19	punct
+

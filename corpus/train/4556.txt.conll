@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	show	show	NN	_	3	nsubj
+3	tackled	tackle	VBD	_	0	ROOT
+4	many	many	JJ	_	6	amod
+5	serious	serious	JJ	_	6	amod
+6	issues	issue	NNS	_	3	dobj
+7	.	.	.	_	3	punct
+

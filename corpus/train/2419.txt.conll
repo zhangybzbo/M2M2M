@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	prophet	prophet	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	put	put	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	vaulted	vaulted	JJ	_	8	amod
+8	cell	cell	NN	_	5	pobj
+9	in	in	IN	_	4	prep
+10	a	a	DT	_	11	det
+11	dungeon	dungeon	NN	_	9	pobj
+12	,	,	,	_	11	punct
+13	where	where	WRB	_	15	advmod
+14	he	he	PRP	_	15	nsubj
+15	remained	remain	VBD	_	11	rcmod
+16	a	a	DT	_	18	det
+17	long	long	JJ	_	18	amod
+18	time	time	NN	_	15	dobj
+19	.	.	.	_	4	punct
+

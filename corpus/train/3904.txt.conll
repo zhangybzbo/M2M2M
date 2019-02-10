@@ -1,0 +1,26 @@
+1	Metastases	metastase	NNS	_	9	nsubjpass
+2	from	from	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	ovary	ovary	NN	_	2	pobj
+5	and	and	CC	_	4	cc
+6	the	the	DT	_	7	det
+7	uterus	uterus	NN	_	4	conj
+8	are	be	VBP	_	9	auxpass
+9	seen	see	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	skin	skin	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	lower	lower	JJR	_	16	amod
+16	abdomen	abdomen	NN	_	13	pobj
+17	,	,	,	_	9	punct
+18	the	the	DT	_	19	det
+19	groin	groin	NN	_	9	dep
+20	,	,	,	_	19	punct
+21	or	or	CC	_	19	cc
+22	the	the	DT	_	24	det
+23	upper	upper	JJ	_	24	amod
+24	thigh	thigh	NN	_	19	conj
+25	.	.	.	_	9	punct
+

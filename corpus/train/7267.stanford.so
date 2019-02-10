@@ -1,0 +1,13 @@
+0	58	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="tailor" pos="NN" nsubj="t2"
+11	18	tok id="t2" base="bring" pos="VBD" ROOT="ROOT"
+19	22	tok id="t3" base="he" pos="PRP$" poss="t4"
+23	31	tok id="t4" base="scissors" pos="NNS" dobj="t2"
+32	35	tok id="t5" base="and" pos="CC" cc="t4"
+36	37	tok id="t6" base="a" pos="DT" det="t9"
+38	43	tok id="t7" base="newly" pos="RB" advmod="t8"
+44	48	tok id="t8" base="make" pos="VBN" amod="t9"
+49	56	tok id="t9" base="garment" pos="NN" conj="t4"
+57	58	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

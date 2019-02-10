@@ -1,0 +1,27 @@
+1	On	on	IN	_	9	prep
+2	returning	return	VBG	_	1	pcomp
+3	home	home	NN	_	2	dobj
+4	,	,	,	_	9	punct
+5	the	the	DT	_	6	det
+6	patient	patient	NN	_	8	poss
+7	's	's	POS	_	6	possessive
+8	grandmother	grandmother	NN	_	9	nsubj
+9	applied	apply	VBD	_	0	ROOT
+10	a	a	DT	_	11	det
+11	poultice	poultice	NN	_	9	dobj
+12	to	to	TO	_	9	prep
+13	the	the	DT	_	14	det
+14	child	child	NN	_	16	poss
+15	's	's	POS	_	14	possessive
+16	ankle	ankle	NN	_	12	pobj
+17	overnight	overnight	JJ	_	9	advmod
+18	with	with	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	aim	aim	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	reducing	reduce	VBG	_	21	pcomp
+23	pain	pain	NN	_	22	dobj
+24	and	and	CC	_	23	cc
+25	inflammation	inflammation	NN	_	23	conj
+26	.	.	.	_	9	punct
+

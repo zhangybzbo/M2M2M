@@ -1,0 +1,21 @@
+1	Kegs	keg	NNS	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	Guinness	Guinness	NNP	_	2	pobj
+4	rolled	roll	VBD	_	0	ROOT
+5	off	off	RP	_	4	prt
+6	and	and	CC	_	4	cc
+7	then	then	RB	_	9	advmod
+8	were	be	VBD	_	9	auxpass
+9	grabbed	grab	VBN	_	4	conj
+10	and	and	CC	_	9	cc
+11	stacked	stack	VBN	_	9	conj
+12	up	up	RP	_	11	prt
+13	against	against	IN	_	11	prep
+14	the	the	DT	_	15	det
+15	wall	wall	NN	_	13	pobj
+16	by	by	IN	_	9	prep
+17	the	the	DT	_	19	det
+18	pub	pub	NN	_	19	nn
+19	owner	owner	NN	_	16	pobj
+20	.	.	.	_	4	punct
+

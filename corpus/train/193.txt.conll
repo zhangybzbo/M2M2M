@@ -1,0 +1,25 @@
+1	Police	Police	NNP	_	2	nsubj
+2	foiled	foiled	JJ	_	0	ROOT
+3	an	a	DT	_	4	det
+4	attempt	attempt	NN	_	2	dobj
+5	to	to	TO	_	6	aux
+6	kill	kill	VB	_	4	vmod
+7	an	a	DT	_	8	det
+8	artist	artist	NN	_	6	dobj
+9	who	who	WP	_	10	nsubj
+10	drew	draw	VBD	_	8	rcmod
+11	a	a	DT	_	12	det
+12	cartoon	cartoon	NN	_	10	dobj
+13	depicting	depict	VBG	_	10	xcomp
+14	the	the	DT	_	15	det
+15	Prophet	prophet	NN	_	13	dobj
+16	Muhammad	Muhammad	NNP	_	15	dep
+17	that	that	WDT	_	18	nsubj
+18	sparked	spark	VBD	_	16	rcmod
+19	outrage	outrage	NN	_	18	dobj
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	Muslim	muslim	JJ	_	23	amod
+23	world	world	NN	_	20	pobj
+24	.	.	.	_	2	punct
+

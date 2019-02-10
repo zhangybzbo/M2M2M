@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	electricity	electricity	NN	_	9	nsubjpass
+3	used	use	VBN	_	2	vmod
+4	for	for	IN	_	3	prep
+5	distillery	distillery	NN	_	6	nn
+6	operations	operation	NNS	_	4	pobj
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	estimated	estimate	VBN	_	0	ROOT
+10	at	at	IN	_	9	prep
+11	12.9	12.9	CD	_	13	num
+12	kWh/tonne	kwh/tonne	NN	_	13	nn
+13	cane	cane	NN	_	10	pobj
+14	,	,	,	_	9	punct
+15	with	with	IN	_	9	prep
+16	a	a	DT	_	20	det
+17	best	best	JJS	_	18	dep
+18	available	available	JJ	_	20	amod
+19	technology	technology	NN	_	20	nn
+20	rate	rate	NN	_	15	pobj
+21	of	of	IN	_	20	prep
+22	9.6	9.6	CD	_	24	num
+23	kWh/tonne	kwh/tonne	NN	_	24	nn
+24	cane	cane	NN	_	21	pobj
+25	.	.	.	_	9	punct
+

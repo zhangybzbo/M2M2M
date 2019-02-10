@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	common	common	JJ	_	3	amod
+3	buzzard	buzzard	NN	_	4	nsubj
+4	uses	use	VBZ	_	0	ROOT
+5	its	its	PRP$	_	6	poss
+6	claws	claw	NNS	_	4	dobj
+7	to	to	TO	_	8	aux
+8	grasp	grasp	VB	_	4	vmod
+9	prey	prey	NN	_	8	dobj
+10	and	and	CC	_	9	cc
+11	its	its	PRP$	_	12	poss
+12	beak	beak	NN	_	9	conj
+13	to	to	TO	_	14	aux
+14	tear	tear	VB	_	8	xcomp
+15	.	.	.	_	4	punct
+

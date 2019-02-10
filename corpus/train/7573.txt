@@ -1,0 +1,1 @@
+It is a motorized spherical mechanism that simulates the rowing motion of an oar .

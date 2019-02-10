@@ -1,0 +1,13 @@
+0	65	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="uk-based" pos="JJ" amod="t1"
+9	15	tok id="t1" base="master" pos="NN" nsubj="t9"
+16	18	tok id="t2" base="of" pos="IN" prep="t1"
+19	23	tok id="t3" base="malt" pos="NN" nn="t4"
+24	30	tok id="t4" base="stock" pos="NNS" pobj="t2"
+31	34	tok id="t5" base="the" pos="DT" det="t9"
+35	41	tok id="t6" base="finest" pos="JJS" amod="t9"
+42	50	tok id="t7" base="straight" pos="JJ" amod="t9"
+51	56	tok id="t8" base="wheat" pos="NN" nn="t9"
+57	63	tok id="t9" base="whisky" pos="NN" ROOT="ROOT"
+64	65	tok id="t10" base="-PERIOD-" pos="." punct="t9"
+

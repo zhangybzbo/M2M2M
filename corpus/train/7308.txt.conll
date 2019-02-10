@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	artist	artist	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	picture	picture	NN	_	3	dobj
+6	when	when	WRB	_	12	advmod
+7	he	he	PRP	_	12	nsubj
+8	was	be	VBD	_	12	cop
+9	a	a	DT	_	12	det
+10	fourth	fourth	JJ	_	12	amod
+11	grade	grade	NN	_	12	nn
+12	student	student	NN	_	3	advcl
+13	in	in	IN	_	12	prep
+14	Iowa	Iowa	NNP	_	15	nn
+15	City	City	NNP	_	13	pobj
+16	.	.	.	_	3	punct
+

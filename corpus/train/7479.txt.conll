@@ -1,0 +1,20 @@
+1	The	the	DT	_	4	det
+2	Corel	Corel	NNP	_	4	nn
+3	data	datum	NN	_	4	nn
+4	set	set	NN	_	7	nsubj
+5	is	be	VBZ	_	7	cop
+6	relatively	relatively	RB	_	7	advmod
+7	simple	simple	JJ	_	0	ROOT
+8	because	because	IN	_	12	mark
+9	the	the	DT	_	10	det
+10	annotations	annotation	NNS	_	12	nsubj
+11	are	be	VBP	_	12	cop
+12	nouns	noun	NNS	_	7	advcl
+13	selected	select	VBN	_	12	vmod
+14	from	from	IN	_	13	prep
+15	a	a	DT	_	18	det
+16	relatively	relatively	RB	_	17	advmod
+17	small	small	JJ	_	18	amod
+18	vocabulary	vocabulary	NN	_	14	pobj
+19	.	.	.	_	7	punct
+

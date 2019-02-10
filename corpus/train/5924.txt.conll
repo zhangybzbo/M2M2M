@@ -1,0 +1,10 @@
+1	Branton	Branton	NNP	_	3	nn
+2	bridge	bridge	NN	_	3	nn
+3	solicitors	solicitor	NNS	_	4	nsubj
+4	entered	enter	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	administration	administration	NN	_	8	nn
+8	building	building	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

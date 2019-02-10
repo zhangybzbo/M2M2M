@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	worst	worst	JJS	_	3	amod
+3	pain	pain	NN	_	7	nsubjpass
+4	of	of	IN	_	3	prep
+5	all	all	DT	_	4	pobj
+6	was	be	VBD	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	torment	torment	VB	_	8	pobj
+11	to	to	TO	_	10	prep
+12	her	she	PRP$	_	13	poss
+13	head	head	NN	_	11	pobj
+14	which	which	WDT	_	15	nsubj
+15	was	be	VBD	_	13	rcmod
+16	like	like	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	pain	pain	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	thorns	thorn	NNS	_	19	pobj
+21	pressing	press	VBG	_	18	vmod
+22	into	into	IN	_	21	prep
+23	her	she	PRP	_	22	pobj
+24	.	.	.	_	7	punct
+

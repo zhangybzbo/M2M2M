@@ -1,0 +1,17 @@
+1	But	but	CC	_	7	cc
+2	the	the	DT	_	4	det
+3	most	most	RBS	_	4	advmod
+4	damage	damage	NN	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	corrosive	corrosive	JJ	_	11	amod
+11	effects	effect	NNS	_	8	pobj
+12	of	of	IN	_	11	prep
+13	wind	wind	NN	_	12	pobj
+14	and	and	CC	_	13	cc
+15	water	water	NN	_	13	conj
+16	.	.	.	_	7	punct
+

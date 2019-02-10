@@ -1,0 +1,1 @@
+The hidden preamble or timing signal is employed to mark the time of commencement of the transmission of information pulses from a transmitter .

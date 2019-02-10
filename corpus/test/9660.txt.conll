@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	following	following	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	comprehensive	comprehensive	JJ	_	6	amod
+6	list	list	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	colors	color	NNS	_	7	pobj
+9	that	that	WDT	_	11	nsubjpass
+10	are	be	VBP	_	11	auxpass
+11	included	include	VBN	_	8	rcmod
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	Wikipedia	Wikipedia	NNP	_	15	nn
+15	articles	article	NNS	_	12	pobj
+16	about	about	IN	_	15	prep
+17	color	color	NN	_	16	pobj
+18	.	.	.	_	6	punct
+

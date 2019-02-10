@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	hole	hole	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	found	find	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	piece	piece	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	package	package	NN	_	8	pobj
+11	that	that	WDT	_	13	nsubjpass
+12	was	be	VBD	_	13	auxpass
+13	ripped	rip	VBN	_	10	rcmod
+14	off	off	RB	_	13	advmod
+15	near	near	IN	_	14	prep
+16	its	its	PRP$	_	17	poss
+17	edge	edge	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

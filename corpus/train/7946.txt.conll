@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	rap	rap	NN	_	3	nn
+3	star	star	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	apprehended	apprehend	VBN	_	0	ROOT
+6	at	at	IN	_	5	prep
+7	John	John	NNP	_	9	nn
+8	Wayne	Wayne	NNP	_	9	nn
+9	Airport	Airport	NNP	_	6	pobj
+10	late	late	RB	_	12	advmod
+11	last	last	JJ	_	12	amod
+12	month	month	NN	_	5	tmod
+13	and	and	CC	_	5	cc
+14	his	he	PRP$	_	15	poss
+15	truncheon	truncheon	NN	_	17	nsubjpass
+16	was	be	VBD	_	17	auxpass
+17	confiscated	confiscate	VBN	_	5	conj
+18	by	by	IN	_	17	prep
+19	police	police	NN	_	18	pobj
+20	.	.	.	_	5	punct
+

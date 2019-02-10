@@ -1,0 +1,26 @@
+1	When	when	WRB	_	5	advmod
+2	these	these	DT	_	3	det
+3	fuels	fuel	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	burned	burn	VBN	_	8	advcl
+6	,	,	,	_	8	punct
+7	they	they	PRP	_	8	nsubj
+8	create	create	VBP	_	0	ROOT
+9	air	air	NN	_	10	nn
+10	pollution	pollution	NN	_	8	dobj
+11	that	that	WDT	_	12	nsubj
+12	contributes	contribute	VBZ	_	10	rcmod
+13	to	to	TO	_	12	prep
+14	global	global	JJ	_	15	amod
+15	warming	warming	NN	_	13	pobj
+16	and	and	CC	_	12	cc
+17	causes	cause	VBZ	_	12	conj
+18	smog	smog	NN	_	17	dobj
+19	,	,	,	_	18	punct
+20	acid	acid	JJ	_	21	amod
+21	rain	rain	NN	_	18	conj
+22	and	and	CC	_	18	cc
+23	respiratory	respiratory	JJ	_	24	amod
+24	disease	disease	NN	_	18	conj
+25	.	.	.	_	8	punct
+

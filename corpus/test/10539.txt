@@ -1,0 +1,1 @@
+The Postmodernism Generator was written by Andrew C. Bulhak using the Dada Engine , a system for generating random text from recursive grammars .

@@ -1,0 +1,21 @@
+1	It	it	PRP	_	4	nsubjpass
+2	does	do	VBZ	_	4	aux
+3	n't	not	RB	_	4	neg
+4	hurt	hurt	VBN	_	0	ROOT
+5	either	either	CC	_	4	dep
+6	that	that	IN	_	13	mark
+7	the	the	DT	_	9	det
+8	understated	understate	VBN	_	9	amod
+9	style	style	NN	_	13	nsubj
+10	is	be	VBZ	_	13	cop
+11	a	a	DT	_	13	det
+12	satisfying	satisfying	JJ	_	13	amod
+13	departure	departure	NN	_	5	ccomp
+14	from	from	IN	_	13	prep
+15	the	the	DT	_	19	det
+16	faux	faux	JJ	_	19	amod
+17	French	french	JJ	_	19	amod
+18	imperial	imperial	JJ	_	19	amod
+19	designs	design	NNS	_	14	pobj
+20	.	.	.	_	4	punct
+

@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det
+2	spreading	spreading	NN	_	3	nn
+3	riots	riot	NNS	_	4	nsubj
+4	threw	throw	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	country	country	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	turmoil	turmoil	NN	_	7	pobj
+9	.	.	.	_	4	punct
+

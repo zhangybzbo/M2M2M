@@ -1,0 +1,15 @@
+1	After	after	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	emperor	emperor	NN	_	5	nsubj
+4	had	have	VBD	_	5	aux
+5	left	leave	VBN	_	10	advcl
+6	the	the	DT	_	7	det
+7	room	room	NN	_	5	dobj
+8	,	,	,	_	10	punct
+9	he	he	PRP	_	10	nsubj
+10	turned	turn	VBD	_	0	ROOT
+11	to	to	TO	_	10	prep
+12	his	he	PRP$	_	13	poss
+13	attendants	attendant	NNS	_	11	pobj
+14	.	.	.	_	10	punct
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	work	work	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	rooted	root	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	an	a	DT	_	7	det
+7	effort	effort	NN	_	5	pobj
+8	to	to	TO	_	9	aux
+9	demonstrate	demonstrate	VB	_	7	vmod
+10	commonality	commonality	NN	_	9	dobj
+11	between	between	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	arts	art	NNS	_	11	pobj
+14	by	by	IN	_	9	prep
+15	focusing	focus	VBG	_	14	pcomp
+16	on	on	IN	_	15	prep
+17	classical	classical	JJ	_	18	amod
+18	rhetoric	rhetoric	NN	_	16	pobj
+19	as	as	IN	_	15	prep
+20	the	the	DT	_	23	det
+21	main	main	JJ	_	23	amod
+22	discursive	discursive	JJ	_	23	amod
+23	agency	agency	NN	_	19	pobj
+24	.	.	.	_	4	punct
+

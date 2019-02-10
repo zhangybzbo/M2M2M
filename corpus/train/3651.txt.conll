@@ -1,0 +1,23 @@
+1	In	in	IN	_	11	prep
+2	other	other	JJ	_	3	amod
+3	news	news	NN	_	1	pobj
+4	,	,	,	_	11	punct
+5	a	a	DT	_	9	det
+6	young	young	JJ	_	9	amod
+7	and	and	CC	_	6	cc
+8	deadly	deadly	JJ	_	6	conj
+9	kitten	kitten	NN	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	absconded	abscond	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	an	a	DT	_	15	det
+14	interrogation	interrogation	NN	_	15	nn
+15	room	room	NN	_	12	pobj
+16	at	at	IN	_	11	prep
+17	about	about	IN	_	18	quantmod
+18	3:00	3:00	CD	_	16	pobj
+19	AM	be	VBP	_	11	dep
+20	this	this	DT	_	21	det
+21	morning	morning	NN	_	19	tmod
+22	.	.	.	_	11	punct
+

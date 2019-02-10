@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	French	french	JJ	_	3	amod
+3	army	army	NN	_	4	nsubj
+4	made	make	VBN	_	0	ROOT
+5	use	use	NN	_	4	dobj
+6	of	of	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	nerve	nerve	NN	_	9	nn
+9	gas	gas	NN	_	6	pobj
+10	obtained	obtain	VBN	_	9	vmod
+11	from	from	IN	_	10	prep
+12	prussic	prussic	JJ	_	13	amod
+13	acid	acid	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

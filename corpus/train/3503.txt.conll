@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	hypermenorrhea	hypermenorrhea	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	worse	worse	JJR	_	4	acomp
+6	by	by	IN	_	5	prep
+7	treatment	treatment	NN	_	6	pobj
+8	.	.	.	_	4	punct
+

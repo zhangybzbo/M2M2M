@@ -1,0 +1,22 @@
+1	Unfortunately	unfortunately	RB	_	12	advmod
+2	on	on	IN	_	12	prep
+3	the	the	DT	_	5	det
+4	right	right	JJ	_	5	amod
+5	flank	flank	NN	_	2	pobj
+6	a	a	DT	_	7	det
+7	unit	unit	NN	_	12	nsubjpass
+8	of	of	IN	_	7	prep
+9	dismounted	dismounted	JJ	_	10	amod
+10	grenadiers	grenadier	NNS	_	8	pobj
+11	were	be	VBD	_	12	auxpass
+12	spotted	spot	VBN	_	0	ROOT
+13	by	by	IN	_	12	prep
+14	a	a	DT	_	17	det
+15	Tau	Tau	NNP	_	17	nn
+16	Piranha	Piranha	NNP	_	17	nn
+17	team	team	NN	_	13	pobj
+18	supported	support	VBN	_	17	vmod
+19	by	by	IN	_	18	prep
+20	Kroot	Kroot	NNP	_	19	pobj
+21	.	.	.	_	12	punct
+

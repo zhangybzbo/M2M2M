@@ -1,0 +1,9 @@
+0	46	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="touch" pos="VB" nsubj="t3"
+6	13	tok id="t1" base="slide" pos="VBG" amod="t2"
+14	22	tok id="t2" base="keyboard" pos="NN" dobj="t0"
+23	29	tok id="t3" base="offer" pos="VBZ" ROOT="ROOT"
+30	37	tok id="t4" base="keyless" pos="JJ" amod="t5"
+38	44	tok id="t5" base="typing" pos="NN" dobj="t3"
+45	46	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

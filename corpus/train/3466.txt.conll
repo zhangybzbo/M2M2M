@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	President	President	NNP	_	3	nsubj
+3	seeks	seek	VBZ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	hand	hand	NN	_	4	pobj
+6	over	over	IN	_	3	prep
+7	power	power	NN	_	6	pobj
+8	for	for	IN	_	7	prep
+9	AIDS	AIDS	NNP	_	10	nn
+10	program	program	NN	_	8	pobj
+11	to	to	TO	_	10	prep
+12	client	client	NN	_	13	nn
+13	countries	country	NNS	_	11	pobj
+14	.	.	.	_	3	punct
+

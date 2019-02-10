@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	exact	exact	JJ	_	3	amod
+3	equations	equation	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	set	set	VBN	_	0	ROOT
+6	out	out	RP	_	5	prt
+7	in	in	IN	_	5	prep
+8	later	later	JJ	_	9	amod
+9	sections	section	NNS	_	7	pobj
+10	of	of	IN	_	9	prep
+11	this	this	DT	_	12	det
+12	article	article	NN	_	10	pobj
+13	.	.	.	_	5	punct
+

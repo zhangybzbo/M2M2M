@@ -1,0 +1,18 @@
+1	Bradis	Bradis	NNP	_	2	nsubj
+2	Produce	produce	VB	_	0	ROOT
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	full-time	full-time	JJ	_	7	amod
+6	farming	farming	NN	_	7	nn
+7	operation	operation	NN	_	2	ccomp
+8	raising	raise	VBG	_	7	vmod
+9	fresh	fresh	JJ	_	10	amod
+10	produce	produce	NN	_	8	dobj
+11	,	,	,	_	2	punct
+12	greenhouse	greenhouse	NN	_	13	nn
+13	flowers	flower	NNS	_	2	dobj
+14	,	,	,	_	2	punct
+15	and	and	CC	_	2	cc
+16	grain	grain	NN	_	2	conj
+17	.	.	.	_	2	punct
+

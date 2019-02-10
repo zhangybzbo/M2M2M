@@ -1,0 +1,25 @@
+1	In	in	IN	_	10	prep
+2	developing	develop	VBG	_	1	pcomp
+3	countries	country	NNS	_	4	nn
+4	four-fifths	four-fifth	NNS	_	2	dobj
+5	of	of	IN	_	4	prep
+6	all	all	PDT	_	8	predet
+7	the	the	DT	_	8	det
+8	illnesses	illness	NNS	_	5	pobj
+9	are	be	VBP	_	10	auxpass
+10	caused	cause	VBN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	water-borne	water-borne	JJ	_	13	amod
+13	diseases	disease	NNS	_	11	pobj
+14	,	,	,	_	10	punct
+15	with	with	IN	_	10	prep
+16	diarrhoea	diarrhoea	NN	_	20	nsubj
+17	being	be	VBG	_	20	cop
+18	the	the	DT	_	20	det
+19	leading	lead	VBG	_	20	amod
+20	cause	cause	NN	_	15	pcomp
+21	of	of	IN	_	20	prep
+22	childhood	childhood	NN	_	23	nn
+23	death	death	NN	_	21	pobj
+24	.	.	.	_	10	punct
+

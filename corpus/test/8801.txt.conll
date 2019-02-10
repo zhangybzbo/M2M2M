@@ -1,0 +1,19 @@
+1	When	when	WRB	_	4	advmod
+2	a	a	DT	_	3	det
+3	person	person	NN	_	4	nsubj
+4	assists	assist	VBZ	_	15	advcl
+5	the	the	DT	_	6	det
+6	employee	employee	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	completing	complete	VBG	_	7	pcomp
+9	this	this	DT	_	10	det
+10	form	form	NN	_	8	dobj
+11	,	,	,	_	15	punct
+12	the	the	DT	_	13	det
+13	preparer	preparer	NN	_	15	nsubj
+14	must	must	MD	_	15	aux
+15	certify	certify	VB	_	0	ROOT
+16	the	the	DT	_	17	det
+17	form	form	NN	_	15	dobj
+18	.	.	.	_	15	punct
+

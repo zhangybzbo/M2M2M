@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	user	user	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	entered	enter	VBN	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	password	password	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	an	a	DT	_	10	det
+9	authorized	authorized	JJ	_	10	amod
+10	system	system	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

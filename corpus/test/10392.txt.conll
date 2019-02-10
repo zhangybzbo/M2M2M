@@ -1,0 +1,16 @@
+1	The	the	DT	_	4	det
+2	World	World	NNP	_	4	nn
+3	Health	Health	NNP	_	4	nn
+4	Organization	Organization	NNP	_	5	nsubj
+5	co-sponsored	co-sponsor	VBD	_	0	ROOT
+6	a	a	DT	_	7	det
+7	meeting	meeting	NN	_	5	dobj
+8	on	on	IN	_	5	prep
+9	avian	avian	JJ	_	10	amod
+10	influenza	influenza	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	human	human	JJ	_	14	amod
+13	pandemic	pandemic	JJ	_	14	amod
+14	influenza	influenza	NN	_	10	conj
+15	.	.	.	_	5	punct
+

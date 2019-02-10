@@ -1,0 +1,26 @@
+1	This	this	DT	_	4	det
+2	Atalanta	Atalanta	NNP	_	4	nn
+3	running	run	VBG	_	4	amod
+4	skirt	skirt	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	made	make	VBN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	beefier	beefier	NN	_	10	nn
+9	Dry-flex	dry-flex	JJ	_	10	amod
+10	fabric	fabric	NN	_	7	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	14	nsubj
+13	will	will	MD	_	14	aux
+14	help	help	VB	_	10	rcmod
+15	smooth	smooth	VB	_	14	ccomp
+16	your	you	PRP$	_	17	poss
+17	curves	curve	NNS	_	15	dobj
+18	but	but	CC	_	15	cc
+19	also	also	RB	_	20	advmod
+20	stretch	stretch	NN	_	15	conj
+21	to	to	TO	_	22	aux
+22	let	let	VB	_	20	vmod
+23	you	you	PRP	_	24	nsubj
+24	move	move	VB	_	22	ccomp
+25	.	.	.	_	6	punct
+

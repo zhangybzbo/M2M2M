@@ -1,0 +1,22 @@
+1	But	but	CC	_	7	cc
+2	I	I	PRP	_	7	nsubjpass
+3	am	be	VBP	_	7	auxpass
+4	more	more	RBR	_	7	advmod
+5	or	or	CC	_	4	cc
+6	less	less	RBR	_	4	conj
+7	set	set	VBN	_	0	ROOT
+8	on	on	IN	_	7	prep
+9	2	2	CD	_	8	pobj
+10	continued	continue	VBD	_	11	amod
+11	courses	course	NNS	_	7	dobj
+12	from	from	IN	_	11	prep
+13	last	last	JJ	_	14	amod
+14	term	term	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	Financial	financial	JJ	_	17	amod
+17	Derivatives	derivative	NNS	_	14	conj
+18	for	for	IN	_	11	prep
+19	this	this	DT	_	20	det
+20	term	term	NN	_	18	pobj
+21	.	.	.	_	7	punct
+

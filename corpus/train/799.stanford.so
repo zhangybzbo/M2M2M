@@ -1,0 +1,12 @@
+0	47	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	10	tok id="t1" base="mechanic" pos="JJ" nsubj="t2"
+11	19	tok id="t2" base="attach" pos="VBZ" ROOT="ROOT"
+20	21	tok id="t3" base="a" pos="DT" det="t5"
+22	28	tok id="t4" base="socket" pos="NN" nn="t5"
+29	35	tok id="t5" base="wrench" pos="NN" dobj="t2"
+36	38	tok id="t6" base="to" pos="TO" prep="t2"
+39	40	tok id="t7" base="a" pos="DT" det="t8"
+41	45	tok id="t8" base="bolt" pos="NN" pobj="t6"
+46	47	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

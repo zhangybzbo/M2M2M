@@ -1,0 +1,11 @@
+0	37	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t1"
+3	9	tok id="t1" base="buy" pos="VBD" ROOT="ROOT"
+10	11	tok id="t2" base="a" pos="DT" det="t4"
+12	16	tok id="t3" base="gold" pos="NN" nn="t4"
+17	25	tok id="t4" base="bracelet" pos="NN" dobj="t1"
+26	29	tok id="t5" base="for" pos="IN" prep="t1"
+30	31	tok id="t6" base="-DOLLAR-" pos="$" pobj="t5"
+32	35	tok id="t7" base="200" pos="CD" num="t6"
+36	37	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

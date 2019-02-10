@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	meeting	meeting	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	opened	open	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	welcome	welcome	JJ	_	8	amod
+8	speech	speech	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	Mayor	Mayor	NNP	_	9	pobj
+12	of	of	IN	_	11	prep
+13	Komotini	Komotini	NNP	_	12	pobj
+14	,	,	,	_	4	punct
+15	Mr.	Mr.	NNP	_	16	nn
+16	Dimitrios	Dimitrios	NNP	_	14	dep
+17	.	.	.	_	16	punct
+18	Kotsakis	Kotsakis	NNP	_	16	dep
+19	.	.	.	_	16	punct
+

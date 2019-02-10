@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	bombing	bombing	NN	_	3	nsubj
+3	produced	produce	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	worst	worst	JJS	_	6	amod
+6	carnage	carnage	NN	_	3	dobj
+7	since	since	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	Nov.	Nov.	NNP	_	11	nn
+10	23	23	CD	_	11	num
+11	attack	attack	NN	_	7	pobj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	Shi'ite	shi'ite	JJ	_	15	amod
+15	slum	slum	NN	_	12	pobj
+16	of	of	IN	_	15	prep
+17	Sadr	Sadr	NNP	_	18	nn
+18	City	City	NNP	_	16	pobj
+19	that	that	WDT	_	20	nsubj
+20	killed	kill	VBD	_	15	rcmod
+21	more	more	JJR	_	22	mwe
+22	than	than	IN	_	23	quantmod
+23	200	200	CD	_	24	num
+24	people	people	NNS	_	20	dobj
+25	.	.	.	_	3	punct
+

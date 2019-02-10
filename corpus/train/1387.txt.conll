@@ -1,0 +1,23 @@
+1	Under	under	IN	_	7	prep
+2	this	this	DT	_	4	det
+3	completed	complete	VBN	_	4	amod
+4	contract	contract	NN	_	1	pobj
+5	,	,	,	_	7	punct
+6	workgangs	workgang	NNS	_	7	nsubj
+7	made	make	VBD	_	0	ROOT
+8	up	up	RP	_	7	prt
+9	almost	almost	RB	_	10	advmod
+10	entirely	entirely	RB	_	13	advmod
+11	of	of	IN	_	10	prep
+12	Mormons	Mormons	NNPS	_	11	pobj
+13	built	build	VBD	_	7	ccomp
+14	the	the	DT	_	17	det
+15	Union	Union	NNP	_	17	nn
+16	Pacific	Pacific	NNP	_	17	nn
+17	track	track	NN	_	13	dobj
+18	in	in	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	Utah	Utah	NNP	_	21	nn
+21	territory	territory	NN	_	18	pobj
+22	.	.	.	_	7	punct
+

@@ -1,0 +1,23 @@
+1	Reviewed	review	VBN	_	3	amod
+2	audit	audit	NN	_	3	nn
+3	reports	report	NNS	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	contract	contract	NN	_	7	nn
+6	audit	audit	NN	_	7	nn
+7	management	management	NN	_	4	pobj
+8	issued	issue	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	NASA	NASA	NNP	_	12	nn
+12	Office	Office	NNP	_	9	pobj
+13	of	of	IN	_	12	prep
+14	Inspector	Inspector	NNP	_	15	nn
+15	General	General	NNP	_	13	pobj
+16	and	and	CC	_	15	cc
+17	the	the	DT	_	21	det
+18	U.S.	U.S.	NNP	_	21	nn
+19	General	General	NNP	_	21	nn
+20	Accounting	Accounting	NNP	_	21	nn
+21	Office	Office	NNP	_	15	conj
+22	.	.	.	_	3	punct
+

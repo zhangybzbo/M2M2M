@@ -1,0 +1,9 @@
+1	A	a	DT	_	2	det
+2	carpenter	carpenter	NN	_	3	nsubj
+3	fell	fall	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	elevator	elevator	NN	_	7	nn
+7	shaft	shaft	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

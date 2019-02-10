@@ -1,0 +1,1 @@
+Specifications of electric heater thermostats include temperature ranging from 50 degrees F to 80 degrees F , current ranging from 19 A to 22 A , & voltage ranging from 120 V to 277 V.

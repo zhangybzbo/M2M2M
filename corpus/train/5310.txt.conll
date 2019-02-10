@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	body	body	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	discovered	discover	VBN	_	0	ROOT
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	wall	wall	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	Yale	Yale	NNP	_	12	nn
+11	University	University	NNP	_	12	nn
+12	building	building	NN	_	8	pobj
+13	at	at	IN	_	4	prep
+14	10	10	CD	_	16	num
+15	Amistad	Amistad	NNP	_	16	nn
+16	Street	Street	NNP	_	13	pobj
+17	.	.	.	_	4	punct
+

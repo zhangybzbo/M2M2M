@@ -1,0 +1,10 @@
+1	You	you	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	poured	pour	VBN	_	0	ROOT
+4	balm	balm	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	my	my	PRP$	_	8	poss
+7	anxious	anxious	JJ	_	8	amod
+8	soul	soul	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

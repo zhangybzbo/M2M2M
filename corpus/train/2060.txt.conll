@@ -1,0 +1,22 @@
+1	The	the	DT	_	5	det
+2	inherent	inherent	JJ	_	5	amod
+3	RNA	rna	NN	_	5	nn
+4	silencing	silencing	NN	_	5	nn
+5	mechanism	mechanism	NN	_	11	nsubjpass
+6	in	in	IN	_	5	prep
+7	plants	plant	NNS	_	6	pobj
+8	has	have	VBZ	_	11	aux
+9	been	be	VBN	_	11	auxpass
+10	effectively	effectively	RB	_	11	advmod
+11	manipulated	manipulate	VBN	_	0	ROOT
+12	as	as	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	tool	tool	NN	_	12	pobj
+15	for	for	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	targeted	target	VBN	_	18	amod
+18	down-regulation	down-regulation	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	genes	gene	NNS	_	19	pobj
+21	.	.	.	_	11	punct
+

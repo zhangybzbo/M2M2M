@@ -1,0 +1,21 @@
+1	During	during	IN	_	15	prep
+2	the	the	DT	_	4	det
+3	great	great	JJ	_	4	amod
+4	fire	fire	NN	_	1	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	aftershock	aftershock	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	Tokyo	Tokyo	NNP	_	8	pobj
+10	in	in	IN	_	4	prep
+11	1923	1923	CD	_	14	num
+12	many	many	JJ	_	14	amod
+13	Ginkgo	Ginkgo	NNP	_	14	nn
+14	trees	tree	NNS	_	10	pobj
+15	survived	survive	VBD	_	0	ROOT
+16	while	while	IN	_	19	mark
+17	other	other	JJ	_	18	amod
+18	trees	tree	NNS	_	19	nsubj
+19	died	die	VBD	_	15	advcl
+20	.	.	.	_	15	punct
+

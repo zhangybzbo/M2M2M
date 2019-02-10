@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	addition	addition	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	disintegrants	disintegrant	NNS	_	3	pobj
+5	could	could	MD	_	7	aux
+6	further	further	RB	_	7	advmod
+7	accelerate	accelerate	VB	_	0	ROOT
+8	the	the	DT	_	10	det
+9	drug	drug	NN	_	10	nn
+10	release	release	NN	_	7	dobj
+11	from	from	IN	_	7	prep
+12	the	the	DT	_	13	det
+13	tablet	tablet	NN	_	11	pobj
+14	.	.	.	_	7	punct
+

@@ -1,0 +1,3 @@
+T1	Term 85 94	operation
+T2	Term 116 122	arrest
+R1	Cause-Effect Arg1:T1 Arg2:T2

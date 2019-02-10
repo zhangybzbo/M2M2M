@@ -1,0 +1,18 @@
+1	They	they	PRP	_	3	nsubj
+2	often	often	RB	_	3	advmod
+3	have	have	VBP	_	0	ROOT
+4	a	a	DT	_	5	det
+5	pump	pump	NN	_	3	dobj
+6	over	over	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	drainage	drainage	NN	_	9	nn
+9	hole	hole	NN	_	6	pobj
+10	to	to	TO	_	11	aux
+11	draw	draw	VB	_	5	vmod
+12	the	the	DT	_	14	det
+13	waste	waste	NN	_	14	nn
+14	water	water	NN	_	11	dobj
+15	towards	towards	IN	_	11	prep
+16	it	it	PRP	_	15	pobj
+17	.	.	.	_	3	punct
+

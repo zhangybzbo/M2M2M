@@ -1,0 +1,27 @@
+1	There	there	EX	_	5	expl
+2	have	have	VBP	_	5	aux
+3	been	be	VBN	_	5	cop
+4	various	various	JJ	_	5	amod
+5	stories	story	NNS	_	0	ROOT
+6	about	about	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	origin	origin	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Chinese	chinese	JJ	_	12	amod
+12	script	script	NN	_	9	pobj
+13	,	,	,	_	5	punct
+14	with	with	IN	_	5	prep
+15	nearly	nearly	RB	_	18	advmod
+16	all	all	DT	_	18	det
+17	ancient	ancient	JJ	_	18	amod
+18	writers	writer	NNS	_	19	nsubj
+19	attributing	attribute	VBG	_	14	pcomp
+20	it	it	PRP	_	19	dobj
+21	to	to	TO	_	19	prep
+22	a	a	DT	_	23	det
+23	man	man	NN	_	21	pobj
+24	named	name	VBN	_	23	vmod
+25	Cangjie	Cangjie	NNP	_	24	dep
+26	.	.	.	_	5	punct
+

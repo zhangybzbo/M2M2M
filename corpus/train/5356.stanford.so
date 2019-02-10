@@ -1,0 +1,13 @@
+0	63	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t2"
+3	6	tok id="t1" base="have" pos="VBZ" aux="t2"
+7	15	tok id="t2" base="release" pos="VBN" ROOT="ROOT"
+16	17	tok id="t3" base="a" pos="DT" dobj="t2"
+18	27	tok id="t4" base="photocopy" pos="VB" amod="t3"
+28	30	tok id="t5" base="of" pos="IN" prep="t4"
+31	34	tok id="t6" base="he" pos="PRP$" poss="t9"
+35	43	tok id="t7" base="original" pos="JJ" amod="t9"
+44	49	tok id="t8" base="birth" pos="NN" nn="t9"
+50	61	tok id="t9" base="certificate" pos="NN" pobj="t5"
+62	63	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

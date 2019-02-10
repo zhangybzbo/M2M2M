@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	alarm	alarm	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	one	one	CD	_	6	num
+5	magnetic	magnetic	JJ	_	6	amod
+6	switch	switch	NN	_	3	dobj
+7	and	and	CC	_	3	cc
+8	operates	operate	VBZ	_	3	conj
+9	on	on	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	12-volt	12-volt	JJ	_	12	amod
+12	battery	battery	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

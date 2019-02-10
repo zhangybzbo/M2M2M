@@ -1,0 +1,21 @@
+1	Argentina	Argentina	NNP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	the	the	DT	_	4	det
+4	destruction	destruction	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	natural	natural	JJ	_	8	amod
+8	grasslands	grassland	NNS	_	5	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	expansion	expansion	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	cropping	crop	VBG	_	16	amod
+16	frontiers	frontier	NNS	_	13	pobj
+17	starting	start	VBG	_	12	vmod
+18	in	in	IN	_	17	prep
+19	1875	1875	CD	_	18	pobj
+20	.	.	.	_	4	punct
+

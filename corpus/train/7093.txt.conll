@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	following	following	JJ	_	3	amod
+3	figures	figure	NNS	_	4	nsubj
+4	summarise	summarise	VBP	_	0	ROOT
+5	the	the	DT	_	6	det
+6	results	result	NNS	_	4	dobj
+7	for	for	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	last	last	JJ	_	11	amod
+10	financial	financial	JJ	_	11	amod
+11	year	year	NN	_	7	pobj
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	He	he	PRP	_	3	nsubj
+2	then	then	RB	_	3	advmod
+3	escalated	escalate	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	quarrel	quarrel	VBP	_	3	dobj
+6	with	with	IN	_	5	prep
+7	Austria	Austria	NNP	_	6	pobj
+8	and	and	CC	_	7	cc
+9	its	its	PRP$	_	11	poss
+10	German	german	JJ	_	11	amod
+11	allies	ally	NNS	_	7	conj
+12	over	over	IN	_	5	prep
+13	the	the	DT	_	14	det
+14	administration	administration	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	these	these	DT	_	17	det
+17	provinces	province	NNS	_	15	pobj
+18	into	into	IN	_	5	prep
+19	a	a	DT	_	20	det
+20	war	war	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

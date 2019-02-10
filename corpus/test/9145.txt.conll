@@ -1,0 +1,12 @@
+1	Each	each	DT	_	2	det
+2	question	question	NN	_	3	nsubj
+3	requires	require	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	text	text	NN	_	6	nn
+6	note	note	NN	_	3	dobj
+7	to	to	TO	_	8	aux
+8	explain	explain	VB	_	3	xcomp
+9	the	the	DT	_	10	det
+10	rating	rating	NN	_	8	dobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	Quotation	quotation	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	used	use	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	indicate	indicate	VB	_	3	xcomp
+6	the	the	DT	_	7	det
+7	words	word	NNS	_	5	dobj
+8	of	of	IN	_	7	prep
+9	another	another	DT	_	10	det
+10	speaker	speaker	NN	_	8	pobj
+11	or	or	CC	_	10	cc
+12	writer	writer	NN	_	10	conj
+13	.	.	.	_	3	punct
+

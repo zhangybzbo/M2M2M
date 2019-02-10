@@ -1,0 +1,23 @@
+1	These	these	DT	_	2	det
+2	lines	line	NNS	_	12	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	pen	pen	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	a	a	DT	_	11	det
+8	nineteenth-century	nineteenth-century	JJ	_	11	amod
+9	poet	poet	NN	_	11	nn
+10	Rupchand	rupchand	NN	_	11	nn
+11	Pakshi	pakshus	NN	_	6	pobj
+12	describe	describe	VBP	_	0	ROOT
+13	the	the	DT	_	14	det
+14	city	city	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	Calcutta	Calcutta	NNP	_	15	pobj
+17	as	as	IN	_	12	prep
+18	a	a	DT	_	19	det
+19	city	city	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	machines	machine	NNS	_	20	pobj
+22	.	.	.	_	12	punct
+

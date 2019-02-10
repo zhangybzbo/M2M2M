@@ -1,0 +1,9 @@
+1	Billionaires	billionaire	NNS	_	2	nsubj
+2	make	make	VBP	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	India	India	NNP	_	7	poss
+5	's	's	POS	_	4	possessive
+6	rich	rich	JJ	_	7	amod
+7	list	list	NN	_	2	dobj
+8	.	.	.	_	2	punct
+

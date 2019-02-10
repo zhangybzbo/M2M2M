@@ -1,0 +1,21 @@
+1	It	it	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	mechanic	mechanic	NN	_	2	dobj
+5	less	less	RBR	_	6	advmod
+6	than	than	IN	_	7	quantmod
+7	10	10	CD	_	8	num
+8	seconds	seconds	NNS	_	2	tmod
+9	-LRB-	-lrb-	-LRB-	_	11	punct
+10	no	no	DT	_	11	neg
+11	exaggeration	exaggeration	NN	_	8	appos
+12	-RRB-	-rrb-	-RRB-	_	11	punct
+13	to	to	TO	_	14	aux
+14	fix	fix	VB	_	8	vmod
+15	the	the	DT	_	16	det
+16	lock	lock	NN	_	14	dobj
+17	with	with	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	screwdriver	screwdriver	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

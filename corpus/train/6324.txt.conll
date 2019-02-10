@@ -1,0 +1,16 @@
+1	Diane	Diane	NNP	_	2	nn
+2	Daly	Daly	NNP	_	7	nsubj
+3	,	,	,	_	2	punct
+4	multi-talented	multi-talented	JJ	_	5	amod
+5	photographer	photographer	NNP	_	2	appos
+6	,	,	,	_	2	punct
+7	creates	create	VBZ	_	0	ROOT
+8	magic	magic	JJ	_	7	dobj
+9	with	with	IN	_	8	prep
+10	her	she	PRP$	_	11	poss
+11	camera	camera	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	intuitive	intuitive	JJ	_	14	amod
+14	eye	eye	NN	_	11	conj
+15	.	.	.	_	7	punct
+

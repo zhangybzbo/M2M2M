@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	postcard	postcard	NN	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	reader	reader	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	author	author	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	past	past	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

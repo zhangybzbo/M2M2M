@@ -1,0 +1,26 @@
+1	Swype	swype	NN	_	0	ROOT
+2	--	--	:	_	3	punct
+3	founded	found	VBN	_	1	dep
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	Cliff	Cliff	NNP	_	7	nn
+7	Kushler	Kushler	NNP	_	4	pobj
+8	,	,	,	_	7	punct
+9	the	the	DT	_	10	det
+10	inventor	inventor	NN	_	7	appos
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	16	det
+13	T9	t9	NN	_	16	nn
+14	text	text	NN	_	16	nn
+15	input	input	NN	_	16	nn
+16	technology	technology	NN	_	11	pobj
+17	--	--	:	_	7	punct
+18	raised	raise	VBD	_	3	dep
+19	$	$	$	_	18	dobj
+20	1.3	1.3	CD	_	21	number
+21	million	million	CD	_	19	num
+22	earlier	earlier	RBR	_	24	advmod
+23	this	this	DT	_	24	det
+24	year	year	NN	_	18	tmod
+25	.	.	.	_	1	punct
+

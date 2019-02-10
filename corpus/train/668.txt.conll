@@ -1,0 +1,24 @@
+1	Builders	builder	NNS	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	a	a	DT	_	2	dobj
+4	paste	paste	VBP	_	3	amod
+5	like	like	IN	_	4	prep
+6	adhesive	adhesive	JJ	_	5	pobj
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	known	know	VBN	_	6	dep
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	building	building	NN	_	12	nn
+12	trade	trade	NN	_	9	pobj
+13	as	as	IN	_	12	prep
+14	mud	mud	NN	_	13	pobj
+15	-RRB-	-rrb-	-RRB-	_	8	punct
+16	to	to	TO	_	17	aux
+17	fix	fix	VB	_	4	xcomp
+18	the	the	DT	_	19	det
+19	plasterboard	plasterboard	NN	_	17	dobj
+20	to	to	TO	_	17	prep
+21	the	the	DT	_	22	det
+22	wall	wall	NN	_	20	pobj
+23	.	.	.	_	2	punct
+

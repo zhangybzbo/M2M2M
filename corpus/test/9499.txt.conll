@@ -1,0 +1,19 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	oldest	oldest	JJS	_	8	amod
+7	chess	chess	NN	_	8	nn
+8	openings	opening	NNS	_	4	pobj
+9	,	,	,	_	3	punct
+10	having	have	VBG	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	discussed	discuss	VBN	_	3	vmod
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	literature	literature	NN	_	13	pobj
+16	by	by	IN	_	12	prep
+17	1497	1497	CD	_	16	pobj
+18	.	.	.	_	3	punct
+

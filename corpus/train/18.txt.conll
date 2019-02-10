@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	factory	factory	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	products	product	NNS	_	6	nsubj
+5	have	have	VBP	_	6	aux
+6	included	include	VBN	_	0	ROOT
+7	flower	flower	NN	_	8	nn
+8	pots	pot	NNS	_	6	dobj
+9	,	,	,	_	8	punct
+10	Finnish	finnish	JJ	_	11	amod
+11	rooster-whistles	rooster-whistle	NNS	_	8	conj
+12	,	,	,	_	8	punct
+13	pans	pan	NNS	_	8	conj
+14	,	,	,	_	8	punct
+15	trays	tray	NNS	_	8	conj
+16	,	,	,	_	8	punct
+17	tea	tea	NN	_	18	nn
+18	pots	pot	NNS	_	8	conj
+19	,	,	,	_	8	punct
+20	ash	ash	JJ	_	21	amod
+21	trays	tray	NNS	_	8	conj
+22	and	and	CC	_	8	cc
+23	air	air	NN	_	24	nn
+24	moisturisers	moisturiser	NNS	_	8	conj
+25	.	.	.	_	6	punct
+

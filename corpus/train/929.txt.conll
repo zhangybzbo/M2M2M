@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	conference	conference	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	a	a	DT	_	5	det
+5	part	part	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Danish	danish	JJ	_	9	amod
+9	kortdage	kortdage	NN	_	6	pobj
+10	and	and	CC	_	5	cc
+11	was	be	VBD	_	12	auxpass
+12	arranged	arrange	VBN	_	5	conj
+13	by	by	IN	_	12	prep
+14	Geoforum	Geoforum	NNP	_	13	pobj
+15	in	in	IN	_	12	prep
+16	cooperation	cooperation	NN	_	15	pobj
+17	with	with	IN	_	16	prep
+18	GI	GI	NNP	_	19	nn
+19	Norden	Norden	NNP	_	17	pobj
+20	.	.	.	_	5	punct
+

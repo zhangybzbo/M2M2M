@@ -1,0 +1,13 @@
+1	A	a	DT	_	3	det
+2	plane	plane	NN	_	3	nn
+3	crash	crash	NN	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	event	event	NN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	that	that	DT	_	11	det
+10	adventure	adventure	NN	_	11	nn
+11	novel	novel	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

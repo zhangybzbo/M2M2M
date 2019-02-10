@@ -1,0 +1,18 @@
+1	This	this	DT	_	3	det
+2	pecking	pecking	NN	_	3	nn
+3	order	order	NN	_	4	nsubj
+4	continues	continue	VBZ	_	0	ROOT
+5	all	all	PDT	_	7	predet
+6	the	the	DT	_	7	det
+7	way	way	NN	_	4	dep
+8	down	down	IN	_	7	dep
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	13	det
+11	most	most	RBS	_	12	advmod
+12	subordinate	subordinate	JJ	_	13	amod
+13	wolf	wolf	NN	_	9	pobj
+14	in	in	IN	_	8	prep
+15	the	the	DT	_	16	det
+16	pack	pack	NN	_	14	pobj
+17	.	.	.	_	4	punct
+

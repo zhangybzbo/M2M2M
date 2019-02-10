@@ -1,0 +1,23 @@
+1	Eighty	eighty	CD	_	2	num
+2	years	year	NNS	_	16	tmod
+3	on	on	IN	_	2	prep
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	pipes	pipe	NNS	_	4	pobj
+8	being	be	VBG	_	9	auxpass
+9	laid	lay	VBN	_	7	vmod
+10	for	for	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	car	car	NN	_	13	nn
+13	plant	plant	NN	_	10	pobj
+14	,	,	,	_	16	punct
+15	unemployment	unemployment	NN	_	16	nsubj
+16	is	be	VBZ	_	0	ROOT
+17	at	at	IN	_	16	prep
+18	2	2	CD	_	19	number
+19	million	million	CD	_	17	pobj
+20	and	and	CC	_	16	cc
+21	rising	rise	VBG	_	16	conj
+22	.	.	.	_	16	punct
+

@@ -1,0 +1,17 @@
+1	So	so	RB	_	14	advmod
+2	when	when	WRB	_	5	advmod
+3	the	the	DT	_	4	det
+4	plants	plant	NNS	_	5	nsubj
+5	came	come	VBD	_	14	advcl
+6	up	up	RB	_	5	advmod
+7	and	and	CC	_	5	cc
+8	bore	bear	VBD	_	5	conj
+9	grain	grain	NN	_	8	dobj
+10	,	,	,	_	14	punct
+11	then	then	RB	_	14	advmod
+12	the	the	DT	_	13	det
+13	weeds	weed	NNS	_	14	nsubj
+14	appeared	appear	VBD	_	0	ROOT
+15	also	also	RB	_	14	advmod
+16	.	.	.	_	14	punct
+

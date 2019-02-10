@@ -1,0 +1,25 @@
+1	First	first	RB	_	3	advmod
+2	we	we	PRP	_	3	nsubj
+3	put	put	VBD	_	0	ROOT
+4	baking	bake	VBG	_	3	xcomp
+5	soda	soda	NN	_	4	dobj
+6	in	in	IN	_	4	prep
+7	a	a	DT	_	8	det
+8	balloon	balloon	NN	_	6	pobj
+9	then	then	RB	_	3	advmod
+10	we	we	PRP	_	11	nsubj
+11	attached	attach	VBD	_	3	parataxis
+12	the	the	DT	_	13	det
+13	balloon	balloon	NN	_	11	dobj
+14	to	to	TO	_	11	prep
+15	the	the	DT	_	16	det
+16	top	top	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	bottle	bottle	NN	_	17	pobj
+20	with	with	IN	_	11	prep
+21	vinegar	vinegar	NN	_	20	pobj
+22	in	in	IN	_	11	prep
+23	it	it	PRP	_	22	pobj
+24	.	.	.	_	3	punct
+

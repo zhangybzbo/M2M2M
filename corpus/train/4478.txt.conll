@@ -1,0 +1,22 @@
+1	In	in	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	beginning	beginning	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	a	a	DT	_	6	det
+6	fire	fire	NN	_	7	nsubj
+7	started	start	VBD	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	ring	ring	NN	_	11	nn
+11	area	area	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	a	a	DT	_	17	det
+14	crude	crude	JJ	_	17	amod
+15	oil	oil	NN	_	17	nn
+16	storage	storage	NN	_	17	nn
+17	tank	tank	NN	_	12	pobj
+18	-LRB-	-lrb-	-LRB-	_	19	punct
+19	33000kl	33000kl	NN	_	17	appos
+20	-RRB-	-rrb-	-RRB-	_	19	punct
+21	.	.	.	_	7	punct
+

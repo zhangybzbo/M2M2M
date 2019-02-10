@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	criminal	criminal	JJ	_	4	nsubj
+3	just	just	RB	_	4	advmod
+4	got	get	VBD	_	0	ROOT
+5	out	out	IN	_	4	prep
+6	of	of	IN	_	5	pcomp
+7	jail	jail	NN	_	6	pobj
+8	from	from	IN	_	4	prep
+9	a	a	DT	_	12	det
+10	mutli-million	mutli-million	JJ	_	12	amod
+11	dollar	dollar	NN	_	12	nn
+12	fraud	fraud	NN	_	8	pobj
+13	involving	involve	VBG	_	12	vmod
+14	his	he	PRP$	_	16	poss
+15	old	old	JJ	_	16	amod
+16	company	company	NN	_	13	dobj
+17	.	.	.	_	4	punct
+

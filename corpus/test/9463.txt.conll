@@ -1,0 +1,18 @@
+1	He	he	PRP	_	3	nsubj
+2	nevertheless	nevertheless	RB	_	3	advmod
+3	drew	draw	VBD	_	0	ROOT
+4	that	that	IN	_	3	dobj
+5	syrup	syrup	NN	_	4	dep
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	cask	cask	NN	_	6	pobj
+9	and	and	CC	_	5	cc
+10	handed	hand	VBD	_	5	conj
+11	it	it	PRP	_	10	dobj
+12	to	to	TO	_	10	prep
+13	me	I	PRP	_	12	pobj
+14	in	in	IN	_	10	prep
+15	a	a	DT	_	16	det
+16	jug	jug	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

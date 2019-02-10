@@ -1,0 +1,14 @@
+1	Pear	Pear	NNP	_	6	nsubjpass
+2	and	and	CC	_	1	cc
+3	Ginger	Ginger	NNP	_	4	nn
+4	Marmalade	Marmalade	NNP	_	1	conj
+5	was	be	VBD	_	6	auxpass
+6	made	make	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	glut	glut	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	corella	corellum	NN	_	12	nn
+12	pears	pear	NNS	_	10	pobj
+13	.	.	.	_	6	punct
+

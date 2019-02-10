@@ -1,0 +1,23 @@
+1	Previous	previous	JJ	_	11	ccomp
+2	to	to	TO	_	1	prep
+3	and	and	CC	_	2	cc
+4	after	after	IN	_	2	conj
+5	the	the	DT	_	8	det
+6	first	first	JJ	_	8	amod
+7	Dragon	Dragon	NNP	_	8	nn
+8	encounter	encounter	NN	_	2	pobj
+9	,	,	,	_	11	punct
+10	I	I	PRP	_	11	nsubj
+11	had	have	VBD	_	0	ROOT
+12	recall	recall	NN	_	11	dobj
+13	of	of	IN	_	12	prep
+14	several	several	JJ	_	15	amod
+15	conversations	conversation	NNS	_	13	pobj
+16	with	with	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	fraternity	fraternity	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	different	different	JJ	_	21	amod
+21	presences	presence	NNS	_	19	pobj
+22	.	.	.	_	11	punct
+

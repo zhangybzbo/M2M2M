@@ -1,0 +1,27 @@
+1	Pee	Pee	NNP	_	8	nn
+2	Dee	Dee	NNP	_	8	nn
+3	Academy	Academy	NNP	_	8	nn
+4	girls	girl	NNS	_	8	nn
+5	basketball	basketball	NN	_	8	nn
+6	coach	coach	NN	_	8	nn
+7	Jerry	Jerry	NNP	_	8	nn
+8	Coleman	Coleman	NNP	_	9	nsubj
+9	placed	place	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	quote	quote	NN	_	9	dobj
+12	in	in	IN	_	9	prep
+13	a	a	DT	_	14	det
+14	spot	spot	NN	_	12	pobj
+15	where	where	WRB	_	18	advmod
+16	he	he	PRP	_	18	nsubj
+17	was	be	VBD	_	18	cop
+18	sure	sure	JJ	_	14	rcmod
+19	all	all	DT	_	24	nsubj
+20	of	of	IN	_	19	prep
+21	his	he	PRP$	_	22	poss
+22	players	player	NNS	_	20	pobj
+23	could	could	MD	_	24	aux
+24	see	see	VB	_	18	ccomp
+25	it	it	PRP	_	24	dobj
+26	.	.	.	_	9	punct
+

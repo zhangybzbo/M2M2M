@@ -1,0 +1,25 @@
+1	Barbauld	Barbauld	NNP	_	6	nsubj
+2	was	be	VBD	_	6	cop
+3	also	also	RB	_	6	advmod
+4	a	a	DT	_	6	det
+5	literary	literary	JJ	_	6	amod
+6	critic	critic	NN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	and	and	CC	_	6	cc
+9	her	she	PRP$	_	10	poss
+10	anthology	anthology	NN	_	15	nsubj
+11	of	of	IN	_	10	prep
+12	eighteenth-century	eighteenth-century	JJ	_	14	amod
+13	British	british	JJ	_	14	amod
+14	novels	novel	NNS	_	11	pobj
+15	helped	help	VBD	_	6	conj
+16	establish	establish	VB	_	15	ccomp
+17	the	the	DT	_	18	det
+18	canon	canon	NN	_	16	dobj
+19	as	as	IN	_	21	mark
+20	we	we	PRP	_	21	nsubj
+21	know	know	VBP	_	16	advcl
+22	it	it	PRP	_	21	dobj
+23	today	today	NN	_	21	tmod
+24	.	.	.	_	6	punct
+

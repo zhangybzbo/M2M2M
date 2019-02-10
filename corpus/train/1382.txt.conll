@@ -1,0 +1,22 @@
+1	Another	another	DT	_	2	det
+2	misconception	misconception	NN	_	0	ROOT
+3	I	I	PRP	_	4	nsubj
+4	see	see	VBP	_	2	rcmod
+5	often	often	RB	_	9	advmod
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	fuzzy	fuzzy	JJ	_	9	amod
+9	idea	idea	NN	_	4	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	difference	difference	NN	_	10	pobj
+13	between	between	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	copy	copy	NN	_	16	nn
+16	constructor	constructor	NN	_	13	pobj
+17	and	and	CC	_	16	cc
+18	the	the	DT	_	20	det
+19	assignment	assignment	NN	_	20	nn
+20	operator	operator	NN	_	16	conj
+21	.	.	.	_	2	punct
+

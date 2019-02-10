@@ -1,0 +1,19 @@
+1	In	in	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	paper	paper	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	we	we	PRP	_	6	nsubj
+6	introduce	introduce	VBP	_	0	ROOT
+7	dynamic	dynamic	JJ	_	8	amod
+8	analysis	analysis	NN	_	6	dobj
+9	and	and	CC	_	8	cc
+10	model	model	NN	_	11	nn
+11	transformations	transformation	NNS	_	8	conj
+12	of	of	IN	_	11	prep
+13	longitudinal	longitudinal	JJ	_	14	amod
+14	flight	flight	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	hypersonic	hypersonic	JJ	_	17	amod
+17	aircrafts	aircraft	NNS	_	15	pobj
+18	.	.	.	_	6	punct
+

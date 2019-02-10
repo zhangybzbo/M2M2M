@@ -1,0 +1,25 @@
+1	With	with	IN	_	13	prep
+2	a	a	DT	_	3	det
+3	concert	concert	NN	_	4	nsubj
+4	coming	come	VBG	_	1	pcomp
+5	up	up	RP	_	4	prt
+6	in	in	IN	_	4	prep
+7	only	only	RB	_	8	quantmod
+8	4	4	CD	_	9	num
+9	hours	hour	NNS	_	6	pobj
+10	,	,	,	_	13	punct
+11	you	you	PRP	_	13	nsubj
+12	are	be	VBP	_	13	aux
+13	working	work	VBG	_	0	ROOT
+14	feverishly	feverishly	RB	_	13	advmod
+15	to	to	TO	_	13	prep
+16	perfect	perfect	JJ	_	18	amod
+17	the	the	DT	_	18	det
+18	tune	tune	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	piano	piano	NN	_	23	poss
+22	's	's	POS	_	21	possessive
+23	strings	string	NNS	_	19	pobj
+24	.	.	.	_	13	punct
+

@@ -1,0 +1,26 @@
+1	In	in	IN	_	11	prep
+2	Wuthering	Wuthering	NNP	_	3	nn
+3	Heights	Heights	NNP	_	1	pobj
+4	by	by	IN	_	1	prep
+5	Emily	Emily	NNP	_	6	nn
+6	Bronte	Bronte	NNP	_	4	pobj
+7	's	's	POS	_	6	possessive
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	author	author	NN	_	11	nsubj
+11	uses	use	VBZ	_	0	ROOT
+12	repetition	repetition	NN	_	11	dobj
+13	as	as	IN	_	11	prep
+14	a	a	DT	_	15	det
+15	device	device	NN	_	13	pobj
+16	to	to	TO	_	17	aux
+17	give	give	VB	_	15	vmod
+18	us	we	PRP	_	17	iobj
+19	the	the	DT	_	21	det
+20	full	full	JJ	_	21	amod
+21	understanding	understanding	NN	_	17	dobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	characters	character	NNS	_	22	pobj
+25	.	.	.	_	11	punct
+

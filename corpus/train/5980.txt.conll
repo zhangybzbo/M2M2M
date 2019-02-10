@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	train	train	NN	_	3	nsubj
+3	departs	depart	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	Bryson	Bryson	NNP	_	7	nn
+7	City	City	NNP	_	4	pobj
+8	,	,	,	_	3	punct
+9	NC	NC	NNP	_	11	nn
+10	train	train	NN	_	11	nn
+11	depot	depot	NN	_	3	dobj
+12	on	on	IN	_	11	prep
+13	its	its	PRP$	_	15	poss
+14	magical	magical	JJ	_	15	amod
+15	journey	journey	NN	_	12	pobj
+16	to	to	TO	_	15	prep
+17	the	the	DT	_	19	det
+18	North	North	NNP	_	19	nn
+19	Pole	Pole	NNP	_	16	pobj
+20	.	.	.	_	3	punct
+

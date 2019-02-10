@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	bull	bull	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	grazing	grazing	NN	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	hay	hay	NN	_	8	nn
+8	pen	pen	NN	_	5	pobj
+9	by	by	IN	_	4	prep
+10	the	the	DT	_	11	det
+11	barn	barn	NN	_	9	pobj
+12	at	at	IN	_	4	prep
+13	a	a	DT	_	14	det
+14	farm	farm	NN	_	12	pobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	Mennonite	Mennonite	NNP	_	19	nn
+18	Heritage	Heritage	NNP	_	19	nn
+19	Village	Village	NNP	_	15	pobj
+20	.	.	.	_	4	punct
+

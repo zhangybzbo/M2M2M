@@ -1,0 +1,22 @@
+1	At	at	IN	_	6	prep
+2	that	that	DT	_	3	det
+3	point	point	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	patient	patient	NN	_	6	nsubj
+6	grabbed	grab	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	arm	arm	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	dentist	dentist	NN	_	9	pobj
+12	to	to	TO	_	14	aux
+13	forcibly	forcibly	RB	_	14	advmod
+14	pull	pull	VB	_	6	xcomp
+15	the	the	DT	_	16	det
+16	drill	drill	NN	_	14	dobj
+17	out	out	IN	_	14	prep
+18	of	of	IN	_	17	pcomp
+19	his	he	PRP$	_	20	poss
+20	mouth	mouth	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

@@ -1,0 +1,15 @@
+1	Draining	drain	VBG	_	13	csubj
+2	your	you	PRP$	_	4	poss
+3	wash	wash	NN	_	4	nn
+4	water	water	NN	_	1	dobj
+5	into	into	IN	_	1	prep
+6	an	a	DT	_	9	det
+7	open	open	JJ	_	9	amod
+8	sump	sump	NN	_	9	nn
+9	pump	pump	NN	_	5	pobj
+10	was	be	VBD	_	13	cop
+11	a	a	DT	_	13	det
+12	bad	bad	JJ	_	13	amod
+13	idea	idea	NN	_	0	ROOT
+14	.	.	.	_	13	punct
+

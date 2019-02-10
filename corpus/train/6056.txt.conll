@@ -1,0 +1,17 @@
+1	She	she	PRP	_	2	nsubj
+2	painted	paint	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	socket	socket	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	bulb	bulb	NN	_	5	pobj
+8	with	with	IN	_	2	prep
+9	black	black	JJ	_	10	amod
+10	paint	paint	NN	_	8	pobj
+11	,	,	,	_	2	punct
+12	using	use	VBG	_	2	xcomp
+13	a	a	DT	_	15	det
+14	cotton	cotton	NN	_	15	nn
+15	swab	swab	NN	_	12	dobj
+16	.	.	.	_	2	punct
+

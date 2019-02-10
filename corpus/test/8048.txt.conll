@@ -1,0 +1,19 @@
+1	Then	then	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	the	the	DT	_	6	det
+4	target	target	NN	_	6	nn
+5	PET	pet	NN	_	6	nn
+6	bottle	bottle	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	put	put	VBN	_	0	ROOT
+9	inside	inside	IN	_	8	prep
+10	of	of	IN	_	9	pcomp
+11	a	a	DT	_	13	det
+12	metal	metal	NN	_	13	nn
+13	container	container	NN	_	10	pobj
+14	,	,	,	_	13	punct
+15	which	which	WDT	_	17	nsubjpass
+16	was	be	VBD	_	17	auxpass
+17	grounded	ground	VBN	_	13	rcmod
+18	.	.	.	_	8	punct
+

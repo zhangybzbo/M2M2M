@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	disruption	disruption	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	sensitivity	sensitivity	NN	_	9	nn
+9	reaction	reaction	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	brain	brain	NN	_	10	pobj
+13	to	to	TO	_	9	prep
+14	an	a	DT	_	16	det
+15	ingested	ingest	VBN	_	16	amod
+16	substance	substance	NN	_	13	pobj
+17	.	.	.	_	5	punct
+

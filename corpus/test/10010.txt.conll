@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	monocarboxylate	monocarboxylate	JJ	_	3	amod
+3	ion	ion	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	derived	derive	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	8	det
+8	acid	acid	NN	_	6	pobj
+9	selected	select	VBN	_	8	vmod
+10	from	from	IN	_	9	prep
+11	formic	formic	JJ	_	12	amod
+12	acid	acid	NN	_	10	pobj
+13	.	.	.	_	5	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	drawer	drawer	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	``	``	``	_	3	punct
+5	a	a	DT	_	6	det
+6	phial	phial	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	some	some	DT	_	9	det
+9	tincture	tincture	NN	_	7	pobj
+10	,	,	,	_	6	punct
+11	a	a	DT	_	12	det
+12	paper	paper	NN	_	6	conj
+13	of	of	IN	_	12	prep
+14	some	some	DT	_	15	det
+15	salt	salt	NN	_	13	pobj
+16	,	,	,	_	6	punct
+17	and	and	CC	_	6	cc
+18	a	a	DT	_	19	det
+19	record	record	NN	_	6	conj
+20	of	of	IN	_	19	prep
+21	a	a	DT	_	22	det
+22	series	series	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	experiments	experiment	NNS	_	23	pobj
+25	''	''	''	_	19	punct
+26	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	In	in	IN	_	6	prep
+2	September	September	NNP	_	1	pobj
+3	2001	2001	CD	_	2	num
+4	,	,	,	_	6	punct
+5	IDRC	IDRC	NNP	_	6	nsubj
+6	created	create	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	council	council	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	regional	regional	JJ	_	11	amod
+11	advisors	advisor	NNS	_	9	pobj
+12	for	for	IN	_	11	prep
+13	West	West	NNP	_	12	pobj
+14	and	and	CC	_	13	cc
+15	Central	Central	NNP	_	16	nn
+16	Africa	Africa	NNP	_	13	conj
+17	.	.	.	_	6	punct
+

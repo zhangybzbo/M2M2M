@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	lower	lower	JJR	_	3	amod
+3	portion	portion	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	building	building	NN	_	4	pobj
+7	contained	contain	VBD	_	0	ROOT
+8	hundreds	hundred	NNS	_	7	dobj
+9	of	of	IN	_	8	prep
+10	storage	storage	NN	_	11	nn
+11	rooms	room	NNS	_	9	pobj
+12	.	.	.	_	7	punct
+

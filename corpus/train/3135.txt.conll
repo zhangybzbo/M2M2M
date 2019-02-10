@@ -1,0 +1,20 @@
+1	Since	since	IN	_	6	mark
+2	the	the	DT	_	4	det
+3	PN	pn	NN	_	4	nn
+4	signal	signal	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	generated	generate	VBN	_	15	advcl
+7	by	by	IN	_	6	prep
+8	an	a	DT	_	9	det
+9	algorithm	algorithm	NN	_	7	pobj
+10	,	,	,	_	15	punct
+11	knowledge	knowledge	NN	_	15	nsubj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	algorithm	algorithm	NN	_	12	pobj
+15	reveals	reveal	VBZ	_	0	ROOT
+16	the	the	DT	_	18	det
+17	entire	entire	JJ	_	18	amod
+18	sequence	sequence	NN	_	15	dobj
+19	.	.	.	_	15	punct
+

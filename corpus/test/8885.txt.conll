@@ -1,0 +1,26 @@
+1	Witness	witness	VB	_	0	ROOT
+2	the	the	DT	_	3	det
+3	gangs	gang	NNS	_	1	dobj
+4	in	in	IN	_	3	prep
+5	Los	Los	NNP	_	6	nn
+6	Angeles	Angeles	NNP	_	4	pobj
+7	who	who	WP	_	8	nsubj
+8	stopped	stop	VBD	_	3	rcmod
+9	killing	kill	VBG	_	8	xcomp
+10	one	one	CD	_	11	num
+11	another	another	DT	_	9	dobj
+12	for	for	IN	_	9	prep
+13	a	a	DT	_	14	det
+14	time	time	NN	_	12	pobj
+15	after	after	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	riots	riot	NNS	_	15	pobj
+18	triggered	trigger	VBN	_	17	vmod
+19	by	by	IN	_	18	prep
+20	the	the	DT	_	24	det
+21	Rodney	Rodney	NNP	_	24	nn
+22	King	King	NNP	_	24	nn
+23	bashing	bash	VBG	_	24	amod
+24	verdict	verdict	NN	_	19	pobj
+25	.	.	.	_	1	punct
+

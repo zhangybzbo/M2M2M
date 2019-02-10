@@ -1,0 +1,22 @@
+1	From	from	IN	_	4	prep
+2	time	time	NN	_	1	pobj
+3	to	to	TO	_	4	aux
+4	time	time	VB	_	0	ROOT
+5	a	a	DT	_	4	dobj
+6	drove	drive	VBN	_	5	vmod
+7	of	of	IN	_	6	prep
+8	goats	goat	NNS	_	7	pobj
+9	or	or	CC	_	8	cc
+10	donkeys	donkey	NNS	_	8	conj
+11	passed	pass	VBN	_	8	vmod
+12	by	by	IN	_	11	prep
+13	on	on	IN	_	12	pcomp
+14	its	its	PRP$	_	15	poss
+15	way	way	NN	_	13	pobj
+16	to	to	TO	_	15	prep
+17	the	the	DT	_	20	det
+18	Jardin	Jardin	NNP	_	20	nn
+19	du	du	NNP	_	20	nn
+20	Luxembourg	Luxembourg	NNP	_	16	pobj
+21	.	.	.	_	4	punct
+

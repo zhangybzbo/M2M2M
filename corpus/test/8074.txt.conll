@@ -1,0 +1,17 @@
+1	Since	since	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	inspector	inspector	NN	_	5	nsubj
+4	had	have	VBD	_	5	aux
+5	left	leave	VBN	_	15	advcl
+6	the	the	DT	_	7	det
+7	yard	yard	NN	_	5	dobj
+8	,	,	,	_	15	punct
+9	early	early	RB	_	11	advmod
+10	that	that	IN	_	11	amod
+11	morning	morning	NN	_	15	tmod
+12	,	,	,	_	15	punct
+13	he	he	PRP	_	15	nsubj
+14	had	have	VBD	_	15	aux
+15	disappeared	disappear	VBN	_	0	ROOT
+16	.	.	.	_	15	punct
+

@@ -1,0 +1,22 @@
+1	After	after	IN	_	10	prep
+2	receiving	receive	VBG	_	1	pcomp
+3	parental	parental	JJ	_	4	amod
+4	permission	permission	NN	_	2	dobj
+5	for	for	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	project	project	NN	_	5	pobj
+8	,	,	,	_	10	punct
+9	students	student	NNS	_	10	nsubj
+10	treated	treat	VBN	_	0	ROOT
+11	the	the	DT	_	12	det
+12	chickens	chicken	NNS	_	10	dobj
+13	with	with	IN	_	10	prep
+14	a	a	DT	_	15	det
+15	mixture	mixture	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	salt	salt	NN	_	16	pobj
+18	and	and	CC	_	17	cc
+19	baking	bake	VBG	_	20	amod
+20	powder	powder	NN	_	17	conj
+21	.	.	.	_	10	punct
+

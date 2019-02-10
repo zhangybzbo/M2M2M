@@ -1,0 +1,16 @@
+1	State	State	NNP	_	2	nn
+2	citizens	citizen	NNS	_	3	nsubj
+3	created	create	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	states	state	NNS	_	3	dobj
+6	who	who	WP	_	7	nsubj
+7	created	create	VBD	_	5	rcmod
+8	the	the	DT	_	10	det
+9	federal	federal	JJ	_	10	amod
+10	government	government	NN	_	7	dobj
+11	who	who	WP	_	12	nsubj
+12	created	create	VBD	_	10	rcmod
+13	federal	federal	JJ	_	14	amod
+14	citizens	citizen	NNS	_	12	dobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	Cox	cox	NN	_	2	nsubj
+2	examined	examine	VBD	_	0	ROOT
+3	the	the	DT	_	7	det
+4	current	current	JJ	_	7	amod
+5	financial	financial	JJ	_	7	amod
+6	regulatory	regulatory	JJ	_	7	amod
+7	structure	structure	NN	_	2	dobj
+8	and	and	CC	_	2	cc
+9	pointed	point	VBD	_	2	conj
+10	towards	towards	IN	_	9	prep
+11	its	its	PRP$	_	14	poss
+12	very	very	RB	_	13	advmod
+13	immediate	immediate	JJ	_	14	amod
+14	potential	potential	NN	_	10	pobj
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	speech	speech	NN	_	15	pobj
+18	before	before	IN	_	9	prep
+19	the	the	DT	_	20	det
+20	conference	conference	NN	_	18	pobj
+21	.	.	.	_	2	punct
+

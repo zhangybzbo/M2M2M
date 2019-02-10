@@ -1,0 +1,23 @@
+1	For	for	IN	_	11	prep
+2	projects	project	NNS	_	1	pobj
+3	submitted	submit	VBN	_	2	vmod
+4	at	at	IN	_	3	prep
+5	national	national	JJ	_	6	amod
+6	level	level	NN	_	4	pobj
+7	,	,	,	_	11	punct
+8	the	the	DT	_	9	det
+9	volunteer	volunteer	NN	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	sent	send	VBN	_	0	ROOT
+12	by	by	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	organization	organization	NN	_	12	pobj
+15	legally	legally	RB	_	16	advmod
+16	established	establish	VBN	_	14	vmod
+17	in	in	IN	_	16	prep
+18	his/her	his/her	JJ	_	19	amod
+19	country	country	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	residence	residence	NN	_	20	pobj
+22	.	.	.	_	11	punct
+

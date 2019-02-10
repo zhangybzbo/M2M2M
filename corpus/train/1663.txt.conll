@@ -1,0 +1,18 @@
+1	Since	since	IN	_	8	prep
+2	then	then	RB	_	1	pcomp
+3	,	,	,	_	8	punct
+4	millions	million	NNS	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	dollars	dollar	NNS	_	5	pobj
+7	have	have	VBP	_	8	aux
+8	gone	go	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	reconstructions	reconstruction	NNS	_	9	pobj
+11	for	for	IN	_	8	prep
+12	victims	victim	NNS	_	11	pobj
+13	of	of	IN	_	12	prep
+14	tsunami	tsunami	NN	_	13	pobj
+15	in	in	IN	_	8	prep
+16	2004	2004	CD	_	15	pobj
+17	.	.	.	_	8	punct
+

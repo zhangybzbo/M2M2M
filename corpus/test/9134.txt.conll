@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	presence	presence	NN	_	14	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	charged	charge	VBN	_	6	amod
+6	object	object	NN	_	3	pobj
+7	above	above	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	plate	plate	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	electroscope	electroscope	NN	_	10	pobj
+13	,	,	,	_	2	punct
+14	induces	induce	VBZ	_	0	ROOT
+15	electrons	electron	NNS	_	14	dobj
+16	within	within	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	electroscope	electroscope	NN	_	16	pobj
+19	to	to	TO	_	20	aux
+20	move	move	VB	_	14	xcomp
+21	accordingly	accordingly	RB	_	20	advmod
+22	.	.	.	_	14	punct
+

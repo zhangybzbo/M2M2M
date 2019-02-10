@@ -1,0 +1,22 @@
+1	To	to	TO	_	2	aux
+2	strengthen	strengthen	VB	_	0	ROOT
+3	,	,	,	_	2	punct
+4	if	if	IN	_	5	mark
+5	needed	need	VBN	_	2	advcl
+6	,	,	,	_	2	punct
+7	maybe	maybe	RB	_	10	advmod
+8	some	some	DT	_	10	det
+9	sinister	sinister	JJ	_	10	amod
+10	reference	reference	NN	_	2	dobj
+11	to	to	TO	_	10	prep
+12	the	the	DT	_	13	det
+13	pea	pea	NN	_	11	pobj
+14	having	have	VBG	_	15	aux
+15	got	get	VBN	_	10	vmod
+16	out	out	RP	_	15	prt
+17	from	from	IN	_	15	prep
+18	under	under	IN	_	17	pcomp
+19	the	the	DT	_	20	det
+20	mattress	mattress	NN	_	18	pobj
+21	.	.	.	_	2	punct
+

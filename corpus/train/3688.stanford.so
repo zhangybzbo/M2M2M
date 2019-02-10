@@ -1,0 +1,11 @@
+0	62	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="money" pos="NN" nsubjpass="t4"
+6	9	tok id="t1" base="for" pos="IN" prep="t0"
+10	23	tok id="t2" base="communication" pos="NN" pobj="t1"
+24	26	tok id="t3" base="be" pos="VBZ" auxpass="t4"
+27	35	tok id="t4" base="invest" pos="VBN" ROOT="ROOT"
+36	40	tok id="t5" base="into" pos="IN" prep="t4"
+41	49	tok id="t6" base="Ethernet" pos="NNP" nn="t7"
+50	60	tok id="t7" base="technology" pos="NN" pobj="t5"
+61	62	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

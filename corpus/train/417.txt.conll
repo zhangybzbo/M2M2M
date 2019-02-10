@@ -1,0 +1,17 @@
+1	Peanut	peanut	NN	_	3	nn
+2	butter	butter	NN	_	3	nn
+3	cookies	cookie	NNS	_	6	nsubj
+4	are	be	VBP	_	6	cop
+5	simply	simply	RB	_	6	advmod
+6	cookies	cookie	NNS	_	0	ROOT
+7	that	that	WDT	_	8	nsubj
+8	use	use	VBP	_	6	rcmod
+9	peanut	peanut	NN	_	10	nn
+10	butter	butter	NN	_	8	dobj
+11	as	as	IN	_	8	prep
+12	one	one	CD	_	11	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	ingredients	ingredient	NNS	_	13	pobj
+16	.	.	.	_	6	punct
+

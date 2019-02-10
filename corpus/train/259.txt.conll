@@ -1,0 +1,16 @@
+1	Cruisers	cruiser	NNS	_	5	nsubj
+2	and	and	CC	_	1	cc
+3	large	large	JJ	_	4	amod
+4	yachts	yacht	NNS	_	1	conj
+5	have	have	VBP	_	0	ROOT
+6	much	much	RB	_	7	advmod
+7	more	more	RBR	_	8	advmod
+8	sophisticated	sophisticated	JJ	_	9	amod
+9	fittings	fitting	NNS	_	5	dobj
+10	that	that	IN	_	12	mark
+11	that	that	DT	_	12	nsubj
+12	require	require	VBP	_	9	ccomp
+13	more	more	JJR	_	14	amod
+14	skills	skill	NNS	_	12	dobj
+15	.	.	.	_	5	punct
+

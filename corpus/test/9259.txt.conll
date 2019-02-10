@@ -1,0 +1,13 @@
+1	Much	much	JJ	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	bloodshed	bloodshed	NN	_	2	pobj
+5	was	be	VBD	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	growth	growth	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	gangs	gang	NNS	_	10	pobj
+12	.	.	.	_	6	punct
+

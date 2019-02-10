@@ -1,0 +1,15 @@
+1	Miss	Miss	NNP	_	2	nn
+2	Clockheart	Clockheart	NNP	_	3	nsubj
+3	wears	wear	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	silver	silver	JJ	_	6	amod
+6	heart	heart	NN	_	3	dobj
+7	around	around	IN	_	3	prep
+8	her	she	PRP$	_	9	poss
+9	neck	neck	NN	_	7	pobj
+10	with	with	IN	_	3	prep
+11	a	a	DT	_	12	det
+12	clock	clock	NN	_	10	pobj
+13	inside	inside	IN	_	12	advmod
+14	.	.	.	_	3	punct
+

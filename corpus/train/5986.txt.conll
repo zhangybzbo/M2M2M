@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	report	report	NN	_	3	nsubj
+3	insisted	insist	VBD	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	need	need	NN	_	4	pobj
+7	to	to	TO	_	8	aux
+8	guarantee	guarantee	VB	_	6	vmod
+9	income	income	NN	_	10	nn
+10	security	security	NN	_	8	dobj
+11	independently	independently	RB	_	8	advmod
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	variations	variation	NNS	_	12	pobj
+15	in	in	IN	_	14	prep
+16	economic	economic	JJ	_	17	amod
+17	circumstances	circumstance	NNS	_	15	pobj
+18	.	.	.	_	3	punct
+

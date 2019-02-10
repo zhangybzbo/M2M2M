@@ -1,0 +1,11 @@
+1	For	for	IN	_	6	prep
+2	example	example	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	consonants	consonant	NNS	_	6	nsubjpass
+5	were	be	VBD	_	6	auxpass
+6	misplaced	misplace	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	consonant	consonant	JJ	_	9	amod
+9	slots	slot	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	Royal	Royal	NNP	_	3	nn
+3	Navy	Navy	NNP	_	8	poss
+4	's	's	POS	_	3	possessive
+5	newest	newest	JJS	_	8	amod
+6	1bn	1bn	CD	_	8	num
+7	GBP	gbp	NN	_	8	nn
+8	warship	warship	NN	_	11	nsubjpass
+9	has	have	VBZ	_	11	aux
+10	been	be	VBN	_	11	auxpass
+11	handed	hand	VBN	_	0	ROOT
+12	over	over	IN	_	11	prep
+13	to	to	TO	_	12	pcomp
+14	the	the	DT	_	16	det
+15	new	new	JJ	_	16	amod
+16	owner	owner	NN	_	13	pobj
+17	in	in	IN	_	11	prep
+18	a	a	DT	_	20	det
+19	formal	formal	JJ	_	20	amod
+20	ceremony	ceremony	NN	_	17	pobj
+21	.	.	.	_	11	punct
+

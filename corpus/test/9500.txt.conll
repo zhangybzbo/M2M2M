@@ -1,0 +1,22 @@
+1	Tuesday	Tuesday	NNP	_	2	nn
+2	night	night	NN	_	9	tmod
+3	,	,	,	_	9	punct
+4	a	a	DT	_	7	det
+5	mysterious	mysterious	JJ	_	7	amod
+6	white	white	JJ	_	7	amod
+7	powder	powder	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	discovered	discover	VBN	_	0	ROOT
+10	inside	inside	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	roll	roll	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	quarters	quarter	NNS	_	13	pobj
+15	at	at	IN	_	12	prep
+16	the	the	DT	_	20	det
+17	Lakeshore	Lakeshore	NNP	_	20	nn
+18	Mall	mall	NN	_	20	nn
+19	movie	movie	NN	_	20	nn
+20	theater	theater	NN	_	15	pobj
+21	.	.	.	_	9	punct
+

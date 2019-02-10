@@ -1,0 +1,12 @@
+0	73	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t2"
+2	6	tok id="t1" base="user" pos="NN" nn="t2"
+7	13	tok id="t2" base="input" pos="NNS" ROOT="ROOT"
+14	29	tok id="t3" base="spatio-temporal" pos="JJ" amod="t4"
+30	41	tok id="t4" base="information" pos="NN" dep="t2"
+42	53	tok id="t5" base="intuitively" pos="RB" advmod="t4"
+54	56	tok id="t6" base="by" pos="IN" prep="t4"
+57	62	tok id="t7" base="use" pos="VBG" pcomp="t6"
+63	71	tok id="t8" base="gesture" pos="NNS" dobj="t7"
+72	73	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

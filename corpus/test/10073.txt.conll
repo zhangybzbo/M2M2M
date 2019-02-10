@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	began	begin	VBD	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	chat	chat	VB	_	2	xcomp
+5	with	with	IN	_	4	prep
+6	him	he	PRP	_	5	pobj
+7	in	in	IN	_	4	prep
+8	ignorance	ignorance	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	news	news	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

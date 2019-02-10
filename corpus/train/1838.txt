@@ -1,0 +1,1 @@
+For example the steppingmotor has a coil with a resistance of 5 ohm and a nominal current of 1 Amp .

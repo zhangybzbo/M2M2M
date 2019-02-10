@@ -1,0 +1,26 @@
+1	Her	she	PRP$	_	3	poss
+2	split	split	NN	_	3	nn
+3	skirt	skirt	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	trunk	trunk	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	clothing	clothing	NN	_	8	pobj
+10	that	that	WDT	_	14	nsubj
+11	still	still	RB	_	14	advmod
+12	had	have	VBD	_	14	aux
+13	n't	not	RB	_	14	neg
+14	arrived	arrive	VBN	_	9	rcmod
+15	from	from	IN	_	14	prep
+16	Washington	Washington	NNP	_	15	pobj
+17	,	,	,	_	4	punct
+18	but	but	CC	_	4	cc
+19	she	she	PRP	_	20	nsubj
+20	looked	look	VBD	_	4	conj
+21	forward	forward	RB	_	20	advmod
+22	to	to	TO	_	20	prep
+23	the	the	DT	_	24	det
+24	freedom	freedom	NN	_	22	pobj
+25	.	.	.	_	4	punct
+

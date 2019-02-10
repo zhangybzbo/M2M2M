@@ -1,0 +1,15 @@
+1	Ambient	ambient	JJ	_	4	amod
+2	vanadium	vanadium	NN	_	4	nn
+3	pentoxide	pentoxide	NN	_	4	nn
+4	dust	dust	NN	_	5	nsubj
+5	produces	produce	VBZ	_	0	ROOT
+6	irritation	irritation	NN	_	5	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	eyes	eye	NNS	_	7	pobj
+10	,	,	,	_	9	punct
+11	nose	nose	NN	_	9	conj
+12	and	and	CC	_	9	cc
+13	throat	throat	NN	_	9	conj
+14	.	.	.	_	5	punct
+

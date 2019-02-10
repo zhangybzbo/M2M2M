@@ -1,0 +1,23 @@
+1	As	as	IN	_	9	prep
+2	an	a	DT	_	3	det
+3	option	option	NN	_	1	pobj
+4	for	for	IN	_	3	prep
+5	extra	extra	JJ	_	6	amod
+6	credit	credit	NN	_	4	pobj
+7	,	,	,	_	9	punct
+8	I	I	PRP	_	9	nsubj
+9	read	read	VBP	_	0	ROOT
+10	it	it	PRP	_	13	nsubj
+11	also	also	RB	_	13	advmod
+12	and	and	CC	_	13	cc
+13	completed	complete	VBD	_	9	ccomp
+14	a	a	DT	_	15	det
+15	parent	parent	NN	_	18	poss
+16	's	's	POS	_	15	possessive
+17	book	book	NN	_	18	nn
+18	report	report	NN	_	13	dobj
+19	for	for	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	teacher	teacher	NN	_	19	pobj
+22	.	.	.	_	9	punct
+

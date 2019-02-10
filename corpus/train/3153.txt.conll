@@ -1,0 +1,20 @@
+1	These	these	DT	_	2	det
+2	aliens	alien	NNS	_	5	nsubj
+3	were	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	Covenant	Covenant	NNP	_	0	ROOT
+6	,	,	,	_	5	punct
+7	a	a	DT	_	8	det
+8	confederacy	confederacy	NN	_	5	appos
+9	of	of	IN	_	8	prep
+10	various	various	JJ	_	11	amod
+11	races	race	NNS	_	9	pobj
+12	brought	bring	VBN	_	11	vmod
+13	together	together	RB	_	12	advmod
+14	by	by	IN	_	12	prep
+15	their	they	PRP$	_	18	poss
+16	fanatical	fanatical	JJ	_	18	amod
+17	religious	religious	JJ	_	18	amod
+18	devotion	devotion	NN	_	14	pobj
+19	.	.	.	_	5	punct
+

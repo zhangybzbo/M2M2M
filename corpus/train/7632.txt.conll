@@ -1,0 +1,16 @@
+1	Flight	Flight	NNP	_	2	nn
+2	disruption	disruption	NN	_	0	ROOT
+3	after	after	IN	_	9	mark
+4	the	the	DT	_	5	det
+5	attacks	attack	NNS	_	9	nsubj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	US	US	NNP	_	6	pobj
+9	delayed	delay	VBD	_	2	advcl
+10	him	he	PRP	_	9	dobj
+11	there	there	EX	_	9	advmod
+12	for	for	IN	_	11	prep
+13	three	three	CD	_	14	num
+14	days	day	NNS	_	12	pobj
+15	.	.	.	_	2	punct
+

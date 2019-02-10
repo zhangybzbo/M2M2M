@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	emission	emission	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	electromagnetic	electromagnetic	JJ	_	5	amod
+5	radiation	radiation	NN	_	3	pobj
+6	from	from	IN	_	2	prep
+7	cell	cell	NN	_	8	nn
+8	phones	phone	NNS	_	6	pobj
+9	continues	continue	VBZ	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	become	become	VB	_	9	xcomp
+12	a	a	DT	_	14	det
+13	growing	grow	VBG	_	14	amod
+14	concern	concern	NN	_	11	xcomp
+15	.	.	.	_	9	punct
+

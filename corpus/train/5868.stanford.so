@@ -1,0 +1,10 @@
+0	56	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="droxyapatite" pos="NN" nsubjpass="t2"
+13	17	tok id="t1" base="be" pos="VBD" auxpass="t2"
+18	27	tok id="t2" base="implant" pos="VBN" ROOT="ROOT"
+28	32	tok id="t3" base="into" pos="IN" prep="t2"
+33	39	tok id="t4" base="facial" pos="JJ" amod="t6"
+40	49	tok id="t5" base="osteotomy" pos="NN" nn="t6"
+50	54	tok id="t6" base="gap" pos="NNS" pobj="t3"
+55	56	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

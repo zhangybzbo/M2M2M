@@ -1,0 +1,21 @@
+1	He	he	PRP	_	4	nsubjpass
+2	was	be	VBD	_	4	auxpass
+3	later	later	RB	_	4	advmod
+4	recaptured	recapture	VBN	_	0	ROOT
+5	through	through	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	combined	combined	JJ	_	8	amod
+8	efforts	effort	NNS	_	5	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	coven	coven	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	white	white	JJ	_	14	amod
+14	witches	witch	NNS	_	12	pobj
+15	and	and	CC	_	14	cc
+16	a	a	DT	_	17	det
+17	group	group	NN	_	14	conj
+18	of	of	IN	_	17	prep
+19	satanists	satanist	NNS	_	18	pobj
+20	.	.	.	_	4	punct
+

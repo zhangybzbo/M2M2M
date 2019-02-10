@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	3	nsubj
+3	gave	give	VBD	_	0	ROOT
+4	money	money	NN	_	3	dobj
+5	to	to	TO	_	6	aux
+6	wind	wind	VB	_	3	vmod
+7	power	power	NN	_	8	nn
+8	producers	producer	NNS	_	6	dobj
+9	.	.	.	_	3	punct
+

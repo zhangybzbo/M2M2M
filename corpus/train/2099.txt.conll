@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	rudders	rudder	NNS	_	8	nsubjpass
+3	in	in	IN	_	2	prep
+4	dinghy	dinghy	NN	_	5	nn
+5	boats	boat	NNS	_	3	pobj
+6	are	be	VBP	_	8	auxpass
+7	either	either	RB	_	8	advmod
+8	fixed	fix	VBN	_	0	ROOT
+9	or	or	CC	_	8	cc
+10	have	have	VB	_	8	conj
+11	a	a	DT	_	13	det
+12	lifting	lifting	NN	_	13	nn
+13	blade	blade	NN	_	10	dobj
+14	.	.	.	_	8	punct
+

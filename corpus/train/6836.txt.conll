@@ -1,0 +1,27 @@
+1	Better	Better	NNP	_	4	nn
+2	&	&	CC	_	1	cc
+3	Partners	Partners	NNP	_	1	conj
+4	Communications	Communications	NNPS	_	8	nsubj
+5	is	be	VBZ	_	8	cop
+6	an	a	DT	_	8	det
+7	advertising	advertising	NN	_	8	nn
+8	agency	agency	NN	_	0	ROOT
+9	specialized	specialize	VBN	_	8	vmod
+10	in	in	IN	_	9	prep
+11	TV	tv	NN	_	12	nn
+12	ads	ad	NNS	_	10	pobj
+13	,	,	,	_	8	punct
+14	outdoors	outdoors	RB	_	8	dep
+15	,	,	,	_	16	punct
+16	media	media	NNS	_	14	dep
+17	,	,	,	_	16	punct
+18	marketing	marketing	NN	_	16	conj
+19	,	,	,	_	16	punct
+20	consulting	consulting	NN	_	16	conj
+21	,	,	,	_	16	punct
+22	press	press	NN	_	16	conj
+23	,	,	,	_	16	punct
+24	etc.	etc.	FW	_	16	conj
+25	.	.	.	_	16	punct
+26	.	.	.	_	16	punct
+

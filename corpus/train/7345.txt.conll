@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	single	single	JJ	_	3	amod
+3	blow	blow	NN	_	0	ROOT
+4	made	make	VBN	_	3	vmod
+5	with	with	IN	_	4	prep
+6	the	the	DT	_	10	det
+7	chisel	chisel	VBP	_	10	amod
+8	angled	angled	JJ	_	10	amod
+9	incorrectly	incorrectly	RB	_	10	advmod
+10	cracks	crack	NNS	_	5	pobj
+11	a	a	DT	_	12	det
+12	block	block	NN	_	10	dep
+13	or	or	CC	_	12	cc
+14	break	break	VB	_	12	conj
+15	a	a	DT	_	17	det
+16	delicate	delicate	JJ	_	17	amod
+17	protrusion	protrusion	NN	_	12	dep
+18	.	.	.	_	3	punct
+

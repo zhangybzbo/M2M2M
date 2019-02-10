@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	big	big	JJ	_	3	amod
+3	bang	bang	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	collision	collision	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	two	two	CD	_	12	num
+11	parallel	parallel	JJ	_	12	amod
+12	universes	universe	NNS	_	9	pobj
+13	.	.	.	_	5	punct
+

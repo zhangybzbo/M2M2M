@@ -1,0 +1,24 @@
+1	Frequently	frequently	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	4	det
+4	librettist	librettist	NN	_	7	nsubj
+5	has	have	VBZ	_	7	aux
+6	n't	not	RB	_	7	neg
+7	had	have	VBD	_	0	ROOT
+8	an	a	DT	_	9	det
+9	inkling	inkling	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	these	these	DT	_	12	det
+12	feelings	feeling	NNS	_	10	pobj
+13	,	,	,	_	7	punct
+14	for	for	IN	_	7	prep
+15	they	they	PRP	_	14	pobj
+16	are	be	VBP	_	17	cop
+17	all	all	DT	_	7	dep
+18	in	in	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	composer	composer	NN	_	22	poss
+21	's	's	POS	_	20	possessive
+22	head	head	NN	_	18	pobj
+23	.	.	.	_	7	punct
+

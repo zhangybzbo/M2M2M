@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	real	real	JJ	_	3	amod
+3	possibility	possibility	NN	_	16	nsubj
+4	of	of	IN	_	3	prep
+5	total	total	JJ	_	6	amod
+6	engulfment	engulfment	NN	_	4	pobj
+7	by	by	IN	_	3	prep
+8	flame	flame	NN	_	7	pobj
+9	or	or	CC	_	8	cc
+10	suffocation	suffocation	NN	_	8	conj
+11	from	from	IN	_	8	prep
+12	smoke	smoke	NN	_	11	pobj
+13	was	be	VBD	_	16	cop
+14	a	a	DT	_	16	det
+15	constant	constant	JJ	_	16	amod
+16	threat	threat	NN	_	0	ROOT
+17	.	.	.	_	16	punct
+

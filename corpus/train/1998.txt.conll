@@ -1,0 +1,10 @@
+1	Public	Public	NNP	_	3	nn
+2	education	education	NN	_	3	nn
+3	systems	system	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	carried	carry	VBN	_	0	ROOT
+6	nations	nation	NNS	_	5	dobj
+7	into	into	IN	_	5	prep
+8	prosperity	prosperity	NN	_	7	pobj
+9	.	.	.	_	5	punct
+

@@ -1,0 +1,19 @@
+1	D.	D.	NNP	_	3	nn
+2	G.	G.	NNP	_	3	nn
+3	Phalke	Phalke	NNP	_	6	poss
+4	's	's	POS	_	3	possessive
+5	Raja	Raja	NNP	_	6	nn
+6	Harishchandra	Harishchandra	NNP	_	12	nsubj
+7	is	be	VBZ	_	12	cop
+8	the	the	DT	_	12	det
+9	earliest	earliest	JJS	_	12	amod
+10	Indian	indian	JJ	_	12	amod
+11	fiction	fiction	NN	_	12	nn
+12	film	film	NN	_	0	ROOT
+13	made	make	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	an	a	DT	_	17	det
+16	Indian	indian	JJ	_	17	amod
+17	director	director	NN	_	14	pobj
+18	.	.	.	_	12	punct
+

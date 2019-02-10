@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	chair	chair	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	corporation	corporation	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	elected	elect	VBN	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	term	term	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	office	office	NN	_	11	pobj
+13	of	of	IN	_	12	prep
+14	up	up	RB	_	16	quantmod
+15	to	to	TO	_	16	dep
+16	four	four	CD	_	17	num
+17	years	year	NNS	_	13	pobj
+18	as	as	IN	_	19	mark
+19	determined	determine	VBN	_	7	advcl
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	Corporation	Corporation	NNP	_	20	pobj
+23	.	.	.	_	7	punct
+

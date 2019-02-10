@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj
+2	sealed	seal	VBD	_	0	ROOT
+3	up	up	RP	_	2	prt
+4	a	a	DT	_	5	det
+5	bottle	bottle	NN	_	2	dobj
+6	full	full	JJ	_	5	amod
+7	of	of	IN	_	6	prep
+8	air	air	NN	_	7	pobj
+9	and	and	CC	_	2	cc
+10	put	put	VBD	_	2	conj
+11	it	it	PRP	_	10	dobj
+12	in	in	IN	_	10	prep
+13	a	a	DT	_	14	det
+14	freezer	freezer	NN	_	12	pobj
+15	for	for	IN	_	10	prep
+16	15	15	CD	_	18	number
+17	to	to	TO	_	18	dep
+18	30	30	CD	_	19	num
+19	minutes	minute	NNS	_	15	pobj
+20	.	.	.	_	2	punct
+

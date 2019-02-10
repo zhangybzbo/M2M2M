@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	exhibition	exhibition	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	original	original	JJ	_	5	amod
+5	drawings	drawing	NNS	_	3	dobj
+6	featuring	feature	VBG	_	5	vmod
+7	famous	famous	JJ	_	8	amod
+8	landmarks	landmark	NNS	_	6	dobj
+9	between	between	IN	_	8	prep
+10	Plymouth	Plymouth	NNP	_	9	pobj
+11	and	and	CC	_	10	cc
+12	London	London	NNP	_	10	conj
+13	.	.	.	_	3	punct
+

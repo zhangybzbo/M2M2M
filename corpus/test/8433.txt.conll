@@ -1,0 +1,26 @@
+1	Early	early	RB	_	4	amod
+2	and	and	CC	_	1	cc
+3	recent	recent	JJ	_	1	conj
+4	pictures	picture	NNS	_	5	nsubj
+5	had	have	VBD	_	0	ROOT
+6	to	to	TO	_	9	aux
+7	be	be	VB	_	9	auxpass
+8	perfectly	perfectly	RB	_	9	advmod
+9	aligned	align	VBN	_	5	xcomp
+10	,	,	,	_	9	punct
+11	allowing	allow	VBG	_	9	xcomp
+12	them	they	PRP	_	11	dobj
+13	to	to	TO	_	14	aux
+14	track	track	VB	_	11	xcomp
+15	the	the	DT	_	16	det
+16	movement	movement	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	moles	mole	NNS	_	17	pobj
+19	,	,	,	_	18	punct
+20	wrinkles	wrinkle	NNS	_	18	conj
+21	and	and	CC	_	18	cc
+22	other	other	JJ	_	24	amod
+23	facial	facial	JJ	_	24	amod
+24	landmarks	landmark	NNS	_	18	conj
+25	.	.	.	_	5	punct
+

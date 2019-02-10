@@ -1,0 +1,25 @@
+1	Sometimes	sometimes	RB	_	4	advmod
+2	their	they	PRP$	_	3	poss
+3	way	way	NN	_	4	nsubj
+4	led	lead	VBD	_	0	ROOT
+5	them	they	PRP	_	4	dobj
+6	under	under	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	shade	shade	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	an	a	DT	_	12	det
+11	overhanging	overhang	VBG	_	12	amod
+12	bank	bank	NN	_	9	pobj
+13	or	or	CC	_	6	cc
+14	through	through	IN	_	6	conj
+15	the	the	DT	_	17	det
+16	thin	thin	JJ	_	17	amod
+17	obscurity	obscurity	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	clump	clump	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	leafless	leafless	JJ	_	23	amod
+23	trees	tree	NNS	_	21	pobj
+24	.	.	.	_	4	punct
+

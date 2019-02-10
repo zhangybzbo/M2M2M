@@ -1,0 +1,11 @@
+1	Brushing	brushing	NN	_	4	nsubj
+2	after	after	IN	_	1	prep
+3	meals	meal	NNS	_	2	pobj
+4	became	become	VBD	_	0	ROOT
+5	part	part	NN	_	4	xcomp
+6	of	of	IN	_	5	prep
+7	your	you	PRP$	_	9	poss
+8	daily	daily	JJ	_	9	amod
+9	schedule	schedule	NN	_	6	pobj
+10	.	.	.	_	4	punct
+

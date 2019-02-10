@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	narcs	narc	NNS	_	3	nsubj
+3	planted	plant	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	rock	rock	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	cocaine	cocaine	NN	_	6	pobj
+8	on	on	IN	_	3	prep
+9	me	I	PRP	_	8	pobj
+10	when	when	WRB	_	12	advmod
+11	they	they	PRP	_	12	nsubj
+12	arrested	arrest	VBD	_	3	advcl
+13	my	my	PRP$	_	14	poss
+14	buddy	buddy	NN	_	12	dobj
+15	with	with	IN	_	12	prep
+16	his	he	PRP$	_	17	poss
+17	stash	stash	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

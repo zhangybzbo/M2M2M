@@ -1,0 +1,14 @@
+1	In	in	IN	_	0	ROOT
+2	response	response	NN	_	1	pobj
+3	to	to	TO	_	2	prep
+4	the	the	DT	_	5	det
+5	problem	problem	NN	_	3	pobj
+6	,	,	,	_	8	punct
+7	the	the	DT	_	8	det
+8	assembly	assembly	NN	_	1	dep
+9	composed	compose	VBN	_	8	vmod
+10	the	the	DT	_	12	det
+11	following	follow	VBG	_	12	amod
+12	statement	statement	NN	_	9	dobj
+13	.	.	.	_	8	punct
+

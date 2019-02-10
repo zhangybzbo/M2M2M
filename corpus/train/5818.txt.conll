@@ -1,0 +1,17 @@
+1	Reverend	Reverend	NNP	_	3	nn
+2	Stafford	Stafford	NNP	_	3	nn
+3	Carson	Carson	NNP	_	4	nsubj
+4	focused	focus	VBD	_	0	ROOT
+5	almost	almost	RB	_	6	advmod
+6	all	all	DT	_	4	dobj
+7	of	of	IN	_	6	prep
+8	his	he	PRP$	_	9	poss
+9	message	message	NN	_	7	pobj
+10	on	on	IN	_	4	prep
+11	the	the	DT	_	12	det
+12	dangers	danger	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	abusing	abuse	VBG	_	13	pcomp
+15	alcohol	alcohol	NN	_	14	dobj
+16	.	.	.	_	4	punct
+

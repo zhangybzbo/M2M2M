@@ -1,0 +1,26 @@
+1	KHZZ	khzz	NN	_	3	nn
+2	experienced	experienced	JJ	_	3	amod
+3	competition	competition	NN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	former	former	JJ	_	8	amod
+6	oldies	oldy	NNS	_	8	nn
+7	station	station	NN	_	8	nn
+8	KHYL	khyl	NN	_	4	pobj
+9	,	,	,	_	3	punct
+10	but	but	CC	_	3	cc
+11	both	both	DT	_	12	det
+12	stations	station	NNS	_	13	nsubj
+13	ended	end	VBD	_	3	conj
+14	up	up	RP	_	13	prt
+15	giving	give	VBG	_	13	xcomp
+16	up	up	RP	_	15	prt
+17	the	the	DT	_	18	det
+18	format	format	NN	_	15	dobj
+19	,	,	,	_	13	punct
+20	with	with	IN	_	13	prep
+21	KHZZ	khzz	NN	_	20	pobj
+22	turning	turn	VBG	_	21	vmod
+23	to	to	TO	_	22	prep
+24	oldies	oldy	NNS	_	23	pobj
+25	.	.	.	_	3	punct
+

@@ -1,0 +1,21 @@
+1	Information	information	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	included	include	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	disease	disease	NN	_	4	pobj
+7	caused	cause	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	organism	organism	NN	_	8	pobj
+11	,	,	,	_	3	punct
+12	its	its	PRP$	_	13	poss
+13	transmission	transmission	NN	_	3	dobj
+14	,	,	,	_	13	punct
+15	geographical	geographical	JJ	_	16	amod
+16	distribution	distribution	NN	_	13	conj
+17	,	,	,	_	13	punct
+18	and	and	CC	_	13	cc
+19	hosts	host	NNS	_	13	conj
+20	.	.	.	_	3	punct
+

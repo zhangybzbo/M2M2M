@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	human	human	JJ	_	3	amod
+3	body	body	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	the	the	DT	_	6	det
+6	product	product	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	earth	earth	NN	_	7	pobj
+10	with	with	IN	_	6	prep
+11	all	all	DT	_	12	det
+12	elements	element	NNS	_	10	pobj
+13	in	in	IN	_	12	prep
+14	it	it	PRP	_	13	pobj
+15	originating	originate	VBG	_	12	vmod
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	earth	earth	NN	_	16	pobj
+19	.	.	.	_	6	punct
+

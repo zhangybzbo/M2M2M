@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	monitor	monitor	NN	_	3	nsubj
+3	provides	provide	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	quarterly	quarterly	JJ	_	6	amod
+6	report	report	NN	_	3	dobj
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	Chapter	chapter	NN	_	7	pobj
+10	-LRB-	-lrb-	-LRB-	_	12	punct
+11	or	or	CC	_	12	cc
+12	NEC	NEC	NNP	_	9	appos
+13	-RRB-	-rrb-	-RRB-	_	12	punct
+14	.	.	.	_	3	punct
+

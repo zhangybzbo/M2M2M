@@ -1,0 +1,14 @@
+1	Malls	mall	NNS	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	spreading	spread	VBG	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	smaller	smaller	JJR	_	6	amod
+6	towns	town	NNS	_	4	pobj
+7	with	with	IN	_	3	prep
+8	few	few	JJ	_	9	amod
+9	precedents	precedent	NNS	_	7	pobj
+10	to	to	TO	_	11	aux
+11	guide	guide	VB	_	9	vmod
+12	them	they	PRP	_	11	dobj
+13	.	.	.	_	3	punct
+

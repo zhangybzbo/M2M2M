@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	entered	enter	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	reseller	reseller	JJ	_	8	amod
+8	agreement	agreement	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

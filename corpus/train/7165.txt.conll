@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	acid	acid	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	kept	keep	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	level-controlled	level-controlled	JJ	_	8	amod
+8	tank	tank	NN	_	5	pobj
+9	-LRB-	-lrb-	-LRB-	_	10	punct
+10	with	with	IN	_	4	dep
+11	a	a	DT	_	12	det
+12	controller	controller	NN	_	10	pobj
+13	and	and	CC	_	12	cc
+14	an	a	DT	_	15	det
+15	alarm	alarm	NN	_	12	conj
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	event	event	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	low	low	JJ	_	22	amod
+21	acid	acid	NN	_	22	nn
+22	level	level	NN	_	19	pobj
+23	-RRB-	-rrb-	-RRB-	_	10	punct
+24	.	.	.	_	4	punct
+

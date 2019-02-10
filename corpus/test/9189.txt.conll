@@ -1,0 +1,9 @@
+1	Two	two	CD	_	2	num
+2	voters	voter	NNS	_	3	nsubj
+3	put	put	VBD	_	0	ROOT
+4	cameras	camera	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	their	they	PRP$	_	7	poss
+7	booths	booth	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

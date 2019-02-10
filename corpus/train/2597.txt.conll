@@ -1,0 +1,16 @@
+1	His	he	PRP$	_	4	poss
+2	other	other	JJ	_	4	amod
+3	research	research	NN	_	4	nn
+4	activities	activity	NNS	_	9	nsubjpass
+5	and	and	CC	_	4	cc
+6	accomplishments	accomplishment	NNS	_	4	conj
+7	have	have	VBP	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	discussed	discuss	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	section	section	NN	_	10	pobj
+13	presented	present	VBN	_	12	vmod
+14	below	below	IN	_	13	prt
+15	.	.	.	_	9	punct
+

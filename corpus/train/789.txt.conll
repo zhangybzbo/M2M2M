@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	det
+2	cabin	cabin	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	3	3	CD	_	7	num
+5	beautifully	beautifully	RB	_	6	advmod
+6	decorated	decorate	VBN	_	7	amod
+7	bedrooms	bedroom	NNS	_	3	dobj
+8	;	;	:	_	3	punct
+9	one	one	CD	_	3	dep
+10	on	on	IN	_	9	prep
+11	each	each	DT	_	12	det
+12	level	level	NN	_	10	pobj
+13	featuring	feature	VBG	_	12	vmod
+14	custom	custom	NN	_	15	nsubj
+15	made	make	VBD	_	13	ccomp
+16	log	log	NN	_	17	nn
+17	beds	bed	NNS	_	15	dobj
+18	,	,	,	_	15	punct
+19	each	each	DT	_	15	dep
+20	with	with	IN	_	19	prep
+21	its	its	PRP$	_	23	poss
+22	own	own	JJ	_	23	amod
+23	bathroom	bathroom	NN	_	20	pobj
+24	.	.	.	_	3	punct
+

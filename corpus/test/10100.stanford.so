@@ -1,0 +1,11 @@
+0	41	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="we" pos="PRP" nsubj="t2"
+3	7	tok id="t1" base="have" pos="VBP" aux="t2"
+8	14	tok id="t2" base="pour" pos="VBN" ROOT="ROOT"
+15	21	tok id="t3" base="cement" pos="NN" dobj="t2"
+22	26	tok id="t4" base="into" pos="IN" prep="t2"
+27	28	tok id="t5" base="3" pos="CD" num="t7"
+29	33	tok id="t6" base="inch" pos="NN" nn="t7"
+34	39	tok id="t7" base="form" pos="NNS" pobj="t4"
+40	41	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,27 @@
+1	Transport	transport	NN	_	2	nn
+2	authorities	authority	NNS	_	8	nsubj
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	Western	western	JJ	_	6	amod
+6	Cape	Cape	NNP	_	3	pobj
+7	have	have	VBP	_	8	aux
+8	warned	warn	VBN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	hefty	hefty	JJ	_	11	amod
+11	fines	fine	NNS	_	9	pobj
+12	for	for	IN	_	11	prep
+13	motorists	motorist	NNS	_	12	pobj
+14	who	who	WP	_	15	nsubj
+15	ignore	ignore	VBP	_	13	rcmod
+16	dedicated	dedicated	JJ	_	17	amod
+17	lane	lane	NN	_	15	dobj
+18	for	for	IN	_	15	prep
+19	buses	bus	NNS	_	18	pobj
+20	and	and	CC	_	19	cc
+21	minibus	minibus	NN	_	22	nn
+22	taxis	taxi	NNS	_	19	conj
+23	on	on	IN	_	19	prep
+24	the	the	DT	_	25	det
+25	road	road	NN	_	23	pobj
+26	.	.	.	_	8	punct
+

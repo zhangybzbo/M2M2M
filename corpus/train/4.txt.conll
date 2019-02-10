@@ -1,0 +1,9 @@
+1	A	a	DT	_	4	det
+2	misty	misty	JJ	_	4	amod
+3	ridge	ridge	NN	_	4	nn
+4	uprises	uprise	NNS	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	surge	surge	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

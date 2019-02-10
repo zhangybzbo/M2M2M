@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	eruptions	eruption	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	tectonic	tectonic	JJ	_	7	amod
+7	forces	force	NNS	_	5	pobj
+8	or	or	CC	_	5	cc
+9	by	by	IN	_	5	conj
+10	the	the	DT	_	11	det
+11	compaction	compaction	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	sediments	sediment	NNS	_	12	pobj
+14	at	at	IN	_	11	prep
+15	the	the	DT	_	16	det
+16	deltas	delta	NNS	_	14	pobj
+17	of	of	IN	_	16	prep
+18	large	large	JJ	_	19	amod
+19	rivers	river	NNS	_	17	pobj
+20	,	,	,	_	19	punct
+21	such	such	JJ	_	22	mwe
+22	as	as	IN	_	19	prep
+23	the	the	DT	_	24	det
+24	Mississippi	Mississippi	NNP	_	22	pobj
+25	.	.	.	_	4	punct
+

@@ -1,0 +1,19 @@
+1	Ji-Sung	Ji-Sung	NNP	_	2	nsubj
+2	finds	find	VBZ	_	0	ROOT
+3	Jae-Young	Jae-Young	NNP	_	2	dobj
+4	,	,	,	_	2	punct
+5	but	but	CC	_	2	cc
+6	the	the	DT	_	8	det
+7	striker	striker	NN	_	8	nn
+8	blasts	blast	NNS	_	2	conj
+9	over	over	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	bar	bar	NN	_	9	pobj
+12	with	with	IN	_	8	prep
+13	only	only	RB	_	15	advmod
+14	the	the	DT	_	15	det
+15	keeper	keeper	NN	_	12	pobj
+16	to	to	TO	_	17	aux
+17	beat	beat	VB	_	15	vmod
+18	.	.	.	_	2	punct
+

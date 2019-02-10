@@ -1,0 +1,16 @@
+1	We	we	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	buns	bun	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	steamer	steamer	NN	_	5	pobj
+8	,	,	,	_	2	punct
+9	leaving	leave	VBG	_	2	xcomp
+10	1-2	1-2	CD	_	11	num
+11	inches	inch	NNS	_	9	dobj
+12	between	between	IN	_	9	prep
+13	each	each	DT	_	14	det
+14	bun	bun	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

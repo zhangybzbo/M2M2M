@@ -1,0 +1,18 @@
+1	This	this	DT	_	3	det
+2	personal	personal	JJ	_	3	amod
+3	alarm	alarm	NN	_	4	nsubj
+4	combines	combine	VBZ	_	0	ROOT
+5	two	two	CD	_	7	num
+6	great	great	JJ	_	7	amod
+7	deterrents	deterrent	NNS	_	4	dobj
+8	to	to	TO	_	9	aux
+9	attack	attack	NN	_	4	xcomp
+10	-	-	:	_	9	punct
+11	a	a	DT	_	13	det
+12	loud	loud	JJ	_	13	amod
+13	alarm	alarm	NN	_	9	dep
+14	and	and	CC	_	13	cc
+15	flashing	flash	VBG	_	16	amod
+16	light	light	NN	_	13	conj
+17	.	.	.	_	4	punct
+

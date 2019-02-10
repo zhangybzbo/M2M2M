@@ -1,0 +1,9 @@
+1	Hitting	hit	VBG	_	7	csubj
+2	out	out	IN	_	1	prep
+3	of	of	IN	_	2	pcomp
+4	anger	anger	NN	_	3	pobj
+5	is	be	VBZ	_	7	cop
+6	absolutely	absolutely	RB	_	7	advmod
+7	wrong	wrong	JJ	_	0	ROOT
+8	.	.	.	_	7	punct
+

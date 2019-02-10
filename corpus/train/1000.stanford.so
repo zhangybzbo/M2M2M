@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="plastic" pos="JJ" amod="t5"
+8	13	tok id="t1" base="water" pos="NN" nn="t5"
+14	21	tok id="t2" base="bottle" pos="NNS" nn="t5"
+22	26	tok id="t3" base="leak" pos="NN" nn="t5"
+27	32	tok id="t4" base="toxic" pos="JJ" amod="t5"
+33	42	tok id="t5" base="material" pos="NNS" ROOT="ROOT"
+43	47	tok id="t6" base="into" pos="IN" prep="t5"
+48	51	tok id="t7" base="the" pos="DT" det="t8"
+52	57	tok id="t8" base="water" pos="NN" pobj="t6"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

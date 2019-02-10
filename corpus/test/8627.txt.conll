@@ -1,0 +1,23 @@
+1	Mosul	Mosul	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	al-Qaeda	al-Qaeda	NNP	_	4	nn
+4	leader	leader	NN	_	5	nsubj
+5	dies	die	VBZ	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	carpal	carpal	JJ	_	9	amod
+8	tunnel	tunnel	NN	_	9	nn
+9	syndrome	syndrome	NN	_	6	pobj
+10	and	and	CC	_	9	cc
+11	a	a	DT	_	12	det
+12	hailstorm	hailstorm	NN	_	9	conj
+13	of	of	IN	_	12	prep
+14	bullets	bullet	NNS	_	13	pobj
+15	-	-	:	_	5	punct
+16	but	but	CC	_	5	cc
+17	mostly	mostly	RB	_	19	advmod
+18	a	a	DT	_	19	det
+19	hailstorm	hailstorm	NN	_	5	conj
+20	of	of	IN	_	19	prep
+21	bullets	bullet	NNS	_	20	pobj
+22	...	...	:	_	5	punct
+

@@ -1,0 +1,11 @@
+1	Their	they	PRP$	_	2	poss
+2	texts	text	NNS	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	reference	reference	NN	_	3	dobj
+5	to	to	TO	_	4	prep
+6	ancient	ancient	JJ	_	7	amod
+7	civilisation	civilisation	NN	_	5	pobj
+8	like	like	IN	_	7	prep
+9	Atlantis	Atlantis	NNP	_	8	pobj
+10	.	.	.	_	3	punct
+

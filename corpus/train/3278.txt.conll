@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	owner	owner	NN	_	3	nsubj
+3	returns	return	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	amount	amount	NN	_	3	dobj
+6	paid	pay	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	way	way	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	guarantee	guarantee	NN	_	11	nn
+11	deposit	deposit	NN	_	9	pobj
+12	,	,	,	_	3	punct
+13	within	within	IN	_	3	prep
+14	31	31	CD	_	15	num
+15	days	day	NNS	_	13	pobj
+16	after	after	IN	_	3	prep
+17	the	the	DT	_	18	det
+18	occupants	occupant	NNS	_	20	poss
+19	'	'	POS	_	18	possessive
+20	departure	departure	NN	_	16	pobj
+21	from	from	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	property	property	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

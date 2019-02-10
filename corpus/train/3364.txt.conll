@@ -1,0 +1,11 @@
+1	Bolus	bolus	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	injected	inject	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	ports	port	NNS	_	4	pobj
+6	above	above	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	filter	filter	NN	_	9	nn
+9	set	set	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

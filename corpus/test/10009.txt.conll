@@ -1,0 +1,12 @@
+1	Bread	bread	NN	_	2	nn
+2	shortages	shortage	NNS	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	mounting	mount	VBG	_	7	amod
+5	poverty	poverty	NN	_	7	nn
+6	cause	cause	NN	_	7	nn
+7	riots	riot	NNS	_	2	conj
+8	in	in	IN	_	2	prep
+9	nearby	nearby	JJ	_	10	amod
+10	Paris	Paris	NNP	_	8	pobj
+11	.	.	.	_	2	punct
+

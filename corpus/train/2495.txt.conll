@@ -1,0 +1,16 @@
+1	We	we	PRP	_	2	nsubj
+2	address	address	VBP	_	0	ROOT
+3	the	the	DT	_	6	det
+4	longer-term	longer-term	JJ	_	6	amod
+5	budget	budget	NN	_	6	nn
+6	imbalance	imbalance	NN	_	2	dobj
+7	that	that	WDT	_	10	nsubjpass
+8	has	have	VBZ	_	10	aux
+9	been	be	VBN	_	10	auxpass
+10	caused	cause	VBN	_	6	rcmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	tax	tax	NN	_	14	nn
+14	cuts	cut	NNS	_	11	pobj
+15	.	.	.	_	2	punct
+

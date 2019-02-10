@@ -1,0 +1,1 @@
+A user drags the knob of the slider , select a word , and the Japanese translation of the word is displayed at the center of the screen immediately .

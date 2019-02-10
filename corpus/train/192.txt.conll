@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	how	how	WRB	_	6	advmod
+4	grain	grain	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	delivered	deliver	VBN	_	15	csubjpass
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	11	det
+9	wooden	wooden	JJ	_	11	amod
+10	grain	grain	NN	_	11	nn
+11	bins	bin	NNS	_	7	pobj
+12	and	and	CC	_	11	cc
+13	hay	hay	NN	_	11	conj
+14	was	be	VBD	_	15	auxpass
+15	put	put	VBN	_	2	ccomp
+16	inside	inside	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	upper	upper	JJ	_	19	amod
+19	part	part	NN	_	16	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	rock	rock	NN	_	23	nn
+23	barn	barn	NN	_	20	pobj
+24	.	.	.	_	2	punct
+

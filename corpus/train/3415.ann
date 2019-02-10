@@ -1,0 +1,3 @@
+T1	Term 14 24	disruption
+T2	Term 41 49	mobility
+R1	Cause-Effect Arg1:T2 Arg2:T1

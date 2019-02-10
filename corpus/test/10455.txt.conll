@@ -1,0 +1,27 @@
+1	The	the	DT	_	5	det
+2	first	first	JJ	_	5	amod
+3	native	native	JJ	_	5	amod
+4	tea	tea	NN	_	5	nn
+5	wares	wares	NNS	_	7	nsubj
+6	were	be	VBD	_	7	cop
+7	those	those	DT	_	0	ROOT
+8	made	make	VBN	_	7	vmod
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	early	early	JJ	_	13	amod
+12	thirteenth	thirteenth	JJ	_	13	amod
+13	century	century	NN	_	9	pobj
+14	by	by	IN	_	8	prep
+15	the	the	DT	_	17	det
+16	potter	potter	NN	_	17	nn
+17	To-shiro	to-shiro	NN	_	14	pobj
+18	at	at	IN	_	8	prep
+19	his	he	PRP$	_	20	poss
+20	kiln	kiln	NN	_	18	pobj
+21	in	in	IN	_	20	prep
+22	Seto	Seto	NNP	_	21	pobj
+23	,	,	,	_	22	punct
+24	Aichi	Aichi	NNP	_	25	nn
+25	prefecture	prefecture	NN	_	22	appos
+26	.	.	.	_	7	punct
+

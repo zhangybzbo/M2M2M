@@ -1,0 +1,20 @@
+1	To	to	TO	_	2	aux
+2	say	say	VB	_	10	csubj
+3	that	that	IN	_	7	mark
+4	rowing	rowing	NN	_	7	nsubj
+5	is	be	VBZ	_	7	aux
+6	just	just	RB	_	7	advmod
+7	pulling	pull	VBG	_	2	ccomp
+8	an	a	DT	_	9	det
+9	oar	oar	NN	_	7	dobj
+10	is	be	VBZ	_	0	ROOT
+11	like	like	IN	_	10	prep
+12	saying	say	VBG	_	11	pcomp
+13	golf	golf	NN	_	16	nsubj
+14	is	be	VBZ	_	16	aux
+15	just	just	RB	_	16	advmod
+16	swinging	swing	VBG	_	12	ccomp
+17	a	a	DT	_	18	det
+18	club	club	NN	_	16	dobj
+19	.	.	.	_	10	punct
+

@@ -1,0 +1,12 @@
+1	None	none	NN	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	answers	answer	NNS	_	2	pobj
+5	just	just	RB	_	6	advmod
+6	popped	pop	VBN	_	4	vmod
+7	out	out	IN	_	6	prep
+8	of	of	IN	_	7	pcomp
+9	the	the	DT	_	10	det
+10	computer	computer	NN	_	8	pobj
+11	.	.	.	_	1	punct
+

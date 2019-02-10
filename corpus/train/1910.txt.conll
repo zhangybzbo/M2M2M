@@ -1,0 +1,11 @@
+1	Literary	Literary	NNP	_	2	nn
+2	critics	critic	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	examined	examine	VBN	_	0	ROOT
+5	many	many	JJ	_	6	amod
+6	themes	theme	NNS	_	4	dobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	novel	novel	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj
+2	pressed	press	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	button	button	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	radio	radio	NN	_	8	nn
+8	transmitter	transmitter	NN	_	5	pobj
+9	to	to	TO	_	11	aux
+10	be	be	VB	_	11	auxpass
+11	programmed	program	VBN	_	2	vmod
+12	1x	1x	NN	_	11	dobj
+13	.	.	.	_	2	punct
+

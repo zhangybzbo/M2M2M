@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	Learning	Learning	NNP	_	3	nn
+3	Institute	Institute	NNP	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	several	several	JJ	_	8	amod
+6	externally	externally	RB	_	7	advmod
+7	funded	funded	JJ	_	8	amod
+8	projects	project	NNS	_	4	dobj
+9	investigating	investigate	VBG	_	8	vmod
+10	aspects	aspect	NNS	_	9	dobj
+11	of	of	IN	_	10	prep
+12	learning	learning	NN	_	11	pobj
+13	and	and	CC	_	12	cc
+14	teaching	teaching	NN	_	12	conj
+15	or	or	CC	_	12	cc
+16	management	management	NN	_	12	conj
+17	in	in	IN	_	10	prep
+18	higher	higher	JJR	_	19	amod
+19	education	education	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

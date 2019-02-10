@@ -1,0 +1,13 @@
+0	60	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="all" pos="PDT" predet="t2"
+4	7	tok id="t1" base="the" pos="DT" det="t2"
+8	17	tok id="t2" base="epigraph" pos="NNS" nsubj="t3"
+18	22	tok id="t3" base="make" pos="VBP" ROOT="ROOT"
+23	32	tok id="t4" base="reference" pos="NN" dobj="t3"
+33	35	tok id="t5" base="to" pos="TO" prep="t4"
+36	40	tok id="t6" base="hell" pos="NN" pobj="t5"
+41	43	tok id="t7" base="or" pos="CC" cc="t6"
+44	47	tok id="t8" base="the" pos="DT" det="t9"
+48	58	tok id="t9" base="underworld" pos="NN" conj="t6"
+59	60	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

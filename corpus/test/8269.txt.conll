@@ -1,0 +1,15 @@
+1	As	as	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	downturn	downturn	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	made	make	VBN	_	13	advcl
+6	people	people	NNS	_	8	nsubj
+7	more	more	RBR	_	8	advmod
+8	frugal	frugal	JJ	_	5	xcomp
+9	,	,	,	_	13	punct
+10	landfill	landfill	NN	_	11	nn
+11	volumes	volume	NNS	_	13	nsubj
+12	have	have	VBP	_	13	aux
+13	dropped	drop	VBN	_	0	ROOT
+14	.	.	.	_	13	punct
+

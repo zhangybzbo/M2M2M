@@ -1,0 +1,12 @@
+1	My	my	PRP$	_	2	poss
+2	father	father	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	going	go	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	college	college	NN	_	5	pobj
+7	at	at	IN	_	4	prep
+8	his	he	PRP$	_	10	poss
+9	old	old	JJ	_	10	amod
+10	age	age	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

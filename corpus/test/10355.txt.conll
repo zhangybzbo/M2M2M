@@ -1,0 +1,11 @@
+1	One	one	CD	_	2	num
+2	plant	plant	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	sealed	seal	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	flask	flask	NN	_	5	pobj
+8	as	as	IN	_	9	mark
+9	described	describe	VBN	_	4	advcl
+10	.	.	.	_	4	punct
+

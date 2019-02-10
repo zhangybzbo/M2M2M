@@ -1,0 +1,16 @@
+1	Our	we	PRP$	_	2	poss
+2	experience	experience	NN	_	3	nsubj
+3	extends	extend	VBZ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	15	15	CD	_	6	num
+6	years	year	NNS	_	4	pobj
+7	continued	continue	VBD	_	8	amod
+8	promotion	promotion	NN	_	3	dobj
+9	of	of	IN	_	8	prep
+10	this	this	DT	_	11	det
+11	archipelago	archipelago	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	nine	nine	CD	_	14	num
+14	islands	island	NNS	_	12	pobj
+15	.	.	.	_	3	punct
+

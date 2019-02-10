@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	published	publish	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	statement	statement	NN	_	4	dobj
+7	on	on	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	website	website	NN	_	7	pobj
+10	calling	call	VBG	_	9	vmod
+11	the	the	DT	_	12	det
+12	diagnosis	diagnosis	NN	_	10	dobj
+13	``	``	``	_	12	punct
+14	an	a	DT	_	15	det
+15	embuggerance	embuggerance	NN	_	12	dep
+16	''	''	''	_	12	punct
+17	.	.	.	_	4	punct
+

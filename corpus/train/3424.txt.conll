@@ -1,0 +1,10 @@
+1	Illegal	illegal	JJ	_	2	amod
+2	overcharge	overcharge	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	passed	pass	VBN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	to	to	TO	_	5	pcomp
+7	the	the	DT	_	8	det
+8	customers	customer	NNS	_	6	pobj
+9	.	.	.	_	4	punct
+

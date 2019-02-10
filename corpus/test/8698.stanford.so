@@ -1,0 +1,12 @@
+0	69	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	19	tok id="t1" base="neuroscientist" pos="NNS" nsubj="t3"
+20	24	tok id="t2" base="have" pos="VBP" aux="t3"
+25	34	tok id="t3" base="implant" pos="VBN" ROOT="ROOT"
+35	45	tok id="t4" base="electrode" pos="NNS" dobj="t3"
+46	50	tok id="t5" base="into" pos="IN" prep="t3"
+51	58	tok id="t6" base="patient" pos="NN" poss="t8"
+59	61	tok id="t7" base="'s" pos="POS" possessive="t6"
+62	67	tok id="t8" base="brain" pos="NN" pobj="t5"
+68	69	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

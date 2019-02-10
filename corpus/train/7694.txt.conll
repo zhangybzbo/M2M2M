@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	movie	movie	NN	_	3	nsubj
+3	gives	give	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	inaccurate	inaccurate	JJ	_	6	amod
+6	impression	impression	NN	_	3	dobj
+7	that	that	IN	_	11	mark
+8	the	the	DT	_	9	det
+9	Apaches	Apaches	NNPS	_	11	nsubj
+10	all	all	DT	_	11	dep
+11	surrendered	surrender	VBD	_	6	ccomp
+12	.	.	.	_	3	punct
+

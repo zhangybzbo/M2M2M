@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det
+2	uterine	uterine	JJ	_	3	amod
+3	contractions	contraction	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	prostaglandins	prostaglandin	NNS	_	6	pobj
+8	.	.	.	_	5	punct
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	delay	delay	NN	_	11	nsubjpass
+3	in	in	IN	_	2	prep
+4	bringing	bring	VBG	_	3	pcomp
+5	the	the	DT	_	6	det
+6	suit	suit	NN	_	4	dobj
+7	to	to	TO	_	4	prep
+8	trial	trial	NN	_	7	pobj
+9	is	be	VBZ	_	11	aux
+10	being	be	VBG	_	11	auxpass
+11	caused	cause	VBN	_	0	ROOT
+12	by	by	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	terrific	terrific	JJ	_	15	amod
+15	log	log	NN	_	12	pobj
+16	-	-	:	_	15	punct
+17	jam	jam	NN	_	15	dep
+18	of	of	IN	_	17	prep
+19	pending	pend	VBG	_	20	amod
+20	cases	case	NNS	_	18	pobj
+21	,	,	,	_	15	punct
+22	court	court	NN	_	23	nn
+23	aids	aid	NNS	_	15	appos
+24	explained	explain	VBD	_	11	dep
+25	.	.	.	_	11	punct
+

@@ -1,0 +1,17 @@
+1	Seasonal	seasonal	JJ	_	4	amod
+2	and	and	CC	_	1	cc
+3	nocturnal	nocturnal	JJ	_	1	conj
+4	migrations	migration	NNS	_	5	nsubj
+5	cause	cause	VBP	_	0	ROOT
+6	sleep	sleep	NN	_	7	nn
+7	deprivation	deprivation	NN	_	5	dobj
+8	in	in	IN	_	7	prep
+9	diurnal	diurnal	JJ	_	10	amod
+10	Swainson	Swainson	NNP	_	12	poss
+11	's	's	POS	_	10	possessive
+12	thrush	thrush	NN	_	8	pobj
+13	,	,	,	_	12	punct
+14	Catharus	catharus	NN	_	15	nn
+15	ustulatus	ustulatus	NN	_	12	appos
+16	.	.	.	_	5	punct
+

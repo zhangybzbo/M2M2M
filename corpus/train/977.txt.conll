@@ -1,0 +1,11 @@
+1	This	this	DT	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	tattoo	tattoo	NN	_	5	nn
+5	design	design	NN	_	0	ROOT
+6	an	a	DT	_	7	det
+7	artist	artist	NN	_	8	nsubj
+8	drew	draw	VBD	_	5	rcmod
+9	up	up	RB	_	8	prt
+10	.	.	.	_	5	punct
+

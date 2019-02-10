@@ -1,0 +1,18 @@
+1	Fats	Fats	NNP	_	6	nsubj
+2	from	from	IN	_	1	prep
+3	meat	meat	NN	_	2	pobj
+4	and	and	CC	_	3	cc
+5	dairy	dairy	NN	_	3	conj
+6	cause	cause	VBP	_	0	ROOT
+7	heart	heart	NN	_	8	nn
+8	disease	disease	NN	_	6	dobj
+9	,	,	,	_	6	punct
+10	the	the	DT	_	12	det
+11	leading	leading	JJ	_	12	amod
+12	killer	killer	NN	_	6	dobj
+13	of	of	IN	_	12	prep
+14	people	people	NNS	_	13	pobj
+15	with	with	IN	_	14	prep
+16	diabetes	diabetes	NN	_	15	pobj
+17	.	.	.	_	6	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	purpose	purpose	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	focus	focus	NN	_	6	nn
+6	groups	group	NNS	_	3	pobj
+7	was	be	VBD	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	determine	determine	VB	_	7	xcomp
+10	user	user	NN	_	11	nn
+11	needs	need	NNS	_	9	dobj
+12	,	,	,	_	7	punct
+13	wants	want	VBZ	_	7	conj
+14	,	,	,	_	7	punct
+15	and	and	CC	_	7	cc
+16	concerns	concern	NNS	_	7	conj
+17	early	early	RB	_	16	advmod
+18	and	and	CC	_	17	cc
+19	progressively	progressively	RB	_	17	conj
+20	throughout	throughout	IN	_	17	prep
+21	the	the	DT	_	22	det
+22	development	development	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	prototype	prototype	NN	_	23	pobj
+26	.	.	.	_	7	punct
+

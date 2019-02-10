@@ -1,0 +1,13 @@
+1	Menopause	menopause	NN	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	PMS	pm	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	stress	stress	NN	_	4	dobj
+6	and	and	CC	_	5	cc
+7	anxiety	anxiety	NN	_	5	conj
+8	even	even	RB	_	9	advmod
+9	without	without	IN	_	4	prep
+10	imbalanced	imbalanced	JJ	_	11	amod
+11	hormones	hormone	NNS	_	9	pobj
+12	.	.	.	_	4	punct
+

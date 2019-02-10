@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	contents	contents	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	workshop	workshop	NN	_	3	pobj
+6	included	include	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	discussion	discussion	NN	_	6	dobj
+9	on	on	IN	_	8	prep
+10	various	various	JJ	_	11	amod
+11	documents	document	NNS	_	9	pobj
+12	in	in	IN	_	8	prep
+13	respect	respect	NN	_	12	pobj
+14	of	of	IN	_	13	prep
+15	exports	export	NNS	_	14	pobj
+16	,	,	,	_	15	punct
+17	imports	import	NNS	_	15	conj
+18	and	and	CC	_	15	cc
+19	documents	document	NNS	_	15	conj
+20	relating	relate	VBG	_	15	vmod
+21	to	to	TO	_	20	prep
+22	letters	letter	NNS	_	21	pobj
+23	of	of	IN	_	22	prep
+24	credit	credit	NN	_	23	pobj
+25	.	.	.	_	6	punct
+

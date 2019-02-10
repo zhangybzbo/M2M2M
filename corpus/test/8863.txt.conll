@@ -1,0 +1,23 @@
+1	As	as	IN	_	8	prep
+2	a	a	DT	_	3	det
+3	result	result	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	6	det
+6	brain	brain	NN	_	8	nsubjpass
+7	is	be	VBZ	_	8	auxpass
+8	depleted	deplete	VBN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	dopamine	dopamine	NN	_	9	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	13	nsubj
+13	causes	cause	VBZ	_	10	rcmod
+14	the	the	DT	_	16	det
+15	severe	severe	JJ	_	16	amod
+16	depression	depression	NN	_	13	dobj
+17	after	after	IN	_	21	mark
+18	the	the	DT	_	19	det
+19	cocaine	cocaine	NN	_	21	nsubj
+20	has	have	VBZ	_	21	aux
+21	dissipated	dissipate	VBN	_	13	advcl
+22	.	.	.	_	8	punct
+

@@ -1,0 +1,20 @@
+1	We	we	PRP	_	2	nsubj
+2	conducted	conduct	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	usability	usability	NN	_	5	nn
+5	test	test	NN	_	2	dobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	enterprise-wide	enterprise-wide	JJ	_	10	amod
+9	navigation	navigation	NN	_	10	nn
+10	system	system	NN	_	6	pobj
+11	for	for	IN	_	5	prep
+12	this	this	DT	_	14	det
+13	heathcare	heathcare	NN	_	14	nn
+14	company	company	NN	_	18	poss
+15	's	's	POS	_	14	possessive
+16	proposed	propose	VBN	_	18	amod
+17	intranet	intranet	NN	_	18	nn
+18	redesign	redesign	NN	_	11	pobj
+19	.	.	.	_	2	punct
+

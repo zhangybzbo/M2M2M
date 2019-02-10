@@ -1,0 +1,15 @@
+1	Amazonian	amazonian	JJ	_	2	amod
+2	tribes	tribe	NNS	_	3	nsubj
+3	reclaim	reclaim	VBP	_	0	ROOT
+4	the	the	DT	_	6	det
+5	rain	rain	NN	_	6	nn
+6	forest	forest	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	help	help	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	GPS	GPS	NNP	_	13	nn
+12	navigation	navigation	NN	_	13	nn
+13	tools	tool	NNS	_	10	pobj
+14	.	.	.	_	3	punct
+

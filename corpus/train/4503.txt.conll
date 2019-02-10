@@ -1,0 +1,24 @@
+1	A	a	DT	_	3	det
+2	violent	violent	JJ	_	3	amod
+3	criminal	criminal	NN	_	0	ROOT
+4	who	who	WP	_	5	nsubj
+5	absconded	abscond	VBD	_	3	rcmod
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	open	open	JJ	_	9	amod
+9	prison	prison	NN	_	6	pobj
+10	less	less	JJR	_	21	nsubjpass
+11	than	than	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	third	third	JJ	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	way	way	NN	_	14	pobj
+17	through	through	IN	_	10	prep
+18	his	he	PRP$	_	19	poss
+19	sentence	sentence	NN	_	17	pobj
+20	was	be	VBD	_	21	auxpass
+21	recaptured	recapture	VBN	_	5	ccomp
+22	today	today	NN	_	21	tmod
+23	.	.	.	_	3	punct
+

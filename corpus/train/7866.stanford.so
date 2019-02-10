@@ -1,0 +1,12 @@
+0	57	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	9	tok id="t1" base="fruit" pos="NN" nn="t2"
+10	16	tok id="t2" base="basket" pos="NN" nsubj="t3"
+17	26	tok id="t3" base="contain" pos="VBD" ROOT="ROOT"
+27	33	tok id="t4" base="apple" pos="NNS" dobj="t3"
+34	35	tok id="t5" base="-COMMA-" pos="," punct="t4"
+36	43	tok id="t6" base="orange" pos="NNS" conj="t4"
+44	47	tok id="t7" base="and" pos="CC" cc="t4"
+48	55	tok id="t8" base="banana" pos="NNS" conj="t4"
+56	57	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

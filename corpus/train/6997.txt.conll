@@ -1,0 +1,23 @@
+1	Rye	Rye	NNP	_	2	nn
+2	flour	flour	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	found	find	VBN	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	contain	contain	VB	_	4	xcomp
+7	only	only	RB	_	8	quantmod
+8	one	one	CD	_	9	num
+9	glutelin	glutelin	NN	_	6	dobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	12	nsubj
+12	separated	separate	VBD	_	9	rcmod
+13	at	at	IN	_	12	prep
+14	3	3	CD	_	13	pobj
+15	per	per	IN	_	14	prep
+16	cent	cent	NN	_	15	pobj
+17	of	of	IN	_	16	prep
+18	saturation	saturation	NN	_	17	pobj
+19	with	with	IN	_	12	prep
+20	ammonium	ammonium	NN	_	21	nn
+21	sulfate	sulfate	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

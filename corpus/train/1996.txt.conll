@@ -1,0 +1,24 @@
+1	I	I	PRP	_	4	nsubj
+2	am	be	VBP	_	4	aux
+3	just	just	RB	_	4	advmod
+4	joining	join	VBG	_	0	ROOT
+5	the	the	DT	_	6	det
+6	queue	queue	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	disappointed	disappointed	JJ	_	9	amod
+9	parents	parent	NNS	_	7	pobj
+10	and	and	CC	_	6	cc
+11	upset	upset	JJ	_	12	amod
+12	children	child	NNS	_	6	conj
+13	as	as	IN	_	15	mark
+14	i	i	FW	_	15	nsubj
+15	bought	buy	VBD	_	4	advcl
+16	a	a	DT	_	18	det
+17	marshmallow	marshmallow	NN	_	18	nn
+18	maker	maker	NN	_	15	dobj
+19	and	and	CC	_	18	cc
+20	toffee	toffee	NN	_	22	nn
+21	apple	apple	NN	_	22	nn
+22	maker	maker	NN	_	18	conj
+23	.	.	.	_	4	punct
+

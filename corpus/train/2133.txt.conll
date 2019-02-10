@@ -1,0 +1,27 @@
+1	Science	science	NN	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	faith	faith	NN	_	1	conj
+4	collide	collide	VBP	_	0	ROOT
+5	when	when	WRB	_	14	advmod
+6	a	a	DT	_	7	det
+7	bottle	bottle	NN	_	14	nsubjpass
+8	full	full	JJ	_	7	amod
+9	of	of	IN	_	8	prep
+10	flowing	flow	VBG	_	12	amod
+11	green	green	JJ	_	12	amod
+12	goo	goo	NN	_	9	pobj
+13	is	be	VBZ	_	14	auxpass
+14	determined	determine	VBN	_	4	advcl
+15	to	to	TO	_	19	aux
+16	NOT	NOT	NNP	_	19	nsubj
+17	be	be	VB	_	19	cop
+18	dormitory	dormitory	NN	_	19	nn
+19	food	food	NN	_	14	xcomp
+20	,	,	,	_	14	punct
+21	but	but	CC	_	14	cc
+22	something	something	NN	_	14	conj
+23	altogether	altogether	RB	_	25	advmod
+24	more	more	RBR	_	25	advmod
+25	sinister	sinister	JJ	_	22	amod
+26	.	.	.	_	4	punct
+

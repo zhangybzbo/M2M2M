@@ -1,0 +1,20 @@
+1	In	in	IN	_	18	prep
+2	each	each	DT	_	3	det
+3	bank	bank	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	circuits	circuit	NNS	_	4	pobj
+6	,	,	,	_	18	punct
+7	one	one	CD	_	8	num
+8	side	side	NN	_	18	nsubjpass
+9	of	of	IN	_	8	prep
+10	each	each	DT	_	9	pobj
+11	of	of	IN	_	10	prep
+12	all	all	DT	_	14	det
+13	8	8	CD	_	14	num
+14	circuits	circuit	NNS	_	11	pobj
+15	thereof	thereof	RB	_	14	advmod
+16	is	be	VBZ	_	18	auxpass
+17	commonly	commonly	RB	_	18	advmod
+18	connected	connect	VBN	_	0	ROOT
+19	.	.	.	_	18	punct
+

@@ -1,0 +1,22 @@
+1	Frequently	frequently	RB	_	4	advmod
+2	the	the	DT	_	3	det
+3	author	author	NN	_	4	nsubj
+4	departs	depart	VBZ	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	7	det
+7	explanation	explanation	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	what	what	WP	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	transpired	transpire	VBN	_	8	pcomp
+12	and	and	CC	_	11	cc
+13	the	the	DT	_	14	det
+14	facts	fact	NNS	_	11	conj
+15	and	and	CC	_	14	cc
+16	forces	force	NNS	_	14	conj
+17	pertaining	pertain	VBG	_	14	vmod
+18	to	to	TO	_	17	prep
+19	the	the	DT	_	20	det
+20	action	action	NN	_	18	pobj
+21	.	.	.	_	4	punct
+

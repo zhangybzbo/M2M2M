@@ -1,0 +1,20 @@
+1	It	it	PRP	_	2	nsubj
+2	includes	include	VBZ	_	0	ROOT
+3	acts	act	NNS	_	2	dobj
+4	such	such	JJ	_	5	mwe
+5	as	as	IN	_	3	prep
+6	a	a	DT	_	7	det
+7	chap	chap	NN	_	5	pobj
+8	who	who	WP	_	9	nsubj
+9	plays	play	VBZ	_	7	rcmod
+10	jigs	jig	NNS	_	9	dobj
+11	on	on	IN	_	9	prep
+12	the	the	DT	_	13	det
+13	fiddle	fiddle	NN	_	11	pobj
+14	while	while	IN	_	15	mark
+15	balancing	balance	VBG	_	9	advcl
+16	on	on	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	rope	rope	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

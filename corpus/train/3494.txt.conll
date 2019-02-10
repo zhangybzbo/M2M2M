@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	beach	beach	NN	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	empty	empty	JJ	_	0	ROOT
+5	except	except	IN	_	4	prep
+6	for	for	IN	_	5	pcomp
+7	a	a	DT	_	8	det
+8	charm	charm	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	yellow	yellow	JJ	_	11	amod
+11	finches	finch	NNS	_	9	pobj
+12	.	.	.	_	4	punct
+

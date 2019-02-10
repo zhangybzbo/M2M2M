@@ -1,0 +1,16 @@
+1	Captured	capture	VBN	_	5	vmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	corporal	corporal	JJ	_	5	nsubj
+5	escaped	escape	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	jumping	jump	VBG	_	6	pcomp
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	POW	pow	NN	_	11	nn
+11	train	train	NN	_	8	pobj
+12	headed	head	VBD	_	11	vmod
+13	towards	towards	IN	_	12	prep
+14	Germany	Germany	NNP	_	13	pobj
+15	.	.	.	_	5	punct
+

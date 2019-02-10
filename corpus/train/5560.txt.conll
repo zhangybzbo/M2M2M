@@ -1,0 +1,26 @@
+1	Highly	highly	RB	_	2	advmod
+2	specialized	specialize	VBN	_	3	amod
+3	workers	worker	NNS	_	4	nsubj
+4	situated	situate	VBD	_	0	ROOT
+5	alongside	alongside	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	series	series	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	rolling	roll	VBG	_	10	amod
+10	ramps	ramp	NNS	_	8	pobj
+11	built	build	VBN	_	10	vmod
+12	up	up	RP	_	11	prt
+13	a	a	DT	_	14	det
+14	product	product	NN	_	11	dobj
+15	such	such	JJ	_	16	mwe
+16	as	as	IN	_	14	prep
+17	-LRB-	-lrb-	-LRB-	_	18	punct
+18	in	in	IN	_	24	dep
+19	Ford	Ford	NNP	_	21	poss
+20	's	's	POS	_	19	possessive
+21	case	case	NN	_	18	pobj
+22	-RRB-	-rrb-	-RRB-	_	18	punct
+23	an	a	DT	_	24	det
+24	automobile	automobile	NN	_	16	pobj
+25	.	.	.	_	4	punct
+

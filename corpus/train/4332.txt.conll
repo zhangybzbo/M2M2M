@@ -1,0 +1,13 @@
+1	Sounds	sound	VBZ	_	6	nsubjpass
+2	like	like	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	rug	rug	NN	_	2	pobj
+5	got	get	VBD	_	6	auxpass
+6	pulled	pull	VBN	_	0	ROOT
+7	out	out	RP	_	6	prt
+8	from	from	IN	_	6	prep
+9	the	the	DT	_	11	det
+10	original	original	JJ	_	11	amod
+11	plans	plan	NNS	_	8	pobj
+12	.	.	.	_	6	punct
+

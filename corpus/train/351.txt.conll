@@ -1,0 +1,17 @@
+1	Unfortunately	unfortunately	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	my	my	PRP$	_	4	poss
+4	friend	friend	NN	_	5	nsubj
+5	falls	fall	VBZ	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	love	love	NN	_	6	pobj
+8	easily	easily	RB	_	5	advmod
+9	and	and	CC	_	5	cc
+10	breaks	break	VBZ	_	5	conj
+11	her	she	PRP$	_	12	poss
+12	heart	heart	NN	_	10	dobj
+13	all	all	PDT	_	15	predet
+14	the	the	DT	_	15	det
+15	time	time	NN	_	10	tmod
+16	.	.	.	_	5	punct
+

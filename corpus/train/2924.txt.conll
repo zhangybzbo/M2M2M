@@ -1,0 +1,11 @@
+1	A	a	DT	_	4	det
+2	seemingly	seemingly	RB	_	3	advmod
+3	orthodox	orthodox	JJ	_	4	amod
+4	person	person	NN	_	6	nsubj
+5	has	have	VBZ	_	6	aux
+6	departed	depart	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	serious	serious	JJ	_	9	amod
+9	error	error	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

@@ -1,0 +1,21 @@
+1	Vinton	Vinton	NNP	_	5	nn
+2	-LRB-	-lrb-	-LRB-	_	3	punct
+3	Vint	Vint	NNP	_	1	appos
+4	-RRB-	-rrb-	-RRB-	_	3	punct
+5	Cerf	Cerf	NNP	_	13	nsubj
+6	,	,	,	_	5	punct
+7	along	along	IN	_	5	prep
+8	with	with	IN	_	7	pcomp
+9	Robert	Robert	NNP	_	10	nn
+10	Kahn	Kahn	NNP	_	8	pobj
+11	,	,	,	_	5	punct
+12	is	be	VBZ	_	13	cop
+13	co-designer	co-designer	NN	_	0	ROOT
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	19	det
+16	TCP/IP	TCP/IP	NNP	_	19	nn
+17	Internet	Internet	NNP	_	19	nn
+18	network	network	NN	_	19	nn
+19	protocol	protocol	NN	_	14	pobj
+20	.	.	.	_	13	punct
+

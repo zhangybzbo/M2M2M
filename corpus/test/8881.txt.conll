@@ -1,0 +1,15 @@
+1	Her	she	PRP$	_	3	poss
+2	decomposed	decompose	VBN	_	3	amod
+3	body	body	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	found	find	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	drum	drum	VBP	_	6	pobj
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	Lake	Lake	NNP	_	13	nn
+12	Elsinore	Elsinore	NNP	_	13	nn
+13	field	field	NN	_	9	pobj
+14	.	.	.	_	5	punct
+

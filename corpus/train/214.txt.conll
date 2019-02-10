@@ -1,0 +1,15 @@
+1	To	to	TO	_	2	aux
+2	stand	stand	VB	_	11	advcl
+3	up	up	RP	_	2	prt
+4	to	to	TO	_	2	prep
+5	the	the	DT	_	6	det
+6	wind	wind	NN	_	4	pobj
+7	,	,	,	_	11	punct
+8	umbrella	umbrella	NN	_	9	nn
+9	frames	frame	NNS	_	11	nsubj
+10	are	be	VBP	_	11	cop
+11	strong	strong	JJ	_	0	ROOT
+12	yet	yet	RB	_	13	advmod
+13	flexible	flexible	JJ	_	11	dep
+14	.	.	.	_	11	punct
+

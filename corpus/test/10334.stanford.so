@@ -1,0 +1,9 @@
+0	40	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="student" pos="NNS" nsubj="t2"
+13	21	tok id="t2" base="enforce" pos="VBD" ROOT="ROOT"
+22	24	tok id="t3" base="it" pos="PRP" dobj="t2"
+25	29	tok id="t4" base="with" pos="IN" prep="t2"
+30	38	tok id="t5" base="violence" pos="NN" pobj="t4"
+39	40	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

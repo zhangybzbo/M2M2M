@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	oil	oil	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	massive	massive	JJ	_	8	amod
+8	tank	tank	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	13	det
+11	basement	basement	NN	_	13	nn
+12	storage	storage	NN	_	13	nn
+13	room	room	NN	_	9	pobj
+14	.	.	.	_	4	punct
+

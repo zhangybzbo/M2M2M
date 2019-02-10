@@ -1,0 +1,16 @@
+1	Thanks	thanks	NNS	_	11	nsubjpass
+2	to	to	TO	_	1	prep
+3	the	the	DT	_	5	det
+4	new	new	JJ	_	5	amod
+5	product	product	NN	_	2	pobj
+6	,	,	,	_	5	punct
+7	a	a	DT	_	9	det
+8	large	large	JJ	_	9	amod
+9	profit	profit	NN	_	5	appos
+10	is	be	VBZ	_	11	auxpass
+11	brought	bring	VBN	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	company	company	NN	_	12	pobj
+15	.	.	.	_	11	punct
+

@@ -1,0 +1,17 @@
+1	A	a	DT	_	3	det
+2	Devonport	devonport	JJ	_	3	amod
+3	resident	resident	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	discovered	discover	VBN	_	0	ROOT
+6	a	a	DT	_	8	det
+7	fuel	fuel	NN	_	8	nn
+8	tank	tank	NN	_	5	dobj
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	concrete	concrete	JJ	_	12	amod
+12	bunker	bunker	NN	_	9	pobj
+13	at	at	IN	_	12	prep
+14	North	North	NNP	_	15	nn
+15	Head	Head	NNP	_	13	pobj
+16	.	.	.	_	5	punct
+

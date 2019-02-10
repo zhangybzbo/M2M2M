@@ -1,0 +1,1 @@
+The generated script creates candidate keys defined using a unique index .

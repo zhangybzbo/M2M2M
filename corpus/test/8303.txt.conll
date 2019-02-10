@@ -1,0 +1,25 @@
+1	At	at	IN	_	8	prep
+2	the	the	DT	_	3	det
+3	bottom	bottom	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	church	church	NN	_	7	nn
+7	steps	step	NNS	_	4	pobj
+8	were	be	VBD	_	0	ROOT
+9	three	three	CD	_	11	num
+10	brown	brown	JJ	_	11	amod
+11	parishioners	parishioner	NNS	_	8	nsubj
+12	;	;	:	_	8	punct
+13	two	two	CD	_	14	num
+14	more	more	JJR	_	16	nsubjpass
+15	were	be	VBD	_	16	auxpass
+16	perched	perch	VBN	_	8	parataxis
+17	precariously	precariously	RB	_	16	advmod
+18	on	on	IN	_	16	prep
+19	the	the	DT	_	20	det
+20	railing	railing	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	deck	deck	NN	_	21	pobj
+24	.	.	.	_	8	punct
+

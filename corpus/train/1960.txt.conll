@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	NMB	NMB	NNP	_	3	nsubj
+3	maintains	maintain	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	panel	panel	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	neutral	neutral	JJ	_	8	amod
+8	referees	referee	NNS	_	6	pobj
+9	for	for	IN	_	8	prep
+10	service	service	NN	_	9	pobj
+11	on	on	IN	_	10	prep
+12	these	these	DT	_	11	pobj
+13	and	and	CC	_	12	cc
+14	certain	certain	JJ	_	16	amod
+15	other	other	JJ	_	16	amod
+16	boards	board	NNS	_	12	conj
+17	.	.	.	_	3	punct
+

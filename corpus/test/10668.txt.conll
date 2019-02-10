@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	couple	couple	NN	_	11	nsubj
+4	of	of	IN	_	3	prep
+5	weeks	week	NNS	_	4	pobj
+6	at	at	IN	_	3	prep
+7	Palm	Palm	NNP	_	6	pobj
+8	have	have	VBP	_	11	aux
+9	been	be	VBN	_	11	cop
+10	a	a	DT	_	11	det
+11	whirlwind	whirlwind	JJ	_	0	ROOT
+12	.	.	.	_	11	punct
+

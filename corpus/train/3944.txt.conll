@@ -1,0 +1,17 @@
+1	He	he	PRP	_	2	nsubj
+2	claimed	claim	VBD	_	0	ROOT
+3	to	to	TO	_	5	aux
+4	have	have	VB	_	5	aux
+5	witnessed	witness	VBN	_	2	xcomp
+6	terrible	terrible	JJ	_	7	amod
+7	abuses	abuse	NNS	_	5	dobj
+8	in	in	IN	_	7	prep
+9	Iraq	Iraq	NNP	_	8	pobj
+10	as	as	IN	_	5	prep
+11	a	a	DT	_	12	det
+12	corporal	corporal	NN	_	10	pobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	army	army	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

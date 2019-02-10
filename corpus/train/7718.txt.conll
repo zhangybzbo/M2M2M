@@ -1,0 +1,13 @@
+1	Japanese	japanese	JJ	_	2	amod
+2	commuters	commuter	NNS	_	3	nsubj
+3	look	look	VBP	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	clock	clock	NN	_	4	pobj
+7	inside	inside	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	Tokyo	Tokyo	NNP	_	11	nn
+10	train	train	NN	_	11	nn
+11	station	station	NN	_	7	pobj
+12	.	.	.	_	3	punct
+

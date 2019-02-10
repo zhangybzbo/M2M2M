@@ -1,0 +1,13 @@
+1	Onions	onion	NNS	_	5	nsubjpass
+2	and	and	CC	_	1	cc
+3	garlic	garlic	NN	_	1	conj
+4	were	be	VBD	_	5	auxpass
+5	added	add	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	stew	stew	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	cauldron	cauldron	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

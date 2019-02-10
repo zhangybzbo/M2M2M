@@ -1,0 +1,14 @@
+1	Unlike	unlike	IN	_	8	prep
+2	our	we	PRP$	_	3	poss
+3	expectation	expectation	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	this	this	DT	_	6	det
+6	religion	religion	NN	_	8	nsubj
+7	is	be	VBZ	_	8	aux
+8	spreading	spread	VBG	_	0	ROOT
+9	faster	faster	RBR	_	8	advmod
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	country	country	NN	_	10	pobj
+13	.	.	.	_	8	punct
+

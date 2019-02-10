@@ -1,0 +1,20 @@
+1	In	in	IN	_	10	prep
+2	an	a	DT	_	3	det
+3	excerpt	excerpt	NN	_	1	pobj
+4	from	from	IN	_	3	prep
+5	upcoming	upcome	VBG	_	6	amod
+6	books	book	NNS	_	4	pobj
+7	,	,	,	_	10	punct
+8	Andre	Andre	NNP	_	9	nn
+9	Agassi	Agassi	NNP	_	10	nsubj
+10	says	say	VBZ	_	0	ROOT
+11	he	he	PRP	_	12	nsubj
+12	took	take	VBD	_	10	ccomp
+13	what	what	WP	_	15	dobj
+14	he	he	PRP	_	15	nsubj
+15	believes	believe	VBZ	_	12	ccomp
+16	to	to	TO	_	18	aux
+17	be	be	VB	_	18	cop
+18	speed	speed	NN	_	15	xcomp
+19	.	.	.	_	10	punct
+

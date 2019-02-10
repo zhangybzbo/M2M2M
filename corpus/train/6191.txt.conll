@@ -1,0 +1,20 @@
+1	For	for	IN	_	12	prep
+2	the	the	DT	_	4	det
+3	past	past	JJ	_	4	amod
+4	hundred	hundred	CD	_	7	num
+5	or	or	CC	_	4	cc
+6	so	so	RB	_	4	conj
+7	years	year	NNS	_	1	pobj
+8	,	,	,	_	12	punct
+9	the	the	DT	_	10	det
+10	culverts	culvert	NNS	_	12	nsubj
+11	have	have	VBP	_	12	aux
+12	drained	drain	VBN	_	0	ROOT
+13	storm	storm	NN	_	14	nn
+14	runoff	runoff	NN	_	12	dobj
+15	into	into	IN	_	14	prep
+16	San	San	NNP	_	18	nn
+17	Ramon	Ramon	NNP	_	18	nn
+18	creek	creek	NN	_	15	pobj
+19	.	.	.	_	12	punct
+

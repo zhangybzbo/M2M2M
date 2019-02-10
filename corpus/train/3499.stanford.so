@@ -1,0 +1,12 @@
+0	47	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="pilgrimage" pos="NN" nsubj="t6"
+11	13	tok id="t1" base="to" pos="TO" prep="t0"
+14	19	tok id="t2" base="Mecca" pos="NNP" pobj="t1"
+20	22	tok id="t3" base="be" pos="VBZ" cop="t6"
+23	24	tok id="t4" base="a" pos="DT" det="t6"
+25	30	tok id="t5" base="basic" pos="JJ" amod="t6"
+31	36	tok id="t6" base="tenet" pos="NN" ROOT="ROOT"
+37	39	tok id="t7" base="of" pos="IN" prep="t6"
+40	45	tok id="t8" base="Islam" pos="NNP" pobj="t7"
+46	47	tok id="t9" base="-PERIOD-" pos="." punct="t6"
+

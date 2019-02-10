@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	commercial	commercial	JJ	_	3	amod
+3	bees	bee	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	spreading	spread	VBG	_	0	ROOT
+6	parasites	parasite	NNS	_	5	dobj
+7	to	to	TO	_	5	prep
+8	their	they	PRP$	_	10	poss
+9	wild	wild	JJ	_	10	amod
+10	cousins	cousin	NNS	_	7	pobj
+11	.	.	.	_	5	punct
+

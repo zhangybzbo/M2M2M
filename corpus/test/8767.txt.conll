@@ -1,0 +1,17 @@
+1	McCain	McCain	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	proposals	proposal	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	outlined	outline	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	speech	speech	NN	_	6	pobj
+9	made	make	VBN	_	8	vmod
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	15	det
+12	prestigious	prestigious	JJ	_	15	amod
+13	Carnegie	Carnegie	NNP	_	15	nn
+14	Mellon	Mellon	NNP	_	15	nn
+15	University	University	NNP	_	10	pobj
+16	.	.	.	_	5	punct
+

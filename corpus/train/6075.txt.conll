@@ -1,0 +1,12 @@
+1	Professional	professional	JJ	_	2	amod
+2	painters	painter	NNS	_	3	nsubj
+3	use	use	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	5-gallon	5-gallon	JJ	_	6	amod
+6	bucket	bucket	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	roller	roller	NN	_	10	nn
+10	screen	screen	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

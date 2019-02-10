@@ -1,0 +1,20 @@
+1	Tom	Tom	NNP	_	2	nn
+2	Reynold	Reynold	NNP	_	4	nsubj
+3	's	's	POS	_	2	possessive
+4	brought	bring	VBD	_	0	ROOT
+5	his	he	PRP$	_	7	poss
+6	first	first	JJ	_	7	amod
+7	barrel	barrel	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	flour	flour	NN	_	8	pobj
+10	from	from	IN	_	4	prep
+11	DeTour	detour	NN	_	10	pobj
+12	on	on	IN	_	4	prep
+13	a	a	DT	_	14	det
+14	jumper	jumper	NN	_	12	pobj
+15	drawn	draw	VBN	_	14	vmod
+16	by	by	IN	_	15	prep
+17	an	a	DT	_	18	det
+18	ox	ox	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

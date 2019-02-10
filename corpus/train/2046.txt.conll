@@ -1,0 +1,25 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	facing	face	VBG	_	0	ROOT
+5	charges	charge	NNS	_	4	dobj
+6	after	after	IN	_	8	mark
+7	police	police	NN	_	8	nsubj
+8	pulled	pull	VBD	_	4	advcl
+9	him	he	PRP	_	8	dobj
+10	from	from	IN	_	8	prep
+11	a	a	DT	_	12	det
+12	tank	tank	NN	_	10	pobj
+13	under	under	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	women	woman	NNS	_	17	poss
+16	's	's	POS	_	15	possessive
+17	toilet	toilet	NN	_	13	pobj
+18	that	that	WDT	_	20	nsubjpass
+19	was	be	VBD	_	20	auxpass
+20	filled	fill	VBN	_	17	rcmod
+21	with	with	IN	_	20	prep
+22	human	human	JJ	_	23	amod
+23	waste	waste	NN	_	21	pobj
+24	.	.	.	_	4	punct
+

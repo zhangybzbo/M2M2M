@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	greatest	greatest	JJS	_	3	amod
+3	exponent	exponent	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	monounsaturated	monounsaturated	JJ	_	6	amod
+6	fat	fat	NN	_	4	pobj
+7	is	be	VBZ	_	9	cop
+8	olive	olive	JJ	_	9	amod
+9	oil	oil	NN	_	0	ROOT
+10	,	,	,	_	9	punct
+11	and	and	CC	_	9	cc
+12	it	it	PRP	_	16	nsubj
+13	is	be	VBZ	_	16	cop
+14	a	a	DT	_	16	det
+15	prime	prime	JJ	_	16	amod
+16	component	component	NN	_	9	conj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	Mediterranean	Mediterranean	NNP	_	20	nn
+20	Diet	Diet	NNP	_	17	pobj
+21	.	.	.	_	9	punct
+

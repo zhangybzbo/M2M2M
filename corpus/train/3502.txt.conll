@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	structural	structural	JJ	_	3	amod
+3	deficit	deficit	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	series	series	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	tax	tax	NN	_	12	nn
+12	cuts	cut	NNS	_	10	pobj
+13	,	,	,	_	9	punct
+14	not	not	RB	_	16	neg
+15	the	the	DT	_	16	det
+16	recession	recession	NN	_	9	appos
+17	or	or	CC	_	16	cc
+18	defense	defense	NN	_	19	nn
+19	needs	need	NNS	_	16	conj
+20	.	.	.	_	6	punct
+

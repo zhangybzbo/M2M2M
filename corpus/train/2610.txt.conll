@@ -1,0 +1,25 @@
+1	They	they	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	saw	see	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	birth	birth	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Gelugpa	Gelugpa	NNP	_	9	nn
+9	school	school	NN	_	6	pobj
+10	-LRB-	-lrb-	-LRB-	_	12	punct
+11	also	also	RB	_	12	advmod
+12	known	know	VBN	_	5	vmod
+13	as	as	IN	_	12	prep
+14	Yellow	yellow	JJ	_	15	amod
+15	Hats	hat	NNS	_	13	pobj
+16	-RRB-	-rrb-	-RRB-	_	12	punct
+17	by	by	IN	_	12	prep
+18	the	the	DT	_	19	det
+19	disciples	disciple	NNS	_	17	pobj
+20	of	of	IN	_	19	prep
+21	Tsongkhapa	Tsongkhapa	NNP	_	23	nn
+22	Lobsang	Lobsang	NNP	_	23	nn
+23	Dragpa	Dragpa	NNP	_	20	pobj
+24	.	.	.	_	3	punct
+

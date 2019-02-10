@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	left-turns	left-turn	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	sequenced	sequence	VBN	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	correspond	correspond	VB	_	4	xcomp
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	arrival	arrival	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	group	group	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	cars	car	NNS	_	13	pobj
+15	from	from	IN	_	9	prep
+16	the	the	DT	_	18	det
+17	upstream	upstream	JJ	_	18	amod
+18	signal	signal	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

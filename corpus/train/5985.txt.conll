@@ -1,0 +1,12 @@
+1	Since	since	IN	_	8	prep
+2	last	last	JJ	_	3	amod
+3	year	year	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	many	many	JJ	_	6	amod
+6	people	people	NNS	_	8	nsubj
+7	are	be	VBP	_	8	aux
+8	sinking	sink	VBG	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	debt	debt	NN	_	9	pobj
+11	.	.	.	_	8	punct
+

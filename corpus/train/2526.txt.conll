@@ -1,0 +1,11 @@
+1	Plane	plane	NN	_	2	nn
+2	taxies	taxi	NNS	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	runway	runway	NN	_	3	pobj
+5	and	and	CC	_	2	cc
+6	stops	stop	VBZ	_	2	conj
+7	on	on	IN	_	6	prep
+8	terminal	terminal	JJ	_	9	amod
+9	roof	roof	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

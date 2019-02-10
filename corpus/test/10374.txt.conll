@@ -1,0 +1,23 @@
+1	That	that	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	batch	batch	NN	_	6	nsubj
+4	of	of	IN	_	3	prep
+5	forgeries	forgery	NNS	_	4	pobj
+6	was	be	VBD	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	suitcase	suitcase	NN	_	7	pobj
+10	and	and	CC	_	6	cc
+11	the	the	DT	_	13	det
+12	two	two	CD	_	13	num
+13	gentlemen	gentleman	NNS	_	21	nsubj
+14	that	that	WDT	_	15	nsubj
+15	disappeared	disappear	VBD	_	13	rcmod
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	night	night	NN	_	16	pobj
+19	were	be	VBD	_	21	cop
+20	both	both	DT	_	21	det
+21	Japanese	japanese	JJ	_	6	conj
+22	.	.	.	_	6	punct
+

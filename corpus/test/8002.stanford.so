@@ -1,0 +1,8 @@
+0	39	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="company" pos="NN" nsubj="t2"
+12	22	tok id="t2" base="fabricate" pos="VBZ" ROOT="ROOT"
+23	30	tok id="t3" base="plastic" pos="JJ" amod="t4"
+31	37	tok id="t4" base="chair" pos="NNS" dobj="t2"
+38	39	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

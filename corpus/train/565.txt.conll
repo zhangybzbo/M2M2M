@@ -1,0 +1,16 @@
+1	These	these	DT	_	4	det
+2	emotionally	emotionally	RB	_	3	advmod
+3	wrenching	wrenching	JJ	_	4	amod
+4	experiences	experience	NNS	_	5	nsubj
+5	encouraged	encourage	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	volunteers	volunteer	NNS	_	5	dobj
+8	to	to	TO	_	9	aux
+9	seek	seek	VB	_	5	xcomp
+10	the	the	DT	_	11	det
+11	comradeship	comradeship	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	fellow	fellow	JJ	_	14	amod
+14	veterans	veteran	NNS	_	12	pobj
+15	.	.	.	_	5	punct
+

@@ -1,0 +1,14 @@
+1	To	to	TO	_	2	aux
+2	prepare	prepare	VB	_	9	advcl
+3	for	for	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	exam	exam	NN	_	3	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	student	student	NN	_	9	nsubj
+9	visited	visit	VBD	_	0	ROOT
+10	the	the	DT	_	12	det
+11	ISA	ISA	NNP	_	12	nn
+12	website	website	NN	_	9	dobj
+13	.	.	.	_	9	punct
+

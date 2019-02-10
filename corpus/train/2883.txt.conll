@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	crust	crust	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	earth	earth	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	composed	compose	VBN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	great	great	JJ	_	11	amod
+11	variety	variety	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	igneous	igneous	JJ	_	19	amod
+14	,	,	,	_	13	punct
+15	metamorphic	metamorphic	JJ	_	13	conj
+16	,	,	,	_	13	punct
+17	and	and	CC	_	13	cc
+18	sedimentary	sedimentary	JJ	_	13	conj
+19	rocks	rock	NNS	_	12	pobj
+20	.	.	.	_	7	punct
+

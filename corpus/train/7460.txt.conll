@@ -1,0 +1,16 @@
+1	On	on	IN	_	5	prep
+2	windy	windy	JJ	_	3	amod
+3	days	day	NNS	_	1	pobj
+4	I	I	PRP	_	5	nsubj
+5	feel	feel	VBP	_	0	ROOT
+6	the	the	DT	_	7	det
+7	drafts	draft	NNS	_	5	dobj
+8	coming	come	VBG	_	7	vmod
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	baseboards	baseboard	NNS	_	9	pobj
+12	in	in	IN	_	11	prep
+13	my	my	PRP$	_	14	poss
+14	house	house	NN	_	12	pobj
+15	.	.	.	_	5	punct
+

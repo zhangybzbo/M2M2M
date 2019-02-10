@@ -1,0 +1,11 @@
+1	In	in	IN	_	6	prep
+2	Europe	Europe	NNP	_	1	pobj
+3	the	the	DT	_	4	det
+4	fuel	fuel	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	distilled	distil	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	canola	canolum	NN	_	9	nn
+9	oil	oil	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

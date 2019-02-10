@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	legislature	legislature	NN	_	3	nsubj
+3	created	create	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	ombudsman	ombudsman	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	intervene	intervene	VB	_	3	xcomp
+8	when	when	WRB	_	14	advmod
+9	children	child	NNS	_	14	nsubjpass
+10	or	or	CC	_	9	cc
+11	their	they	PRP$	_	12	poss
+12	parents	parent	NNS	_	9	conj
+13	are	be	VBP	_	14	auxpass
+14	subjected	subject	VBN	_	7	advcl
+15	to	to	TO	_	14	prep
+16	unauthorized	unauthorized	JJ	_	20	amod
+17	or	or	CC	_	16	cc
+18	unreasonable	unreasonable	JJ	_	16	conj
+19	agency	agency	NN	_	20	nn
+20	decisions	decision	NNS	_	15	pobj
+21	.	.	.	_	3	punct
+

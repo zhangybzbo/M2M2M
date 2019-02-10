@@ -1,0 +1,22 @@
+1	Power	power	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	generated	generate	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	electrochemical	electrochemical	JJ	_	7	amod
+7	reaction	reaction	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	hydrogen	hydrogen	NN	_	8	pobj
+10	and	and	CC	_	9	cc
+11	oxygen	oxygen	NN	_	9	conj
+12	that	that	WDT	_	13	nsubj
+13	yields	yield	VBZ	_	7	rcmod
+14	as	as	IN	_	13	prep
+15	its	its	PRP$	_	16	poss
+16	by-product	by-product	NN	_	14	pobj
+17	only	only	RB	_	18	advmod
+18	heat	heat	NN	_	16	dep
+19	and	and	CC	_	18	cc
+20	H2O	h2o	NN	_	18	conj
+21	.	.	.	_	3	punct
+

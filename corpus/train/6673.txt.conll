@@ -1,0 +1,11 @@
+1	People	people	NNS	_	3	nsubj
+2	did	do	VBD	_	3	aux
+3	read	read	VB	_	0	ROOT
+4	the	the	DT	_	5	det
+5	text	text	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	dialog	dialog	NN	_	9	nn
+9	box	box	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	It	it	PRP	_	2	nsubj
+2	took	take	VBD	_	0	ROOT
+3	the	the	DT	_	7	det
+4	great	great	JJ	_	7	amod
+5	Ronald	Ronald	NNP	_	7	nn
+6	Reagan	Reagan	NNP	_	7	nn
+7	years	year	NNS	_	2	dobj
+8	to	to	TO	_	9	aux
+9	develop	develop	VB	_	2	vmod
+10	his	he	PRP$	_	12	poss
+11	vast	vast	JJ	_	12	amod
+12	coterie	coterie	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	left	left	JJ	_	16	amod
+15	wing	wing	NN	_	16	nn
+16	haters	hater	NNS	_	13	pobj
+17	.	.	.	_	2	punct
+

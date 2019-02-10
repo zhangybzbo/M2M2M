@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	det
+2	ordinance	ordinance	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	a	a	DT	_	5	det
+5	result	result	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	bond	bond	NN	_	13	nsubj
+9	of	of	IN	_	8	prep
+10	profit	profit	NN	_	11	nn
+11	agents	agent	NNS	_	9	pobj
+12	getting	get	VBG	_	13	dep
+13	angry	angry	JJ	_	6	pcomp
+14	over	over	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	recent	recent	JJ	_	17	amod
+17	expansion	expansion	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	23	det
+20	Broward	Broward	NNP	_	23	nn
+21	County	County	NNP	_	23	nn
+22	Pretrial	Pretrial	NNP	_	23	nn
+23	program	program	NN	_	18	pobj
+24	.	.	.	_	5	punct
+

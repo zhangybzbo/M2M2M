@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det
+2	number	number	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	scientific	scientific	JJ	_	5	amod
+5	criticisms	criticism	NNS	_	3	pobj
+6	of	of	IN	_	5	prep
+7	Duesberg	Duesberg	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	hypothesis	hypothesis	NN	_	6	pobj
+10	were	be	VBD	_	11	auxpass
+11	summarised	summarise	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	review	review	NN	_	15	nn
+15	article	article	NN	_	12	pobj
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	journal	journal	NN	_	19	nn
+19	Science	science	NN	_	16	pobj
+20	in	in	IN	_	15	prep
+21	1994	1994	CD	_	20	pobj
+22	.	.	.	_	11	punct
+

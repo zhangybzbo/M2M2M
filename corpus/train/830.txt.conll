@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	chair	chair	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	crate	crate	NN	_	4	pobj
+7	and	and	CC	_	3	cc
+8	then	then	RB	_	10	advmod
+9	completely	completely	RB	_	10	advmod
+10	wrapped	wrap	VBN	_	3	conj
+11	in	in	IN	_	10	prep
+12	cellophane	cellophane	NN	_	11	pobj
+13	and	and	CC	_	10	cc
+14	then	then	RB	_	16	advmod
+15	bubble	bubble	NN	_	16	nn
+16	wrap	wrap	NN	_	10	conj
+17	.	.	.	_	3	punct
+

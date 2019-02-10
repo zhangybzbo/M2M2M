@@ -1,0 +1,23 @@
+1	A	a	DT	_	4	det
+2	gingerbread	gingerbread	JJ	_	4	amod
+3	house	house	NN	_	4	nn
+4	creation	creation	NN	_	14	nsubjpass
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	culinary	culinary	JJ	_	9	amod
+8	art	art	NN	_	9	nn
+9	students	student	NNS	_	5	pobj
+10	of	of	IN	_	9	prep
+11	Wake	wake	VBP	_	10	pcomp
+12	Tech	Tech	NNP	_	11	dobj
+13	was	be	VBD	_	14	auxpass
+14	auctioned	auction	VBN	_	0	ROOT
+15	off	off	RP	_	14	prt
+16	at	at	IN	_	14	prep
+17	the	the	DT	_	19	det
+18	Umstead	Umstead	NNP	_	19	nn
+19	Hotel	Hotel	NNP	_	16	pobj
+20	in	in	IN	_	14	prep
+21	Cary	Cary	NNP	_	20	pobj
+22	.	.	.	_	14	punct
+

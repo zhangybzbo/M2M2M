@@ -1,0 +1,15 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	way	way	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	deliverance	deliverance	NN	_	5	pobj
+7	from	from	IN	_	4	prep
+8	vicious	vicious	JJ	_	9	amod
+9	cycles	cycle	NNS	_	7	pobj
+10	of	of	IN	_	9	prep
+11	anger	anger	NN	_	10	pobj
+12	and	and	CC	_	11	cc
+13	insult	insult	NN	_	11	conj
+14	.	.	.	_	4	punct
+

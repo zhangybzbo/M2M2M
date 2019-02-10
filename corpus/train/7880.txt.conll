@@ -1,0 +1,22 @@
+1	When	when	WRB	_	5	advmod
+2	you	you	PRP	_	5	nsubj
+3	're	be	VBP	_	5	cop
+4	an	a	DT	_	5	det
+5	immigrant	immigrant	JJ	_	13	advcl
+6	or	or	CC	_	5	cc
+7	refugee	refugee	NN	_	5	conj
+8	from	from	IN	_	7	prep
+9	any	any	DT	_	10	det
+10	country	country	NN	_	8	pobj
+11	then	then	RB	_	13	advmod
+12	you	you	PRP	_	13	nsubj
+13	have	have	VBP	_	0	ROOT
+14	an	a	DT	_	15	det
+15	experience	experience	NN	_	13	dobj
+16	with	with	IN	_	15	prep
+17	a	a	DT	_	20	det
+18	botched	botched	JJ	_	20	amod
+19	translated	translate	VBN	_	20	amod
+20	name	name	NN	_	16	pobj
+21	.	.	.	_	13	punct
+

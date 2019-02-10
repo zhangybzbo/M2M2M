@@ -1,0 +1,3 @@
+T1	Term 15 19	milk
+T2	Term 25 29	sack
+R1	Content-Container Arg1:T1 Arg2:T2

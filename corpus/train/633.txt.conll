@@ -1,0 +1,21 @@
+1	This	this	DT	_	3	det
+2	specific	specific	JJ	_	3	amod
+3	machine	machine	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	fitted	fit	VBN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	12	det
+9	Mirus	Mirus	NNP	_	12	nn
+10	automatic	automatic	JJ	_	12	amod
+11	sheet	sheet	NN	_	12	nn
+12	feeder	feeder	NN	_	7	pobj
+13	thereby	thereby	RB	_	14	advmod
+14	increasing	increase	VBG	_	6	xcomp
+15	the	the	DT	_	16	det
+16	capacity	capacity	NN	_	14	dobj
+17	on	on	IN	_	16	prep
+18	large	large	JJ	_	19	amod
+19	runs	run	NNS	_	17	pobj
+20	.	.	.	_	6	punct
+

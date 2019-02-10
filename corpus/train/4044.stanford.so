@@ -1,0 +1,10 @@
+0	55	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="Australia" pos="NNP" nsubj="t1"
+10	17	tok id="t1" base="export" pos="NNS" ROOT="ROOT"
+18	24	tok id="t2" base="grain" pos="NNS" dobj="t1"
+25	27	tok id="t3" base="to" pos="TO" prep="t1"
+28	31	tok id="t4" base="the" pos="DT" det="t6"
+32	43	tok id="t5" base="neighboring" pos="JJ" amod="t6"
+44	53	tok id="t6" base="country" pos="NNS" pobj="t3"
+54	55	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

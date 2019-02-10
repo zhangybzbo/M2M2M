@@ -1,0 +1,23 @@
+1	In	in	IN	_	16	prep
+2	this	this	DT	_	8	det
+3	excellent	excellent	JJ	_	8	amod
+4	fourth	fourth	JJ	_	8	amod
+5	Sunny	Sunny	NNP	_	8	nn
+6	Randall	Randall	NNP	_	8	nn
+7	PI	pi	NN	_	8	nn
+8	tale	tale	NN	_	1	pobj
+9	-LRB-	-lrb-	-LRB-	_	10	punct
+10	after	after	IN	_	1	dep
+11	Shrink	Shrink	NNP	_	12	nn
+12	Rap	rap	NN	_	10	pobj
+13	-RRB-	-rrb-	-RRB-	_	10	punct
+14	,	,	,	_	16	punct
+15	is	be	VBZ	_	16	auxpass
+16	shown	show	VBN	_	0	ROOT
+17	how	how	WRB	_	19	advmod
+18	sadness	sadness	NN	_	19	nsubj
+19	leads	lead	VBZ	_	16	ccomp
+20	to	to	TO	_	19	prep
+21	murder	murder	NN	_	20	pobj
+22	.	.	.	_	16	punct
+

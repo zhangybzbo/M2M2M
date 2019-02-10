@@ -1,0 +1,27 @@
+1	Officials	official	NNS	_	2	nsubj
+2	got	get	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	warning	warning	NN	_	2	dobj
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	victim	victim	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	son	son	NN	_	5	pobj
+10	:	:	:	_	4	punct
+11	his	he	PRP$	_	13	poss
+12	87-year-old	87-year-old	JJ	_	13	amod
+13	father	father	NN	_	17	nsubj
+14	was	be	VBD	_	17	cop
+15	a	a	DT	_	17	det
+16	``	``	``	_	17	punct
+17	hoarder	hoarder	NN	_	4	dep
+18	''	''	''	_	17	punct
+19	and	and	CC	_	17	cc
+20	the	the	DT	_	21	det
+21	house	house	NN	_	23	nsubj
+22	was	be	VBD	_	23	cop
+23	full	full	JJ	_	17	conj
+24	of	of	IN	_	23	prep
+25	items	item	NNS	_	24	pobj
+26	.	.	.	_	2	punct
+

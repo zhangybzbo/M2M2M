@@ -1,0 +1,12 @@
+1	His	he	PRP$	_	2	poss
+2	place	place	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	desk	desk	NN	_	4	pobj
+7	in	in	IN	_	3	prep
+8	front	front	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	me	I	PRP	_	9	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,10 @@
+1	Zinc	zinc	NN	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	essential	essential	JJ	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	growth	growth	NN	_	4	pobj
+6	and	and	CC	_	5	cc
+7	cell	cell	NN	_	8	nn
+8	division	division	NN	_	5	conj
+9	.	.	.	_	3	punct
+

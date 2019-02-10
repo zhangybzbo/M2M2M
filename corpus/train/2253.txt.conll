@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	combined	combined	JJ	_	3	amod
+3	beam	beam	NN	_	4	nsubj
+4	forms	form	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	picture	picture	NN	_	4	dobj
+7	using	use	VBG	_	4	xcomp
+8	a	a	DT	_	10	det
+9	light	light	JJ	_	10	amod
+10	valve	valve	NN	_	7	dobj
+11	.	.	.	_	4	punct
+

@@ -1,0 +1,12 @@
+1	In	in	IN	_	4	prep
+2	each	each	DT	_	3	det
+3	house	house	NN	_	1	pobj
+4	lives	live	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	person	person	NN	_	4	dobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	different	different	JJ	_	10	amod
+10	nationality	nationality	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

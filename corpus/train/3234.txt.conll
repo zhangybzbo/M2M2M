@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	scene	scene	NN	_	4	nsubj
+4	shows	show	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	meeting	meeting	NN	_	4	dobj
+7	between	between	IN	_	6	prep
+8	Axel	Axel	NNP	_	7	pobj
+9	and	and	CC	_	8	cc
+10	a	a	DT	_	11	det
+11	tramp	tramp	NN	_	8	conj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	street	street	NN	_	12	pobj
+15	at	at	IN	_	11	prep
+16	night-time	night-time	JJ	_	15	pobj
+17	.	.	.	_	4	punct
+

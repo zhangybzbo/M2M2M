@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	3	nsubj
+3	asserts	assert	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	intrinsic	intrinsic	JJ	_	6	amod
+6	relationship	relationship	NN	_	3	dobj
+7	between	between	IN	_	6	prep
+8	psychotherapy	psychotherapy	NN	_	7	pobj
+9	,	,	,	_	8	punct
+10	human	human	JJ	_	11	amod
+11	rights	rights	NNS	_	8	conj
+12	and	and	CC	_	8	cc
+13	politics	politics	NNS	_	8	conj
+14	.	.	.	_	3	punct
+

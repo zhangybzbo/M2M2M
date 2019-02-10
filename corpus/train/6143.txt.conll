@@ -1,0 +1,26 @@
+1	Lycophytes	lycophyte	NNS	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	vascular	vascular	JJ	_	4	amod
+4	plants	plant	NNS	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	class	class	NN	_	8	nn
+8	Lycopodiopsida	lycopodiopsida	NN	_	5	pobj
+9	,	,	,	_	8	punct
+10	a	a	DT	_	11	det
+11	division	division	NN	_	8	appos
+12	of	of	IN	_	11	prep
+13	vascular	vascular	JJ	_	14	amod
+14	plants	plant	NNS	_	12	pobj
+15	known	know	VBN	_	14	vmod
+16	as	as	IN	_	15	prep
+17	Pteridophytes	pteridophyte	NNS	_	16	pobj
+18	-LRB-	-lrb-	-LRB-	_	20	punct
+19	the	the	DT	_	20	det
+20	ferns	fern	NNS	_	17	dep
+21	and	and	CC	_	20	cc
+22	their	they	PRP$	_	23	poss
+23	allies	ally	NNS	_	20	conj
+24	-RRB-	-rrb-	-RRB-	_	20	punct
+25	.	.	.	_	4	punct
+

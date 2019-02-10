@@ -1,0 +1,12 @@
+1	UK-based	uk-based	JJ	_	2	amod
+2	Master	master	NN	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	Malt	malt	NN	_	5	nn
+5	stocks	stock	NNS	_	3	pobj
+6	the	the	DT	_	10	det
+7	finest	finest	JJS	_	10	amod
+8	straight	straight	JJ	_	10	amod
+9	wheat	wheat	NN	_	10	nn
+10	whisky	whisky	NN	_	0	ROOT
+11	.	.	.	_	10	punct
+

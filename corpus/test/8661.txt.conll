@@ -1,0 +1,26 @@
+1	Actually	actually	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	he	he	PRP	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	a	a	DT	_	7	det
+6	cartoon	cartoon	NN	_	7	nn
+7	character	character	NN	_	0	ROOT
+8	devised	devise	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	two	two	CD	_	12	num
+12	producers	producer	NNS	_	9	pobj
+13	to	to	TO	_	14	aux
+14	serve	serve	VB	_	8	xcomp
+15	their	they	PRP$	_	17	poss
+16	blistering	blister	VBG	_	17	amod
+17	cocktail	cocktail	NN	_	14	dobj
+18	of	of	IN	_	17	prep
+19	dancehall	dancehall	JJ	_	20	amod
+20	reggae	reggae	NNS	_	18	pobj
+21	,	,	,	_	20	punct
+22	hip-hop	hip-hop	NN	_	20	conj
+23	and	and	CC	_	20	cc
+24	electro	electro	NN	_	20	conj
+25	.	.	.	_	7	punct
+

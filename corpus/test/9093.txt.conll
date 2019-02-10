@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	model	model	NN	_	3	nsubj
+3	developed	develop	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	that	that	DT	_	6	det
+6	event	event	NN	_	4	pobj
+7	include	include	VBP	_	3	dep
+8	academic	academic	JJ	_	9	amod
+9	visits	visit	NNS	_	7	dobj
+10	and	and	CC	_	9	cc
+11	symposia	symposium	NN	_	9	conj
+12	,	,	,	_	9	punct
+13	alumni	alumnus	NNS	_	9	conj
+14	and	and	CC	_	9	cc
+15	.	.	.	_	9	punct
+16	VIP	vip	NN	_	17	nn
+17	events	event	NNS	_	9	conj
+18	,	,	,	_	17	punct
+19	together	together	RB	_	20	advmod
+20	with	with	IN	_	17	prep
+21	government	government	NN	_	24	nn
+22	and	and	CC	_	21	cc
+23	press	press	NN	_	21	conj
+24	relations	relation	NNS	_	20	pobj
+25	.	.	.	_	3	punct
+

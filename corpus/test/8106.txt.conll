@@ -1,0 +1,12 @@
+1	Eighteen	eighteen	CD	_	2	num
+2	studies	study	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	focused	focus	VBN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	older	older	JJR	_	7	amod
+7	adults	adult	NNS	_	5	pobj
+8	living	live	VBG	_	7	vmod
+9	at	at	IN	_	8	prep
+10	home	home	NN	_	9	pobj
+11	.	.	.	_	4	punct
+

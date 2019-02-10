@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	mouse	mouse	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	left	leave	VBN	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	right	right	JJ	_	7	amod
+7	buttons	button	NNS	_	4	conj
+8	on	on	IN	_	7	prep
+9	top	top	JJ	_	13	amod
+10	,	,	,	_	13	punct
+11	4-Direction	4-direction	JJ	_	13	amod
+12	scroll	scroll	NN	_	13	nn
+13	ball	ball	NN	_	8	pobj
+14	between	between	IN	_	4	prep
+15	them	they	PRP	_	14	pobj
+16	.	.	.	_	4	punct
+

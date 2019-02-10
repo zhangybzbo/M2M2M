@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	works	work	VBZ	_	0	ROOT
+3	as	as	IN	_	2	prep
+4	an	a	DT	_	6	det
+5	accounts	account	NNS	_	6	nn
+6	manager	manager	NN	_	3	pobj
+7	for	for	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	luxury	luxury	NN	_	11	nn
+10	housing	housing	NN	_	11	nn
+11	developer	developer	NN	_	7	pobj
+12	.	.	.	_	2	punct
+

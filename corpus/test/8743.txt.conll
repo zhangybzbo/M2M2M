@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	some	some	DT	_	4	det
+4	powder	powder	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	canteen	canteen	NN	_	8	nn
+8	cup	cup	NN	_	5	pobj
+9	and	and	CC	_	2	cc
+10	found	find	VBD	_	2	conj
+11	that	that	IN	_	15	mark
+12	the	the	DT	_	13	det
+13	cocoa	cocoa	NN	_	15	nsubjpass
+14	was	be	VBD	_	15	auxpass
+15	mixed	mix	VBN	_	10	ccomp
+16	with	with	IN	_	15	prep
+17	sugar	sugar	NN	_	18	nn
+18	granules	granule	NNS	_	16	pobj
+19	.	.	.	_	2	punct
+

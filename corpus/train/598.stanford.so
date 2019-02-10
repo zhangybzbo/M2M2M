@@ -1,0 +1,13 @@
+0	59	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	5	tok id="t1" base="gam" pos="NN" nsubj="t4"
+6	8	tok id="t2" base="of" pos="IN" prep="t1"
+9	15	tok id="t3" base="whale" pos="NNS" pobj="t2"
+16	24	tok id="t4" base="migrate" pos="VBZ" ROOT="ROOT"
+25	27	tok id="t5" base="to" pos="TO" prep="t4"
+28	36	tok id="t6" base="breed" pos="VBG" pcomp="t5"
+37	44	tok id="t7" base="lagoon" pos="NNS" dobj="t6"
+45	50	tok id="t8" base="every" pos="DT" det="t9"
+51	57	tok id="t9" base="season" pos="NN" npadvmod="t6"
+58	59	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

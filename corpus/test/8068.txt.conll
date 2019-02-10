@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	complete	complete	JJ	_	3	amod
+3	statue	statue	NN	_	16	nsubj
+4	,	,	,	_	3	punct
+5	topped	top	VBN	_	3	vmod
+6	by	by	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	imposing	impose	VBG	_	9	amod
+9	head	head	NN	_	6	pobj
+10	,	,	,	_	3	punct
+11	was	be	VBD	_	16	cop
+12	originally	originally	RB	_	16	advmod
+13	nearly	nearly	RB	_	14	quantmod
+14	five	five	CD	_	15	num
+15	metres	metre	NNS	_	16	npadvmod
+16	high	high	JJ	_	0	ROOT
+17	.	.	.	_	16	punct
+

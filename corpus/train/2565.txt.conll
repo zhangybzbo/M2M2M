@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	carrier	carrier	NN	_	3	nn
+3	polymers	polymer	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	migrating	migrate	VBG	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	target	target	NN	_	9	nn
+9	organs	organ	NNS	_	6	pobj
+10	.	.	.	_	5	punct
+

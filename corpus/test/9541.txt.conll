@@ -1,0 +1,12 @@
+1	Members	member	NNS	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	primarily	primarily	RB	_	4	advmod
+4	interested	interested	JJ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	issues	issue	NNS	_	5	pobj
+7	related	relate	VBN	_	6	vmod
+8	to	to	TO	_	7	prep
+9	family	family	NN	_	10	nn
+10	law	law	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

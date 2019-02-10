@@ -1,0 +1,27 @@
+1	They	they	PRP	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	storing	store	VBG	_	0	ROOT
+4	the	the	DT	_	5	det
+5	solution	solution	NN	_	3	dobj
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	non-food	non-food	JJ	_	9	amod
+9	refrigerator	refrigerator	NN	_	6	pobj
+10	to	to	TO	_	11	aux
+11	avoid	avoid	VB	_	3	vmod
+12	degradation	degradation	NN	_	11	dobj
+13	and	and	CC	_	11	cc
+14	transfer	transfer	VB	_	11	conj
+15	what	what	WP	_	18	nsubjpass
+16	is	be	VBZ	_	18	auxpass
+17	immediately	immediately	RB	_	18	advmod
+18	needed	need	VBN	_	14	ccomp
+19	to	to	TO	_	18	prep
+20	a	a	DT	_	22	det
+21	spray	spray	NN	_	22	nn
+22	bottle	bottle	NN	_	19	pobj
+23	for	for	IN	_	18	prep
+24	manual	manual	JJ	_	25	amod
+25	cleaning	cleaning	NN	_	23	pobj
+26	.	.	.	_	3	punct
+

@@ -1,0 +1,15 @@
+1	Broken	broken	JJ	_	2	amod
+2	bones	bone	NNS	_	13	nsubj
+3	-LRB-	-lrb-	-LRB-	_	5	punct
+4	also	also	RB	_	5	advmod
+5	called	call	VBN	_	2	dep
+6	fractures	fracture	NNS	_	5	dep
+7	-RRB-	-rrb-	-RRB-	_	5	punct
+8	in	in	IN	_	2	prep
+9	the	the	DT	_	10	det
+10	foot	foot	NN	_	8	pobj
+11	are	be	VBP	_	13	cop
+12	very	very	RB	_	13	advmod
+13	common	common	JJ	_	0	ROOT
+14	.	.	.	_	13	punct
+

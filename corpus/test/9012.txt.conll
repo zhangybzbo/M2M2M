@@ -1,0 +1,22 @@
+1	Alcohol	alcohol	NN	_	5	nsubj
+2	and	and	CC	_	1	cc
+3	drugs	drug	NNS	_	1	conj
+4	directly	directly	RB	_	5	advmod
+5	cause	cause	VBP	_	0	ROOT
+6	suicide	suicide	NN	_	5	dobj
+7	by	by	IN	_	5	prep
+8	significantly	significantly	RB	_	9	advmod
+9	diminishing	diminish	VBG	_	7	pcomp
+10	the	the	DT	_	11	det
+11	reasoning	reasoning	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	person	person	NN	_	12	pobj
+15	at	at	IN	_	9	prep
+16	the	the	DT	_	17	det
+17	time	time	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	suicide	suicide	NN	_	18	pobj
+21	.	.	.	_	5	punct
+

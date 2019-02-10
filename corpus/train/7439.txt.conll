@@ -1,0 +1,16 @@
+1	Well	well	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	this	this	DT	_	4	det
+4	footballer	footballer	NN	_	5	nsubj
+5	kicked	kick	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	ball	ball	NN	_	5	dobj
+8	the	the	DT	_	9	det
+9	hardest	hardest	JJS	_	5	npadvmod
+10	he	he	PRP	_	13	nsubj
+11	could	could	MD	_	13	aux
+12	and	and	CC	_	13	cc
+13	hit	hit	VB	_	9	rcmod
+14	me	I	PRP	_	13	dobj
+15	.	.	.	_	5	punct
+

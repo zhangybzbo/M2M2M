@@ -1,0 +1,11 @@
+1	Enteric-formulated	enteric-formulated	JJ	_	2	amod
+2	lactoferrin	lactoferrin	NN	_	6	nsubjpass
+3	was	be	VBD	_	6	auxpass
+4	more	more	RBR	_	5	advmod
+5	effectively	effectively	RB	_	6	advmod
+6	transported	transport	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	blood	blood	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

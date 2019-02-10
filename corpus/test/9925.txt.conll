@@ -1,0 +1,15 @@
+1	Pain	pain	NN	_	9	nsubjpass
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	heel	heel	NN	_	2	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	foot	foot	NN	_	5	pobj
+8	is	be	VBZ	_	9	auxpass
+9	caused	cause	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	several	several	JJ	_	13	amod
+12	different	different	JJ	_	13	amod
+13	conditions	condition	NNS	_	10	pobj
+14	.	.	.	_	9	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	manor	manor	NN	_	3	nsubj
+3	had	have	VBD	_	0	ROOT
+4	lands	land	NNS	_	3	dobj
+5	in	in	IN	_	4	prep
+6	Old	old	JJ	_	7	amod
+7	Thame	Thame	NNP	_	5	pobj
+8	,	,	,	_	7	punct
+9	Moreton	Moreton	NNP	_	7	conj
+10	and	and	CC	_	7	cc
+11	North	North	NNP	_	12	nn
+12	Weston	Weston	NNP	_	7	conj
+13	and	and	CC	_	12	cc
+14	property	property	NN	_	12	conj
+15	in	in	IN	_	7	prep
+16	New	New	NNP	_	17	nn
+17	Thame	Thame	NNP	_	15	pobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,20 @@
+1	He	he	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	went	go	VBD	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	to	to	TO	_	4	pcomp
+6	found	find	VBN	_	5	pcomp
+7	NeXT	NeXT	NNP	_	8	nn
+8	Inc.	Inc.	NNP	_	6	dobj
+9	,	,	,	_	8	punct
+10	a	a	DT	_	12	det
+11	computer	computer	NN	_	12	nn
+12	company	company	NN	_	8	appos
+13	that	that	WDT	_	14	nsubj
+14	built	build	VBD	_	12	rcmod
+15	machines	machine	NNS	_	14	dobj
+16	with	with	IN	_	14	prep
+17	futuristic	futuristic	JJ	_	18	amod
+18	designs	design	NNS	_	16	pobj
+19	.	.	.	_	3	punct
+

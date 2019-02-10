@@ -1,0 +1,25 @@
+1	The	the	DT	_	5	det
+2	average	average	JJ	_	5	amod
+3	year	year	NN	_	5	nn
+4	round	round	NN	_	5	nn
+5	temperature	temperature	NN	_	11	nsubj
+6	in	in	IN	_	5	prep
+7	Denia	Denia	NNP	_	6	pobj
+8	is	be	VBZ	_	11	cop
+9	18	18	CD	_	11	num
+10	'	'	''	_	11	punct
+11	centigrade	centigrade	NN	_	0	ROOT
+12	,	,	,	_	11	punct
+13	so	so	IN	_	17	mark
+14	the	the	DT	_	15	det
+15	locals	local	NNS	_	17	nsubj
+16	have	have	VBP	_	17	aux
+17	put	put	VBN	_	11	advcl
+18	up	up	RP	_	17	prt
+19	a	a	DT	_	20	det
+20	monument	monument	NN	_	17	dobj
+21	to	to	TO	_	17	prep
+22	the	the	DT	_	23	det
+23	weather	weather	NN	_	21	pobj
+24	.	.	.	_	11	punct
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	disruption	disruption	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	electricity	electricity	NN	_	7	nn
+5	and	and	CC	_	4	cc
+6	telecommunication	telecommunication	NN	_	4	conj
+7	lines	line	NNS	_	3	pobj
+8	have	have	VBP	_	9	aux
+9	thrown	throw	VBN	_	0	ROOT
+10	the	the	DT	_	11	det
+11	city	city	NN	_	9	dobj
+12	into	into	IN	_	9	prep
+13	darkness	darkness	NN	_	12	pobj
+14	.	.	.	_	9	punct
+

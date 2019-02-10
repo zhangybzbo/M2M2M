@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det
+2	musician	musician	NN	_	6	nsubj
+3	and	and	CC	_	2	cc
+4	instrument	instrument	NN	_	5	nn
+5	maker	maker	NN	_	2	conj
+6	makes	make	VBZ	_	0	ROOT
+7	dulcimers	dulcimer	NNS	_	6	dobj
+8	that	that	WDT	_	9	nsubj
+9	meet	meet	VBP	_	7	rcmod
+10	his	he	PRP$	_	13	poss
+11	own	own	JJ	_	13	amod
+12	demanding	demand	VBG	_	13	amod
+13	requirements	requirement	NNS	_	9	dobj
+14	as	as	IN	_	9	prep
+15	a	a	DT	_	16	det
+16	player	player	NN	_	14	pobj
+17	.	.	.	_	6	punct
+

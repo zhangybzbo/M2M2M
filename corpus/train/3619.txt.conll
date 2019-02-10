@@ -1,0 +1,20 @@
+1	Speaking	speak	VBG	_	8	vmod
+2	of	of	IN	_	1	prep
+3	nerdy	nerdy	JJ	_	4	amod
+4	sweaters	sweater	NNS	_	2	pobj
+5	,	,	,	_	8	punct
+6	my	my	PRP$	_	7	poss
+7	girlfriend	girlfriend	NN	_	8	nsubj
+8	knit	knit	VBD	_	0	ROOT
+9	me	I	PRP	_	8	iobj
+10	a	a	DT	_	12	det
+11	Mugatu	Mugatu	NNP	_	12	nn
+12	sweater	sweater	NN	_	8	dobj
+13	for	for	IN	_	8	prep
+14	xmas	xma	NNS	_	13	pobj
+15	a	a	DT	_	17	det
+16	few	few	JJ	_	17	amod
+17	years	year	NNS	_	18	npadvmod
+18	back	back	RB	_	8	advmod
+19	.	.	.	_	8	punct
+

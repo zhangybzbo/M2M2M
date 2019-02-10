@@ -1,0 +1,11 @@
+1	Seborrheic	seborrheic	JJ	_	2	amod
+2	dermatitis	dermatitis	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	causes	cause	NNS	_	5	pobj
+8	for	for	IN	_	7	prep
+9	dandruff	dandruff	NN	_	8	pobj
+10	.	.	.	_	4	punct
+

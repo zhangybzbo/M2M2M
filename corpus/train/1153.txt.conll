@@ -1,0 +1,9 @@
+1	Global	global	JJ	_	3	amod
+2	oil	oil	NN	_	3	nn
+3	prolongation	prolongation	NN	_	5	nsubj
+4	is	be	VBZ	_	5	aux
+5	approaching	approach	VBG	_	0	ROOT
+6	its	its	PRP$	_	7	poss
+7	peak	peak	NN	_	5	dobj
+8	.	.	.	_	5	punct
+

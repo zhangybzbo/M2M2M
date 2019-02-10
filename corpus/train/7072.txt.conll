@@ -1,0 +1,14 @@
+1	They	they	PRP	_	3	nsubj
+2	were	be	VBD	_	3	aux
+3	sailing	sail	VBG	_	0	ROOT
+4	the	the	DT	_	5	det
+5	ship	ship	NN	_	3	dobj
+6	away	away	RB	_	3	advmod
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	harbour	harbour	NN	_	10	nn
+10	laughing	laughing	NN	_	7	pobj
+11	and	and	CC	_	3	cc
+12	cheering	cheer	VBG	_	3	conj
+13	.	.	.	_	3	punct
+

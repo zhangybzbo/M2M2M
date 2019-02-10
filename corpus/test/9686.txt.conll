@@ -1,0 +1,27 @@
+1	A	a	DT	_	3	det
+2	7-month-old	7-month-old	JJ	_	3	amod
+3	baby	baby	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	locked	lock	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	11	det
+8	2-by-3	2-by-3	JJ	_	11	amod
+9	foot	foot	NN	_	11	nn
+10	cedar	cedar	NN	_	11	nn
+11	chest	chest	NN	_	6	pobj
+12	hidden	hide	VBN	_	11	vmod
+13	underneath	underneath	IN	_	12	prep
+14	her	she	PRP$	_	15	poss
+15	aunt	aunt	NN	_	17	poss
+16	's	's	POS	_	15	possessive
+17	bed	bed	NN	_	13	pobj
+18	for	for	IN	_	12	prep
+19	12	12	CD	_	20	num
+20	hours	hour	NNS	_	18	pobj
+21	before	before	IN	_	23	mark
+22	police	police	NN	_	23	nsubj
+23	found	find	VBD	_	5	advcl
+24	her	she	PRP$	_	25	poss
+25	Wednesday	Wednesday	NNP	_	23	tmod
+26	.	.	.	_	5	punct
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	hard	hard	JJ	_	3	amod
+3	drive	drive	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	forgotten	forget	VBN	_	0	ROOT
+6	placed	place	VBN	_	5	dep
+7	inside	inside	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	car	car	NN	_	7	pobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	13	nsubjpass
+12	was	be	VBD	_	13	auxpass
+13	ignited	ignite	VBN	_	9	rcmod
+14	.	.	.	_	5	punct
+

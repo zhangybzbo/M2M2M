@@ -1,0 +1,24 @@
+1	Dee	Dee	NNP	_	4	poss
+2	's	's	POS	_	1	possessive
+3	end	end	NN	_	4	nn
+4	caps	cap	NNS	_	5	nsubj
+5	make	make	VBP	_	0	ROOT
+6	pier	pier	NN	_	7	nsubj
+7	piling	pile	VBG	_	10	csubj
+8	sidewall	sidewall	NN	_	9	nn
+9	forms	form	NNS	_	7	dobj
+10	function	function	VBP	_	5	ccomp
+11	more	more	RBR	_	12	advmod
+12	efficiently	efficiently	RB	_	10	advmod
+13	by	by	IN	_	10	prep
+14	locking	lock	VBG	_	13	pcomp
+15	the	the	DT	_	16	det
+16	forms	form	NNS	_	14	dobj
+17	together	together	RB	_	14	advmod
+18	so	so	IN	_	20	mark
+19	they	they	PRP	_	20	nsubj
+20	stay	stay	VBP	_	14	advcl
+21	in	in	IN	_	20	prep
+22	place	place	NN	_	21	pobj
+23	.	.	.	_	5	punct
+

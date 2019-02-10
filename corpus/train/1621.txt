@@ -1,0 +1,1 @@
+The applet requires a browser that supports JDK 1.1.5 or above .

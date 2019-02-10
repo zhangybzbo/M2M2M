@@ -1,0 +1,22 @@
+1	They	they	PRP	_	2	nsubj
+2	looked	look	VBD	_	0	ROOT
+3	very	very	RB	_	4	advmod
+4	closely	closely	RB	_	2	advmod
+5	at	at	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	white	white	JJ	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	eye	eye	NN	_	8	pobj
+11	,	,	,	_	2	punct
+12	and	and	CC	_	2	cc
+13	saw	see	VBD	_	2	conj
+14	lines	line	NNS	_	13	dobj
+15	that	that	WDT	_	16	nsubj
+16	look	look	VBP	_	14	rcmod
+17	like	like	IN	_	16	prep
+18	tiny	tiny	JJ	_	20	amod
+19	pink	pink	JJ	_	20	amod
+20	threads	thread	NNS	_	17	pobj
+21	.	.	.	_	2	punct
+

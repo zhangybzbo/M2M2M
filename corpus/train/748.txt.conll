@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	implant	implant	VBP	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	placed	place	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	jaw	jaw	NN	_	8	nn
+8	bone	bone	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

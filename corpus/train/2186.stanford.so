@@ -1,0 +1,13 @@
+0	52	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t1"
+2	7	tok id="t1" base="find" pos="VBD" ROOT="ROOT"
+8	9	tok id="t2" base="a" pos="DT" det="t3"
+10	16	tok id="t3" base="bottle" pos="NN" dobj="t1"
+17	21	tok id="t4" base="with" pos="IN" prep="t1"
+22	23	tok id="t5" base="5" pos="CD" num="t6"
+24	34	tok id="t6" base="fentermine" pos="NN" pobj="t4"
+35	37	tok id="t7" base="in" pos="IN" prep="t6"
+38	40	tok id="t8" base="it" pos="PRP" pobj="t7"
+41	50	tok id="t9" base="yesterday" pos="NN" tmod="t1"
+51	52	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

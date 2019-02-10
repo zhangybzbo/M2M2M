@@ -1,0 +1,17 @@
+1	Recessions	recession	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	excess	excess	JJ	_	7	amod
+7	demand	demand	NN	_	4	pobj
+8	for	for	IN	_	7	prep
+9	money	money	NN	_	8	pobj
+10	combined	combine	VBN	_	9	vmod
+11	with	with	IN	_	10	prep
+12	rational	rational	JJ	_	15	amod
+13	downward	downward	JJ	_	15	amod
+14	price	price	NN	_	15	nn
+15	rigidity	rigidity	NN	_	11	pobj
+16	.	.	.	_	3	punct
+

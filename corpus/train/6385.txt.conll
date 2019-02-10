@@ -1,0 +1,13 @@
+1	Earthquakes	earthquake	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	discharge	discharge	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	accumulated	accumulate	VBN	_	7	pcomp
+9	along	along	IN	_	8	prep
+10	geologic	geologic	JJ	_	11	amod
+11	faults	fault	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

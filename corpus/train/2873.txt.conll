@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj
+2	included	include	VBD	_	0	ROOT
+3	sections	section	NNS	_	2	dobj
+4	dealing	deal	VBG	_	3	vmod
+5	with	with	IN	_	4	prep
+6	labour	labour	NN	_	7	nn
+7	markets	market	NNS	_	5	pobj
+8	,	,	,	_	3	punct
+9	domestic	domestic	JJ	_	10	amod
+10	taxation	taxation	NN	_	3	appos
+11	,	,	,	_	10	punct
+12	economic	economic	JJ	_	14	amod
+13	activation	activation	NN	_	14	nn
+14	policies	policy	NNS	_	10	conj
+15	,	,	,	_	10	punct
+16	and	and	CC	_	10	cc
+17	financial	financial	JJ	_	19	amod
+18	market	market	NN	_	19	nn
+19	regulation	regulation	NN	_	10	conj
+20	.	.	.	_	2	punct
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	barn	barn	NN	_	18	nsubjpass
+3	on	on	IN	_	2	prep
+4	her	she	PRP$	_	5	poss
+5	dad	dad	NN	_	7	poss
+6	's	's	POS	_	5	possessive
+7	farm	farm	NN	_	3	pobj
+8	that	that	IN	_	10	dobj
+9	he	he	PRP	_	10	nsubj
+10	cultivated	cultivate	VBD	_	2	rcmod
+11	from	from	IN	_	10	prep
+12	1963	1963	CD	_	11	pobj
+13	until	until	IN	_	10	prep
+14	the	the	DT	_	15	det
+15	mid-1990s	mid-1990	NNS	_	13	pobj
+16	,	,	,	_	18	punct
+17	was	be	VBD	_	18	auxpass
+18	restored	restore	VBN	_	0	ROOT
+19	.	.	.	_	18	punct
+

@@ -1,0 +1,10 @@
+1	U.S.	U.S.	NNP	_	2	nn
+2	astronauts	astronaut	NNS	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	weapons	weapon	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	space	space	NN	_	5	pobj
+7	with	with	IN	_	3	prep
+8	them	they	PRP	_	7	pobj
+9	.	.	.	_	3	punct
+

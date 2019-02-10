@@ -1,0 +1,21 @@
+1	James	James	NNP	_	3	nn
+2	P.	P.	NNP	_	3	nn
+3	Gorman	Gorman	NNP	_	4	nsubj
+4	greeted	greet	VBD	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	employees	employee	NNS	_	4	dobj
+7	on	on	IN	_	4	prep
+8	Tuesday	Tuesday	NNP	_	7	pobj
+9	with	with	IN	_	4	prep
+10	a	a	DT	_	11	det
+11	memorandum	memorandum	NN	_	9	pobj
+12	that	that	WDT	_	13	nsubj
+13	outlined	outline	VBD	_	11	rcmod
+14	the	the	DT	_	16	det
+15	management	management	NN	_	16	nn
+16	changes	change	NNS	_	13	dobj
+17	at	at	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	firm	firm	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

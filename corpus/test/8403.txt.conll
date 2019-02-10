@@ -1,0 +1,26 @@
+1	The	the	DT	_	4	det
+2	current	current	JJ	_	4	amod
+3	Iraqi	iraqi	JJ	_	4	amod
+4	government	government	NN	_	6	nsubj
+5	is	be	VBZ	_	6	aux
+6	seeking	seek	VBG	_	0	ROOT
+7	financial	financial	JJ	_	8	amod
+8	compensation	compensation	NN	_	6	dobj
+9	from	from	IN	_	8	prep
+10	Israel	Israel	NNP	_	9	pobj
+11	for	for	IN	_	8	prep
+12	the	the	DT	_	13	det
+13	damage	damage	NN	_	11	pobj
+14	caused	cause	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	bombing	bombing	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	Osirak	Osirak	NNP	_	22	nn
+21	nuclear	nuclear	JJ	_	22	amod
+22	reactor	reactor	NN	_	18	pobj
+23	in	in	IN	_	17	prep
+24	1981	1981	CD	_	23	pobj
+25	.	.	.	_	6	punct
+

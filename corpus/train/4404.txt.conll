@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	act	act	NN	_	3	nsubj
+3	applies	apply	VBZ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	contracts	contract	NNS	_	4	pobj
+6	or	or	CC	_	5	cc
+7	agreements	agreement	NNS	_	5	conj
+8	among	among	IN	_	5	prep
+9	competing	compete	VBG	_	10	amod
+10	manufacturers	manufacturer	NNS	_	8	pobj
+11	and	and	CC	_	10	cc
+12	distributors	distributor	NNS	_	10	conj
+13	.	.	.	_	3	punct
+

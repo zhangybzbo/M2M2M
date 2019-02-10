@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	storm	storm	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	31	31	CD	_	6	num
+6	deaths	death	NNS	_	4	pobj
+7	and	and	CC	_	6	cc
+8	2.5	2.5	CD	_	9	number
+9	million	million	CD	_	10	num
+10	dollars	dollar	NNS	_	6	conj
+11	damage	damage	NN	_	10	dep
+12	.	.	.	_	3	punct
+

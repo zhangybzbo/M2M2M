@@ -1,0 +1,13 @@
+1	These	these	DT	_	3	det
+2	two	two	CD	_	3	num
+3	ports	port	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	specialized	specialize	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	manufacture	manufacture	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	luxury	luxury	NN	_	11	nn
+11	goods	goods	NNS	_	9	pobj
+12	.	.	.	_	5	punct
+

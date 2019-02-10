@@ -1,0 +1,20 @@
+1	Francis	Francis	NNP	_	2	nn
+2	Hauksbee	Hauksbee	NNP	_	3	nsubj
+3	proves	prove	VBZ	_	0	ROOT
+4	that	that	IN	_	3	prep
+5	sound	sound	JJ	_	7	amod
+6	needs	need	NNS	_	7	nn
+7	air	air	NN	_	4	pobj
+8	to	to	TO	_	9	aux
+9	travel	travel	VB	_	7	vmod
+10	,	,	,	_	9	punct
+11	by	by	IN	_	9	prep
+12	experiments	experiment	NNS	_	11	pobj
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	clock	clock	NN	_	13	pobj
+16	inside	inside	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	vacuum	vacuum	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

@@ -1,0 +1,16 @@
+1	Thousands	thousand	NNS	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	women	woman	NNS	_	2	pobj
+4	suffer	suffer	VBP	_	0	ROOT
+5	headaches	headache	NNS	_	4	dobj
+6	from	from	IN	_	5	prep
+7	caffeine	caffeine	NN	_	8	nn
+8	withdrawal	withdrawal	NN	_	6	pobj
+9	as	as	IN	_	4	prep
+10	a	a	DT	_	11	det
+11	result	result	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	this	this	DT	_	14	det
+14	study	study	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

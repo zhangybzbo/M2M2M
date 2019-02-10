@@ -1,0 +1,10 @@
+0	55	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="frequent" pos="JJ" amod="t1"
+9	19	tok id="t1" base="agitation" pos="NNS" nsubj="t2"
+20	25	tok id="t2" base="throw" pos="VBP" ROOT="ROOT"
+26	34	tok id="t3" base="academic" pos="JJ" amod="t4"
+35	39	tok id="t4" base="life" pos="NN" dobj="t2"
+40	44	tok id="t5" base="into" pos="IN" prep="t2"
+45	53	tok id="t6" base="disarray" pos="NN" pobj="t5"
+54	55	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

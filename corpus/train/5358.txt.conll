@@ -1,0 +1,22 @@
+1	After	after	IN	_	7	prep
+2	some	some	DT	_	3	det
+3	time	time	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	acids	acid	NNS	_	7	nsubj
+7	caused	cause	VBD	_	0	ROOT
+8	a	a	DT	_	10	det
+9	white	white	JJ	_	10	amod
+10	spot	spot	NN	_	7	dobj
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	tooth	tooth	NN	_	11	pobj
+14	where	where	WRB	_	16	advmod
+15	they	they	PRP	_	16	nsubj
+16	dissolved	dissolve	VBD	_	13	rcmod
+17	some	some	DT	_	16	dobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	enamel	enamel	NN	_	18	pobj
+21	.	.	.	_	7	punct
+

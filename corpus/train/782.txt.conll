@@ -1,0 +1,26 @@
+1	His	he	PRP$	_	3	poss
+2	famous	famous	JJ	_	3	amod
+3	book	book	NN	_	9	nsubj
+4	telling	tell	VBG	_	3	vmod
+5	of	of	IN	_	4	prep
+6	his	he	PRP$	_	7	poss
+7	explorations	exploration	NNS	_	5	pobj
+8	is	be	VBZ	_	9	cop
+9	valuable	valuable	JJ	_	0	ROOT
+10	not	not	RB	_	11	neg
+11	only	only	RB	_	12	preconj
+12	for	for	IN	_	9	prep
+13	its	its	PRP$	_	17	poss
+14	botanical	botanical	JJ	_	17	amod
+15	and	and	CC	_	14	cc
+16	ethnological	ethnological	JJ	_	14	conj
+17	record	record	NN	_	12	pobj
+18	but	but	CC	_	19	cc
+19	also	also	RB	_	12	cc
+20	for	for	IN	_	12	conj
+21	its	its	PRP$	_	22	poss
+22	poetry	poetry	NN	_	20	pobj
+23	and	and	CC	_	22	cc
+24	narrative	narrative	NN	_	22	conj
+25	.	.	.	_	9	punct
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	boy	boy	NN	_	3	nsubj
+3	inserted	insert	VBN	_	0	ROOT
+4	pepper	pepper	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	his	he	PRP$	_	8	poss
+7	little	little	JJ	_	8	amod
+8	brother	brother	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	toy	toy	NN	_	5	pobj
+11	.	.	.	_	3	punct
+

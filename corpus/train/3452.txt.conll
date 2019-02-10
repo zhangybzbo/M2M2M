@@ -1,0 +1,20 @@
+1	Focusing	focus	VBG	_	0	ROOT
+2	on	on	IN	_	1	prep
+3	chronic	chronic	JJ	_	2	pobj
+4	dumping	dump	VBG	_	3	vmod
+5	areas	area	NNS	_	4	dobj
+6	the	the	DT	_	7	det
+7	group	group	NN	_	8	nsubj
+8	began	begin	VBD	_	5	rcmod
+9	enforcement	enforcement	NN	_	10	nn
+10	action	action	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	surveillance	surveillance	NN	_	13	nn
+13	cameras	camera	NNS	_	11	pobj
+14	and	and	CC	_	13	cc
+15	day	day	NN	_	13	conj
+16	and	and	CC	_	13	cc
+17	night	night	NN	_	18	nn
+18	patrols	patrol	NNS	_	13	conj
+19	.	.	.	_	1	punct
+

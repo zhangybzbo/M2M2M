@@ -1,0 +1,23 @@
+1	The	the	DT	_	4	det
+2	white	white	JJ	_	4	amod
+3	plastic	plastic	NN	_	4	nn
+4	cup	cup	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	put	put	VBN	_	17	csubjpass
+7	inside	inside	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	large	large	JJ	_	10	amod
+10	cup	cup	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	100	100	CD	_	15	num
+13	Formosan	formosan	JJ	_	15	amod
+14	subterranean	subterranean	JJ	_	15	amod
+15	termites	termite	NNS	_	10	conj
+16	were	be	VBD	_	17	auxpass
+17	released	release	VBN	_	0	ROOT
+18	inside	inside	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	large	large	JJ	_	21	amod
+21	cup	cup	NN	_	18	pobj
+22	.	.	.	_	17	punct
+

@@ -1,0 +1,24 @@
+1	Newer	newer	JJR	_	3	amod
+2	damper	damper	NN	_	3	nn
+3	designs	design	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	tested	test	VBN	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	accommodate	accommodate	VB	_	6	xcomp
+9	a	a	DT	_	10	det
+10	cadre	cadre	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	various	various	JJ	_	15	amod
+13	flanged	flanged	JJ	_	15	amod
+14	connection	connection	NN	_	15	nn
+15	combinations	combination	NNS	_	11	pobj
+16	to	to	TO	_	17	aux
+17	comply	comply	VB	_	8	vmod
+18	with	with	IN	_	17	prep
+19	UL	UL	NNP	_	22	poss
+20	's	's	POS	_	19	possessive
+21	breakaway	breakaway	JJ	_	22	amod
+22	requirements	requirement	NNS	_	18	pobj
+23	.	.	.	_	6	punct
+

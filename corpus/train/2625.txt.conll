@@ -1,0 +1,10 @@
+1	My	my	PRP$	_	4	poss
+2	credit	credit	NN	_	4	nn
+3	card	card	NN	_	4	nn
+4	bill	bill	NN	_	6	nsubj
+5	is	be	VBZ	_	6	aux
+6	approaching	approach	VBG	_	0	ROOT
+7	its	its	PRP$	_	8	poss
+8	limits	limit	NNS	_	6	dobj
+9	.	.	.	_	6	punct
+

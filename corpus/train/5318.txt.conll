@@ -1,0 +1,26 @@
+1	Other	other	JJ	_	2	amod
+2	reports	report	NNS	_	3	nsubj
+3	talk	talk	VBP	_	0	ROOT
+4	about	about	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	former	former	JJ	_	8	amod
+7	government	government	NN	_	8	nn
+8	troops	troops	NNS	_	4	pobj
+9	that	that	WDT	_	11	nsubj
+10	are	be	VBP	_	11	aux
+11	holding	hold	VBG	_	8	rcmod
+12	out	out	RP	_	11	prt
+13	in	in	IN	_	11	prep
+14	other	other	JJ	_	15	amod
+15	regions	region	NNS	_	13	pobj
+16	of	of	IN	_	15	prep
+17	Sierra	Sierra	NNP	_	18	nn
+18	Leone	Leone	NNP	_	16	pobj
+19	,	,	,	_	3	punct
+20	particularly	particularly	RB	_	22	advmod
+21	the	the	DT	_	22	det
+22	town	town	NN	_	3	dep
+23	of	of	IN	_	22	prep
+24	Makeni	Makeni	NNP	_	23	pobj
+25	.	.	.	_	3	punct
+

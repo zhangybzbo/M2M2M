@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	aux
+5	dumping	dump	VBG	_	0	ROOT
+6	huge	huge	JJ	_	7	amod
+7	amount	amount	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	money	money	NN	_	8	pobj
+10	into	into	IN	_	5	prep
+11	the	the	DT	_	13	det
+12	devastated	devastate	VBN	_	13	amod
+13	economy	economy	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

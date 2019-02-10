@@ -1,0 +1,20 @@
+1	Knee	knee	NN	_	2	nn
+2	injuries	injury	NNS	_	6	nsubjpass
+3	from	from	IN	_	2	prep
+4	running	run	VBG	_	3	pcomp
+5	are	be	VBP	_	6	auxpass
+6	treated	treat	VBN	_	0	ROOT
+7	and	and	CC	_	6	cc
+8	prevented	prevent	VBN	_	6	conj
+9	by	by	IN	_	8	prep
+10	following	follow	VBG	_	9	pcomp
+11	tips	tip	NNS	_	10	pobj
+12	and	and	CC	_	11	cc
+13	performing	perform	VBG	_	14	amod
+14	stretches	stretch	NNS	_	11	conj
+15	from	from	IN	_	14	prep
+16	Runner	Runner	NNP	_	18	poss
+17	's	's	POS	_	16	possessive
+18	World.com	World.com	NNP	_	15	pobj
+19	.	.	.	_	6	punct
+

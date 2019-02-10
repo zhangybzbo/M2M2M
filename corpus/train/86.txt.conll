@@ -1,0 +1,24 @@
+1	Unlike	unlike	IN	_	6	prep
+2	other	other	JJ	_	3	amod
+3	fish	fish	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	grunion	grunion	NN	_	6	nsubj
+6	come	come	VBN	_	0	ROOT
+7	out	out	IN	_	6	prep
+8	of	of	IN	_	7	pcomp
+9	the	the	DT	_	10	det
+10	water	water	NN	_	8	pobj
+11	completely	completely	RB	_	6	advmod
+12	to	to	TO	_	13	aux
+13	lay	lay	VB	_	6	xcomp
+14	their	they	PRP$	_	15	poss
+15	eggs	egg	NNS	_	13	dobj
+16	in	in	IN	_	13	prep
+17	the	the	DT	_	19	det
+18	wet	wet	JJ	_	19	amod
+19	sand	sand	NN	_	16	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	beach	beach	NN	_	20	pobj
+23	.	.	.	_	6	punct
+

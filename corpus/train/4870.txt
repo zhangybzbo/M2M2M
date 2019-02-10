@@ -1,0 +1,1 @@
+For the satellite with rotors , one must include the effects of p as well ; this modification , consistent with -LRB- 2.2 -RRB- , is given in -LRB- 4.3 -RRB- .

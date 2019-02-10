@@ -1,0 +1,25 @@
+1	One	one	CD	_	15	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	best	best	JJS	_	5	amod
+5	resources	resource	NNS	_	2	pobj
+6	for	for	IN	_	5	prep
+7	programmers	programmer	NNS	_	6	pobj
+8	is	be	VBZ	_	15	cop
+9	the	the	DT	_	15	det
+10	excellent	excellent	JJ	_	15	amod
+11	-LRB-	-lrb-	-LRB-	_	13	punct
+12	and	and	CC	_	13	cc
+13	free	free	JJ	_	10	dep
+14	-RRB-	-rrb-	-RRB-	_	13	punct
+15	book	book	NN	_	0	ROOT
+16	Small	small	JJ	_	17	amod
+17	Memory	memory	NN	_	15	dep
+18	by	by	IN	_	17	prep
+19	Charles	Charles	NNP	_	20	nn
+20	Weir	Weir	NNP	_	18	pobj
+21	and	and	CC	_	20	cc
+22	James	James	NNP	_	23	nn
+23	Noble	Noble	NNP	_	20	conj
+24	.	.	.	_	15	punct
+

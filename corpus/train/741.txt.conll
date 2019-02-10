@@ -1,0 +1,13 @@
+1	Three	three	CD	_	3	num
+2	shark	shark	NN	_	3	nn
+3	attacks	attack	NNS	_	7	nsubj
+4	in	in	IN	_	3	prep
+5	24	24	CD	_	6	num
+6	hours	hour	NNS	_	4	pobj
+7	threw	throw	VBD	_	0	ROOT
+8	local	local	JJ	_	9	amod
+9	people	people	NNS	_	7	dobj
+10	into	into	IN	_	7	prep
+11	panic	panic	NN	_	10	pobj
+12	.	.	.	_	7	punct
+

@@ -1,0 +1,24 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	driver	driver	NN	_	4	nsubj
+4	passed	pass	VBD	_	11	advcl
+5	Venne	Venne	NNP	_	4	dobj
+6	,	,	,	_	11	punct
+7	one	one	CD	_	11	nsubj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	hooks	hook	NNS	_	8	pobj
+11	caught	catch	VBD	_	0	ROOT
+12	the	the	DT	_	13	det
+13	cyclist	cyclist	NN	_	11	dobj
+14	,	,	,	_	11	punct
+15	dragging	drag	VBG	_	11	vmod
+16	him	he	PRP	_	15	dobj
+17	under	under	IN	_	15	prep
+18	the	the	DT	_	19	det
+19	wheels	wheel	NNS	_	17	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	truck	truck	NN	_	20	pobj
+23	.	.	.	_	11	punct
+

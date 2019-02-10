@@ -1,0 +1,16 @@
+1	This	this	DT	_	4	det
+2	traditional	traditional	JJ	_	4	amod
+3	country	country	NN	_	4	nn
+4	fiddler	fiddler	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	distinguished	distinguish	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	his	he	PRP$	_	10	poss
+9	urban	urban	JJ	_	10	amod
+10	colleague	colleague	NN	_	7	pobj
+11	by	by	IN	_	6	prep
+12	his	he	PRP$	_	14	poss
+13	nonstandardized	nonstandardized	JJ	_	14	amod
+14	technique	technique	NN	_	11	pobj
+15	.	.	.	_	6	punct
+

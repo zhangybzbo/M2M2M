@@ -1,0 +1,1 @@
+A warehouse user with limited authority can not crate the required bufferpool .

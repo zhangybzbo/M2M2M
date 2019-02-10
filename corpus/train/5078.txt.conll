@@ -1,0 +1,16 @@
+1	Millions	million	NNS	_	5	nsubjpass
+2	of	of	IN	_	1	prep
+3	dollars	dollar	NNS	_	2	pobj
+4	are	be	VBP	_	5	auxpass
+5	poured	pour	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	research	research	NN	_	6	pobj
+8	for	for	IN	_	5	prep
+9	the	the	DT	_	11	det
+10	innermost	innermost	NN	_	11	nn
+11	recesses	recess	NNS	_	8	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	atom	atom	NN	_	12	pobj
+15	.	.	.	_	5	punct
+

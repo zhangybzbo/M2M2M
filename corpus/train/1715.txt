@@ -1,0 +1,1 @@
+This happens when a collecting agent inadvertently applies the PNS discount to an ineligible vessel .

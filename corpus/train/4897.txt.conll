@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	ship	ship	NN	_	3	nsubj
+3	sailed	sail	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	port	port	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	Site	site	NN	_	7	pobj
+9	,	,	,	_	3	punct
+10	near	near	IN	_	3	prep
+11	Marseilles	Marseilles	NNP	_	10	pobj
+12	,	,	,	_	3	punct
+13	on	on	IN	_	3	prep
+14	July	July	NNP	_	13	pobj
+15	11	11	CD	_	14	num
+16	,	,	,	_	14	punct
+17	1947	1947	CD	_	14	num
+18	,	,	,	_	3	punct
+19	with	with	IN	_	3	prep
+20	4515	4515	CD	_	21	num
+21	immigrants	immigrant	NNS	_	19	pobj
+22	.	.	.	_	3	punct
+

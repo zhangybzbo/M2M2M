@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	decision	decision	NN	_	10	nsubj
+3	to	to	TO	_	4	aux
+4	take	take	VB	_	2	vmod
+5	the	the	DT	_	6	det
+6	meeting	meeting	NN	_	4	dobj
+7	on	on	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	road	road	NN	_	7	pobj
+10	gave	give	VBD	_	0	ROOT
+11	groups	group	NNS	_	10	dobj
+12	around	around	IN	_	10	prep
+13	the	the	DT	_	14	det
+14	world	world	NN	_	12	pobj
+15	the	the	DT	_	16	det
+16	opportunity	opportunity	NN	_	10	dobj
+17	to	to	TO	_	16	prep
+18	host	host	NN	_	21	nn
+19	future	future	NN	_	21	nn
+20	Keele	Keele	NNP	_	21	nn
+21	Meetings	meeting	NNS	_	17	pobj
+22	.	.	.	_	10	punct
+

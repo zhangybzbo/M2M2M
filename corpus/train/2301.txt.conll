@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	funds	fund	NNS	_	7	nsubj
+3	raised	raise	VBN	_	2	vmod
+4	through	through	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	appeal	appeal	NN	_	4	pobj
+7	have	have	VBP	_	0	ROOT
+8	a	a	DT	_	10	det
+9	direct	direct	JJ	_	10	amod
+10	impact	impact	NN	_	7	dobj
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	people	people	NNS	_	11	pobj
+14	affected	affect	VBN	_	13	vmod
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	severe	severe	JJ	_	18	amod
+18	devastations	devastation	NNS	_	15	pobj
+19	caused	cause	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	storms	storm	NNS	_	20	pobj
+23	.	.	.	_	7	punct
+

@@ -1,0 +1,21 @@
+1	This	this	DT	_	3	det
+2	delightful	delightful	JJ	_	3	amod
+3	tale	tale	NN	_	5	nsubj
+4	humorously	humorously	RB	_	5	advmod
+5	makes	make	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	point	point	NN	_	5	dobj
+8	that	that	IN	_	15	mark
+9	the	the	DT	_	11	det
+10	greatest	greatest	JJS	_	11	amod
+11	risk	risk	NN	_	15	nsubj
+12	in	in	IN	_	11	prep
+13	life	life	NN	_	12	pobj
+14	may	may	MD	_	15	aux
+15	be	be	VB	_	7	ccomp
+16	in	in	IN	_	15	prep
+17	not	not	RB	_	18	neg
+18	taking	take	VBG	_	16	pcomp
+19	one	one	CD	_	18	dobj
+20	.	.	.	_	5	punct
+

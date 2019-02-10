@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	day	day	NN	_	15	tmod
+3	after	after	IN	_	6	mark
+4	they	they	PRP	_	6	nsubj
+5	had	have	VBD	_	6	aux
+6	marvelled	marvel	VBN	_	15	advcl
+7	at	at	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	fluther	fluther	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	jellyfish	jellyfish	NN	_	10	pobj
+12	,	,	,	_	15	punct
+13	the	the	DT	_	14	det
+14	girl	girl	NN	_	15	nsubj
+15	looked	look	VBD	_	0	ROOT
+16	up	up	RB	_	15	advmod
+17	and	and	CC	_	15	cc
+18	frowned	frown	VBN	_	15	conj
+19	in	in	IN	_	18	prep
+20	confusion	confusion	NN	_	19	pobj
+21	.	.	.	_	15	punct
+

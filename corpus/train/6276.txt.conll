@@ -1,0 +1,9 @@
+1	Five	five	CD	_	3	num
+2	ancient	ancient	JJ	_	3	amod
+3	temples	temple	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	fallen	fall	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	disrepair	disrepair	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

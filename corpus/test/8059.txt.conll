@@ -1,0 +1,25 @@
+1	Poodles	Poodles	NNP	_	9	nsubj
+2	of	of	IN	_	1	prep
+3	all	all	DT	_	4	det
+4	types	type	NNS	_	2	pobj
+5	were	be	VBD	_	9	cop
+6	the	the	DT	_	9	det
+7	ideal	ideal	JJ	_	9	amod
+8	circus	circus	NN	_	9	nn
+9	dogs	dog	NNS	_	0	ROOT
+10	when	when	WRB	_	12	advmod
+11	not	not	RB	_	12	neg
+12	dyed	dye	VBN	_	9	rcmod
+13	pink	pink	NN	_	12	dobj
+14	and	and	CC	_	12	cc
+15	wearing	wear	VBG	_	12	conj
+16	diamond	diamond	NN	_	17	nn
+17	colliers	collier	NNS	_	15	dobj
+18	in	in	IN	_	15	prep
+19	Via	Via	NNP	_	18	pobj
+20	Veneto	Veneto	NNP	_	19	dep
+21	or	or	CC	_	20	cc
+22	Maxim	Maxim	NNP	_	20	conj
+23	's	's	POS	_	20	possessive
+24	.	.	.	_	9	punct
+

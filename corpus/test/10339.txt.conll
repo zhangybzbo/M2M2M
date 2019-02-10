@@ -1,0 +1,22 @@
+1	Accidentally	accidentally	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	one	one	CD	_	4	num
+4	worker	worker	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	locked	lock	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	refrigerator	refrigerator	NN	_	10	nn
+10	boxcar	boxcar	NN	_	7	pobj
+11	,	,	,	_	6	punct
+12	and	and	CC	_	6	cc
+13	the	the	DT	_	14	det
+14	rest	rest	NN	_	18	nsubj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	workmen	workman	NNS	_	15	pobj
+18	left	leave	VBD	_	6	conj
+19	the	the	DT	_	20	det
+20	site	site	NN	_	18	dobj
+21	.	.	.	_	6	punct
+

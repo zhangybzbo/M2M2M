@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	stem	stem	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	plant	plant	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	used	use	VBN	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	making	make	VBG	_	8	pcomp
+10	mats	mat	NNS	_	9	dobj
+11	for	for	IN	_	10	prep
+12	floor	floor	NN	_	11	pobj
+13	covering	cover	VBG	_	12	vmod
+14	as	as	RB	_	15	advmod
+15	well	well	RB	_	13	cc
+16	as	as	IN	_	15	mwe
+17	decoration	decoration	NN	_	13	conj
+18	.	.	.	_	7	punct
+

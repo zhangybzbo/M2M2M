@@ -1,0 +1,26 @@
+1	As	as	RB	_	2	advmod
+2	soon	soon	RB	_	11	advmod
+3	as	as	IN	_	7	mark
+4	the	the	DT	_	5	det
+5	ceremony	ceremony	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	done	do	VBN	_	2	advcl
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	couple	couple	NN	_	11	nsubj
+11	holds	hold	VBZ	_	0	ROOT
+12	a	a	DT	_	13	det
+13	bottle	bottle	NN	_	11	dobj
+14	with	with	IN	_	11	prep
+15	love	love	NN	_	16	nn
+16	testimony	testimony	NN	_	14	pobj
+17	in	in	IN	_	16	prep
+18	it	it	PRP	_	17	pobj
+19	and	and	CC	_	11	cc
+20	puts	put	VBZ	_	11	conj
+21	it	it	PRP	_	20	dobj
+22	into	into	IN	_	20	prep
+23	the	the	DT	_	24	det
+24	ocean	ocean	NN	_	22	pobj
+25	.	.	.	_	11	punct
+

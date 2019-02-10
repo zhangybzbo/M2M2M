@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	world	world	NN	_	5	poss
+3	's	's	POS	_	2	possessive
+4	largest	largest	JJS	_	5	amod
+5	shipyard	shipyard	NN	_	8	nsubj
+6	in	in	IN	_	5	prep
+7	Ulsan	Ulsan	NNP	_	6	pobj
+8	slips	slip	VBZ	_	0	ROOT
+9	a	a	DT	_	14	det
+10	newly-built	newly-built	JJ	_	14	amod
+11	,	,	,	_	14	punct
+12	multi-million	multi-million	JJ	_	14	amod
+13	dollar	dollar	NN	_	14	nn
+14	vessel	vessel	NN	_	8	dobj
+15	into	into	IN	_	8	prep
+16	the	the	DT	_	17	det
+17	water	water	NN	_	15	pobj
+18	every	every	DT	_	21	det
+19	four	four	CD	_	21	num
+20	working	work	VBG	_	21	amod
+21	days	day	NNS	_	8	tmod
+22	.	.	.	_	8	punct
+

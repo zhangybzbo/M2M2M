@@ -1,0 +1,3 @@
+T1	Term 4 11	cathode
+T2	Term 18 27	electrons
+R1	Cause-Effect Arg1:T1 Arg2:T2

@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	model	model	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	approved	approve	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	as	as	IN	_	5	pcomp
+7	the	the	DT	_	9	det
+8	top	top	JJ	_	9	amod
+9	design	design	NN	_	6	pobj
+10	by	by	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	professional	professional	JJ	_	13	amod
+13	panel	panel	NN	_	10	pobj
+14	;	;	:	_	4	punct
+15	however	however	RB	_	20	advmod
+16	,	,	,	_	20	punct
+17	it	it	PRP	_	20	nsubjpass
+18	was	be	VBD	_	20	auxpass
+19	later	later	RB	_	20	advmod
+20	exhibited	exhibit	VBN	_	4	parataxis
+21	for	for	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	public	public	NN	_	21	pobj
+24	.	.	.	_	4	punct
+

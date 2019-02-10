@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	most	most	RBS	_	3	advmod
+3	significant	significant	JJ	_	10	nsubj
+4	is	be	VBZ	_	10	cop
+5	a	a	DT	_	10	det
+6	well-preserved	well-preserved	JJ	_	10	amod
+7	black	black	JJ	_	10	amod
+8	and	and	CC	_	7	cc
+9	white	white	JJ	_	7	conj
+10	mosaic	mosaic	NN	_	0	ROOT
+11	for	for	IN	_	16	prep
+12	which	which	WDT	_	11	pobj
+13	the	the	DT	_	14	det
+14	authority	authority	NN	_	16	nsubj
+15	has	have	VBZ	_	16	aux
+16	given	give	VBN	_	10	rcmod
+17	a	a	DT	_	19	det
+18	provisional	provisional	JJ	_	19	amod
+19	translation	translation	NN	_	16	dobj
+20	.	.	.	_	10	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	discomfort	discomfort	NN	_	8	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	injury	injury	NN	_	3	pobj
+6	was	be	VBD	_	8	aux
+7	now	now	RB	_	8	advmod
+8	precluding	preclude	VBG	_	0	ROOT
+9	him	he	PRP	_	8	dobj
+10	from	from	IN	_	8	prep
+11	his	he	PRP$	_	12	poss
+12	occupation	occupation	NN	_	10	pobj
+13	which	which	WDT	_	14	nsubj
+14	involved	involve	VBD	_	12	rcmod
+15	prolonged	prolonged	JJ	_	16	amod
+16	procedures	procedure	NNS	_	14	dobj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	standing	standing	NN	_	20	nn
+20	position	position	NN	_	17	pobj
+21	.	.	.	_	8	punct
+

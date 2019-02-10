@@ -1,0 +1,17 @@
+1	Picture	Picture	NNP	_	3	nsubj
+2	192	192	CD	_	1	num
+3	shows	show	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	completed	complete	VBN	_	6	amod
+6	dowel	dowel	NN	_	3	dobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	small	small	JJ	_	10	amod
+10	groove	groove	NN	_	7	pobj
+11	running	run	VBG	_	10	vmod
+12	along	along	IN	_	11	prep
+13	its	its	PRP$	_	15	poss
+14	entire	entire	JJ	_	15	amod
+15	length	length	NN	_	12	pobj
+16	.	.	.	_	3	punct
+

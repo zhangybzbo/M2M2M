@@ -1,0 +1,13 @@
+1	Liver	liver	NN	_	2	nsubj
+2	plays	play	VBZ	_	0	ROOT
+3	key	key	JJ	_	4	amod
+4	role	role	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	how	how	WRB	_	8	advmod
+7	steroids	steroid	NNS	_	8	nsubj
+8	cause	cause	VBP	_	5	pcomp
+9	diabetes	diabetes	NN	_	8	dobj
+10	and	and	CC	_	9	cc
+11	hypertension	hypertension	NN	_	9	conj
+12	.	.	.	_	2	punct
+

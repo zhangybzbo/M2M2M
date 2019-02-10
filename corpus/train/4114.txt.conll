@@ -1,0 +1,18 @@
+1	Criminal	Criminal	NNP	_	2	nn
+2	procedure	procedure	NN	_	3	nsubj
+3	refers	refer	VBZ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	7	det
+6	legal	legal	JJ	_	7	amod
+7	process	process	NN	_	4	pobj
+8	for	for	IN	_	7	prep
+9	adjudicating	adjudicate	VBG	_	10	amod
+10	claims	claim	NNS	_	8	pobj
+11	that	that	IN	_	14	mark
+12	someone	someone	NN	_	14	nsubj
+13	has	have	VBZ	_	14	aux
+14	violated	violate	VBN	_	10	ccomp
+15	criminal	criminal	JJ	_	16	amod
+16	law	law	NN	_	14	dobj
+17	.	.	.	_	3	punct
+

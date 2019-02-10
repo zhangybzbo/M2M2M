@@ -1,0 +1,11 @@
+0	55	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Norway" pos="NNP" nsubj="t1"
+7	11	tok id="t1" base="send" pos="VBD" ROOT="ROOT"
+12	13	tok id="t2" base="a" pos="DT" det="t3"
+14	24	tok id="t3" base="delegation" pos="NN" dobj="t1"
+25	27	tok id="t4" base="to" pos="TO" prep="t1"
+28	31	tok id="t5" base="the" pos="DT" det="t7"
+32	42	tok id="t6" base="Madagascar" pos="NNP" nn="t7"
+43	53	tok id="t7" base="government" pos="NN" pobj="t4"
+54	55	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

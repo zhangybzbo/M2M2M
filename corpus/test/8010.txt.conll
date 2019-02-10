@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	det
+2	thesis	thesis	NN	_	3	nsubj
+3	defines	define	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	clinical	clinical	JJ	_	6	amod
+6	characteristics	characteristic	NNS	_	3	dobj
+7	of	of	IN	_	6	prep
+8	amyloid	amyloid	NN	_	9	nn
+9	disease	disease	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

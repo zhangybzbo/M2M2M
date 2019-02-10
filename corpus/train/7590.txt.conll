@@ -1,0 +1,26 @@
+1	Thatch	Thatch	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	excessive	excessive	JJ	_	6	amod
+6	growth	growth	NN	_	4	pobj
+7	from	from	IN	_	6	prep
+8	overfertilizing	overfertilize	VBG	_	7	pobj
+9	,	,	,	_	3	punct
+10	by	by	IN	_	3	prep
+11	allowing	allow	VBG	_	10	pcomp
+12	the	the	DT	_	13	det
+13	grass	grass	NN	_	11	dobj
+14	to	to	TO	_	15	aux
+15	get	get	VB	_	11	xcomp
+16	too	too	RB	_	17	advmod
+17	high	high	JJ	_	15	acomp
+18	before	before	IN	_	17	prep
+19	mowing	mow	VBG	_	18	pcomp
+20	,	,	,	_	19	punct
+21	or	or	CC	_	19	cc
+22	by	by	IN	_	19	conj
+23	incorrect	incorrect	JJ	_	24	amod
+24	watering	watering	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

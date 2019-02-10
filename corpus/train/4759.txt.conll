@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj
+2	feasted	feast	VBD	_	0	ROOT
+3	upon	upon	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	meal	meal	NN	_	3	pobj
+6	sumptuously	sumptuously	RB	_	7	advmod
+7	produced	produce	VBN	_	5	vmod
+8	by	by	IN	_	7	prep
+9	our	we	PRP$	_	11	poss
+10	ever-wondrous	ever-wondrous	JJ	_	11	amod
+11	chef	chef	NN	_	8	pobj
+12	-LRB-	-lrb-	-LRB-	_	13	punct
+13	Issy	issy	NN	_	11	appos
+14	-RRB-	-rrb-	-RRB-	_	13	punct
+15	and	and	CC	_	2	cc
+16	then	then	RB	_	19	advmod
+17	the	the	DT	_	18	det
+18	games	game	NNS	_	19	nsubj
+19	commenced	commence	VBN	_	2	conj
+20	.	.	.	_	2	punct
+

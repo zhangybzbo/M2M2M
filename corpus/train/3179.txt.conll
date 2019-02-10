@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	pathologists	pathologist	NNS	_	3	nsubj
+3	perform	perform	VBP	_	0	ROOT
+4	study	study	NN	_	3	dobj
+5	of	of	IN	_	4	prep
+6	disease	disease	NN	_	5	pobj
+7	through	through	IN	_	3	prep
+8	examination	examination	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	organs	organ	NNS	_	9	pobj
+11	,	,	,	_	10	punct
+12	fluids	fluid	NNS	_	10	conj
+13	and	and	CC	_	10	cc
+14	tissues	tissue	NNS	_	10	conj
+15	of	of	IN	_	10	prep
+16	the	the	DT	_	17	det
+17	body	body	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

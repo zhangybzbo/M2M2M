@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	mood	mood	NN	_	8	nsubj
+3	inside	inside	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	car	car	NN	_	3	pobj
+6	was	be	VBD	_	8	cop
+7	very	very	RB	_	8	advmod
+8	quiet	quiet	JJ	_	0	ROOT
+9	as	as	IN	_	12	mark
+10	the	the	DT	_	11	det
+11	couple	couple	NN	_	12	nsubj
+12	continued	continue	VBD	_	8	advcl
+13	home	home	NN	_	12	dobj
+14	and	and	CC	_	12	cc
+15	went	go	VBD	_	12	conj
+16	to	to	TO	_	15	prep
+17	bed	bed	NN	_	16	pobj
+18	.	.	.	_	8	punct
+

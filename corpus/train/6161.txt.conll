@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det
+2	skirt	skirt	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	sitting	sit	VBG	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	bin	bin	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	my	my	PRP$	_	10	poss
+10	garage	garage	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

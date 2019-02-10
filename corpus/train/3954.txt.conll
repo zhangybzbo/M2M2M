@@ -1,0 +1,22 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	hobo	hobo	NN	_	4	nsubj
+4	leaves	leave	VBZ	_	10	advcl
+5	the	the	DT	_	7	det
+6	next	next	JJ	_	7	amod
+7	morning	morning	NN	_	4	tmod
+8	,	,	,	_	10	punct
+9	Dick	Dick	NNP	_	10	nn
+10	notices	notice	NNS	_	0	ROOT
+11	that	that	WDT	_	17	nsubj
+12	on	on	IN	_	17	prep
+13	the	the	DT	_	14	det
+14	gate	gate	NN	_	12	pobj
+15	is	be	VBZ	_	17	cop
+16	a	a	DT	_	17	det
+17	picture	picture	NN	_	10	ccomp
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	knife	knife	NN	_	18	pobj
+21	.	.	.	_	10	punct
+

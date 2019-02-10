@@ -1,0 +1,15 @@
+1	Each	each	DT	_	3	det
+2	feeding	feed	VBG	_	3	amod
+3	unit	unit	NN	_	4	nsubj
+4	contains	contain	VBZ	_	0	ROOT
+5	sensor	sensor	NN	_	4	dobj
+6	for	for	IN	_	5	prep
+7	measure	measure	NN	_	6	pobj
+8	of	of	IN	_	7	prep
+9	remaining	remain	VBG	_	10	amod
+10	feed	feed	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	scuttle	scuttle	VBP	_	11	pobj
+14	.	.	.	_	4	punct
+

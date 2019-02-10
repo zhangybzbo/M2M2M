@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	lists	list	VBZ	_	0	ROOT
+4	people	people	NNS	_	3	dobj
+5	whose	whose	WP$	_	6	poss
+6	artwork	artwork	NN	_	9	nsubjpass
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	featured	feature	VBN	_	4	rcmod
+10	on	on	IN	_	9	prep
+11	stamps	stamp	NNS	_	10	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	United	United	NNP	_	15	nn
+15	States	States	NNPS	_	12	pobj
+16	.	.	.	_	3	punct
+

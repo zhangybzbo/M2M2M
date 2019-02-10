@@ -1,0 +1,21 @@
+1	However	however	RB	_	10	advmod
+2	,	,	,	_	10	punct
+3	his	he	PRP$	_	4	poss
+4	company	company	NN	_	10	nsubj
+5	,	,	,	_	4	punct
+6	Gordon	Gordon	NNP	_	8	nn
+7	Ramsay	Ramsay	NNP	_	8	nn
+8	Holdings	Holdings	NNP	_	4	appos
+9	,	,	,	_	4	punct
+10	issued	issue	VBD	_	0	ROOT
+11	a	a	DT	_	12	det
+12	statement	statement	NN	_	10	dobj
+13	that	that	IN	_	14	nsubj
+14	appeared	appear	VBD	_	12	rcmod
+15	remarkably	remarkably	RB	_	16	advmod
+16	graceful	graceful	JJ	_	14	acomp
+17	at	at	IN	_	14	prep
+18	first	first	JJ	_	19	amod
+19	glance	glance	NN	_	17	pobj
+20	.	.	.	_	10	punct
+

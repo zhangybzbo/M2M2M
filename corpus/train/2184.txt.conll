@@ -1,0 +1,10 @@
+1	Cities	city	NNS	_	2	nsubj
+2	produce	produce	VBP	_	0	ROOT
+3	surprisingly	surprisingly	RB	_	4	advmod
+4	low	low	JJ	_	6	amod
+5	carbon	carbon	NN	_	6	nn
+6	emissions	emission	NNS	_	2	dobj
+7	per	per	IN	_	6	prep
+8	capita	capita	NN	_	7	pobj
+9	.	.	.	_	2	punct
+

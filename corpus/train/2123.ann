@@ -1,0 +1,3 @@
+T1	Term 48 52	book
+T2	Term 141 147	scribe
+R1	Product-Producer Arg1:T1 Arg2:T2

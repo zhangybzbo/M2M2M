@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	rescue	rescue	NN	_	3	nn
+3	teams	team	NNS	_	4	nsubj
+4	found	find	VBD	_	0	ROOT
+5	17	17	CD	_	4	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	25	25	CD	_	9	num
+9	crew	crew	NN	_	6	pobj
+10	thrown	throw	VBN	_	9	vmod
+11	into	into	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	sea	sea	NN	_	11	pobj
+14	when	when	WRB	_	17	advmod
+15	the	the	DT	_	16	det
+16	tanker	tanker	NN	_	17	nsubj
+17	caught	catch	VBD	_	4	advcl
+18	fire	fire	NN	_	17	dobj
+19	after	after	IN	_	17	prep
+20	the	the	DT	_	21	det
+21	collision	collision	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

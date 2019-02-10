@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	bacon	bacon	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	home	home	NN	_	0	ROOT
+5	cured	cure	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	our	we	PRP$	_	9	poss
+8	local	local	JJ	_	9	amod
+9	butcher	butcher	NN	_	6	pobj
+10	who	who	WP	_	12	nsubj
+11	also	also	RB	_	12	advmod
+12	supplies	supply	VBZ	_	9	rcmod
+13	the	the	DT	_	14	det
+14	award	award	NN	_	12	dobj
+15	winning	win	VBG	_	14	vmod
+16	sausages	sausage	NNS	_	15	dobj
+17	.	.	.	_	4	punct
+

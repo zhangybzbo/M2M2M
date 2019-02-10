@@ -1,0 +1,3 @@
+T1	Term 67 74	ethanol
+T2	Term 88 97	factories
+R1	Product-Producer Arg1:T1 Arg2:T2

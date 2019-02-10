@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det
+2	entire	entire	JJ	_	4	amod
+3	running	run	VBG	_	4	amod
+4	gear	gear	NN	_	9	nsubjpass
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	engine	engine	NN	_	5	pobj
+8	was	be	VBD	_	9	auxpass
+9	enclosed	enclose	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	copper	copper	NN	_	13	nn
+13	case	case	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

@@ -1,0 +1,12 @@
+1	We	we	PRP	_	3	nsubj
+2	were	be	VBD	_	3	aux
+3	arriving	arrive	VBG	_	0	ROOT
+4	after	after	IN	_	8	mark
+5	the	the	DT	_	6	det
+6	train	train	NN	_	8	nsubj
+7	had	have	VBD	_	8	aux
+8	left	leave	VBN	_	3	advcl
+9	the	the	DT	_	10	det
+10	station	station	NN	_	8	dobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,11 @@
+0	44	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	6	tok id="t1" base="city" pos="NN" nsubj="t2"
+7	12	tok id="t2" base="take" pos="VBZ" ROOT="ROOT"
+13	14	tok id="t3" base="a" pos="DT" det="t4"
+15	20	tok id="t4" base="stand" pos="NN" dobj="t2"
+21	28	tok id="t5" base="against" pos="IN" prep="t4"
+29	33	tok id="t6" base="gang" pos="NN" nn="t7"
+34	42	tok id="t7" base="violence" pos="NN" pobj="t5"
+43	44	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

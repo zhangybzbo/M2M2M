@@ -1,0 +1,27 @@
+1	When	when	WRB	_	4	advmod
+2	the	the	DT	_	3	det
+3	guard	guard	NN	_	4	nsubj
+4	happened	happen	VBD	_	0	ROOT
+5	upon	upon	IN	_	4	prep
+6	a	a	DT	_	23	det
+7	mass	mass	NN	_	23	nsubj
+8	grave	grave	JJ	_	7	amod
+9	dug	dig	VBN	_	8	dep
+10	by	by	IN	_	9	prep
+11	this	this	DT	_	13	det
+12	sick	sick	JJ	_	13	amod
+13	fool	fool	NN	_	10	pobj
+14	,	,	,	_	7	punct
+15	a	a	DT	_	21	det
+16	massive	massive	JJ	_	21	amod
+17	,	,	,	_	21	punct
+18	horned	horned	JJ	_	21	amod
+19	,	,	,	_	21	punct
+20	disgusting	disgusting	JJ	_	21	amod
+21	behemoth	behemoth	NN	_	7	appos
+22	was	be	VBD	_	23	cop
+23	digging	digging	NN	_	5	pcomp
+24	itself	itself	PRP	_	23	dobj
+25	out	out	RP	_	23	prt
+26	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	focus	focus	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	any	any	DT	_	5	det
+5	course	course	NN	_	3	pobj
+6	is	be	VBZ	_	0	ROOT
+7	,	,	,	_	6	punct
+8	however	however	RB	_	6	advmod
+9	,	,	,	_	6	punct
+10	art	art	NN	_	12	nn
+11	therapy	therapy	NN	_	12	nn
+12	theory	theory	NN	_	6	dep
+13	.	.	.	_	6	punct
+

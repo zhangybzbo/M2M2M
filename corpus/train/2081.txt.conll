@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	soured	soured	JJ	_	5	amod
+5	cream	cream	NN	_	2	dobj
+6	in	in	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	butter	butter	NN	_	6	pobj
+9	churn	churn	VB	_	2	dep
+10	and	and	CC	_	2	cc
+11	started	start	VBD	_	2	conj
+12	stirring	stir	VBG	_	11	xcomp
+13	it	it	PRP	_	12	dobj
+14	.	.	.	_	2	punct
+

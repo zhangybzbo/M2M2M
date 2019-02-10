@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	majority	majority	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	tree	tree	NN	_	6	nn
+5	feeder	feeder	NN	_	6	nn
+6	roots	root	NNS	_	3	pobj
+7	are	be	VBP	_	8	cop
+8	located	located	JJ	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	top	top	JJ	_	12	amod
+12	four	four	CD	_	15	num
+13	to	to	TO	_	14	dep
+14	eight	eight	CD	_	15	num
+15	inches	inch	NNS	_	9	pobj
+16	of	of	IN	_	15	prep
+17	soil	soil	NN	_	16	pobj
+18	.	.	.	_	8	punct
+

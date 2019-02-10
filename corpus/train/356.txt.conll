@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	corporation	corporation	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	constructed	construct	VBN	_	0	ROOT
+5	railways	railway	NNS	_	4	dobj
+6	in	in	IN	_	4	prep
+7	Ukraine	Ukraine	NNP	_	6	pobj
+8	,	,	,	_	7	punct
+9	Guinea	Guinea	NNP	_	7	conj
+10	,	,	,	_	7	punct
+11	Iran	Iran	NNP	_	7	conj
+12	,	,	,	_	7	punct
+13	Iraq	Iraq	NNP	_	7	conj
+14	,	,	,	_	7	punct
+15	and	and	CC	_	7	cc
+16	Syria	Syria	NNP	_	7	conj
+17	.	.	.	_	4	punct
+

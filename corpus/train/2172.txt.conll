@@ -1,0 +1,20 @@
+1	Drawing	draw	VBG	_	8	csubj
+2	my	my	PRP$	_	3	poss
+3	bow	bow	NN	_	1	dobj
+4	across	across	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	string	string	NN	_	4	pobj
+7	sometimes	sometimes	RB	_	8	advmod
+8	results	result	VBZ	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	stick	stick	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	bow	bow	NN	_	12	pobj
+15	bouncing/vibrating	bouncing/vibrating	VBG	_	14	dep
+16	up	up	RP	_	15	prt
+17	and	and	CC	_	15	cc
+18	down	down	RP	_	15	conj
+19	.	.	.	_	8	punct
+

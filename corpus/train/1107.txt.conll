@@ -1,0 +1,25 @@
+1	As	as	IN	_	12	prep
+2	of	of	IN	_	1	pcomp
+3	October	October	NNP	_	2	pobj
+4	5	5	CD	_	3	num
+5	,	,	,	_	3	punct
+6	2009	2009	CD	_	3	num
+7	,	,	,	_	12	punct
+8	the	the	DT	_	9	det
+9	group	group	NN	_	12	nsubj
+10	has	have	VBZ	_	12	aux
+11	finally	finally	RB	_	12	advmod
+12	produced	produce	VBN	_	0	ROOT
+13	a	a	DT	_	14	det
+14	review	review	NN	_	12	dobj
+15	summarising	summarise	VBG	_	14	vmod
+16	the	the	DT	_	17	det
+17	work	work	NN	_	15	dobj
+18	performed	perform	VBN	_	17	vmod
+19	over	over	IN	_	18	prep
+20	the	the	DT	_	23	det
+21	past	past	JJ	_	23	amod
+22	12	12	CD	_	23	num
+23	years	year	NNS	_	19	pobj
+24	.	.	.	_	12	punct
+

@@ -1,0 +1,15 @@
+1	Foreign	foreign	JJ	_	2	amod
+2	minister	minister	NN	_	3	nsubj
+3	participated	participate	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	9	det
+6	high	high	JJ	_	9	amod
+7	level	level	NN	_	9	nn
+8	UN	UN	NNP	_	9	nn
+9	conference	conference	NN	_	4	pobj
+10	on	on	IN	_	9	prep
+11	financing	financing	NN	_	10	pobj
+12	for	for	IN	_	11	prep
+13	development	development	NN	_	12	pobj
+14	.	.	.	_	3	punct
+

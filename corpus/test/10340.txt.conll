@@ -1,0 +1,25 @@
+1	Like	like	IN	_	6	mark
+2	tofu	tofu	NN	_	6	nsubjpass
+3	,	,	,	_	2	punct
+4	tempeh	tempeh	NN	_	2	appos
+5	is	be	VBZ	_	6	auxpass
+6	made	make	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	soybeans	soybean	NNS	_	7	pobj
+9	,	,	,	_	6	punct
+10	but	but	CC	_	6	cc
+11	tempeh	tempeh	NN	_	16	nsubj
+12	is	be	VBZ	_	16	cop
+13	a	a	DT	_	16	det
+14	whole	whole	JJ	_	16	amod
+15	soybean	soybean	NN	_	16	nn
+16	product	product	NN	_	6	conj
+17	with	with	IN	_	16	prep
+18	different	different	JJ	_	20	amod
+19	nutritional	nutritional	JJ	_	20	amod
+20	characteristics	characteristic	NNS	_	17	pobj
+21	and	and	CC	_	20	cc
+22	textural	textural	JJ	_	23	amod
+23	qualities	quality	NNS	_	20	conj
+24	.	.	.	_	6	punct
+

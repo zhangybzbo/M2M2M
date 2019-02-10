@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	cancer	cancer	NN	_	3	nn
+3	survivor	survivor	NN	_	4	nsubj
+4	writes	write	VBZ	_	0	ROOT
+5	about	about	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	relatively	relatively	RB	_	8	advmod
+8	rare	rare	JJ	_	9	amod
+9	occurrence	occurrence	NN	_	5	pobj
+10	of	of	IN	_	9	prep
+11	calcification	calcification	NN	_	10	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	breast	breast	NN	_	12	pobj
+15	after	after	IN	_	9	prep
+16	radiation	radiation	NN	_	17	nn
+17	therapy	therapy	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

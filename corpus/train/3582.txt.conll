@@ -1,0 +1,22 @@
+1	Ground	ground	NN	_	2	nn
+2	resonance	resonance	NN	_	3	nsubj
+3	occurs	occur	VBZ	_	0	ROOT
+4	while	while	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	helicopter	helicopter	NN	_	7	nsubj
+7	is	be	VBZ	_	3	advcl
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	ground	ground	NN	_	8	pobj
+11	with	with	IN	_	10	prep
+12	rotors	rotor	NNS	_	11	pobj
+13	turning	turn	VBG	_	12	vmod
+14	;	;	:	_	3	punct
+15	it	it	PRP	_	18	nsubj
+16	will	will	MD	_	18	aux
+17	not	not	RB	_	18	neg
+18	happen	happen	VB	_	3	parataxis
+19	in	in	IN	_	18	prep
+20	flight	flight	NN	_	19	pobj
+21	.	.	.	_	3	punct
+

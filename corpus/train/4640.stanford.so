@@ -1,0 +1,11 @@
+0	56	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="appendix" pos="NN" nsubj="t2"
+13	18	tok id="t2" base="give" pos="VBZ" ROOT="ROOT"
+19	20	tok id="t3" base="a" pos="DT" det="t4"
+21	28	tok id="t4" base="summary" pos="NN" dobj="t2"
+29	31	tok id="t5" base="of" pos="IN" prep="t4"
+32	41	tok id="t6" base="financing" pos="NN" nn="t7"
+42	54	tok id="t7" base="transaction" pos="NNS" pobj="t5"
+55	56	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

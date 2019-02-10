@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	USA	USA	NNP	_	3	nn
+3	government	government	NN	_	4	nsubj
+4	handed	hand	VBD	_	0	ROOT
+5	over	over	IN	_	4	prep
+6	these	these	DT	_	9	det
+7	detained	detain	VBN	_	9	amod
+8	foreign	foreign	JJ	_	9	amod
+9	citizens	citizen	NNS	_	5	pobj
+10	to	to	TO	_	4	prep
+11	Russian	russian	JJ	_	13	amod
+12	boarder	boarder	NN	_	13	nn
+13	guards	guard	NNS	_	10	pobj
+14	.	.	.	_	4	punct
+

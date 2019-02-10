@@ -1,0 +1,21 @@
+1	While	while	IN	_	7	mark
+2	most	most	JJS	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	experimental	experimental	JJ	_	6	amod
+6	literature	literature	NN	_	3	pobj
+7	focuses	focus	VBZ	_	15	advcl
+8	on	on	IN	_	7	prep
+9	individual	individual	JJ	_	10	amod
+10	contributions	contribution	NNS	_	8	pobj
+11	,	,	,	_	15	punct
+12	many	many	JJ	_	14	amod
+13	real-world	real-world	JJ	_	14	amod
+14	problems	problem	NNS	_	15	nsubj
+15	involve	involve	VBP	_	0	ROOT
+16	the	the	DT	_	17	det
+17	formation	formation	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	coalitions	coalition	NNS	_	18	pobj
+20	.	.	.	_	15	punct
+

@@ -1,0 +1,1 @@
+With iterpipes , python is ready to replace the bash shell for scripting .

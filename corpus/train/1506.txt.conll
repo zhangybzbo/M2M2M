@@ -1,0 +1,14 @@
+1	Top	top	JJ	_	3	amod
+2	stealth-plane	stealth-plane	JJ	_	3	amod
+3	experts	expert	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	re-created	re-create	VBN	_	0	ROOT
+6	a	a	DT	_	7	det
+7	radical	radical	NN	_	5	dobj
+8	,	,	,	_	5	punct
+9	nearly	nearly	RB	_	10	advmod
+10	forgotten	forget	VBN	_	12	amod
+11	Nazi	nazi	JJ	_	12	amod
+12	aircraft	aircraft	NN	_	5	dep
+13	.	.	.	_	5	punct
+

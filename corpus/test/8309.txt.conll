@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	explains	explain	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	speech	speech	NN	_	3	dobj
+6	and	and	CC	_	5	cc
+7	language	language	NN	_	8	nn
+8	difficulties	difficulty	NNS	_	5	conj
+9	pre-school	pre-school	JJ	_	11	amod
+10	children	child	NNS	_	11	nn
+11	encounter	encounter	NN	_	5	dep
+12	and	and	CC	_	11	cc
+13	how	how	WRB	_	20	advmod
+14	parents	parent	NNS	_	20	nsubj
+15	and	and	CC	_	14	cc
+16	early	early	JJ	_	18	amod
+17	years	year	NNS	_	18	nn
+18	workers	worker	NNS	_	14	conj
+19	can	can	MD	_	20	aux
+20	help	help	VB	_	11	conj
+21	.	.	.	_	3	punct
+

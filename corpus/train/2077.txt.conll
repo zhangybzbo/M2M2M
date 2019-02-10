@@ -1,0 +1,11 @@
+1	470000	470000	CD	_	3	num
+2	mullet	mullet	JJ	_	3	amod
+3	fingerlings	fingerling	NNS	_	6	nsubjpass
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	released	release	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	lake	lake	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

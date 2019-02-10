@@ -1,0 +1,17 @@
+1	Greasy	Greasy	NNP	_	12	nsubjpass
+2	or	or	CC	_	1	cc
+3	oily	oily	JJ	_	1	conj
+4	rags	rag	NNS	_	1	dep
+5	or	or	CC	_	4	cc
+6	materials	material	NNS	_	4	conj
+7	subject	subject	JJ	_	4	amod
+8	to	to	TO	_	7	prep
+9	spontaneous	spontaneous	JJ	_	10	amod
+10	ignition	ignition	NN	_	8	pobj
+11	are	be	VBP	_	12	auxpass
+12	deposited	deposit	VBN	_	0	ROOT
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	receptacle	receptacle	NN	_	13	pobj
+16	.	.	.	_	12	punct
+

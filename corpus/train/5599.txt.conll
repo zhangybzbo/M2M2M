@@ -1,0 +1,19 @@
+1	Upon	upon	IN	_	9	prep
+2	emerging	emerge	VBG	_	1	pcomp
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	car	car	NN	_	3	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	stranger	stranger	NN	_	9	nsubj
+9	battered	batter	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	man	man	NN	_	9	dobj
+12	to	to	TO	_	9	prep
+13	death	death	NN	_	12	pobj
+14	with	with	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	baseball	baseball	NN	_	17	nn
+17	bat	bat	NN	_	14	pobj
+18	.	.	.	_	9	punct
+

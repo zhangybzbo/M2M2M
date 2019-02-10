@@ -1,0 +1,1 @@
+Figure 9 shows the average delays obtained with this policy as compared with those of the previous subsection .

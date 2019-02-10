@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	swelling	swell	VBG	_	0	ROOT
+3	continued	continue	VBN	_	2	vmod
+4	so	so	IN	_	7	mark
+5	it	it	PRP	_	7	nsubj
+6	was	be	VBD	_	7	cop
+7	time	time	NN	_	3	advcl
+8	to	to	TO	_	9	aux
+9	try	try	VB	_	7	vmod
+10	the	the	DT	_	11	det
+11	oils	oils	NNS	_	9	dobj
+12	in	in	IN	_	9	prep
+13	a	a	DT	_	14	det
+14	capsule	capsule	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

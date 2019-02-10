@@ -1,0 +1,18 @@
+1	Often	often	RB	_	2	advmod
+2	times	time	NNS	_	0	ROOT
+3	I	I	PRP	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	watched	watch	VBN	_	2	rcmod
+6	a	a	DT	_	7	det
+7	scold	scold	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	blue	blue	JJ	_	11	amod
+10	jays	jay	NNS	_	11	nn
+11	band	band	NN	_	8	pobj
+12	together	together	RB	_	5	advmod
+13	to	to	TO	_	14	aux
+14	battle	battle	VB	_	5	vmod
+15	the	the	DT	_	16	det
+16	crows	crow	NNS	_	14	dobj
+17	.	.	.	_	2	punct
+

@@ -1,0 +1,26 @@
+1	After	after	IN	_	5	mark
+2	the	the	DT	_	3	det
+3	pottery	pottery	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	formed	form	VBN	_	21	advcl
+6	,	,	,	_	21	punct
+7	either	either	CC	_	8	preconj
+8	by	by	IN	_	21	prep
+9	a	a	DT	_	10	det
+10	potter	potter	NN	_	12	poss
+11	's	's	POS	_	10	possessive
+12	wheel	wheel	NN	_	8	pobj
+13	or	or	CC	_	12	cc
+14	more	more	JJR	_	16	amod
+15	primitive	primitive	JJ	_	16	amod
+16	means	means	NNS	_	12	conj
+17	,	,	,	_	21	punct
+18	it	it	PRP	_	21	nsubjpass
+19	has	have	VBZ	_	21	aux
+20	been	be	VBN	_	21	auxpass
+21	left	leave	VBN	_	0	ROOT
+22	to	to	TO	_	21	prep
+23	thoroughly	thoroughly	RB	_	24	advmod
+24	dry	dry	JJ	_	22	pobj
+25	.	.	.	_	21	punct
+

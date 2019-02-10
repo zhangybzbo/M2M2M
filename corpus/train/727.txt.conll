@@ -1,0 +1,22 @@
+1	In	in	IN	_	6	prep
+2	defamation	defamation	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	circumstances	circumstance	NNS	_	6	nsubj
+6	are	be	VBP	_	0	ROOT
+7	that	that	IN	_	11	mark
+8	the	the	DT	_	9	det
+9	defendant	defendant	NN	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	made	make	VBN	_	6	ccomp
+12	a	a	DT	_	13	det
+13	statement	statement	NN	_	11	dobj
+14	which	which	WDT	_	15	nsubj
+15	injures	injure	VBZ	_	13	rcmod
+16	the	the	DT	_	17	det
+17	reputation	reputation	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	claimant	claimant	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

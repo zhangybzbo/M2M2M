@@ -1,0 +1,16 @@
+1	One	one	CD	_	2	num
+2	soldier	soldier	NN	_	5	nsubj
+3	was	be	VBD	_	5	cop
+4	brutally	brutally	RB	_	5	advmod
+5	frank	frank	JJ	_	9	nsubj
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	message	message	NN	_	6	pobj
+9	posted	post	VBD	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	website	website	NN	_	10	pobj
+13	last	last	JJ	_	14	amod
+14	week	week	NN	_	9	tmod
+15	.	.	.	_	9	punct
+

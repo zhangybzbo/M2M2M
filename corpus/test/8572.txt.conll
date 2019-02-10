@@ -1,0 +1,18 @@
+1	When	when	WRB	_	5	advmod
+2	our	we	PRP$	_	4	poss
+3	American	american	JJ	_	4	amod
+4	doe	doe	NN	_	5	nsubj
+5	gave	give	VBD	_	16	advcl
+6	birth	birth	NN	_	5	dobj
+7	to	to	TO	_	5	prep
+8	her	she	PRP$	_	10	poss
+9	first	first	JJ	_	10	amod
+10	kindle	kindle	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	rabbits	rabbit	NNS	_	11	pobj
+13	we	we	PRP	_	16	nsubjpass
+14	were	be	VBD	_	16	auxpass
+15	very	very	RB	_	16	advmod
+16	excited	excite	VBN	_	0	ROOT
+17	.	.	.	_	16	punct
+

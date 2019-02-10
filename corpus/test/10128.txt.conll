@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	brush	brush	NN	_	8	nsubj
+3	and	and	CC	_	2	cc
+4	the	the	DT	_	5	det
+5	roller	roller	NN	_	2	conj
+6	are	be	VBP	_	8	cop
+7	the	the	DT	_	8	det
+8	tools	tool	NNS	_	0	ROOT
+9	most	most	RBS	_	10	advmod
+10	readily	readily	RB	_	11	advmod
+11	associated	associate	VBN	_	8	vmod
+12	with	with	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	painter	painter	NN	_	12	pobj
+15	.	.	.	_	8	punct
+

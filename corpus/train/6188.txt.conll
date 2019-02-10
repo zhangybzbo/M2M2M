@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	doctor	doctor	NN	_	3	nsubj
+3	implanted	implant	VBD	_	10	csubj
+4	an	a	DT	_	5	det
+5	injection	injection	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	three	three	CD	_	9	num
+8	vertical	vertical	JJ	_	9	amod
+9	glabellar	glabellar	NN	_	6	pobj
+10	furrows	furrow	VBZ	_	0	ROOT
+11	.	.	.	_	10	punct
+

@@ -1,0 +1,10 @@
+1	Clinically	clinically	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	microcracks	microcrack	NNS	_	4	nsubj
+4	cause	cause	VBP	_	0	ROOT
+5	stress	stress	NN	_	8	nn
+6	or	or	CC	_	5	cc
+7	fragility	fragility	NN	_	5	conj
+8	fractures	fracture	NNS	_	4	dobj
+9	.	.	.	_	4	punct
+

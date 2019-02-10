@@ -1,0 +1,1 @@
+I 'm about to delve into Buchholz 's pitch F/X and pitch data to try to find some sort of answer here using guidelines from Allen 's article plus Buchholz 's run values as shown here .

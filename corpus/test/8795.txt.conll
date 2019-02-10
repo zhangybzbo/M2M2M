@@ -1,0 +1,27 @@
+1	Eight	eight	CD	_	3	num
+2	British	british	JJ	_	3	amod
+3	tourists	tourist	NNS	_	5	nsubj
+4	are	be	VBP	_	5	aux
+5	suing	sue	VBG	_	0	ROOT
+6	a	a	DT	_	10	det
+7	South	south	JJ	_	8	amod
+8	African	african	JJ	_	10	amod
+9	safari	safari	JJ	_	10	amod
+10	park	park	NN	_	5	dobj
+11	after	after	IN	_	13	mark
+12	they	they	PRP	_	13	nsubj
+13	became	become	VBD	_	5	advcl
+14	trapped	trap	VBN	_	13	acomp
+15	by	by	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	pride	pride	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	wild	wild	JJ	_	20	amod
+20	lions	lion	NNS	_	18	pobj
+21	when	when	WRB	_	25	advmod
+22	their	they	PRP$	_	24	poss
+23	tour	tour	NN	_	24	nn
+24	vehicle	vehicle	NN	_	25	nsubj
+25	overturned	overturn	VBN	_	5	advcl
+26	.	.	.	_	5	punct
+

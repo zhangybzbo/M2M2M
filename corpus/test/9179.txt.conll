@@ -1,0 +1,14 @@
+1	Dust	dust	NN	_	4	nsubj
+2	or	or	CC	_	1	cc
+3	vapor	vapor	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	burns	burn	NNS	_	4	dobj
+6	or	or	CC	_	5	cc
+7	irritation	irritation	NN	_	5	conj
+8	of	of	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	eyes	eye	NNS	_	8	pobj
+11	with	with	IN	_	4	prep
+12	swelling	swell	VBG	_	11	pobj
+13	.	.	.	_	4	punct
+

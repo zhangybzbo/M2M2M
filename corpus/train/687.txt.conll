@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	only	only	JJ	_	3	amod
+3	ginger	ginger	NN	_	6	nsubj
+4	I	I	PRP	_	5	nsubj
+5	had	have	VBD	_	3	rcmod
+6	was	be	VBD	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	jar	jar	NN	_	7	pobj
+10	,	,	,	_	6	punct
+11	so	so	IN	_	13	mark
+12	I	I	PRP	_	13	nsubj
+13	put	put	VBD	_	6	advcl
+14	a	a	DT	_	16	det
+15	heaping	heaping	JJ	_	16	amod
+16	teaspoon	teaspoon	NN	_	13	dobj
+17	in	in	IN	_	13	prep
+18	.	.	.	_	6	punct
+

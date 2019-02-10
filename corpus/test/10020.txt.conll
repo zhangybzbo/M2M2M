@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj
+2	entered	enter	VBD	_	0	ROOT
+3	text	text	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	several	several	JJ	_	6	amod
+6	files	file	NNS	_	4	pobj
+7	one	one	CD	_	6	dep
+8	after	after	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	other	other	JJ	_	8	pobj
+11	.	.	.	_	2	punct
+

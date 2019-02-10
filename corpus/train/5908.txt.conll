@@ -1,0 +1,19 @@
+1	Microsoft	Microsoft	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	announced	announce	VBN	_	0	ROOT
+4	an	a	DT	_	5	det
+5	alliance	alliance	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	various	various	JJ	_	9	amod
+8	industry	industry	NN	_	9	nn
+9	partners	partner	NNS	_	6	pobj
+10	whose	whose	WP$	_	11	poss
+11	goal	goal	NN	_	12	nsubj
+12	is	be	VBZ	_	9	rcmod
+13	to	to	TO	_	14	aux
+14	fight	fight	VB	_	12	xcomp
+15	the	the	DT	_	17	det
+16	Conficker	Conficker	NNP	_	17	nn
+17	worm	worm	NN	_	14	dobj
+18	.	.	.	_	3	punct
+

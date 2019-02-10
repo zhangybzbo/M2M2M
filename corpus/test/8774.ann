@@ -1,0 +1,3 @@
+T1	Term 14 20	effect
+T2	Term 70 75	light
+R1	Cause-Effect Arg1:T2 Arg2:T1

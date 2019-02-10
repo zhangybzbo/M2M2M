@@ -1,0 +1,22 @@
+1	Food	Food	NNP	_	2	nn
+2	poisoning	poisoning	NN	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	perhaps	perhaps	RB	_	7	advmod
+5	the	the	DT	_	7	det
+6	commonest	commonest	JJS	_	7	amod
+7	cause	cause	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	abdominal	abdominal	JJ	_	10	amod
+10	pain	pain	NN	_	8	pobj
+11	,	,	,	_	7	punct
+12	especially	especially	RB	_	13	advmod
+13	in	in	IN	_	7	prep
+14	the	the	DT	_	16	det
+15	young	young	JJ	_	16	amod
+16	dog	dog	NN	_	13	pobj
+17	or	or	CC	_	16	cc
+18	the	the	DT	_	20	det
+19	scavenger	scavenger	NN	_	20	nn
+20	type	type	NN	_	16	conj
+21	.	.	.	_	7	punct
+

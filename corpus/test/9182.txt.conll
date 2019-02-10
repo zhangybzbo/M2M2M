@@ -1,0 +1,13 @@
+1	Here	here	RB	_	2	advmod
+2	are	be	VBP	_	0	ROOT
+3	my	my	PRP$	_	5	poss
+4	favourite	favourite	JJ	_	5	amod
+5	quotes	quote	NNS	_	2	nsubj
+6	from	from	IN	_	5	prep
+7	movies	movie	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	songs	song	NNS	_	7	conj
+10	and	and	CC	_	7	cc
+11	friends	friend	NNS	_	7	conj
+12	,	,	,	_	2	punct
+

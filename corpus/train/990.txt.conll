@@ -1,0 +1,11 @@
+1	We	we	PRP	_	2	nsubj
+2	removed	remove	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	sharp	sharp	JJ	_	5	amod
+5	items	item	NNS	_	2	dobj
+6	into	into	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	plastic	plastic	NN	_	9	nn
+9	bag	bag	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

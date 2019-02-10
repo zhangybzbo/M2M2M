@@ -1,0 +1,1 @@
+This notification declares the names of plants , plant pests or carriers that are considered to be prohibited .

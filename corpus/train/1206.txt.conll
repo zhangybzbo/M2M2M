@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	scientist	scientist	NN	_	3	nsubj
+3	synthesizes	synthesize	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	copy	copy	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	magical	magical	JJ	_	10	amod
+9	red	red	JJ	_	10	amod
+10	ball	ball	NN	_	6	pobj
+11	by	by	IN	_	3	prep
+12	using	use	VBG	_	11	pcomp
+13	a	a	DT	_	15	det
+14	few	few	JJ	_	15	amod
+15	fragments	fragment	NNS	_	12	dobj
+16	that	that	WDT	_	18	nsubjpass
+17	were	be	VBD	_	18	auxpass
+18	left	leave	VBN	_	15	rcmod
+19	on	on	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	grandfather	grandfather	NN	_	23	poss
+22	's	's	POS	_	21	possessive
+23	hand	hand	NN	_	19	pobj
+24	.	.	.	_	3	punct
+

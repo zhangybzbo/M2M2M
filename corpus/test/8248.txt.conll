@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	following	follow	VBG	_	3	amod
+3	protocol	protocol	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	used	use	VBN	_	0	ROOT
+6	for	for	IN	_	5	prep
+7	patients	patient	NNS	_	6	pobj
+8	who	who	WP	_	10	nsubj
+9	do	do	VBP	_	10	aux
+10	feel	feel	VB	_	7	rcmod
+11	the	the	DT	_	12	det
+12	strings	string	NNS	_	10	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	device	device	NN	_	13	pobj
+16	at	at	IN	_	10	prep
+17	the	the	DT	_	20	det
+18	external	external	JJ	_	20	amod
+19	cervical	cervical	JJ	_	20	amod
+20	os	os	NNS	_	16	pobj
+21	.	.	.	_	5	punct
+

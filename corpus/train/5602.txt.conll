@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	research	research	NN	_	15	nsubjpass
+3	,	,	,	_	2	punct
+4	performed	perform	VBN	_	2	vmod
+5	at	at	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	Kyoto	Kyoto	NNP	_	9	nn
+8	Prefectural	Prefectural	NNP	_	9	nn
+9	University	University	NNP	_	5	pobj
+10	of	of	IN	_	9	prep
+11	Medicine	Medicine	NNP	_	10	pobj
+12	,	,	,	_	2	punct
+13	has	have	VBZ	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	presented	present	VBN	_	0	ROOT
+16	at	at	IN	_	15	prep
+17	a	a	DT	_	19	det
+18	medical	medical	JJ	_	19	amod
+19	meeting	meeting	NN	_	16	pobj
+20	in	in	IN	_	19	prep
+21	Japan	Japan	NNP	_	20	pobj
+22	.	.	.	_	15	punct
+

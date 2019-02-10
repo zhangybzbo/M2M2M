@@ -1,0 +1,10 @@
+1	Highly	highly	RB	_	2	advmod
+2	viscous	viscous	JJ	_	3	amod
+3	lavas	lava	NNS	_	4	nsubj
+4	lead	lead	VBP	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	8	det
+7	violent	violent	JJ	_	8	amod
+8	eruption	eruption	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	firing	firing	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	transition	transition	NN	_	5	nn
+5	T_continuous_call	t_continuous_call	NN	_	3	pobj
+6	represents	represent	VBZ	_	0	ROOT
+7	the	the	DT	_	8	det
+8	arrival	arrival	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	handoff	handoff	NN	_	12	nn
+12	call	call	NN	_	9	pobj
+13	from	from	IN	_	12	prep
+14	neighbour	neighbour	NN	_	15	nn
+15	cells	cell	NNS	_	13	pobj
+16	.	.	.	_	6	punct
+

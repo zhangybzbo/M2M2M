@@ -1,0 +1,13 @@
+0	53	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="bombing" pos="NN" nsubj="t2"
+12	20	tok id="t2" base="result" pos="VBD" ROOT="ROOT"
+21	23	tok id="t3" base="in" pos="IN" prep="t2"
+24	27	tok id="t4" base="the" pos="DT" det="t5"
+28	34	tok id="t5" base="death" pos="NNS" pobj="t3"
+35	37	tok id="t6" base="of" pos="IN" prep="t5"
+38	42	tok id="t7" base="1318" pos="CD" pobj="t6"
+43	45	tok id="t8" base="in" pos="IN" prep="t5"
+46	51	tok id="t9" base="Hanoi" pos="NNP" pobj="t8"
+52	53	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

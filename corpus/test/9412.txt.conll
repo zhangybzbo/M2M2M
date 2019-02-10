@@ -1,0 +1,19 @@
+1	That	that	DT	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	many	many	JJ	_	7	amod
+7	reasons	reason	NNS	_	4	pobj
+8	that	that	IN	_	13	mark
+9	a	a	DT	_	10	det
+10	CEO	CEO	NNP	_	12	poss
+11	's	's	POS	_	10	possessive
+12	team	team	NN	_	13	nsubj
+13	includes	include	VBZ	_	7	ccomp
+14	an	a	DT	_	17	det
+15	experienced	experienced	JJ	_	17	amod
+16	general	general	JJ	_	17	amod
+17	counsel	counsel	NN	_	13	dobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,23 @@
+1	Monica	Monica	NNP	_	2	nn
+2	Mullikin	Mullikin	NNP	_	8	nsubj
+3	-LRB-	-lrb-	-LRB-	_	5	punct
+4	'	'	''	_	5	punct
+5	00	00	CD	_	2	appos
+6	-RRB-	-rrb-	-RRB-	_	5	punct
+7	is	be	VBZ	_	8	aux
+8	working	work	VBG	_	0	ROOT
+9	for	for	IN	_	8	prep
+10	Willis	Willis	NNP	_	9	pobj
+11	of	of	IN	_	10	prep
+12	Minneapolis	Minneapolis	NNP	_	11	pobj
+13	as	as	IN	_	8	prep
+14	a	a	DT	_	17	det
+15	catastrophe	catastrophe	NN	_	17	nn
+16	risk	risk	NN	_	17	nn
+17	analyst	analyst	NN	_	13	pobj
+18	for	for	IN	_	17	prep
+19	this	this	DT	_	21	det
+20	reinsurance	reinsurance	NN	_	21	nn
+21	company	company	NN	_	18	pobj
+22	.	.	.	_	8	punct
+

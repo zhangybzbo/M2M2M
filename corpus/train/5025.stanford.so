@@ -1,0 +1,12 @@
+0	73	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="naturally" pos="RB" advmod="t3"
+10	13	tok id="t1" base="the" pos="DT" det="t3"
+14	24	tok id="t2" base="exhibition" pos="NN" nn="t3"
+25	32	tok id="t3" base="study" pos="NNS" ROOT="ROOT"
+33	36	tok id="t4" base="the" pos="DT" det="t6"
+37	43	tok id="t5" base="modern" pos="JJ" amod="t6"
+44	54	tok id="t6" base="technique" pos="NNS" dep="t3"
+55	57	tok id="t7" base="of" pos="IN" prep="t6"
+58	71	tok id="t8" base="communication" pos="NN" pobj="t7"
+72	73	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

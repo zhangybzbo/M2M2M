@@ -1,0 +1,15 @@
+1	Dietary	dietary	JJ	_	2	amod
+2	sources	source	NNS	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	omega-3	omega-3	NN	_	6	nn
+5	fatty	fatty	JJ	_	6	amod
+6	acids	acid	NNS	_	3	pobj
+7	include	include	VBP	_	0	ROOT
+8	fish	fish	NN	_	9	nn
+9	oil	oil	NN	_	7	dobj
+10	and	and	CC	_	9	cc
+11	certain	certain	JJ	_	13	amod
+12	plant/nut	plant/nut	NN	_	13	nn
+13	oils	oils	NNS	_	9	conj
+14	.	.	.	_	7	punct
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	divers	diver	NNS	_	3	nsubj
+3	went	go	VBD	_	0	ROOT
+4	down	down	RB	_	3	advmod
+5	two	two	CD	_	6	num
+6	weeks	week	NNS	_	7	npadvmod
+7	ago	ago	IN	_	3	advmod
+8	to	to	TO	_	9	aux
+9	look	look	VB	_	3	xcomp
+10	at	at	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	condition	condition	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	piles	pile	NNS	_	13	pobj
+16	supporting	support	VBG	_	15	vmod
+17	the	the	DT	_	18	det
+18	pier	pier	NN	_	16	dobj
+19	.	.	.	_	3	punct
+

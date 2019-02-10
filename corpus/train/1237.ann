@@ -1,0 +1,3 @@
+T1	Term 67 75	province
+T2	Term 93 98	poppy
+R1	Product-Producer Arg1:T2 Arg2:T1

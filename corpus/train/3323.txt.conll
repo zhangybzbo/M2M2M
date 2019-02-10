@@ -1,0 +1,25 @@
+1	He	he	PRP	_	2	nsubj
+2	stirred	stir	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	oil	oil	NN	_	2	dobj
+5	,	,	,	_	4	punct
+6	garlic	garlic	NN	_	4	conj
+7	and	and	CC	_	4	cc
+8	cumin	cumin	NN	_	9	nn
+9	seeds	seed	NNS	_	4	conj
+10	together	together	RB	_	2	advmod
+11	in	in	IN	_	2	prep
+12	a	a	DT	_	13	det
+13	dish	dish	NN	_	11	pobj
+14	large	large	JJ	_	13	amod
+15	enough	enough	RB	_	14	advmod
+16	to	to	TO	_	17	aux
+17	hold	hold	VB	_	15	dep
+18	the	the	DT	_	19	det
+19	sardines	sardine	NNS	_	17	dobj
+20	in	in	IN	_	17	prep
+21	a	a	DT	_	23	det
+22	single	single	JJ	_	23	amod
+23	layer	layer	NN	_	20	pobj
+24	.	.	.	_	2	punct
+

@@ -1,0 +1,21 @@
+1	No	no	DT	_	2	neg
+2	material	material	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	prepared	prepare	VBN	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	sessions	session	NNS	_	5	pobj
+8	,	,	,	_	4	punct
+9	so	so	IN	_	13	mark
+10	the	the	DT	_	12	det
+11	three	three	CD	_	12	num
+12	musicians	musician	NNS	_	13	nsubj
+13	improvised	improvise	VBD	_	4	advcl
+14	an	a	DT	_	15	det
+15	album	album	NN	_	17	poss
+16	's	's	POS	_	15	possessive
+17	worth	worth	NN	_	13	dobj
+18	of	of	IN	_	17	prep
+19	material	material	NN	_	18	pobj
+20	.	.	.	_	4	punct
+

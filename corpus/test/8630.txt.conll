@@ -1,0 +1,20 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	put	put	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	ingredients	ingredient	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	a	a	DT	_	10	det
+8	big	big	JJ	_	10	amod
+9	mixing	mix	VBG	_	10	amod
+10	ball	ball	NN	_	6	pobj
+11	long	long	RB	_	14	advmod
+12	before	before	IN	_	14	mark
+13	we	we	PRP	_	14	nsubj
+14	started	start	VBD	_	3	advcl
+15	baking	bake	VBG	_	14	xcomp
+16	the	the	DT	_	18	det
+17	plain	plain	JJ	_	18	amod
+18	naan	naan	NN	_	15	dobj
+19	.	.	.	_	3	punct
+

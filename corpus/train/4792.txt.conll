@@ -1,0 +1,15 @@
+1	In	in	IN	_	9	prep
+2	several	several	JJ	_	1	pobj
+3	of	of	IN	_	2	prep
+4	her	she	PRP$	_	5	poss
+5	songs	song	NNS	_	3	pobj
+6	,	,	,	_	9	punct
+7	Marshall	Marshall	NNP	_	9	nsubj
+8	has	have	VBZ	_	9	aux
+9	reflected	reflect	VBN	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	her	she	PRP$	_	13	poss
+12	racial	racial	JJ	_	13	amod
+13	identity	identity	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

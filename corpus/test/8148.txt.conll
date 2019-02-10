@@ -1,0 +1,12 @@
+1	Roadside	Roadside	NNP	_	2	nn
+2	attractions	attraction	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	auxpass
+4	frequently	frequently	RB	_	5	advmod
+5	advertised	advertise	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	billboards	billboard	NNS	_	6	pobj
+8	to	to	TO	_	9	aux
+9	attract	attract	VB	_	7	vmod
+10	tourists	tourist	NNS	_	9	dobj
+11	.	.	.	_	5	punct
+

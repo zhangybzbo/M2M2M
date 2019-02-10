@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	workshop	workshop	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	convened	convene	VBN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	topic	topic	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	derivatives	derivative	NNS	_	9	pobj
+11	.	.	.	_	5	punct
+

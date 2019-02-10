@@ -1,0 +1,12 @@
+0	51	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="supplier" pos="NN" poss="t3"
+13	15	tok id="t2" base="'s" pos="POS" possessive="t1"
+16	23	tok id="t3" base="invoice" pos="NN" nsubj="t5"
+24	26	tok id="t4" base="be" pos="VBZ" cop="t5"
+27	34	tok id="t5" base="payable" pos="JJ" ROOT="ROOT"
+35	41	tok id="t6" base="within" pos="IN" prep="t5"
+42	44	tok id="t7" base="30" pos="CD" num="t8"
+45	49	tok id="t8" base="day" pos="NNS" pobj="t6"
+50	51	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,27 @@
+1	Buy	buy	VB	_	8	csubj
+2	Owner	Owner	NNP	_	1	dobj
+3	is	be	VBZ	_	8	cop
+4	a	a	DT	_	8	det
+5	brick	brick	NN	_	8	nn
+6	and	and	CC	_	5	cc
+7	mortar	mortar	JJ	_	5	conj
+8	company	company	NN	_	0	ROOT
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	14	det
+11	long	long	JJ	_	14	amod
+12	term	term	NN	_	14	nn
+13	knowledgeable	knowledgeable	JJ	_	14	amod
+14	staff	staff	NN	_	9	pobj
+15	dedicated	dedicate	VBN	_	14	vmod
+16	to	to	TO	_	15	prep
+17	providing	provide	VBG	_	16	pcomp
+18	your	you	PRP$	_	19	poss
+19	property	property	NN	_	17	dobj
+20	with	with	IN	_	17	prep
+21	the	the	DT	_	23	det
+22	maximum	maximum	NN	_	23	nn
+23	amount	amount	NN	_	20	pobj
+24	of	of	IN	_	23	prep
+25	exposure	exposure	NN	_	24	pobj
+26	.	.	.	_	8	punct
+

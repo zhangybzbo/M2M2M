@@ -1,0 +1,1 @@
+The release notes give details of the technical changes .

@@ -1,0 +1,10 @@
+0	42	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="pliers" pos="NNS" nsubj="t2"
+11	17	tok id="t2" base="belong" pos="VBP" ROOT="ROOT"
+18	20	tok id="t3" base="to" pos="TO" prep="t2"
+21	25	tok id="t4" base="John" pos="NNP" poss="t6"
+26	28	tok id="t5" base="'s" pos="POS" possessive="t4"
+29	40	tok id="t6" base="electrician" pos="NN" pobj="t3"
+41	42	tok id="t7" base="-PERIOD-" pos="." punct="t2"
+

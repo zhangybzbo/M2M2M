@@ -1,0 +1,3 @@
+T1	Term 49 52	oil
+T2	Term 71 77	harbor
+R1	Entity-Destination Arg1:T1 Arg2:T2

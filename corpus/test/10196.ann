@@ -1,0 +1,3 @@
+T1	Term 9 15	sensor
+T2	Term 29 35	circle
+R1	Other Arg1:T1 Arg2:T2

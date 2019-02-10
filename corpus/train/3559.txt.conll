@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	kids	kid	NNS	_	3	nsubj
+3	liberate	liberate	VBP	_	0	ROOT
+4	the	the	DT	_	5	det
+5	ponies	pony	NNS	_	3	dobj
+6	with	with	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	help	help	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	sympathetic	sympathetic	JJ	_	12	amod
+12	groom	groom	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

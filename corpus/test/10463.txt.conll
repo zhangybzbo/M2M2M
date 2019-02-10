@@ -1,0 +1,19 @@
+1	I	I	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	inserted	insert	VBN	_	0	ROOT
+4	various	various	JJ	_	5	amod
+5	cartridges	cartridge	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	that	that	DT	_	9	det
+8	old	old	JJ	_	9	amod
+9	printer	printer	NN	_	6	pobj
+10	,	,	,	_	3	punct
+11	but	but	CC	_	3	cc
+12	still	still	RB	_	17	advmod
+13	the	the	DT	_	14	det
+14	printer	printer	NN	_	17	nsubj
+15	is	be	VBZ	_	17	aux
+16	not	not	RB	_	17	neg
+17	working	work	VBG	_	3	conj
+18	.	.	.	_	3	punct
+

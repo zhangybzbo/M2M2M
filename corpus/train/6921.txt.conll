@@ -1,0 +1,21 @@
+1	Instead	instead	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	I	I	PRP	_	4	nsubj
+4	ran	run	VBD	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	them	they	PRP	_	5	pobj
+7	,	,	,	_	4	punct
+8	whirling	whirling	JJ	_	10	amod
+9	my	my	PRP$	_	10	poss
+10	arms	arm	NNS	_	4	dobj
+11	and	and	CC	_	10	cc
+12	screeching	screech	VBG	_	10	conj
+13	as	as	RB	_	14	advmod
+14	loud	loud	JJ	_	12	advmod
+15	as	as	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	sedge	sedge	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	bitterns	bittern	NNS	_	18	pobj
+20	.	.	.	_	4	punct
+

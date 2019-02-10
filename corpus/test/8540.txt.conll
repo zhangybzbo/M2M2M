@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	produced	produce	VBN	_	3	amod
+3	signal	signal	NN	_	5	nsubj
+4	sensitively	sensitively	RB	_	5	advmod
+5	departs	depart	VBZ	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	ideal	ideal	JJ	_	9	amod
+9	sine	sine	NN	_	6	pobj
+10	as	as	IN	_	14	mark
+11	the	the	DT	_	13	det
+12	input	input	NN	_	13	nn
+13	angle	angle	NN	_	14	nsubj
+14	approaches	approach	VBZ	_	5	advcl
+15	the	the	DT	_	16	det
+16	extremes	extreme	NNS	_	14	dobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	range	range	NN	_	17	pobj
+20	.	.	.	_	5	punct
+

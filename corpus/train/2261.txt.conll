@@ -1,0 +1,15 @@
+1	Another	another	DT	_	3	det
+2	small	small	JJ	_	3	amod
+3	devision	devision	NN	_	7	nsubjpass
+4	of	of	IN	_	3	prep
+5	archers	archer	NNS	_	4	pobj
+6	was	be	VBD	_	7	auxpass
+7	sent	send	VBN	_	0	ROOT
+8	towards	towards	IN	_	7	prep
+9	Gots	Gots	NNP	_	8	pobj
+10	to	to	TO	_	11	aux
+11	inforse	inforse	VB	_	7	xcomp
+12	united	united	JJ	_	13	amod
+13	army	army	NN	_	11	dobj
+14	.	.	.	_	7	punct
+

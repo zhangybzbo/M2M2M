@@ -1,0 +1,27 @@
+1	Two	two	CD	_	4	num
+2	plane	plane	NN	_	4	nn
+3	crash	crash	NN	_	4	nn
+4	survivors	survivor	NNS	_	6	nsubj
+5	have	have	VBP	_	6	aux
+6	paid	pay	VBN	_	0	ROOT
+7	a	a	DT	_	9	det
+8	special	special	JJ	_	9	amod
+9	visit	visit	NN	_	6	dobj
+10	to	to	TO	_	6	prep
+11	the	the	DT	_	14	det
+12	Hutt	Hutt	NNP	_	14	nn
+13	Hospital	Hospital	NNP	_	14	nn
+14	surgeon	surgeon	NN	_	10	pobj
+15	whose	whose	WP$	_	16	poss
+16	team	team	NN	_	17	nsubj
+17	helped	help	VBD	_	14	rcmod
+18	to	to	TO	_	19	aux
+19	re-build	re-build	VB	_	17	xcomp
+20	their	they	PRP$	_	22	poss
+21	shattered	shattered	JJ	_	22	amod
+22	faces	face	NNS	_	19	dobj
+23	eight	eight	CD	_	24	num
+24	years	year	NNS	_	25	npadvmod
+25	ago	ago	RB	_	19	advmod
+26	.	.	.	_	6	punct
+

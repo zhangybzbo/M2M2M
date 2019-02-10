@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	office	office	NN	_	3	nn
+3	staff	staff	NN	_	4	nsubj
+4	threw	throw	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	documents	document	NNS	_	4	dobj
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	shredder	shredder	NN	_	7	pobj
+10	before	before	IN	_	13	mark
+11	the	the	DT	_	12	det
+12	police	police	NN	_	13	nsubj
+13	came	come	VBD	_	4	advcl
+14	in	in	IN	_	13	advmod
+15	.	.	.	_	4	punct
+

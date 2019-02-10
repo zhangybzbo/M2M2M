@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	Etruscan	etruscan	JJ	_	3	amod
+3	craftsmen	craftsman	NNS	_	4	nsubj
+4	marked	mark	VBD	_	0	ROOT
+5	their	they	PRP$	_	6	poss
+6	wares	wares	NNS	_	4	dobj
+7	with	with	IN	_	6	prep
+8	ink	ink	NN	_	9	nn
+9	marks	mark	NNS	_	7	pobj
+10	.	.	.	_	4	punct
+

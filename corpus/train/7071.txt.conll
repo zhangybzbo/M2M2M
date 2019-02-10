@@ -1,0 +1,10 @@
+1	A	a	DT	_	2	det
+2	copy	copy	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	sent	send	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	your	you	PRP$	_	8	poss
+7	e-mail	e-mail	JJ	_	8	amod
+8	address	address	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

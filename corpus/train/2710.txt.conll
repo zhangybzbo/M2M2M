@@ -1,0 +1,24 @@
+1	Laurent	Laurent	NNP	_	2	nsubj
+2	leaves	leave	VBZ	_	0	ROOT
+3	them	they	PRP	_	2	dobj
+4	and	and	CC	_	2	cc
+5	travels	travel	VBZ	_	2	conj
+6	to	to	TO	_	5	prep
+7	Denali	Denali	NNP	_	6	pobj
+8	,	,	,	_	7	punct
+9	Alaska	Alaska	NNP	_	7	appos
+10	,	,	,	_	7	punct
+11	hoping	hope	VBG	_	2	xcomp
+12	to	to	TO	_	13	aux
+13	find	find	VB	_	11	xcomp
+14	solace	solace	NN	_	13	dobj
+15	among	among	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	coven	coven	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	``	``	``	_	22	punct
+20	vegetarian	vegetarian	JJ	_	22	amod
+21	''	''	''	_	22	punct
+22	vampires	vampire	NNS	_	18	pobj
+23	.	.	.	_	2	punct
+

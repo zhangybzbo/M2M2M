@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	det
+2	website	website	NN	_	6	nsubj
+3	,	,	,	_	4	punct
+4	www.fertilityuk.org	www.fertilityuk.org	NN	_	6	nsubj
+5	,	,	,	_	4	punct
+6	shows	show	VBZ	_	0	ROOT
+7	how	how	WRB	_	9	advmod
+8	to	to	TO	_	9	aux
+9	interpret	interpret	VB	_	6	ccomp
+10	the	the	DT	_	11	det
+11	changes	change	NNS	_	9	dobj
+12	that	that	WDT	_	13	nsubj
+13	take	take	VBP	_	11	rcmod
+14	place	place	NN	_	13	dobj
+15	in	in	IN	_	13	prep
+16	the	the	DT	_	18	det
+17	mucus	mucus	NN	_	18	nn
+18	secretions	secretion	NNS	_	15	pobj
+19	produced	produce	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	cells	cell	NNS	_	20	pobj
+23	lining	line	VBG	_	22	vmod
+24	the	the	DT	_	25	det
+25	cervix	cervix	NN	_	23	dobj
+26	.	.	.	_	6	punct
+

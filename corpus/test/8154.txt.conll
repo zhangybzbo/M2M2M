@@ -1,0 +1,18 @@
+1	Several	several	JJ	_	2	amod
+2	texts	text	NNS	_	3	nsubj
+3	relate	relate	VBP	_	0	ROOT
+4	mythological	mythological	JJ	_	5	amod
+5	anecdotes	anecdote	NNS	_	3	dobj
+6	associated	associate	VBN	_	5	vmod
+7	with	with	IN	_	6	prep
+8	his	he	PRP$	_	9	poss
+9	birth	birth	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	exploits	exploit	NNS	_	9	conj
+12	and	and	CC	_	3	cc
+13	explain	explain	VB	_	3	conj
+14	his	he	PRP$	_	16	poss
+15	distinct	distinct	JJ	_	16	amod
+16	iconography	iconography	NN	_	13	dobj
+17	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+0	68	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	13	tok id="t1" base="classroom" pos="NN" nn="t2"
+14	24	tok id="t2" base="discussion" pos="NN" nsubj="t3"
+25	29	tok id="t3" base="make" pos="VBD" ROOT="ROOT"
+30	34	tok id="t4" base="this" pos="DT" det="t5"
+35	42	tok id="t5" base="concept" pos="NN" nsubj="t6"
+43	48	tok id="t6" base="clear" pos="JJ" xcomp="t3"
+49	51	tok id="t7" base="to" pos="TO" prep="t6"
+52	55	tok id="t8" base="the" pos="DT" det="t9"
+56	66	tok id="t9" base="candidate" pos="NNS" pobj="t7"
+67	68	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	temple	temple	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	built	build	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	monks	monk	NNS	_	6	pobj
+8	in	in	IN	_	7	prep
+9	northeast	northeast	JJ	_	10	amod
+10	Thailand	Thailand	NNP	_	8	pobj
+11	who	who	WP	_	12	nsubj
+12	used	use	VBD	_	7	rcmod
+13	over	over	IN	_	12	prep
+14	a	a	DT	_	18	det
+15	million	million	CD	_	18	num
+16	recycled	recycled	JJ	_	18	amod
+17	beer	beer	NN	_	18	nn
+18	bottles	bottle	NNS	_	13	pobj
+19	to	to	TO	_	20	aux
+20	make	make	VB	_	18	vmod
+21	the	the	DT	_	22	det
+22	walls	wall	NNS	_	20	dobj
+23	and	and	CC	_	22	cc
+24	roof	roof	NN	_	22	conj
+25	.	.	.	_	5	punct
+

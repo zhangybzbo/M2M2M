@@ -1,0 +1,14 @@
+1	She	she	PRP	_	3	nsubj
+2	had	have	VBD	_	3	aux
+3	left	leave	VBN	_	0	ROOT
+4	her	she	PRP$	_	5	poss
+5	notebook	notebook	NN	_	3	dobj
+6	out	out	RP	_	3	prt
+7	on	on	IN	_	3	prep
+8	the	the	DT	_	10	det
+9	fire	fire	NN	_	10	nn
+10	escape	escape	NN	_	7	pobj
+11	by	by	IN	_	3	prep
+12	accident	accident	NN	_	11	pobj
+13	.	.	.	_	3	punct
+

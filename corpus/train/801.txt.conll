@@ -1,0 +1,13 @@
+1	Conflicting	conflict	VBG	_	2	amod
+2	loads	load	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	stalled	stall	VBN	_	0	ROOT
+5	while	while	IN	_	9	mark
+6	pending	pend	VBG	_	7	amod
+7	stores	store	NNS	_	9	nsubj
+8	were	be	VBD	_	9	aux
+9	draining	drain	VBG	_	4	advcl
+10	into	into	IN	_	9	prep
+11	memory	memory	NN	_	10	pobj
+12	.	.	.	_	4	punct
+

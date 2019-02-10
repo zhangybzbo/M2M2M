@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	contents	contents	NNS	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	satchel	satchel	NN	_	3	pobj
+6	were	be	VBD	_	8	cop
+7	a	a	DT	_	8	det
+8	revelation	revelation	NN	_	0	ROOT
+9	.	.	.	_	8	punct
+

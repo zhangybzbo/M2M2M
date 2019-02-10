@@ -1,0 +1,12 @@
+1	Responses	response	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	obtained	obtain	VBN	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	310	310	CD	_	6	num
+6	presidents	president	NNS	_	4	pobj
+7	provosts	provost	NNS	_	10	nn
+8	and	and	CC	_	7	cc
+9	1293	1293	CD	_	7	conj
+10	deans	dean	NNS	_	6	dep
+11	.	.	.	_	3	punct
+

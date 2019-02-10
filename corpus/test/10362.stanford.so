@@ -1,0 +1,10 @@
+0	53	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="Karzai" pos="NNP" nsubj="t1"
+7	14	tok id="t1" base="bring" pos="VBD" ROOT="ROOT"
+15	19	tok id="t2" base="more" pos="RBR" advmod="t3"
+20	31	tok id="t3" base="technocrat" pos="NNS" dobj="t1"
+32	36	tok id="t4" base="into" pos="IN" prep="t1"
+37	40	tok id="t5" base="he" pos="PRP$" poss="t6"
+41	51	tok id="t6" base="government" pos="NN" pobj="t4"
+52	53	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

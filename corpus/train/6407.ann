@@ -1,0 +1,3 @@
+T1	Term 6 13	dryness
+T2	Term 34 42	coughing
+R1	Cause-Effect Arg1:T1 Arg2:T2

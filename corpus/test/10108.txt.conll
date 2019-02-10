@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	det
+2	figure	figure	NN	_	3	nsubj
+3	illustrates	illustrate	VBZ	_	0	ROOT
+4	typical	typical	JJ	_	5	amod
+5	results	result	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	various	various	JJ	_	9	amod
+8	operating	operate	VBG	_	9	amod
+9	parameters	parameter	NNS	_	6	pobj
+10	during	during	IN	_	5	prep
+11	these	these	DT	_	12	det
+12	studies	study	NNS	_	10	pobj
+13	.	.	.	_	3	punct
+

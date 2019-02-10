@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	growing	grow	VBG	_	3	amod
+3	use	use	NN	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	technology	technology	NN	_	4	pobj
+7	passed	pass	VBN	_	6	vmod
+8	on	on	IN	_	7	prep
+9	infertility	infertility	NN	_	8	pobj
+10	to	to	TO	_	7	prep
+11	future	future	JJ	_	12	amod
+12	generations	generation	NNS	_	10	pobj
+13	.	.	.	_	3	punct
+

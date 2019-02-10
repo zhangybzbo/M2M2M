@@ -1,0 +1,13 @@
+1	Judges	Judges	NNPS	_	2	nsubj
+2	wear	wear	VBP	_	0	ROOT
+3	the	the	DT	_	5	det
+4	bench	bench	NN	_	5	nn
+5	wig	wig	NN	_	2	dobj
+6	when	when	WRB	_	9	advmod
+7	they	they	PRP	_	9	nsubj
+8	are	be	VBP	_	9	aux
+9	sitting	sit	VBG	_	2	advcl
+10	in	in	IN	_	9	prep
+11	court	court	NN	_	10	pobj
+12	.	.	.	_	2	punct
+

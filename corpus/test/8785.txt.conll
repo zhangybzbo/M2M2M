@@ -1,0 +1,11 @@
+1	Novomer	Novomer	NNP	_	5	poss
+2	's	's	POS	_	1	possessive
+3	cleaner	cleaner	JJR	_	5	amod
+4	burning	burning	NN	_	5	nn
+5	binder	binder	NN	_	6	nsubj
+6	goes	go	VBZ	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	customer	customer	NN	_	9	nn
+9	trials	trial	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

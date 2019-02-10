@@ -1,0 +1,23 @@
+1	As	as	IN	_	3	mark
+2	they	they	PRP	_	3	nsubj
+3	watch	watch	VBP	_	17	advcl
+4	,	,	,	_	17	punct
+5	the	the	DT	_	7	det
+6	jar	jar	NN	_	7	nn
+7	breaks	break	NNS	_	17	nsubj
+8	open	open	JJ	_	7	amod
+9	and	and	CC	_	8	cc
+10	a	a	DT	_	12	det
+11	dark	dark	JJ	_	12	amod
+12	man	man	NN	_	8	conj
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	rolled-up	rolled-up	JJ	_	16	amod
+16	rug	rug	NN	_	13	pobj
+17	climbs	climb	VBZ	_	0	ROOT
+18	from	from	IN	_	17	prep
+19	inside	inside	IN	_	18	pcomp
+20	the	the	DT	_	21	det
+21	jar	jar	NN	_	19	pobj
+22	.	.	.	_	17	punct
+

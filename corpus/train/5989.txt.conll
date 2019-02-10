@@ -1,0 +1,13 @@
+1	Washington	Washington	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	fiddled	fiddle	VBN	_	0	ROOT
+4	while	while	IN	_	7	mark
+5	other	other	JJ	_	6	amod
+6	states	state	NNS	_	7	nsubj
+7	poured	pour	VBD	_	3	advcl
+8	money	money	NN	_	7	dobj
+9	into	into	IN	_	7	prep
+10	higher	higher	JJR	_	11	amod
+11	education	education	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

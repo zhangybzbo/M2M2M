@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	mistress	mistress	NN	_	3	nn
+3	fries	fries	NNS	_	0	ROOT
+4	the	the	DT	_	5	det
+5	rashers	rasher	NNS	_	3	dep
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	10	det
+8	small	small	JJ	_	10	amod
+9	china	china	NN	_	10	nn
+10	fryingpan	fryingpan	NN	_	6	pobj
+11	over	over	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	lamp	lamp	NN	_	11	pobj
+14	,	,	,	_	5	punct
+15	passing	pass	VBG	_	5	vmod
+16	to	to	TO	_	15	prep
+17	each	each	DT	_	18	det
+18	person	person	NN	_	16	pobj
+19	the	the	DT	_	21	det
+20	hot	hot	JJ	_	21	amod
+21	slices	slice	NNS	_	15	dobj
+22	as	as	IN	_	25	mark
+23	they	they	PRP	_	25	nsubjpass
+24	are	be	VBP	_	25	auxpass
+25	done	do	VBN	_	15	advcl
+26	.	.	.	_	3	punct
+

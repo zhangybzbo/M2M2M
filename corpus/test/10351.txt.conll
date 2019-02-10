@@ -1,0 +1,12 @@
+1	Other	other	JJ	_	3	amod
+2	early	early	JJ	_	3	amod
+3	organisms	organism	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	released	release	VBN	_	0	ROOT
+6	barium	barium	NN	_	5	dobj
+7	into	into	IN	_	5	prep
+8	sulphate	sulphate	NN	_	10	nn
+9	depleted	deplete	VBN	_	10	amod
+10	pore-waters	pore-water	NNS	_	7	pobj
+11	.	.	.	_	5	punct
+

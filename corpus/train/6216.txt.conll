@@ -1,0 +1,14 @@
+1	Declining	decline	VBG	_	3	amod
+2	oil	oil	NN	_	3	nn
+3	revenues	revenue	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	dragged	drag	VBN	_	0	ROOT
+6	this	this	DT	_	8	det
+7	poor	poor	JJ	_	8	amod
+8	country	country	NN	_	5	dobj
+9	into	into	IN	_	5	prep
+10	even	even	RB	_	11	advmod
+11	deeper	deeper	JJR	_	12	amod
+12	recession	recession	NN	_	9	pobj
+13	.	.	.	_	5	punct
+

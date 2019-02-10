@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj
+2	share	share	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	kinship	kinship	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	ideals	ideal	NNS	_	5	pobj
+7	with	with	IN	_	6	prep
+8	every	every	DT	_	9	det
+9	man	man	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	woman	woman	NN	_	9	conj
+12	on	on	IN	_	2	prep
+13	earth	earth	NN	_	12	pobj
+14	who	who	WP	_	15	nsubj
+15	struggles	struggle	VBZ	_	2	dep
+16	for	for	IN	_	15	prep
+17	their	they	PRP$	_	19	poss
+18	God-given	god-given	JJ	_	19	amod
+19	rights	rights	NNS	_	16	pobj
+20	.	.	.	_	2	punct
+

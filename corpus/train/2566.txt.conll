@@ -1,0 +1,15 @@
+1	Such	such	JJ	_	2	amod
+2	exemption	exemption	NN	_	4	nsubj
+3	also	also	RB	_	4	advmod
+4	applies	apply	VBZ	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	goods	goods	NNS	_	5	pobj
+7	supplied	supply	VBN	_	6	vmod
+8	for	for	IN	_	7	prep
+9	use	use	NN	_	8	pobj
+10	on	on	IN	_	9	prep
+11	ships	ship	NNS	_	10	pobj
+12	and	and	CC	_	11	cc
+13	aircraft	aircraft	NN	_	11	conj
+14	.	.	.	_	4	punct
+

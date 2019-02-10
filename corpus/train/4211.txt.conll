@@ -1,0 +1,11 @@
+1	Some	some	DT	_	2	det
+2	gardeners	gardener	NNS	_	3	nsubj
+3	use	use	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	thick	thick	JJ	_	6	amod
+6	mulch	mulch	NN	_	3	dobj
+7	for	for	IN	_	3	prep
+8	this	this	DT	_	9	det
+9	purpose	purpose	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

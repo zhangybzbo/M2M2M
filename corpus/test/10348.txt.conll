@@ -1,0 +1,16 @@
+1	Grace	Grace	NNP	_	2	nsubj
+2	did	do	VBD	_	0	ROOT
+3	as	as	IN	_	6	mark
+4	she	she	PRP	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	told	tell	VBN	_	2	advcl
+7	as	as	IN	_	9	mark
+8	Adele	Adele	NNP	_	9	nsubj
+9	poured	pour	VBD	_	6	advcl
+10	flour	flour	NN	_	9	dobj
+11	into	into	IN	_	9	prep
+12	the	the	DT	_	14	det
+13	liquid	liquid	JJ	_	14	amod
+14	mixture	mixture	NN	_	11	pobj
+15	.	.	.	_	2	punct
+

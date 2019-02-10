@@ -1,0 +1,15 @@
+1	Timoshenko	Timoshenko	NNP	_	2	nsubj
+2	commented	comment	VBD	_	0	ROOT
+3	its	its	PRP$	_	4	poss
+4	laughter	laughter	NN	_	2	dobj
+5	after	after	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	joke	joke	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	Putin	Putin	NNP	_	8	pobj
+10	about	about	IN	_	9	prep
+11	Yushchenko	Yushchenko	NNP	_	10	pobj
+12	and	and	CC	_	7	cc
+13	Of	of	IN	_	7	conj
+14	.	.	.	_	2	punct
+

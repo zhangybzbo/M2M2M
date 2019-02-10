@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	court	court	NN	_	4	nsubj
+3	instead	instead	RB	_	4	advmod
+4	achieved	achieve	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	desired	desire	VBN	_	7	amod
+7	flexibility	flexibility	NN	_	4	dobj
+8	using	use	VBG	_	4	xcomp
+9	a	a	DT	_	12	det
+10	harmless	harmless	JJ	_	12	amod
+11	error	error	NN	_	12	nn
+12	rule	rule	NN	_	8	dobj
+13	.	.	.	_	4	punct
+

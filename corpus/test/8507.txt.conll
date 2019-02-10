@@ -1,0 +1,17 @@
+1	This	this	DT	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	typical	typical	JJ	_	6	amod
+5	barnyard	barnyard	NN	_	6	nn
+6	scene	scene	NN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	showing	show	VBG	_	6	vmod
+9	the	the	DT	_	10	det
+10	farmer	farmer	NN	_	8	dobj
+11	feeding	feed	VBG	_	10	vmod
+12	a	a	DT	_	11	dobj
+13	drove	drive	VBN	_	12	vmod
+14	of	of	IN	_	13	prep
+15	hogs	hog	NNS	_	14	pobj
+16	.	.	.	_	6	punct
+

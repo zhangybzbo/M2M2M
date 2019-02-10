@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	balls	ball	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	dropped	drop	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	mud	mud	NN	_	5	pobj
+8	from	from	IN	_	4	prep
+9	a	a	DT	_	10	det
+10	height	height	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	about	about	IN	_	13	quantmod
+13	5	5	CD	_	14	num
+14	metres	metre	NNS	_	11	pobj
+15	.	.	.	_	4	punct
+

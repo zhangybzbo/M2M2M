@@ -1,0 +1,19 @@
+1	Stanford	Stanford	NNP	_	2	nn
+2	researchers	researcher	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	coated	coat	VBN	_	0	ROOT
+5	paper	paper	NN	_	4	dobj
+6	with	with	IN	_	4	prep
+7	carbon	carbon	NN	_	8	nn
+8	nanotubes	nanotube	NNS	_	6	pobj
+9	and	and	CC	_	8	cc
+10	silver	silver	NN	_	11	nn
+11	nanowires	nanowire	NNS	_	8	conj
+12	to	to	TO	_	13	aux
+13	serve	serve	VB	_	4	vmod
+14	as	as	IN	_	13	prep
+15	electricity	electricity	NN	_	17	nn
+16	storage	storage	NN	_	17	nn
+17	devices	device	NNS	_	14	pobj
+18	.	.	.	_	4	punct
+

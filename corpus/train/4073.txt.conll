@@ -1,0 +1,23 @@
+1	Burrows	burrow	NNS	_	6	nsubjpass
+2	by	by	IN	_	1	prep
+3	birds	bird	NNS	_	2	pobj
+4	are	be	VBP	_	6	auxpass
+5	usually	usually	RB	_	6	advmod
+6	made	make	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	soft	soft	JJ	_	9	amod
+9	soils	soil	NNS	_	7	pobj
+10	;	;	:	_	6	punct
+11	some	some	DT	_	12	det
+12	penguins	penguin	NNS	_	18	nsubjpass
+13	and	and	CC	_	12	cc
+14	other	other	JJ	_	16	amod
+15	pelagic	pelagic	JJ	_	16	amod
+16	seabirds	seabird	NNS	_	12	conj
+17	are	be	VBP	_	18	auxpass
+18	noted	note	VBN	_	6	parataxis
+19	for	for	IN	_	18	prep
+20	such	such	JJ	_	21	amod
+21	burrows	burrow	NNS	_	19	pobj
+22	.	.	.	_	6	punct
+

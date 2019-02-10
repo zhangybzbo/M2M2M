@@ -1,0 +1,22 @@
+1	Later	later	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	5	det
+4	soil	soil	NN	_	5	nn
+5	sample	sample	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	sealed	seal	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	container	container	NN	_	8	pobj
+11	and	and	CC	_	7	cc
+12	the	the	DT	_	14	det
+13	Martian	Martian	NNP	_	14	nn
+14	atmosphere	atmosphere	NN	_	16	nsubjpass
+15	was	be	VBD	_	16	auxpass
+16	replaced	replace	VBN	_	7	conj
+17	by	by	IN	_	16	prep
+18	inert	inert	JJ	_	20	amod
+19	helium	helium	NNP	_	20	nn
+20	gas	gas	NN	_	17	pobj
+21	.	.	.	_	7	punct
+

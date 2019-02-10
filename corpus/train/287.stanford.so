@@ -1,0 +1,12 @@
+0	62	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="student" pos="NNS" nsubj="t2"
+9	17	tok id="t1" base="actually" pos="RB" advmod="t2"
+18	25	tok id="t2" base="benefit" pos="VBP" ROOT="ROOT"
+26	30	tok id="t3" base="from" pos="IN" prep="t2"
+31	36	tok id="t4" base="study" pos="NN" pobj="t3"
+37	44	tok id="t5" base="through" pos="IN" prep="t2"
+45	47	tok id="t6" base="a" pos="DT" det="t8"
+48	51	tok id="t7" base="st" pos="NN" nn="t8"
+52	60	tok id="t8" base="approach" pos="NN" pobj="t5"
+61	62	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

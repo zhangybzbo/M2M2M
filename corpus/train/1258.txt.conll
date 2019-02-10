@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	key	key	JJ	_	3	amod
+3	matches	match	NNS	_	0	ROOT
+4	the	the	DT	_	6	det
+5	private	private	JJ	_	6	amod
+6	key	key	NN	_	3	dep
+7	that	that	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	sender	sender	NN	_	7	pobj
+10	used	use	VBN	_	9	vmod
+11	to	to	TO	_	12	aux
+12	encrypt	encrypt	VB	_	10	xcomp
+13	it	it	PRP	_	12	dobj
+14	.	.	.	_	3	punct
+

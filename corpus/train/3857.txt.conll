@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj
+2	keep	keep	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	box	box	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	desk	desk	NN	_	8	nn
+8	drawer	drawer	NN	_	5	pobj
+9	and	and	CC	_	2	cc
+10	use	use	VB	_	2	conj
+11	the	the	DT	_	14	det
+12	removable	removable	JJ	_	14	amod
+13	four-compartment	four-compartment	JJ	_	14	amod
+14	tray	tray	NN	_	10	dobj
+15	to	to	TO	_	16	aux
+16	organize	organize	VB	_	10	vmod
+17	cash	cash	NN	_	16	dobj
+18	and	and	CC	_	17	cc
+19	valuables	valuable	NNS	_	17	conj
+20	.	.	.	_	2	punct
+

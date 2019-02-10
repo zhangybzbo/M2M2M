@@ -1,0 +1,17 @@
+1	Ws	w	NNS	_	12	dep
+2	a	a	DT	_	3	det
+3	murmuration	murmuration	NN	_	6	nsubj
+4	of	of	IN	_	3	prep
+5	starlings	starling	NNS	_	4	pobj
+6	enters	enter	VBZ	_	1	rcmod
+7	a	a	DT	_	9	det
+8	holly	holly	JJ	_	9	amod
+9	grove	grove	NN	_	6	dobj
+10	,	,	,	_	12	punct
+11	it	it	PRP	_	12	nsubj
+12	ruins	ruin	NNS	_	0	ROOT
+13	the	the	DT	_	15	det
+14	entire	entire	JJ	_	15	amod
+15	crop	crop	NN	_	12	dep
+16	.	.	.	_	12	punct
+

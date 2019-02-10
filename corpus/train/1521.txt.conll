@@ -1,0 +1,12 @@
+1	High	high	JJ	_	2	amod
+2	winds	wind	NNS	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	delays	delay	NNS	_	3	dobj
+5	and	and	CC	_	4	cc
+6	cancellations	cancellation	NNS	_	4	conj
+7	of	of	IN	_	4	prep
+8	some	some	DT	_	10	det
+9	state	state	NN	_	10	nn
+10	ferries	ferry	NNS	_	7	pobj
+11	.	.	.	_	3	punct
+

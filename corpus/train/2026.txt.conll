@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	next	next	JJ	_	3	amod
+3	shot	shot	NN	_	4	nsubj
+4	shows	show	VBZ	_	0	ROOT
+5	only	only	RB	_	7	advmod
+6	a	a	DT	_	7	det
+7	suitcase	suitcase	NN	_	4	dobj
+8	with	with	IN	_	7	prep
+9	neatly	neatly	RB	_	10	advmod
+10	folder	folder	JJR	_	11	amod
+11	clothes	clothes	NNS	_	8	pobj
+12	in	in	IN	_	4	prep
+13	it	it	PRP	_	12	pobj
+14	on	on	IN	_	4	prep
+15	the	the	DT	_	16	det
+16	bed	bed	NN	_	14	pobj
+17	.	.	.	_	4	punct
+

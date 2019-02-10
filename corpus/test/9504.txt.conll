@@ -1,0 +1,13 @@
+1	He	he	PRP	_	2	nsubj
+2	signed	sign	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	proclamation	proclamation	NN	_	2	dobj
+5	that	that	WDT	_	6	nsubj
+6	declares	declare	VBZ	_	4	rcmod
+7	the	the	DT	_	8	det
+8	flu	flu	NN	_	11	nsubj
+9	a	a	DT	_	11	det
+10	national	national	JJ	_	11	amod
+11	emergency	emergency	NN	_	6	xcomp
+12	.	.	.	_	2	punct
+

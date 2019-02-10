@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	workers	worker	NNS	_	3	nsubj
+3	locked	lock	VBN	_	0	ROOT
+4	themselves	themselves	PRP	_	3	dobj
+5	in	in	IN	_	3	prep
+6	the	the	DT	_	8	det
+7	upstairs	upstairs	NN	_	8	nn
+8	office	office	NN	_	5	pobj
+9	and	and	CC	_	3	cc
+10	left	leave	VBD	_	3	conj
+11	the	the	DT	_	13	det
+12	shocked	shocked	JJ	_	13	amod
+13	managers	manager	NNS	_	10	dobj
+14	downstairs	downstairs	RB	_	13	advmod
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	shop	shop	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

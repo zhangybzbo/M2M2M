@@ -1,0 +1,3 @@
+T1	Term 51 60	materials
+T2	Term 74 84	industries
+R1	Product-Producer Arg1:T1 Arg2:T2

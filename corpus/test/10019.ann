@@ -1,0 +1,3 @@
+T1	Term 25 34	personnel
+T2	Term 99 111	organisation
+R1	Other Arg1:T1 Arg2:T2

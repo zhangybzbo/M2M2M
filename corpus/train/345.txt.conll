@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj
+2	estimate	estimate	VBP	_	0	ROOT
+3	a	a	DT	_	5	det
+4	wind	wind	NN	_	5	nn
+5	speed	speed	NN	_	2	dobj
+6	associated	associate	VBN	_	5	vmod
+7	with	with	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	devastation	devastation	NN	_	7	pobj
+10	caused	cause	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	tornado	tornado	NN	_	11	pobj
+14	.	.	.	_	2	punct
+

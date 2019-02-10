@@ -1,0 +1,19 @@
+1	It	it	PRP	_	2	nsubj
+2	underscores	underscore	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	need	need	NN	_	2	dobj
+5	for	for	IN	_	4	prep
+6	continued	continued	JJ	_	7	amod
+7	surveillance	surveillance	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	nicotine	nicotine	NN	_	10	nn
+10	delivery	delivery	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	products	product	NNS	_	11	pobj
+13	created	create	VBN	_	12	vmod
+14	by	by	IN	_	13	prep
+15	an	a	DT	_	17	det
+16	unregulated	unregulated	JJ	_	17	amod
+17	industry	industry	NN	_	14	pobj
+18	.	.	.	_	2	punct
+

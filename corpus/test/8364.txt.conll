@@ -1,0 +1,24 @@
+1	On	on	IN	_	16	prep
+2	instruments	instrument	NNS	_	1	pobj
+3	with	with	IN	_	2	prep
+4	stoppable	stoppable	JJ	_	5	amod
+5	strings	string	NNS	_	3	pobj
+6	,	,	,	_	5	punct
+7	such	such	JJ	_	8	mwe
+8	as	as	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	violin	violin	NN	_	8	pobj
+11	or	or	CC	_	10	cc
+12	guitar	guitar	NN	_	10	conj
+13	,	,	,	_	5	punct
+14	the	the	DT	_	15	det
+15	player	player	NN	_	16	nsubj
+16	shortens	shorten	VBZ	_	0	ROOT
+17	the	the	DT	_	19	det
+18	vibrating	vibrate	VBG	_	19	amod
+19	length	length	NN	_	16	dobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	string	string	NN	_	20	pobj
+23	.	.	.	_	16	punct
+

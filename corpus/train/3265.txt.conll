@@ -1,0 +1,26 @@
+1	Expecting	expect	VBG	_	0	ROOT
+2	the	the	DT	_	3	det
+3	lion	lion	NN	_	1	dobj
+4	to	to	TO	_	5	aux
+5	come	come	VB	_	1	vmod
+6	out	out	RB	_	5	advmod
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	bushes	bush	NNS	_	7	pobj
+10	at	at	IN	_	5	prep
+11	any	any	DT	_	12	det
+12	moment	moment	NN	_	10	pobj
+13	,	,	,	_	1	punct
+14	we	we	PRP	_	16	nsubjpass
+15	were	be	VBD	_	16	auxpass
+16	surprised	surprise	VBN	_	1	parataxis
+17	to	to	TO	_	18	aux
+18	see	see	VB	_	16	xcomp
+19	a	a	DT	_	20	det
+20	coalition	coalition	NN	_	18	dobj
+21	of	of	IN	_	20	prep
+22	male	male	JJ	_	23	amod
+23	cheetahs	cheetah	NNS	_	21	pobj
+24	instead	instead	RB	_	18	advmod
+25	.	.	.	_	1	punct
+

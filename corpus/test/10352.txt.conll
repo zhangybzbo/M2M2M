@@ -1,0 +1,24 @@
+1	High	high	JJ	_	2	amod
+2	fees	fee	NNS	_	7	nsubj
+3	charged	charge	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	senior	senior	JJ	_	6	amod
+6	lawyers	lawyer	NNS	_	4	pobj
+7	became	become	VBD	_	0	ROOT
+8	a	a	DT	_	9	det
+9	point	point	NN	_	7	xcomp
+10	of	of	IN	_	9	prep
+11	discussion	discussion	NN	_	10	pobj
+12	at	at	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	Apex	Apex	NNP	_	15	nn
+15	Court	Court	NNP	_	12	pobj
+16	hearing	hear	VBG	_	15	vmod
+17	the	the	DT	_	19	det
+18	Ambani	Ambani	NNP	_	19	nn
+19	brothers	brother	NNS	_	22	poss
+20	'	'	POS	_	19	possessive
+21	gas	gas	NN	_	22	nn
+22	row	row	NN	_	16	dobj
+23	.	.	.	_	7	punct
+

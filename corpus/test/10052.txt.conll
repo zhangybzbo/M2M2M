@@ -1,0 +1,23 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	records	record	NNS	_	2	nsubj
+4	from	from	IN	_	3	prep
+5	1762	1762	CD	_	4	pobj
+6	of	of	IN	_	5	prep
+7	Lord	Lord	NNP	_	8	nn
+8	Bandon	Bandon	NNP	_	6	pobj
+9	having	have	VBG	_	8	vmod
+10	a	a	DT	_	11	det
+11	mews	mew	NNS	_	9	dobj
+12	of	of	IN	_	11	prep
+13	hawks	hawk	NNS	_	12	pobj
+14	and	and	CC	_	3	cc
+15	a	a	DT	_	16	det
+16	falconer	falconer	NN	_	3	conj
+17	at	at	IN	_	16	prep
+18	Ardfert	Ardfert	NNP	_	19	nn
+19	Abbey	Abbey	NNP	_	17	pobj
+20	in	in	IN	_	19	prep
+21	Kerry	Kerry	NNP	_	20	pobj
+22	.	.	.	_	2	punct
+

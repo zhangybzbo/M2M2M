@@ -1,0 +1,22 @@
+1	Located	locate	VBN	_	0	ROOT
+2	near	near	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	equator	equator	NN	_	2	pobj
+5	in	in	IN	_	1	prep
+6	South	South	NNP	_	7	nn
+7	America	America	NNP	_	5	pobj
+8	,	,	,	_	7	punct
+9	the	the	DT	_	11	det
+10	cocoa	cocoa	NN	_	11	nn
+11	tree	tree	NN	_	12	nsubj
+12	produces	produce	VBZ	_	7	rcmod
+13	cocoa	cocoa	NN	_	14	nn
+14	beans	bean	NNS	_	12	dobj
+15	,	,	,	_	17	punct
+16	the	the	DT	_	17	det
+17	source	source	NN	_	1	dep
+18	of	of	IN	_	17	prep
+19	all	all	DT	_	20	det
+20	chocolate	chocolate	NN	_	18	pobj
+21	.	.	.	_	17	punct
+

@@ -1,0 +1,20 @@
+1	These	these	DT	_	2	det
+2	children	child	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	given	give	VBN	_	0	ROOT
+5	up	up	RP	_	4	prt
+6	everything	everything	NN	_	4	dobj
+7	-	-	:	_	6	punct
+8	all	all	DT	_	10	dep
+9	they	they	PRP	_	10	nsubj
+10	own	own	VBP	_	14	csubj
+11	now	now	RB	_	10	advmod
+12	is	be	VBZ	_	14	cop
+13	a	a	DT	_	14	det
+14	suitcase	suitcase	NN	_	6	dep
+15	with	with	IN	_	14	prep
+16	clothes	clothes	NNS	_	15	pobj
+17	in	in	IN	_	14	prep
+18	it	it	PRP	_	17	pobj
+19	.	.	.	_	4	punct
+

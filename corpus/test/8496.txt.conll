@@ -1,0 +1,10 @@
+1	Animations	animation	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	exported	export	VBN	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	8	det
+6	new	new	JJ	_	8	amod
+7	Adobe	Adobe	NNP	_	8	nn
+8	version	version	NN	_	4	pobj
+9	.	.	.	_	3	punct
+

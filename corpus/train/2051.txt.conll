@@ -1,0 +1,15 @@
+1	They	they	PRP	_	2	nsubj
+2	cremated	cremate	VBD	_	0	ROOT
+3	their	they	PRP$	_	4	poss
+4	dead	dead	JJ	_	2	dobj
+5	and	and	CC	_	2	cc
+6	placed	place	VBD	_	2	conj
+7	the	the	DT	_	8	det
+8	ashes	ash	NNS	_	6	dobj
+9	in	in	IN	_	6	prep
+10	a	a	DT	_	13	det
+11	specially	specially	RB	_	12	advmod
+12	prepared	prepared	JJ	_	13	amod
+13	pit	pit	NN	_	9	pobj
+14	.	.	.	_	2	punct
+

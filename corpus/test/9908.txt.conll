@@ -1,0 +1,20 @@
+1	The	the	DT	_	4	det
+2	glass	glass	NN	_	4	nn
+3	tealight	tealight	NN	_	4	nn
+4	holder	holder	NN	_	5	nsubj
+5	appears	appear	VBZ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	float	float	VB	_	5	xcomp
+8	inside	inside	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	metal	metal	NN	_	11	nn
+11	spiral	spiral	NN	_	8	pobj
+12	as	as	IN	_	14	mark
+13	it	it	PRP	_	14	nsubj
+14	spins	spin	VBZ	_	7	advcl
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	gentle	gentle	JJ	_	18	amod
+18	breeze	breeze	NN	_	15	pobj
+19	.	.	.	_	5	punct
+

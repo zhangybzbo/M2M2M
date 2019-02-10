@@ -1,0 +1,19 @@
+1	Both	both	DT	_	2	det
+2	bacteria	bacterium	NNS	_	3	nsubj
+3	cause	cause	VBP	_	0	ROOT
+4	mortality	mortality	NN	_	3	dobj
+5	in	in	IN	_	4	prep
+6	target	target	NN	_	7	nn
+7	species	species	NNS	_	5	pobj
+8	via	via	IN	_	3	prep
+9	a	a	DT	_	11	det
+10	lethal	lethal	JJ	_	11	amod
+11	septicaemia	septicaemia	NN	_	8	pobj
+12	as	as	IN	_	3	prep
+13	a	a	DT	_	14	det
+14	result	result	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	spore	spore	NN	_	17	nn
+17	germination	germination	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

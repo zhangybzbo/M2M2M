@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	discussion	discussion	NN	_	0	ROOT
+3	around	around	IN	_	2	prep
+4	content	content	JJ	_	5	amod
+5	shifts	shift	NNS	_	3	pobj
+6	to	to	TO	_	5	prep
+7	a	a	DT	_	9	det
+8	curation	curation	NN	_	9	nn
+9	model	model	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,18 @@
+1	More	more	RBR	_	2	advmod
+2	recently	recently	RB	_	4	advmod
+3	they	they	PRP	_	4	nsubj
+4	concluded	conclude	VBD	_	0	ROOT
+5	the	the	DT	_	4	dobj
+6	arsenic	arsenic	JJ	_	5	amod
+7	originated	originate	VBN	_	6	vmod
+8	in	in	IN	_	7	prep
+9	iron	iron	NN	_	11	nn
+10	oxide	oxide	NN	_	11	nn
+11	coatings	coating	NNS	_	8	pobj
+12	of	of	IN	_	11	prep
+13	rocks	rock	NNS	_	12	pobj
+14	lining	line	VBG	_	13	vmod
+15	the	the	DT	_	16	det
+16	aquifer	aquifer	NN	_	14	dobj
+17	.	.	.	_	4	punct
+

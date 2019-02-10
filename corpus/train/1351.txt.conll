@@ -1,0 +1,21 @@
+1	Atopic	atopic	JJ	_	2	amod
+2	dermatitis	dermatitis	NN	_	11	nsubj
+3	,	,	,	_	2	punct
+4	the	the	DT	_	7	det
+5	most	most	RBS	_	6	advmod
+6	common	common	JJ	_	7	amod
+7	type	type	NN	_	2	appos
+8	of	of	IN	_	7	prep
+9	eczema	eczema	NN	_	8	pobj
+10	,	,	,	_	2	punct
+11	causes	cause	VBZ	_	0	ROOT
+12	itchiness	itchiness	NN	_	11	dobj
+13	that	that	WDT	_	15	nsubj
+14	's	be	VBZ	_	15	cop
+15	worse	worse	JJR	_	12	rcmod
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	colder	colder	JJR	_	19	amod
+19	months	month	NNS	_	16	pobj
+20	.	.	.	_	11	punct
+

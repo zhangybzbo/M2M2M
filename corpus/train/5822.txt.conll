@@ -1,0 +1,22 @@
+1	One	one	CD	_	2	num
+2	drift	drift	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	sheep	sheep	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	marked	mark	VBN	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	red	red	JJ	_	11	amod
+11	cross	cross	NN	_	8	pobj
+12	,	,	,	_	7	punct
+13	and	and	CC	_	7	cc
+14	the	the	DT	_	16	det
+15	other	other	JJ	_	16	amod
+16	drift	drift	NN	_	7	conj
+17	with	with	IN	_	16	prep
+18	a	a	DT	_	20	det
+19	black	black	JJ	_	20	amod
+20	patch	patch	NN	_	17	pobj
+21	.	.	.	_	7	punct
+

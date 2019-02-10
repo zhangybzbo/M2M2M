@@ -1,0 +1,19 @@
+1	He	he	PRP	_	2	nsubj
+2	kept	keep	VBD	_	0	ROOT
+3	collecting	collect	VBG	_	2	xcomp
+4	those	those	DT	_	6	det
+5	book	book	NN	_	6	nn
+6	titles	title	NNS	_	3	dobj
+7	,	,	,	_	2	punct
+8	and	and	CC	_	2	cc
+9	sent	send	VBD	_	2	conj
+10	them	they	PRP	_	9	dobj
+11	to	to	TO	_	9	prep
+12	me	I	PRP	_	11	pobj
+13	for	for	IN	_	9	prep
+14	our	we	PRP$	_	17	poss
+15	next	next	JJ	_	17	amod
+16	reading	reading	NN	_	17	nn
+17	list	list	NN	_	13	pobj
+18	.	.	.	_	2	punct
+

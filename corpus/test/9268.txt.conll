@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det
+2	last	last	JJ	_	4	amod
+3	hereditary	hereditary	JJ	_	4	amod
+4	sheriff	sheriff	NN	_	7	nsubj
+5	of	of	IN	_	4	prep
+6	Galloway	Galloway	NNP	_	5	pobj
+7	used	use	VBD	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	silence	silence	NN	_	8	pobj
+10	the	the	DT	_	11	det
+11	disputation	disputation	NN	_	7	dobj
+12	of	of	IN	_	11	prep
+13	lawyers	lawyer	NNS	_	12	pobj
+14	in	in	IN	_	11	prep
+15	his	he	PRP$	_	16	poss
+16	court	court	NN	_	14	pobj
+17	by	by	IN	_	7	prep
+18	calling	call	VBG	_	17	pcomp
+19	them	they	PRP	_	18	dobj
+20	``	``	``	_	21	punct
+21	Schoondrels	schoondrels	FW	_	18	dep
+22	!	!	.	_	21	punct
+23	Blethering	blether	VBG	_	24	amod
+24	loons	loon	NNS	_	21	dep
+25	!	!	.	_	7	punct
+26	''	''	''	_	7	punct
+

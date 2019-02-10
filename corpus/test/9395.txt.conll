@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	EMC	EMC	NNP	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	common	common	JJ	_	7	amod
+6	bean	bean	NN	_	7	nn
+7	flour	flour	NN	_	3	pobj
+8	was	be	VBD	_	9	auxpass
+9	determined	determine	VBN	_	0	ROOT
+10	at	at	IN	_	9	prep
+11	10	10	CD	_	17	num
+12	,	,	,	_	11	punct
+13	25	25	CD	_	11	conj
+14	,	,	,	_	11	punct
+15	and	and	CC	_	11	cc
+16	40	40	CD	_	11	conj
+17	C.	c.	NN	_	10	pobj
+

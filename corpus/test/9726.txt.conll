@@ -1,0 +1,18 @@
+1	Relaxation	relaxation	NN	_	2	nsubj
+2	involves	involve	VBZ	_	0	ROOT
+3	concentration	concentration	NN	_	2	dobj
+4	and	and	CC	_	3	cc
+5	slow	slow	JJ	_	3	conj
+6	,	,	,	_	3	punct
+7	deep	deep	JJ	_	8	amod
+8	breathing	breathing	NN	_	3	conj
+9	to	to	TO	_	10	aux
+10	release	release	VB	_	8	vmod
+11	tension	tension	NN	_	10	dobj
+12	from	from	IN	_	11	prep
+13	muscles	muscle	NNS	_	12	pobj
+14	and	and	CC	_	3	cc
+15	relieve	relieve	VB	_	3	conj
+16	pain	pain	NN	_	15	dobj
+17	.	.	.	_	2	punct
+

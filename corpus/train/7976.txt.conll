@@ -1,0 +1,21 @@
+1	Get	get	VB	_	0	ROOT
+2	a	a	DT	_	4	det
+3	quesadilla	quesadillum	NN	_	4	nn
+4	maker	maker	NN	_	1	dobj
+5	from	from	IN	_	1	prep
+6	one	one	CD	_	5	pobj
+7	of	of	IN	_	6	prep
+8	your	you	PRP$	_	11	poss
+9	local	local	JJ	_	11	amod
+10	discount	discount	NN	_	11	nn
+11	stores	store	NNS	_	7	pobj
+12	such	such	JJ	_	13	mwe
+13	as	as	IN	_	11	prep
+14	Target	target	NN	_	13	pobj
+15	,	,	,	_	14	punct
+16	Walmart	Walmart	NNP	_	14	conj
+17	,	,	,	_	14	punct
+18	or	or	CC	_	14	cc
+19	Kmart	Kmart	NNP	_	14	conj
+20	.	.	.	_	1	punct
+

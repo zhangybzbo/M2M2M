@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	couple	couple	NN	_	3	nsubj
+3	relaxes	relax	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	cup	cup	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	coffee	coffee	NN	_	7	pobj
+9	at	at	IN	_	3	prep
+10	one	one	CD	_	9	pobj
+11	of	of	IN	_	10	prep
+12	Alaska	Alaska	NNP	_	15	poss
+13	's	's	POS	_	12	possessive
+14	fabulous	fabulous	JJ	_	15	amod
+15	bed	bed	NN	_	11	pobj
+16	and	and	CC	_	15	cc
+17	breakfasts	breakfast	NNS	_	15	conj
+18	.	.	.	_	3	punct
+

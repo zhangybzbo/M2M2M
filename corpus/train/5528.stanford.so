@@ -1,0 +1,11 @@
+0	41	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="judge" pos="NN" nsubj="t2"
+10	13	tok id="t2" base="put" pos="VBD" ROOT="ROOT"
+14	17	tok id="t3" base="two" pos="CD" num="t4"
+18	27	tok id="t4" base="question" pos="NNS" dobj="t2"
+28	30	tok id="t5" base="to" pos="TO" prep="t2"
+31	34	tok id="t6" base="the" pos="DT" det="t7"
+35	39	tok id="t7" base="jury" pos="NN" pobj="t5"
+40	41	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

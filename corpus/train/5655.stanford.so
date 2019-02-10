@@ -1,0 +1,9 @@
+0	47	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="billion" pos="NNS" nsubj="t2"
+9	13	tok id="t1" base="have" pos="VBP" aux="t2"
+14	18	tok id="t2" base="sink" pos="VBN" ROOT="ROOT"
+19	23	tok id="t3" base="into" pos="IN" prep="t2"
+24	35	tok id="t4" base="devastate" pos="VBG" amod="t5"
+36	45	tok id="t5" base="company" pos="NNS" pobj="t3"
+46	47	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

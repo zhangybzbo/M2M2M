@@ -1,0 +1,18 @@
+1	Also	also	RB	_	12	advmod
+2	,	,	,	_	12	punct
+3	a	a	DT	_	7	det
+4	small	small	JJ	_	7	amod
+5	carved	carve	VBN	_	7	amod
+6	wooden	wooden	JJ	_	7	amod
+7	sculpture	sculpture	NN	_	12	nsubjpass
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	rhinoceros	rhinoceros	NN	_	8	pobj
+11	was	be	VBD	_	12	auxpass
+12	made	make	VBN	_	0	ROOT
+13	by	by	IN	_	12	prep
+14	craftsmen	craftsman	NNS	_	13	pobj
+15	in	in	IN	_	14	prep
+16	Africa	Africa	NNP	_	15	pobj
+17	.	.	.	_	12	punct
+

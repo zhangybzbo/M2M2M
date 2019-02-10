@@ -1,0 +1,25 @@
+1	A	a	DT	_	3	det
+2	probe	probe	NN	_	3	nn
+3	tube	tube	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	introduced	introduce	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	reaction	reaction	NN	_	9	nn
+9	container	container	NN	_	6	pobj
+10	for	for	IN	_	5	prep
+11	measuring	measure	VBG	_	10	pcomp
+12	the	the	DT	_	14	det
+13	operating	operating	NN	_	14	nn
+14	condition	condition	NN	_	11	dobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	medium	medium	NN	_	15	pobj
+18	in	in	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	interior	interior	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	container	container	NN	_	21	pobj
+24	.	.	.	_	5	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	4	det
+2	safety	safety	NN	_	4	nn
+3	control	control	NN	_	4	nn
+4	system	system	NN	_	9	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	cooperative	cooperative	JJ	_	8	amod
+8	robot	robot	NN	_	5	pobj
+9	has	have	VBZ	_	0	ROOT
+10	size	size	NN	_	11	nn
+11	limitations	limitation	NNS	_	9	dobj
+12	,	,	,	_	9	punct
+13	and	and	CC	_	9	cc
+14	all	all	DT	_	15	det
+15	power	power	NN	_	17	nsubjpass
+16	is	be	VBZ	_	17	auxpass
+17	derived	derive	VBN	_	9	conj
+18	from	from	IN	_	17	prep
+19	onboard	onboard	JJ	_	20	amod
+20	batteries	battery	NNS	_	18	pobj
+21	.	.	.	_	9	punct
+

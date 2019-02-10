@@ -1,0 +1,13 @@
+1	Two	two	CD	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	Walters	Walters	NNP	_	5	poss
+4	's	's	POS	_	3	possessive
+5	fingers	finger	NNS	_	2	pobj
+6	are	be	VBP	_	1	dep
+7	inside	inside	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	koala	koala	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	pouch	pouch	NN	_	7	pobj
+12	.	.	.	_	1	punct
+

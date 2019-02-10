@@ -1,0 +1,25 @@
+1	Sean	Sean	NNP	_	3	nn
+2	Patrick	Patrick	NNP	_	3	nn
+3	Flannery	Flannery	NNP	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	Rod	Rod	NNP	_	7	nn
+6	Taylor	Taylor	NNP	_	7	nn
+7	star	star	NN	_	3	conj
+8	in	in	IN	_	3	prep
+9	this	this	DT	_	11	det
+10	horrific	horrific	JJ	_	11	amod
+11	tale	tale	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	small	small	JJ	_	15	amod
+15	town	town	NN	_	12	pobj
+16	overrun	overrun	NN	_	15	dep
+17	by	by	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	conspiracy	conspiracy	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	flesh	flesh	NN	_	23	nn
+22	eating	eating	NN	_	23	nn
+23	ravens	raven	NNS	_	20	pobj
+24	.	.	.	_	3	punct
+

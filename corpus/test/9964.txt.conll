@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	award	award	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	given	give	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	scholar	scholar	NN	_	6	pobj
+9	who	who	WP	_	10	nsubj
+10	proved	prove	VBD	_	8	rcmod
+11	the	the	DT	_	13	det
+12	mathematical	mathematical	JJ	_	13	amod
+13	theory	theory	NN	_	10	dobj
+14	.	.	.	_	5	punct
+

@@ -1,0 +1,22 @@
+1	With	with	IN	_	8	prep
+2	grain	grain	NN	_	3	nn
+3	spirits	spirit	NNS	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	7	det
+6	initial	initial	JJ	_	7	amod
+7	fermentation	fermentation	NN	_	8	nsubj
+8	takes	take	VBZ	_	0	ROOT
+9	place	place	NN	_	8	dobj
+10	after	after	IN	_	18	mark
+11	the	the	DT	_	12	det
+12	starch	starch	NN	_	18	nsubjpass
+13	that	that	WDT	_	16	nsubj
+14	is	be	VBZ	_	16	cop
+15	naturally	naturally	RB	_	16	advmod
+16	present	present	JJ	_	12	rcmod
+17	is	be	VBZ	_	18	auxpass
+18	converted	convert	VBN	_	8	advcl
+19	into	into	IN	_	18	prep
+20	sugar	sugar	NN	_	19	pobj
+21	.	.	.	_	8	punct
+

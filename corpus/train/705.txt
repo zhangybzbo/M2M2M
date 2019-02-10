@@ -1,0 +1,1 @@
+A type T thermocouple controlled air temperature at the inlet of the dryer .

@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	human	human	JJ	_	3	amod
+3	psyche	psyche	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	seen	see	VBN	_	0	ROOT
+6	to	to	TO	_	9	aux
+7	be	be	VB	_	9	cop
+8	a	a	DT	_	9	det
+9	confederation	confederation	NN	_	5	xcomp
+10	of	of	IN	_	9	prep
+11	various	various	JJ	_	12	amod
+12	aspects	aspect	NNS	_	10	pobj
+13	-LRB-	-lrb-	-LRB-	_	14	punct
+14	e.g.	e.g.	FW	_	12	dep
+15	,	,	,	_	16	punct
+16	cognition	cognition	NN	_	14	dep
+17	,	,	,	_	16	punct
+18	affection	affection	NN	_	16	conj
+19	,	,	,	_	16	punct
+20	conation	conation	NN	_	16	conj
+21	-RRB-	-rrb-	-RRB-	_	16	punct
+22	.	.	.	_	16	punct
+

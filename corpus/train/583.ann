@@ -1,0 +1,3 @@
+T1	Term 140 151	confederacy
+T2	Term 163 171	kingdoms
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,12 @@
+0	73	sentence id="s0" parse_status="success"
+0	13	tok id="t0" base="bibliometric" pos="NNS" nsubj="t5"
+14	16	tok id="t1" base="be" pos="VBZ" cop="t5"
+17	19	tok id="t2" base="a" pos="DT" det="t5"
+20	32	tok id="t3" base="increasingly" pos="RB" advmod="t4"
+33	42	tok id="t4" base="important" pos="JJ" amod="t5"
+43	47	tok id="t5" base="tool" pos="NN" ROOT="ROOT"
+48	51	tok id="t6" base="for" pos="IN" prep="t5"
+52	60	tok id="t7" base="research" pos="NN" nn="t8"
+61	71	tok id="t8" base="evaluation" pos="NN" pobj="t6"
+72	73	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,3 @@
+T1	Term 12 18	museum
+T2	Term 25 28	pit
+R1	Product-Producer Arg1:T2 Arg2:T1

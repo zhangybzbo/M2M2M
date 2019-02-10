@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det
+2	Aroon	Aroon	NNP	_	4	nn
+3	indicator	indicator	NN	_	4	nn
+4	system	system	NN	_	5	nsubj
+5	consists	consist	VBZ	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	two	two	CD	_	8	num
+8	lines	line	NNS	_	6	pobj
+9	,	,	,	_	8	punct
+10	`	`	``	_	8	punct
+11	Aroon	Aroon	NNP	_	8	dep
+12	-LRB-	-lrb-	-LRB-	_	13	punct
+13	up	up	RP	_	11	dep
+14	-RRB-	-rrb-	-RRB-	_	13	punct
+15	'	'	''	_	11	punct
+16	and	and	CC	_	8	cc
+17	`	`	``	_	18	punct
+18	Aroon	Aroon	NNP	_	8	conj
+19	-LRB-	-lrb-	-LRB-	_	20	punct
+20	down	down	RB	_	18	dep
+21	-RRB-	-rrb-	-RRB-	_	20	punct
+22	'	'	''	_	18	punct
+23	.	.	.	_	5	punct
+

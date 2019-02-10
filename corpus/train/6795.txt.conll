@@ -1,0 +1,21 @@
+1	Students	student	NNS	_	2	nsubj
+2	write	write	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	paragraph	paragraph	NN	_	2	dobj
+5	stating	state	VBG	_	4	vmod
+6	reasons	reason	NNS	_	5	dobj
+7	for	for	IN	_	6	prep
+8	doing	do	VBG	_	7	pcomp
+9	something	something	NN	_	8	dobj
+10	,	,	,	_	2	punct
+11	and	and	CC	_	2	cc
+12	then	then	RB	_	2	conj
+13	a	a	DT	_	14	det
+14	paragraph	paragraph	NN	_	12	pobj
+15	about	about	IN	_	14	prep
+16	how	how	WRB	_	18	advmod
+17	to	to	TO	_	18	aux
+18	do	do	VB	_	15	pcomp
+19	something	something	NN	_	18	dobj
+20	.	.	.	_	2	punct
+

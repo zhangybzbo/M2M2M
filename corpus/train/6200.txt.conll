@@ -1,0 +1,24 @@
+1	Hizb-e	hizb-e	JJ	_	2	amod
+2	Wahdat	Wahdat	NNP	_	13	nsubjpass
+3	,	,	,	_	2	punct
+4	a	a	DT	_	5	det
+5	confederacy	confederacy	NN	_	2	appos
+6	of	of	IN	_	5	prep
+7	various	various	JJ	_	10	amod
+8	Hazara	Hazara	NNP	_	10	nn
+9	mujahideen	mujahideen	NN	_	10	nn
+10	factions	faction	NNS	_	6	pobj
+11	,	,	,	_	2	punct
+12	was	be	VBD	_	13	auxpass
+13	supported	support	VBN	_	0	ROOT
+14	by	by	IN	_	13	prep
+15	Iran	Iran	NNP	_	14	pobj
+16	during	during	IN	_	13	prep
+17	the	the	DT	_	19	det
+18	anti-Soviet	anti-soviet	JJ	_	19	amod
+19	resistance	resistance	NN	_	16	pobj
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	1980s	1980	NNS	_	20	pobj
+23	.	.	.	_	13	punct
+

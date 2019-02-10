@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj
+2	nicked	nick	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	syringe	syringe	NN	_	2	dobj
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	nurse	nurse	NN	_	5	pobj
+8	and	and	CC	_	2	cc
+9	got	get	VBD	_	2	conj
+10	somebody	somebody	NN	_	9	dobj
+11	to	to	TO	_	12	aux
+12	get	get	VB	_	10	vmod
+13	me	I	PRP	_	12	iobj
+14	a	a	DT	_	15	det
+15	lemon	lemon	JJ	_	12	dobj
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	kitchen	kitchen	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

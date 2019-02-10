@@ -1,0 +1,1 @@
+Hence , the left regular grammars generate exactly all regular languages .

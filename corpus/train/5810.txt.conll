@@ -1,0 +1,26 @@
+1	However	however	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	5	det
+4	trial	trial	NN	_	5	nn
+5	court	court	NN	_	7	nsubj
+6	also	also	RB	_	7	advmod
+7	found	find	VBD	_	0	ROOT
+8	,	,	,	_	7	punct
+9	within	within	IN	_	7	prep
+10	the	the	DT	_	13	det
+11	same	same	JJ	_	13	amod
+12	aggravating	aggravating	JJ	_	13	amod
+13	factor	factor	NN	_	9	pobj
+14	,	,	,	_	7	punct
+15	that	that	IN	_	18	mark
+16	the	the	DT	_	17	det
+17	defendant	defendant	NN	_	18	nsubj
+18	killed	kill	VBD	_	7	ccomp
+19	the	the	DT	_	20	det
+20	victim	victim	NN	_	18	dobj
+21	with	with	IN	_	18	prep
+22	a	a	DT	_	24	det
+23	deadly	deadly	JJ	_	24	amod
+24	weapon	weapon	NN	_	21	pobj
+25	.	.	.	_	7	punct
+

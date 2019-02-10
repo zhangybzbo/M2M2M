@@ -1,0 +1,16 @@
+1	We	we	PRP	_	2	nsubj
+2	discovered	discover	VBD	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	a	a	DT	_	5	det
+5	casket	casket	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	placed	place	VBN	_	2	ccomp
+8	inside	inside	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	second	second	JJ	_	11	amod
+11	casket	casket	NN	_	8	pobj
+12	made	make	VBN	_	11	vmod
+13	of	of	IN	_	12	prep
+14	zinc	zinc	NN	_	13	pobj
+15	.	.	.	_	2	punct
+

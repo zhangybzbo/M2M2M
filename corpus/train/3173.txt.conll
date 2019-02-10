@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	3	nsubj
+3	departs	depart	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	movie	movie	NN	_	4	pobj
+7	in	in	IN	_	3	prep
+8	several	several	JJ	_	9	amod
+9	respects	respects	NNS	_	7	pobj
+10	,	,	,	_	3	punct
+11	but	but	CC	_	3	cc
+12	Eggers	Eggers	NNP	_	13	nsubj
+13	does	do	VBZ	_	3	conj
+14	an	a	DT	_	16	det
+15	excellent	excellent	JJ	_	16	amod
+16	job	job	NN	_	13	dobj
+17	taking	take	VBG	_	16	vmod
+18	us	we	PRP	_	17	dobj
+19	inside	inside	IN	_	17	prep
+20	Max	Max	NNP	_	22	poss
+21	's	's	POS	_	20	possessive
+22	head	head	NN	_	19	pobj
+23	and	and	CC	_	22	cc
+24	motivations	motivation	NNS	_	22	conj
+25	.	.	.	_	3	punct
+

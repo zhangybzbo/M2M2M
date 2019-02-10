@@ -1,0 +1,12 @@
+1	Entrepreneur	entrepreneur	NN	_	2	nsubj
+2	creates	create	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	debate	debate	NN	_	2	dobj
+5	over	over	IN	_	4	prep
+6	`	`	``	_	5	punct
+7	Amber	Amber	NNP	_	8	nn
+8	Alert	Alert	NNP	_	10	poss
+9	'	'	POS	_	8	possessive
+10	kiosks	kiosk	NNS	_	5	pobj
+11	.	.	.	_	2	punct
+

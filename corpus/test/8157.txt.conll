@@ -1,0 +1,16 @@
+1	They	they	PRP	_	2	nsubj
+2	connected	connect	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	plug	plug	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	battery	battery	NN	_	8	nn
+8	box	box	NN	_	5	pobj
+9	to	to	TO	_	2	prep
+10	the	the	DT	_	11	det
+11	plug	plug	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	charger	charger	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

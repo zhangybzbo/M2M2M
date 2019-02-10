@@ -1,0 +1,16 @@
+1	At	at	IN	_	7	prep
+2	other	other	JJ	_	3	amod
+3	times	time	NNS	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	researcher	researcher	NN	_	7	nsubj
+7	approached	approach	VBD	_	0	ROOT
+8	the	the	DT	_	9	det
+9	data	datum	NNS	_	7	dobj
+10	with	with	IN	_	9	prep
+11	predetermined	predetermined	JJ	_	12	amod
+12	categories	category	NNS	_	10	pobj
+13	in	in	IN	_	12	prep
+14	mind	mind	NN	_	13	pobj
+15	.	.	.	_	7	punct
+

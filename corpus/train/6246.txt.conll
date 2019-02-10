@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	tube	tube	NN	_	0	ROOT
+3	former	former	JJ	_	5	nsubj
+4	also	also	RB	_	5	advmod
+5	cuts	cut	VBZ	_	2	rcmod
+6	the	the	DT	_	7	det
+7	tubes	tube	NNS	_	5	dobj
+8	to	to	TO	_	5	prep
+9	length	length	NN	_	8	pobj
+10	before	before	IN	_	14	mark
+11	a	a	DT	_	13	det
+12	tube	tube	NN	_	13	nn
+13	sprayer	sprayer	NN	_	14	nsubj
+14	applies	apply	VBZ	_	5	advcl
+15	the	the	DT	_	17	det
+16	brazing	brazing	NN	_	17	nn
+17	alloy	alloy	NN	_	14	dobj
+18	to	to	TO	_	14	prep
+19	the	the	DT	_	20	det
+20	tubes	tube	NNS	_	22	poss
+21	'	'	POS	_	20	possessive
+22	OD	od	NN	_	18	pobj
+23	.	.	.	_	2	punct
+

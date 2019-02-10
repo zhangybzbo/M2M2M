@@ -1,0 +1,22 @@
+1	Beginning	begin	VBG	_	11	vmod
+2	in	in	IN	_	1	prep
+3	1939	1939	CD	_	2	pobj
+4	,	,	,	_	11	punct
+5	the	the	DT	_	6	det
+6	factory	factory	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	passenger	passenger	NN	_	9	nn
+9	cars	car	NNS	_	11	nsubjpass
+10	were	be	VBD	_	11	auxpass
+11	sold	sell	VBN	_	0	ROOT
+12	under	under	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	Moskvitch	Moskvitch	NNP	_	12	pobj
+15	-LRB-	-lrb-	-LRB-	_	17	punct
+16	``	``	``	_	17	punct
+17	Muscovite	muscovite	NN	_	20	dep
+18	''	''	''	_	17	punct
+19	-RRB-	-rrb-	-RRB-	_	17	punct
+20	brand	brand	NN	_	11	dobj
+21	.	.	.	_	11	punct
+

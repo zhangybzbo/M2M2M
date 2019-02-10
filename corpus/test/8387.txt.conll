@@ -1,0 +1,24 @@
+1	In	in	IN	_	14	prep
+2	the	the	DT	_	3	det
+3	1960s	1960	NNS	_	1	pobj
+4	,	,	,	_	14	punct
+5	a	a	DT	_	6	det
+6	University	University	NNP	_	10	dep
+7	of	of	IN	_	6	prep
+8	Wisconsin	Wisconsin	NNP	_	7	pobj
+9	graduate	graduate	JJ	_	10	amod
+10	student	student	NN	_	14	nsubj
+11	named	name	VBN	_	10	vmod
+12	Thomas	Thomas	NNP	_	13	nn
+13	Crocker	Crocker	NNP	_	11	dep
+14	came	come	VBD	_	0	ROOT
+15	up	up	RP	_	14	prt
+16	with	with	IN	_	14	prep
+17	a	a	DT	_	19	det
+18	novel	novel	JJ	_	19	amod
+19	solution	solution	NN	_	16	pobj
+20	for	for	IN	_	19	prep
+21	environmental	environmental	JJ	_	22	amod
+22	problems	problem	NNS	_	20	pobj
+23	.	.	.	_	14	punct
+

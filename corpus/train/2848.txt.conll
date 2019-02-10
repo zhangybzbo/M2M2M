@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	stand	stand	VBP	_	0	ROOT
+3	here	here	RB	_	2	advmod
+4	above	above	IN	_	2	prep
+5	the	the	DT	_	7	det
+6	twisting	twist	VBG	_	7	amod
+7	gorge	gorge	NN	_	4	pobj
+8	the	the	DT	_	9	det
+9	winds	wind	NNS	_	11	nsubj
+10	have	have	VBP	_	11	aux
+11	carved	carve	VBN	_	2	ccomp
+12	out	out	IN	_	11	prep
+13	of	of	IN	_	12	pcomp
+14	the	the	DT	_	15	det
+15	sand	sand	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

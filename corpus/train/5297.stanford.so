@@ -1,0 +1,12 @@
+0	64	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="author" pos="NN" nsubj="t2"
+11	19	tok id="t2" base="examine" pos="VBZ" ROOT="ROOT"
+20	24	tok id="t3" base="some" pos="DT" det="t4"
+25	31	tok id="t4" base="issue" pos="NNS" dobj="t2"
+32	41	tok id="t5" base="connect" pos="VBN" vmod="t4"
+42	44	tok id="t6" base="to" pos="TO" prep="t5"
+45	54	tok id="t7" base="religious" pos="JJ" amod="t8"
+55	62	tok id="t8" base="freedom" pos="NN" pobj="t6"
+63	64	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

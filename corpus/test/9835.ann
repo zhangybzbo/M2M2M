@@ -1,0 +1,3 @@
+T1	Term 34 39	brain
+T2	Term 49 52	jar
+R1	Content-Container Arg1:T1 Arg2:T2

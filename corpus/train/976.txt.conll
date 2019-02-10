@@ -1,0 +1,27 @@
+1	Voltage	voltage	NN	_	2	nsubj
+2	surges	surge	VBZ	_	0	ROOT
+3	or	or	CC	_	2	cc
+4	spikes	spike	NNS	_	6	nsubjpass
+5	are	be	VBP	_	6	auxpass
+6	caused	cause	VBN	_	2	conj
+7	by	by	IN	_	6	prep
+8	lightning	lightning	NN	_	7	pobj
+9	,	,	,	_	8	punct
+10	short	short	JJ	_	11	amod
+11	circuits	circuit	NNS	_	8	conj
+12	,	,	,	_	8	punct
+13	power	power	NN	_	16	nn
+14	company	company	NN	_	16	nn
+15	equipment	equipment	NN	_	16	nn
+16	problems	problem	NNS	_	8	conj
+17	,	,	,	_	8	punct
+18	and	and	CC	_	8	cc
+19	inductive	inductive	JJ	_	20	amod
+20	spikes	spike	NNS	_	8	conj
+21	,	,	,	_	2	punct
+22	among	among	IN	_	2	prep
+23	many	many	JJ	_	25	amod
+24	other	other	JJ	_	25	amod
+25	causes	cause	NNS	_	22	pobj
+26	.	.	.	_	2	punct
+

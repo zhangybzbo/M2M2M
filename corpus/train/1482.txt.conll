@@ -1,0 +1,16 @@
+1	At	at	IN	_	8	prep
+2	the	the	DT	_	3	det
+3	moment	moment	NN	_	1	pobj
+4	heavy	heavy	JJ	_	6	amod
+5	snow	snow	NN	_	6	nn
+6	showers	shower	NNS	_	8	nsubj
+7	are	be	VBP	_	8	aux
+8	running	run	VBG	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	Northeastern	northeastern	JJ	_	12	amod
+12	regions	region	NNS	_	9	pobj
+13	of	of	IN	_	12	prep
+14	England	England	NNP	_	13	pobj
+15	.	.	.	_	8	punct
+

@@ -1,0 +1,14 @@
+1	Solutions	Solutions	NNPS	_	12	nsubjpass
+2	involving	involve	VBG	_	1	vmod
+3	legislation	legislation	NN	_	2	dobj
+4	,	,	,	_	3	punct
+5	technical	technical	JJ	_	6	amod
+6	innovation	innovation	NN	_	3	conj
+7	and	and	CC	_	3	cc
+8	international	international	JJ	_	9	amod
+9	cooperation	cooperation	NN	_	3	conj
+10	have	have	VBP	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	examined	examine	VBN	_	0	ROOT
+13	.	.	.	_	12	punct
+

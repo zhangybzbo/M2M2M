@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	file	file	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	description	description	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	settings	setting	NNS	_	6	pobj
+9	that	that	WDT	_	12	nsubjpass
+10	can	can	MD	_	12	aux
+11	be	be	VB	_	12	auxpass
+12	altered	alter	VBN	_	8	rcmod
+13	.	.	.	_	3	punct
+

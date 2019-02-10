@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	presidential	presidential	JJ	_	3	amod
+3	candidate	candidate	NN	_	4	nsubj
+4	arrived	arrive	VBD	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	the	the	DT	_	8	det
+7	cheering	cheer	VBG	_	8	amod
+8	crowd	crowd	NN	_	5	pobj
+9	at	at	IN	_	8	prep
+10	Fort	Fort	NNP	_	11	nn
+11	Hood	Hood	NNP	_	9	pobj
+12	.	.	.	_	4	punct
+

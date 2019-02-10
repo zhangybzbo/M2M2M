@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	nsubj
+2	proves	prove	VBZ	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	the	the	DT	_	5	det
+5	generator	generator	NN	_	7	nsubj
+6	actually	actually	RB	_	7	advmod
+7	produced	produce	VBD	_	2	ccomp
+8	the	the	DT	_	10	det
+9	renewable	renewable	JJ	_	10	amod
+10	energy	energy	NN	_	7	dobj
+11	purchased	purchase	VBN	_	10	vmod
+12	and	and	CC	_	7	cc
+13	acts	act	VBZ	_	7	conj
+14	as	as	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	operative	operative	JJ	_	17	amod
+17	instrument	instrument	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	transaction	transaction	NN	_	18	pobj
+21	.	.	.	_	2	punct
+

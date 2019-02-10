@@ -1,0 +1,20 @@
+1	For	for	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	moment	moment	NN	_	1	pobj
+4	with	with	IN	_	6	prep
+5	you	you	PRP	_	4	pobj
+6	gives	give	VBZ	_	0	ROOT
+7	me	I	PRP	_	6	iobj
+8	hope	hope	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	happier	happier	JJR	_	11	amod
+11	tomorrows	tomorrow	NNS	_	9	pobj
+12	and	and	CC	_	6	cc
+13	eases	ease	VBZ	_	6	conj
+14	the	the	DT	_	15	det
+15	pain	pain	NN	_	13	dobj
+16	from	from	IN	_	15	prep
+17	sad	sad	JJ	_	18	amod
+18	yesterdays	yesterday	NNS	_	16	pobj
+19	.	.	.	_	6	punct
+

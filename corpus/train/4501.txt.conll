@@ -1,0 +1,18 @@
+1	Squirrel	squirrel	NN	_	2	nsubj
+2	stuffed	stuff	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	acorns	acorn	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	his	he	PRP$	_	7	poss
+7	cheeks	cheek	NNS	_	5	pobj
+8	until	until	IN	_	11	mark
+9	they	they	PRP	_	11	nsubjpass
+10	were	be	VBD	_	11	auxpass
+11	puffed	puff	VBN	_	2	advcl
+12	up	up	RP	_	11	prt
+13	like	like	IN	_	11	prep
+14	two	two	CD	_	16	num
+15	furry	furry	JJ	_	16	amod
+16	balloons	balloon	NNS	_	13	pobj
+17	.	.	.	_	2	punct
+

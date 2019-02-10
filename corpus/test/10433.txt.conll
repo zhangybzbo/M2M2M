@@ -1,0 +1,18 @@
+1	Many	many	JJ	_	12	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	larger	larger	JJR	_	5	amod
+5	teeth	tooth	NNS	_	2	pobj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	back	back	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	your	you	PRP$	_	11	poss
+11	jaws	jaw	NNS	_	9	pobj
+12	have	have	VBP	_	0	ROOT
+13	two	two	CD	_	16	num
+14	or	or	CC	_	13	cc
+15	three	three	CD	_	13	conj
+16	roots	root	NNS	_	12	dobj
+17	.	.	.	_	12	punct
+

@@ -1,0 +1,21 @@
+1	At	at	IN	_	13	prep
+2	their	they	PRP$	_	3	poss
+3	peak	peak	NN	_	1	pobj
+4	on	on	IN	_	3	prep
+5	Saturday	Saturday	NNP	_	4	pobj
+6	,	,	,	_	13	punct
+7	23	23	CD	_	8	num
+8	September	September	NNP	_	13	dep
+9	,	,	,	_	8	punct
+10	the	the	DT	_	12	det
+11	powerboat	powerboat	NN	_	12	nn
+12	manufacturer	manufacturer	NN	_	13	nsubj
+13	sold	sell	VBD	_	0	ROOT
+14	a	a	DT	_	16	det
+15	new	new	JJ	_	16	amod
+16	boat	boat	NN	_	13	dobj
+17	every	every	DT	_	19	det
+18	28	28	CD	_	19	num
+19	minutes	minute	NNS	_	13	tmod
+20	.	.	.	_	13	punct
+

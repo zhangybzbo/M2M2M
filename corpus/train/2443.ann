@@ -1,0 +1,3 @@
+T1	Term 9 13	list
+T2	Term 26 33	patents
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,23 @@
+1	A	a	DT	_	3	det
+2	busy	busy	JJ	_	3	amod
+3	crew	crew	NN	_	7	nsubj
+4	behind	behind	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	counter	counter	NN	_	4	pobj
+7	assembles	assemble	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	sandwiches	sandwich	NNS	_	7	dobj
+10	with	with	IN	_	7	prep
+11	two	two	CD	_	12	num
+12	pieces	piece	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	fried	fried	JJ	_	16	amod
+15	chicken	chicken	NN	_	16	nn
+16	breast	breast	NN	_	13	pobj
+17	,	,	,	_	16	punct
+18	which	which	WDT	_	21	nsubjpass
+19	are	be	VBP	_	21	auxpass
+20	beautifully	beautifully	RB	_	21	advmod
+21	battered	batter	VBN	_	16	rcmod
+22	.	.	.	_	7	punct
+

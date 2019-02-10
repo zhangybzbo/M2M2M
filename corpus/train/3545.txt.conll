@@ -1,0 +1,13 @@
+1	To	to	TO	_	8	prep
+2	the	the	DT	_	3	det
+3	right	right	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	that	that	DT	_	4	pobj
+6	is	be	VBZ	_	8	cop
+7	a	a	DT	_	8	det
+8	cup	cup	NN	_	0	ROOT
+9	with	with	IN	_	8	prep
+10	soil	soil	NN	_	9	pobj
+11	inside	inside	IN	_	8	advmod
+12	.	.	.	_	8	punct
+

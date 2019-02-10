@@ -1,0 +1,17 @@
+1	I/O	i/o	NN	_	2	nn
+2	traffic	traffic	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	transferred	transfer	VBN	_	0	ROOT
+5	directly	directly	RB	_	4	advmod
+6	into	into	IN	_	4	prep
+7	a	a	DT	_	10	det
+8	target	target	NN	_	10	nn
+9	processor	processor	NN	_	10	nn
+10	cache	cache	NN	_	6	pobj
+11	in	in	IN	_	4	prep
+12	accordance	accordance	NN	_	11	pobj
+13	with	with	IN	_	12	prep
+14	routing	route	VBG	_	13	pcomp
+15	information	information	NN	_	14	dobj
+16	.	.	.	_	4	punct
+

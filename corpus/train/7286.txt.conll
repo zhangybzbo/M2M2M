@@ -1,0 +1,16 @@
+1	I	I	PRP	_	4	nsubj
+2	have	have	VBP	_	4	aux
+3	always	always	RB	_	4	advmod
+4	drawn	draw	VBN	_	0	ROOT
+5	satisfaction	satisfaction	NN	_	4	dobj
+6	from	from	IN	_	4	prep
+7	exertion	exertion	NN	_	6	pobj
+8	,	,	,	_	4	punct
+9	straining	strain	VBG	_	4	vmod
+10	my	my	PRP$	_	11	poss
+11	muscles	muscle	NNS	_	9	dobj
+12	to	to	TO	_	9	prep
+13	their	they	PRP$	_	14	poss
+14	limits	limit	NNS	_	12	pobj
+15	.	.	.	_	4	punct
+

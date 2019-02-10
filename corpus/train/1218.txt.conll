@@ -1,0 +1,26 @@
+1	Nearly	nearly	RB	_	4	advmod
+2	all	all	DT	_	4	det
+3	sensory	sensory	JJ	_	4	amod
+4	information	information	NN	_	12	nsubj
+5	-LRB-	-lrb-	-LRB-	_	12	punct
+6	except	except	IN	_	12	prep
+7	the	the	DT	_	8	det
+8	sense	sense	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	smell	smell	NN	_	9	pobj
+11	-RRB-	-rrb-	-RRB-	_	12	punct
+12	arrives	arrive	VBZ	_	0	ROOT
+13	here	here	RB	_	12	advmod
+14	from	from	IN	_	12	prep
+15	the	the	DT	_	18	det
+16	primary	primary	JJ	_	18	amod
+17	sensory	sensory	JJ	_	18	amod
+18	neurons	neuron	NNS	_	14	pobj
+19	before	before	IN	_	12	prep
+20	being	be	VBG	_	21	auxpass
+21	sent	send	VBN	_	19	pcomp
+22	to	to	TO	_	21	prep
+23	the	the	DT	_	24	det
+24	cortex	cortex	NN	_	22	pobj
+25	.	.	.	_	12	punct
+

@@ -1,0 +1,1 @@
+The Aroon indicator system consists of two lines , ` Aroon -LRB- up -RRB- ' and ` Aroon -LRB- down -RRB- ' .

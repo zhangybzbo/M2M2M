@@ -1,0 +1,13 @@
+1	For	for	IN	_	5	prep
+2	a	a	DT	_	4	det
+3	time	time	NN	_	4	nn
+4	class	class	NN	_	1	pobj
+5	became	become	VBD	_	0	ROOT
+6	the	the	DT	_	9	det
+7	dominant	dominant	JJ	_	9	amod
+8	research	research	NN	_	9	nn
+9	topic	topic	NN	_	5	xcomp
+10	for	for	IN	_	9	prep
+11	sociology	sociology	NN	_	10	pobj
+12	.	.	.	_	5	punct
+

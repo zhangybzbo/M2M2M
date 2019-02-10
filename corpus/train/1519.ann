@@ -1,0 +1,3 @@
+T1	Term 23 27	horn
+T2	Term 41 46	valve
+R1	Component-Whole Arg1:T2 Arg2:T1

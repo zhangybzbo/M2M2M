@@ -1,0 +1,23 @@
+1	Three	three	CD	_	2	num
+2	years	year	NNS	_	3	npadvmod
+3	ago	ago	IN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	coalition	coalition	NN	_	6	nsubj
+6	organized	organize	VBN	_	3	pcomp
+7	a	a	DT	_	9	det
+8	strategic	strategic	JJ	_	9	amod
+9	cooperative	cooperative	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	several	several	JJ	_	13	amod
+12	farmers	farmer	NNS	_	13	nn
+13	associations	association	NNS	_	10	pobj
+14	to	to	TO	_	15	aux
+15	export	export	VB	_	6	xcomp
+16	mangos	mango	NNS	_	15	dobj
+17	under	under	IN	_	15	prep
+18	the	the	DT	_	21	det
+19	Taiwan	Taiwan	NNP	_	21	nn
+20	Mango	Mango	NNP	_	21	nn
+21	brand	brand	NN	_	17	pobj
+22	.	.	.	_	3	punct
+

@@ -1,0 +1,12 @@
+1	A	a	DT	_	2	det
+2	kid	kid	NN	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	baby	baby	NN	_	6	nn
+6	koala	koala	NN	_	3	dobj
+7	to	to	TO	_	3	prep
+8	church	church	NN	_	7	pobj
+9	on	on	IN	_	3	prep
+10	Sunday	Sunday	NNP	_	9	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,1 @@
+Express buses depart the airport every 1 hour from 6.00 until 1.00 .

@@ -1,0 +1,3 @@
+T1	Term 45 56	devastation
+T2	Term 71 78	tornado
+R1	Cause-Effect Arg1:T2 Arg2:T1

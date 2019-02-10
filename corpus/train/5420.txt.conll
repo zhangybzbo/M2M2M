@@ -1,0 +1,8 @@
+1	Prospectors	prospector	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	arrived	arrive	VBN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	midland	midland	JJ	_	6	amod
+6	cars	car	NNS	_	4	pobj
+7	.	.	.	_	3	punct
+

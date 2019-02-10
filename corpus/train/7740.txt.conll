@@ -1,0 +1,14 @@
+1	Originally	originally	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	the	the	DT	_	6	det
+4	typewriter	typewriter	NN	_	6	nn
+5	sales	sale	NNS	_	6	nn
+6	companies	company	NNS	_	7	nsubj
+7	sold	sell	VBD	_	0	ROOT
+8	the	the	DT	_	9	det
+9	typist	typist	NN	_	7	dobj
+10	with	with	IN	_	7	prep
+11	the	the	DT	_	12	det
+12	typewriter	typewriter	NN	_	10	pobj
+13	.	.	.	_	7	punct
+

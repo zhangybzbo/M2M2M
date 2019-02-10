@@ -1,0 +1,19 @@
+1	It	it	PRP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	very	very	RB	_	4	advmod
+4	natural	natural	JJ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	normal	normal	JJ	_	4	conj
+7	to	to	TO	_	8	aux
+8	feel	feel	VB	_	4	xcomp
+9	grief	grief	NN	_	8	dobj
+10	and	and	CC	_	9	cc
+11	sorrow	sorrow	NN	_	9	conj
+12	after	after	IN	_	8	prep
+13	the	the	DT	_	14	det
+14	loss	loss	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	pet	pet	NN	_	15	pobj
+18	.	.	.	_	4	punct
+

@@ -1,0 +1,23 @@
+1	When	when	WRB	_	4	advmod
+2	Frances	Frances	NNP	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	13	13	CD	_	7	advcl
+5	,	,	,	_	7	punct
+6	she	she	PRP	_	7	nsubj
+7	read	read	VBD	_	0	ROOT
+8	an	a	DT	_	9	det
+9	article	article	NN	_	7	dobj
+10	about	about	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	woman	woman	NN	_	10	pobj
+13	who	who	WP	_	14	nsubj
+14	escaped	escape	VBD	_	12	rcmod
+15	an	a	DT	_	17	det
+16	unhappy	unhappy	JJ	_	17	amod
+17	marriage	marriage	NN	_	14	dobj
+18	and	and	CC	_	14	cc
+19	went	go	VBD	_	14	conj
+20	to	to	TO	_	19	prep
+21	Kenya	Kenya	NNP	_	20	pobj
+22	.	.	.	_	7	punct
+

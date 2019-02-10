@@ -1,0 +1,20 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	0	ROOT
+3	who	who	WP	_	4	nsubj
+4	fell	fall	VBD	_	2	rcmod
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	bridge	bridge	NN	_	5	pobj
+8	along	along	IN	_	7	prep
+9	Interstate	Interstate	NNP	_	8	pobj
+10	29/35	29/35	CD	_	9	num
+11	after	after	IN	_	18	mark
+12	running	run	VBG	_	18	csubj
+13	from	from	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	minor	minor	JJ	_	16	amod
+16	crash	crash	NN	_	13	pobj
+17	has	have	VBZ	_	18	aux
+18	died	die	VBN	_	4	advcl
+19	.	.	.	_	2	punct
+

@@ -1,0 +1,3 @@
+T1	Term 210 219	suffering
+T2	Term 253 261	officers
+R1	Cause-Effect Arg1:T2 Arg2:T1

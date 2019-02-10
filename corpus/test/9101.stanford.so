@@ -1,0 +1,13 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="president" pos="NN" nsubj="t6"
+14	16	tok id="t2" base="of" pos="IN" prep="t1"
+17	21	tok id="t3" base="this" pos="DT" det="t4"
+22	33	tok id="t4" base="corporation" pos="NN" pobj="t2"
+34	37	tok id="t5" base="be" pos="VBD" cop="t6"
+38	41	tok id="t6" base="one" pos="CD" ROOT="ROOT"
+42	44	tok id="t7" base="of" pos="IN" prep="t6"
+45	48	tok id="t8" base="its" pos="PRP$" poss="t9"
+49	61	tok id="t9" base="stockholder" pos="NNS" pobj="t7"
+62	63	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

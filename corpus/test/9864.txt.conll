@@ -1,0 +1,18 @@
+1	In	in	IN	_	5	prep
+2	1993	1993	CD	_	1	pobj
+3	the	the	DT	_	4	det
+4	party	party	NN	_	5	nsubj
+5	won	win	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	governorship	governorship	NN	_	5	dobj
+8	with	with	IN	_	5	prep
+9	a	a	DT	_	10	det
+10	pledge	pledge	NN	_	8	pobj
+11	to	to	TO	_	12	aux
+12	cut	cut	VB	_	10	vmod
+13	income	income	NN	_	14	nn
+14	taxes	tax	NNS	_	12	dobj
+15	30	30	CD	_	16	num
+16	%	%	NN	_	12	npadvmod
+17	.	.	.	_	5	punct
+

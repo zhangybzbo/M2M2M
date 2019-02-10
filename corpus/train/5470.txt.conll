@@ -1,0 +1,9 @@
+1	Someone	someone	NN	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	blown	blow	VBN	_	0	ROOT
+4	soot	soot	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	my	my	PRP$	_	7	poss
+7	face	face	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

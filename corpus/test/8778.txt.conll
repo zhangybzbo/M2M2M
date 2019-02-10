@@ -1,0 +1,25 @@
+1	Basic	basic	JJ	_	2	amod
+2	diagrams	diagram	NNS	_	4	nsubj
+3	also	also	RB	_	4	advmod
+4	work	work	VBP	_	0	ROOT
+5	well	well	RB	_	4	advmod
+6	on	on	IN	_	4	prep
+7	the	the	DT	_	9	det
+8	computer	computer	NN	_	9	nn
+9	screen	screen	NN	_	6	pobj
+10	if	if	IN	_	14	mark
+11	they	they	PRP	_	14	nsubjpass
+12	are	be	VBP	_	14	auxpass
+13	carefully	carefully	RB	_	14	advmod
+14	designed	design	VBN	_	4	advcl
+15	to	to	TO	_	16	aux
+16	match	match	VB	_	14	xcomp
+17	the	the	DT	_	18	det
+18	grid	grid	NN	_	16	dobj
+19	of	of	IN	_	18	prep
+20	pixels	pixel	NNS	_	19	pobj
+21	on	on	IN	_	16	prep
+22	the	the	DT	_	23	det
+23	screen	screen	NN	_	21	pobj
+24	.	.	.	_	4	punct
+

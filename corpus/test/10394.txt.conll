@@ -1,0 +1,21 @@
+1	As	as	IN	_	5	mark
+2	Iran	Iran	NNP	_	4	poss
+3	's	's	POS	_	2	possessive
+4	press	press	NN	_	5	nsubj
+5	continues	continue	VBZ	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	digest	digest	VB	_	5	xcomp
+8	the	the	DT	_	9	det
+9	election	election	NN	_	10	nsubj
+10	results	result	VBZ	_	7	ccomp
+11	,	,	,	_	10	punct
+12	conservative	conservative	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	reformist	reformist	JJ	_	12	conj
+15	outlets	outlet	NNS	_	16	nsubj
+16	condemn	condemn	VBP	_	10	ccomp
+17	perceived	perceive	VBN	_	19	amod
+18	US	US	NNP	_	19	nn
+19	interference	interference	NN	_	16	dobj
+20	.	.	.	_	5	punct
+

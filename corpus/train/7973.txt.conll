@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	student	student	NN	_	3	nsubj
+3	provided	provide	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	written	write	VBN	_	6	amod
+6	request	request	NN	_	3	dobj
+7	,	,	,	_	6	punct
+8	mailed	mail	VBN	_	6	vmod
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	12	det
+11	Executive	Executive	NNP	_	12	nn
+12	Director	Director	NNP	_	9	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	Pacific	Pacific	NNP	_	16	nn
+16	Division	Division	NNP	_	13	pobj
+17	.	.	.	_	3	punct
+

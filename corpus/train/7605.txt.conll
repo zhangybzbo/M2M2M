@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det
+2	night	night	NN	_	3	nn
+3	hell	hell	NN	_	4	nsubj
+4	fell	fall	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	sky	sky	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

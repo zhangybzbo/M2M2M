@@ -1,0 +1,17 @@
+1	During	during	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	period	period	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	economy	economy	NN	_	6	nn
+6	growth	growth	NN	_	4	pobj
+7	,	,	,	_	11	punct
+8	those	those	DT	_	9	det
+9	people	people	NNS	_	11	nsubj
+10	have	have	VBP	_	11	aux
+11	migrated	migrate	VBN	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	urban	urban	JJ	_	15	amod
+15	areas	area	NNS	_	12	pobj
+16	.	.	.	_	11	punct
+

@@ -1,0 +1,22 @@
+1	Brickwork	Brickwork	NNP	_	0	ROOT
+2	is	be	VBZ	_	1	dep
+3	masonry	masonry	NN	_	2	nsubj
+4	produced	produce	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	bricklayer	bricklayer	NN	_	5	pobj
+8	,	,	,	_	2	punct
+9	using	use	VBG	_	2	xcomp
+10	bricks	brick	NNS	_	9	dobj
+11	and	and	CC	_	10	cc
+12	mortar	mortar	NN	_	10	conj
+13	to	to	TO	_	14	aux
+14	build	build	VB	_	9	vmod
+15	up	up	RP	_	14	prt
+16	brick	brick	NN	_	17	nn
+17	structures	structure	NNS	_	14	dobj
+18	such	such	JJ	_	19	mwe
+19	as	as	IN	_	17	prep
+20	walls	wall	NNS	_	19	pobj
+21	.	.	.	_	1	punct
+

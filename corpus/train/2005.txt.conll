@@ -1,0 +1,13 @@
+1	Scientists	scientist	NNS	_	2	nsubj
+2	discovered	discover	VBD	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	these	these	DT	_	5	det
+5	drugs	drug	NNS	_	7	nsubjpass
+6	were	be	VBD	_	7	auxpass
+7	related	relate	VBN	_	2	ccomp
+8	to	to	TO	_	7	prep
+9	heart	heart	NN	_	11	nn
+10	valve	valve	NN	_	11	nn
+11	disease	disease	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

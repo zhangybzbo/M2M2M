@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	indenter	indenter	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	pushed	push	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	material	material	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	and	and	CC	_	4	cc
+10	both	both	CC	_	12	preconj
+11	the	the	DT	_	12	det
+12	load	load	NN	_	15	nsubj
+13	and	and	CC	_	12	cc
+14	displacement	displacement	NN	_	12	conj
+15	increase	increase	NN	_	4	conj
+16	.	.	.	_	4	punct
+

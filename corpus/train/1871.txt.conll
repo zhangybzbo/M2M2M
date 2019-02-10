@@ -1,0 +1,15 @@
+1	In	in	IN	_	11	prep
+2	the	the	DT	_	4	det
+3	first	first	JJ	_	4	amod
+4	year	year	NN	_	1	pobj
+5	of	of	IN	_	4	prep
+6	King	King	NNP	_	7	nn
+7	Cyrus	Cyrus	NNP	_	5	pobj
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	king	king	NN	_	11	nsubj
+11	issued	issue	VBD	_	0	ROOT
+12	a	a	DT	_	13	det
+13	decree	decree	NN	_	11	dobj
+14	.	.	.	_	11	punct
+

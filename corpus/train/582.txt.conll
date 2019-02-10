@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	photomask	photomask	NN	_	5	nsubjpass
+3	is	be	VBZ	_	5	auxpass
+4	usually	usually	RB	_	5	advmod
+5	prepared	prepare	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	photoplotter	photoplotter	NN	_	6	pobj
+9	from	from	IN	_	8	prep
+10	data	datum	NNS	_	9	pobj
+11	produced	produce	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	technician	technician	NN	_	12	pobj
+15	using	use	VBG	_	14	vmod
+16	CAM	CAM	NNP	_	15	dobj
+17	,	,	,	_	16	punct
+18	or	or	CC	_	16	cc
+19	computer-aided	computer-aided	JJ	_	21	amod
+20	manufacturing	manufacturing	NN	_	21	nn
+21	software	software	NN	_	16	conj
+22	.	.	.	_	5	punct
+

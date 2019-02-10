@@ -1,0 +1,1 @@
+This machine has a memory of 5000 slots and in this memory we can stock 500 customers and products .

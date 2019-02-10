@@ -1,0 +1,1 @@
+The damage caused by a bullet depends on the amount of energy which it transfers to the tissues .

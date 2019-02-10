@@ -1,0 +1,3 @@
+T1	Term 23 34	stamp stock
+T2	Term 51 55	safe
+R1	Entity-Destination Arg1:T1 Arg2:T2

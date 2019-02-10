@@ -1,0 +1,18 @@
+1	A	a	DT	_	4	det
+2	simple	simple	JJ	_	4	amod
+3	DC	dc	NN	_	4	nn
+4	motor	motor	NN	_	5	nsubj
+5	has	have	VBZ	_	0	ROOT
+6	a	a	DT	_	7	det
+7	coil	coil	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	wire	wire	NN	_	8	pobj
+10	that	that	WDT	_	12	nsubj
+11	can	can	MD	_	12	aux
+12	rotate	rotate	VB	_	7	rcmod
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	magnetic	magnetic	JJ	_	16	amod
+16	field	field	NN	_	13	pobj
+17	.	.	.	_	5	punct
+

@@ -1,0 +1,27 @@
+1	Biddle	Biddle	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	done	do	VBN	_	0	ROOT
+4	a	a	DT	_	6	det
+5	thorough	thorough	JJ	_	6	amod
+6	job	job	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	cutting	cut	VBG	_	7	pcomp
+9	through	through	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	thicket	thicket	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	contradictions	contradiction	NNS	_	12	pobj
+14	and	and	CC	_	13	cc
+15	fantasies	fantasy	NNS	_	13	conj
+16	that	that	WDT	_	17	nsubj
+17	surround	surround	VBP	_	13	rcmod
+18	the	the	DT	_	21	det
+19	strategic	strategic	JJ	_	21	amod
+20	bombing	bombing	NN	_	21	nn
+21	debate	debate	NN	_	17	dobj
+22	from	from	IN	_	21	prep
+23	1914	1914	CD	_	22	pobj
+24	to	to	TO	_	22	prep
+25	1945	1945	CD	_	24	pobj
+26	.	.	.	_	3	punct
+

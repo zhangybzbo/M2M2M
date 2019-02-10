@@ -1,0 +1,19 @@
+1	Players	player	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	tasked	task	VBN	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	building	build	VBG	_	4	pcomp
+6	an	a	DT	_	7	det
+7	armada	armada	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	ships	ship	NNS	_	8	pobj
+10	and	and	CC	_	9	cc
+11	a	a	DT	_	12	det
+12	base	base	NN	_	9	conj
+13	from	from	IN	_	16	prep
+14	which	which	WDT	_	13	pobj
+15	to	to	TO	_	16	aux
+16	deploy	deploy	VB	_	12	rcmod
+17	them	they	PRP	_	16	dobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,25 @@
+1	Heavy	heavy	JJ	_	2	amod
+2	thunderstorms	thunderstorm	NNS	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	cancellation	cancellation	NN	_	3	dobj
+5	of	of	IN	_	4	prep
+6	races	race	NNS	_	5	pobj
+7	later	later	RB	_	3	advmod
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	afternoon	afternoon	NN	_	8	pobj
+11	preventing	prevent	VBG	_	3	xcomp
+12	the	the	DT	_	15	det
+13	Masters	master	NN	_	15	nn
+14	Mens	men	NN	_	15	nn
+15	fours	fours	NNS	_	11	dobj
+16	and	and	CC	_	15	cc
+17	Masters	master	NN	_	18	nn
+18	Womens	women	NNS	_	15	conj
+19	and	and	CC	_	15	cc
+20	Womens	women	NNS	_	21	nn
+21	eights	eight	NNS	_	15	conj
+22	from	from	IN	_	21	prep
+23	racing	racing	NN	_	22	pobj
+24	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	These	these	DT	_	2	det
+2	acts	act	NNS	_	3	nsubj
+3	declared	declare	VBD	_	0	ROOT
+4	principles	principle	NNS	_	3	dobj
+5	and	and	CC	_	4	cc
+6	established	established	JJ	_	7	amod
+7	policies	policy	NNS	_	4	conj
+8	in	in	IN	_	4	prep
+9	the	the	DT	_	11	det
+10	only	only	JJ	_	11	amod
+11	way	way	NN	_	8	pobj
+12	it	it	PRP	_	17	nsubjpass
+13	has	have	VBZ	_	17	aux
+14	ever	ever	RB	_	17	advmod
+15	been	be	VBN	_	17	auxpass
+16	successfully	successfully	RB	_	17	advmod
+17	done	do	VBN	_	11	rcmod
+18	.	.	.	_	3	punct
+

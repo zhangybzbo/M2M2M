@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	facades	facade	NNS	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	palace	palace	NN	_	3	pobj
+6	consist	consist	VBP	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	beautifully	beautifully	RB	_	9	advmod
+9	decorated	decorate	VBN	_	11	amod
+10	wooden	wooden	JJ	_	11	amod
+11	doors	door	NNS	_	7	pobj
+12	and	and	CC	_	11	cc
+13	windows	window	NNS	_	11	conj
+14	and	and	CC	_	11	cc
+15	ventilations	ventilation	NNS	_	11	conj
+16	in	in	IN	_	6	prep
+17	addition	addition	NN	_	16	pobj
+18	to	to	TO	_	17	prep
+19	decorated	decorate	VBN	_	21	amod
+20	gypsum	gypsum	NN	_	21	nn
+21	motifs	motif	NNS	_	18	pobj
+22	.	.	.	_	6	punct
+

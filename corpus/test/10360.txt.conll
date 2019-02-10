@@ -1,0 +1,26 @@
+1	This	this	DT	_	3	det
+2	humorous	humorous	JJ	_	3	amod
+3	fable	fable	NN	_	4	nsubj
+4	illustrates	illustrate	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	progress	progress	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	education	education	NN	_	7	pobj
+9	and	and	CC	_	4	cc
+10	gives	give	VBZ	_	4	conj
+11	valuable	valuable	JJ	_	12	amod
+12	insights	insight	NNS	_	10	dobj
+13	into	into	IN	_	12	prep
+14	how	how	WRB	_	17	advmod
+15	it	it	PRP	_	17	nsubj
+16	could	could	MD	_	17	aux
+17	continue	continue	VB	_	13	pcomp
+18	to	to	TO	_	19	aux
+19	develop	develop	VB	_	17	xcomp
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	decades	decade	NNS	_	20	pobj
+23	to	to	TO	_	24	aux
+24	come	come	VB	_	19	xcomp
+25	.	.	.	_	4	punct
+

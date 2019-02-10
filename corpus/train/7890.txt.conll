@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	headmaster	headmaster	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	formal	formal	JJ	_	6	amod
+6	announcement	announcement	NN	_	3	dobj
+7	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	Here	here	RB	_	2	advmod
+2	is	be	VBZ	_	0	ROOT
+3	Jose	Jose	NNP	_	5	nn
+4	Mojica	Mojica	NNP	_	5	nn
+5	Marins	Marins	NNP	_	2	nsubj
+6	,	,	,	_	5	punct
+7	the	the	DT	_	10	det
+8	popular	popular	JJ	_	10	amod
+9	Coffin	coffin	NN	_	10	nn
+10	Joe	Joe	NNP	_	5	appos
+11	,	,	,	_	10	punct
+12	a	a	DT	_	13	det
+13	filmmaker	filmmaker	NN	_	10	appos
+14	who	who	WP	_	15	nsubj
+15	invented	invent	VBD	_	13	rcmod
+16	a	a	DT	_	17	det
+17	cinema	cinema	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	total	total	JJ	_	20	amod
+20	grossness	grossness	NN	_	18	pobj
+21	.	.	.	_	2	punct
+

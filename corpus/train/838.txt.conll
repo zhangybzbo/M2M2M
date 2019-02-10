@@ -1,0 +1,19 @@
+1	Many	many	JJ	_	5	amod
+2	simple	simple	JJ	_	5	amod
+3	DC	dc	NN	_	5	nn
+4	power	power	NN	_	5	nn
+5	supplies	supplies	NNS	_	6	nsubj
+6	regulate	regulate	VBP	_	0	ROOT
+7	the	the	DT	_	8	det
+8	voltage	voltage	NN	_	6	dobj
+9	using	use	VBG	_	8	vmod
+10	a	a	DT	_	12	det
+11	shunt	shunt	NN	_	12	nn
+12	regulator	regulator	NN	_	9	dobj
+13	such	such	JJ	_	14	mwe
+14	as	as	IN	_	12	prep
+15	a	a	DT	_	17	det
+16	zener	zener	NN	_	17	nn
+17	diode	diode	NN	_	14	pobj
+18	.	.	.	_	6	punct
+

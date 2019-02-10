@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det
+2	choice	choice	NN	_	3	nsubj
+3	takes	take	VBZ	_	0	ROOT
+4	you	you	PRP	_	3	dobj
+5	forward	forward	RB	_	3	advmod
+6	by	by	IN	_	3	prep
+7	a	a	DT	_	12	det
+8	more	more	RBR	_	11	advmod
+9	or	or	CC	_	8	cc
+10	less	less	RBR	_	8	conj
+11	fixed	fixed	JJ	_	12	amod
+12	number	number	NN	_	6	pobj
+13	of	of	IN	_	12	prep
+14	pages	page	NNS	_	13	pobj
+15	at	at	IN	_	3	prep
+16	any	any	DT	_	18	det
+17	given	give	VBN	_	18	amod
+18	position	position	NN	_	15	pobj
+19	in	in	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	book	book	NN	_	19	pobj
+22	.	.	.	_	3	punct
+

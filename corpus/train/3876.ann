@@ -1,0 +1,3 @@
+T1	Term 40 45	drift
+T2	Term 49 53	hogs
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,22 @@
+1	After	after	IN	_	5	mark
+2	the	the	DT	_	4	det
+3	distraught	distraught	JJ	_	4	amod
+4	cub	cub	NN	_	5	nsubj
+5	runs	run	VBZ	_	15	advcl
+6	away	away	RB	_	5	advmod
+7	from	from	IN	_	6	prep
+8	home	home	NN	_	7	pobj
+9	,	,	,	_	15	punct
+10	a	a	DT	_	12	det
+11	mischievous	mischievous	JJ	_	12	amod
+12	storyteller	storyteller	NN	_	15	nsubj
+13	called	call	VBN	_	12	vmod
+14	Bonifacio	Bonifacio	NNP	_	13	dep
+15	sweet-talks	sweet-talk	VBZ	_	0	ROOT
+16	him	he	PRP	_	15	dobj
+17	into	into	IN	_	15	prep
+18	performing	perform	VBG	_	17	pcomp
+19	on	on	IN	_	18	prep
+20	stage	stage	NN	_	19	pobj
+21	.	.	.	_	15	punct
+

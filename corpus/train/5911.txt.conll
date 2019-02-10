@@ -1,0 +1,27 @@
+1	Thorstein	Thorstein	NNP	_	2	nsubj
+2	has	have	VBZ	_	0	ROOT
+3	no	no	DT	_	4	neg
+4	choice	choice	NN	_	2	dobj
+5	but	but	CC	_	2	cc
+6	to	to	TO	_	7	aux
+7	ride	ride	VB	_	2	conj
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	village	village	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	Hof	hof	NN	_	11	pobj
+13	and	and	CC	_	7	cc
+14	deal	deal	NN	_	7	conj
+15	with	with	IN	_	14	prep
+16	Thord	thord	NN	_	15	pobj
+17	,	,	,	_	7	punct
+18	the	the	DT	_	19	det
+19	man	man	NN	_	7	dobj
+20	who	who	WP	_	21	nsubj
+21	struck	strike	VBD	_	19	rcmod
+22	him	he	PRP	_	21	dobj
+23	with	with	IN	_	21	prep
+24	the	the	DT	_	25	det
+25	staff	staff	NN	_	23	pobj
+26	.	.	.	_	2	punct
+

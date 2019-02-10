@@ -1,0 +1,25 @@
+1	One	one	CD	_	2	num
+2	approach	approach	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	have	have	VB	_	3	xcomp
+6	an	a	DT	_	7	det
+7	ensemble	ensemble	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	decision	decision	NN	_	10	nn
+10	trees	tree	NNS	_	8	pobj
+11	with	with	IN	_	7	prep
+12	each	each	DT	_	14	det
+13	data	datum	NNS	_	14	nn
+14	site	site	NN	_	15	nsubj
+15	contributing	contribute	VBG	_	11	pcomp
+16	its	its	PRP$	_	20	poss
+17	own	own	JJ	_	20	amod
+18	local	local	JJ	_	20	amod
+19	decision	decision	NN	_	20	nn
+20	tree	tree	NN	_	15	dobj
+21	to	to	TO	_	15	prep
+22	the	the	DT	_	23	det
+23	ensemble	ensemble	NN	_	21	pobj
+24	.	.	.	_	3	punct
+

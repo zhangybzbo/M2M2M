@@ -1,0 +1,21 @@
+1	From	from	IN	_	7	prep
+2	the	the	DT	_	4	det
+3	ancient	ancient	JJ	_	4	amod
+4	times	time	NNS	_	1	pobj
+5	,	,	,	_	7	punct
+6	music	music	NN	_	7	nsubj
+7	documented	document	VBD	_	0	ROOT
+8	the	the	DT	_	9	det
+9	lives	life	NNS	_	7	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	people	people	NNS	_	10	pobj
+13	and	and	CC	_	7	cc
+14	was	be	VBD	_	16	auxpass
+15	widely	widely	RB	_	16	advmod
+16	patronized	patronize	VBN	_	7	conj
+17	by	by	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	rulers	ruler	NNS	_	17	pobj
+20	.	.	.	_	7	punct
+

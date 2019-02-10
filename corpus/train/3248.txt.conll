@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	2	2	CD	_	8	nsubj
+3	in	in	IN	_	2	prep
+4	1	1	CD	_	5	num
+5	shampoo	shampoo	NN	_	3	pobj
+6	and	and	CC	_	5	cc
+7	conditioner	conditioner	NN	_	5	conj
+8	was	be	VBD	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	bottle	bottle	NN	_	9	pobj
+12	fixed	fix	VBN	_	11	vmod
+13	on	on	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	shower	shower	NN	_	16	nn
+16	wall	wall	NN	_	13	pobj
+17	.	.	.	_	8	punct
+

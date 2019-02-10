@@ -1,0 +1,11 @@
+1	Pilgrimage	pilgrimage	NN	_	7	nsubj
+2	to	to	TO	_	1	prep
+3	Mecca	Mecca	NNP	_	2	pobj
+4	is	be	VBZ	_	7	cop
+5	a	a	DT	_	7	det
+6	basic	basic	JJ	_	7	amod
+7	tenet	tenet	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	Islam	Islam	NNP	_	8	pobj
+10	.	.	.	_	7	punct
+

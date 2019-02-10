@@ -1,0 +1,21 @@
+1	PHY	phy	NN	_	5	nsubjpass
+2	319	319	CD	_	1	num
+3	is	be	VBZ	_	5	auxpass
+4	presently	presently	RB	_	5	advmod
+5	taught	teach	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	three	three	CD	_	8	num
+8	50-minute	50-minute	JJ	_	6	pobj
+9	lectures	lecture	VBZ	_	5	dep
+10	per	per	IN	_	16	mark
+11	week	week	NN	_	16	tmod
+12	in	in	IN	_	16	prep
+13	which	which	WDT	_	12	pobj
+14	the	the	DT	_	15	det
+15	instructor	instructor	NN	_	16	nsubj
+16	makes	make	VBZ	_	9	advcl
+17	a	a	DT	_	19	det
+18	chalkboard	chalkboard	NN	_	19	nn
+19	presentation	presentation	NN	_	16	dobj
+20	.	.	.	_	5	punct
+

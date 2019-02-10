@@ -1,0 +1,16 @@
+1	They	they	PRP	_	2	nsubj
+2	planned	plan	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	meeting	meeting	NN	_	2	dobj
+5	where	where	WRB	_	7	advmod
+6	they	they	PRP	_	7	nsubj
+7	discussed	discuss	VBD	_	4	rcmod
+8	about	about	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	idea	idea	NN	_	8	pobj
+11	regarding	regard	VBG	_	10	prep
+12	the	the	DT	_	14	det
+13	football	football	NN	_	14	nn
+14	team	team	NN	_	11	pobj
+15	.	.	.	_	2	punct
+

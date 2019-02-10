@@ -1,0 +1,20 @@
+1	Eighty-four	eighty-four	CD	_	2	num
+2	percent	percent	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	complications	complication	NNS	_	3	pobj
+6	resulted	result	VBD	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	patient	patient	NN	_	9	nn
+9	deaths	death	NNS	_	7	pobj
+10	,	,	,	_	6	punct
+11	while	while	IN	_	14	mark
+12	16	16	CD	_	13	num
+13	percent	percent	NN	_	14	nsubj
+14	resulted	result	VBD	_	6	advcl
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	serious	serious	JJ	_	18	amod
+18	injury	injury	NN	_	15	pobj
+19	.	.	.	_	6	punct
+

@@ -1,0 +1,9 @@
+1	Branches	branch	NNS	_	2	nn
+2	overhang	overhang	NN	_	0	ROOT
+3	the	the	DT	_	4	det
+4	roof	roof	NN	_	2	dep
+5	of	of	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	house	house	NN	_	5	pobj
+8	.	.	.	_	2	punct
+

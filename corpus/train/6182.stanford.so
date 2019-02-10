@@ -1,0 +1,13 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	13	tok id="t1" base="insurance" pos="NN" nn="t2"
+14	18	tok id="t2" base="cost" pos="NN" nsubjpass="t5"
+19	22	tok id="t3" base="have" pos="VBZ" aux="t5"
+23	27	tok id="t4" base="be" pos="VBN" auxpass="t5"
+28	33	tok id="t5" base="add" pos="VBN" ROOT="ROOT"
+34	38	tok id="t6" base="into" pos="IN" prep="t5"
+39	42	tok id="t7" base="the" pos="DT" det="t9"
+43	51	tok id="t8" base="shipping" pos="NN" nn="t9"
+52	57	tok id="t9" base="price" pos="NN" pobj="t6"
+58	59	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	4	det
+2	editor	editor	NN	_	4	nn
+3	cum	cum	NN	_	4	nn
+4	scientist	scientist	NN	_	5	nsubj
+5	approached	approach	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	pod	pod	NN	_	5	dobj
+8	with	with	IN	_	5	prep
+9	reverence	reverence	NN	_	8	pobj
+10	,	,	,	_	5	punct
+11	and	and	CC	_	5	cc
+12	a	a	DT	_	15	det
+13	remote	remote	JJ	_	15	amod
+14	control	control	NN	_	15	nn
+15	device	device	NN	_	5	conj
+16	.	.	.	_	5	punct
+

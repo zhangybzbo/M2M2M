@@ -1,0 +1,20 @@
+1	Anyway	anyway	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	guy	guy	NN	_	5	nsubj
+5	convinced	convince	VBN	_	0	ROOT
+6	some	some	DT	_	7	det
+7	local	local	JJ	_	5	dobj
+8	with	with	IN	_	5	prep
+9	a	a	DT	_	10	det
+10	car	car	NN	_	8	pobj
+11	to	to	TO	_	12	aux
+12	drive	drive	VB	_	10	vmod
+13	somewhere	somewhere	RB	_	12	advmod
+14	to	to	TO	_	15	aux
+15	procure	procure	VB	_	12	xcomp
+16	us	we	PRP	_	15	iobj
+17	some	some	DT	_	18	det
+18	beer	beer	NN	_	15	dobj
+19	.	.	.	_	5	punct
+

@@ -1,0 +1,14 @@
+1	We	we	PRP	_	3	nsubj
+2	just	just	RB	_	3	advmod
+3	finished	finish	VBD	_	0	ROOT
+4	our	we	PRP$	_	6	poss
+5	last	last	JJ	_	6	amod
+6	run	run	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	pasture	pasture	NN	_	9	nn
+9	poultry	poultry	NN	_	7	pobj
+10	for	for	IN	_	6	prep
+11	the	the	DT	_	12	det
+12	year	year	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

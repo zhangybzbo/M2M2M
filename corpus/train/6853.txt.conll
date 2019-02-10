@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	mite	mite	JJ	_	4	poss
+3	's	's	POS	_	2	possessive
+4	burrows	burrow	NNS	_	12	nsubj
+5	,	,	,	_	4	punct
+6	fecal	fecal	JJ	_	7	amod
+7	matter	matter	NN	_	4	conj
+8	,	,	,	_	4	punct
+9	proteins	protein	NNS	_	4	conj
+10	and	and	CC	_	4	cc
+11	eggs	egg	NNS	_	4	conj
+12	cause	cause	VBP	_	0	ROOT
+13	itching	itch	VBG	_	12	xcomp
+14	,	,	,	_	13	punct
+15	rashes	rash	NNS	_	13	conj
+16	and	and	CC	_	13	cc
+17	sensitivity	sensitivity	NN	_	13	conj
+18	.	.	.	_	12	punct
+

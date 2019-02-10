@@ -1,0 +1,11 @@
+1	These	these	DT	_	2	det
+2	slippers	slipper	NNS	_	3	nsubj
+3	have	have	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	double	double	JJ	_	6	amod
+6	sole	sole	JJ	_	3	dobj
+7	with	with	IN	_	6	prep
+8	padding	padding	NN	_	7	pobj
+9	inside	inside	IN	_	8	advmod
+10	.	.	.	_	3	punct
+

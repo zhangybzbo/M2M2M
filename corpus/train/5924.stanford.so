@@ -1,0 +1,11 @@
+0	68	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="Branton" pos="NNP" nn="t2"
+8	14	tok id="t1" base="bridge" pos="NN" nn="t2"
+15	25	tok id="t2" base="solicitor" pos="NNS" nsubj="t3"
+26	33	tok id="t3" base="enter" pos="VBD" ROOT="ROOT"
+34	38	tok id="t4" base="into" pos="IN" prep="t3"
+39	42	tok id="t5" base="the" pos="DT" det="t7"
+43	57	tok id="t6" base="administration" pos="NN" nn="t7"
+58	66	tok id="t7" base="building" pos="NN" pobj="t4"
+67	68	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

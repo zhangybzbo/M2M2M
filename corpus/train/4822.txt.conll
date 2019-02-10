@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	thermostat	thermostat	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	refrigerator	refrigerator	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	fitted	fit	VBN	_	0	ROOT
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	aluminium	aluminium	NN	_	12	nn
+11	evaporator	evaporator	NN	_	12	nn
+12	surface	surface	NN	_	8	pobj
+13	.	.	.	_	7	punct
+

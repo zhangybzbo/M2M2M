@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	release	release	NN	_	3	nsubj
+3	notes	note	VBZ	_	0	ROOT
+4	give	give	VB	_	3	ccomp
+5	details	detail	NNS	_	4	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	technical	technical	JJ	_	9	amod
+9	changes	change	NNS	_	6	pobj
+10	.	.	.	_	3	punct
+

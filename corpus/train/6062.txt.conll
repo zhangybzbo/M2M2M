@@ -1,0 +1,13 @@
+1	My	my	PRP$	_	2	poss
+2	friend	friend	NN	_	3	nsubj
+3	travels	travel	VBZ	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	several	several	JJ	_	6	amod
+6	countries	country	NNS	_	4	pobj
+7	in	in	IN	_	6	prep
+8	Northern	Northern	NNP	_	9	nn
+9	Europe	Europe	NNP	_	7	pobj
+10	by	by	IN	_	3	prep
+11	himself	himself	PRP	_	10	pobj
+12	.	.	.	_	3	punct
+

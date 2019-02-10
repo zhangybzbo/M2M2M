@@ -1,0 +1,22 @@
+1	Make	make	VB	_	5	dep
+2	sure	sure	RB	_	5	advmod
+3	the	the	DT	_	4	det
+4	child	child	NN	_	5	nsubj
+5	takes	take	VBZ	_	0	ROOT
+6	lots	lot	NNS	_	5	dobj
+7	of	of	IN	_	6	prep
+8	fluids	fluid	NNS	_	7	pobj
+9	in	in	IN	_	5	prep
+10	spite	spite	NN	_	9	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	oral	oral	JJ	_	14	amod
+14	discomfort	discomfort	NN	_	11	pobj
+15	to	to	TO	_	16	aux
+16	prevent	prevent	VB	_	14	vmod
+17	high	high	JJ	_	18	amod
+18	fever	fever	NN	_	16	dobj
+19	from	from	IN	_	16	prep
+20	dehydration	dehydration	NN	_	19	pobj
+21	.	.	.	_	5	punct
+

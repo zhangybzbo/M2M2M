@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj
+2	make	make	VBP	_	0	ROOT
+3	all	all	DT	_	6	dep
+4	of	of	IN	_	6	mark
+5	my	my	PRP$	_	6	nsubj
+6	skirts	skirt	VBZ	_	2	dep
+7	and	and	CC	_	6	cc
+8	pants	pants	NNS	_	6	conj
+9	with	with	IN	_	8	prep
+10	elastic	elastic	JJ	_	11	amod
+11	waists	waist	NNS	_	9	pobj
+12	.	.	.	_	2	punct
+

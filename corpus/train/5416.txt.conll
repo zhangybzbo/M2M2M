@@ -1,0 +1,27 @@
+1	Pre-contact	pre-contact	JJ	_	3	amod
+2	native	native	JJ	_	3	amod
+3	peoples	people	NNS	_	17	nsubj
+4	,	,	,	_	3	punct
+5	living	live	VBG	_	3	vmod
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	northeastern	northeastern	JJ	_	9	amod
+9	part	part	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	North	North	NNP	_	12	nn
+12	America	America	NNP	_	10	pobj
+13	,	,	,	_	3	punct
+14	were	be	VBD	_	17	cop
+15	the	the	DT	_	17	det
+16	first	first	JJ	_	17	amod
+17	people	people	NNS	_	0	ROOT
+18	who	who	WP	_	20	nsubj
+19	have	have	VBP	_	20	aux
+20	produced	produce	VBN	_	17	rcmod
+21	maple	maple	JJ	_	22	amod
+22	syrup	syrup	NN	_	20	dobj
+23	and	and	CC	_	22	cc
+24	maple	maple	NN	_	25	nn
+25	sugar	sugar	NN	_	22	conj
+26	.	.	.	_	17	punct
+

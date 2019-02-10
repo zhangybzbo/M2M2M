@@ -1,0 +1,24 @@
+1	Our	we	PRP$	_	2	poss
+2	objective	objective	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	review	review	VB	_	3	xcomp
+6	advances	advance	NNS	_	5	dobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	molecular	molecular	JJ	_	10	amod
+10	biology	biology	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	pharmacogenomics	pharmacogenomic	NNS	_	10	conj
+13	of	of	IN	_	10	prep
+14	lung	lung	NN	_	15	nn
+15	cancer	cancer	NN	_	13	pobj
+16	and	and	CC	_	5	cc
+17	how	how	WRB	_	19	advmod
+18	they	they	PRP	_	19	nsubj
+19	apply	apply	VBP	_	5	conj
+20	to	to	TO	_	19	prep
+21	personalizing	personalize	VBG	_	22	amod
+22	medicine	medicine	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

@@ -1,0 +1,15 @@
+1	This	this	DT	_	2	nsubj
+2	add	add	VB	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	uses	use	VBZ	_	3	pcomp
+5	an	a	DT	_	7	det
+6	intermediate	intermediate	JJ	_	7	amod
+7	form	form	NN	_	4	dobj
+8	to	to	TO	_	9	aux
+9	declare	declare	VB	_	4	vmod
+10	the	the	DT	_	13	det
+11	latex/pdflatex	latex/pdflatex	NN	_	13	nn
+12	rendering	render	VBG	_	13	amod
+13	options	option	NNS	_	9	dobj
+14	.	.	.	_	2	punct
+

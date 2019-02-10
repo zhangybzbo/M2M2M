@@ -1,0 +1,22 @@
+1	Sotheby	Sotheby	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	yesterday	yesterday	NN	_	7	tmod
+4	in	in	IN	_	7	prep
+5	Hong	Hong	NNP	_	6	nn
+6	Kong	Kong	NNP	_	4	pobj
+7	sold	sell	VBD	_	0	ROOT
+8	a	a	DT	_	10	det
+9	diamond	diamond	NN	_	10	nn
+10	ring	ring	NN	_	7	dobj
+11	containing	contain	VBG	_	10	vmod
+12	a	a	DT	_	16	det
+13	8.74	8.74	CD	_	16	num
+14	carat	carat	NN	_	16	nn
+15	blue	blue	JJ	_	16	amod
+16	diamond	diamond	NN	_	11	dobj
+17	for	for	IN	_	11	prep
+18	3.5	3.5	CD	_	20	num
+19	m	m	NN	_	20	nn
+20	pounds	pound	NNS	_	17	pobj
+21	.	.	.	_	7	punct
+

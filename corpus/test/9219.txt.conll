@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	relaxes	relax	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	higher	higher	JJR	_	6	amod
+6	levels	level	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	testosterone	testosterone	NN	_	7	pobj
+9	,	,	,	_	3	punct
+10	and	and	CC	_	3	cc
+11	a	a	DT	_	12	det
+12	woman	woman	NN	_	13	nsubj
+13	relaxes	relax	VBZ	_	3	conj
+14	by	by	IN	_	13	prep
+15	secretion	secretion	NN	_	14	pobj
+16	of	of	IN	_	15	prep
+17	oxytocin	oxytocin	NN	_	16	pobj
+18	.	.	.	_	3	punct
+

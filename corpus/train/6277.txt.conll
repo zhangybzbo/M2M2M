@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	request	request	NN	_	12	nsubj
+3	to	to	TO	_	4	aux
+4	alter	alter	VB	_	2	vmod
+5	the	the	DT	_	6	det
+6	voice	voice	NN	_	4	dobj
+7	to	to	TO	_	4	prep
+8	a	a	DT	_	10	det
+9	great	great	JJ	_	10	amod
+10	extent	extent	NN	_	7	pobj
+11	has	have	VBZ	_	12	aux
+12	resulted	result	VBN	_	0	ROOT
+13	in	in	IN	_	12	prep
+14	exaggerated	exaggerated	JJ	_	15	amod
+15	deviations	deviation	NNS	_	13	pobj
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	25	det
+18	``	``	``	_	25	punct
+19	normally	normally	RB	_	25	advmod
+20	''	''	''	_	25	punct
+21	accepted	accept	VBN	_	23	amod
+22	opera	opera	NN	_	23	nn
+23	singer	singer	NN	_	25	poss
+24	's	's	POS	_	23	possessive
+25	timbre	timbre	NN	_	16	pobj
+26	.	.	.	_	12	punct
+

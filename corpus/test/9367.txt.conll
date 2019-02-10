@@ -1,0 +1,16 @@
+1	In	in	IN	_	11	prep
+2	its	its	PRP$	_	5	poss
+3	last	last	JJ	_	5	amod
+4	12	12	CD	_	5	num
+5	meetings	meeting	NNS	_	1	pobj
+6	this	this	DT	_	7	det
+7	year	year	NN	_	11	tmod
+8	the	the	DT	_	9	det
+9	committee	committee	NN	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	made	make	VBN	_	0	ROOT
+12	about	about	IN	_	13	quantmod
+13	30-35	30-35	CD	_	14	num
+14	recommendations	recommendation	NNS	_	11	dobj
+15	.	.	.	_	11	punct
+

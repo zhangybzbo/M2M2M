@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	pyramid	pyramid	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	champagne	champagne	NN	_	5	nn
+5	flutes	flute	NNS	_	3	pobj
+6	is	be	VBZ	_	0	ROOT
+7	like	like	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	communion	communion	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	local	local	JJ	_	12	amod
+12	churches	church	NNS	_	10	pobj
+13	that	that	WDT	_	14	nsubj
+14	comprise	comprise	VBP	_	12	rcmod
+15	the	the	DT	_	17	det
+16	Catholic	Catholic	NNP	_	17	nn
+17	Church	Church	NNP	_	14	dobj
+18	.	.	.	_	6	punct
+

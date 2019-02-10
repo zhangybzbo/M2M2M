@@ -1,0 +1,11 @@
+0	56	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="Nielsen" pos="NNP" nsubj="t1"
+8	16	tok id="t1" base="release" pos="VBD" ROOT="ROOT"
+17	20	tok id="t2" base="he" pos="PRP$" poss="t3"
+21	29	tok id="t3" base="insight" pos="NNS" dobj="t1"
+30	34	tok id="t4" base="into" pos="IN" prep="t3"
+35	38	tok id="t5" base="the" pos="DT" det="t7"
+39	45	tok id="t6" base="online" pos="NN" nn="t7"
+46	54	tok id="t7" base="industry" pos="NN" pobj="t4"
+55	56	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

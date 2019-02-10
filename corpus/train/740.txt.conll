@@ -1,0 +1,19 @@
+1	Legal	legal	JJ	_	2	amod
+2	regulations	regulation	NNS	_	8	nsubj
+3	applying	apply	VBG	_	2	vmod
+4	to	to	TO	_	3	prep
+5	professional	professional	JJ	_	6	amod
+6	corporations	corporation	NNS	_	4	pobj
+7	typically	typically	RB	_	8	advmod
+8	differ	differ	VBP	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	important	important	JJ	_	11	amod
+11	ways	way	NNS	_	9	pobj
+12	from	from	IN	_	11	prep
+13	those	those	DT	_	12	pobj
+14	applying	apply	VBG	_	13	vmod
+15	to	to	TO	_	14	prep
+16	other	other	JJ	_	17	amod
+17	corporations	corporation	NNS	_	15	pobj
+18	.	.	.	_	8	punct
+

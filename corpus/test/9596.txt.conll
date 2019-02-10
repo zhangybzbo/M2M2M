@@ -1,0 +1,15 @@
+1	Most	most	JJS	_	9	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	verses	verse	NNS	_	2	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	plantation	plantation	NN	_	8	nn
+8	songs	song	NNS	_	5	pobj
+9	had	have	VBD	_	0	ROOT
+10	some	some	DT	_	11	det
+11	reference	reference	NN	_	9	dobj
+12	to	to	TO	_	11	prep
+13	freedom	freedom	NN	_	12	pobj
+14	.	.	.	_	9	punct
+

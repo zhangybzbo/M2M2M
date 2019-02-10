@@ -1,0 +1,15 @@
+1	Neuralgia	neuralgia	NN	_	9	nsubj
+2	-LRB-	-lrb-	-LRB-	_	3	punct
+3	TN	tn	NN	_	1	appos
+4	-RRB-	-rrb-	-RRB-	_	3	punct
+5	is	be	VBZ	_	9	cop
+6	the	the	DT	_	9	det
+7	most	most	RBS	_	8	advmod
+8	common	common	JJ	_	9	amod
+9	cause	cause	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	chronic	chronic	JJ	_	13	amod
+12	sinusitis	sinusitis	NN	_	13	nn
+13	headache	headache	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

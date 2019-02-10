@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	size	size	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	assemblies	assembly	NNS	_	3	pobj
+6	grows	grow	VBZ	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	byssus	byssus	NN	_	11	nn
+10	substrate	substrate	NN	_	11	nn
+11	interface	interface	NN	_	7	pobj
+12	to	to	TO	_	6	prep
+13	the	the	DT	_	15	det
+14	transition	transition	NN	_	15	nn
+15	layer	layer	NN	_	12	pobj
+16	.	.	.	_	6	punct
+

@@ -1,0 +1,23 @@
+1	Although	although	IN	_	3	mark
+2	there	there	EX	_	3	expl
+3	was	be	VBD	_	14	advcl
+4	ammunition	ammunition	NN	_	3	nsubj
+5	scattered	scatter	VBN	_	4	vmod
+6	over	over	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	apartment	apartment	NN	_	6	pobj
+9	,	,	,	_	14	punct
+10	the	the	DT	_	11	det
+11	gun	gun	NN	_	14	nsubjpass
+12	itself	itself	PRP	_	11	npadvmod
+13	was	be	VBD	_	14	auxpass
+14	locked	lock	VBN	_	0	ROOT
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	15	pobj
+17	safe	safe	JJ	_	16	dep
+18	,	,	,	_	17	punct
+19	and	and	CC	_	17	cc
+20	not	not	RB	_	21	neg
+21	loaded	load	VBN	_	17	conj
+22	.	.	.	_	14	punct
+

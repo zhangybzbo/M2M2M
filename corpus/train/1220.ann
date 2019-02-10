@@ -1,0 +1,3 @@
+T1	Term 14 22	conflict
+T2	Term 34 45	destruction
+R1	Cause-Effect Arg1:T1 Arg2:T2

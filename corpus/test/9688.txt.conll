@@ -1,0 +1,18 @@
+1	By	by	IN	_	8	prep
+2	1945	1945	CD	_	6	num
+3	the	the	DT	_	6	det
+4	French	french	JJ	_	6	amod
+5	electric	electric	JJ	_	6	amod
+6	system	system	NN	_	1	pobj
+7	was	be	VBD	_	8	aux
+8	generating	generate	VBG	_	0	ROOT
+9	more	more	JJR	_	10	amod
+10	power	power	NN	_	8	dobj
+11	than	than	IN	_	13	mark
+12	it	it	PRP	_	13	nsubj
+13	had	have	VBD	_	10	advcl
+14	before	before	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	war	war	NN	_	14	pobj
+17	.	.	.	_	8	punct
+

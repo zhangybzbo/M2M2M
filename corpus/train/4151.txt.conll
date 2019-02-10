@@ -1,0 +1,26 @@
+1	They	they	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	talked	talk	VBN	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	people	people	NNS	_	4	pobj
+6	who	who	WP	_	8	nsubj
+7	have	have	VBP	_	8	aux
+8	come	come	VBN	_	5	rcmod
+9	out	out	IN	_	8	advmod
+10	of	of	IN	_	9	prep
+11	their	they	PRP$	_	12	poss
+12	body	body	NN	_	10	pobj
+13	in	in	IN	_	8	prep
+14	surgery	surgery	NN	_	13	pobj
+15	;	;	:	_	3	punct
+16	they	they	PRP	_	17	nsubj
+17	come	come	VBP	_	3	parataxis
+18	out	out	RB	_	17	advmod
+19	of	of	IN	_	18	prep
+20	their	they	PRP$	_	21	poss
+21	body	body	NN	_	19	pobj
+22	after	after	IN	_	17	prep
+23	an	a	DT	_	24	det
+24	accident	accident	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

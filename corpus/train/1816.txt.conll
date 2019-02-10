@@ -1,0 +1,13 @@
+1	Works	Works	NNP	_	5	nsubj
+2	in	in	IN	_	1	prep
+3	this	this	DT	_	4	det
+4	exhibition	exhibition	NN	_	2	pobj
+5	investigate	investigate	VBP	_	0	ROOT
+6	humanity	humanity	NN	_	8	poss
+7	's	's	POS	_	6	possessive
+8	relationship	relationship	NN	_	5	dobj
+9	with	with	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	world	world	NN	_	9	pobj
+12	.	.	.	_	5	punct
+

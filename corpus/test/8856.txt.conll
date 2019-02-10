@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	chabazite	chabazite	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	contained	contain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	multiple	multiple	JJ	_	8	amod
+8	U-tube	u-tube	NN	_	5	pobj
+9	and	and	CC	_	4	cc
+10	was	be	VBD	_	4	conj
+11	first	first	JJ	_	17	dep
+12	thoroughly	thoroughly	RB	_	13	advmod
+13	outgassed	outgas	VBN	_	11	dep
+14	at	at	IN	_	13	prep
+15	550	550	CD	_	14	pobj
+16	'	'	''	_	11	punct
+17	in	in	IN	_	10	prep
+18	a	a	DT	_	20	det
+19	good	good	JJ	_	20	amod
+20	vacuum	vacuum	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,1 @@
+Factory class that manufactures component objects for the farmyard .

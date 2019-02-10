@@ -1,0 +1,23 @@
+1	Because	because	IN	_	5	mark
+2	winter	winter	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	cop
+5	mild	mild	JJ	_	16	advcl
+6	in	in	IN	_	5	prep
+7	much	much	JJ	_	6	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	country	country	NN	_	8	pobj
+11	,	,	,	_	16	punct
+12	oil	oil	NN	_	13	nn
+13	prices	price	NNS	_	16	nsubj
+14	have	have	VBP	_	16	aux
+15	been	be	VBN	_	16	cop
+16	low	low	JJ	_	0	ROOT
+17	for	for	IN	_	16	prep
+18	the	the	DT	_	21	det
+19	past	past	JJ	_	21	amod
+20	few	few	JJ	_	21	amod
+21	months	month	NNS	_	17	pobj
+22	.	.	.	_	16	punct
+

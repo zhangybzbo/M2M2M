@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	3	nsubj
+3	examines	examine	VBZ	_	0	ROOT
+4	some	some	DT	_	5	det
+5	issues	issue	NNS	_	3	dobj
+6	connected	connect	VBN	_	5	vmod
+7	to	to	TO	_	6	prep
+8	religious	religious	JJ	_	9	amod
+9	freedom	freedom	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

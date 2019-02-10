@@ -1,0 +1,25 @@
+1	Tissues	tissue	NNS	_	17	nsubjpass
+2	from	from	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	dorsal	dorsal	NN	_	5	nn
+5	lobe	lobe	NN	_	2	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	pancreas	pancreas	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	8	8	CD	_	11	num
+11	starlings	starling	NNS	_	9	pobj
+12	-LRB-	-lrb-	-LRB-	_	14	punct
+13	Sturnus	sturnus	NN	_	14	nn
+14	vulgaris	vulgari	NN	_	11	appos
+15	-RRB-	-rrb-	-RRB-	_	14	punct
+16	were	be	VBD	_	17	auxpass
+17	examined	examine	VBN	_	0	ROOT
+18	electron	electron	NN	_	17	dobj
+19	microscopically	microscopically	RB	_	20	advmod
+20	using	use	VBG	_	18	vmod
+21	conventionally	conventionally	RB	_	22	advmod
+22	prepared	prepared	JJ	_	23	amod
+23	samples	sample	NNS	_	20	dobj
+24	.	.	.	_	17	punct
+

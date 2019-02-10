@@ -1,0 +1,18 @@
+1	Their	they	PRP$	_	2	poss
+2	songs	song	NNS	_	0	ROOT
+3	are	be	VBP	_	2	dep
+4	about	about	IN	_	3	prep
+5	sex	sex	NN	_	4	pobj
+6	,	,	,	_	5	punct
+7	drugs	drug	NNS	_	5	conj
+8	,	,	,	_	5	punct
+9	drinking	drinking	NN	_	5	conj
+10	,	,	,	_	5	punct
+11	fighting	fight	VBG	_	5	conj
+12	,	,	,	_	5	punct
+13	and	and	CC	_	5	cc
+14	rock	rock	NN	_	5	conj
+15	&	&	CC	_	14	cc
+16	roll	roll	NN	_	14	conj
+17	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	two	two	CD	_	3	num
+3	pillars	pillar	NNS	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	temple	temple	NN	_	4	pobj
+7	reinforce	reinforce	VB	_	0	ROOT
+8	the	the	DT	_	9	det
+9	theme	theme	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	polarity	polarity	NN	_	10	pobj
+12	.	.	.	_	7	punct
+

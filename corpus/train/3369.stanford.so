@@ -1,0 +1,8 @@
+0	40	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="investment" pos="NN" nsubj="t1"
+11	16	tok id="t1" base="flow" pos="VBZ" ROOT="ROOT"
+17	21	tok id="t2" base="into" pos="IN" prep="t1"
+22	30	tok id="t3" base="emerge" pos="VBG" amod="t4"
+31	38	tok id="t4" base="market" pos="NNS" pobj="t2"
+39	40	tok id="t5" base="-PERIOD-" pos="." punct="t1"
+

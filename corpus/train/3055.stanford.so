@@ -1,0 +1,10 @@
+0	46	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	14	tok id="t1" base="progenitor" pos="NN" nn="t2"
+15	20	tok id="t2" base="cell" pos="NNS" nsubj="t3"
+21	29	tok id="t3" base="migrate" pos="VBD" ROOT="ROOT"
+30	34	tok id="t4" base="into" pos="IN" prep="t3"
+35	38	tok id="t5" base="the" pos="DT" det="t6"
+39	44	tok id="t6" base="tumor" pos="NN" pobj="t4"
+45	46	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

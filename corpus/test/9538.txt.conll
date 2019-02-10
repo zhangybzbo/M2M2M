@@ -1,0 +1,10 @@
+1	She	she	PRP	_	2	nsubj
+2	received	receive	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	letter	letter	NN	_	2	dobj
+5	discussing	discuss	VBG	_	4	vmod
+6	her	she	PRP$	_	8	poss
+7	teaching	teaching	NN	_	8	nn
+8	duties	duty	NNS	_	5	dobj
+9	.	.	.	_	2	punct
+

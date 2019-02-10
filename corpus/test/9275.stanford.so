@@ -1,0 +1,9 @@
+0	41	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	10	tok id="t1" base="stranger" pos="NN" nsubj="t2"
+11	21	tok id="t2" base="approach" pos="VBD" ROOT="ROOT"
+22	24	tok id="t3" base="my" pos="PRP$" poss="t5"
+25	31	tok id="t4" base="little" pos="JJ" amod="t5"
+32	39	tok id="t5" base="brother" pos="NN" dobj="t2"
+40	41	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	results	result	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	obtained	obtain	VBN	_	0	ROOT
+5	after	after	IN	_	4	prep
+6	measuring	measure	VBG	_	5	pcomp
+7	the	the	DT	_	9	det
+8	cell	cell	NN	_	9	nn
+9	mass	mass	NN	_	6	dobj
+10	in	in	IN	_	6	prep
+11	a	a	DT	_	12	det
+12	flask	flask	NN	_	10	pobj
+13	.	.	.	_	4	punct
+

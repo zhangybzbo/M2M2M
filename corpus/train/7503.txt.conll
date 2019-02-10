@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	plane	plane	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	parabolic	parabolic	JJ	_	6	amod
+6	maneuver	maneuver	NN	_	3	dobj
+7	,	,	,	_	3	punct
+8	much	much	RB	_	9	advmod
+9	like	like	IN	_	15	mark
+10	a	a	DT	_	12	det
+11	roller	roller	NN	_	12	nn
+12	coaster	coaster	NN	_	15	nsubj
+13	with	with	IN	_	12	prep
+14	steep	steep	JJ	_	13	pobj
+15	climbs	climb	VBZ	_	3	advcl
+16	and	and	CC	_	15	cc
+17	descents	descent	VBZ	_	15	conj
+18	,	,	,	_	15	punct
+19	that	that	IN	_	20	nsubj
+20	simulates	simulate	VBZ	_	15	ccomp
+21	zero	zero	CD	_	23	num
+22	gravity	gravity	NN	_	23	nn
+23	conditions	condition	NNS	_	20	dobj
+24	.	.	.	_	3	punct
+

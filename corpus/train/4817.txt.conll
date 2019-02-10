@@ -1,0 +1,14 @@
+1	They	they	PRP	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	allowed	allow	VBN	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	use	use	VB	_	3	xcomp
+6	the	the	DT	_	9	det
+7	top	top	JJ	_	9	amod
+8	two	two	CD	_	9	num
+9	steps	step	NNS	_	5	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	ladder	ladder	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

@@ -1,0 +1,15 @@
+1	His	he	PRP$	_	2	poss
+2	administration	administration	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	moderate	moderate	JJ	_	0	ROOT
+5	,	,	,	_	4	punct
+6	but	but	CC	_	4	cc
+7	it	it	PRP	_	8	nsubj
+8	contains	contain	VBZ	_	4	conj
+9	a	a	DT	_	10	det
+10	faction	faction	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	extremists	extremist	NNS	_	11	pobj
+13	.	.	.	_	4	punct
+14	''	''	''	_	4	punct
+

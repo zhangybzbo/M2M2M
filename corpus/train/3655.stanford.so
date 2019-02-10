@@ -1,0 +1,12 @@
+0	60	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="tense" pos="JJ" nsubj="t5"
+6	8	tok id="t1" base="be" pos="VBZ" cop="t5"
+9	10	tok id="t2" base="a" pos="DT" det="t5"
+11	19	tok id="t3" base="temporal" pos="JJ" amod="t5"
+20	30	tok id="t4" base="linguistic" pos="JJ" amod="t5"
+31	38	tok id="t5" base="quality" pos="NN" ROOT="ROOT"
+39	49	tok id="t6" base="express" pos="VBG" vmod="t5"
+50	53	tok id="t7" base="the" pos="DT" det="t8"
+54	58	tok id="t8" base="time" pos="NN" dobj="t6"
+59	60	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

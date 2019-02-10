@@ -1,0 +1,25 @@
+1	It	it	PRP	_	3	nsubj
+2	was	be	VBD	_	3	cop
+3	Sean	Sean	NNP	_	13	nsubj
+4	who	who	WP	_	6	nsubj
+5	first	first	RB	_	6	advmod
+6	spun	spin	VBD	_	3	rcmod
+7	the	the	DT	_	8	det
+8	cylinder	cylinder	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	revolver	revolver	NN	_	9	pobj
+12	,	,	,	_	3	punct
+13	put	put	VBD	_	0	ROOT
+14	the	the	DT	_	16	det
+15	eight-inch	eight-inch	JJ	_	16	amod
+16	barrel	barrel	NN	_	13	dobj
+17	to	to	TO	_	13	prep
+18	his	he	PRP$	_	19	poss
+19	head	head	NN	_	17	pobj
+20	and	and	CC	_	13	cc
+21	pulled	pull	VBD	_	13	conj
+22	the	the	DT	_	23	det
+23	trigger	trigger	NN	_	21	dobj
+24	.	.	.	_	13	punct
+

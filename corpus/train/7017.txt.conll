@@ -1,0 +1,19 @@
+1	In	in	IN	_	9	prep
+2	2006	2006	CD	_	1	pobj
+3	,	,	,	_	9	punct
+4	the	the	DT	_	7	det
+5	International	International	NNP	_	7	nn
+6	Astronomical	Astronomical	NNP	_	7	nn
+7	Union	Union	NNP	_	9	nsubj
+8	officially	officially	RB	_	9	advmod
+9	adopted	adopt	VBD	_	0	ROOT
+10	a	a	DT	_	11	det
+11	resolution	resolution	NN	_	9	dobj
+12	defining	define	VBG	_	11	vmod
+13	planets	planet	NNS	_	12	dobj
+14	within	within	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	Solar	Solar	NNP	_	17	nn
+17	System	System	NNP	_	14	pobj
+18	.	.	.	_	9	punct
+

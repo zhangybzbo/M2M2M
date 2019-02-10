@@ -1,0 +1,13 @@
+0	74	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="quality" pos="JJ" amod="t3"
+8	14	tok id="t1" base="forge" pos="VBN" amod="t3"
+15	22	tok id="t2" base="pinking" pos="NN" nn="t3"
+23	31	tok id="t3" base="scissors" pos="NNS" ROOT="ROOT"
+32	35	tok id="t4" base="cut" pos="VBN" vmod="t3"
+36	40	tok id="t5" base="with" pos="IN" prep="t4"
+41	52	tok id="t6" base="exceptional" pos="JJ" amod="t7"
+53	57	tok id="t7" base="ease" pos="NN" pobj="t5"
+58	61	tok id="t8" base="and" pos="CC" cc="t7"
+62	72	tok id="t9" base="efficiency" pos="NN" conj="t7"
+73	74	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

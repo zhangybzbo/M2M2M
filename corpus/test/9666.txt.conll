@@ -1,0 +1,18 @@
+1	There	there	EX	_	2	expl
+2	were	be	VBD	_	0	ROOT
+3	at	at	IN	_	5	quantmod
+4	least	least	JJS	_	3	mwe
+5	12	12	CD	_	6	num
+6	firefighters	firefighter	NNS	_	7	nsubj
+7	operating	operate	VBG	_	2	xcomp
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	roof	roof	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	supermarket	supermarket	NN	_	11	pobj
+14	at	at	IN	_	7	prep
+15	this	this	DT	_	16	det
+16	time	time	NN	_	14	pobj
+17	.	.	.	_	2	punct
+

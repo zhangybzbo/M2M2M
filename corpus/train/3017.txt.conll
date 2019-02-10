@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	percussionist	percussionist	NN	_	3	nsubj
+3	rattled	rattle	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	Nalgene	Nalgene	NNP	_	6	nn
+6	bottle	bottle	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	uncooked	uncooked	JJ	_	9	amod
+9	popcorn	popcorn	NN	_	7	pobj
+10	in	in	IN	_	3	prep
+11	it	it	PRP	_	10	pobj
+12	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	On	on	IN	_	6	prep
+2	the	the	DT	_	3	det
+3	way	way	NN	_	1	pobj
+4	in	in	IN	_	6	mark
+5	we	we	PRP	_	6	nsubj
+6	saw	see	VBD	_	0	ROOT
+7	a	a	DT	_	9	det
+8	big	big	JJ	_	9	amod
+9	raft	raft	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	Eider	Eider	NNP	_	12	nn
+12	ducks	duck	NNS	_	10	pobj
+13	and	and	CC	_	6	cc
+14	there	there	EX	_	15	expl
+15	were	be	VBD	_	6	conj
+16	some	some	DT	_	18	det
+17	tiny	tiny	JJ	_	18	amod
+18	babies	baby	NNS	_	15	nsubj
+19	with	with	IN	_	15	prep
+20	them	they	PRP	_	19	pobj
+21	.	.	.	_	6	punct
+

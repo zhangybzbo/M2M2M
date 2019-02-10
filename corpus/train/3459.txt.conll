@@ -1,0 +1,24 @@
+1	Among	among	IN	_	3	prep
+2	the	the	DT	_	1	pobj
+3	highlights	highlight	VBZ	_	0	ROOT
+4	were	be	VBD	_	7	cop
+5	an	a	DT	_	7	det
+6	epaulette	epaulette	NN	_	7	nn
+7	shark	shark	NN	_	3	dep
+8	that	that	WDT	_	9	nsubj
+9	walks	walk	VBZ	_	7	rcmod
+10	on	on	IN	_	9	prep
+11	its	its	PRP$	_	12	poss
+12	fins	fin	NNS	_	10	pobj
+13	,	,	,	_	7	punct
+14	a	a	DT	_	17	det
+15	praying	pray	VBG	_	17	amod
+16	mantis-like	mantis-like	JJ	_	17	amod
+17	shrimp	shrimp	NN	_	7	appos
+18	and	and	CC	_	17	cc
+19	scores	score	NNS	_	17	conj
+20	of	of	IN	_	19	prep
+21	reef-building	reef-building	JJ	_	22	amod
+22	corals	coral	NNS	_	20	pobj
+23	.	.	.	_	3	punct
+

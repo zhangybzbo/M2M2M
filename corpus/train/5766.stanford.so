@@ -1,0 +1,12 @@
+0	71	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="various" pos="JJ" amod="t6"
+8	16	tok id="t1" base="hormonal" pos="JJ" amod="t6"
+17	18	tok id="t2" base="-COMMA-" pos="," punct="t1"
+19	28	tok id="t3" base="bacterial" pos="JJ" conj="t1"
+29	32	tok id="t4" base="and" pos="CC" cc="t1"
+33	45	tok id="t5" base="inflammatory" pos="JJ" conj="t1"
+46	58	tok id="t6" base="disturbance" pos="NNS" nsubj="t7"
+59	64	tok id="t7" base="cause" pos="VBP" ROOT="ROOT"
+65	69	tok id="t8" base="acne" pos="NN" dobj="t7"
+70	71	tok id="t9" base="-PERIOD-" pos="." punct="t7"
+

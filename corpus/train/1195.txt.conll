@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	cabin	cabin	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	moved	move	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	its	its	PRP$	_	8	poss
+7	original	original	JJ	_	8	amod
+8	site	site	NN	_	5	pobj
+9	near	near	IN	_	8	prep
+10	Huxley	Huxley	NNP	_	9	pobj
+11	,	,	,	_	10	punct
+12	Iowa	Iowa	NNP	_	10	appos
+13	,	,	,	_	4	punct
+14	as	as	IN	_	4	prep
+15	a	a	DT	_	16	det
+16	project	project	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	21	det
+19	Ames	Ames	NNP	_	21	nn
+20	Heritage	Heritage	NNP	_	21	nn
+21	Association	Association	NNP	_	17	pobj
+22	.	.	.	_	4	punct
+

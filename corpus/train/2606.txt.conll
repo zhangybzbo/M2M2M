@@ -1,0 +1,26 @@
+1	Using	use	VBG	_	9	csubj
+2	solar	solar	JJ	_	3	amod
+3	electricity	electricity	NN	_	1	dobj
+4	instead	instead	RB	_	5	advmod
+5	of	of	IN	_	1	prep
+6	conventional	conventional	JJ	_	8	amod
+7	electricity	electricity	NN	_	8	nn
+8	sources	source	NNS	_	5	pobj
+9	helps	help	VBZ	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	reduce	reduce	VB	_	9	xcomp
+12	pollution	pollution	NN	_	11	dobj
+13	that	that	WDT	_	14	nsubj
+14	causes	cause	VBZ	_	12	rcmod
+15	smog	smog	NN	_	14	dobj
+16	,	,	,	_	15	punct
+17	acid	acid	JJ	_	18	amod
+18	rain	rain	NN	_	15	conj
+19	,	,	,	_	15	punct
+20	respiratory	respiratory	JJ	_	21	amod
+21	illness	illness	NN	_	15	conj
+22	and	and	CC	_	15	cc
+23	global	global	JJ	_	24	amod
+24	warming	warming	NN	_	15	conj
+25	.	.	.	_	9	punct
+

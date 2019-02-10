@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	mocked	mock	VBN	_	0	ROOT
+5	up	up	RP	_	4	prt
+6	a	a	DT	_	7	det
+7	version	version	NN	_	10	nsubj
+8	of	of	IN	_	7	prep
+9	YouTube	YouTube	NNP	_	8	pobj
+10	built	build	VBD	_	4	ccomp
+11	around	around	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	HTML5	html5	NN	_	15	nn
+14	video	video	NN	_	15	nn
+15	tag	tag	NN	_	11	pobj
+16	,	,	,	_	10	punct
+17	playing	play	VBG	_	10	xcomp
+18	mini-movies	mini-movie	NNS	_	17	dobj
+19	inside	inside	IN	_	17	prep
+20	a	a	DT	_	23	det
+21	browser	browser	NN	_	23	nn
+22	sans	san	NNS	_	23	nn
+23	plug-ins	plug-in	NNS	_	19	pobj
+24	.	.	.	_	4	punct
+

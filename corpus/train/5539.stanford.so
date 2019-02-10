@@ -1,0 +1,11 @@
+0	45	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t2"
+5	8	tok id="t1" base="new" pos="JJ" amod="t2"
+9	17	tok id="t2" base="religion" pos="NN" nsubjpass="t4"
+18	21	tok id="t3" base="be" pos="VBD" auxpass="t4"
+22	28	tok id="t4" base="spread" pos="VBN" ROOT="ROOT"
+29	31	tok id="t5" base="to" pos="TO" prep="t4"
+32	35	tok id="t6" base="the" pos="DT" det="t7"
+36	43	tok id="t7" base="society" pos="NN" pobj="t5"
+44	45	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

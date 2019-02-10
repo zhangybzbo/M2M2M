@@ -1,0 +1,26 @@
+1	Jack	Jack	NNP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	ember	ember	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	8	det
+7	hollowed-out	hollowed-out	JJ	_	8	amod
+8	turnip	turnip	NN	_	5	pobj
+9	,	,	,	_	8	punct
+10	one	one	CD	_	8	appos
+11	of	of	IN	_	10	prep
+12	his	he	PRP$	_	14	poss
+13	favorite	favorite	JJ	_	14	amod
+14	foods	food	NNS	_	11	pobj
+15	and	and	CC	_	14	cc
+16	an	a	DT	_	17	det
+17	item	item	NN	_	14	conj
+18	he	he	PRP	_	20	nsubj
+19	often	often	RB	_	20	advmod
+20	stole	steal	VBD	_	17	rcmod
+21	and	and	CC	_	8	cc
+22	carried	carry	VBD	_	8	conj
+23	with	with	IN	_	22	prep
+24	him	he	PRP	_	23	pobj
+25	.	.	.	_	2	punct
+

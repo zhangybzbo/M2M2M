@@ -1,0 +1,24 @@
+1	At	at	IN	_	12	prep
+2	this	this	DT	_	3	det
+3	moment	moment	NN	_	1	pobj
+4	,	,	,	_	12	punct
+5	a	a	DT	_	7	det
+6	certain	certain	JJ	_	7	amod
+7	amount	amount	NN	_	12	nsubjpass
+8	of	of	IN	_	7	prep
+9	chlorine	chlorine	NN	_	10	nn
+10	gas	gas	NN	_	8	pobj
+11	was	be	VBD	_	12	auxpass
+12	placed	place	VBN	_	0	ROOT
+13	inside	inside	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	cylinder	cylinder	NN	_	13	pobj
+16	with	with	IN	_	12	prep
+17	a	a	DT	_	19	det
+18	movable	movable	JJ	_	19	amod
+19	piston	piston	NN	_	16	pobj
+20	at	at	IN	_	12	prep
+21	one	one	CD	_	22	num
+22	end	end	NN	_	20	pobj
+23	.	.	.	_	12	punct
+

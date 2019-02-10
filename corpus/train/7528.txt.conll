@@ -1,0 +1,22 @@
+1	Her	she	PRP$	_	2	poss
+2	employment	employment	NN	_	8	nsubjpass
+3	at	at	IN	_	2	prep
+4	this	this	DT	_	6	det
+5	mustard	mustard	NN	_	6	nn
+6	company	company	NN	_	3	pobj
+7	is	be	VBZ	_	8	auxpass
+8	considered	consider	VBN	_	0	ROOT
+9	the	the	DT	_	12	det
+10	earliest	earliest	JJS	_	12	amod
+11	recorded	recorded	JJ	_	12	amod
+12	evidence	evidence	NN	_	8	xcomp
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	company	company	NN	_	13	pobj
+16	specifically	specifically	RB	_	17	advmod
+17	hiring	hire	VBG	_	12	vmod
+18	an	a	DT	_	20	det
+19	industrial	industrial	JJ	_	20	amod
+20	nurse	nurse	NN	_	17	dobj
+21	.	.	.	_	8	punct
+

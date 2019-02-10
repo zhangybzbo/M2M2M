@@ -1,0 +1,20 @@
+1	At	at	IN	_	9	prep
+2	that	that	DT	_	3	det
+3	time	time	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	the	the	DT	_	6	det
+6	skull	skull	NN	_	9	nsubjpass
+7	was	be	VBD	_	9	auxpass
+8	already	already	RB	_	9	advmod
+9	locked	lock	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	safe	safe	JJ	_	10	pobj
+13	along	along	IN	_	12	prep
+14	with	with	IN	_	13	pcomp
+15	some	some	DT	_	18	det
+16	other	other	JJ	_	18	amod
+17	longish	longish	JJ	_	18	amod
+18	bones	bone	NNS	_	14	pobj
+19	.	.	.	_	9	punct
+

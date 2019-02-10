@@ -1,0 +1,11 @@
+1	CSU	CSU	NNP	_	3	nn
+2	Stanislaus	Stanislaus	NNP	_	3	nn
+3	students	student	NNS	_	4	nsubj
+4	take	take	VBP	_	0	ROOT
+5	complaints	complaint	NNS	_	4	dobj
+6	to	to	TO	_	4	prep
+7	President	President	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	door	door	NN	_	6	pobj
+10	.	.	.	_	4	punct
+

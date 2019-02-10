@@ -1,0 +1,14 @@
+1	Chocolates	chocolate	NNS	_	11	nsubj
+2	,	,	,	_	1	punct
+3	junk	junk	NN	_	4	nn
+4	food	food	NN	_	1	conj
+5	,	,	,	_	1	punct
+6	dirty	dirty	JJ	_	7	amod
+7	skin	skin	NN	_	1	conj
+8	,	,	,	_	1	punct
+9	and	and	CC	_	1	cc
+10	stress	stress	NN	_	1	conj
+11	cause	cause	VBP	_	0	ROOT
+12	acne	acne	NN	_	11	dobj
+13	.	.	.	_	11	punct
+

@@ -1,0 +1,15 @@
+1	Excessive	excessive	JJ	_	2	amod
+2	anxiety	anxiety	NN	_	7	nsubj
+3	,	,	,	_	2	punct
+4	worry	worry	NN	_	2	conj
+5	or	or	CC	_	2	cc
+6	fear	fear	NN	_	2	conj
+7	are	be	VBP	_	0	ROOT
+8	among	among	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	causes	cause	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	heart	heart	NN	_	13	nn
+13	attack	attack	NN	_	11	pobj
+14	.	.	.	_	7	punct
+

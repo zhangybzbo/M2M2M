@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det
+2	car	car	NN	_	4	nsubj
+3	even	even	RB	_	4	advmod
+4	has	have	VBZ	_	0	ROOT
+5	the	the	DT	_	8	det
+6	original	original	JJ	_	8	amod
+7	casette	casette	NN	_	8	nn
+8	player	player	NN	_	4	dobj
+9	and	and	CC	_	8	cc
+10	cd	cd	NN	_	11	nn
+11	changer	changer	NN	_	8	conj
+12	,	,	,	_	8	punct
+13	which	which	WDT	_	16	nsubj
+14	is	be	VBZ	_	16	cop
+15	fully	fully	RB	_	16	advmod
+16	functional	functional	JJ	_	8	rcmod
+17	.	.	.	_	4	punct
+

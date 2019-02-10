@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	impact	impact	NN	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	tire	tire	NN	_	3	pobj
+6	against	against	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	pothole	pothole	NN	_	6	pobj
+9	caused	cause	VBD	_	0	ROOT
+10	a	a	DT	_	11	det
+11	slit	slit	NN	_	9	dobj
+12	on	on	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	tube	tube	NN	_	12	pobj
+15	that	that	IN	_	18	mark
+16	the	the	DT	_	17	det
+17	repairman	repairman	NN	_	18	nsubj
+18	had	have	VBD	_	11	ccomp
+19	to	to	TO	_	20	aux
+20	sew	sew	VB	_	18	xcomp
+21	three	three	CD	_	22	num
+22	stiches	stich	NNS	_	20	dobj
+23	.	.	.	_	9	punct
+

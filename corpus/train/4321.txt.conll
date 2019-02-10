@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj
+2	milked	milk	VBD	_	0	ROOT
+3	their	they	PRP$	_	5	poss
+4	evening	evening	NN	_	5	nn
+5	drink	drink	NN	_	2	dobj
+6	for	for	IN	_	2	prep
+7	them	they	PRP	_	6	pobj
+8	and	and	CC	_	2	cc
+9	then	then	RB	_	10	advmod
+10	found	find	VBD	_	2	conj
+11	them	they	PRP	_	10	dobj
+12	asleep	asleep	RB	_	10	advmod
+13	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+1	Successful	successful	JJ	_	2	amod
+2	memes	meme	NNS	_	0	ROOT
+3	spread	spread	VBN	_	2	vmod
+4	into	into	IN	_	3	prep
+5	numerous	numerous	JJ	_	6	amod
+6	copies	copy	NNS	_	4	pobj
+7	whereas	whereas	IN	_	10	mark
+8	unsuccessful	unsuccessful	JJ	_	9	amod
+9	ones	one	NNS	_	10	nsubj
+10	become	become	VBP	_	2	advcl
+11	extinct	extinct	JJ	_	10	acomp
+12	.	.	.	_	2	punct
+

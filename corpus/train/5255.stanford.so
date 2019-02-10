@@ -1,0 +1,12 @@
+0	61	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="internal" pos="JJ" amod="t1"
+9	15	tok id="t1" base="email" pos="NNS" nsubjpass="t4"
+16	20	tok id="t2" base="have" pos="VBP" aux="t4"
+21	25	tok id="t3" base="be" pos="VBN" auxpass="t4"
+26	32	tok id="t4" base="leak" pos="VBN" ROOT="ROOT"
+33	35	tok id="t5" base="to" pos="TO" prep="t4"
+36	39	tok id="t6" base="the" pos="DT" det="t8"
+40	46	tok id="t7" base="public" pos="JJ" amod="t8"
+47	59	tok id="t8" base="broadcasting" pos="NN" pobj="t5"
+60	61	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

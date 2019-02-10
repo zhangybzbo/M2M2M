@@ -1,0 +1,11 @@
+1	Jeans	jeans	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	topstitching	topstitch	VBG	_	7	csubj
+4	that	that	DT	_	3	dobj
+5	is	be	VBZ	_	7	cop
+6	almost	almost	RB	_	7	advmod
+7	impossible	impossible	JJ	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	match	match	VB	_	7	xcomp
+10	.	.	.	_	7	punct
+

@@ -1,0 +1,11 @@
+1	We	we	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	some	some	DT	_	4	det
+4	wax	wax	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	old	old	JJ	_	8	amod
+8	tin	tin	NN	_	5	pobj
+9	can	can	MD	_	2	dep
+10	.	.	.	_	2	punct
+

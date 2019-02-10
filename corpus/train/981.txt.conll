@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	microphone	microphone	NN	_	3	nsubj
+3	converts	convert	VBZ	_	0	ROOT
+4	sound	sound	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	an	a	DT	_	8	det
+7	electrical	electrical	JJ	_	8	amod
+8	signal	signal	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

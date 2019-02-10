@@ -1,0 +1,16 @@
+1	Previously	previously	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	the	the	DT	_	5	det
+4	end	end	NN	_	5	nn
+5	user	user	NN	_	6	nsubj
+6	machined	machine	VBD	_	0	ROOT
+7	the	the	DT	_	8	det
+8	wrenches	wrench	NNS	_	6	dobj
+9	with	with	IN	_	13	mark
+10	a	a	DT	_	12	det
+11	high-speed	high-speed	JJ	_	12	amod
+12	steel	steel	NN	_	13	nsubj
+13	pull	pull	VB	_	6	advcl
+14	broach	broach	NN	_	13	dobj
+15	.	.	.	_	6	punct
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	5	det
+2	Big	big	JJ	_	5	amod
+3	Barn	Barn	NNP	_	5	nn
+4	Farm	Farm	NNP	_	5	nn
+5	friends	friend	NNS	_	6	nsubj
+6	discover	discover	VBP	_	0	ROOT
+7	a	a	DT	_	8	det
+8	pile	pile	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	junk	junk	NN	_	9	pobj
+11	.	.	.	_	6	punct
+

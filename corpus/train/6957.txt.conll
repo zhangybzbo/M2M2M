@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	clinical	clinical	JJ	_	3	amod
+3	trials	trial	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	implanted	implant	VBN	_	0	ROOT
+6	cells	cell	NNS	_	5	dobj
+7	into	into	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	patient	patient	NN	_	7	pobj
+10	.	.	.	_	5	punct
+

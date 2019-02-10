@@ -1,0 +1,24 @@
+1	This	this	DT	_	2	det
+2	invention	invention	NN	_	3	nsubj
+3	relates	relate	VBZ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	a	a	DT	_	8	det
+6	mooring	mooring	NN	_	8	nn
+7	fender	fender	NN	_	8	nn
+8	apparatus	apparatus	NN	_	4	pobj
+9	,	,	,	_	8	punct
+10	particular	particular	JJ	_	12	amod
+11	an	a	DT	_	12	det
+12	apparatus	apparatus	NN	_	8	appos
+13	to	to	TO	_	14	aux
+14	protect	protect	VB	_	12	vmod
+15	the	the	DT	_	16	det
+16	gunnel	gunnel	NN	_	14	dobj
+17	and	and	CC	_	16	cc
+18	rub	rub	NN	_	19	nn
+19	rail	rail	NN	_	16	conj
+20	of	of	IN	_	16	prep
+21	a	a	DT	_	22	det
+22	boat	boat	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

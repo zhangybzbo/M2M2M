@@ -1,0 +1,19 @@
+1	New	New	NNP	_	2	nn
+2	emails	email	NNS	_	3	nsubj
+3	arrive	arrive	VBP	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	my	my	PRP$	_	7	poss
+6	mail	mail	NN	_	7	nn
+7	box	box	NN	_	4	pobj
+8	every	every	DT	_	10	det
+9	1	1	CD	_	10	num
+10	min	min	NN	_	3	tmod
+11	;	;	:	_	3	punct
+12	this	this	DT	_	13	nsubj
+13	includes	include	VBZ	_	3	parataxis
+14	a	a	DT	_	15	det
+15	lot	lot	NN	_	13	dobj
+16	of	of	IN	_	15	prep
+17	spam	spam	NN	_	16	pobj
+18	.	.	.	_	3	punct
+

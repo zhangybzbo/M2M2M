@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	concerns	concern	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	related	relate	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	property	property	NN	_	7	nn
+7	taxes	tax	NNS	_	5	pobj
+8	,	,	,	_	7	punct
+9	sewage	sewage	NN	_	10	nn
+10	systems	system	NNS	_	7	conj
+11	,	,	,	_	7	punct
+12	property	property	NN	_	13	nn
+13	values	value	NNS	_	7	conj
+14	,	,	,	_	7	punct
+15	and	and	CC	_	7	cc
+16	control	control	NN	_	7	conj
+17	of	of	IN	_	16	prep
+18	school	school	NN	_	19	nn
+19	districts	district	NNS	_	17	pobj
+20	.	.	.	_	4	punct
+

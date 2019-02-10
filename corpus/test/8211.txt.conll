@@ -1,0 +1,15 @@
+1	Musicians	musician	NNS	_	2	nsubj
+2	used	use	VBD	_	0	ROOT
+3	their	they	PRP$	_	5	poss
+4	real	real	JJ	_	5	amod
+5	nails	nail	NNS	_	2	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	right	right	JJ	_	9	amod
+9	hand	hand	NN	_	6	pobj
+10	to	to	TO	_	11	aux
+11	pluck	pluck	VB	_	2	vmod
+12	the	the	DT	_	13	det
+13	strings	string	NNS	_	11	dobj
+14	.	.	.	_	2	punct
+

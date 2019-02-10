@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	det
+2	picture	picture	NN	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	glass	glass	NN	_	6	nn
+6	blower	blower	NN	_	3	dobj
+7	in	in	IN	_	6	prep
+8	one	one	CD	_	7	pobj
+9	of	of	IN	_	8	prep
+10	Hebron	Hebron	NNP	_	15	poss
+11	's	's	POS	_	10	possessive
+12	blown	blow	VBN	_	15	amod
+13	glass	glass	NN	_	15	nn
+14	factories	factory	NNS	_	15	nn
+15	molding	molding	NN	_	9	pobj
+16	the	the	DT	_	18	det
+17	hot	hot	JJ	_	18	amod
+18	glass	glass	NN	_	19	nsubj
+19	paste	paste	VBP	_	15	rcmod
+20	into	into	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	bottom	bottom	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	a	a	DT	_	25	det
+25	vase	vase	NN	_	23	pobj
+26	.	.	.	_	3	punct
+

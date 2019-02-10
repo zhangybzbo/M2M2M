@@ -1,0 +1,18 @@
+1	Its	its	PRP$	_	2	poss
+2	progenitor	progenitor	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	name	name	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	10	det
+8	wonderful	wonderful	JJ	_	10	amod
+9	non-fiction	non-fiction	JJ	_	10	amod
+10	account	account	NN	_	6	pobj
+11	of	of	IN	_	10	prep
+12	policing	police	VBG	_	11	pcomp
+13	in	in	IN	_	12	prep
+14	Baltimore	Baltimore	NNP	_	13	pobj
+15	called	call	VBD	_	3	dep
+16	Homicide	Homicide	NNP	_	15	dep
+17	.	.	.	_	3	punct
+

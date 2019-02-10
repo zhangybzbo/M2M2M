@@ -1,0 +1,18 @@
+1	It	it	PRP	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	pushed	push	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	road	road	NN	_	4	pobj
+7	by	by	IN	_	3	prep
+8	another	another	DT	_	9	det
+9	chicken	chicken	NN	_	7	pobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	12	nsubj
+12	went	go	VBD	_	9	rcmod
+13	away	away	RB	_	12	advmod
+14	from	from	IN	_	12	prep
+15	the	the	DT	_	16	det
+16	road	road	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

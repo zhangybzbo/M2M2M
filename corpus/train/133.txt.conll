@@ -1,0 +1,15 @@
+1	Global	global	JJ	_	4	amod
+2	digital	digital	JJ	_	4	amod
+3	music	music	NN	_	4	nn
+4	sales	sale	NNS	_	5	nsubj
+5	grow	grow	VBP	_	0	ROOT
+6	as	as	IN	_	10	mark
+7	the	the	DT	_	9	det
+8	music	music	NN	_	9	nn
+9	industry	industry	NN	_	10	nsubj
+10	develops	develop	VBZ	_	5	advcl
+11	new	new	JJ	_	13	amod
+12	business	business	NN	_	13	nn
+13	models	model	NNS	_	10	dobj
+14	.	.	.	_	5	punct
+

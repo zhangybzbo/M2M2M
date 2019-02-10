@@ -1,0 +1,11 @@
+1	These	these	DT	_	2	det
+2	standards	standard	NNS	_	3	nsubj
+3	are	be	VBP	_	0	ROOT
+4	under	under	IN	_	3	prep
+5	discussion	discussion	NN	_	4	pobj
+6	and	and	CC	_	4	cc
+7	not	not	RB	_	9	neg
+8	yet	yet	RB	_	9	advmod
+9	published	publish	VBN	_	4	conj
+10	.	.	.	_	3	punct
+

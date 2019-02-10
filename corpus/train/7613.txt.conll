@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	vaccine	vaccine	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	inactivated	inactivate	VBN	_	7	amod
+7	virus	virus	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	so	so	IN	_	12	mark
+10	it	it	PRP	_	12	nsubj
+11	's	be	VBZ	_	12	cop
+12	impossible	impossible	JJ	_	4	advcl
+13	to	to	TO	_	14	aux
+14	get	get	VB	_	12	xcomp
+15	the	the	DT	_	16	det
+16	flu	flu	NN	_	14	dobj
+17	from	from	IN	_	14	prep
+18	the	the	DT	_	19	det
+19	vaccine	vaccine	NN	_	17	pobj
+20	.	.	.	_	4	punct
+

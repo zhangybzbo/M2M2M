@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	manufacturer	manufacturer	NN	_	3	nsubj
+3	guarantees	guarantee	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	dimension	dimension	NN	_	3	dobj
+6	by	by	IN	_	3	prep
+7	using	use	VBG	_	6	pcomp
+8	the	the	DT	_	11	det
+9	precise	precise	JJ	_	11	amod
+10	grind	grind	NN	_	11	nn
+11	process	process	NN	_	7	dobj
+12	.	.	.	_	3	punct
+

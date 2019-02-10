@@ -1,0 +1,23 @@
+1	A	a	DT	_	4	det
+2	two	two	CD	_	4	num
+3	zone	zone	NN	_	4	nn
+4	alarm	alarm	NN	_	5	nsubj
+5	means	mean	VBZ	_	21	dep
+6	the	the	DT	_	7	det
+7	alarm	alarm	NN	_	8	nsubj
+8	has	have	VBZ	_	5	ccomp
+9	two	two	CD	_	14	num
+10	seperate	seperate	JJ	_	14	amod
+11	`	`	``	_	14	punct
+12	detection	detection	NN	_	14	nn
+13	'	'	''	_	14	punct
+14	circuits	circuit	NNS	_	8	dobj
+15	and	and	CC	_	8	cc
+16	can	can	MD	_	17	aux
+17	identify	identify	VB	_	8	conj
+18	which	which	WDT	_	19	det
+19	circuit	circuit	NN	_	17	dobj
+20	was	be	VBD	_	21	auxpass
+21	triggered	trigger	VBN	_	0	ROOT
+22	.	.	.	_	21	punct
+

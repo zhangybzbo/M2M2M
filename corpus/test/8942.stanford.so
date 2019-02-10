@@ -1,0 +1,8 @@
+0	36	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="eight" pos="CD" num="t1"
+6	14	tok id="t1" base="busload" pos="NNS" nsubj="t2"
+15	18	tok id="t2" base="run" pos="VBD" ROOT="ROOT"
+19	23	tok id="t3" base="into" pos="IN" prep="t2"
+24	34	tok id="t4" base="contention" pos="NN" pobj="t3"
+35	36	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

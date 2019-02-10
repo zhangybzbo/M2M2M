@@ -1,0 +1,11 @@
+1	Ray	Ray	NNP	_	2	nn
+2	Parlour	Parlour	NNP	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	frustration	frustration	NN	_	3	dobj
+6	after	after	IN	_	3	prep
+7	Middlesbrough	Middlesbrough	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	defeat	defeat	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

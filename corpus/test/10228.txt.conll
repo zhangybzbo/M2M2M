@@ -1,0 +1,17 @@
+1	Light	light	JJ	_	2	amod
+2	blue	blue	NN	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	additional	additional	JJ	_	6	amod
+6	extent	extent	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	an	a	DT	_	10	det
+9	extreme	extreme	JJ	_	10	amod
+10	flood	flood	NN	_	7	pobj
+11	from	from	IN	_	10	prep
+12	rivers	river	NNS	_	11	pobj
+13	or	or	CC	_	12	cc
+14	the	the	DT	_	15	det
+15	sea	sea	NN	_	12	conj
+16	.	.	.	_	3	punct
+

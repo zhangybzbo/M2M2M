@@ -1,0 +1,1 @@
+Player one can become white and block all the bullets while player two blasts the boss with the opposite color .

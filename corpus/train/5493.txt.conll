@@ -1,0 +1,19 @@
+1	Typhoon	typhoon	NN	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	a	a	DT	_	5	det
+4	dapple-gray	dapple-gray	JJ	_	5	amod
+5	gelding	gelding	NN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	small	small	JJ	_	8	amod
+8	splashes	splash	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	brown	brown	JJ	_	9	pobj
+11	around	around	IN	_	5	prep
+12	his	he	PRP$	_	13	poss
+13	nuzzle	nuzzle	NN	_	11	pobj
+14	and	and	CC	_	13	cc
+15	his	he	PRP$	_	17	poss
+16	hind	hind	JJ	_	17	amod
+17	end	end	NN	_	13	conj
+18	.	.	.	_	5	punct
+

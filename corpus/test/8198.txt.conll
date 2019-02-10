@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	det
+2	song	song	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	entered	enter	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	contest	contest	NN	_	6	pobj
+9	unofficially	unofficially	RB	_	5	advmod
+10	.	.	.	_	5	punct
+

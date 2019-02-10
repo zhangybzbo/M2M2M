@@ -1,0 +1,3 @@
+T1	Term 54 61	critics
+T2	Term 79 86	verdict
+R1	Product-Producer Arg1:T2 Arg2:T1

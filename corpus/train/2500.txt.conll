@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	communal	communal	JJ	_	3	amod
+3	den	den	NN	_	10	nsubjpass
+4	of	of	IN	_	3	prep
+5	garter	garter	NN	_	6	nn
+6	snakes	snake	NNS	_	4	pobj
+7	in	in	IN	_	3	prep
+8	Manitoba	Manitoba	NNP	_	7	pobj
+9	is	be	VBZ	_	10	auxpass
+10	selected	select	VBN	_	0	ROOT
+11	to	to	TO	_	12	aux
+12	study	study	VB	_	10	xcomp
+13	whether	whether	IN	_	12	prep
+14	courting	court	VBG	_	13	pcomp
+15	males	male	NNS	_	14	dobj
+16	make	make	VBP	_	14	dep
+17	mistakes	mistake	NNS	_	16	dobj
+18	in	in	IN	_	16	prep
+19	selecting	select	VBG	_	18	pcomp
+20	females	female	NNS	_	19	dobj
+21	.	.	.	_	10	punct
+

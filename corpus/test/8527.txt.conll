@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	lead	lead	NN	_	3	nn
+3	locomotive	locomotive	NN	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	train	train	NN	_	4	pobj
+7	had	have	VBD	_	0	ROOT
+8	a	a	DT	_	10	det
+9	video	video	NN	_	10	nn
+10	camera	camera	NN	_	7	dobj
+11	that	that	WDT	_	12	nsubj
+12	recorded	record	VBD	_	10	rcmod
+13	the	the	DT	_	14	det
+14	view	view	NN	_	12	dobj
+15	in	in	IN	_	14	prep
+16	front	front	NN	_	15	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	train	train	NN	_	17	pobj
+20	.	.	.	_	7	punct
+

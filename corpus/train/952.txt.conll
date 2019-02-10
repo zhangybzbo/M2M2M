@@ -1,0 +1,25 @@
+1	Towne	Towne	NNP	_	2	nn
+2	Bank	Bank	NNP	_	12	nsubj
+3	,	,	,	_	2	punct
+4	which	which	WDT	_	5	nsubj
+5	has	have	VBZ	_	2	rcmod
+6	only	only	RB	_	7	quantmod
+7	one	one	CD	_	9	num
+8	retail	retail	JJ	_	9	amod
+9	location	location	NN	_	5	dobj
+10	,	,	,	_	2	punct
+11	was	be	VBD	_	12	cop
+12	one	one	CD	_	0	ROOT
+13	of	of	IN	_	12	prep
+14	those	those	DT	_	16	det
+15	opportunistic	opportunistic	JJ	_	16	amod
+16	upstarts	upstart	NNS	_	13	pobj
+17	,	,	,	_	12	punct
+18	a	a	DT	_	19	det
+19	bank	bank	NN	_	12	appos
+20	built	build	VBN	_	19	vmod
+21	on	on	IN	_	20	prep
+22	a	a	DT	_	23	det
+23	bubble	bubble	NN	_	21	pobj
+24	.	.	.	_	12	punct
+

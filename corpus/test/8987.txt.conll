@@ -1,0 +1,26 @@
+1	On	on	IN	_	14	prep
+2	this	this	DT	_	3	det
+3	basis	basis	NN	_	1	pobj
+4	,	,	,	_	14	punct
+5	the	the	DT	_	9	det
+6	vibronically	vibronically	NNP	_	9	nn
+7	coupled	couple	VBN	_	9	amod
+8	CD	CD	NNP	_	9	nn
+9	bands	band	NNS	_	14	nsubjpass
+10	of	of	IN	_	9	prep
+11	lutein	lutein	NN	_	12	nn
+12	diacetate	diacetate	NN	_	10	pobj
+13	are	be	VBP	_	14	auxpass
+14	attributed	attribute	VBN	_	0	ROOT
+15	to	to	TO	_	14	prep
+16	an	a	DT	_	18	det
+17	excitonic	excitonic	JJ	_	18	amod
+18	interaction	interaction	NN	_	15	pobj
+19	arose	arise	VBD	_	18	vmod
+20	from	from	IN	_	19	prep
+21	the	the	DT	_	24	det
+22	twisted	twisted	JJ	_	24	amod
+23	nematic	nematic	JJ	_	24	amod
+24	layers	layer	NNS	_	20	pobj
+25	.	.	.	_	14	punct
+

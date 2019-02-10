@@ -1,0 +1,14 @@
+1	Analysts	analyst	NNS	_	2	nsubj
+2	assess	assess	VBP	_	0	ROOT
+3	distribution	distribution	NN	_	2	dobj
+4	and	and	CC	_	3	cc
+5	changes	change	NNS	_	3	conj
+6	in	in	IN	_	3	prep
+7	distribution	distribution	NN	_	6	pobj
+8	over	over	IN	_	2	prep
+9	time	time	NN	_	8	pobj
+10	by	by	IN	_	2	prep
+11	using	use	VBG	_	10	pcomp
+12	frequency	frequency	NN	_	11	dobj
+13	.	.	.	_	2	punct
+

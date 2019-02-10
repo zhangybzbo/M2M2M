@@ -1,0 +1,24 @@
+1	This	this	DT	_	3	det
+2	latest	latest	JJS	_	3	amod
+3	adventure	adventure	NN	_	11	nsubj
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	animation	animation	NN	_	7	nn
+7	wizards	wizard	NNS	_	4	pobj
+8	at	at	IN	_	3	prep
+9	Pixar	Pixar	NNP	_	8	pobj
+10	is	be	VBZ	_	11	cop
+11	beautiful	beautiful	JJ	_	0	ROOT
+12	,	,	,	_	11	punct
+13	masterly	masterly	JJ	_	11	dep
+14	,	,	,	_	13	punct
+15	inspired	inspired	JJ	_	13	conj
+16	-	-	:	_	13	punct
+17	and	and	CC	_	11	cc
+18	delivers	deliver	VBZ	_	11	conj
+19	a	a	DT	_	22	det
+20	powerful	powerful	JJ	_	22	amod
+21	ecological	ecological	JJ	_	22	amod
+22	message	message	NN	_	18	dobj
+23	.	.	.	_	11	punct
+

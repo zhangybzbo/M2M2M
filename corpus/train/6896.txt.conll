@@ -1,0 +1,21 @@
+1	She	she	PRP	_	2	nsubj
+2	sold	sell	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	gold	gold	NN	_	5	nn
+5	ring	ring	NN	_	2	dobj
+6	she	she	PRP	_	7	nsubj
+7	received	receive	VBD	_	5	rcmod
+8	as	as	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	gift	gift	NN	_	8	pobj
+11	from	from	IN	_	10	prep
+12	her	she	PRP$	_	13	poss
+13	company	company	NN	_	11	pobj
+14	and	and	CC	_	13	cc
+15	her	she	PRP$	_	19	poss
+16	old	old	JJ	_	19	amod
+17	'80s	'80	NNS	_	19	nn
+18	style	style	NN	_	19	nn
+19	chains	chain	NNS	_	13	conj
+20	.	.	.	_	2	punct
+

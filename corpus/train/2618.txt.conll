@@ -1,0 +1,22 @@
+1	Because	because	IN	_	0	ROOT
+2	sports	sport	NNS	_	4	nn
+3	broadcast	broadcast	VBN	_	4	amod
+4	reports	report	NNS	_	6	nn
+5	on-going	on-going	JJ	_	6	amod
+6	events	event	NNS	_	1	pobj
+7	within	within	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	constrained	constrain	VBN	_	11	amod
+10	physical	physical	JJ	_	11	amod
+11	situation	situation	NN	_	7	pobj
+12	,	,	,	_	17	punct
+13	contextualized	contextualize	VBN	_	14	amod
+14	reference	reference	NN	_	17	nsubj
+15	is	be	VBZ	_	17	cop
+16	extremely	extremely	RB	_	17	advmod
+17	high	high	JJ	_	6	dep
+18	in	in	IN	_	17	prep
+19	these	these	DT	_	20	det
+20	texts	text	NNS	_	18	pobj
+21	.	.	.	_	1	punct
+

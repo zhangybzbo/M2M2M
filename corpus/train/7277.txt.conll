@@ -1,0 +1,22 @@
+1	Continuous	continuous	JJ	_	2	amod
+2	improvement	improvement	NN	_	3	nsubj
+3	starts	start	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	measuring	measure	VBG	_	4	pcomp
+6	process	process	NN	_	7	nn
+7	performance	performance	NN	_	5	dobj
+8	,	,	,	_	3	punct
+9	and	and	CC	_	3	cc
+10	instigating	instigate	VBG	_	3	conj
+11	a	a	DT	_	13	det
+12	robust	robust	JJ	_	13	amod
+13	process	process	NN	_	10	dobj
+14	for	for	IN	_	10	prep
+15	reviewing	review	VBG	_	14	pcomp
+16	further	further	JJ	_	17	amod
+17	changes	change	NNS	_	15	dobj
+18	logically	logically	RB	_	15	advmod
+19	and	and	CC	_	18	cc
+20	quickly	quickly	RB	_	18	conj
+21	.	.	.	_	3	punct
+

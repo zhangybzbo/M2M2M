@@ -1,0 +1,16 @@
+1	Dacryoadenitis	dacryoadenitis	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	local	local	JJ	_	6	amod
+6	infection	infection	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	lacrimal	lacrimal	JJ	_	10	amod
+10	gland	gland	NN	_	7	pobj
+11	by	by	IN	_	6	prep
+12	bacteria	bacterium	NNS	_	11	pobj
+13	or	or	CC	_	12	cc
+14	viruses	virus	NNS	_	12	conj
+15	.	.	.	_	3	punct
+

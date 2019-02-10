@@ -1,0 +1,9 @@
+0	32	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="two" pos="CD" num="t2"
+4	9	tok id="t1" base="other" pos="JJ" amod="t2"
+10	15	tok id="t2" base="teens" pos="NNS" nsubj="t3"
+16	19	tok id="t3" base="run" pos="VBD" ROOT="ROOT"
+20	24	tok id="t4" base="into" pos="IN" prep="t3"
+25	30	tok id="t5" base="snag" pos="NNS" pobj="t4"
+31	32	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	union	union	NN	_	3	nn
+3	contract	contract	NN	_	4	nsubj
+4	governs	govern	VBZ	_	0	ROOT
+5	wages	wages	NNS	_	4	dobj
+6	and	and	CC	_	5	cc
+7	hours	hour	NNS	_	5	conj
+8	and	and	CC	_	5	cc
+9	runs	run	NNS	_	5	conj
+10	for	for	IN	_	4	prep
+11	three	three	CD	_	12	num
+12	years	year	NNS	_	10	pobj
+13	.	.	.	_	4	punct
+

@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	researchers	researcher	NNS	_	3	nsubj
+3	inserted	insert	VBN	_	0	ROOT
+4	caffeine	caffeine	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	baked	baked	JJ	_	7	amod
+7	goods	goods	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

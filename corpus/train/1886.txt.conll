@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	stage	stage	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	cellar	cellar	NN	_	4	pobj
+7	,	,	,	_	3	punct
+8	and	and	CC	_	3	cc
+9	all	all	PDT	_	11	predet
+10	the	the	DT	_	11	det
+11	lights	light	NNS	_	15	nsubj
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	shop	shop	NN	_	12	pobj
+15	were	be	VBD	_	3	conj
+16	out	out	RB	_	15	advmod
+17	;	;	:	_	3	punct
+18	groans	groan	VBZ	_	19	nsubj
+19	rose	rise	VBD	_	3	conj
+20	from	from	IN	_	19	prep
+21	a	a	DT	_	22	det
+22	trap-door	trap-door	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

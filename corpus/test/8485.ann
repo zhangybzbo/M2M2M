@@ -1,0 +1,3 @@
+T1	Term 72 79	comment
+T2	Term 94 99	mayor
+R1	Product-Producer Arg1:T1 Arg2:T2

@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj
+2	grabbed	grab	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	handle	handle	VB	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	bucket	bucket	NN	_	5	pobj
+8	and	and	CC	_	2	cc
+9	even	even	RB	_	14	advmod
+10	this	this	DT	_	14	det
+11	small	small	JJ	_	14	amod
+12	20	20	CD	_	14	num
+13	second	second	JJ	_	14	amod
+14	interaction	interaction	NN	_	16	nsubj
+15	was	be	VBD	_	16	cop
+16	enough	enough	RB	_	2	conj
+17	to	to	TO	_	18	aux
+18	make	make	VB	_	16	xcomp
+19	me	I	PRP	_	20	nsubj
+20	break	break	VB	_	18	ccomp
+21	out	out	RP	_	20	prt
+22	in	in	IN	_	20	prep
+23	a	a	DT	_	25	det
+24	small	small	JJ	_	25	amod
+25	rash	rash	NN	_	22	pobj
+26	.	.	.	_	2	punct
+

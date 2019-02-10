@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	wrote	write	VBD	_	0	ROOT
+3	out	out	RP	_	2	prt
+4	a	a	DT	_	5	det
+5	sketch	sketch	NN	_	2	dobj
+6	setting	set	VBG	_	5	vmod
+7	out	out	RP	_	6	prt
+8	his	he	PRP$	_	10	poss
+9	basic	basic	JJ	_	10	amod
+10	ideas	idea	NNS	_	6	dobj
+11	on	on	IN	_	10	prep
+12	transmutation	transmutation	NN	_	11	pobj
+13	of	of	IN	_	12	prep
+14	species	species	NNS	_	13	pobj
+15	.	.	.	_	2	punct
+

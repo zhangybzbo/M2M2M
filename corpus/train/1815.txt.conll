@@ -1,0 +1,16 @@
+1	Well	well	UH	_	3	discourse
+2	I	I	PRP	_	3	nsubj
+3	know	know	VBP	_	0	ROOT
+4	quite	quite	RB	_	7	advmod
+5	a	a	DT	_	7	det
+6	few	few	JJ	_	7	amod
+7	people	people	NNS	_	3	dobj
+8	who	who	WP	_	9	nsubj
+9	get	get	VBP	_	7	rcmod
+10	dissatisfaction	dissatisfaction	NN	_	9	dobj
+11	from	from	IN	_	9	prep
+12	laughing	laugh	VBG	_	11	pcomp
+13	at	at	IN	_	12	prep
+14	retards	retard	NNS	_	13	pobj
+15	.	.	.	_	3	punct
+

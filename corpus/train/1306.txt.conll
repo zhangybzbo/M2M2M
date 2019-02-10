@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	painting	painting	NN	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	first	first	JJ	_	8	amod
+8	used	use	VBN	_	5	pobj
+9	as	as	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	poster	poster	NN	_	9	pobj
+12	in	in	IN	_	11	prep
+13	an	a	DT	_	15	det
+14	advertising	advertising	NN	_	15	nn
+15	campaign	campaign	NN	_	12	pobj
+16	for	for	IN	_	15	prep
+17	soap	soap	NN	_	18	nn
+18	powder	powder	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	A	a	DT	_	2	det
+2	copy	copy	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	survey	survey	NN	_	3	pobj
+6	was	be	VBD	_	7	auxpass
+7	enclosed	enclose	VBN	_	0	ROOT
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	12	det
+10	back-up	back-up	JJ	_	12	amod
+11	materials	material	NNS	_	12	nn
+12	packet	packet	NN	_	8	pobj
+13	.	.	.	_	7	punct
+

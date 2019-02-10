@@ -1,0 +1,23 @@
+1	Barrages	barrage	NNS	_	2	nsubj
+2	make	make	VBP	_	0	ROOT
+3	use	use	NN	_	2	dobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	potential	potential	JJ	_	7	amod
+7	energy	energy	NN	_	4	pobj
+8	in	in	IN	_	2	prep
+9	the	the	DT	_	10	det
+10	difference	difference	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	height	height	NN	_	11	pobj
+13	-LRB-	-lrb-	-LRB-	_	15	punct
+14	or	or	CC	_	15	cc
+15	head	head	NN	_	12	appos
+16	-RRB-	-rrb-	-RRB-	_	15	punct
+17	between	between	IN	_	10	prep
+18	high	high	JJ	_	21	amod
+19	and	and	CC	_	18	cc
+20	low	low	JJ	_	18	conj
+21	tides	tide	NNS	_	17	pobj
+22	.	.	.	_	2	punct
+

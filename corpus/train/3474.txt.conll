@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	number	number	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	questions	question	NNS	_	3	pobj
+5	had	have	VBD	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	tabled	table	VBN	_	0	ROOT
+8	relating	relate	VBG	_	7	xcomp
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	11	det
+11	dangers	danger	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	new	new	JJ	_	15	amod
+15	vaccine	vaccine	NN	_	12	pobj
+16	.	.	.	_	7	punct
+

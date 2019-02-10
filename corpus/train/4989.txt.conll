@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	deals	deal	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	province	province	NN	_	4	pobj
+7	in	in	IN	_	6	prep
+8	Belgium	Belgium	NNP	_	7	pobj
+9	.	.	.	_	3	punct
+

@@ -1,0 +1,1 @@
+A stereo buss outputs the stereo buss signal ; a record buss outputs the record buss signal .

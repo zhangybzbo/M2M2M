@@ -1,0 +1,1 @@
+Ward Cunningham , the developer of the first wiki software , WikiWikiWeb , originally described it as `` the simplest online database that could possibly work . ''

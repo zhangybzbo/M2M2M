@@ -1,0 +1,19 @@
+1	When	when	WRB	_	7	advmod
+2	the	the	DT	_	5	det
+3	blood	blood	NN	_	5	nn
+4	glucose	glucose	NN	_	5	nn
+5	levels	level	NNS	_	7	nsubjpass
+6	are	be	VBP	_	7	auxpass
+7	lowered	lower	VBN	_	16	advcl
+8	,	,	,	_	16	punct
+9	the	the	DT	_	11	det
+10	insulin	insulin	NN	_	11	nn
+11	release	release	NN	_	16	nsubjpass
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	pancreas	pancreas	NN	_	12	pobj
+15	is	be	VBZ	_	16	auxpass
+16	turned	turn	VBN	_	0	ROOT
+17	down	down	RP	_	16	prt
+18	.	.	.	_	16	punct
+

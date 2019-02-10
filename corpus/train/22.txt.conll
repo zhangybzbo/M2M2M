@@ -1,0 +1,12 @@
+1	She	she	PRP	_	3	nsubj
+2	soon	soon	RB	_	3	advmod
+3	had	have	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	stable	stable	JJ	_	3	dobj
+6	of	of	IN	_	5	prep
+7	her	she	PRP$	_	8	poss
+8	own	own	JJ	_	6	pobj
+9	rescued	rescue	VBD	_	5	dep
+10	hounds	hound	NNS	_	9	dobj
+11	.	.	.	_	3	punct
+

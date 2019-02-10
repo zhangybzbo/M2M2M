@@ -1,0 +1,20 @@
+1	Salva	Salva	NNP	_	2	nn
+2	Kiir	Kiir	NNP	_	3	nsubj
+3	gave	give	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	speech	speech	NN	_	3	dobj
+6	criticising	criticise	VBG	_	5	vmod
+7	the	the	DT	_	8	det
+8	north	north	NN	_	6	dobj
+9	for	for	IN	_	6	prep
+10	the	the	DT	_	12	det
+11	slow	slow	JJ	_	12	amod
+12	progress	progress	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	country	country	NN	_	18	poss
+16	's	's	POS	_	15	possessive
+17	peace	peace	NN	_	18	nn
+18	agreement	agreement	NN	_	13	pobj
+19	.	.	.	_	3	punct
+

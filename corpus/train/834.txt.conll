@@ -1,0 +1,22 @@
+1	Lesser	lesser	RBR	_	3	advmod
+2	Black-backed	black-backed	JJ	_	3	amod
+3	Gulls	gull	NNS	_	5	nsubj
+4	were	be	VBD	_	5	cop
+5	capable	capable	JJ	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	producing	produce	VBG	_	6	pcomp
+8	,	,	,	_	7	punct
+9	on	on	IN	_	7	prep
+10	average	average	NN	_	9	pobj
+11	,	,	,	_	7	punct
+12	almost	almost	RB	_	14	quantmod
+13	three	three	CD	_	14	number
+14	times	time	NNS	_	17	num
+15	the	the	DT	_	17	det
+16	normal	normal	JJ	_	17	amod
+17	clutch	clutch	NN	_	7	dobj
+18	of	of	IN	_	17	prep
+19	three	three	CD	_	20	num
+20	eggs	egg	NNS	_	18	pobj
+21	.	.	.	_	5	punct
+

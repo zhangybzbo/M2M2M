@@ -1,0 +1,3 @@
+T1	Term 61 68	factory
+T2	Term 72 79	furnace
+R1	Component-Whole Arg1:T2 Arg2:T1

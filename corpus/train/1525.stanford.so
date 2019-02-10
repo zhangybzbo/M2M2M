@@ -1,0 +1,7 @@
+0	34	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="symbol" pos="NN" nsubj="t2"
+11	18	tok id="t2" base="denote" pos="VBZ" ROOT="ROOT"
+19	32	tok id="t3" base="concatenation" pos="NN" dobj="t2"
+33	34	tok id="t4" base="-PERIOD-" pos="." punct="t2"
+

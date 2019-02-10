@@ -1,0 +1,12 @@
+1	Sensitive	sensitive	JJ	_	2	amod
+2	pets	pet	NNS	_	3	nsubj
+3	experience	experience	VBP	_	0	ROOT
+4	rashes	rash	NNS	_	3	dobj
+5	and	and	CC	_	4	cc
+6	discomfort	discomfort	NN	_	4	conj
+7	from	from	IN	_	3	prep
+8	ticks	tick	NNS	_	7	pobj
+9	and	and	CC	_	8	cc
+10	fleas	flea	NNS	_	8	conj
+11	.	.	.	_	3	punct
+

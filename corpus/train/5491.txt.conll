@@ -1,0 +1,25 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	bus	bus	NN	_	4	nsubj
+4	climbed	climb	VBD	_	0	ROOT
+5	steadily	steadily	RB	_	6	advmod
+6	throughrich	throughrich	JJ	_	8	amod
+7	terraced	terraced	JJ	_	8	amod
+8	fields	field	NNS	_	4	dobj
+9	of	of	IN	_	8	prep
+10	grain	grain	NN	_	9	pobj
+11	towards	towards	IN	_	18	mark
+12	the	the	DT	_	14	det
+13	Qilian	Qilian	NNP	_	14	nn
+14	Shan	Shan	NNP	_	18	nsubj
+15	,	,	,	_	14	punct
+16	layersof	layersof	JJ	_	17	amod
+17	mountains	mountain	NNS	_	14	appos
+18	enfolded	enfold	VBD	_	4	advcl
+19	like	like	IN	_	18	prep
+20	a	a	DT	_	21	det
+21	weyr	weyr	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	dragons	dragon	NNS	_	22	pobj
+24	.	.	.	_	4	punct
+

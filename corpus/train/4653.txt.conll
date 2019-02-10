@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	cup	cup	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	9ft	9ft	JJ	_	8	amod
+7	oak	oak	NN	_	8	nn
+8	coffin	coffin	NN	_	4	pobj
+9	,	,	,	_	8	punct
+10	carved	carve	VBN	_	8	vmod
+11	from	from	IN	_	10	prep
+12	a	a	DT	_	15	det
+13	single	single	JJ	_	15	amod
+14	tree	tree	NN	_	15	nn
+15	trunk	trunk	NN	_	11	pobj
+16	.	.	.	_	3	punct
+

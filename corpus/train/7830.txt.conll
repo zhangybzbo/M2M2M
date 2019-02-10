@@ -1,0 +1,10 @@
+1	We	we	PRP	_	4	nsubj
+2	actually	actually	RB	_	4	advmod
+3	did	do	VBD	_	4	aux
+4	put	put	VB	_	0	ROOT
+5	tea	tea	NN	_	4	dobj
+6	in	in	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	food	food	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

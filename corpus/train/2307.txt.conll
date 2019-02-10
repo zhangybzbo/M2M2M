@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	R&B	r&b	NN	_	3	nn
+3	singer	singer	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	issued	issue	VBN	_	0	ROOT
+6	a	a	DT	_	7	det
+7	statement	statement	NN	_	5	dobj
+8	expressing	express	VBG	_	7	vmod
+9	remorse	remorse	NN	_	8	dobj
+10	`	`	``	_	8	punct
+11	over	over	IN	_	8	prep
+12	what	what	WP	_	11	pobj
+13	transpired	transpire	VBN	_	12	vmod
+14	'	'	''	_	13	punct
+15	and	and	CC	_	12	cc
+16	saying	say	VBG	_	12	conj
+17	he	he	PRP	_	19	nsubj
+18	is	be	VBZ	_	19	aux
+19	seeking	seek	VBG	_	16	ccomp
+20	counselling	counselling	NN	_	19	dobj
+21	.	.	.	_	5	punct
+

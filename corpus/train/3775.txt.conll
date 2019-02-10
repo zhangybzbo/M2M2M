@@ -1,0 +1,13 @@
+1	These	these	DT	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	just	just	RB	_	4	advmod
+4	some	some	DT	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	questions	question	NNS	_	5	pobj
+8	tackled	tackle	VBD	_	4	vmod
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	exhibition	exhibition	NN	_	9	pobj
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	kit	kit	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	box	box	NN	_	4	pobj
+7	that	that	IN	_	6	amod
+8	measured	measure	VBN	_	7	dep
+9	about	about	IN	_	8	prep
+10	18x11x3	18x11x3	NN	_	12	nn
+11	.5	.5	CD	_	12	num
+12	inches	inch	NNS	_	9	pobj
+13	.	.	.	_	3	punct
+

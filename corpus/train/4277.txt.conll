@@ -1,0 +1,26 @@
+1	Five	five	CD	_	2	num
+2	neighbors	neighbor	NNS	_	3	nsubj
+3	used	use	VBN	_	0	ROOT
+4	snow	snow	NN	_	5	nn
+5	blowers	blower	NNS	_	3	dobj
+6	to	to	TO	_	7	aux
+7	clear	clear	VB	_	3	xcomp
+8	the	the	DT	_	9	det
+9	road	road	NN	_	7	dobj
+10	ahead	ahead	RB	_	7	advmod
+11	while	while	IN	_	15	mark
+12	the	the	DT	_	14	det
+13	other	other	JJ	_	14	amod
+14	neighbors	neighbor	NNS	_	15	nsubj
+15	dug	dig	VBD	_	7	advcl
+16	out	out	RP	_	15	prt
+17	the	the	DT	_	18	det
+18	snow	snow	NN	_	15	dobj
+19	around	around	IN	_	15	prep
+20	the	the	DT	_	21	det
+21	ambulance	ambulance	NN	_	19	pobj
+22	with	with	IN	_	21	prep
+23	snow	snow	NN	_	24	nn
+24	shovels	shovel	NNS	_	22	pobj
+25	.	.	.	_	3	punct
+

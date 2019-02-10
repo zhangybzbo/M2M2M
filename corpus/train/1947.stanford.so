@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="but" pos="CC" cc="t6"
+4	6	tok id="t1" base="my" pos="PRP$" poss="t3"
+7	12	tok id="t2" base="local" pos="JJ" amod="t3"
+13	22	tok id="t3" base="bellowing" pos="NN" nsubj="t6"
+23	25	tok id="t4" base="of" pos="IN" prep="t3"
+26	37	tok id="t5" base="bullfinch" pos="NNS" pobj="t4"
+38	44	tok id="t6" base="prefer" pos="VBP" ROOT="ROOT"
+45	52	tok id="t7" base="natural" pos="JJ" amod="t8"
+53	57	tok id="t8" base="food" pos="NN" dobj="t6"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t6"
+

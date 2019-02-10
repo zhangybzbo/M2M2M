@@ -1,0 +1,10 @@
+1	They	they	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	dumped	dump	VBN	_	0	ROOT
+4	chemicals	chemical	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	8	det
+7	local	local	JJ	_	8	amod
+8	river	river	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

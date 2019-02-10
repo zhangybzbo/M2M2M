@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	coalition	coalition	NN	_	3	nsubj
+3	sprang	spring	VBD	_	0	ROOT
+4	up	up	RP	_	3	prt
+5	after	after	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	Tories	Tories	NNPS	_	8	nsubj
+8	released	release	VBD	_	3	advcl
+9	an	a	DT	_	11	det
+10	economic	economic	JJ	_	11	amod
+11	statement	statement	NN	_	8	dobj
+12	lambasted	lambast	VBN	_	11	vmod
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	opposition	opposition	NN	_	16	nn
+16	parties	party	NNS	_	13	pobj
+17	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+1	Now	now	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	you	you	PRP	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	imported	import	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	data	datum	NNS	_	5	dobj
+8	into	into	IN	_	5	prep
+9	the	the	DT	_	11	det
+10	region	region	NN	_	11	nn
+11	database	database	NN	_	8	pobj
+12	.	.	.	_	5	punct
+

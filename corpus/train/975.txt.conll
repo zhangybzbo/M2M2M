@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	metal	metal	NN	_	3	nn
+3	cube	cube	NN	_	12	nsubjpass
+4	,	,	,	_	3	punct
+5	one	one	CD	_	6	num
+6	meter	meter	NN	_	3	appos
+7	on	on	IN	_	6	prep
+8	each	each	DT	_	9	det
+9	side	side	NN	_	7	pobj
+10	,	,	,	_	3	punct
+11	is	be	VBZ	_	12	auxpass
+12	enclosed	enclose	VBN	_	0	ROOT
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	17	det
+15	thermally	thermally	RB	_	16	advmod
+16	insulating	insulate	VBG	_	17	amod
+17	jacket	jacket	NN	_	13	pobj
+18	.	.	.	_	12	punct
+

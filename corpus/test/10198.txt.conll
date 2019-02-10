@@ -1,0 +1,9 @@
+1	My	my	PRP$	_	2	poss
+2	equipment	equipment	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	built	build	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	another	another	DT	_	7	det
+7	country	country	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

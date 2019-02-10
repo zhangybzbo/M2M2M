@@ -1,0 +1,3 @@
+T1	Term 80 87	artists
+T2	Term 104 113	figurines
+R1	Product-Producer Arg1:T2 Arg2:T1

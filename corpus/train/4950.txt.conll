@@ -1,0 +1,25 @@
+1	After	after	IN	_	0	ROOT
+2	making	make	VBG	_	1	pcomp
+3	an	a	DT	_	4	det
+4	impression	impression	NN	_	2	dobj
+5	the	the	DT	_	6	det
+6	crowd	crowd	NN	_	4	dep
+7	with	with	IN	_	6	prep
+8	an	a	DT	_	11	det
+9	a	a	DT	_	11	det
+10	capella	capellum	NN	_	11	nn
+11	rendition	rendition	NN	_	7	pobj
+12	of	of	IN	_	11	prep
+13	their	they	PRP$	_	15	poss
+14	national	national	JJ	_	15	amod
+15	anthem	anthem	NN	_	12	pobj
+16	,	,	,	_	15	punct
+17	the	the	DT	_	19	det
+18	South	south	JJ	_	19	amod
+19	African	african	JJ	_	20	nsubj
+20	were	be	VBD	_	15	rcmod
+21	immediately	immediately	RB	_	20	advmod
+22	under	under	IN	_	20	prep
+23	pressure	pressure	NN	_	22	pobj
+24	.	.	.	_	1	punct
+

@@ -1,0 +1,16 @@
+1	This	this	DT	_	6	det
+2	bright	bright	JJ	_	3	amod
+3	yellow	yellow	JJ	_	6	amod
+4	,	,	,	_	6	punct
+5	lightweight	lightweight	JJ	_	6	amod
+6	shovel	shovel	NN	_	9	nsubj
+7	is	be	VBZ	_	9	cop
+8	a	a	DT	_	9	det
+9	favourite	favourite	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	our	we	PRP$	_	14	poss
+12	adventurous	adventurous	JJ	_	14	amod
+13	little	little	JJ	_	14	amod
+14	gardeners	gardener	NNS	_	10	pobj
+15	.	.	.	_	9	punct
+

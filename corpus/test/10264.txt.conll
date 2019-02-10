@@ -1,0 +1,20 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	many	many	JJ	_	5	amod
+4	different	different	JJ	_	5	amod
+5	types	type	NNS	_	2	nsubj
+6	of	of	IN	_	5	prep
+7	saw	saw	NN	_	8	nn
+8	blades	blade	NNS	_	6	pobj
+9	,	,	,	_	5	punct
+10	each	each	DT	_	14	nsubjpass
+11	of	of	IN	_	10	prep
+12	which	which	WDT	_	11	pobj
+13	is	be	VBZ	_	14	auxpass
+14	designed	design	VBN	_	5	rcmod
+15	for	for	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	particular	particular	JJ	_	18	amod
+18	cut	cut	NN	_	15	pobj
+19	.	.	.	_	2	punct
+

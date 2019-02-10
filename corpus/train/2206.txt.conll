@@ -1,0 +1,24 @@
+1	Many	many	JJ	_	10	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	550	550	CD	_	5	num
+5	deaths	death	NNS	_	2	pobj
+6	are	be	VBP	_	10	auxpass
+7	directly	directly	RB	_	10	advmod
+8	and	and	CC	_	7	cc
+9	intentionally	intentionally	RB	_	7	conj
+10	caused	cause	VBN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	physician	physician	NN	_	11	pobj
+14	but	but	CC	_	11	cc
+15	not	not	RB	_	16	neg
+16	reported	report	VBN	_	11	conj
+17	as	as	IN	_	16	prep
+18	euthanasia	euthanasia	NN	_	17	pobj
+19	because	because	IN	_	21	mark
+20	they	they	PRP	_	21	nsubj
+21	lacked	lack	VBD	_	10	advcl
+22	consent	consent	NN	_	21	dobj
+23	.	.	.	_	10	punct
+

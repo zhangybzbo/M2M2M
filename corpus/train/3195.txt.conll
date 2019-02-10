@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	cat	cat	NN	_	7	poss
+3	's	's	POS	_	2	possessive
+4	large	large	JJ	_	7	amod
+5	and	and	CC	_	4	cc
+6	prominent	prominent	JJ	_	4	conj
+7	eyes	eye	NNS	_	9	nsubjpass
+8	are	be	VBP	_	9	auxpass
+9	placed	place	VBN	_	0	ROOT
+10	well	well	RB	_	11	advmod
+11	forward	forward	RB	_	9	advmod
+12	on	on	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	head	head	NN	_	12	pobj
+15	and	and	CC	_	9	cc
+16	,	,	,	_	9	punct
+17	like	like	IN	_	24	prep
+18	the	the	DT	_	19	det
+19	eyes	eye	NNS	_	17	pobj
+20	of	of	IN	_	19	prep
+21	humans	human	NNS	_	20	pobj
+22	,	,	,	_	24	punct
+23	they	they	PRP	_	24	nsubj
+24	face	face	VBP	_	9	conj
+25	forward	forward	RB	_	24	advmod
+26	.	.	.	_	9	punct
+

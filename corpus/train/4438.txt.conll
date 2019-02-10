@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	bile	bile	NN	_	8	nsubjpass
+3	produced	produce	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	liver	liver	NN	_	4	pobj
+7	is	be	VBZ	_	8	auxpass
+8	collected	collect	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	bile	bile	NN	_	11	nn
+11	canaliculi	canaliculus	NNS	_	9	pobj
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	14	nsubj
+14	merge	merge	VBP	_	11	rcmod
+15	to	to	TO	_	16	aux
+16	form	form	VB	_	14	xcomp
+17	bile	bile	NN	_	18	nn
+18	ducts	duct	NNS	_	16	dobj
+19	.	.	.	_	8	punct
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	letter	letter	NN	_	3	nsubj
+3	described	describe	VBD	_	0	ROOT
+4	the	the	DT	_	7	det
+5	most	most	RBS	_	6	advmod
+6	common	common	JJ	_	7	amod
+7	symptoms	symptom	NNS	_	3	dobj
+8	of	of	IN	_	7	prep
+9	breast	breast	NN	_	18	nn
+10	,	,	,	_	9	punct
+11	colorectal	colorectal	JJ	_	9	conj
+12	,	,	,	_	9	punct
+13	lung	lung	NN	_	9	conj
+14	,	,	,	_	9	punct
+15	prostate	prostate	NN	_	9	conj
+16	and	and	CC	_	9	cc
+17	skin	skin	NN	_	9	conj
+18	cancers	cancer	NNS	_	8	pobj
+19	.	.	.	_	3	punct
+

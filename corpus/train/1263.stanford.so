@@ -1,0 +1,8 @@
+0	38	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="percentage" pos="NNS" nsubj="t1"
+12	18	tok id="t1" base="denote" pos="VBP" ROOT="ROOT"
+19	22	tok id="t2" base="the" pos="DT" det="t4"
+23	31	tok id="t3" base="interest" pos="NN" nn="t4"
+32	36	tok id="t4" base="rate" pos="NN" dobj="t1"
+37	38	tok id="t5" base="-PERIOD-" pos="." punct="t1"
+

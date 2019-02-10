@@ -1,0 +1,13 @@
+0	58	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Andre" pos="NNP" nn="t2"
+6	13	tok id="t1" base="Hartman" pos="NNP" nn="t2"
+14	21	tok id="t2" base="touch" pos="NNS" ROOT="ROOT"
+22	25	tok id="t3" base="the" pos="DT" det="t4"
+26	31	tok id="t4" base="snout" pos="NN" dep="t2"
+32	34	tok id="t5" base="of" pos="IN" prep="t4"
+35	38	tok id="t6" base="the" pos="DT" det="t9"
+39	44	tok id="t7" base="great" pos="JJ" amod="t9"
+45	50	tok id="t8" base="white" pos="JJ" amod="t9"
+51	56	tok id="t9" base="shark" pos="NN" pobj="t5"
+57	58	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

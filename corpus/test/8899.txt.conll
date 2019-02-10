@@ -1,0 +1,16 @@
+1	Strawberry	Strawberry	NNP	_	2	nn
+2	jam	jam	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	to	to	TO	_	7	aux
+6	be	be	VB	_	7	auxpass
+7	shared	share	VBN	_	4	xcomp
+8	and	and	CC	_	4	cc
+9	people	people	NNS	_	10	nsubj
+10	love	love	VBP	_	4	conj
+11	it	it	PRP	_	10	dobj
+12	when	when	WRB	_	14	advmod
+13	you	you	PRP	_	14	nsubj
+14	do	do	VBP	_	10	advcl
+15	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	internal	internal	JJ	_	3	amod
+3	auditors	auditor	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	moved	move	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	specific	specific	JJ	_	9	amod
+8	pre-selected	pre-selected	JJ	_	9	amod
+9	locations	location	NNS	_	6	pobj
+10	.	.	.	_	5	punct
+

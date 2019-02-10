@@ -1,0 +1,19 @@
+1	They	they	PRP	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	afloat	afloat	RB	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	mid-Atlantic	mid-Atlantic	NNP	_	4	pobj
+7	,	,	,	_	3	punct
+8	with	with	IN	_	3	prep
+9	a	a	DT	_	11	det
+10	German	german	JJ	_	11	amod
+11	wolfpack	wolfpack	NN	_	8	pobj
+12	of	of	IN	_	11	prep
+13	submarines	submarine	NNS	_	12	pobj
+14	attacking	attack	VBG	_	13	vmod
+15	whenever	whenever	WRB	_	17	advmod
+16	he	he	PRP	_	17	nsubj
+17	blinks	blink	VBZ	_	14	advcl
+18	.	.	.	_	3	punct
+

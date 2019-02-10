@@ -1,0 +1,10 @@
+1	He	he	PRP	_	2	nsubj
+2	made	make	VBD	_	0	ROOT
+3	allegations	allegation	NNS	_	2	dobj
+4	of	of	IN	_	3	prep
+5	corruption	corruption	NN	_	4	pobj
+6	against	against	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	administration	administration	NN	_	6	pobj
+9	.	.	.	_	2	punct
+

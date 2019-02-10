@@ -1,0 +1,8 @@
+1	Nido	Nido	NNP	_	2	nn
+2	Petroleum	Petroleum	NNP	_	3	nsubj
+3	hires	hire	VBZ	_	0	ROOT
+4	rig	rig	NN	_	3	dobj
+5	for	for	IN	_	4	prep
+6	drilling	drilling	NN	_	5	pobj
+7	.	.	.	_	3	punct
+

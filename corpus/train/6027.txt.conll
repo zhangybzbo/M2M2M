@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	disease	disease	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	transmitted	transmit	VBN	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	to	to	TO	_	5	pcomp
+7	another	another	DT	_	8	det
+8	patient	patient	NN	_	6	pobj
+9	by	by	IN	_	6	prep
+10	skin	skin	NN	_	9	pobj
+11	.	.	.	_	4	punct
+

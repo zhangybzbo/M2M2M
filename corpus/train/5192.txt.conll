@@ -1,0 +1,15 @@
+1	These	these	DT	_	5	nsubj
+2	are	be	VBP	_	5	cop
+3	archived	archived	JJ	_	5	amod
+4	boat	boat	NN	_	5	nn
+5	logs	log	NNS	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	previous	previous	JJ	_	8	amod
+8	months	month	NNS	_	6	pobj
+9	sampling	sampling	NN	_	10	nn
+10	beginning	beginning	NN	_	8	dep
+11	in	in	IN	_	10	prep
+12	February	February	NNP	_	11	pobj
+13	2002	2002	CD	_	12	num
+14	.	.	.	_	5	punct
+

@@ -1,0 +1,19 @@
+1	And	and	CC	_	5	cc
+2	this	this	DT	_	5	nsubjpass
+3	is	be	VBZ	_	5	auxpass
+4	frequently	frequently	RB	_	5	advmod
+5	cited	cite	VBN	_	0	ROOT
+6	as	as	IN	_	5	prep
+7	``	``	``	_	8	punct
+8	proof	proof	NN	_	6	pobj
+9	''	''	''	_	8	punct
+10	that	that	WDT	_	11	nsubj
+11	saturated	saturate	VBD	_	8	rcmod
+12	fats	fat	NNS	_	11	dobj
+13	and	and	CC	_	11	cc
+14	cholesterol	cholesterol	NN	_	15	nsubj
+15	cause	cause	VBP	_	11	conj
+16	heart	heart	NN	_	17	nn
+17	disease	disease	NN	_	15	dobj
+18	.	.	.	_	5	punct
+

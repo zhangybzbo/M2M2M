@@ -1,0 +1,12 @@
+1	Fog	fog	NN	_	4	nsubj
+2	or	or	CC	_	1	cc
+3	smoke	smoke	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	irritation	irritation	NN	_	4	dobj
+6	to	to	TO	_	5	prep
+7	those	those	DT	_	6	pobj
+8	with	with	IN	_	7	prep
+9	respiratory	respiratory	JJ	_	10	amod
+10	sensitivity	sensitivity	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

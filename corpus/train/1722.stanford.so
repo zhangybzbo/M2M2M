@@ -1,0 +1,12 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	11	tok id="t1" base="correct" pos="JJ" amod="t3"
+12	21	tok id="t2" base="targeting" pos="NN" nn="t3"
+22	28	tok id="t3" base="signal" pos="NN" nsubjpass="t5"
+29	31	tok id="t4" base="be" pos="VBZ" auxpass="t5"
+32	40	tok id="t5" base="import" pos="VBN" ROOT="ROOT"
+41	45	tok id="t6" base="into" pos="IN" prep="t5"
+46	49	tok id="t7" base="the" pos="DT" det="t8"
+50	61	tok id="t8" base="peroxisome" pos="NNS" pobj="t6"
+62	63	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

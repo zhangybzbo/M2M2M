@@ -1,0 +1,12 @@
+0	44	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="I" pos="PRP" nsubj="t2"
+2	6	tok id="t1" base="have" pos="VBP" aux="t2"
+7	10	tok id="t2" base="put" pos="VBN" ROOT="ROOT"
+11	14	tok id="t3" base="the" pos="DT" det="t5"
+15	21	tok id="t4" base="memory" pos="NN" nn="t5"
+22	26	tok id="t5" base="card" pos="NN" dobj="t2"
+27	31	tok id="t6" base="into" pos="IN" prep="t2"
+32	35	tok id="t7" base="the" pos="DT" det="t8"
+36	42	tok id="t8" base="camera" pos="NN" pobj="t6"
+43	44	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

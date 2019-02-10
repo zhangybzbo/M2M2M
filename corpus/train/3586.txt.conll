@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	report	report	NN	_	3	nsubj
+3	gives	give	VBZ	_	0	ROOT
+4	an	a	DT	_	5	det
+5	account	account	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	silvicultural	silvicultural	JJ	_	9	amod
+9	work	work	NN	_	6	pobj
+10	done	do	VBN	_	9	vmod
+11	in	in	IN	_	10	prep
+12	Africa	Africa	NNP	_	11	pobj
+13	,	,	,	_	12	punct
+14	Asia	Asia	NNP	_	12	conj
+15	,	,	,	_	12	punct
+16	Australia	Australia	NNP	_	12	conj
+17	,	,	,	_	12	punct
+18	South	South	NNP	_	19	nn
+19	American	American	NNP	_	12	conj
+20	and	and	CC	_	12	cc
+21	the	the	DT	_	22	det
+22	Caribbean	Caribbean	NNP	_	12	conj
+23	.	.	.	_	3	punct
+

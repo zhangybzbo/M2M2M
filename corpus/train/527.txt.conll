@@ -1,0 +1,11 @@
+1	My	my	PRP$	_	2	poss
+2	passport	passport	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	trunk	trunk	NN	_	4	pobj
+7	under	under	IN	_	6	prep
+8	my	my	PRP$	_	9	poss
+9	bed	bed	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	suitcase	suitcase	NN	_	8	nsubj
+3	with	with	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	things	thing	NNS	_	3	pobj
+6	in	in	IN	_	5	prep
+7	it	it	PRP	_	6	pobj
+8	was	be	VBD	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	doorstep	doorstep	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

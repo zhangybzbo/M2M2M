@@ -1,0 +1,26 @@
+1	During	during	IN	_	8	prep
+2	each	each	DT	_	3	det
+3	trial	trial	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	the	the	DT	_	7	det
+6	first	first	JJ	_	7	amod
+7	experimenter	experimenter	NN	_	8	nsubj
+8	observed	observe	VBD	_	0	ROOT
+9	the	the	DT	_	10	det
+10	infant	infant	NN	_	8	dobj
+11	through	through	IN	_	8	prep
+12	the	the	DT	_	14	det
+13	small	small	JJ	_	14	amod
+14	peephole	peephole	NN	_	11	pobj
+15	and	and	CC	_	8	cc
+16	recorded	record	VBD	_	8	conj
+17	visual	visual	JJ	_	18	amod
+18	fixations	fixation	NNS	_	16	dobj
+19	to	to	TO	_	16	prep
+20	the	the	DT	_	24	det
+21	left	left	JJ	_	24	amod
+22	and	and	CC	_	21	cc
+23	right	right	JJ	_	21	conj
+24	stimuli	stimulus	NNS	_	19	pobj
+25	.	.	.	_	8	punct
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det
+2	current	current	JJ	_	4	amod
+3	Swiss	swiss	JJ	_	4	amod
+4	Confederation	Confederation	NNP	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	created	create	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	1802	1802	CD	_	7	pobj
+9	as	as	IN	_	6	prep
+10	a	a	DT	_	11	det
+11	confederation	confederation	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	various	various	JJ	_	15	amod
+14	multi-ethnic	multi-ethnic	JJ	_	15	amod
+15	cantons	canton	NNS	_	12	pobj
+16	,	,	,	_	15	punct
+17	which	which	WDT	_	19	nsubj
+18	all	all	DT	_	19	dep
+19	have	have	VBP	_	15	rcmod
+20	their	they	PRP$	_	22	poss
+21	own	own	JJ	_	22	amod
+22	characteristics	characteristic	NNS	_	19	dobj
+23	.	.	.	_	6	punct
+

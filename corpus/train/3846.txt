@@ -1,0 +1,1 @@
+This theory focuses on computational tasks , and considers automated procedures -LRB- i.e. , computing devices and algorithms -RRB- that may solve such tasks .

@@ -1,0 +1,9 @@
+0	44	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="New" pos="NNP" nn="t1"
+4	15	tok id="t1" base="experience" pos="NNS" nsubj="t2"
+16	21	tok id="t2" base="throw" pos="VBP" ROOT="ROOT"
+22	29	tok id="t3" base="neuron" pos="NNS" dobj="t2"
+30	34	tok id="t4" base="into" pos="IN" prep="t2"
+35	42	tok id="t5" base="reverse" pos="NN" pobj="t4"
+43	44	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

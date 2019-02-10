@@ -1,0 +1,22 @@
+1	A	a	DT	_	3	det
+2	solar	solar	JJ	_	3	amod
+3	calendar	calendar	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	calendar	calendar	NN	_	0	ROOT
+7	whose	whose	WP$	_	8	poss
+8	dates	date	NNS	_	9	nsubj
+9	indicate	indicate	VBP	_	6	rcmod
+10	the	the	DT	_	11	det
+11	position	position	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	earth	earth	NN	_	12	pobj
+15	on	on	IN	_	11	prep
+16	its	its	PRP$	_	17	poss
+17	revolution	revolution	NN	_	15	pobj
+18	around	around	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	sun	sun	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

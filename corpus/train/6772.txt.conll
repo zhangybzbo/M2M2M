@@ -1,0 +1,26 @@
+1	But	but	CC	_	15	cc
+2	what	what	WP	_	5	nsubjpass
+3	is	be	VBZ	_	5	auxpass
+4	not	not	RB	_	5	neg
+5	seen	see	VBN	_	15	csubj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	television	television	NN	_	9	nn
+9	pictures	picture	NNS	_	6	pobj
+10	,	,	,	_	15	punct
+11	is	be	VBZ	_	15	cop
+12	the	the	DT	_	15	det
+13	almost	almost	RB	_	14	advmod
+14	invisible	invisible	JJ	_	15	amod
+15	army	army	NN	_	0	ROOT
+16	of	of	IN	_	15	prep
+17	7000	7000	CD	_	19	num
+18	migrant	migrant	JJ	_	19	amod
+19	workers	worker	NNS	_	16	pobj
+20	who	who	WP	_	21	nsubj
+21	built	build	VBD	_	19	rcmod
+22	the	the	DT	_	24	det
+23	iconic	iconic	JJ	_	24	amod
+24	structure	structure	NN	_	21	dobj
+25	.	.	.	_	15	punct
+

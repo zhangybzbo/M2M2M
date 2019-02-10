@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	defendant	defendant	NN	_	13	nsubj
+3	,	,	,	_	13	punct
+4	in	in	IN	_	7	mark
+5	order	order	NN	_	7	dep
+6	to	to	TO	_	7	aux
+7	prove	prove	VB	_	13	dep
+8	his	he	PRP$	_	9	poss
+9	plea	plea	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	justification	justification	NN	_	10	pobj
+12	,	,	,	_	13	punct
+13	produced	produce	VBD	_	0	ROOT
+14	a	a	DT	_	15	det
+15	witness	witness	NN	_	13	dobj
+16	named	name	VBN	_	15	vmod
+17	Mary	Mary	NNP	_	18	nn
+18	Dillon	Dillon	NNP	_	16	dep
+19	.	.	.	_	13	punct
+

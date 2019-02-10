@@ -1,0 +1,21 @@
+1	One	one	CD	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	them	they	PRP	_	2	pobj
+4	was	be	VBD	_	5	aux
+5	observing	observe	VBG	_	0	ROOT
+6	a	a	DT	_	7	det
+7	bask	bask	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	over	over	IN	_	10	quantmod
+10	90	90	CD	_	12	num
+11	mugger	mugger	NN	_	12	nn
+12	crocodiles	crocodile	NNS	_	8	pobj
+13	in	in	IN	_	7	prep
+14	the	the	DT	_	16	det
+15	dried	dry	VBN	_	16	amod
+16	beds	bed	NNS	_	13	pobj
+17	of	of	IN	_	16	prep
+18	Buttuwa	Buttuwa	NNP	_	19	nn
+19	Tank	Tank	NNP	_	17	pobj
+20	.	.	.	_	5	punct
+

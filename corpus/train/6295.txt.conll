@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	det
+2	apartment	apartment	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	lounge	lounge	NN	_	6	nn
+6	area	area	NN	_	3	dobj
+7	with	with	IN	_	6	prep
+8	1	1	CD	_	10	num
+9	sofa	sofa	NN	_	10	nn
+10	bed	bed	NN	_	7	pobj
+11	and	and	CC	_	6	cc
+12	a	a	DT	_	14	det
+13	separate	separate	JJ	_	14	amod
+14	bedroom	bedroom	NN	_	6	conj
+15	with	with	IN	_	14	prep
+16	1	1	CD	_	18	num
+17	double	double	JJ	_	18	amod
+18	bed	bed	NN	_	15	pobj
+19	-LRB-	-lrb-	-LRB-	_	21	punct
+20	twin	twin	NN	_	21	nn
+21	beds	bed	NNS	_	14	dep
+22	not	not	RB	_	23	neg
+23	available	available	JJ	_	21	amod
+24	-RRB-	-rrb-	-RRB-	_	21	punct
+25	.	.	.	_	3	punct
+

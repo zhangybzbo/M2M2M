@@ -1,0 +1,15 @@
+1	A	a	DT	_	3	det
+2	Boy	boy	NN	_	3	nn
+3	Scout	Scout	NNP	_	7	nsubj
+4	in	in	IN	_	3	prep
+5	North	North	NNP	_	6	nn
+6	Carolina	Carolina	NNP	_	4	pobj
+7	found	find	VBD	_	0	ROOT
+8	a	a	DT	_	9	det
+9	purse	purse	NN	_	7	dobj
+10	with	with	IN	_	9	prep
+11	money	money	NN	_	10	pobj
+12	in	in	IN	_	7	prep
+13	it	it	PRP	_	12	pobj
+14	.	.	.	_	7	punct
+

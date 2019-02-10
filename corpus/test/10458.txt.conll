@@ -1,0 +1,14 @@
+1	After	after	IN	_	7	prep
+2	2000	2000	CD	_	1	pobj
+3	,	,	,	_	7	punct
+4	his	he	PRP$	_	5	poss
+5	research	research	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	concerned	concern	VBN	_	0	ROOT
+8	environmental	environmental	JJ	_	9	amod
+9	issues	issue	NNS	_	7	dobj
+10	in	in	IN	_	9	prep
+11	South	South	NNP	_	12	nn
+12	Africa	Africa	NNP	_	10	pobj
+13	.	.	.	_	7	punct
+

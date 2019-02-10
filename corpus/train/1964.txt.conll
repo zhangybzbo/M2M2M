@@ -1,0 +1,17 @@
+1	It	it	PRP	_	4	nsubjpass
+2	has	have	VBZ	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	assumed	assume	VBN	_	0	ROOT
+5	that	that	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	quench	quench	NN	_	8	nsubj
+8	starts	start	VBZ	_	4	ccomp
+9	at	at	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	middle	middle	JJ	_	12	amod
+12	cross-section	cross-section	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	magnet	magnet	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

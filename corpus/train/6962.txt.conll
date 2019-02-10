@@ -1,0 +1,20 @@
+1	Antibodies	antibody	NNS	_	2	nsubj
+2	introduced	introduce	VBD	_	0	ROOT
+3	into	into	IN	_	2	prep
+4	living	living	NN	_	5	nn
+5	cells	cell	NNS	_	3	pobj
+6	by	by	IN	_	2	prep
+7	red	red	JJ	_	9	amod
+8	cell	cell	NN	_	9	nn
+9	ghosts	ghost	NNS	_	6	pobj
+10	are	be	VBP	_	12	cop
+11	functionally	functionally	RB	_	12	advmod
+12	stable	stable	JJ	_	2	dep
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	cytoplasm	cytoplasm	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	cells	cell	NNS	_	16	pobj
+19	.	.	.	_	2	punct
+

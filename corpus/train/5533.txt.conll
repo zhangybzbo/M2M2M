@@ -1,0 +1,18 @@
+1	This	this	DT	_	4	det
+2	Pacific	Pacific	NNP	_	4	nn
+3	Chorus	Chorus	NNP	_	4	nn
+4	frog	frog	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	found	find	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	Christmas	Christmas	NNP	_	10	nn
+10	tree	tree	NN	_	7	pobj
+11	being	be	VBG	_	12	auxpass
+12	sold	sell	VBN	_	10	vmod
+13	in	in	IN	_	12	prep
+14	Anchorage	Anchorage	NNP	_	13	pobj
+15	,	,	,	_	14	punct
+16	Alaska	Alaska	NNP	_	14	appos
+17	.	.	.	_	6	punct
+

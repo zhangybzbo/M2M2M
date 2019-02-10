@@ -1,0 +1,27 @@
+1	I	I	PRP	_	4	nsubj
+2	had	have	VBD	_	4	aux
+3	just	just	RB	_	4	advmod
+4	returned	return	VBN	_	25	ccomp
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	wonderful	wonderful	JJ	_	8	amod
+8	meal	meal	NN	_	5	pobj
+9	at	at	IN	_	8	prep
+10	Gusto	gusto	NN	_	9	pobj
+11	when	when	WRB	_	15	advmod
+12	a	a	DT	_	14	det
+13	mysterious	mysterious	JJ	_	14	amod
+14	email	email	NN	_	15	nsubj
+15	arrived	arrive	VBD	_	4	advcl
+16	from	from	IN	_	15	prep
+17	an	a	DT	_	19	det
+18	unknown	unknown	JJ	_	19	amod
+19	person	person	NN	_	16	pobj
+20	identified	identify	VBN	_	19	vmod
+21	only	only	RB	_	22	advmod
+22	as	as	RB	_	20	advmod
+23	,	,	,	_	25	punct
+24	Salumi	Salumi	NNP	_	25	nn
+25	Monger	Monger	NNP	_	0	ROOT
+26	.	.	.	_	25	punct
+

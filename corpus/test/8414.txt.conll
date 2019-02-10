@@ -1,0 +1,14 @@
+1	In	in	IN	_	7	prep
+2	effect	effect	NN	_	1	pobj
+3	,	,	,	_	7	punct
+4	rich	rich	JJ	_	5	amod
+5	countries	country	NNS	_	7	nsubj
+6	have	have	VBP	_	7	aux
+7	exported	export	VBN	_	0	ROOT
+8	dirty	dirty	JJ	_	9	amod
+9	industries	industry	NNS	_	7	dobj
+10	to	to	TO	_	7	prep
+11	emerging	emerge	VBG	_	12	amod
+12	economies	economy	NNS	_	10	pobj
+13	.	.	.	_	7	punct
+

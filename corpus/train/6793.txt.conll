@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	commandos	commando	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	dropped	drop	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	French	french	JJ	_	9	amod
+8	nuclear	nuclear	JJ	_	9	amod
+9	plant	plant	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

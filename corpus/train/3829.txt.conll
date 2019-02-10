@@ -1,0 +1,13 @@
+1	Other	other	JJ	_	2	amod
+2	stations	station	NNS	_	9	nsubj
+3	-LRB-	-lrb-	-LRB-	_	6	punct
+4	and	and	CC	_	6	cc
+5	cable	cable	NN	_	6	nn
+6	channels	channel	NNS	_	2	appos
+7	-RRB-	-rrb-	-RRB-	_	6	punct
+8	have	have	VBP	_	9	aux
+9	spawned	spawn	VBN	_	0	ROOT
+10	imitation	imitation	NN	_	11	nn
+11	shows	show	NNS	_	9	dobj
+12	.	.	.	_	9	punct
+

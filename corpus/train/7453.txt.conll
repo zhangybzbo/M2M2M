@@ -1,0 +1,17 @@
+1	A	a	DT	_	4	det
+2	White	White	NNP	_	4	nn
+3	House	House	NNP	_	4	nn
+4	usher	usher	NN	_	5	nsubj
+5	prepares	prepare	VBZ	_	0	ROOT
+6	the	the	DT	_	8	det
+7	blue	blue	JJ	_	8	amod
+8	room	room	NN	_	5	dobj
+9	for	for	IN	_	5	prep
+10	a	a	DT	_	11	det
+11	luncheon	luncheon	NN	_	9	pobj
+12	for	for	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	European	european	JJ	_	15	amod
+15	Commission	Commission	NNP	_	12	pobj
+16	.	.	.	_	5	punct
+

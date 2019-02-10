@@ -1,0 +1,24 @@
+1	I	I	PRP	_	3	nsubj
+2	am	be	VBP	_	3	aux
+3	looking	look	VBG	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	jeans	jeans	NNS	_	4	pobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	zipper	zipper	NN	_	6	pobj
+9	all	all	PDT	_	11	predet
+10	the	the	DT	_	11	det
+11	way	way	NN	_	3	dobj
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	waistband	waistband	NN	_	12	pobj
+15	in	in	IN	_	14	prep
+16	front	front	NN	_	15	pobj
+17	to	to	TO	_	11	prep
+18	the	the	DT	_	19	det
+19	waistband	waistband	NN	_	17	pobj
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	back	back	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

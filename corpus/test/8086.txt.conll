@@ -1,0 +1,14 @@
+1	Many	many	JJ	_	3	amod
+2	professional	professional	JJ	_	3	amod
+3	cartomancers	cartomancer	NNS	_	4	nsubj
+4	use	use	VBP	_	0	ROOT
+5	a	a	DT	_	7	det
+6	regular	regular	JJ	_	7	amod
+7	deck	deck	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	playing	play	VBG	_	8	pcomp
+10	cards	card	NNS	_	9	dobj
+11	for	for	IN	_	9	prep
+12	divination	divination	NN	_	11	pobj
+13	.	.	.	_	4	punct
+

@@ -1,0 +1,14 @@
+1	Interspersed	intersperse	VBN	_	6	nsubj
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	design	design	NN	_	2	pobj
+5	are	be	VBP	_	6	cop
+6	patterns	pattern	NNS	_	0	ROOT
+7	derived	derive	VBN	_	6	vmod
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	variety	variety	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	textiles	textile	NNS	_	11	pobj
+13	.	.	.	_	6	punct
+

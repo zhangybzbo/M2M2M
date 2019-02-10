@@ -1,0 +1,13 @@
+1	`	`	``	_	6	punct
+2	Wellness	wellness	NN	_	6	nn
+3	'	'	''	_	6	punct
+4	tracker	tracker	JJR	_	6	amod
+5	lures	lure	NNS	_	6	nn
+6	seniors	senior	NNS	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	a	a	DT	_	11	det
+9	data	datum	NN	_	11	nn
+10	driven	drive	VBN	_	11	amod
+11	lifestyle	lifestyle	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

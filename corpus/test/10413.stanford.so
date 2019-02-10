@@ -1,0 +1,9 @@
+0	35	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="they" pos="PRP" nsubj="t1"
+5	11	tok id="t1" base="leak" pos="VBD" ROOT="ROOT"
+12	15	tok id="t2" base="oil" pos="NN" dobj="t1"
+16	20	tok id="t3" base="into" pos="IN" prep="t1"
+21	24	tok id="t4" base="the" pos="DT" det="t5"
+25	33	tok id="t5" base="radiator" pos="NN" pobj="t3"
+34	35	tok id="t6" base="-PERIOD-" pos="." punct="t1"
+

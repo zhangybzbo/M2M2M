@@ -1,0 +1,27 @@
+1	Most	most	RBS	_	2	advmod
+2	importantly	importantly	RB	_	13	advmod
+3	,	,	,	_	13	punct
+4	the	the	DT	_	5	det
+5	increase	increase	NN	_	13	nsubj
+6	in	in	IN	_	5	prep
+7	BOLD	bold	JJ	_	8	amod
+8	activity	activity	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	these	these	DT	_	11	det
+11	regions	region	NNS	_	9	pobj
+12	was	be	VBD	_	13	cop
+13	independent	independent	JJ	_	0	ROOT
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	motor	motor	NN	_	17	nn
+17	system	system	NN	_	14	pobj
+18	that	that	IN	_	13	prep
+19	the	the	DT	_	20	det
+20	participants	participant	NNS	_	18	pobj
+21	used	use	VBN	_	20	vmod
+22	to	to	TO	_	23	aux
+23	express	express	VB	_	21	xcomp
+24	their	they	PRP$	_	25	poss
+25	decision	decision	NN	_	23	dobj
+26	.	.	.	_	13	punct
+

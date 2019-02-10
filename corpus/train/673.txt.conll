@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	staff	staff	NN	_	3	nsubj
+3	stood	stand	VBD	_	0	ROOT
+4	guard	guard	NN	_	3	dobj
+5	all	all	DT	_	6	det
+6	night	night	NN	_	3	tmod
+7	,	,	,	_	3	punct
+8	drinking	drink	VBG	_	3	dep
+9	the	the	DT	_	11	det
+10	coffee	coffee	NN	_	11	nn
+11	machine	machine	NN	_	12	nsubj
+12	dry	dry	JJ	_	8	xcomp
+13	and	and	CC	_	8	cc
+14	plotting	plot	VBG	_	8	conj
+15	their	they	PRP$	_	16	poss
+16	revenge	revenge	NN	_	14	dobj
+17	on	on	IN	_	14	prep
+18	the	the	DT	_	19	det
+19	injustices	injustice	NNS	_	17	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	workplace	workplace	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

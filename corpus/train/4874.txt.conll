@@ -1,0 +1,8 @@
+1	Modern	Modern	NNP	_	2	nn
+2	pioneer	pioneer	NN	_	3	nsubj
+3	builds	build	VBZ	_	0	ROOT
+4	home	home	NN	_	3	dobj
+5	from	from	IN	_	3	prep
+6	scratch	scratch	NN	_	5	pobj
+7	.	.	.	_	3	punct
+

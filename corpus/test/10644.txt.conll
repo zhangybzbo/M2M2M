@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	food	food	NN	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	an	a	DT	_	7	det
+5	illegally	illegally	RB	_	6	advmod
+6	imported	import	VBN	_	7	amod
+7	product	product	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	animal	animal	NN	_	10	nn
+10	origin	origin	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

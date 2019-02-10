@@ -1,0 +1,3 @@
+T1	Term 17 27	photograph
+T2	Term 33 39	member
+R1	Product-Producer Arg1:T1 Arg2:T2

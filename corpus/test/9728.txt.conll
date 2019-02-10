@@ -1,0 +1,20 @@
+1	Dr.	Dr.	NNP	_	2	nn
+2	Legome	Legome	NNP	_	3	nsubj
+3	discussed	discuss	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	hospital	hospital	NN	_	7	poss
+6	's	's	POS	_	5	possessive
+7	response	response	NN	_	3	dobj
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	news	news	NN	_	8	pobj
+11	that	that	IN	_	15	mark
+12	a	a	DT	_	13	det
+13	plane	plane	NN	_	15	nsubj
+14	had	have	VBD	_	15	aux
+15	crashed	crash	VBN	_	10	ccomp
+16	into	into	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	river	river	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

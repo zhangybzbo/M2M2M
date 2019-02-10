@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det
+2	current	current	JJ	_	3	amod
+3	band	band	NN	_	4	nsubj
+4	arrived	arrive	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	Lafayette	Lafayette	NNP	_	8	nn
+8	competition	competition	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

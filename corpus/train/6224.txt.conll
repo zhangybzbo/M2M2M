@@ -1,0 +1,13 @@
+1	In	in	IN	_	5	prep
+2	this	this	DT	_	3	det
+3	section	section	NN	_	1	pobj
+4	there	there	EX	_	5	expl
+5	are	be	VBP	_	0	ROOT
+6	examples	example	NNS	_	5	nsubj
+7	comparing	compare	VBG	_	6	vmod
+8	possessive	possessive	JJ	_	9	amod
+9	adjectives	adjective	NNS	_	7	dobj
+10	and	and	CC	_	9	cc
+11	pronouns	pronoun	NNS	_	9	conj
+12	.	.	.	_	5	punct
+

@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	singer	singer	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	technique	technique	NN	_	5	nsubj
+5	facilitates	facilitate	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	message	message	NN	_	5	dobj
+8	.	.	.	_	5	punct
+

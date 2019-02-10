@@ -1,0 +1,11 @@
+0	53	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="machine" pos="NN" nn="t2"
+12	17	tok id="t2" base="blow" pos="NNS" ROOT="ROOT"
+18	23	tok id="t3" base="water" pos="NN" dep="t2"
+24	28	tok id="t4" base="into" pos="IN" prep="t3"
+29	32	tok id="t5" base="the" pos="DT" det="t7"
+33	43	tok id="t6" base="connect" pos="VBG" amod="t7"
+44	51	tok id="t7" base="conduit" pos="NN" pobj="t4"
+52	53	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

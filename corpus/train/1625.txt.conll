@@ -1,0 +1,20 @@
+1	Cloud	cloud	NN	_	3	nn
+2	loss	loss	NN	_	3	nn
+3	behaviour	behaviour	NN	_	9	nsubjpass
+4	in	in	IN	_	3	prep
+5	pasteurized	pasteurize	VBN	_	7	amod
+6	apricot	apricot	NN	_	7	nn
+7	nectar	nectar	NN	_	4	pobj
+8	was	be	VBD	_	9	auxpass
+9	found	find	VBN	_	0	ROOT
+10	to	to	TO	_	12	aux
+11	be	be	VB	_	12	cop
+12	different	different	JJ	_	9	xcomp
+13	from	from	IN	_	12	prep
+14	that	that	DT	_	13	pobj
+15	of	of	IN	_	14	prep
+16	other	other	JJ	_	18	amod
+17	fruit	fruit	NN	_	18	nn
+18	juices	juice	NNS	_	15	pobj
+19	.	.	.	_	9	punct
+

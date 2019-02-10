@@ -1,0 +1,24 @@
+1	Subsidiary	subsidiary	NN	_	3	nn
+2	sales	sale	NNS	_	3	nn
+3	companies	company	NNS	_	6	nsubj
+4	were	be	VBD	_	6	cop
+5	also	also	RB	_	6	advmod
+6	located	located	JJ	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	Canada	Canada	NNP	_	7	pobj
+9	,	,	,	_	8	punct
+10	Germany	Germany	NNP	_	8	conj
+11	,	,	,	_	8	punct
+12	and	and	CC	_	8	cc
+13	Italy	Italy	NNP	_	8	conj
+14	,	,	,	_	6	punct
+15	and	and	CC	_	6	cc
+16	two	two	CD	_	17	num
+17	factories	factory	NNS	_	19	nsubj
+18	were	be	VBD	_	19	aux
+19	producing	produce	VBG	_	6	conj
+20	products	product	NNS	_	19	dobj
+21	in	in	IN	_	20	prep
+22	England	England	NNP	_	21	pobj
+23	.	.	.	_	6	punct
+

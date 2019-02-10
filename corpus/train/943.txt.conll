@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det
+2	survey	survey	NN	_	4	nn
+3	documents	document	NNS	_	4	nn
+4	children	child	NNS	_	6	poss
+5	's	's	POS	_	4	possessive
+6	opinions	opinion	NNS	_	0	ROOT
+7	on	on	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	wide	wide	JJ	_	10	amod
+10	range	range	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	social	social	JJ	_	13	amod
+13	issues	issue	NNS	_	11	pobj
+14	.	.	.	_	6	punct
+

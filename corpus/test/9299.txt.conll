@@ -1,0 +1,20 @@
+1	We	we	PRP	_	2	nsubj
+2	assume	assume	VBP	_	0	ROOT
+3	that	that	IN	_	12	mark
+4	the	the	DT	_	6	det
+5	energy	energy	NN	_	6	nn
+6	release	release	NN	_	12	nsubj
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	charge	charge	NN	_	7	pobj
+10	is	be	VBZ	_	12	cop
+11	pot	pot	NN	_	12	npadvmod
+12	instantaneous	instantaneous	JJ	_	2	ccomp
+13	,	,	,	_	12	punct
+14	but	but	CC	_	12	cc
+15	it	it	PRP	_	16	nsubj
+16	depends	depend	VBZ	_	12	conj
+17	on	on	IN	_	16	prep
+18	time	time	NN	_	17	pobj
+19	.	.	.	_	2	punct
+

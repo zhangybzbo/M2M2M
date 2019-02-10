@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	story	story	NN	_	3	nsubj
+3	put	put	VBD	_	0	ROOT
+4	wine	wine	NN	_	3	dobj
+5	in	in	IN	_	3	prep
+6	a	a	DT	_	9	det
+7	positive	positive	JJ	_	9	amod
+8	health	health	NN	_	9	nn
+9	light	light	NN	_	5	pobj
+10	and	and	CC	_	3	cc
+11	pointed	point	VBD	_	3	conj
+12	out	out	RP	_	11	prt
+13	that	that	IN	_	16	mark
+14	it	it	PRP	_	16	nsubj
+15	was	be	VBD	_	16	cop
+16	superior	superior	JJ	_	11	ccomp
+17	to	to	TO	_	16	prep
+18	other	other	JJ	_	19	amod
+19	foods	food	NNS	_	17	pobj
+20	in	in	IN	_	16	prep
+21	that	that	DT	_	23	det
+22	particular	particular	JJ	_	23	amod
+23	regard	regard	NN	_	20	pobj
+24	.	.	.	_	3	punct
+

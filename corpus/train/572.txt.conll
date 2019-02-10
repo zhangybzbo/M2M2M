@@ -1,0 +1,22 @@
+1	Clay	Clay	NNP	_	2	nn
+2	County	County	NNP	_	9	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	8	det
+5	small	small	JJ	_	8	amod
+6	but	but	CC	_	5	cc
+7	thriving	thriving	JJ	_	5	conj
+8	colony	colony	NN	_	2	appos
+9	grows	grow	VBZ	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	seepage	seepage	NN	_	13	nn
+13	spring	spring	NN	_	10	pobj
+14	which	which	WDT	_	17	nsubj
+15	is	be	VBZ	_	17	cop
+16	the	the	DT	_	17	det
+17	source	source	NN	_	9	ccomp
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	creek	creek	NN	_	18	pobj
+21	.	.	.	_	9	punct
+

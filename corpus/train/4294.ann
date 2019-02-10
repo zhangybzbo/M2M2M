@@ -1,0 +1,3 @@
+T1	Term 0 7	Insects
+T2	Term 8 13	wings
+R1	Component-Whole Arg1:T2 Arg2:T1

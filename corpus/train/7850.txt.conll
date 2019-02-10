@@ -1,0 +1,22 @@
+1	Anesthesia	Anesthesia	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	not	not	RB	_	4	neg
+4	necessary	necessary	JJ	_	0	ROOT
+5	since	since	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	dentist	dentist	NN	_	8	nsubj
+8	uses	use	VBZ	_	4	advcl
+9	the	the	DT	_	13	det
+10	drill	drill	NN	_	13	nn
+11	and	and	CC	_	10	cc
+12	sandpaper	sandpaper	NN	_	10	conj
+13	discs	disc	NNS	_	8	dobj
+14	and	and	CC	_	8	cc
+15	polishing	polish	VBG	_	16	amod
+16	wheels	wheel	NNS	_	8	conj
+17	to	to	TO	_	18	aux
+18	reshape	reshape	VB	_	16	vmod
+19	the	the	DT	_	20	det
+20	teeth	tooth	NNS	_	18	dobj
+21	.	.	.	_	4	punct
+

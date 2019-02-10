@@ -1,0 +1,26 @@
+1	Ching	Ching	NNP	_	2	nsubj
+2	survives	survive	VBZ	_	0	ROOT
+3	by	by	IN	_	2	prep
+4	latching	latch	VBG	_	3	pcomp
+5	on	on	IN	_	4	prep
+6	to	to	TO	_	5	pcomp
+7	a	a	DT	_	8	det
+8	prostitute	prostitute	NN	_	6	pobj
+9	,	,	,	_	8	punct
+10	played	play	VBN	_	8	vmod
+11	by	by	IN	_	10	prep
+12	Maggie	Maggie	NNP	_	13	nn
+13	Cheung	Cheung	NNP	_	11	pobj
+14	,	,	,	_	2	punct
+15	while	while	IN	_	17	mark
+16	Fung	Fung	NNP	_	17	nsubj
+17	works	work	VBZ	_	2	advcl
+18	his	he	PRP$	_	19	poss
+19	way	way	NN	_	17	dobj
+20	in	in	IN	_	19	prep
+21	a	a	DT	_	22	det
+22	circle	circle	NN	_	20	pobj
+23	of	of	IN	_	22	prep
+24	robbers	robber	NNS	_	23	pobj
+25	.	.	.	_	2	punct
+

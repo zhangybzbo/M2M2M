@@ -1,0 +1,13 @@
+0	63	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	14	tok id="t1" base="exhibition" pos="NN" nn="t2"
+15	21	tok id="t2" base="profit" pos="NN" nsubjpass="t4"
+22	25	tok id="t3" base="be" pos="VBD" auxpass="t4"
+26	33	tok id="t4" base="donate" pos="VBN" ROOT="ROOT"
+34	36	tok id="t5" base="to" pos="TO" prep="t4"
+37	38	tok id="t6" base="a" pos="DT" det="t9"
+39	45	tok id="t7" base="cancer" pos="NN" nn="t9"
+46	54	tok id="t8" base="research" pos="NN" nn="t9"
+55	61	tok id="t9" base="center" pos="NN" pobj="t5"
+62	63	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

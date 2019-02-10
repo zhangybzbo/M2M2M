@@ -1,0 +1,19 @@
+1	Our	we	PRP$	_	2	poss
+2	civilisation	civilisation	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	like	like	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	dule	dule	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	young	young	JJ	_	9	amod
+9	turkeys	turkey	NNS	_	7	pobj
+10	who	who	WP	_	11	nsubj
+11	are	be	VBP	_	9	rcmod
+12	in	in	IN	_	11	prep
+13	danger	danger	NN	_	12	pobj
+14	of	of	IN	_	13	prep
+15	losing	lose	VBG	_	14	pcomp
+16	their	they	PRP$	_	17	poss
+17	marbles	marble	NNS	_	15	dobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	carbohydrase	carbohydrase	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	produced	produce	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	process	process	NN	_	5	pobj
+8	which	which	WDT	_	10	nsubj
+9	completely	completely	RB	_	10	advmod
+10	removes	remove	VBZ	_	7	rcmod
+11	the	the	DT	_	12	det
+12	organism	organism	NN	_	10	dobj
+13	Rhizopus	rhizopus	NN	_	14	nn
+14	oryzae	oryza	NN	_	12	dep
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	carbohydrase	carbohydrase	NN	_	18	nn
+18	product	product	NN	_	15	pobj
+19	.	.	.	_	4	punct
+

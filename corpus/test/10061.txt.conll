@@ -1,0 +1,21 @@
+1	Chimpanzees	chimpanzee	NNS	_	2	nsubj
+2	make	make	VBP	_	0	ROOT
+3	love	love	NN	_	2	dobj
+4	rather	rather	RB	_	5	advmod
+5	like	like	IN	_	7	mark
+6	humans	human	NNS	_	7	nsubj
+7	do	do	VBP	_	2	advcl
+8	,	,	,	_	2	punct
+9	but	but	CC	_	2	cc
+10	they	they	PRP	_	11	nsubj
+11	do	do	VBP	_	2	conj
+12	not	not	RB	_	11	neg
+13	usually	usually	RB	_	11	advmod
+14	run	run	VBP	_	11	dep
+15	the	the	DT	_	16	det
+16	risk	risk	NN	_	14	dobj
+17	of	of	IN	_	16	prep
+18	contracting	contracting	NN	_	19	nn
+19	syphilis	syphilis	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

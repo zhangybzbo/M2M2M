@@ -1,0 +1,26 @@
+1	He	he	PRP	_	2	nsubj
+2	carried	carry	VBD	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	him	he	PRP	_	3	pobj
+5	an	a	DT	_	8	det
+6	old	old	JJ	_	8	amod
+7	wicker	wicker	NN	_	8	nn
+8	basket	basket	NN	_	2	dobj
+9	containing	contain	VBG	_	8	vmod
+10	stale	stale	JJ	_	11	amod
+11	biscuits	biscuit	NNS	_	9	dobj
+12	,	,	,	_	8	punct
+13	some	some	DT	_	15	det
+14	cured	cure	VBN	_	15	amod
+15	ham	ham	NN	_	8	appos
+16	,	,	,	_	8	punct
+17	and	and	CC	_	8	cc
+18	a	a	DT	_	19	det
+19	bottle	bottle	NN	_	8	conj
+20	full	full	JJ	_	19	amod
+21	of	of	IN	_	20	prep
+22	goat	goat	NN	_	24	poss
+23	's	's	POS	_	22	possessive
+24	milk	milk	NN	_	21	pobj
+25	.	.	.	_	2	punct
+

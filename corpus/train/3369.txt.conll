@@ -1,0 +1,7 @@
+1	Investment	investment	NN	_	2	nsubj
+2	flows	flow	VBZ	_	0	ROOT
+3	into	into	IN	_	2	prep
+4	emerging	emerge	VBG	_	5	amod
+5	markets	market	NNS	_	3	pobj
+6	.	.	.	_	2	punct
+

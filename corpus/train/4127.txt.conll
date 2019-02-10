@@ -1,0 +1,22 @@
+1	Oblique	oblique	JJ	_	2	amod
+2	light	light	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	directed	direct	VBN	_	0	ROOT
+5	toward	toward	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	specimen	specimen	NN	_	5	pobj
+8	from	from	IN	_	7	prep
+9	any	any	DT	_	10	det
+10	azimuth	azimuth	NN	_	8	pobj
+11	to	to	TO	_	12	aux
+12	achieve	achieve	VB	_	4	xcomp
+13	the	the	DT	_	16	det
+14	best	best	JJS	_	15	dep
+15	desired	desire	VBN	_	16	amod
+16	effect	effect	NN	_	12	dobj
+17	for	for	IN	_	16	prep
+18	a	a	DT	_	20	det
+19	given	give	VBN	_	20	amod
+20	specimen	specimen	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

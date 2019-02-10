@@ -1,0 +1,3 @@
+T1	Term 12 22	protesters
+T2	Term 48 53	group
+R1	Entity-Origin Arg1:T1 Arg2:T2

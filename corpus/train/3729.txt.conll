@@ -1,0 +1,23 @@
+1	The	the	DT	_	17	nsubjpass
+2	collapsing	collapse	VBG	_	1	vmod
+3	funnel	funnel	VB	_	2	ccomp
+4	compressed	compress	VBN	_	3	dep
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	7	det
+7	fraction	fraction	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	its	its	PRP$	_	11	poss
+10	extended	extended	JJ	_	11	amod
+11	size	size	NN	_	8	pobj
+12	,	,	,	_	1	punct
+13	and	and	CC	_	1	cc
+14	the	the	DT	_	15	det
+15	unit	unit	NN	_	1	conj
+16	was	be	VBD	_	17	auxpass
+17	moved	move	VBN	_	0	ROOT
+18	to	to	TO	_	17	prep
+19	a	a	DT	_	21	det
+20	kitchen	kitchen	NN	_	21	nn
+21	drawer	drawer	NN	_	18	pobj
+22	.	.	.	_	17	punct
+

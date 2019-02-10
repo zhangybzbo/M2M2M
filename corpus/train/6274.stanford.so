@@ -1,0 +1,12 @@
+0	62	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="for" pos="IN" prep="t5"
+4	11	tok id="t1" base="example" pos="NN" pobj="t0"
+12	13	tok id="t2" base="-COMMA-" pos="," punct="t5"
+14	24	tok id="t3" base="consonant" pos="NNS" nsubjpass="t5"
+25	29	tok id="t4" base="be" pos="VBD" auxpass="t5"
+30	39	tok id="t5" base="misplace" pos="VBN" ROOT="ROOT"
+40	44	tok id="t6" base="into" pos="IN" prep="t5"
+45	54	tok id="t7" base="consonant" pos="JJ" amod="t8"
+55	60	tok id="t8" base="slot" pos="NNS" pobj="t6"
+61	62	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

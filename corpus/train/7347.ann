@@ -1,0 +1,3 @@
+T1	Term 13 22	committee
+T2	Term 37 45	protocol
+R1	Product-Producer Arg1:T2 Arg2:T1

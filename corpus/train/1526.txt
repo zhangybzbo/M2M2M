@@ -1,0 +1,1 @@
+This simple script uses the DBI module in order to connect to a Mysql database , retrieves the results from a select query and display the results .

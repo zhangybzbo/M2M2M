@@ -1,0 +1,20 @@
+1	As	as	IN	_	8	mark
+2	the	the	DT	_	3	det
+3	face	face	NN	_	8	nsubjpass
+4	of	of	IN	_	3	prep
+5	each	each	DT	_	6	det
+6	card	card	NN	_	4	pobj
+7	is	be	VBZ	_	8	auxpass
+8	displayed	display	VBN	_	12	advcl
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	subject	subject	JJ	_	12	nsubj
+12	identifies	identify	VBZ	_	0	ROOT
+13	the	the	DT	_	14	det
+14	name	name	NN	_	12	dobj
+15	associated	associate	VBN	_	14	vmod
+16	with	with	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	card	card	NN	_	16	pobj
+19	.	.	.	_	12	punct
+

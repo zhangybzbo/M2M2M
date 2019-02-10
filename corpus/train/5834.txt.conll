@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	det
+2	solar-powered	solar-powered	JJ	_	4	amod
+3	bus	bus	NN	_	4	nn
+4	shelter	shelter	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	composed	compose	VBN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	recycled	recycled	JJ	_	9	amod
+9	bottles	bottle	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

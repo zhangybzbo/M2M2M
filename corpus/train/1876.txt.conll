@@ -1,0 +1,8 @@
+1	Japan	Japan	NNP	_	2	nsubj
+2	injected	inject	VBD	_	0	ROOT
+3	funds	fund	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	struggling	struggle	VBG	_	6	amod
+6	companies	company	NNS	_	4	pobj
+7	.	.	.	_	2	punct
+

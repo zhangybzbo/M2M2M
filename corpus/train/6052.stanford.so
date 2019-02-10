@@ -1,0 +1,12 @@
+0	64	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="this" pos="DT" det="t1"
+5	12	tok id="t1" base="article" pos="NN" nsubj="t2"
+13	23	tok id="t2" base="introduce" pos="VBZ" ROOT="ROOT"
+24	32	tok id="t3" base="feminist" pos="JJ" amod="t8"
+33	36	tok id="t4" base="and" pos="CC" cc="t3"
+37	42	tok id="t5" base="woman" pos="NNS" conj="t3"
+43	45	tok id="t6" base="'s" pos="POS" possessive="t5"
+46	52	tok id="t7" base="rights" pos="NNS" nn="t8"
+53	62	tok id="t8" base="argument" pos="NNS" dobj="t2"
+63	64	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

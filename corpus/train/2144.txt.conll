@@ -1,0 +1,19 @@
+1	The	the	DT	_	5	det
+2	December	December	NNP	_	5	nn
+3	26th	26th	JJ	_	5	amod
+4	tsunami	tsunami	NN	_	5	nn
+5	disaster	disaster	NN	_	8	nsubj
+6	is	be	VBZ	_	8	cop
+7	an	a	DT	_	8	det
+8	example	example	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	tsunami	tsunami	NN	_	9	pobj
+12	which	which	WDT	_	14	nsubjpass
+13	was	be	VBD	_	14	auxpass
+14	triggered	trigger	VBN	_	11	rcmod
+15	by	by	IN	_	14	prep
+16	an	a	DT	_	17	det
+17	earthquake	earthquake	NN	_	15	pobj
+18	.	.	.	_	8	punct
+

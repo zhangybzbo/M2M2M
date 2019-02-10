@@ -1,0 +1,19 @@
+1	Upon	upon	IN	_	9	prep
+2	completion	completion	NN	_	1	pobj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	activity	activity	NN	_	3	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	employee	employee	NN	_	9	nsubj
+9	supervises	supervise	VBZ	_	0	ROOT
+10	the	the	DT	_	11	det
+11	exit	exit	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	group	group	NN	_	12	pobj
+15	from	from	IN	_	11	prep
+16	the	the	DT	_	17	det
+17	facility	facility	NN	_	15	pobj
+18	.	.	.	_	9	punct
+

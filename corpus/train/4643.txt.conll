@@ -1,0 +1,15 @@
+1	One	one	CD	_	4	num
+2	marine	marine	JJ	_	4	amod
+3	mammal	mammal	NN	_	4	nn
+4	breaks	break	NNS	_	0	ROOT
+5	open	open	JJ	_	6	amod
+6	shellfish	shellfish	NN	_	4	dep
+7	by	by	IN	_	6	prep
+8	hitting	hit	VBG	_	7	pcomp
+9	the	the	DT	_	10	det
+10	shellfish	shellfish	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	a	a	DT	_	13	det
+13	stone	stone	NN	_	11	pobj
+14	.	.	.	_	4	punct
+

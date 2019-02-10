@@ -1,0 +1,22 @@
+1	A	a	DT	_	2	det
+2	skein	skein	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	greylag	greylag	NN	_	5	nn
+5	geese	goose	NNS	_	3	pobj
+6	came	come	VBD	_	0	ROOT
+7	directly	directly	RB	_	6	advmod
+8	over	over	IN	_	6	prep
+9	me	I	PRP	_	8	pobj
+10	and	and	CC	_	6	cc
+11	I	I	PRP	_	12	nsubj
+12	killed	kill	VBD	_	6	conj
+13	one	one	CD	_	12	dobj
+14	that	that	WDT	_	15	nsubj
+15	dropped	drop	VBD	_	13	rcmod
+16	far	far	RB	_	15	advmod
+17	out	out	RB	_	15	advmod
+18	in	in	IN	_	15	prep
+19	the	the	DT	_	20	det
+20	field	field	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

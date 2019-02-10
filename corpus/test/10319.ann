@@ -1,0 +1,3 @@
+T1	Term 90 93	zoo
+T2	Term 97 103	creeps
+R1	Member-Collection Arg1:T2 Arg2:T1

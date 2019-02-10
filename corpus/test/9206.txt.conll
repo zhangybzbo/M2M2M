@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	wheat	wheat	NN	_	3	nn
+3	starch	starch	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	had	have	VBN	_	0	ROOT
+6	more	more	JJR	_	5	dobj
+7	than	than	IN	_	6	prep
+8	one-hundred-year	one-hundred-year	JJ	_	9	amod
+9	tradition	tradition	NN	_	7	pobj
+10	in	in	IN	_	9	prep
+11	Krnov	Krnov	NNP	_	10	pobj
+12	.	.	.	_	5	punct
+

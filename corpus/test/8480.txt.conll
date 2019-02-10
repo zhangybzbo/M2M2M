@@ -1,0 +1,23 @@
+1	Therefore	therefore	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	we	we	PRP	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	made	make	VBN	_	0	ROOT
+6	a	a	DT	_	9	det
+7	new	new	JJ	_	9	amod
+8	8-page	8-page	NN	_	9	nn
+9	leaflet	leaflet	NN	_	5	dobj
+10	informing	inform	VBG	_	9	vmod
+11	about	about	IN	_	10	prep
+12	all	all	PDT	_	14	predet
+13	the	the	DT	_	14	det
+14	qualities	quality	NNS	_	11	pobj
+15	of	of	IN	_	14	prep
+16	our	we	PRP$	_	18	poss
+17	large	large	JJ	_	18	amod
+18	range	range	NN	_	15	pobj
+19	of	of	IN	_	18	prep
+20	pressure	pressure	NN	_	21	nn
+21	filters	filter	NNS	_	19	pobj
+22	.	.	.	_	5	punct
+

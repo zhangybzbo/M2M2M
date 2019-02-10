@@ -1,0 +1,13 @@
+1	His	he	PRP$	_	2	poss
+2	efforts	effort	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	documented	document	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	diaries	diary	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	his	he	PRP$	_	10	poss
+10	sister	sister	NN	_	8	pobj
+11	Katherine	Katherine	NNP	_	10	dep
+12	.	.	.	_	4	punct
+

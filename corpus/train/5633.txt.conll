@@ -1,0 +1,17 @@
+1	Pharmacognosy	Pharmacognosy	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	the	the	DT	_	4	det
+4	study	study	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	crude	crude	JJ	_	7	amod
+7	drugs	drug	NNS	_	5	pobj
+8	obtained	obtain	VBN	_	7	vmod
+9	from	from	IN	_	8	prep
+10	plants	plant	NNS	_	9	pobj
+11	,	,	,	_	10	punct
+12	animals	animal	NNS	_	10	conj
+13	and	and	CC	_	10	cc
+14	mineral	mineral	NN	_	15	nn
+15	kingdom	kingdom	NN	_	10	conj
+16	.	.	.	_	4	punct
+

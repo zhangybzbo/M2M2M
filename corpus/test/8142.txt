@@ -1,0 +1,1 @@
+The GPS network adjustment of data from both epochs is accomplished using the Ski TM software with constrains network adjustment .

@@ -1,0 +1,11 @@
+0	39	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="crocodile" pos="NN" nsubj="t2"
+14	17	tok id="t2" base="have" pos="VBZ" ROOT="ROOT"
+18	19	tok id="t3" base="a" pos="DT" det="t4"
+20	24	tok id="t4" base="lump" pos="NN" dobj="t2"
+25	27	tok id="t5" base="on" pos="IN" prep="t4"
+28	31	tok id="t6" base="he" pos="PRP$" poss="t7"
+32	37	tok id="t7" base="snout" pos="NN" pobj="t5"
+38	39	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

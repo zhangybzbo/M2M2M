@@ -1,0 +1,14 @@
+1	Gatrell	Gatrell	NNP	_	2	nsubj
+2	illuminates	illuminate	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	debate	debate	NN	_	2	dobj
+5	over	over	IN	_	2	prep
+6	public	public	JJ	_	7	amod
+7	execution	execution	NN	_	5	pobj
+8	that	that	WDT	_	9	nsubj
+9	raged	rage	VBD	_	7	rcmod
+10	in	in	IN	_	9	prep
+11	polite	polite	JJ	_	12	amod
+12	society	society	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

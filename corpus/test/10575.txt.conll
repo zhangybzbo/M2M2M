@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss
+2	guns	gun	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	locked	lock	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	safe	safe	JJ	_	5	pobj
+8	and	and	CC	_	4	cc
+9	have	have	VBP	_	4	conj
+10	trigger	trigger	NN	_	11	nn
+11	locks	lock	NNS	_	9	dobj
+12	on	on	IN	_	9	prep
+13	them	they	PRP	_	12	pobj
+14	.	.	.	_	4	punct
+

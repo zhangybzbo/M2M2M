@@ -1,0 +1,16 @@
+1	After	after	IN	_	9	prep
+2	5	5	CD	_	3	num
+3	minutes	minute	NNS	_	1	pobj
+4	or	or	CC	_	5	cc
+5	so	so	RB	_	3	num
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	problem	problem	NN	_	9	nsubj
+9	went	go	VBD	_	0	ROOT
+10	away	away	RB	_	9	advmod
+11	from	from	IN	_	9	prep
+12	an	a	DT	_	14	det
+13	operational	operational	JJ	_	14	amod
+14	perspective	perspective	NN	_	11	pobj
+15	.	.	.	_	9	punct
+

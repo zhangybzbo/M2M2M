@@ -1,0 +1,6 @@
+0	18	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Trees" pos="NNP" nsubj="t1"
+6	10	tok id="t1" base="grow" pos="VB" ROOT="ROOT"
+11	16	tok id="t2" base="seed" pos="NNS" dobj="t1"
+17	18	tok id="t3" base="-PERIOD-" pos="." punct="t1"
+

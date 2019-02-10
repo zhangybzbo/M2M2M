@@ -1,0 +1,12 @@
+0	62	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="New" pos="NNP" nn="t2"
+4	11	tok id="t1" base="Western" pos="NNP" nn="t2"
+12	19	tok id="t2" base="custom" pos="NNS" nsubj="t3"
+20	25	tok id="t3" base="move" pos="VBD" ROOT="ROOT"
+26	30	tok id="t4" base="into" pos="IN" prep="t3"
+31	34	tok id="t5" base="the" pos="DT" det="t8"
+35	46	tok id="t6" base="traditional" pos="JJ" amod="t8"
+47	52	tok id="t7" base="asian" pos="JJ" amod="t8"
+53	60	tok id="t8" base="culture" pos="NN" pobj="t4"
+61	62	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

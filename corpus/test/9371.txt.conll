@@ -1,0 +1,19 @@
+1	These	these	DT	_	2	det
+2	rules	rule	NNS	_	3	nsubj
+3	regulate	regulate	VBP	_	0	ROOT
+4	human	human	JJ	_	6	amod
+5	's	's	POS	_	6	possessive
+6	behavior	behavior	NN	_	3	dobj
+7	toward	toward	IN	_	6	prep
+8	eachother	eachother	NN	_	7	pobj
+9	and	and	CC	_	3	cc
+10	serve	serve	VB	_	3	conj
+11	to	to	TO	_	12	aux
+12	maintain	maintain	VB	_	10	xcomp
+13	a	a	DT	_	14	det
+14	sense	sense	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	social	social	JJ	_	17	amod
+17	unity	unity	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

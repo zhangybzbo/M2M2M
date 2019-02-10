@@ -1,0 +1,3 @@
+T1	Term 34 44	organizers
+T2	Term 56 63	barrier
+R1	Product-Producer Arg1:T2 Arg2:T1

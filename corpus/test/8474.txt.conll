@@ -1,0 +1,13 @@
+1	Then	then	RB	_	3	advmod
+2	I	I	PRP	_	3	nsubj
+3	remembered	remember	VBD	_	0	ROOT
+4	--	--	:	_	7	punct
+5	my	my	PRP$	_	6	poss
+6	paper	paper	NN	_	7	nsubj
+7	was	be	VBD	_	3	ccomp
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	desk	desk	NN	_	11	nn
+11	drawer	drawer	NN	_	8	pobj
+12	.	.	.	_	3	punct
+

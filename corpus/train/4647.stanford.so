@@ -1,0 +1,13 @@
+0	92	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="both" pos="DT" preconj="t3"
+5	21	tok id="t1" base="over-the-counter" pos="JJ" amod="t3"
+22	26	tok id="t2" base="pain" pos="NN" nn="t3"
+27	32	tok id="t3" base="pill" pos="NNS" nsubj="t7"
+33	36	tok id="t4" base="and" pos="CC" cc="t3"
+37	49	tok id="t5" base="prescription" pos="NN" nn="t6"
+50	55	tok id="t6" base="drug" pos="NNS" conj="t3"
+56	61	tok id="t7" base="cause" pos="VBP" ROOT="ROOT"
+62	80	tok id="t8" base="medication-overuse" pos="JJ" amod="t9"
+81	90	tok id="t9" base="headache" pos="NNS" dobj="t7"
+91	92	tok id="t10" base="-PERIOD-" pos="." punct="t7"
+

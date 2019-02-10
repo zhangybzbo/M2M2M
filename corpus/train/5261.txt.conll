@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	aircraft	aircraft	NN	_	3	nsubj
+3	accommodated	accommodate	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	pilot	pilot	NN	_	3	dobj
+6	and	and	CC	_	5	cc
+7	copilot	copilot	NN	_	5	conj
+8	sitting	sit	VBG	_	5	vmod
+9	side-by-side	side-by-side	RB	_	8	advmod
+10	in	in	IN	_	8	prep
+11	a	a	DT	_	13	det
+12	framed	frame	VBN	_	13	amod
+13	canopy	canopy	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

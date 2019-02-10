@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	dress	dress	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	trunk	trunk	NN	_	4	pobj
+7	dated	date	VBN	_	8	amod
+8	summer	summer	NN	_	6	tmod
+9	of	of	IN	_	8	prep
+10	1938	1938	CD	_	9	pobj
+11	along	along	IN	_	3	prep
+12	with	with	IN	_	11	pcomp
+13	several	several	JJ	_	15	amod
+14	other	other	JJ	_	15	amod
+15	dresses	dress	NNS	_	12	pobj
+16	from	from	IN	_	15	prep
+17	this	this	DT	_	19	det
+18	same	same	JJ	_	19	amod
+19	period	period	NN	_	16	pobj
+20	.	.	.	_	3	punct
+

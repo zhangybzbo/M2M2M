@@ -1,0 +1,10 @@
+1	I	I	PRP	_	2	nsubj
+2	sent	send	VBD	_	0	ROOT
+3	files	file	NNS	_	2	dobj
+4	to	to	TO	_	2	prep
+5	programs	program	NNS	_	4	pobj
+6	other	other	JJ	_	5	amod
+7	than	than	IN	_	6	prep
+8	MetaX	metax	NN	_	7	pobj
+9	.	.	.	_	2	punct
+

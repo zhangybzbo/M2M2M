@@ -1,0 +1,13 @@
+1	Our	we	PRP$	_	2	poss
+2	microwave	microwave	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	turn-able	turn-able	JJ	_	6	amod
+6	turntable	turntable	NN	_	3	dobj
+7	inside	inside	IN	_	6	prep
+8	and	and	CC	_	7	cc
+9	dial-able	dial-able	JJ	_	7	conj
+10	knobs	knob	NNS	_	7	pobj
+11	outside	outside	IN	_	10	advmod
+12	.	.	.	_	3	punct
+

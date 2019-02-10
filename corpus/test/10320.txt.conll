@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	3	poss
+2	apartment	apartment	NN	_	3	nn
+3	complex	complex	NN	_	4	nsubj
+4	treated	treat	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	yard	yard	NN	_	4	dobj
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	poison	poison	NN	_	7	pobj
+10	to	to	TO	_	11	aux
+11	kill	kill	VB	_	9	vmod
+12	locusts	locust	NNS	_	11	dobj
+13	.	.	.	_	4	punct
+

@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss
+2	cousins	cousin	NNS	_	3	nsubj
+3	have	have	VBP	_	0	ROOT
+4	some	some	DT	_	5	det
+5	fun	fun	NN	_	6	nsubj
+6	sliding	slide	VBG	_	3	ccomp
+7	down	down	RP	_	6	prt
+8	the	the	DT	_	9	det
+9	steps	step	NNS	_	6	dobj
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	laundry	laundry	NN	_	13	nn
+13	basket	basket	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,23 @@
+1	After	after	IN	_	14	prep
+2	receipt	receipt	NN	_	1	pobj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	invoice	invoice	NN	_	3	pobj
+6	through	through	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	air-mail	air-mail	NN	_	6	pobj
+9	or	or	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	email	email	NN	_	8	conj
+12	,	,	,	_	14	punct
+13	we	we	PRP	_	14	nsubj
+14	send	send	VBP	_	0	ROOT
+15	it	it	PRP	_	14	iobj
+16	the	the	DT	_	18	det
+17	accounting	accounting	NN	_	18	nn
+18	department	department	NN	_	14	dobj
+19	for	for	IN	_	14	prep
+20	payment	payment	NN	_	21	nn
+21	procedures	procedure	NNS	_	19	pobj
+22	.	.	.	_	14	punct
+

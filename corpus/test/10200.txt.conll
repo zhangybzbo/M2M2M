@@ -1,0 +1,25 @@
+1	A	a	DT	_	2	det
+2	bed	bed	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	ancient	ancient	JJ	_	5	amod
+5	lava	lava	NN	_	3	pobj
+6	seemed	seem	VBD	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	mark	mark	VB	_	6	xcomp
+9	the	the	DT	_	10	det
+10	commencement	commencement	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	eruption	eruption	NN	_	11	pobj
+14	from	from	IN	_	8	prep
+15	the	the	DT	_	16	det
+16	craters	crater	NNS	_	14	pobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	great	great	JJ	_	20	amod
+20	chain	chain	NN	_	17	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	Andes	Andes	NNP	_	21	pobj
+24	.	.	.	_	6	punct
+

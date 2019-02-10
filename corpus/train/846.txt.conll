@@ -1,0 +1,14 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	3	det
+3	king	king	NN	_	5	nsubj
+4	had	have	VBD	_	5	aux
+5	left	leave	VBN	_	10	advcl
+6	the	the	DT	_	7	det
+7	apartment	apartment	NN	_	5	dobj
+8	,	,	,	_	10	punct
+9	she	she	PRP	_	10	nsubj
+10	withdrew	withdraw	VBD	_	0	ROOT
+11	her	she	PRP$	_	12	poss
+12	hand	hand	NN	_	10	dobj
+13	.	.	.	_	10	punct
+

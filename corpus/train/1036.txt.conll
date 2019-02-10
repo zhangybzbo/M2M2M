@@ -1,0 +1,19 @@
+1	Specialists	specialist	NNS	_	9	nsubj
+2	from	from	IN	_	1	prep
+3	various	various	JJ	_	4	amod
+4	fields	field	NNS	_	2	pobj
+5	pertinent	pertinent	JJ	_	1	amod
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	theme	theme	NN	_	6	pobj
+9	took	take	VBD	_	0	ROOT
+10	part	part	NN	_	9	dobj
+11	and	and	CC	_	9	cc
+12	presented	present	VBD	_	9	conj
+13	specific	specific	JJ	_	14	amod
+14	aspects	aspect	NNS	_	12	dobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	topic	topic	NN	_	15	pobj
+18	.	.	.	_	9	punct
+

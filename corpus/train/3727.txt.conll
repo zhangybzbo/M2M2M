@@ -1,0 +1,10 @@
+1	Real-world	real-world	JJ	_	2	amod
+2	truths	truth	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	imported	import	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	fictional	fictional	JJ	_	8	amod
+8	world	world	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

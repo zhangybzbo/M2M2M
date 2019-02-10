@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	initiative	initiative	NN	_	10	nsubj
+3	,	,	,	_	2	punct
+4	called	call	VBN	_	2	prep
+5	The	the	DT	_	6	det
+6	Big	big	JJ	_	7	nsubj
+7	Switch	switch	VB	_	4	pcomp
+8	Off	off	IN	_	7	prt
+9	,	,	,	_	2	punct
+10	aims	aim	VBZ	_	0	ROOT
+11	to	to	TO	_	12	aux
+12	reduce	reduce	VB	_	10	xcomp
+13	energy	energy	NN	_	14	nn
+14	consumption	consumption	NN	_	12	dobj
+15	by	by	IN	_	12	prep
+16	turning	turn	VBG	_	15	pcomp
+17	off	off	RP	_	16	prt
+18	lights	light	NNS	_	16	dobj
+19	and	and	CC	_	18	cc
+20	unused	unused	JJ	_	21	amod
+21	appliances	appliance	NNS	_	18	conj
+22	.	.	.	_	10	punct
+

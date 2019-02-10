@@ -1,0 +1,12 @@
+1	Mado	Mado	NNP	_	2	nsubj
+2	manages	manage	VBZ	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	escape	escape	VB	_	2	xcomp
+5	and	and	CC	_	2	cc
+6	kidnaps	kidnap	VBZ	_	2	conj
+7	the	the	DT	_	8	det
+8	scientist	scientist	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	niece	niece	NN	_	6	dobj
+11	.	.	.	_	2	punct
+

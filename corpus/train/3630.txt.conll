@@ -1,0 +1,19 @@
+1	Natural	natural	JJ	_	3	amod
+2	rubber	rubber	NN	_	3	nn
+3	latex	latex	NN	_	10	nsubj
+4	or	or	CC	_	3	cc
+5	synthetic	synthetic	JJ	_	6	amod
+6	rubber	rubber	NN	_	3	conj
+7	is	be	VBZ	_	10	cop
+8	the	the	DT	_	10	det
+9	main	main	JJ	_	10	amod
+10	ingredient	ingredient	NN	_	0	ROOT
+11	used	use	VBN	_	10	vmod
+12	for	for	IN	_	11	prep
+13	making	make	VBG	_	12	pcomp
+14	rubber	rubber	NN	_	15	nn
+15	latex	latex	NN	_	16	nsubj
+16	dipped	dip	VBD	_	13	ccomp
+17	products	product	NNS	_	16	dobj
+18	.	.	.	_	10	punct
+

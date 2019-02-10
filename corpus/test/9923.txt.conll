@@ -1,0 +1,25 @@
+1	As	as	IN	_	19	prep
+2	a	a	DT	_	4	det
+3	typical	typical	JJ	_	4	amod
+4	case	case	NN	_	1	pobj
+5	,	,	,	_	19	punct
+6	the	the	DT	_	8	det
+7	slow	slow	JJ	_	8	amod
+8	motion	motion	NN	_	19	nsubjpass
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	swarm	swarm	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	particles	particle	NNS	_	12	pobj
+14	in	in	IN	_	8	prep
+15	a	a	DT	_	17	det
+16	viscous	viscous	JJ	_	17	amod
+17	fluid	fluid	NN	_	14	pobj
+18	was	be	VBD	_	19	auxpass
+19	studied	study	VBN	_	0	ROOT
+20	both	both	CC	_	21	preconj
+21	theoretically	theoretically	RB	_	19	advmod
+22	and	and	CC	_	21	cc
+23	experimentally	experimentally	RB	_	21	conj
+24	.	.	.	_	19	punct
+

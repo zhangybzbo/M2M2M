@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	cadets	cadet	NNS	_	3	nsubj
+3	departed	depart	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	training	training	NN	_	4	pobj
+6	with	with	IN	_	5	prep
+7	smiles	smile	NNS	_	6	pobj
+8	on	on	IN	_	7	prep
+9	their	they	PRP$	_	10	poss
+10	faces	face	NNS	_	8	pobj
+11	as	as	IN	_	13	mark
+12	they	they	PRP	_	13	nsubj
+13	made	make	VBD	_	3	advcl
+14	the	the	DT	_	15	det
+15	journey	journey	NN	_	13	dobj
+16	back	back	RB	_	13	advmod
+17	to	to	TO	_	16	prep
+18	their	they	PRP$	_	19	poss
+19	schools	school	NNS	_	17	pobj
+20	.	.	.	_	3	punct
+

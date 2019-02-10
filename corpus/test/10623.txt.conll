@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	ideal	ideal	JJ	_	3	amod
+3	candidate	candidate	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	graduated	graduate	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	approved	approve	VBN	_	9	amod
+9	program	program	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	Radiography	radiography	NN	_	10	pobj
+12	.	.	.	_	5	punct
+

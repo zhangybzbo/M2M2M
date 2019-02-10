@@ -1,0 +1,17 @@
+1	Cats	cat	NNS	_	8	nsubj
+2	,	,	,	_	8	punct
+3	on	on	IN	_	8	prep
+4	the	the	DT	_	6	det
+5	other	other	JJ	_	6	amod
+6	hand	hand	NN	_	3	pobj
+7	,	,	,	_	8	punct
+8	retract	retract	VB	_	0	ROOT
+9	their	they	PRP$	_	10	poss
+10	claws	claw	NNS	_	8	dobj
+11	when	when	WRB	_	13	advmod
+12	they	they	PRP	_	13	nsubj
+13	walk	walk	VBP	_	8	advcl
+14	or	or	CC	_	13	cc
+15	run	run	VBP	_	13	conj
+16	.	.	.	_	8	punct
+

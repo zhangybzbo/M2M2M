@@ -1,0 +1,21 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	number	number	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	fairly	fairly	RB	_	7	advmod
+7	standard	standard	JJ	_	8	amod
+8	conventions	convention	NNS	_	5	pobj
+9	when	when	WRB	_	10	advmod
+10	framing	frame	VBG	_	2	advcl
+11	a	a	DT	_	13	det
+12	business	business	NN	_	13	nn
+13	letter	letter	NN	_	10	dobj
+14	that	that	IN	_	17	mark
+15	it	it	PRP	_	17	nsubj
+16	is	be	VBZ	_	17	cop
+17	important	important	JJ	_	13	ccomp
+18	to	to	TO	_	19	aux
+19	observe	observe	VB	_	17	xcomp
+20	.	.	.	_	2	punct
+

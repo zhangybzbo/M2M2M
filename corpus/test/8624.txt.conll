@@ -1,0 +1,18 @@
+1	There	there	EX	_	2	expl
+2	were	be	VBD	_	0	ROOT
+3	women	woman	NNS	_	2	nsubj
+4	in	in	IN	_	3	prep
+5	headscarves	headscarve	NNS	_	4	pobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	corridors	corridor	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	hospital	hospital	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	men	man	NNS	_	11	conj
+14	wearing	wear	VBG	_	8	vmod
+15	traditional	traditional	JJ	_	16	amod
+16	caps	cap	NNS	_	14	dobj
+17	.	.	.	_	2	punct
+

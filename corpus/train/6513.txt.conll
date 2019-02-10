@@ -1,0 +1,23 @@
+1	Defining	define	VBG	_	14	dep
+2	the	the	DT	_	3	det
+3	bounds	bound	NNS	_	1	dobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	Old	Old	NNP	_	7	nn
+7	City	City	NNP	_	4	pobj
+8	are	be	VBP	_	14	auxpass
+9	its	its	PRP$	_	11	poss
+10	massive	massive	JJ	_	11	amod
+11	walls	wall	NNS	_	14	nsubjpass
+12	having	have	VBG	_	14	aux
+13	been	be	VBN	_	14	auxpass
+14	built	build	VBN	_	0	ROOT
+15	by	by	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	Ottoman	Ottoman	NNP	_	19	nn
+18	sultan	sultan	NN	_	19	nn
+19	Sulieman	Sulieman	NNP	_	15	pobj
+20	the	the	DT	_	21	det
+21	Magnificent	Magnificent	NNP	_	19	dep
+22	.	.	.	_	14	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	4	det
+2	other	other	JJ	_	4	amod
+3	group	group	NN	_	4	nn
+4	name	name	NN	_	15	nsubj
+5	,	,	,	_	4	punct
+6	a	a	DT	_	7	det
+7	rabble	rabble	NN	_	4	appos
+8	of	of	IN	_	7	prep
+9	butterflies	butterfly	NNS	_	8	pobj
+10	,	,	,	_	4	punct
+11	is	be	VBZ	_	15	cop
+12	a	a	DT	_	13	det
+13	bit	bit	NN	_	15	npadvmod
+14	more	more	RBR	_	15	advmod
+15	obscure	obscure	JJ	_	0	ROOT
+16	.	.	.	_	15	punct
+

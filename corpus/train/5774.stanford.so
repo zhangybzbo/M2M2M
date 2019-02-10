@@ -1,0 +1,13 @@
+0	76	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="paralysis" pos="NN" nsubjpass="t4"
+10	12	tok id="t1" base="or" pos="CC" cc="t0"
+13	24	tok id="t2" base="convulsion" pos="NNS" conj="t0"
+25	28	tok id="t3" base="be" pos="VBP" auxpass="t4"
+29	35	tok id="t4" base="cause" pos="VBN" ROOT="ROOT"
+36	38	tok id="t5" base="by" pos="IN" prep="t4"
+39	46	tok id="t6" base="hormone" pos="NN" nn="t7"
+47	59	tok id="t7" base="deficiency" pos="NNS" pobj="t5"
+60	63	tok id="t8" base="and" pos="CC" cc="t7"
+64	74	tok id="t9" base="imbalance" pos="NNS" conj="t7"
+75	76	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

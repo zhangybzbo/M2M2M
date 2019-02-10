@@ -1,0 +1,20 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	vehicles	vehicle	NNS	_	4	nsubj
+4	caught	catch	VBD	_	12	advcl
+5	fire	fire	NN	_	4	dobj
+6	after	after	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	collision	collision	NN	_	6	pobj
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	transformers	transformer	NNS	_	12	nsubj
+12	began	begin	VBD	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	explode	explode	VB	_	12	xcomp
+15	one	one	CD	_	14	dobj
+16	after	after	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	other	other	JJ	_	16	pobj
+19	.	.	.	_	12	punct
+

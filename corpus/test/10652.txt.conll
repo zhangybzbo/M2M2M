@@ -1,0 +1,27 @@
+1	At	at	IN	_	9	prep
+2	the	the	DT	_	4	det
+3	public	public	JJ	_	4	amod
+4	inquiry	inquiry	NN	_	1	pobj
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	disaster	disaster	NN	_	8	nn
+8	firefighters	firefighter	NNS	_	5	pobj
+9	described	describe	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	horror	horror	NN	_	9	dobj
+12	that	that	WDT	_	13	nsubj
+13	faced	face	VBD	_	11	rcmod
+14	them	they	PRP	_	13	dobj
+15	when	when	WRB	_	17	advmod
+16	they	they	PRP	_	17	nsubj
+17	arrived	arrive	VBD	_	13	advcl
+18	at	at	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	scene	scene	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	25	det
+23	Paddington	Paddington	NNP	_	25	nn
+24	rail	rail	NN	_	25	nn
+25	crash	crash	NN	_	21	pobj
+26	.	.	.	_	9	punct
+

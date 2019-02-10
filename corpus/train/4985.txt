@@ -1,0 +1,1 @@
+A method , discovered by a team of seven researchers , exploits a weakness in the MD5 hash function to construct a rogue certificate authority .

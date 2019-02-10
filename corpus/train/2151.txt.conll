@@ -1,0 +1,14 @@
+1	Workers	worker	NNS	_	2	nsubj
+2	build	build	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	comb	comb	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	wax	wax	NN	_	5	pobj
+7	extruded	extrude	VBD	_	2	dep
+8	from	from	IN	_	7	prep
+9	glands	gland	NNS	_	8	pobj
+10	under	under	IN	_	7	prep
+11	their	they	PRP$	_	12	poss
+12	abdomen	abdomen	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

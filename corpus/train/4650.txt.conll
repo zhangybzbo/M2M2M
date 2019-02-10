@@ -1,0 +1,12 @@
+1	She	she	PRP	_	3	nsubj
+2	lightly	lightly	RB	_	3	advmod
+3	clicked	click	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	mouse	mouse	NN	_	6	nn
+6	button	button	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	her	she	PRP$	_	10	poss
+9	index	index	NN	_	10	nn
+10	finger	finger	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

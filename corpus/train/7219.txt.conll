@@ -1,0 +1,11 @@
+1	Until	until	IN	_	5	prep
+2	1729	1729	CD	_	1	pobj
+3	the	the	DT	_	4	det
+4	building	building	NN	_	5	nsubj
+5	contained	contain	VBD	_	0	ROOT
+6	only	only	RB	_	9	advmod
+7	the	the	DT	_	9	det
+8	grammar	grammar	NN	_	9	nn
+9	school	school	NN	_	5	dobj
+10	.	.	.	_	5	punct
+

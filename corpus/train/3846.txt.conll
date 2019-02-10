@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	det
+2	theory	theory	NN	_	3	nsubj
+3	focuses	focus	VBZ	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	computational	computational	JJ	_	6	amod
+6	tasks	task	NNS	_	4	pobj
+7	,	,	,	_	3	punct
+8	and	and	CC	_	3	cc
+9	considers	consider	VBZ	_	3	conj
+10	automated	automate	VBN	_	11	amod
+11	procedures	procedure	NNS	_	9	dobj
+12	-LRB-	-lrb-	-LRB-	_	16	punct
+13	i.e.	i.e.	FW	_	16	dep
+14	,	,	,	_	16	punct
+15	computing	compute	VBG	_	16	amod
+16	devices	device	NNS	_	11	dep
+17	and	and	CC	_	16	cc
+18	algorithms	algorithm	NNS	_	16	conj
+19	-RRB-	-rrb-	-RRB-	_	16	punct
+20	that	that	WDT	_	22	nsubj
+21	may	may	MD	_	22	aux
+22	solve	solve	VB	_	11	rcmod
+23	such	such	JJ	_	24	amod
+24	tasks	task	NNS	_	22	dobj
+25	.	.	.	_	3	punct
+

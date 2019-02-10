@@ -1,0 +1,24 @@
+1	Rich	Rich	NNP	_	12	dep
+2	in	in	IN	_	1	prep
+3	high-quality	high-quality	JJ	_	4	amod
+4	protein	protein	NN	_	2	pobj
+5	and	and	CC	_	4	cc
+6	other	other	JJ	_	7	amod
+7	nutrients	nutrient	NNS	_	4	conj
+8	,	,	,	_	1	punct
+9	soy	soy	NN	_	10	nn
+10	flour	flour	NN	_	12	nsubj
+11	also	also	RB	_	12	advmod
+12	adds	add	VBZ	_	0	ROOT
+13	a	a	DT	_	15	det
+14	pleasant	pleasant	JJ	_	15	amod
+15	texture	texture	NN	_	12	dobj
+16	and	and	CC	_	15	cc
+17	flavor	flavor	NN	_	15	conj
+18	to	to	TO	_	12	prep
+19	a	a	DT	_	20	det
+20	variety	variety	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	products	product	NNS	_	21	pobj
+23	.	.	.	_	12	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	plane	plane	NN	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	off	off	RP	_	3	prt
+5	westbound	westbound	JJ	_	3	dobj
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	small	small	JJ	_	9	amod
+9	airport	airport	NN	_	12	poss
+10	's	's	POS	_	9	possessive
+11	southernmost	southernmost	JJ	_	12	amod
+12	runway	runway	NN	_	6	pobj
+13	shortly	shortly	RB	_	14	advmod
+14	before	before	IN	_	3	prep
+15	6	6	CD	_	16	num
+16	p.m.	p.m.	NN	_	14	pobj
+

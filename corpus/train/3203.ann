@@ -1,0 +1,3 @@
+T1	Term 104 115	floodlights
+T2	Term 124 136	power outage
+R1	Cause-Effect Arg1:T1 Arg2:T2

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	display	display	NN	_	9	nsubj
+3	showing	show	VBG	_	2	vmod
+4	signal	signal	NN	_	7	nn
+5	and	and	CC	_	4	cc
+6	battery	battery	NN	_	4	conj
+7	status	status	NN	_	3	dobj
+8	also	also	RB	_	9	advmod
+9	incorporates	incorporate	VBZ	_	0	ROOT
+10	feedback	feedback	NN	_	9	dobj
+11	from	from	IN	_	10	prep
+12	machinery	machinery	NN	_	14	nsubjpass
+13	being	be	VBG	_	14	auxpass
+14	operated	operate	VBN	_	11	pcomp
+15	.	.	.	_	9	punct
+

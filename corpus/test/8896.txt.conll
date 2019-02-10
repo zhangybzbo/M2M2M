@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	outer	outer	JJ	_	3	amod
+3	bark	bark	NN	_	14	nsubjpass
+4	composed	compose	VBN	_	3	vmod
+5	of	of	IN	_	4	prep
+6	dead	dead	JJ	_	7	amod
+7	phloem	phloem	NN	_	5	pobj
+8	alternating	alternate	VBG	_	7	vmod
+9	with	with	IN	_	8	prep
+10	bands	band	NNS	_	9	pobj
+11	of	of	IN	_	10	prep
+12	cork	cork	NN	_	11	pobj
+13	is	be	VBZ	_	14	auxpass
+14	called	call	VBN	_	0	ROOT
+15	,	,	,	_	14	punct
+16	technically	technically	RB	_	14	advmod
+17	,	,	,	_	14	punct
+18	rhytidome	rhytidome	NN	_	14	dep
+19	.	.	.	_	14	punct
+

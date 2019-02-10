@@ -1,0 +1,1 @@
+The data is received from a sensor in the shoe , with audible feedback provided through the earphones .

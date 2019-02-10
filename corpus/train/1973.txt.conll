@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	president	president	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	made	make	VBN	_	0	ROOT
+5	taxes	tax	NNS	_	4	dobj
+6	and	and	CC	_	4	cc
+7	spending	spend	VBG	_	4	conj
+8	the	the	DT	_	10	det
+9	big	big	JJ	_	10	amod
+10	issues	issue	NNS	_	7	dobj
+11	again	again	RB	_	7	advmod
+12	.	.	.	_	4	punct
+

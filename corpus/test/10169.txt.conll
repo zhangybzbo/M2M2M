@@ -1,0 +1,25 @@
+1	We	we	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	paddling	paddling	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	Muscovy	Muscovy	NNP	_	7	nn
+7	ducks	duck	NNS	_	5	pobj
+8	that	that	WDT	_	9	nsubj
+9	hang	hang	VBP	_	7	rcmod
+10	by	by	IN	_	9	prep
+11	our	we	PRP$	_	12	poss
+12	door	door	NN	_	10	pobj
+13	,	,	,	_	2	punct
+14	this	this	DT	_	15	det
+15	day	day	NN	_	20	tmod
+16	the	the	DT	_	18	det
+17	younger	younger	JJR	_	18	amod
+18	one	one	NN	_	20	nsubj
+19	was	be	VBD	_	20	aux
+20	fighting	fight	VBG	_	2	parataxis
+21	the	the	DT	_	23	det
+22	dominant	dominant	JJ	_	23	amod
+23	male	male	NN	_	20	dobj
+24	.	.	.	_	2	punct
+

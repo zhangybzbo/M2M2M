@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	Siege	Siege	NNP	_	3	nsubj
+3	started	start	VBD	_	0	ROOT
+4	rather	rather	RB	_	5	advmod
+5	slow	slow	JJ	_	3	acomp
+6	,	,	,	_	5	punct
+7	with	with	IN	_	5	prep
+8	a	a	DT	_	9	det
+9	regiment	regiment	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	lightly	lightly	RB	_	12	advmod
+12	armored	armored	JJ	_	13	amod
+13	swordsmen	swordsman	NNS	_	10	pobj
+14	ramming	ram	VBG	_	13	vmod
+15	down	down	RP	_	14	prt
+16	the	the	DT	_	17	det
+17	gate	gate	NN	_	14	dobj
+18	.	.	.	_	3	punct
+

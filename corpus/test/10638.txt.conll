@@ -1,0 +1,17 @@
+1	The	the	DT	_	5	det
+2	DS	d	NN	_	5	nn
+3	Criminal	Criminal	NNP	_	5	nn
+4	Investigative	Investigative	NNP	_	5	nn
+5	Division	Division	NNP	_	6	nsubj
+6	conducts	conduct	VBZ	_	0	ROOT
+7	criminal	criminal	JJ	_	8	amod
+8	investigations	investigation	NNS	_	6	dobj
+9	into	into	IN	_	6	prep
+10	violations	violation	NNS	_	9	pobj
+11	of	of	IN	_	10	prep
+12	passport	passport	NN	_	11	pobj
+13	and	and	CC	_	12	cc
+14	visa	visa	NN	_	15	nn
+15	fraud	fraud	NN	_	12	conj
+16	.	.	.	_	6	punct
+

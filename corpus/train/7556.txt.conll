@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	name	name	NN	_	10	nsubj
+3	given	give	VBN	_	2	vmod
+4	to	to	TO	_	3	prep
+5	our	we	PRP$	_	6	poss
+6	cluster	cluster	NN	_	4	pobj
+7	,	,	,	_	6	punct
+8	Valhalla	Valhalla	NNP	_	6	appos
+9	,	,	,	_	6	punct
+10	comes	come	VBZ	_	0	ROOT
+11	from	from	IN	_	10	prep
+12	Norse	norse	JJ	_	13	amod
+13	mythology	mythology	NN	_	11	pobj
+14	.	.	.	_	10	punct
+

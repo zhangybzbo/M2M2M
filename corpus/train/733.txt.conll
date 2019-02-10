@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj
+2	got	get	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	idea	idea	NN	_	2	dobj
+5	after	after	IN	_	2	prep
+6	getting	get	VBG	_	5	pcomp
+7	a	a	DT	_	8	det
+8	bottle	bottle	NN	_	6	dobj
+9	with	with	IN	_	6	prep
+10	an	a	DT	_	11	det
+11	apple	apple	NN	_	9	pobj
+12	in	in	IN	_	6	prep
+13	it	it	PRP	_	12	pobj
+14	as	as	IN	_	6	prep
+15	a	a	DT	_	16	det
+16	gift	gift	NN	_	14	pobj
+17	from	from	IN	_	16	prep
+18	a	a	DT	_	19	det
+19	cousin	cousin	NN	_	17	pobj
+20	.	.	.	_	2	punct
+

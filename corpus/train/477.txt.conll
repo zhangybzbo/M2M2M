@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	clarinet	clarinet	NN	_	3	nsubj
+3	developed	develop	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	recorder	recorder	NN	_	7	nn
+7	family	family	NN	_	4	pobj
+8	,	,	,	_	3	punct
+9	and	and	CC	_	3	cc
+10	is	be	VBZ	_	12	cop
+11	closely	closely	RB	_	12	advmod
+12	related	related	JJ	_	3	conj
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	15	det
+15	saxophone	saxophone	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

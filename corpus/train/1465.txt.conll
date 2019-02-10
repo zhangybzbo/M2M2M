@@ -1,0 +1,22 @@
+1	A	a	DT	_	3	det
+2	sliding	slide	VBG	_	3	amod
+3	knife	knife	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	knife	knife	NN	_	20	nsubj
+7	which	which	WDT	_	9	nsubjpass
+8	is	be	VBZ	_	9	auxpass
+9	opened	open	VBN	_	6	rcmod
+10	by	by	IN	_	9	prep
+11	sliding	slide	VBG	_	10	pcomp
+12	the	the	DT	_	13	det
+13	knife	knife	NN	_	11	dobj
+14	blade	blade	NN	_	13	dep
+15	out	out	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	front	front	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	18	pobj
+20	handle	handle	VBP	_	0	ROOT
+21	.	.	.	_	20	punct
+

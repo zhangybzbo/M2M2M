@@ -1,0 +1,13 @@
+1	Hospitals	hospital	NNS	_	3	nsubj
+2	today	today	NN	_	3	tmod
+3	use	use	VBP	_	0	ROOT
+4	a	a	DT	_	8	det
+5	``	``	``	_	8	punct
+6	blowby	blowby	JJ	_	8	amod
+7	''	''	''	_	8	punct
+8	apparatus	apparatus	NN	_	3	dobj
+9	for	for	IN	_	8	prep
+10	this	this	DT	_	11	det
+11	purpose	purpose	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	Many	many	JJ	_	3	amod
+2	Japanese	japanese	JJ	_	3	amod
+3	companies	company	NNS	_	6	nsubj
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	aux
+6	moving	move	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	developing	develop	VBG	_	9	amod
+9	countries	country	NNS	_	7	pobj
+10	for	for	IN	_	6	prep
+11	cheap	cheap	JJ	_	12	amod
+12	labor	labor	NN	_	10	pobj
+13	.	.	.	_	6	punct
+

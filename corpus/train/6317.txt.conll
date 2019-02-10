@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	various	various	JJ	_	3	amod
+3	sensors	sensor	NNS	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	fuses	fuse	VBZ	_	3	conj
+6	of	of	IN	_	5	prep
+7	this	this	DT	_	9	det
+8	coffeemaker	coffeemaker	NN	_	9	nn
+9	lie	lie	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	white	white	JJ	_	13	amod
+13	sheathing	sheathing	NN	_	10	pobj
+14	bridging	bridge	VBG	_	5	xcomp
+15	the	the	DT	_	17	det
+16	heating	heating	NN	_	17	nn
+17	element	element	NN	_	14	dobj
+18	.	.	.	_	3	punct
+

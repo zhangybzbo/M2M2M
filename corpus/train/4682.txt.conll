@@ -1,0 +1,14 @@
+1	U.S.	U.S.	NNP	_	2	nn
+2	embassy	embassy	NN	_	3	nsubj
+3	participated	participate	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	opening	opening	NN	_	4	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	unique	unique	JJ	_	9	amod
+9	exhibition	exhibition	NN	_	6	pobj
+10	about	about	IN	_	9	prep
+11	general	general	JJ	_	12	amod
+12	Pika	Pika	NNP	_	10	pobj
+13	.	.	.	_	3	punct
+

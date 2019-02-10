@@ -1,0 +1,18 @@
+1	Thus	thus	RB	_	11	advmod
+2	,	,	,	_	11	punct
+3	the	the	DT	_	4	det
+4	interpretation	interpretation	NN	_	11	nsubj
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	battery	battery	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	psychological	psychological	JJ	_	10	amod
+10	tests	test	NNS	_	8	pobj
+11	depends	depend	VBZ	_	0	ROOT
+12	on	on	IN	_	11	prep
+13	who	who	WP	_	16	nsubj
+14	does	do	VBZ	_	16	aux
+15	the	the	DT	_	16	det
+16	interpreting	interpret	VBG	_	12	pcomp
+17	.	.	.	_	11	punct
+

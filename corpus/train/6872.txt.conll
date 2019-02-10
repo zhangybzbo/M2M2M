@@ -1,0 +1,23 @@
+1	After	after	IN	_	14	prep
+2	birth	birth	NN	_	1	pobj
+3	,	,	,	_	2	punct
+4	which	which	WDT	_	6	nsubj
+5	usually	usually	RB	_	6	advmod
+6	takes	take	VBZ	_	2	rcmod
+7	place	place	NN	_	6	dobj
+8	in	in	IN	_	6	prep
+9	shallow	shallow	JJ	_	10	amod
+10	waters	water	NNS	_	8	pobj
+11	,	,	,	_	14	punct
+12	the	the	DT	_	13	det
+13	mother	mother	NN	_	14	nsubj
+14	suckles	suckle	VBZ	_	0	ROOT
+15	her	she	PRP$	_	16	poss
+16	young	young	JJ	_	14	dobj
+17	for	for	IN	_	16	prep
+18	up	up	RB	_	20	quantmod
+19	to	to	TO	_	20	dep
+20	18	18	CD	_	21	num
+21	months	month	NNS	_	17	pobj
+22	.	.	.	_	14	punct
+

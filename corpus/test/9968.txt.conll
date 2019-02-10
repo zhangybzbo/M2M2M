@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	sculpture	sculpture	NN	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	Lawrence	Lawrence	NNP	_	6	nn
+5	J	J	NNP	_	6	nn
+6	Nowlan	Nowlan	NNP	_	3	pobj
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	featured	feature	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	numerous	numerous	JJ	_	12	amod
+12	publications	publication	NNS	_	10	pobj
+13	.	.	.	_	9	punct
+

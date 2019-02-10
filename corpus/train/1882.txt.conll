@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	debtor	debtor	NN	_	3	nsubj
+3	gets	get	VBZ	_	0	ROOT
+4	liens	lien	NNS	_	3	dobj
+5	released	release	VBN	_	4	vmod
+6	on	on	IN	_	5	prep
+7	personal	personal	JJ	_	9	amod
+8	household	household	NN	_	9	nn
+9	possessions	possession	NNS	_	6	pobj
+10	for	for	IN	_	3	prep
+11	much	much	RB	_	12	advmod
+12	less	less	JJR	_	10	pobj
+13	than	than	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	underlying	underlie	VBG	_	16	amod
+16	debt	debt	NN	_	13	pobj
+17	on	on	IN	_	16	prep
+18	those	those	DT	_	20	det
+19	secured	secure	VBN	_	20	amod
+20	possessions	possession	NNS	_	17	pobj
+21	with	with	IN	_	20	prep
+22	redemption	redemption	NN	_	21	pobj
+23	.	.	.	_	3	punct
+

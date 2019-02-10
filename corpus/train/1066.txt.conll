@@ -1,0 +1,18 @@
+1	Mbaka	Mbaka	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	member	member	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	agricultural	agricultural	JJ	_	8	amod
+8	cooperative	cooperative	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	vegetable	vegetable	NN	_	11	nn
+11	producers	producer	NNS	_	9	pobj
+12	in	in	IN	_	4	prep
+13	Kinshasa	Kinshasa	NNP	_	16	poss
+14	's	's	POS	_	13	possessive
+15	Changu	Changu	NNP	_	16	nn
+16	district	district	NN	_	12	pobj
+17	.	.	.	_	4	punct
+

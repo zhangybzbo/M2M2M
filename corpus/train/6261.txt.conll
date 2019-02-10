@@ -1,0 +1,25 @@
+1	Lake	Lake	NNP	_	2	nn
+2	Oswego	Oswego	NNP	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	home	home	NN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	a	a	DT	_	7	det
+7	sord	sord	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	mallards	mallard	NNS	_	8	pobj
+10	who	who	WP	_	11	nsubj
+11	fled	flee	VBD	_	9	rcmod
+12	south	south	RB	_	11	advmod
+13	during	during	IN	_	11	prep
+14	January	January	NNP	_	13	pobj
+15	and	and	CC	_	14	cc
+16	February	February	NNP	_	14	conj
+17	,	,	,	_	4	punct
+18	and	and	CC	_	4	cc
+19	returned	return	VBD	_	4	conj
+20	in	in	IN	_	19	prep
+21	March	March	NNP	_	20	pobj
+22	for	for	IN	_	19	prep
+23	breeding	breed	VBG	_	22	pobj
+24	.	.	.	_	4	punct
+

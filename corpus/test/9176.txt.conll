@@ -1,0 +1,13 @@
+1	Principal	principal	NN	_	2	nsubj
+2	threatens	threaten	VBZ	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	pull	pull	VB	_	2	xcomp
+5	funding	funding	NN	_	4	dobj
+6	from	from	IN	_	4	prep
+7	student	student	NN	_	8	nn
+8	newspaper	newspaper	NN	_	6	pobj
+9	for	for	IN	_	4	prep
+10	covering	cover	VBG	_	9	pcomp
+11	flag-burning	flag-burning	NN	_	10	dobj
+12	.	.	.	_	2	punct
+

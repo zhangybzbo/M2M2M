@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	3	nsubj
+3	completed	complete	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	full	full	JJ	_	6	amod
+6	lap	lap	NN	_	3	dobj
+7	before	before	IN	_	3	prep
+8	being	be	VBG	_	9	auxpass
+9	stopped	stop	VBN	_	7	pcomp
+10	by	by	IN	_	9	prep
+11	guards	guard	NNS	_	10	pobj
+12	,	,	,	_	3	punct
+13	but	but	CC	_	3	cc
+14	he	he	PRP	_	16	nsubj
+15	never	never	RB	_	16	neg
+16	interfered	interfere	VBD	_	3	conj
+17	with	with	IN	_	16	prep
+18	Shorter	shorter	JJR	_	17	pobj
+19	.	.	.	_	3	punct
+

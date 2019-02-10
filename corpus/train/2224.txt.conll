@@ -1,0 +1,11 @@
+1	We	we	PRP	_	2	nsubj
+2	inserted	insert	VBD	_	0	ROOT
+3	marks	mark	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	the	the	DT	_	8	det
+6	heap	heap	NN	_	8	nn
+7	profiling	profiling	NN	_	8	nn
+8	output	output	NN	_	4	pobj
+9	programmatically	programmatically	RB	_	8	advmod
+10	.	.	.	_	2	punct
+

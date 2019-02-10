@@ -1,0 +1,15 @@
+1	A	a	DT	_	2	det
+2	hairdresser	hairdresser	NN	_	3	nsubj
+3	fine-tunes	fine-tune	VBZ	_	0	ROOT
+4	your	you	PRP$	_	6	poss
+5	hair	hair	NN	_	6	nn
+6	color	color	NN	_	3	dobj
+7	without	without	IN	_	3	prep
+8	causing	cause	VBG	_	7	pcomp
+9	excessive	excessive	JJ	_	10	amod
+10	damage	damage	NN	_	8	dobj
+11	by	by	IN	_	8	prep
+12	using	use	VBG	_	11	pcomp
+13	toners	toner	NNS	_	12	dobj
+14	.	.	.	_	3	punct
+

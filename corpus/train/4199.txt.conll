@@ -1,0 +1,18 @@
+1	Mount	Mount	NNP	_	3	nn
+2	the	the	DT	_	3	det
+3	antenna	antenna	NN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	trunk	trunk	NN	_	7	nn
+7	lid	lid	NN	_	4	pobj
+8	,	,	,	_	3	punct
+9	at	at	IN	_	11	quantmod
+10	least	least	JJS	_	9	mwe
+11	3	3	CD	_	12	num
+12	inches	inch	NNS	_	3	appos
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	front	front	JJ	_	16	amod
+16	edge	edge	NN	_	13	pobj
+17	.	.	.	_	3	punct
+

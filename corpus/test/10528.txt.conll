@@ -1,0 +1,26 @@
+1	Social	Social	NNP	_	2	nn
+2	breakdown	breakdown	NN	_	14	nsubj
+3	and	and	CC	_	2	cc
+4	poverty	poverty	NN	_	2	conj
+5	caused	cause	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	civil	civil	JJ	_	8	amod
+8	war	war	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	several	several	JJ	_	12	amod
+11	African	african	JJ	_	12	amod
+12	countries	country	NNS	_	9	pobj
+13	has	have	VBZ	_	14	aux
+14	caused	cause	VBN	_	0	ROOT
+15	further	further	JJ	_	16	amod
+16	increases	increase	NNS	_	14	dobj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	rate	rate	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	prostitution	prostitution	NN	_	20	pobj
+22	in	in	IN	_	19	prep
+23	those	those	DT	_	24	det
+24	countries	country	NNS	_	22	pobj
+25	.	.	.	_	14	punct
+

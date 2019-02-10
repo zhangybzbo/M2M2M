@@ -1,0 +1,15 @@
+1	Characteristics	characteristic	NNS	_	0	ROOT
+2	of	of	IN	_	1	prep
+3	a	a	DT	_	4	det
+4	vacuum	vacuum	NN	_	2	pobj
+5	spark	spark	VB	_	4	amod
+6	triggered	trigger	VBN	_	5	dep
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	13	det
+9	transient	transient	JJ	_	13	amod
+10	hollowcathode	hollowcathode	NN	_	13	nn
+11	discharge	discharge	NN	_	13	nn
+12	electron	electron	NN	_	13	nn
+13	beam	beam	NN	_	7	pobj
+14	.	.	.	_	1	punct
+

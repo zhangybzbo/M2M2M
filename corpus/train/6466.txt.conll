@@ -1,0 +1,20 @@
+1	Butlers	butler	NNS	_	11	nsubjpass
+2	-LRB-	-lrb-	-LRB-	_	4	punct
+3	sometimes	sometimes	RB	_	4	advmod
+4	known	know	VBN	_	1	dep
+5	as	as	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	household	household	NN	_	8	nn
+8	managers	manager	NNS	_	5	pobj
+9	-RRB-	-rrb-	-RRB-	_	4	punct
+10	are	be	VBP	_	11	auxpass
+11	respected	respect	VBN	_	0	ROOT
+12	as	as	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	head	head	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	household	household	NN	_	18	nn
+18	staff	staff	NN	_	15	pobj
+19	.	.	.	_	11	punct
+

@@ -1,0 +1,24 @@
+1	Meurkens	Meurkens	NNP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	11	nsubj
+4	of	of	IN	_	3	prep
+5	those	those	DT	_	7	det
+6	rare	rare	JJ	_	7	amod
+7	musicians	musician	NNS	_	4	pobj
+8	who	who	WP	_	9	nsubj
+9	makes	make	VBZ	_	7	rcmod
+10	you	you	PRP	_	9	dobj
+11	listen	listen	VBP	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	his	he	PRP$	_	14	poss
+14	instrument	instrument	NN	_	12	pobj
+15	-	-	:	_	14	punct
+16	the	the	DT	_	17	det
+17	harmonica	harmonica	NN	_	14	dep
+18	-	-	:	_	17	punct
+19	as	as	IN	_	17	prep
+20	a	a	DT	_	22	det
+21	virtuoso	virtuoso	JJ	_	22	amod
+22	instrument	instrument	NN	_	19	pobj
+23	.	.	.	_	11	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	rope	rope	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	swing	swing	NN	_	3	pobj
+6	makes	make	VBZ	_	0	ROOT
+7	an	a	DT	_	8	det
+8	angle	angle	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	10	10	CD	_	9	pobj
+11	with	with	IN	_	8	prep
+12	the	the	DT	_	14	det
+13	downward	downward	JJ	_	14	amod
+14	vertical	vertical	JJ	_	11	pobj
+15	.	.	.	_	6	punct
+

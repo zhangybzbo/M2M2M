@@ -1,0 +1,20 @@
+1	We	we	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	showed	show	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	presence	presence	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	22:6	22:6	CD	_	6	pobj
+8	-LRB-	-lrb-	-LRB-	_	9	punct
+9	n-3	n-3	NN	_	7	appos
+10	-RRB-	-rrb-	-RRB-	_	9	punct
+11	in	in	IN	_	5	prep
+12	the	the	DT	_	13	det
+13	liver	liver	NN	_	11	pobj
+14	and	and	CC	_	13	cc
+15	brain	brain	NN	_	13	conj
+16	of	of	IN	_	13	prep
+17	weanling	weanling	JJ	_	18	amod
+18	rats	rat	NNS	_	16	pobj
+19	.	.	.	_	3	punct
+

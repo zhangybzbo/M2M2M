@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	customers	customer	NNS	_	4	nsubj
+3	are	be	VBP	_	4	aux
+4	bringing	bring	VBG	_	0	ROOT
+5	snacks	snack	NNS	_	4	dobj
+6	to	to	TO	_	4	prep
+7	the	the	DT	_	9	det
+8	movie	movie	NN	_	9	nn
+9	theaters	theater	NNS	_	6	pobj
+10	.	.	.	_	4	punct
+

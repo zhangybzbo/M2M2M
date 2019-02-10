@@ -1,0 +1,13 @@
+1	An	a	DT	_	3	det
+2	ordinary	ordinary	JJ	_	3	amod
+3	day	day	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	thrown	throw	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	chaos	chaos	NN	_	6	pobj
+8	by	by	IN	_	5	prep
+9	an	a	DT	_	11	det
+10	audacious	audacious	JJ	_	11	amod
+11	crime	crime	NN	_	8	pobj
+12	.	.	.	_	5	punct
+

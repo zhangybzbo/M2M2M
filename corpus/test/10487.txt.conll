@@ -1,0 +1,15 @@
+1	A	a	DT	_	4	det
+2	former	former	JJ	_	4	amod
+3	NHS	NHS	NNP	_	4	nn
+4	worker	worker	NN	_	5	nsubj
+5	revealed	reveal	VBD	_	0	ROOT
+6	that	that	IN	_	11	mark
+7	understaffed	understaffed	JJ	_	9	amod
+8	maternity	maternity	NN	_	9	nn
+9	wards	ward	NNS	_	11	nsubj
+10	are	be	VBP	_	11	aux
+11	sinking	sink	VBG	_	5	ccomp
+12	into	into	IN	_	11	prep
+13	chaos	chaos	NN	_	12	pobj
+14	.	.	.	_	5	punct
+

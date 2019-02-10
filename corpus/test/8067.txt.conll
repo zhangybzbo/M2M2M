@@ -1,0 +1,20 @@
+1	One	one	CD	_	3	num
+2	simple	simple	JJ	_	3	amod
+3	method	method	NN	_	8	nsubj
+4	for	for	IN	_	3	prep
+5	clearing	clear	VBG	_	4	pcomp
+6	small	small	JJ	_	7	amod
+7	clogs	clog	NNS	_	5	dobj
+8	is	be	VBZ	_	0	ROOT
+9	to	to	TO	_	10	aux
+10	use	use	VB	_	8	xcomp
+11	a	a	DT	_	13	det
+12	tried-and-true	tried-and-true	JJ	_	13	amod
+13	combination	combination	NN	_	10	dobj
+14	of	of	IN	_	13	prep
+15	baking	bake	VBG	_	14	pcomp
+16	soda	soda	NN	_	15	dobj
+17	and	and	CC	_	16	cc
+18	vinegar	vinegar	NN	_	16	conj
+19	.	.	.	_	8	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	hive	hive	JJ	_	3	amod
+3	entrances	entrance	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	oriented	orient	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	different	different	JJ	_	8	amod
+8	directions	direction	NNS	_	6	pobj
+9	and	and	CC	_	5	cc
+10	painted	paint	VBN	_	5	conj
+11	with	with	IN	_	10	prep
+12	different	different	JJ	_	13	amod
+13	colors	color	NNS	_	11	pobj
+14	to	to	TO	_	15	aux
+15	reduce	reduce	VB	_	10	xcomp
+16	colony	colony	NN	_	17	nn
+17	drift	drift	NN	_	15	dobj
+18	of	of	IN	_	17	prep
+19	foraging	forage	VBG	_	20	amod
+20	bees	bee	NNS	_	18	pobj
+21	.	.	.	_	5	punct
+

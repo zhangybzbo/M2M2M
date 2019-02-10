@@ -1,0 +1,12 @@
+1	Our	we	PRP$	_	2	poss
+2	ancestors	ancestor	NNS	_	3	nsubj
+3	journeyed	journey	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	unknown	unknown	JJ	_	7	amod
+7	world	world	NN	_	4	pobj
+8	to	to	TO	_	9	aux
+9	find	find	VB	_	3	xcomp
+10	food	food	NN	_	9	dobj
+11	.	.	.	_	3	punct
+

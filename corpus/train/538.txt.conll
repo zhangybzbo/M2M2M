@@ -1,0 +1,11 @@
+1	Too	too	RB	_	2	advmod
+2	often	often	RB	_	6	advmod
+3	,	,	,	_	6	punct
+4	students	student	NNS	_	6	nsubjpass
+5	were	be	VBD	_	6	auxpass
+6	misplaced	misplace	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	alternative	alternative	JJ	_	9	amod
+9	schools	school	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

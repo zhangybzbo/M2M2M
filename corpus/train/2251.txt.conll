@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	defendant	defendant	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	acting	act	VBG	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	his	he	PRP$	_	8	poss
+7	own	own	JJ	_	8	amod
+8	computer	computer	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	London	London	NNP	_	9	pobj
+11	.	.	.	_	4	punct
+

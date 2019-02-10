@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	machine	machine	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	cabinet	cabinet	NN	_	4	pobj
+7	very	very	RB	_	8	advmod
+8	similar	similar	JJ	_	3	dep
+9	to	to	TO	_	8	prep
+10	the	the	DT	_	15	det
+11	type	type	NN	_	15	nn
+12	`	`	``	_	15	punct
+13	A	a	DT	_	15	det
+14	'	'	''	_	15	punct
+15	machines	machine	NNS	_	9	pobj
+16	,	,	,	_	8	punct
+17	and	and	CC	_	8	cc
+18	weighed	weigh	VBD	_	8	conj
+19	95	95	CD	_	20	num
+20	pounds	pound	NNS	_	18	dobj
+21	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	Human	human	JJ	_	3	amod
+2	growth	growth	NN	_	3	nn
+3	hormone	hormone	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	described	describe	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	some	some	DT	_	6	pobj
+8	as	as	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	key	key	NN	_	8	pobj
+11	to	to	TO	_	10	prep
+12	slowing	slow	VBG	_	11	pcomp
+13	the	the	DT	_	15	det
+14	aging	aging	NN	_	15	nn
+15	process	process	NN	_	12	dobj
+16	.	.	.	_	5	punct
+

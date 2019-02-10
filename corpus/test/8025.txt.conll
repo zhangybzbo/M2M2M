@@ -1,0 +1,12 @@
+1	Organic	Organic	NNP	_	3	nn
+2	sesame	sesame	JJ	_	3	amod
+3	oil	oil	NN	_	4	nsubj
+4	has	have	VBZ	_	0	ROOT
+5	an	a	DT	_	10	det
+6	anti-bacterial	anti-bacterial	JJ	_	10	amod
+7	and	and	CC	_	6	cc
+8	anti	anti	JJ	_	6	conj
+9	imflammatory	imflammatory	JJ	_	10	amod
+10	effect	effect	NN	_	4	dobj
+11	.	.	.	_	4	punct
+

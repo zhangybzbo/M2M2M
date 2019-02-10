@@ -1,0 +1,26 @@
+1	At	at	IN	_	6	prep
+2	birth	birth	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	the	the	DT	_	5	det
+5	patient	patient	NN	_	6	nsubj
+6	has	have	VBZ	_	0	ROOT
+7	bilateral	bilateral	JJ	_	9	amod
+8	supernumerary	supernumerary	NN	_	9	nn
+9	nostrils	nostril	NNS	_	6	dobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	13	nsubjpass
+12	were	be	VBD	_	13	auxpass
+13	situated	situate	VBN	_	9	rcmod
+14	above	above	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	normal	normal	JJ	_	17	amod
+17	nostrils	nostril	NNS	_	14	pobj
+18	and	and	CC	_	13	cc
+19	opened	open	VBD	_	13	conj
+20	into	into	IN	_	19	prep
+21	the	the	DT	_	24	det
+22	ipsilateral	ipsilateral	JJ	_	24	amod
+23	nasal	nasal	JJ	_	24	amod
+24	cavities	cavity	NNS	_	20	pobj
+25	.	.	.	_	6	punct
+

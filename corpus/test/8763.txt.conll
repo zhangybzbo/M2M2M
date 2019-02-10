@@ -1,0 +1,24 @@
+1	In	in	IN	_	8	prep
+2	this	this	DT	_	3	det
+3	grotto	grotto	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	boy	boy	NN	_	8	nsubjpass
+6	was	be	VBD	_	8	auxpass
+7	also	also	RB	_	8	advmod
+8	born	bear	VBN	_	0	ROOT
+9	,	,	,	_	8	punct
+10	and	and	CC	_	8	cc
+11	exposed	expose	VBN	_	8	conj
+12	;	;	:	_	8	punct
+13	the	the	DT	_	14	det
+14	mother	mother	NN	_	15	nsubj
+15	leaves	leave	VBZ	_	8	parataxis
+16	the	the	DT	_	17	det
+17	child	child	NN	_	15	dobj
+18	behind	behind	IN	_	15	prep
+19	in	in	IN	_	18	pcomp
+20	a	a	DT	_	22	det
+21	woven	weave	VBN	_	22	amod
+22	basket	basket	NN	_	19	pobj
+23	.	.	.	_	8	punct
+

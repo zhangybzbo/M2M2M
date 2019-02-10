@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	photographer	photographer	NNP	_	3	nsubj
+3	journeyed	journey	VBD	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	America	America	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	heartland	heartland	NN	_	4	pobj
+8	as	as	IN	_	3	prep
+9	a	a	DT	_	11	det
+10	lone	lone	JJ	_	11	amod
+11	artist	artist	NN	_	8	pobj
+12	.	.	.	_	3	punct
+

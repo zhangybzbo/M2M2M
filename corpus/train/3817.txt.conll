@@ -1,0 +1,23 @@
+1	Unlike	unlike	IN	_	11	prep
+2	most	most	JJS	_	4	amod
+3	fall	fall	NN	_	4	nn
+4	days	day	NNS	_	1	pobj
+5	now	now	RB	_	11	advmod
+6	,	,	,	_	11	punct
+7	few	few	JJ	_	9	amod
+8	bird	bird	NN	_	9	nn
+9	watchers	watcher	NNS	_	11	nsubj
+10	were	be	VBD	_	11	cop
+11	present	present	JJ	_	0	ROOT
+12	to	to	TO	_	11	prep
+13	witness	witness	NN	_	12	pobj
+14	the	the	DT	_	16	det
+15	spectacular	spectacular	JJ	_	16	amod
+16	stream	stream	NN	_	13	dep
+17	of	of	IN	_	16	prep
+18	migrating	migrate	VBG	_	19	amod
+19	hawks	hawk	NNS	_	17	pobj
+20	passing	pass	VBG	_	16	vmod
+21	over	over	RP	_	20	prt
+22	.	.	.	_	11	punct
+

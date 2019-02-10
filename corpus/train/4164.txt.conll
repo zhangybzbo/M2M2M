@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	port	port	JJ	_	3	amod
+3	side	side	NN	_	8	nsubjpass
+4	of	of	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	vessel	vessel	NN	_	4	pobj
+7	is	be	VBZ	_	8	auxpass
+8	indicated	indicate	VBN	_	0	ROOT
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	red	red	JJ	_	13	amod
+12	navigation	navigation	NN	_	13	nn
+13	light	light	NN	_	9	pobj
+14	at	at	IN	_	8	prep
+15	night	night	NN	_	14	pobj
+16	.	.	.	_	8	punct
+

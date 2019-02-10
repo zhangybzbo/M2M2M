@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	announced	announce	VBN	_	3	amod
+3	plans	plan	NNS	_	5	nsubj
+4	absolutely	absolutely	RB	_	5	advmod
+5	take	take	VBP	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	account	account	NN	_	6	pobj
+8	the	the	DT	_	9	det
+9	needs	need	NNS	_	5	dobj
+10	of	of	IN	_	9	prep
+11	disabled	disabled	JJ	_	12	amod
+12	people	people	NNS	_	10	pobj
+13	.	.	.	_	5	punct
+

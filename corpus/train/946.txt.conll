@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	brothers	brother	NNS	_	3	nsubj
+3	wrote	write	VBD	_	0	ROOT
+4	this	this	DT	_	5	det
+5	movie	movie	NN	_	3	dobj
+6	after	after	IN	_	3	prep
+7	coming	come	VBG	_	6	pcomp
+8	up	up	RP	_	7	prt
+9	with	with	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	characters	character	NNS	_	9	pobj
+12	.	.	.	_	3	punct
+

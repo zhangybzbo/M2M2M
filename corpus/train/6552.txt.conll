@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	saving	saving	NN	_	16	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	introduction	introduction	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	single	single	JJ	_	9	amod
+9	machine	machine	NN	_	6	pobj
+10	for	for	IN	_	9	prep
+11	flange	flange	NN	_	13	nn
+12	hole	hole	NN	_	13	nn
+13	drilling	drilling	NN	_	10	pobj
+14	was	be	VBD	_	16	cop
+15	15500	15500	CD	_	16	num
+16	rubles	ruble	NNS	_	0	ROOT
+17	.	.	.	_	16	punct
+

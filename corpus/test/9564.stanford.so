@@ -1,0 +1,11 @@
+0	65	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="three" pos="CD" num="t2"
+6	15	tok id="t1" base="different" pos="JJ" amod="t2"
+16	26	tok id="t2" base="storyline" pos="NNS" nsubjpass="t4"
+27	30	tok id="t3" base="be" pos="VBP" auxpass="t4"
+31	39	tok id="t4" base="narrate" pos="VBN" ROOT="ROOT"
+40	42	tok id="t5" base="in" pos="IN" prep="t4"
+43	54	tok id="t6" base="alternate" pos="VBG" amod="t7"
+55	63	tok id="t7" base="chapter" pos="NNS" pobj="t5"
+64	65	tok id="t8" base="-PERIOD-" pos="." punct="t4"
+

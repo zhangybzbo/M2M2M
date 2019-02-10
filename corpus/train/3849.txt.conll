@@ -1,0 +1,11 @@
+1	As	as	IN	_	6	prep
+2	usual	usual	JJ	_	1	pobj
+3	,	,	,	_	6	punct
+4	an	a	DT	_	5	det
+5	asterisk	asterisk	NN	_	6	nsubj
+6	denotes	denote	VBZ	_	0	ROOT
+7	a	a	DT	_	9	det
+8	censored	censor	VBN	_	9	amod
+9	observation	observation	NN	_	6	dobj
+10	.	.	.	_	6	punct
+

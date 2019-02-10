@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj
+2	dragged	drag	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	files	file	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	file	file	NN	_	5	pobj
+8	sharing	share	VBG	_	7	vmod
+9	folder	folder	NN	_	8	dobj
+10	.	.	.	_	2	punct
+

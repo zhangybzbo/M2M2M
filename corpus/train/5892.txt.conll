@@ -1,0 +1,20 @@
+1	Buoyed	buoy	VBN	_	0	ROOT
+2	by	by	IN	_	1	prep
+3	liberal	liberal	JJ	_	4	amod
+4	attitudes	attitude	NNS	_	2	pobj
+5	such	such	JJ	_	6	mwe
+6	as	as	IN	_	4	prep
+7	those	those	DT	_	14	advmod
+8	,	,	,	_	14	punct
+9	politicians	politician	NNS	_	14	nsubj
+10	across	across	IN	_	9	prep
+11	Western	Western	NNP	_	12	nn
+12	Europe	Europe	NNP	_	10	pobj
+13	are	be	VBP	_	14	aux
+14	stepping	step	VBG	_	6	pcomp
+15	out	out	IN	_	14	prep
+16	of	of	IN	_	15	pcomp
+17	the	the	DT	_	18	det
+18	closet	closet	NN	_	16	pobj
+19	.	.	.	_	1	punct
+

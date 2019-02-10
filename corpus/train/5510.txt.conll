@@ -1,0 +1,10 @@
+1	She	she	PRP	_	2	nsubj
+2	delivered	deliver	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	healthy	healthy	JJ	_	5	amod
+5	boy	boy	NN	_	2	dobj
+6	to	to	TO	_	2	prep
+7	this	this	DT	_	8	det
+8	family	family	NN	_	6	pobj
+9	.	.	.	_	2	punct
+

@@ -1,0 +1,17 @@
+1	She	she	PRP	_	3	nsubj
+2	had	have	VBD	_	3	aux
+3	struggled	struggle	VBN	_	0	ROOT
+4	violently	violently	RB	_	3	advmod
+5	with	with	IN	_	3	prep
+6	her	she	PRP$	_	7	poss
+7	attacker	attacker	NN	_	5	pobj
+8	,	,	,	_	7	punct
+9	who	who	WP	_	10	nsubj
+10	killed	kill	VBD	_	7	rcmod
+11	her	she	PRP	_	10	dobj
+12	with	with	IN	_	10	prep
+13	a	a	DT	_	15	det
+14	blunt	blunt	JJ	_	15	amod
+15	instrument	instrument	NN	_	12	pobj
+16	.	.	.	_	3	punct
+

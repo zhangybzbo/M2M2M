@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj
+2	built	build	VBD	_	0	ROOT
+3	this	this	DT	_	4	det
+4	city	city	NN	_	2	dobj
+5	on	on	IN	_	2	prep
+6	rock	rock	NN	_	5	pobj
+7	and	and	CC	_	6	cc
+8	roll	roll	NN	_	6	conj
+9	.	.	.	_	2	punct
+

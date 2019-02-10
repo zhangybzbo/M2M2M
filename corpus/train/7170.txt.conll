@@ -1,0 +1,9 @@
+1	Non-UK	non-uk	JJ	_	2	amod
+2	students	student	NNS	_	3	nsubj
+3	benefit	benefit	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	bursary	bursary	JJ	_	7	amod
+7	scheme	scheme	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

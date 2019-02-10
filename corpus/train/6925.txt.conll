@@ -1,0 +1,16 @@
+1	An	a	DT	_	2	det
+2	explosive	explosive	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	hidden	hide	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	condom	condom	NN	_	5	pobj
+8	or	or	CC	_	7	cc
+9	condom-like	condom-like	JJ	_	10	amod
+10	bag	bag	NN	_	7	conj
+11	just	just	RB	_	12	advmod
+12	below	below	IN	_	4	prep
+13	his	he	PRP$	_	14	poss
+14	torso	torso	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

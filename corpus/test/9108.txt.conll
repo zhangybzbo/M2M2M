@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	second	second	JJ	_	3	amod
+3	hypothesis	hypothesis	NN	_	8	nsubjpass
+4	asserting	assert	VBG	_	3	vmod
+5	economic	economic	JJ	_	6	amod
+6	domination	domination	NN	_	4	dobj
+7	is	be	VBZ	_	8	auxpass
+8	rejected	reject	VBN	_	0	ROOT
+9	,	,	,	_	8	punct
+10	and	and	CC	_	8	cc
+11	the	the	DT	_	14	det
+12	third	third	JJ	_	14	dep
+13	largely	largely	RB	_	14	advmod
+14	accepted	accept	VBN	_	8	conj
+15	.	.	.	_	8	punct
+

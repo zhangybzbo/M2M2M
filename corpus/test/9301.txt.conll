@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	nest	nest	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	hornets	hornet	NNS	_	3	pobj
+5	was	be	VBD	_	6	cop
+6	long	long	JJ	_	0	ROOT
+7	and	and	CC	_	6	cc
+8	uncovered	uncovered	JJ	_	9	amod
+9	externally	externally	RB	_	6	conj
+10	.	.	.	_	6	punct
+

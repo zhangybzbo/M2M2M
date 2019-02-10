@@ -1,0 +1,24 @@
+1	A	a	DT	_	2	det
+2	passenger	passenger	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	taken	take	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	custody	custody	NN	_	5	pobj
+7	after	after	IN	_	4	prep
+8	trying	try	VBG	_	7	pcomp
+9	to	to	TO	_	10	aux
+10	bring	bring	VB	_	8	xcomp
+11	a	a	DT	_	12	det
+12	suitcase	suitcase	NN	_	10	dobj
+13	full	full	JJ	_	12	amod
+14	of	of	IN	_	13	prep
+15	cocaine	cocaine	NN	_	14	pobj
+16	onto	onto	IN	_	13	prep
+17	a	a	DT	_	18	det
+18	plane	plane	NN	_	16	pobj
+19	at	at	IN	_	18	prep
+20	Philadelphia	Philadelphia	NNP	_	22	nn
+21	International	International	NNP	_	22	nn
+22	Airport	Airport	NNP	_	19	pobj
+23	.	.	.	_	4	punct
+

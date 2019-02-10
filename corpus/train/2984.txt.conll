@@ -1,0 +1,25 @@
+1	While	while	IN	_	3	mark
+2	we	we	PRP	_	3	nsubj
+3	transferred	transfer	VBD	_	11	advcl
+4	our	we	PRP$	_	5	poss
+5	gear	gear	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	saddlebags	saddlebag	NNS	_	6	pobj
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	wranglers	wrangler	NNS	_	11	nsubj
+11	roped	rope	VBD	_	0	ROOT
+12	and	and	CC	_	11	cc
+13	saddled	saddle	VBD	_	11	conj
+14	horses	horse	NNS	_	13	dobj
+15	from	from	IN	_	13	prep
+16	the	the	DT	_	17	det
+17	remuda	remuda	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	scrubby	scrubby	NN	_	18	pobj
+20	,	,	,	_	19	punct
+21	short-legged	short-legged	JJ	_	23	amod
+22	Mexican	mexican	JJ	_	23	amod
+23	ponies	pony	NNS	_	19	appos
+24	.	.	.	_	11	punct
+

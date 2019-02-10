@@ -1,0 +1,27 @@
+1	Designed	design	VBN	_	10	vmod
+2	for	for	IN	_	1	prep
+3	light	light	JJ	_	4	amod
+4	chewers	chewer	NNS	_	2	pobj
+5	,	,	,	_	10	punct
+6	this	this	DT	_	8	det
+7	colorful	colorful	JJ	_	8	amod
+8	toy	toy	NN	_	10	nsubjpass
+9	is	be	VBZ	_	10	auxpass
+10	made	make	VBN	_	0	ROOT
+11	with	with	IN	_	10	prep
+12	little	little	JJ	_	14	amod
+13	vine	vine	NN	_	14	nn
+14	rings	ring	NNS	_	11	pobj
+15	that	that	WDT	_	16	nsubj
+16	slide	slide	VBP	_	14	rcmod
+17	between	between	IN	_	16	prep
+18	wood	wood	NN	_	19	nn
+19	balls	ball	NNS	_	17	pobj
+20	joined	join	VBN	_	19	vmod
+21	together	together	RB	_	20	advmod
+22	with	with	IN	_	20	prep
+23	wooden	wooden	JJ	_	24	amod
+24	craft	craft	NN	_	22	pobj
+25	sticks	stick	VBZ	_	10	dep
+26	.	.	.	_	10	punct
+

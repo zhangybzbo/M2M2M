@@ -1,0 +1,18 @@
+1	Scientists	scientist	NNS	_	3	nsubj
+2	recently	recently	RB	_	3	advmod
+3	succeeded	succeed	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	wiping	wipe	VBG	_	4	pcomp
+6	out	out	RP	_	5	prt
+7	a	a	DT	_	9	det
+8	nasty	nasty	JJ	_	9	amod
+9	memory	memory	NN	_	5	dobj
+10	from	from	IN	_	5	prep
+11	the	the	DT	_	12	det
+12	mind	mind	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	genetically-engineered	genetically-engineered	JJ	_	16	amod
+16	mouse	mouse	NN	_	13	pobj
+17	.	.	.	_	3	punct
+

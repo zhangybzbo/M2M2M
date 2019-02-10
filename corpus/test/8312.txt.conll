@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	colors	color	NNS	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	rainbow	rainbow	NN	_	3	pobj
+6	are	be	VBP	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	dispersion	dispersion	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	light	light	NN	_	11	pobj
+13	as	as	IN	_	15	mark
+14	it	it	PRP	_	15	nsubj
+15	passes	pass	VBZ	_	7	advcl
+16	through	through	IN	_	15	prep
+17	a	a	DT	_	18	det
+18	prism	prism	NN	_	16	pobj
+19	.	.	.	_	7	punct
+

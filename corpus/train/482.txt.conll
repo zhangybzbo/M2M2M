@@ -1,0 +1,18 @@
+1	Then	then	RB	_	3	advmod
+2	there	there	EX	_	3	expl
+3	's	be	VBZ	_	0	ROOT
+4	Labour	labour	NN	_	3	nsubj
+5	-	-	:	_	4	punct
+6	where	where	WRB	_	8	advmod
+7	negotiations	negotiation	NNS	_	8	nsubj
+8	are	be	VBP	_	4	rcmod
+9	under	under	IN	_	8	prep
+10	way	way	NN	_	9	pobj
+11	on	on	IN	_	8	prep
+12	issues	issue	NNS	_	11	pobj
+13	such	such	JJ	_	14	mwe
+14	as	as	IN	_	12	prep
+15	apprentice	apprentice	NN	_	16	nn
+16	training	training	NN	_	14	pobj
+17	.	.	.	_	3	punct
+

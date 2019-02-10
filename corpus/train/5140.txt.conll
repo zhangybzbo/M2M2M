@@ -1,0 +1,14 @@
+1	He	he	PRP	_	2	nsubj
+2	pushed	push	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	rivet	rivet	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	cable	cable	NN	_	8	nn
+8	strap	strap	NN	_	5	pobj
+9	back	back	RB	_	2	advmod
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	hole	hole	NN	_	10	pobj
+13	.	.	.	_	2	punct
+

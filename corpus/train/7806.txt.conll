@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	materials	material	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	produced	produce	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	mixing	mix	VBG	_	5	pcomp
+7	the	the	DT	_	8	det
+8	constituents	constituent	NNS	_	6	dobj
+9	and	and	CC	_	6	cc
+10	processing	process	VBG	_	6	conj
+11	them	they	PRP	_	10	dobj
+12	through	through	IN	_	10	prep
+13	a	a	DT	_	15	det
+14	press/sinter	press/sinter	NN	_	15	nn
+15	cycle	cycle	NN	_	12	pobj
+16	to	to	TO	_	17	aux
+17	produce	produce	VB	_	10	vmod
+18	a	a	DT	_	20	det
+19	consolidated	consolidated	JJ	_	20	amod
+20	material	material	NN	_	17	dobj
+21	.	.	.	_	4	punct
+

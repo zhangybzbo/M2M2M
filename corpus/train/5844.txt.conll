@@ -1,0 +1,22 @@
+1	It	it	PRP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	the	the	DT	_	4	det
+4	destruction	destruction	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	gold	gold	JJ	_	8	amod
+8	standard	standard	NN	_	5	pobj
+9	by	by	IN	_	4	prep
+10	the	the	DT	_	11	det
+11	government	government	NN	_	9	pobj
+12	that	that	WDT	_	13	nsubj
+13	caused	cause	VBD	_	11	rcmod
+14	the	the	DT	_	16	det
+15	unprecedented	unprecedented	JJ	_	16	amod
+16	collapse	collapse	NN	_	13	dobj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	world	world	NN	_	20	nn
+20	economy	economy	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

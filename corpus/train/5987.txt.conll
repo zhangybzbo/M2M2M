@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	ashes	ash	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	jar	jar	NN	_	5	pobj
+8	and	and	CC	_	2	cc
+9	divided	divide	VBN	_	2	conj
+10	them	they	PRP	_	9	dobj
+11	equally	equally	RB	_	9	advmod
+12	into	into	IN	_	9	prep
+13	eight	eight	CD	_	14	num
+14	portions	portion	NNS	_	12	pobj
+15	.	.	.	_	2	punct
+

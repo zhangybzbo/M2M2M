@@ -1,0 +1,18 @@
+1	Eventually	eventually	RB	_	3	advmod
+2	Britannica	Britannica	NNP	_	3	nsubj
+3	put	put	VBN	_	0	ROOT
+4	together	together	RB	_	3	advmod
+5	a	a	DT	_	7	det
+6	CD	CD	NNP	_	7	nn
+7	product	product	NN	_	3	dobj
+8	with	with	IN	_	3	prep
+9	only	only	RB	_	11	advmod
+10	the	the	DT	_	11	det
+11	text	text	NN	_	8	pobj
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	encyclopedia	encyclopedia	NN	_	12	pobj
+15	on	on	IN	_	3	prep
+16	it	it	PRP	_	15	pobj
+17	.	.	.	_	3	punct
+

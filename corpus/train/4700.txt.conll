@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	purpose	purpose	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	report	report	NN	_	3	pobj
+6	is	be	VBZ	_	0	ROOT
+7	to	to	TO	_	8	aux
+8	present	present	VB	_	6	xcomp
+9	an	a	DT	_	11	det
+10	unusual	unusual	JJ	_	11	amod
+11	case	case	NN	_	8	dobj
+12	of	of	IN	_	11	prep
+13	hepatic	hepatic	JJ	_	14	amod
+14	abscess	abscess	NN	_	12	pobj
+15	due	due	JJ	_	11	amod
+16	to	to	TO	_	15	prep
+17	infestation	infestation	NN	_	16	pobj
+18	by	by	IN	_	17	prep
+19	Endamoeba	endamoeba	FW	_	20	nn
+20	histolytica	histolytica	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

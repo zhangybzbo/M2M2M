@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det
+2	telescope	telescope	NN	_	3	nsubj
+3	assists	assist	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	eye	eye	NN	_	3	dobj
+6	chiefly	chiefly	RB	_	3	advmod
+7	in	in	IN	_	3	prep
+8	two	two	CD	_	9	num
+9	ways	way	NNS	_	7	pobj
+10	.	.	.	_	3	punct
+

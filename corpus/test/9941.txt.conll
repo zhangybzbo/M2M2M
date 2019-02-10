@@ -1,0 +1,18 @@
+1	Then	then	RB	_	3	advmod
+2	he	he	PRP	_	3	nsubj
+3	put	put	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	forkful	forkful	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	his	he	PRP$	_	8	poss
+8	mouth	mouth	NN	_	6	pobj
+9	,	,	,	_	3	punct
+10	chewing	chew	VBG	_	3	vmod
+11	with	with	IN	_	10	prep
+12	discernment	discernment	NN	_	16	nn
+13	the	the	DT	_	16	det
+14	toothsome	toothsome	JJ	_	16	amod
+15	pliant	pliant	JJ	_	16	amod
+16	meat	meat	NN	_	11	pobj
+17	.	.	.	_	3	punct
+

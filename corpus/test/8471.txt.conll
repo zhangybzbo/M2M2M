@@ -1,0 +1,12 @@
+1	Even	even	RB	_	3	advmod
+2	nuclear	nuclear	JJ	_	3	amod
+3	energy	energy	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	among	among	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	causes	cause	NNS	_	5	pobj
+8	of	of	IN	_	7	prep
+9	water	water	NN	_	10	nn
+10	pollution	pollution	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	Researchers	researcher	NNS	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	compound	compound	NN	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	tube	tube	NN	_	5	pobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	12	nsubjpass
+10	then	then	RB	_	12	advmod
+11	was	be	VBD	_	12	auxpass
+12	put	put	VBN	_	7	rcmod
+13	inside	inside	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	magnet	magnet	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+0	50	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	9	tok id="t1" base="plain" pos="JJ" amod="t3"
+10	14	tok id="t2" base="http" pos="NN" nn="t3"
+15	22	tok id="t3" base="request" pos="NN" nsubjpass="t5"
+23	26	tok id="t4" base="be" pos="VBD" auxpass="t5"
+27	31	tok id="t5" base="send" pos="VBN" ROOT="ROOT"
+32	34	tok id="t6" base="to" pos="TO" prep="t5"
+35	37	tok id="t7" base="a" pos="DT" det="t9"
+38	43	tok id="t8" base="HTTPS" pos="NNP" nn="t9"
+44	48	tok id="t9" base="port" pos="NN" pobj="t6"
+49	50	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

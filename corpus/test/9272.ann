@@ -1,0 +1,3 @@
+T1	Term 50 55	steps
+T2	Term 63 69	ladder
+R1	Component-Whole Arg1:T1 Arg2:T2

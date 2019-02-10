@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	theory	theory	NN	_	3	nsubj
+3	explained	explain	VBD	_	0	ROOT
+4	low-temperature	low-temperature	JJ	_	5	amod
+5	superconductivity	superconductivity	NN	_	3	dobj
+6	almost	almost	RB	_	7	quantmod
+7	50	50	CD	_	8	num
+8	years	year	NNS	_	9	npadvmod
+9	after	after	IN	_	3	prep
+10	its	its	PRP$	_	11	poss
+11	discovery	discovery	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

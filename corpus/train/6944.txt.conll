@@ -1,0 +1,8 @@
+1	Two	two	CD	_	3	num
+2	other	other	JJ	_	3	amod
+3	teens	teens	NNS	_	4	nsubj
+4	ran	run	VBD	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	snags	snag	NNS	_	5	pobj
+7	.	.	.	_	4	punct
+

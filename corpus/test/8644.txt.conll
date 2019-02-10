@@ -1,0 +1,24 @@
+1	There	there	EX	_	2	expl
+2	were	be	VBD	_	0	ROOT
+3	no	no	DT	_	5	neg
+4	vegetarian	vegetarian	JJ	_	5	amod
+5	entrees	entree	NNS	_	2	nsubj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	menu	menu	NN	_	6	pobj
+9	,	,	,	_	2	punct
+10	but	but	CC	_	2	cc
+11	the	the	DT	_	12	det
+12	kitchen	kitchen	NN	_	14	nsubj
+13	quickly	quickly	RB	_	14	advmod
+14	prepared	prepare	VBD	_	2	conj
+15	a	a	DT	_	17	det
+16	beautiful	beautiful	JJ	_	17	amod
+17	meal	meal	NN	_	14	dobj
+18	of	of	IN	_	17	prep
+19	8	8	CD	_	22	num
+20	different	different	JJ	_	22	amod
+21	steamed	steamed	JJ	_	22	amod
+22	vegetables	vegetable	NNS	_	18	pobj
+23	.	.	.	_	2	punct
+

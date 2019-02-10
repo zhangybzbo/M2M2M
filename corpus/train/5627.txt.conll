@@ -1,0 +1,18 @@
+1	These	these	DT	_	2	det
+2	tests	test	NNS	_	6	nsubj
+3	are	be	VBP	_	6	cop
+4	a	a	DT	_	6	det
+5	major	major	JJ	_	6	amod
+6	theme	theme	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	book	book	NN	_	7	pobj
+10	,	,	,	_	6	punct
+11	so	so	IN	_	14	mark
+12	it	it	PRP	_	14	nsubj
+13	is	be	VBZ	_	14	cop
+14	worth	worth	JJ	_	6	advcl
+15	investigating	investigate	VBG	_	14	dep
+16	them	they	PRP	_	15	dobj
+17	.	.	.	_	6	punct
+

@@ -1,0 +1,13 @@
+1	All	all	DT	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	data	datum	NNS	_	2	pobj
+5	is	be	VBZ	_	6	auxpass
+6	stored	store	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	11	det
+9	Microsoft	Microsoft	NNP	_	11	nn
+10	Access	access	NN	_	11	nn
+11	database	database	NN	_	7	pobj
+12	.	.	.	_	6	punct
+

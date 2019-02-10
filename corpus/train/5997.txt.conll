@@ -1,0 +1,8 @@
+1	Anger	anger	NN	_	2	nsubj
+2	leads	lead	VBZ	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	aggressions	aggression	NNS	_	3	pobj
+5	towards	towards	IN	_	4	prep
+6	colleagues	colleague	NNS	_	5	pobj
+7	.	.	.	_	2	punct
+

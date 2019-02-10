@@ -1,0 +1,19 @@
+1	Prior	prior	RB	_	7	advmod
+2	to	to	TO	_	1	prep
+3	the	the	DT	_	4	det
+4	4004	4004	CD	_	2	pobj
+5	,	,	,	_	7	punct
+6	engineers	engineer	NNS	_	7	nsubj
+7	built	build	VBN	_	0	ROOT
+8	computers	computer	NNS	_	7	dobj
+9	either	either	CC	_	7	advmod
+10	from	from	IN	_	9	prep
+11	collections	collection	NNS	_	10	pobj
+12	of	of	IN	_	11	prep
+13	chips	chip	NNS	_	12	pobj
+14	or	or	CC	_	10	cc
+15	from	from	IN	_	10	conj
+16	discrete	discrete	JJ	_	17	amod
+17	components	component	NNS	_	15	pobj
+18	.	.	.	_	7	punct
+

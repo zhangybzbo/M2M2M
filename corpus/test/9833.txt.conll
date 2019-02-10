@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det
+2	UN	UN	NNP	_	3	nn
+3	team	team	NN	_	0	ROOT
+4	for	for	IN	_	3	prep
+5	recovery	recovery	NN	_	4	pobj
+6	after	after	IN	_	11	mark
+7	the	the	DT	_	8	det
+8	tsunami	tsunami	NN	_	11	nsubj
+9	in	in	IN	_	8	prep
+10	India	India	NNP	_	9	pobj
+11	nominated	nominate	VBD	_	3	advcl
+12	the	the	DT	_	13	dep
+13	WHO	who	WP	_	11	dep
+14	.	.	.	_	3	punct
+

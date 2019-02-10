@@ -1,0 +1,11 @@
+1	He	he	PRP	_	2	nsubj
+2	dumped	dump	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	pineapple	pineapple	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	9	det
+7	ungreased	ungreased	JJ	_	9	amod
+8	cake	cake	NN	_	9	nn
+9	pan	pan	NN	_	5	pobj
+10	.	.	.	_	2	punct
+

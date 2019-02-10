@@ -1,0 +1,27 @@
+1	Around	around	IN	_	9	prep
+2	the	the	DT	_	3	det
+3	globe	globe	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	unique	unique	JJ	_	8	amod
+6	and	and	CC	_	5	cc
+7	fascinating	fascinating	JJ	_	5	conj
+8	species	species	NNS	_	9	nsubj
+9	face	face	VBP	_	0	ROOT
+10	extinction	extinction	NN	_	9	dobj
+11	from	from	IN	_	10	prep
+12	hunting	hunting	NN	_	11	pobj
+13	and	and	CC	_	12	cc
+14	habitat	habitat	NN	_	15	nn
+15	destruction	destruction	NN	_	12	conj
+16	,	,	,	_	10	punct
+17	which	which	WDT	_	18	nsubj
+18	affects	affect	VBZ	_	10	rcmod
+19	vulnerable	vulnerable	JJ	_	20	amod
+20	animals	animal	NNS	_	18	dobj
+21	in	in	IN	_	18	prep
+22	every	every	DT	_	23	det
+23	kind	kind	NN	_	21	pobj
+24	of	of	IN	_	23	prep
+25	environment	environment	NN	_	24	pobj
+26	.	.	.	_	9	punct
+

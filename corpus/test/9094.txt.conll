@@ -1,0 +1,20 @@
+1	It	it	PRP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	common	common	JJ	_	6	amod
+5	informal	informal	JJ	_	6	amod
+6	convention	convention	NN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	reserve	reserve	NN	_	7	pobj
+9	or	or	CC	_	6	cc
+10	declare	declare	VB	_	6	conj
+11	full	full	JJ	_	14	amod
+12	or	or	CC	_	11	cc
+13	partial	partial	JJ	_	11	conj
+14	ownership	ownership	NN	_	10	dobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	community	community	NN	_	18	nn
+18	resource	resource	NN	_	15	pobj
+19	.	.	.	_	6	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	student	student	NN	_	13	nsubj
+3	who	who	WP	_	4	nsubj
+4	fell	fall	VBD	_	2	rcmod
+5	from	from	IN	_	4	prep
+6	an	a	DT	_	9	det
+7	Olson	Olson	NNP	_	9	nn
+8	Hall	Hall	NNP	_	9	nn
+9	window	window	NN	_	5	pobj
+10	in	in	IN	_	4	prep
+11	October	October	NNP	_	10	pobj
+12	was	be	VBD	_	13	cop
+13	alone	alone	RB	_	0	ROOT
+14	in	in	IN	_	13	prep
+15	his	he	PRP$	_	16	poss
+16	room	room	NN	_	14	pobj
+17	.	.	.	_	13	punct
+

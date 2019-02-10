@@ -1,0 +1,14 @@
+1	Employees	employee	NNS	_	2	nsubj
+2	wear	wear	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	sharee	sharee	NN	_	2	dobj
+5	as	as	IN	_	2	prep
+6	its	its	PRP$	_	8	poss
+7	a	a	DT	_	8	det
+8	sign	sign	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	formal	formal	JJ	_	12	amod
+11	dresss	dresss	NN	_	12	nn
+12	code	code	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

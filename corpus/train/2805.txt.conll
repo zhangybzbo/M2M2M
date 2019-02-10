@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	present	present	JJ	_	3	amod
+3	study	study	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	concerned	concern	VBN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	retrieval	retrieval	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	semantic	semantic	JJ	_	12	amod
+12	information	information	NN	_	10	pobj
+13	.	.	.	_	6	punct
+

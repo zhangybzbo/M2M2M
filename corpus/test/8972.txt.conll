@@ -1,0 +1,25 @@
+1	The	the	DT	_	19	nsubjpass
+2	straight	straight	JJ	_	8	advmod
+3	,	,	,	_	8	punct
+4	blue	blue	JJ	_	6	amod
+5	ion	ion	NN	_	6	nn
+6	tail	tail	NN	_	8	nsubjpass
+7	is	be	VBZ	_	8	auxpass
+8	caused	cause	VBN	_	19	csubjpass
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	solar	solar	JJ	_	12	amod
+12	wind	wind	NN	_	9	pobj
+13	and	and	CC	_	12	cc
+14	the	the	DT	_	17	det
+15	curved	curved	JJ	_	17	amod
+16	dust	dust	NN	_	17	nn
+17	tail	tail	NN	_	12	conj
+18	is	be	VBZ	_	19	auxpass
+19	caused	cause	VBN	_	0	ROOT
+20	by	by	IN	_	19	prep
+21	solar	solar	JJ	_	23	amod
+22	radiation	radiation	NN	_	23	nn
+23	pressure	pressure	NN	_	20	pobj
+24	.	.	.	_	19	punct
+

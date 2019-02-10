@@ -1,0 +1,10 @@
+1	Jars	jar	NNS	_	4	nsubjpass
+2	were	be	VBD	_	4	auxpass
+3	then	then	RB	_	4	advmod
+4	placed	place	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	three	three	CD	_	8	num
+7	separate	separate	JJ	_	8	amod
+8	cages	cage	NNS	_	5	pobj
+9	.	.	.	_	4	punct
+

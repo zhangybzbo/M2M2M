@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	computer	computer	NN	_	3	nn
+3	mouse	mouse	NN	_	8	nsubj
+4	has	have	VBZ	_	8	aux
+5	been	be	VBN	_	8	cop
+6	the	the	DT	_	8	det
+7	input	input	NN	_	8	nn
+8	device	device	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	choice	choice	NN	_	9	pobj
+11	for	for	IN	_	8	prep
+12	a	a	DT	_	14	det
+13	long	long	JJ	_	14	amod
+14	time	time	NN	_	11	pobj
+15	now	now	RB	_	16	advmod
+16	in	in	IN	_	14	prep
+17	the	the	DT	_	19	det
+18	computer	computer	NN	_	19	nn
+19	world	world	NN	_	16	pobj
+20	.	.	.	_	8	punct
+

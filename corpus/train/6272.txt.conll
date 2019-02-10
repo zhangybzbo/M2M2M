@@ -1,0 +1,15 @@
+1	Reducing	reduce	VBG	_	13	csubj
+2	the	the	DT	_	3	det
+3	harm	harm	NN	_	1	dobj
+4	caused	cause	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	War	war	NN	_	5	pobj
+8	on	on	IN	_	7	prep
+9	Drugs	drug	NNS	_	8	pobj
+10	is	be	VBZ	_	13	cop
+11	a	a	DT	_	13	det
+12	big	big	JJ	_	13	amod
+13	task	task	NN	_	0	ROOT
+14	.	.	.	_	13	punct
+

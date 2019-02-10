@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	products	product	NNS	_	12	nsubjpass
+3	of	of	IN	_	2	prep
+4	business	business	NN	_	5	nn
+5	entity	entity	NN	_	3	pobj
+6	within	within	IN	_	2	prep
+7	the	the	DT	_	10	det
+8	export	export	NN	_	10	nn
+9	processing	processing	NN	_	10	nn
+10	zone	zone	NN	_	6	pobj
+11	are	be	VBP	_	12	auxpass
+12	shipped	ship	VBN	_	0	ROOT
+13	to	to	TO	_	12	prep
+14	non-bonded	non-bonded	JJ	_	15	amod
+15	areas	area	NNS	_	13	pobj
+16	.	.	.	_	12	punct
+

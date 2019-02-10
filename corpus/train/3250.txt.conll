@@ -1,0 +1,26 @@
+1	Brutality	brutality	NN	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	an	a	DT	_	5	det
+4	intrinsic	intrinsic	JJ	_	5	amod
+5	part	part	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	plantation	plantation	NN	_	8	nn
+8	life	life	NN	_	6	pobj
+9	and	and	CC	_	5	cc
+10	no	no	DT	_	11	neg
+11	child	child	NN	_	5	conj
+12	,	,	,	_	5	punct
+13	however	however	RB	_	19	advmod
+14	privileged	privileged	JJ	_	19	dep
+15	or	or	CC	_	14	cc
+16	protected	protected	JJ	_	14	conj
+17	,	,	,	_	19	punct
+18	could	could	MD	_	19	aux
+19	escape	escape	VB	_	5	dep
+20	its	its	PRP$	_	21	poss
+21	ugliness	ugliness	NN	_	19	dobj
+22	or	or	CC	_	19	cc
+23	it	it	PRP	_	24	nsubj
+24	savagery	savagery	NN	_	19	conj
+25	.	.	.	_	5	punct
+

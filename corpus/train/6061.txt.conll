@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	disparity	disparity	NN	_	3	nsubj
+3	became	become	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	topic	topic	NN	_	3	xcomp
+6	for	for	IN	_	5	prep
+7	her	she	PRP$	_	9	poss
+8	doctoral	doctoral	JJ	_	9	amod
+9	dissertation	dissertation	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

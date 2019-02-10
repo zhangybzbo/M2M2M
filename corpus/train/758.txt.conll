@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	waste	waste	NN	_	14	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	5	det
+5	mixture	mixture	NN	_	2	appos
+6	of	of	IN	_	5	prep
+7	gasoline	gasoline	NN	_	6	pobj
+8	,	,	,	_	7	punct
+9	water	water	NN	_	7	conj
+10	and	and	CC	_	7	cc
+11	caustic	caustic	JJ	_	12	amod
+12	soda	soda	NN	_	7	conj
+13	,	,	,	_	2	punct
+14	gave	give	VBD	_	0	ROOT
+15	off	off	RP	_	14	prt
+16	toxic	toxic	JJ	_	17	amod
+17	fumes	fume	VBZ	_	14	dobj
+18	.	.	.	_	14	punct
+

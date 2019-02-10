@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	exhibition	exhibition	NN	_	3	nsubj
+3	considers	consider	VBZ	_	0	ROOT
+4	tea	tea	NN	_	7	poss
+5	's	's	POS	_	4	possessive
+6	mythic	mythic	JJ	_	7	amod
+7	origins	origin	NNS	_	3	dobj
+8	in	in	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	hills	hill	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	southern	southern	JJ	_	13	amod
+13	China	China	NNP	_	11	pobj
+14	.	.	.	_	3	punct
+

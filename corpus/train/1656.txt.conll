@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	system	system	NN	_	0	ROOT
+3	combined	combine	VBN	_	2	vmod
+4	the	the	DT	_	6	det
+5	hierarchical	hierarchical	JJ	_	6	amod
+6	structure	structure	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	decision	decision	NN	_	9	nn
+9	trees	tree	NNS	_	7	pobj
+10	with	with	IN	_	6	prep
+11	a	a	DT	_	14	det
+12	clean	clean	JJ	_	14	amod
+13	probabilistic	probabilistic	JJ	_	14	amod
+14	semantics	semantics	NNS	_	10	pobj
+15	.	.	.	_	2	punct
+

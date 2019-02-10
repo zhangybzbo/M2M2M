@@ -1,0 +1,12 @@
+1	Hundreds	hundred	NNS	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	bomb	bomb	NN	_	2	pobj
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	dropped	drop	VBN	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	target	target	NN	_	10	nn
+10	region	region	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

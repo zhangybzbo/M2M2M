@@ -1,0 +1,1 @@
+The acoustic test is where we put the spacecraft in a sound chamber and blast it with over 140 decibels of noise for at least a full minute to simulate what it is going to experience during the launch .

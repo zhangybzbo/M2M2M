@@ -1,0 +1,21 @@
+1	Sigmoid	sigmoid	JJ	_	3	amod
+2	colon	colon	NN	_	3	nn
+3	diverticulitis	diverticulitis	NN	_	8	nsubj
+4	is	be	VBZ	_	8	cop
+5	the	the	DT	_	8	det
+6	most	most	RBS	_	7	advmod
+7	common	common	JJ	_	8	amod
+8	cause	cause	NN	_	0	ROOT
+9	of	of	IN	_	8	prep
+10	acute	acute	JJ	_	11	amod
+11	pain	pain	NN	_	9	pobj
+12	in	in	IN	_	8	prep
+13	the	the	DT	_	16	det
+14	left	leave	VBN	_	16	amod
+15	lower	lower	JJR	_	16	amod
+16	abdomen	abdomen	NNS	_	12	pobj
+17	in	in	IN	_	16	prep
+18	older	older	JJR	_	19	amod
+19	adults	adult	NNS	_	17	pobj
+20	.	.	.	_	8	punct
+

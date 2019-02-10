@@ -1,0 +1,3 @@
+T1	Term 30 40	fraternity
+T2	Term 52 60	sections
+R1	Member-Collection Arg1:T2 Arg2:T1

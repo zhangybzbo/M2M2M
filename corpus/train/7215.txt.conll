@@ -1,0 +1,12 @@
+1	Colorful	colorful	JJ	_	7	advmod
+2	,	,	,	_	7	punct
+3	almost	almost	RB	_	4	advmod
+4	fat-free	fat-free	JJ	_	6	amod
+5	salad	salad	NN	_	6	nn
+6	dressings	dressing	NNS	_	7	nsubj
+7	start	start	VBP	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	fresh	fresh	JJ	_	10	amod
+10	fruit	fruit	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

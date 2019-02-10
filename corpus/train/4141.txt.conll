@@ -1,0 +1,18 @@
+1	They	they	PRP	_	0	ROOT
+2	're	be	VBP	_	1	rcmod
+3	as	as	IN	_	2	prep
+4	artful	artful	JJ	_	3	pobj
+5	as	as	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	cartload	cartload	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	monkeys	monkey	NNS	_	8	pobj
+10	when	when	WRB	_	12	advmod
+11	it	it	PRP	_	12	nsubj
+12	comes	come	VBZ	_	2	advcl
+13	to	to	TO	_	12	prep
+14	breaking	break	VBG	_	13	pcomp
+15	the	the	DT	_	16	det
+16	rules	rule	NNS	_	14	dobj
+17	.	.	.	_	1	punct
+

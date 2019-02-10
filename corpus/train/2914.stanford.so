@@ -1,0 +1,11 @@
+0	50	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="bacterium" pos="NN" nsubj="t3"
+14	16	tok id="t2" base="be" pos="VBZ" aux="t3"
+17	26	tok id="t3" base="spread" pos="VBG" ROOT="ROOT"
+27	31	tok id="t4" base="into" pos="IN" prep="t3"
+32	35	tok id="t5" base="the" pos="DT" det="t7"
+36	41	tok id="t6" base="stalk" pos="NN" nn="t7"
+42	48	tok id="t7" base="tissue" pos="NN" pobj="t4"
+49	50	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

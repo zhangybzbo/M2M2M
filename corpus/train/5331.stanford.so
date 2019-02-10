@@ -1,0 +1,13 @@
+0	69	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	13	tok id="t1" base="corporate" pos="JJ" amod="t2"
+14	23	tok id="t2" base="regulator" pos="NN" nsubjpass="t5"
+24	27	tok id="t3" base="have" pos="VBZ" aux="t5"
+28	32	tok id="t4" base="be" pos="VBN" auxpass="t5"
+33	40	tok id="t5" base="drag" pos="VBN" ROOT="ROOT"
+41	45	tok id="t6" base="into" pos="IN" prep="t5"
+46	56	tok id="t7" base="undertaker" pos="NN" poss="t9"
+57	59	tok id="t8" base="'s" pos="POS" possessive="t7"
+60	67	tok id="t9" base="inquiry" pos="NN" pobj="t6"
+68	69	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

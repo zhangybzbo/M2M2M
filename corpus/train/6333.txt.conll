@@ -1,0 +1,18 @@
+1	You	you	PRP	_	2	nsubj
+2	are	be	VBP	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	committee	committee	NN	_	3	pobj
+6	to	to	TO	_	7	aux
+7	select	select	VB	_	2	xcomp
+8	a	a	DT	_	9	det
+9	slate	slate	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	officers	officer	NNS	_	10	pobj
+12	for	for	IN	_	7	prep
+13	the	the	DT	_	16	det
+14	next	next	JJ	_	16	amod
+15	academic	academic	JJ	_	16	amod
+16	year	year	NN	_	12	pobj
+17	.	.	.	_	2	punct
+

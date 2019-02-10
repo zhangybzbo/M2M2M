@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	lead	lead	NN	_	3	nsubj
+3	serves	serve	VBZ	_	0	ROOT
+4	both	both	CC	_	5	preconj
+5	as	as	IN	_	3	prep
+6	an	a	DT	_	7	det
+7	introduction	introduction	NN	_	5	pobj
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	article	article	NN	_	8	pobj
+11	and	and	CC	_	5	cc
+12	as	as	IN	_	5	conj
+13	a	a	DT	_	14	det
+14	summary	summary	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	important	important	JJ	_	18	amod
+18	aspects	aspect	NNS	_	15	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	subject	subject	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	article	article	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

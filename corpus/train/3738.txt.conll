@@ -1,0 +1,14 @@
+1	Your	you	PRP$	_	2	poss
+2	cat	cat	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	these	these	DT	_	5	det
+5	whiskers	whisker	NNS	_	3	dobj
+6	to	to	TO	_	7	aux
+7	judge	judge	VB	_	3	vmod
+8	the	the	DT	_	9	det
+9	size	size	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	an	a	DT	_	12	det
+12	opening	opening	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

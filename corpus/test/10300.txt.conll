@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	lord	lord	NN	_	3	nsubj
+3	continues	continue	VBZ	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	demonstrate	demonstrate	VB	_	3	xcomp
+6	his	he	PRP$	_	7	poss
+7	faithfulness	faithfulness	NN	_	5	dobj
+8	through	through	IN	_	5	prep
+9	the	the	DT	_	10	det
+10	generous	generous	JJ	_	8	pobj
+11	giving	give	VBG	_	10	amod
+12	of	of	IN	_	11	prep
+13	His	he	PRP$	_	14	poss
+14	people	people	NNS	_	12	pobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	evening	evening	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	performance	performance	NN	_	8	nsubj
+5	was	be	VBD	_	8	cop
+6	a	a	DT	_	8	det
+7	great	great	JJ	_	8	amod
+8	production	production	NN	_	0	ROOT
+9	by	by	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	first-class	first-class	JJ	_	12	amod
+12	company	company	NN	_	9	pobj
+13	-	-	:	_	12	punct
+14	and	and	CC	_	12	cc
+15	not	not	RB	_	16	neg
+16	expensive	expensive	JJ	_	12	conj
+17	.	.	.	_	8	punct
+

@@ -1,0 +1,20 @@
+1	After	after	IN	_	0	ROOT
+2	a	a	DT	_	5	det
+3	short	short	JJ	_	5	amod
+4	playing	playing	NN	_	5	nn
+5	session	session	NN	_	1	pobj
+6	they	they	PRP	_	7	nsubj
+7	walked	walk	VBD	_	5	rcmod
+8	off	off	RP	_	7	prt
+9	on	on	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	trail	trail	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	a	a	DT	_	14	det
+14	couple	couple	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	lone	lone	JJ	_	18	amod
+17	female	female	JJ	_	18	amod
+18	Impalas	impala	NNS	_	15	pobj
+19	.	.	.	_	1	punct
+

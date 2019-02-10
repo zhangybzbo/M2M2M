@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det
+2	first	first	JJ	_	4	amod
+3	fighter	fighter	NN	_	4	nn
+4	wing	wing	NN	_	8	nsubj
+5	of	of	IN	_	4	prep
+6	these	these	DT	_	7	det
+7	planes	plane	NNS	_	5	pobj
+8	is	be	VBZ	_	0	ROOT
+9	already	already	RB	_	8	advmod
+10	in	in	IN	_	8	prep
+11	service	service	NN	_	10	pobj
+12	.	.	.	_	8	punct
+

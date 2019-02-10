@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	Halsey	Halsey	NNP	_	3	nn
+3	Institute	Institute	NNP	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	put	put	VBN	_	0	ROOT
+6	together	together	RP	_	5	prt
+7	a	a	DT	_	8	det
+8	symposium	symposium	NN	_	5	dobj
+9	with	with	IN	_	5	prep
+10	intent	intent	NN	_	9	pobj
+11	to	to	TO	_	12	aux
+12	discuss	discuss	VB	_	10	vmod
+13	the	the	DT	_	14	det
+14	dissemination	dissemination	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	difficult	difficult	JJ	_	17	amod
+17	imagery	imagery	NN	_	15	pobj
+18	.	.	.	_	5	punct
+

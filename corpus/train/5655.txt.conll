@@ -1,0 +1,8 @@
+1	Billions	billion	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	sunk	sink	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	devastating	devastate	VBG	_	6	amod
+6	companies	company	NNS	_	4	pobj
+7	.	.	.	_	3	punct
+

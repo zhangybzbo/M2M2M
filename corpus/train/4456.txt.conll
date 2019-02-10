@@ -1,0 +1,21 @@
+1	Violation	violation	NN	_	0	ROOT
+2	in	in	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	text	text	NN	_	2	pobj
+5	associated	associate	VBN	_	6	amod
+6	concepts	concept	NNS	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	brought	bring	VBN	_	4	rcmod
+9	into	into	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	working	work	VBG	_	12	amod
+12	memory	memory	NN	_	9	pobj
+13	in	in	IN	_	8	prep
+14	an	a	DT	_	15	det
+15	attempt	attempt	NN	_	13	pobj
+16	to	to	TO	_	17	aux
+17	resolve	resolve	VB	_	15	vmod
+18	the	the	DT	_	19	det
+19	violation	violation	NN	_	17	dobj
+20	.	.	.	_	1	punct
+

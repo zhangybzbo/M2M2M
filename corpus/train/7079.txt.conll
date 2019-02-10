@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	CCCB	cccb	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	an	a	DT	_	5	det
+5	institution	institution	NN	_	0	ROOT
+6	that	that	WDT	_	7	nsubj
+7	organizes	organize	VBZ	_	5	rcmod
+8	contemporary	contemporary	JJ	_	10	amod
+9	cultural	cultural	JJ	_	10	amod
+10	events	event	NNS	_	7	dobj
+11	and	and	CC	_	10	cc
+12	exhibitions	exhibition	NNS	_	10	conj
+13	with	with	IN	_	7	prep
+14	regard	regard	NN	_	13	pobj
+15	to	to	TO	_	14	prep
+16	music	music	NN	_	15	pobj
+17	,	,	,	_	16	punct
+18	dance	dance	NN	_	16	conj
+19	,	,	,	_	16	punct
+20	debates	debate	NNS	_	16	conj
+21	and	and	CC	_	16	cc
+22	readings	reading	NNS	_	16	conj
+23	.	.	.	_	5	punct
+

@@ -1,0 +1,12 @@
+1	He	he	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	released	release	VBN	_	0	ROOT
+4	a	a	DT	_	3	dobj
+5	photocopy	photocopy	VB	_	4	amod
+6	of	of	IN	_	5	prep
+7	his	he	PRP$	_	10	poss
+8	original	original	JJ	_	10	amod
+9	birth	birth	NN	_	10	nn
+10	certificate	certificate	NN	_	6	pobj
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	summer	summer	NN	_	5	tmod
+3	he	he	PRP	_	5	nsubj
+4	was	be	VBD	_	5	cop
+5	thirteen	thirteen	CD	_	0	ROOT
+6	he	he	PRP	_	7	nsubj
+7	organized	organize	VBD	_	5	rcmod
+8	the	the	DT	_	11	det
+9	neighboring	neighbor	VBG	_	11	amod
+10	farmer	farmer	NN	_	11	nn
+11	boys	boy	NNS	_	7	dobj
+12	into	into	IN	_	7	prep
+13	a	a	DT	_	14	det
+14	troop	troop	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	scouts	scout	NNS	_	15	pobj
+17	.	.	.	_	5	punct
+

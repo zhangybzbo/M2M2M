@@ -1,0 +1,10 @@
+1	It	it	PRP	_	3	nsubj
+2	's	be	VBZ	_	3	cop
+3	unfortunate	unfortunate	JJ	_	0	ROOT
+4	you	you	PRP	_	5	nsubj
+5	tried	try	VBD	_	3	ccomp
+6	a	a	DT	_	8	det
+7	potato	potato	NN	_	8	nn
+8	vodka	vodka	NN	_	5	dobj
+9	.	.	.	_	3	punct
+

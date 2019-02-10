@@ -1,0 +1,23 @@
+1	Sarah	Sarah	NNP	_	2	nn
+2	Palin	Palin	NNP	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	faced	face	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	an	a	DT	_	8	det
+7	angry	angry	JJ	_	8	amod
+8	mob	mob	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	her	she	PRP$	_	12	poss
+11	own	own	JJ	_	12	amod
+12	fans	fan	NNS	_	9	pobj
+13	who	who	WP	_	15	nsubjpass
+14	were	be	VBD	_	15	auxpass
+15	turned	turn	VBN	_	8	rcmod
+16	away	away	RB	_	15	advmod
+17	without	without	IN	_	15	prep
+18	having	have	VBG	_	17	pcomp
+19	their	they	PRP$	_	20	poss
+20	copies	copy	NNS	_	21	nsubj
+21	signed	sign	VBN	_	18	ccomp
+22	.	.	.	_	4	punct
+

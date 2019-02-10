@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	Norwalk	Norwalk	NNP	_	3	nn
+3	juicer	juicer	NN	_	4	nsubj
+4	grinds	grind	VBZ	_	0	ROOT
+5	and	and	CC	_	4	cc
+6	presses	press	NNS	_	4	conj
+7	any	any	DT	_	8	det
+8	fruit	fruit	NN	_	6	dobj
+9	or	or	CC	_	8	cc
+10	vegetable	vegetable	NN	_	8	conj
+11	.	.	.	_	4	punct
+

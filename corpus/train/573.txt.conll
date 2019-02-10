@@ -1,0 +1,12 @@
+1	New	New	NNP	_	4	nn
+2	portable	portable	JJ	_	4	amod
+3	electronic	electronic	JJ	_	4	amod
+4	devices	device	NNS	_	6	nsubj
+5	are	be	VBP	_	6	aux
+6	running	run	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	temperature	temperature	NN	_	10	nn
+9	sensitivity	sensitivity	NN	_	10	nn
+10	issues	issue	NNS	_	7	pobj
+11	.	.	.	_	6	punct
+

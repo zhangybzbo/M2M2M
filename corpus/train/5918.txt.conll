@@ -1,0 +1,23 @@
+1	He	he	PRP	_	2	nsubj
+2	hold	hold	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	body	body	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	plane	plane	NN	_	5	pobj
+8	loosely	loosely	RB	_	9	advmod
+9	between	between	IN	_	2	prep
+10	two	two	CD	_	11	num
+11	fingers	finger	NNS	_	9	pobj
+12	with	with	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	nose	nose	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	plane	plane	NN	_	15	pobj
+18	pointing	point	VBG	_	14	vmod
+19	toward	toward	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	floor	floor	NN	_	19	pobj
+22	.	.	.	_	2	punct
+

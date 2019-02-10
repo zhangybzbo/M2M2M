@@ -1,0 +1,13 @@
+1	200000	200000	CD	_	2	num
+2	doses	dose	NNS	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	smallpox	smallpox	NN	_	5	nn
+5	vaccine	vaccine	NN	_	3	pobj
+6	have	have	VBP	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	shipped	ship	VBN	_	0	ROOT
+9	to	to	TO	_	8	prep
+10	35	35	CD	_	11	num
+11	states	state	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

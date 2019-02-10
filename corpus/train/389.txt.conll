@@ -1,0 +1,23 @@
+1	In	in	IN	_	15	prep
+2	his	he	PRP$	_	3	poss
+3	poem	poem	NN	_	1	pobj
+4	,	,	,	_	15	punct
+5	written	write	VBN	_	15	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	riverside	riverside	NN	_	6	pobj
+9	near	near	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	battle-ground	battle-ground	NN	_	9	pobj
+12	,	,	,	_	15	punct
+13	Mr.	Mr.	NNP	_	14	nn
+14	Emerson	Emerson	NNP	_	15	nsubj
+15	alluded	allude	VBD	_	0	ROOT
+16	to	to	TO	_	18	aux
+17	``	``	``	_	18	punct
+18	Yon	yon	VB	_	15	xcomp
+19	stem	stem	NN	_	20	nn
+20	headstone	headstone	NN	_	18	dobj
+21	''	''	''	_	20	punct
+22	.	.	.	_	15	punct
+

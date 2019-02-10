@@ -1,0 +1,24 @@
+1	Ginger	Ginger	NNP	_	2	nn
+2	wine	wine	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	fortified	fortified	JJ	_	6	amod
+6	wine	wine	NN	_	0	ROOT
+7	made	make	VBN	_	6	vmod
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	fermented	fermented	JJ	_	11	amod
+11	blend	blend	VB	_	8	pobj
+12	of	of	IN	_	11	prep
+13	ground	ground	NN	_	14	nn
+14	ginger	ginger	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	raisins	raisin	NNS	_	14	conj
+17	that	that	WDT	_	20	nsubjpass
+18	was	be	VBD	_	20	auxpass
+19	first	first	RB	_	20	advmod
+20	produced	produce	VBN	_	11	rcmod
+21	in	in	IN	_	20	prep
+22	England	England	NNP	_	21	pobj
+23	.	.	.	_	6	punct
+

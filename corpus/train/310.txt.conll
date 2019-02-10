@@ -1,0 +1,23 @@
+1	Feedback	feedback	NN	_	11	nn
+2	,	,	,	_	11	punct
+3	as	as	IN	_	4	mark
+4	defined	define	VBN	_	11	dep
+5	earlier	earlier	RBR	_	4	advmod
+6	in	in	IN	_	5	prep
+7	this	this	DT	_	8	det
+8	chapter	chapter	NN	_	6	pobj
+9	,	,	,	_	11	punct
+10	is	be	VBZ	_	11	cop
+11	information	information	NN	_	0	ROOT
+12	that	that	WDT	_	15	nsubjpass
+13	can	can	MD	_	15	aux
+14	be	be	VB	_	15	auxpass
+15	used	use	VBN	_	11	rcmod
+16	to	to	TO	_	17	aux
+17	modify	modify	VB	_	15	xcomp
+18	or	or	CC	_	17	cc
+19	maintain	maintain	VB	_	17	conj
+20	previous	previous	JJ	_	21	amod
+21	behaviours	behaviour	NNS	_	17	dobj
+22	.	.	.	_	11	punct
+

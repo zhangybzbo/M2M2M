@@ -1,0 +1,16 @@
+1	Im	im	NN	_	4	nn
+2	a	a	DT	_	4	det
+3	wheelchair	wheelchair	NN	_	4	nn
+4	user	user	NN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	third	third	JJ	_	8	amod
+8	floor	floor	NN	_	5	pobj
+9	flat	flat	JJ	_	8	amod
+10	serviced	service	VBN	_	9	dep
+11	by	by	IN	_	10	prep
+12	only	only	RB	_	13	quantmod
+13	1	1	CD	_	14	num
+14	lift	lift	NN	_	11	pobj
+15	.	.	.	_	4	punct
+

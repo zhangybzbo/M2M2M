@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	control	control	NN	_	3	nn
+3	layout	layout	NN	_	7	nsubj
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	cabin	cabin	NN	_	4	pobj
+7	comprises	comprise	VBZ	_	0	ROOT
+8	computer	computer	NN	_	9	nn
+9	displays	display	NNS	_	7	dobj
+10	,	,	,	_	9	punct
+11	traditional	traditional	JJ	_	13	amod
+12	control	control	NN	_	13	nn
+13	panels	panel	NNS	_	9	conj
+14	and	and	CC	_	9	cc
+15	two	two	CD	_	16	num
+16	joysticks	joystick	NNS	_	9	conj
+17	for	for	IN	_	16	prep
+18	con	con	NN	_	17	pobj
+19	-	-	:	_	18	punct
+20	trolling	troll	VBG	_	18	dep
+21	the	the	DT	_	23	det
+22	crane	crane	NN	_	23	nn
+23	arm	arm	NN	_	20	dobj
+24	.	.	.	_	7	punct
+

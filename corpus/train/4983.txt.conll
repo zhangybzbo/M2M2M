@@ -1,0 +1,13 @@
+1	Three	three	CD	_	5	num
+2	large-scale	large-scale	JJ	_	5	amod
+3	controlled	controlled	JJ	_	5	amod
+4	observational	observational	JJ	_	5	amod
+5	studies	study	NNS	_	8	nsubjpass
+6	have	have	VBP	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	reported	report	VBN	_	0	ROOT
+9	on	on	IN	_	8	prep
+10	this	this	DT	_	11	det
+11	issue	issue	NN	_	9	pobj
+12	.	.	.	_	8	punct
+

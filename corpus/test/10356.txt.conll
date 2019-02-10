@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	acetoin	acetoin	NN	_	0	ROOT
+3	was	be	VBD	_	2	vmod
+4	first	first	JJ	_	3	prep
+5	distilled	distil	VBN	_	4	dep
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	filtrate	filtrate	NN	_	6	pobj
+9	and	and	CC	_	5	cc
+10	subsequently	subsequently	RB	_	11	advmod
+11	oxidized	oxidize	VBN	_	5	conj
+12	to	to	TO	_	11	prep
+13	biacetyl	biacetyl	NN	_	12	pobj
+14	.	.	.	_	2	punct
+

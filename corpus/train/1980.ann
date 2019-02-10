@@ -1,0 +1,3 @@
+T1	Term 19 26	craters
+T2	Term 42 51	meteorite
+R1	Product-Producer Arg1:T1 Arg2:T2

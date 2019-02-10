@@ -1,0 +1,13 @@
+1	Questions	question	NNS	_	9	nsubjpass
+2	on	on	IN	_	1	prep
+3	various	various	JJ	_	4	amod
+4	aspects	aspect	NNS	_	2	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	study	study	NN	_	5	pobj
+8	were	be	VBD	_	9	auxpass
+9	raised	raise	VBN	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	discussed	discuss	VBN	_	9	conj
+12	.	.	.	_	9	punct
+

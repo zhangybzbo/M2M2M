@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	idea	idea	NN	_	6	nsubj
+3	for	for	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	film	film	NN	_	3	pobj
+6	came	come	VBD	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	short	short	JJ	_	10	amod
+10	story	story	NN	_	7	pobj
+11	by	by	IN	_	10	prep
+12	Ward	Ward	NNP	_	13	nn
+13	Greene	Greene	NNP	_	11	pobj
+14	entitled	entitle	VBN	_	10	vmod
+15	``	``	``	_	17	punct
+16	Happy	happy	JJ	_	17	amod
+17	Dan	Dan	NNP	_	14	dep
+18	.	.	.	_	6	punct
+

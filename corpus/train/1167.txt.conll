@@ -1,0 +1,20 @@
+1	We	we	PRP	_	4	nsubjpass
+2	are	be	VBP	_	4	auxpass
+3	therefore	therefore	RB	_	4	advmod
+4	invited	invite	VBN	_	0	ROOT
+5	software	software	NN	_	7	nn
+6	engineering	engineering	NN	_	7	nn
+7	researchers	researcher	NNS	_	4	dobj
+8	to	to	TO	_	9	aux
+9	apply	apply	VB	_	4	xcomp
+10	for	for	IN	_	9	prep
+11	research	research	NN	_	12	nn
+12	awards	award	NNS	_	10	pobj
+13	in	in	IN	_	12	prep
+14	all	all	DT	_	15	det
+15	areas	area	NNS	_	13	pobj
+16	of	of	IN	_	15	prep
+17	software	software	NN	_	18	nn
+18	engineering	engineering	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	Four	four	CD	_	4	nsubj
+2	of	of	IN	_	1	prep
+3	us	we	PRP	_	2	pobj
+4	stopped	stop	VBD	_	0	ROOT
+5	the	the	DT	_	7	det
+6	cyanide	cyanide	NN	_	7	nn
+7	train	train	NN	_	4	dobj
+8	,	,	,	_	4	punct
+9	with	with	IN	_	4	prep
+10	no	no	DT	_	11	neg
+11	money	money	NN	_	9	pobj
+12	,	,	,	_	4	punct
+13	but	but	CC	_	4	cc
+14	with	with	IN	_	4	conj
+15	candles	candle	NNS	_	14	pobj
+16	,	,	,	_	15	punct
+17	cups	cup	NNS	_	15	appos
+18	of	of	IN	_	17	prep
+19	tea	tea	NN	_	18	pobj
+20	and	and	CC	_	19	cc
+21	home-made	home-made	JJ	_	19	conj
+22	banners	banner	NNS	_	19	dep
+23	.	.	.	_	4	punct
+

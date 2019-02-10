@@ -1,0 +1,24 @@
+1	Several	several	JJ	_	3	amod
+2	major	major	JJ	_	3	amod
+3	manufacturers	manufacturer	NNS	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	chain	chain	NN	_	6	nn
+6	saws	saw	NNS	_	4	pobj
+7	claim	claim	VBP	_	0	ROOT
+8	to	to	TO	_	10	aux
+9	have	have	VB	_	10	aux
+10	invented	invent	VBN	_	7	xcomp
+11	the	the	DT	_	14	det
+12	first	first	JJ	_	14	amod
+13	chain	chain	NN	_	14	nn
+14	saw	saw	NN	_	10	dobj
+15	and	and	CC	_	14	cc
+16	all	all	DT	_	18	predet
+17	their	they	PRP$	_	18	poss
+18	claims	claim	NNS	_	19	nsubj
+19	point	point	VBP	_	14	conj
+20	to	to	TO	_	19	prep
+21	the	the	DT	_	22	det
+22	1920s	1920	NNS	_	20	pobj
+23	.	.	.	_	7	punct
+

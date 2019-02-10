@@ -1,0 +1,19 @@
+1	Tub	tub	NN	_	2	nsubj
+2	drains	drain	VBZ	_	0	ROOT
+3	clog	clog	VB	_	2	xcomp
+4	up	up	RP	_	3	prt
+5	with	with	IN	_	3	prep
+6	hair	hair	NN	_	5	pobj
+7	and	and	CC	_	6	cc
+8	the	the	DT	_	9	det
+9	grease	grease	NN	_	6	conj
+10	from	from	IN	_	9	prep
+11	soap	soap	NN	_	10	pobj
+12	and	and	CC	_	2	cc
+13	must	must	MD	_	15	aux
+14	be	be	VB	_	15	auxpass
+15	cleaned	clean	VBN	_	2	conj
+16	out	out	RP	_	15	prt
+17	occasionally	occasionally	RB	_	15	advmod
+18	.	.	.	_	2	punct
+

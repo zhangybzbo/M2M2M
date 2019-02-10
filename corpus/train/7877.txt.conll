@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	robber	robber	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	office	office	NN	_	4	pobj
+7	when	when	WRB	_	10	advmod
+8	the	the	DT	_	9	det
+9	manager	manager	NN	_	10	nsubj
+10	decided	decide	VBD	_	3	advcl
+11	to	to	TO	_	12	aux
+12	take	take	VB	_	10	xcomp
+13	action	action	NN	_	12	dobj
+14	and	and	CC	_	12	cc
+15	escape	escape	VB	_	12	conj
+16	out	out	RP	_	15	prt
+17	the	the	DT	_	19	det
+18	side	side	NN	_	19	nn
+19	door	door	NN	_	15	dobj
+20	.	.	.	_	3	punct
+

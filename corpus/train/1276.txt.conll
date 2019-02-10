@@ -1,0 +1,17 @@
+1	I	I	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	a	a	DT	_	5	det
+4	little	little	JJ	_	5	amod
+5	worried	worried	JJ	_	0	ROOT
+6	about	about	IN	_	5	prep
+7	making	make	VBG	_	6	pcomp
+8	an	a	DT	_	9	det
+9	ascent	ascent	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	crux	crux	NN	_	10	pobj
+13	with	with	IN	_	9	prep
+14	a	a	DT	_	15	det
+15	backpack	backpack	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

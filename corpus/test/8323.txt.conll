@@ -1,0 +1,16 @@
+1	In	in	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	case	case	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	public	public	JJ	_	6	amod
+6	corporations	corporation	NNS	_	4	pobj
+7	every	every	DT	_	8	det
+8	citizen	citizen	NN	_	11	nsubj
+9	is	be	VBZ	_	11	cop
+10	a	a	DT	_	11	det
+11	member	member	NN	_	0	ROOT
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	corporation	corporation	NN	_	12	pobj
+15	.	.	.	_	11	punct
+

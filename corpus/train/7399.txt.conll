@@ -1,0 +1,10 @@
+1	Interestingly	interestingly	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	sink	sink	NN	_	5	nsubj
+5	was	be	VBD	_	0	ROOT
+6	inside	inside	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	room	room	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

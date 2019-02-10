@@ -1,0 +1,22 @@
+1	Since	since	IN	_	14	prep
+2	leaving	leave	VBG	_	1	pcomp
+3	the	the	DT	_	5	det
+4	Bay	Bay	NNP	_	5	nn
+5	Area	Area	NNP	_	2	dobj
+6	for	for	IN	_	2	prep
+7	Brooklyn	Brooklyn	NNP	_	6	pobj
+8	in	in	IN	_	2	prep
+9	1999	1999	CD	_	8	pobj
+10	,	,	,	_	14	punct
+11	the	the	DT	_	12	det
+12	violinist	violinist	NN	_	14	nsubj
+13	has	have	VBZ	_	14	aux
+14	constructed	construct	VBN	_	0	ROOT
+15	a	a	DT	_	18	det
+16	mind-bogglingly	mind-bogglingly	RB	_	18	advmod
+17	disparate	disparate	JJ	_	18	amod
+18	body	body	NN	_	14	dobj
+19	of	of	IN	_	18	prep
+20	work	work	NN	_	19	pobj
+21	.	.	.	_	14	punct
+

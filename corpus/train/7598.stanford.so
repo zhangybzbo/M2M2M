@@ -1,0 +1,12 @@
+0	80	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	16	tok id="t1" base="organization" pos="NN" nsubj="t2"
+17	22	tok id="t2" base="help" pos="VBZ" ROOT="ROOT"
+23	30	tok id="t3" base="educate" pos="VB" ccomp="t2"
+31	43	tok id="t4" base="practitioner" pos="NN" nn="t5"
+44	52	tok id="t5" base="dentist" pos="NNS" dobj="t3"
+53	60	tok id="t6" base="through" pos="IN" prep="t3"
+61	69	tok id="t7" base="clinical" pos="JJ" amod="t8"
+70	78	tok id="t8" base="meeting" pos="NNS" pobj="t6"
+79	80	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

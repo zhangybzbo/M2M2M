@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	streaks	streak	NNS	_	3	nsubj
+3	are	be	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	passing	pass	VBG	_	7	amod
+7	truck	truck	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

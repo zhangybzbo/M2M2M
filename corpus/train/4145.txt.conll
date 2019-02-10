@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	compiler	compiler	NN	_	3	nsubj
+3	assumes	assume	VBZ	_	0	ROOT
+4	that	that	IN	_	7	mark
+5	the	the	DT	_	6	det
+6	programmer	programmer	NN	_	7	nsubj
+7	passes	pass	VBZ	_	3	ccomp
+8	an	a	DT	_	9	det
+9	object	object	NN	_	7	dobj
+10	to	to	TO	_	9	prep
+11	the	the	DT	_	12	det
+12	method	method	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

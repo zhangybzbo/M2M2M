@@ -1,0 +1,13 @@
+0	56	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	7	tok id="t1" base="boy" pos="NN" nsubj="t2"
+8	16	tok id="t2" base="insert" pos="VBN" ROOT="ROOT"
+17	23	tok id="t3" base="pepper" pos="NN" dobj="t2"
+24	28	tok id="t4" base="into" pos="IN" prep="t2"
+29	32	tok id="t5" base="he" pos="PRP$" poss="t7"
+33	39	tok id="t6" base="little" pos="JJ" amod="t7"
+40	47	tok id="t7" base="brother" pos="NN" poss="t9"
+48	50	tok id="t8" base="'s" pos="POS" possessive="t7"
+51	54	tok id="t9" base="toy" pos="NN" pobj="t4"
+55	56	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

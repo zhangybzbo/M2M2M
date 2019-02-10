@@ -1,0 +1,12 @@
+1	He	he	PRP	_	2	nsubj
+2	stuffed	stuff	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	paper	paper	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	7	det
+7	bottom	bottom	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	his	he	PRP$	_	10	poss
+10	backpack	backpack	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

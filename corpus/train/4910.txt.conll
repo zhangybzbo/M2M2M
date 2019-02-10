@@ -1,0 +1,18 @@
+1	For	for	IN	_	5	prep
+2	cricket	cricket	NN	_	1	pobj
+3	,	,	,	_	5	punct
+4	we	we	PRP	_	5	nsubj
+5	use	use	VBP	_	0	ROOT
+6	a	a	DT	_	7	det
+7	ball	ball	NN	_	5	dobj
+8	with	with	IN	_	5	prep
+9	pellets	pellet	NNS	_	8	pobj
+10	inside	inside	IN	_	9	prep
+11	it	it	PRP	_	10	pobj
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	14	nsubj
+14	make	make	VBP	_	11	rcmod
+15	a	a	DT	_	16	det
+16	noise	noise	NN	_	14	dobj
+17	.	.	.	_	5	punct
+

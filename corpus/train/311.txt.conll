@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	train	train	NN	_	3	nsubj
+3	arrives	arrive	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	distant	distant	JJ	_	7	amod
+7	point	point	NN	_	4	pobj
+8	and	and	CC	_	3	cc
+9	bears	bear	VBZ	_	3	conj
+10	down	down	RP	_	9	prt
+11	on	on	IN	_	9	prep
+12	the	the	DT	_	13	det
+13	viewer	viewer	NN	_	11	pobj
+14	,	,	,	_	9	punct
+15	finally	finally	RB	_	16	advmod
+16	crossing	cross	VBG	_	9	vmod
+17	the	the	DT	_	19	det
+18	lower	lower	JJR	_	19	amod
+19	edge	edge	NN	_	16	dobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	screen	screen	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

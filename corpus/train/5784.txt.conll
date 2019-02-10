@@ -1,0 +1,15 @@
+1	It	it	PRP	_	2	nsubj
+2	removes	remove	VBZ	_	0	ROOT
+3	the	the	DT	_	4	det
+4	hair	hair	NN	_	2	dobj
+5	to	to	TO	_	2	prep
+6	the	the	DT	_	8	det
+7	precise	precise	JJ	_	8	amod
+8	contour	contour	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	perfectly	perfectly	RB	_	12	advmod
+12	shaped	shaped	JJ	_	13	amod
+13	eyebrow	eyebrow	NN	_	9	pobj
+14	.	.	.	_	2	punct
+

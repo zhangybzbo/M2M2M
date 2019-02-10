@@ -1,0 +1,23 @@
+1	In	in	IN	_	6	prep
+2	addition	addition	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	we	we	PRP	_	6	nsubj
+5	also	also	RB	_	6	advmod
+6	build	build	VBP	_	0	ROOT
+7	a	a	DT	_	9	det
+8	meaningful	meaningful	JJ	_	9	amod
+9	cadre	cadre	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	various	various	JJ	_	12	amod
+12	musicians	musician	NNS	_	10	pobj
+13	who	who	WP	_	14	nsubj
+14	help	help	VBP	_	12	rcmod
+15	us	we	PRP	_	16	nsubj
+16	produce	produce	VB	_	14	ccomp
+17	music	music	NN	_	16	dobj
+18	on	on	IN	_	16	prep
+19	an	a	DT	_	21	det
+20	on-going	on-going	JJ	_	21	amod
+21	basis	basis	NN	_	18	pobj
+22	.	.	.	_	6	punct
+

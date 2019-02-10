@@ -1,0 +1,27 @@
+1	Besides	besides	IN	_	16	prep
+2	a	a	DT	_	3	det
+3	galaxy	galaxy	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	prominent	prominent	JJ	_	6	amod
+6	footballers	footballer	NNS	_	4	pobj
+7	,	,	,	_	16	punct
+8	his	he	PRP$	_	9	poss
+9	colleagues	colleague	NNS	_	16	nsubj
+10	,	,	,	_	9	punct
+11	sportspersons	sportsperson	NNS	_	9	conj
+12	and	and	CC	_	9	cc
+13	people	people	NNS	_	9	conj
+14	from	from	IN	_	13	prep
+15	all	all	DT	_	14	pobj
+16	walks	walk	VBZ	_	0	ROOT
+17	of	of	IN	_	16	prep
+18	life	life	NN	_	17	pobj
+19	paid	pay	VBN	_	18	vmod
+20	last	last	JJ	_	21	amod
+21	respect	respect	NN	_	19	dobj
+22	to	to	TO	_	19	prep
+23	the	the	DT	_	25	det
+24	departed	depart	VBN	_	25	amod
+25	footballer	footballer	NN	_	22	pobj
+26	.	.	.	_	16	punct
+

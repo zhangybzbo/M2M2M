@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	movie	movie	NN	_	3	nsubj
+3	featured	feature	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	mutated	mutate	VBN	_	6	amod
+6	sheep	sheep	NN	_	3	dobj
+7	as	as	IN	_	3	prep
+8	the	the	DT	_	10	det
+9	titular	titular	JJ	_	10	amod
+10	monster	monster	NN	_	7	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	13	nsubj
+13	grew	grow	VBD	_	10	rcmod
+14	larger	larger	JJR	_	13	acomp
+15	throughout	throughout	IN	_	13	prep
+16	the	the	DT	_	17	det
+17	movie	movie	NN	_	15	pobj
+18	,	,	,	_	10	punct
+19	until	until	IN	_	21	mark
+20	it	it	PRP	_	21	nsubj
+21	exploded	explode	VBD	_	3	advcl
+22	in	in	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	climactic	climactic	JJ	_	25	amod
+25	scene	scene	NN	_	22	pobj
+26	.	.	.	_	3	punct
+

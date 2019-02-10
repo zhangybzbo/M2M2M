@@ -1,0 +1,13 @@
+1	Guru	guru	NN	_	3	nn
+2	Jakob	Jakob	NNP	_	3	nn
+3	Nielsen	Nielsen	NNP	_	4	nsubj
+4	gives	give	VBZ	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	advice	advice	NN	_	4	dobj
+7	on	on	IN	_	6	prep
+8	best	best	JJS	_	9	amod
+9	practices	practice	NNS	_	7	pobj
+10	for	for	IN	_	9	prep
+11	programmers	programmer	NNS	_	10	pobj
+12	.	.	.	_	4	punct
+

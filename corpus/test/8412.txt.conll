@@ -1,0 +1,21 @@
+1	But	but	CC	_	4	cc
+2	the	the	DT	_	3	det
+3	man	man	NN	_	4	nsubj
+4	had	have	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	bottle	bottle	NN	_	4	dobj
+7	with	with	IN	_	6	prep
+8	water	water	NN	_	7	pobj
+9	in	in	IN	_	4	prep
+10	it	it	PRP	_	9	pobj
+11	inside	inside	IN	_	4	prep
+12	the	the	DT	_	13	det
+13	bag	bag	NN	_	11	pobj
+14	,	,	,	_	4	punct
+15	and	and	CC	_	4	cc
+16	it	it	PRP	_	19	nsubj
+17	was	be	VBD	_	19	cop
+18	not	not	RB	_	19	neg
+19	accidental	accidental	JJ	_	4	conj
+20	.	.	.	_	4	punct
+

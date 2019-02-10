@@ -1,0 +1,23 @@
+1	In	in	IN	_	13	prep
+2	the	the	DT	_	3	det
+3	chaos	chaos	NN	_	1	pobj
+4	and	and	CC	_	3	cc
+5	urgency	urgency	NN	_	3	conj
+6	caused	cause	VBN	_	3	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	hurricanes	hurricane	NNS	_	7	pobj
+10	,	,	,	_	13	punct
+11	it	it	PRP	_	13	nsubj
+12	was	be	VBD	_	13	cop
+13	difficult	difficult	JJ	_	0	ROOT
+14	to	to	TO	_	15	aux
+15	keep	keep	VB	_	13	xcomp
+16	track	track	NN	_	15	dobj
+17	of	of	IN	_	16	prep
+18	people	people	NNS	_	17	pobj
+19	with	with	IN	_	18	prep
+20	psychiatric	psychiatric	JJ	_	21	amod
+21	disabilities	disability	NNS	_	19	pobj
+22	.	.	.	_	13	punct
+

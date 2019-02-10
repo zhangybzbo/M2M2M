@@ -1,0 +1,25 @@
+1	In	in	IN	_	6	prep
+2	1752	1752	CD	_	1	pobj
+3	,	,	,	_	6	punct
+4	William	William	NNP	_	5	nn
+5	Hallam	Hallam	NNP	_	6	nsubj
+6	sent	send	VBD	_	0	ROOT
+7	a	a	DT	_	8	det
+8	company	company	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	twelve	twelve	CD	_	11	num
+11	actors	actor	NNS	_	9	pobj
+12	from	from	IN	_	6	prep
+13	Britain	Britain	NNP	_	12	pobj
+14	to	to	TO	_	6	prep
+15	the	the	DT	_	16	det
+16	colonies	colony	NNS	_	14	pobj
+17	with	with	IN	_	6	prep
+18	his	he	PRP$	_	20	poss
+19	brother	brother	NN	_	20	nn
+20	Lewis	Lewis	NNP	_	17	pobj
+21	as	as	IN	_	6	prep
+22	their	they	PRP$	_	23	poss
+23	manager	manager	NN	_	21	pobj
+24	.	.	.	_	6	punct
+

@@ -1,0 +1,23 @@
+1	Electron	Electron	NNP	_	2	nn
+2	microscopes	microscope	NNS	_	5	nsubj
+3	are	be	VBP	_	5	cop
+4	scientific	scientific	JJ	_	5	amod
+5	instruments	instrument	NNS	_	0	ROOT
+6	that	that	WDT	_	7	nsubj
+7	use	use	VBP	_	5	rcmod
+8	a	a	DT	_	9	det
+9	beam	beam	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	highly	highly	RB	_	12	advmod
+12	energetic	energetic	JJ	_	13	amod
+13	electrons	electron	NNS	_	10	pobj
+14	to	to	TO	_	15	aux
+15	examine	examine	VB	_	7	vmod
+16	objects	object	NNS	_	15	dobj
+17	on	on	IN	_	15	prep
+18	a	a	DT	_	21	det
+19	very	very	RB	_	20	advmod
+20	fine	fine	JJ	_	21	amod
+21	scale	scale	NN	_	17	pobj
+22	.	.	.	_	5	punct
+

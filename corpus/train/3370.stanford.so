@@ -1,0 +1,10 @@
+0	54	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="mechanism" pos="NN" ROOT="ROOT"
+14	25	tok id="t2" base="transport" pos="VBN" amod="t3"
+26	30	tok id="t3" base="dust" pos="NN" dep="t1"
+31	35	tok id="t4" base="into" pos="IN" prep="t3"
+36	44	tok id="t5" base="shadowed" pos="JJ" amod="t6"
+45	52	tok id="t6" base="region" pos="NNS" pobj="t4"
+53	54	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

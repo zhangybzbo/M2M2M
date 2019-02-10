@@ -1,0 +1,12 @@
+1	I	I	PRP	_	6	nsubj
+2	've	have	VBP	_	6	aux
+3	been	be	VBN	_	6	cop
+4	a	a	DT	_	6	det
+5	closet	closet	NN	_	6	nn
+6	writer	writer	NN	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	long	long	JJ	_	10	amod
+10	time	time	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

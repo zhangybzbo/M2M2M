@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj
+2	find	find	VBP	_	0	ROOT
+3	it	it	PRP	_	6	nsubj
+4	hard	hard	JJ	_	6	dep
+5	to	to	TO	_	6	aux
+6	bend	bend	VB	_	2	xcomp
+7	and	and	CC	_	6	cc
+8	reach	reach	VB	_	6	conj
+9	and	and	CC	_	6	cc
+10	use	use	VB	_	6	conj
+11	the	the	DT	_	12	det
+12	cupboards	cupboard	NNS	_	10	dobj
+13	in	in	IN	_	10	prep
+14	my	my	PRP$	_	15	poss
+15	kitchen	kitchen	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	5	det
+2	U.S.	U.S.	NNP	_	5	nn
+3	Transportation	Transportation	NNP	_	5	nn
+4	Security	Security	NNP	_	5	nn
+5	Administration	Administration	NNP	_	10	nsubj
+6	-LRB-	-lrb-	-LRB-	_	7	punct
+7	TSA	TSA	NNP	_	5	appos
+8	-RRB-	-rrb-	-RRB-	_	7	punct
+9	has	have	VBZ	_	10	aux
+10	lost	lose	VBN	_	0	ROOT
+11	a	a	DT	_	13	det
+12	hard	hard	JJ	_	13	amod
+13	drive	drive	NN	_	10	dobj
+14	containing	contain	VBG	_	13	vmod
+15	information	information	NN	_	14	dobj
+16	about	about	IN	_	17	quantmod
+17	100,000	100,000	CD	_	18	num
+18	former	former	JJ	_	15	dep
+19	and	and	CC	_	18	cc
+20	current	current	JJ	_	18	conj
+21	employees	employee	NNS	_	18	dep
+22	.	.	.	_	10	punct
+

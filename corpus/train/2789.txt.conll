@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	arrival	arrival	NN	_	14	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	tensile	tensile	JJ	_	6	amod
+6	stresses	stress	NNS	_	3	pobj
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	free	free	JJ	_	10	amod
+10	surfaces	surface	NNS	_	7	pobj
+11	was	be	VBD	_	14	cop
+12	about	about	RB	_	13	quantmod
+13	2	2	CD	_	14	num
+14	Bsec	Bsec	NNP	_	0	ROOT
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	tests	test	NNS	_	15	pobj
+18	.	.	.	_	14	punct
+

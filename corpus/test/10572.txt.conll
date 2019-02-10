@@ -1,0 +1,21 @@
+1	US	US	NNP	_	2	nn
+2	researchers	researcher	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	found	find	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	gene	gene	NN	_	4	dobj
+7	responsible	responsible	JJ	_	6	amod
+8	for	for	IN	_	7	prep
+9	turning	turn	VBG	_	8	pcomp
+10	a	a	DT	_	11	det
+11	plate	plate	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	pasta	pasta	NN	_	12	pobj
+14	into	into	IN	_	9	prep
+15	fat	fat	JJ	_	14	pobj
+16	,	,	,	_	4	punct
+17	offering	offer	VBG	_	4	vmod
+18	new	new	JJ	_	19	amod
+19	clues	clue	NNS	_	17	dobj
+20	.	.	.	_	4	punct
+

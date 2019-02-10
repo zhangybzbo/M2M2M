@@ -1,0 +1,1 @@
+EXE is the common filename extension denoting an executable file .

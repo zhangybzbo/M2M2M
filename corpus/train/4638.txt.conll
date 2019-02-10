@@ -1,0 +1,11 @@
+1	International	International	NNP	_	2	nn
+2	committees	committee	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	bestowed	bestow	VBN	_	0	ROOT
+5	industry	industry	NN	_	6	nn
+6	awards	award	NNS	_	4	dobj
+7	to	to	TO	_	4	prep
+8	outstanding	outstanding	JJ	_	9	amod
+9	companies	company	NNS	_	7	pobj
+10	.	.	.	_	4	punct
+

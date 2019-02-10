@@ -1,0 +1,24 @@
+1	Preliminary	preliminary	JJ	_	2	amod
+2	talks	talk	NNS	_	13	nsubj
+3	between	between	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	association	association	NN	_	3	pobj
+6	and	and	CC	_	5	cc
+7	Nigel	Nigel	NNP	_	8	nn
+8	Worthington	Worthington	NNP	_	5	conj
+9	regarding	regard	VBG	_	5	vmod
+10	a	a	DT	_	12	det
+11	new	new	JJ	_	12	amod
+12	contract	contract	NN	_	9	dobj
+13	took	take	VBD	_	0	ROOT
+14	place	place	NN	_	13	dobj
+15	last	last	JJ	_	16	amod
+16	week	week	NN	_	13	tmod
+17	and	and	CC	_	13	cc
+18	these	these	DT	_	19	det
+19	talks	talk	NNS	_	22	nsubj
+20	are	be	VBP	_	22	cop
+21	still	still	RB	_	22	advmod
+22	ongoing	ongoing	JJ	_	13	conj
+23	.	.	.	_	13	punct
+

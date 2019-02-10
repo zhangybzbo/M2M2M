@@ -1,0 +1,17 @@
+1	A	a	DT	_	3	det
+2	new	new	JJ	_	3	amod
+3	documentary	documentary	NN	_	4	nsubj
+4	investigates	investigate	VBZ	_	0	ROOT
+5	the	the	DT	_	7	det
+6	short	short	JJ	_	7	amod
+7	career	career	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	GM	GM	NNP	_	12	poss
+10	's	's	POS	_	9	possessive
+11	electric	electric	JJ	_	12	amod
+12	vehicle	vehicle	NN	_	8	pobj
+13	,	,	,	_	4	punct
+14	the	the	DT	_	15	det
+15	EV1	ev1	NN	_	4	dobj
+16	.	.	.	_	4	punct
+

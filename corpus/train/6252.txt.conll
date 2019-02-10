@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	first	first	JJ	_	3	amod
+3	legislation	legislation	NN	_	17	nsubj
+4	specifically	specifically	RB	_	5	advmod
+5	forbidding	forbid	VBG	_	3	vmod
+6	the	the	DT	_	7	det
+7	production	production	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	wheat	wheat	NN	_	10	nn
+10	spirits	spirit	NNS	_	8	pobj
+11	for	for	IN	_	5	prep
+12	anything	anything	NN	_	11	pobj
+13	other	other	JJ	_	12	amod
+14	than	than	IN	_	13	prep
+15	medicinal	medicinal	JJ	_	16	amod
+16	purposes	purpose	NNS	_	14	pobj
+17	appeared	appear	VBD	_	0	ROOT
+18	in	in	IN	_	17	prep
+19	1570	1570	CD	_	18	pobj
+20	.	.	.	_	17	punct
+

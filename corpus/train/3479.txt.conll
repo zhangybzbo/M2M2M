@@ -1,0 +1,15 @@
+1	Self-organization	self-organization	NN	_	2	nsubj
+2	become	become	VBP	_	0	ROOT
+3	apparent	apparent	JJ	_	2	acomp
+4	in	in	IN	_	2	prep
+5	evolution	evolution	NN	_	4	pobj
+6	as	as	IN	_	2	prep
+7	self-assemblage	self-assemblage	NN	_	6	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	gene	gene	NN	_	11	nn
+11	networks	network	NNS	_	8	pobj
+12	and	and	CC	_	11	cc
+13	cascades	cascade	NNS	_	11	conj
+14	.	.	.	_	2	punct
+

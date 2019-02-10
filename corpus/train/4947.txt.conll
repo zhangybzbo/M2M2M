@@ -1,0 +1,15 @@
+1	Perhaps	perhaps	RB	_	4	advmod
+2	even	even	RB	_	4	advmod
+3	more	more	RBR	_	4	advmod
+4	compelling	compelling	JJ	_	9	advcl
+5	,	,	,	_	9	punct
+6	the	the	DT	_	7	det
+7	design	design	NN	_	9	nsubjpass
+8	is	be	VBZ	_	9	auxpass
+9	rooted	root	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	an	a	DT	_	13	det
+12	optimistic	optimistic	JJ	_	13	amod
+13	worldview	worldview	NN	_	10	pobj
+14	.	.	.	_	9	punct
+

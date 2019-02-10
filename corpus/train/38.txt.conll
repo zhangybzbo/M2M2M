@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	provinces	province	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	divided	divide	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	counties	county	NNS	_	5	pobj
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	shahrestan	shahrestan	NN	_	6	appos
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	,	,	,	_	4	punct
+11	and	and	CC	_	4	cc
+12	subdivided	subdivide	VBN	_	4	conj
+13	into	into	IN	_	12	prep
+14	districts	district	NNS	_	13	pobj
+15	-LRB-	-lrb-	-LRB-	_	16	punct
+16	bakhsh	bakhsh	NN	_	14	appos
+17	-RRB-	-rrb-	-RRB-	_	16	punct
+18	and	and	CC	_	14	cc
+19	sub-districts	sub-district	NNS	_	14	conj
+20	-LRB-	-lrb-	-LRB-	_	21	punct
+21	dehestan	dehestan	NN	_	19	appos
+22	-RRB-	-rrb-	-RRB-	_	21	punct
+23	.	.	.	_	4	punct
+

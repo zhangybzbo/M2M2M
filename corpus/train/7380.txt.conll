@@ -1,0 +1,20 @@
+1	She	she	PRP	_	2	nsubj
+2	looked	look	VBD	_	0	ROOT
+3	like	like	IN	_	2	prep
+4	Lauren	Lauren	NNP	_	5	nn
+5	Bacall	Bacall	NNP	_	3	pobj
+6	in	in	IN	_	2	prep
+7	those	those	DT	_	8	det
+8	days	day	NNS	_	6	pobj
+9	and	and	CC	_	2	cc
+10	dated	date	VBN	_	2	conj
+11	a	a	DT	_	12	det
+12	few	few	JJ	_	10	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	engineers	engineer	NNS	_	13	pobj
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	refinery	refinery	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

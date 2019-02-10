@@ -1,0 +1,23 @@
+1	A	a	DT	_	4	det
+2	British	british	JJ	_	4	amod
+3	prison	prison	NN	_	4	nn
+4	escapee	escapee	NN	_	12	nsubj
+5	who	who	WP	_	6	nsubj
+6	taunted	taunt	VBD	_	4	rcmod
+7	police	police	NNS	_	6	dobj
+8	over	over	IN	_	6	prep
+9	the	the	DT	_	10	det
+10	internet	internet	NN	_	8	pobj
+11	has	have	VBZ	_	12	aux
+12	established	establish	VBN	_	0	ROOT
+13	a	a	DT	_	14	det
+14	following	following	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	more	more	JJR	_	17	mwe
+17	than	than	IN	_	18	quantmod
+18	32000	32000	CD	_	19	num
+19	fans	fan	NNS	_	15	pobj
+20	on	on	IN	_	19	prep
+21	Facebook	Facebook	NNP	_	20	pobj
+22	.	.	.	_	12	punct
+

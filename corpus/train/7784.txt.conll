@@ -1,0 +1,26 @@
+1	So	so	IN	_	6	mark
+2	the	the	DT	_	3	det
+3	inscription	inscription	NN	_	6	nsubj
+4	did	do	VBD	_	6	aux
+5	n't	not	RB	_	6	neg
+6	name	name	VB	_	0	ROOT
+7	the	the	DT	_	8	det
+8	pistol	pistol	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	maker	maker	NN	_	6	dobj
+11	,	,	,	_	6	punct
+12	or	or	CC	_	6	cc
+13	the	the	DT	_	14	det
+14	artist	artist	NN	_	6	conj
+15	who	who	WP	_	16	nsubj
+16	decorated	decorate	VBD	_	14	rcmod
+17	it	it	PRP	_	16	dobj
+18	,	,	,	_	6	punct
+19	or	or	CC	_	6	cc
+20	the	the	DT	_	21	det
+21	year	year	NN	_	6	conj
+22	it	it	PRP	_	24	nsubjpass
+23	was	be	VBD	_	24	auxpass
+24	made	make	VBN	_	21	rcmod
+25	.	.	.	_	6	punct
+

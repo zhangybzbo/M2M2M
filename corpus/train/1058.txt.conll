@@ -1,0 +1,22 @@
+1	Sun	Sun	NNP	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	wind	wind	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	evaporation	evaporation	NN	_	4	dobj
+6	of	of	IN	_	5	prep
+7	water	water	NN	_	6	pobj
+8	,	,	,	_	4	punct
+9	causing	cause	VBG	_	4	vmod
+10	rains	rain	NNS	_	9	dobj
+11	,	,	,	_	4	punct
+12	and	and	CC	_	4	cc
+13	this	this	DT	_	14	det
+14	energy	energy	NN	_	17	nsubjpass
+15	can	can	MD	_	17	aux
+16	be	be	VB	_	17	auxpass
+17	caught	catch	VBN	_	4	conj
+18	using	use	VBG	_	17	xcomp
+19	hydroelectric	hydroelectric	JJ	_	20	amod
+20	power	power	NN	_	18	dobj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+1	Plastic	plastic	JJ	_	6	amod
+2	water	water	NN	_	6	nn
+3	bottles	bottle	NNS	_	6	nn
+4	leak	leak	NN	_	6	nn
+5	toxic	toxic	JJ	_	6	amod
+6	materials	material	NNS	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	water	water	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

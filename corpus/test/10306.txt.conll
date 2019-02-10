@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	choice	choice	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	recorded	record	VBN	_	0	ROOT
+5	when	when	WRB	_	8	advmod
+6	the	the	DT	_	7	det
+7	cow	cow	NN	_	8	nsubj
+8	touched	touch	VBD	_	4	advcl
+9	the	the	DT	_	11	det
+10	training	training	NN	_	11	nn
+11	card	card	NN	_	8	dobj
+12	with	with	IN	_	8	prep
+13	its	its	PRP$	_	14	poss
+14	nuzzle	nuzzle	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

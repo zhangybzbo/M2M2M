@@ -1,0 +1,10 @@
+0	39	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	10	tok id="t1" base="Lisbon" pos="NNP" nn="t2"
+11	17	tok id="t2" base="treaty" pos="NN" nsubj="t4"
+18	21	tok id="t3" base="have" pos="VBZ" aux="t4"
+22	26	tok id="t4" base="come" pos="VBN" ROOT="ROOT"
+27	31	tok id="t5" base="into" pos="IN" prep="t4"
+32	37	tok id="t6" base="force" pos="NN" pobj="t5"
+38	39	tok id="t7" base="-PERIOD-" pos="." punct="t4"
+

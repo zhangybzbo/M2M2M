@@ -1,0 +1,14 @@
+1	An	a	DT	_	3	det
+2	entire	entire	JJ	_	3	amod
+3	panzerkompanie	panzerkompanie	NN	_	4	nsubj
+4	arrived	arrive	VBD	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	reserves	reserve	NNS	_	5	pobj
+7	including	include	VBG	_	6	prep
+8	the	the	DT	_	12	det
+9	attached	attach	VBN	_	12	amod
+10	heavy	heavy	NN	_	12	nn
+11	tank	tank	NN	_	12	nn
+12	platoon	platoon	NN	_	7	pobj
+13	.	.	.	_	4	punct
+

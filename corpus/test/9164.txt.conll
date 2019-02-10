@@ -1,0 +1,11 @@
+1	Gordon	Gordon	NNP	_	4	nn
+2	Brown	Brown	NNP	_	4	nn
+3	speech	speech	NN	_	4	nn
+4	addresses	address	NNS	_	0	ROOT
+5	the	the	DT	_	6	det
+6	critics	critic	NNS	_	4	dep
+7	on	on	IN	_	6	prep
+8	UK	UK	NNP	_	9	nn
+9	immigration	immigration	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

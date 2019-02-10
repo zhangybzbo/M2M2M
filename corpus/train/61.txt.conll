@@ -1,0 +1,11 @@
+1	Both	both	DT	_	3	predet
+2	his	he	PRP$	_	3	poss
+3	feet	foot	NNS	_	6	nsubj
+4	have	have	VBP	_	6	aux
+5	been	be	VBN	_	6	aux
+6	moving	move	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	ball	ball	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

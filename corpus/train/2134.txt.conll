@@ -1,0 +1,19 @@
+1	In	in	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	Senate	Senate	NNP	_	1	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	sizzle	sizzle	NN	_	7	nsubj
+7	comes	come	VBZ	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	an	a	DT	_	12	det
+10	issue	issue	NN	_	12	nn
+11	ad	ad	NN	_	12	nn
+12	bill	bill	NN	_	8	pobj
+13	from	from	IN	_	12	prep
+14	Dem	Dem	NNP	_	17	nn
+15	Sen.	Sen.	NNP	_	17	nn
+16	Jon	Jon	NNP	_	17	nn
+17	Erpenbach	Erpenbach	NNP	_	13	pobj
+18	.	.	.	_	7	punct
+

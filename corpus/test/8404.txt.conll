@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	sheer	sheer	JJ	_	3	amod
+3	scale	scale	NN	_	17	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	death	death	NN	_	4	pobj
+7	and	and	CC	_	6	cc
+8	destruction	destruction	NN	_	6	conj
+9	caused	cause	VBN	_	3	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	15	det
+12	2004	2004	CD	_	15	num
+13	Boxing	Boxing	NNP	_	15	nn
+14	Day	Day	NNP	_	15	nn
+15	tsunami	tsunami	NN	_	10	pobj
+16	is	be	VBZ	_	17	cop
+17	impossible	impossible	JJ	_	0	ROOT
+18	to	to	TO	_	17	prep
+19	fathom	fathom	NN	_	18	pobj
+20	,	,	,	_	17	punct
+21	even	even	RB	_	23	advmod
+22	five	five	CD	_	23	num
+23	years	year	NNS	_	24	npadvmod
+24	on	on	IN	_	17	advmod
+25	.	.	.	_	17	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	basic	basic	JJ	_	3	amod
+3	indicator	indicator	NN	_	16	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	health	health	NN	_	7	nn
+7	condition	condition	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	trees	tree	NNS	_	8	pobj
+10	,	,	,	_	9	punct
+11	stands	stand	NNS	_	9	conj
+12	and	and	CC	_	9	cc
+13	forests	forest	NNS	_	9	conj
+14	is	be	VBZ	_	16	cop
+15	tree	tree	NN	_	16	nn
+16	defoliation	defoliation	NN	_	0	ROOT
+17	.	.	.	_	16	punct
+

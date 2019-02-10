@@ -1,0 +1,17 @@
+1	They	they	PRP	_	2	nsubj
+2	continued	continue	VBD	_	0	ROOT
+3	in	in	IN	_	2	prep
+4	conversation	conversation	NN	_	3	pobj
+5	when	when	WRB	_	8	advmod
+6	the	the	DT	_	7	det
+7	teacher	teacher	NN	_	8	nsubj
+8	tapped	tap	VBD	_	2	advcl
+9	him	he	PRP	_	8	dobj
+10	on	on	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	head	head	NN	_	10	pobj
+13	with	with	IN	_	8	prep
+14	a	a	DT	_	15	det
+15	screwdriver	screwdriver	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

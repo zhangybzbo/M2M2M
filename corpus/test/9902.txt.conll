@@ -1,0 +1,27 @@
+1	These	these	DT	_	4	det
+2	old	old	JJ	_	4	amod
+3	power	power	NN	_	4	nn
+4	plants	plant	NNS	_	5	nsubj
+5	produce	produce	VBP	_	0	ROOT
+6	pollution	pollution	NN	_	5	dobj
+7	that	that	WDT	_	8	nsubj
+8	causes	cause	VBZ	_	6	rcmod
+9	smog	smog	NN	_	8	dobj
+10	,	,	,	_	9	punct
+11	acid	acid	JJ	_	12	amod
+12	rain	rain	NN	_	9	conj
+13	and	and	CC	_	9	cc
+14	global	global	JJ	_	15	amod
+15	warming	warming	NN	_	9	conj
+16	,	,	,	_	5	punct
+17	and	and	CC	_	5	cc
+18	they	they	PRP	_	19	nsubj
+19	generate	generate	VBP	_	5	conj
+20	radioactive	radioactive	JJ	_	21	amod
+21	wastes	waste	NNS	_	19	dobj
+22	and	and	CC	_	21	cc
+23	other	other	JJ	_	25	amod
+24	toxic	toxic	JJ	_	25	amod
+25	pollutants	pollutant	NNS	_	21	conj
+26	.	.	.	_	5	punct
+

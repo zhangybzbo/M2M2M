@@ -1,0 +1,12 @@
+1	Other	other	JJ	_	2	amod
+2	standards	standard	NNS	_	4	nsubj
+3	can	can	MD	_	4	aux
+4	apply	apply	VB	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	products	product	NNS	_	5	pobj
+7	covered	cover	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	this	this	DT	_	10	det
+10	document	document	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

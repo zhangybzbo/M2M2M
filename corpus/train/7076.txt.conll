@@ -1,0 +1,18 @@
+1	Approximately	approximately	RB	_	2	quantmod
+2	$	$	$	_	0	ROOT
+3	2	2	CD	_	2	num
+4	trillions	trillion	NNS	_	6	nsubjpass
+5	are	be	VBP	_	6	auxpass
+6	invested	invest	VBN	_	2	rcmod
+7	into	into	IN	_	6	prep
+8	SRI	srus	NN	_	12	nn
+9	Socially	socially	RB	_	10	advmod
+10	responsible	responsible	JJ	_	12	amod
+11	investing	invest	VBG	_	12	amod
+12	ventures	venture	NNS	_	7	pobj
+13	in	in	IN	_	6	prep
+14	the	the	DT	_	16	det
+15	present	present	JJ	_	16	amod
+16	day	day	NN	_	13	pobj
+17	.	.	.	_	2	punct
+

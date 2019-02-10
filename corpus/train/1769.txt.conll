@@ -1,0 +1,12 @@
+1	Pigs	pig	NNS	_	3	nsubj
+2	really	really	RB	_	3	advmod
+3	fly	fly	VBP	_	0	ROOT
+4	...	...	:	_	3	punct
+5	with	with	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	help	help	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	trampoline	trampoline	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

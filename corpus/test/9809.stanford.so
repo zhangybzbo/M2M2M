@@ -1,0 +1,13 @@
+0	53	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="a" pos="DT" det="t3"
+3	8	tok id="t1" base="Assam" pos="NNP" nn="t3"
+9	14	tok id="t2" base="rebel" pos="NN" nn="t3"
+15	21	tok id="t3" base="leader" pos="NN" nsubjpass="t5"
+22	25	tok id="t4" base="be" pos="VBD" auxpass="t5"
+26	32	tok id="t5" base="hand" pos="VBN" ROOT="ROOT"
+33	37	tok id="t6" base="over" pos="IN" prep="t5"
+38	40	tok id="t7" base="to" pos="TO" pcomp="t6"
+41	44	tok id="t8" base="the" pos="DT" det="t9"
+45	51	tok id="t9" base="police" pos="NN" pobj="t7"
+52	53	tok id="t10" base="-PERIOD-" pos="." punct="t5"
+

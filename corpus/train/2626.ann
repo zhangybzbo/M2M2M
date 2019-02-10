@@ -1,0 +1,3 @@
+T1	Term 17 25	railroad
+T2	Term 48 52	well
+R1	Product-Producer Arg1:T2 Arg2:T1

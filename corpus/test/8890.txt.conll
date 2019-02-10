@@ -1,0 +1,16 @@
+1	Many	many	JJ	_	2	amod
+2	neologisms	neologism	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	come	come	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	popular	popular	JJ	_	7	amod
+7	literature	literature	NN	_	5	pobj
+8	and	and	CC	_	4	cc
+9	tend	tend	VB	_	4	conj
+10	to	to	TO	_	11	aux
+11	appear	appear	VB	_	9	xcomp
+12	in	in	IN	_	11	prep
+13	different	different	JJ	_	14	amod
+14	forms	form	NNS	_	12	pobj
+15	.	.	.	_	4	punct
+

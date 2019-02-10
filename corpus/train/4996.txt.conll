@@ -1,0 +1,20 @@
+1	So	so	RB	_	2	advmod
+2	often	often	RB	_	0	ROOT
+3	the	the	DT	_	4	det
+4	products	product	NNS	_	2	dep
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	gift	gift	NN	_	9	nn
+8	basket	basket	NN	_	9	nn
+9	look	look	NN	_	5	pobj
+10	wonderful	wonderful	JJ	_	9	amod
+11	until	until	IN	_	14	mark
+12	you	you	PRP	_	14	nsubj
+13	actually	actually	RB	_	14	advmod
+14	remove	remove	VB	_	4	vmod
+15	them	they	PRP	_	14	dobj
+16	from	from	IN	_	14	prep
+17	the	the	DT	_	18	det
+18	basket	basket	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

@@ -1,0 +1,16 @@
+1	Electricians	electrician	NNS	_	2	nsubj
+2	start	start	VBP	_	0	ROOT
+3	by	by	IN	_	2	prep
+4	reading	read	VBG	_	3	pcomp
+5	maps	map	NNS	_	4	dobj
+6	-	-	:	_	5	punct
+7	called	call	VBN	_	5	vmod
+8	blueprints	blueprint	NNS	_	7	dep
+9	-	-	:	_	7	punct
+10	that	that	IN	_	7	dep
+11	show	show	NN	_	10	dep
+12	how	how	WRB	_	14	advmod
+13	electricity	electricity	NN	_	14	nsubj
+14	flows	flow	VBZ	_	11	ccomp
+15	.	.	.	_	2	punct
+

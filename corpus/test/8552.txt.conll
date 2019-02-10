@@ -1,0 +1,13 @@
+1	He	he	PRP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	added	add	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	medicine	medicine	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	food	food	NN	_	6	pobj
+9	for	for	IN	_	8	prep
+10	his	he	PRP$	_	11	poss
+11	cat	cat	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

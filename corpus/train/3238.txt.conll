@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	central	central	JJ	_	3	amod
+3	theme	theme	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	book	book	NN	_	4	pobj
+7	is	be	VBZ	_	9	cop
+8	the	the	DT	_	9	det
+9	development	development	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	idea	idea	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	congruence	congruence	NN	_	13	pobj
+15	.	.	.	_	9	punct
+

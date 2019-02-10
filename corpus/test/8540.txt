@@ -1,0 +1,1 @@
+The produced signal sensitively departs from an ideal sine as the input angle approaches the extremes of the range .

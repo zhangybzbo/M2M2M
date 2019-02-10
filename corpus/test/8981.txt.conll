@@ -1,0 +1,15 @@
+1	Women	woman	NNS	_	2	nsubj
+2	improve	improve	VBP	_	0	ROOT
+3	lives	life	NNS	_	2	dobj
+4	of	of	IN	_	3	prep
+5	their	they	PRP$	_	6	poss
+6	families	family	NNS	_	4	pobj
+7	with	with	IN	_	3	prep
+8	the	the	DT	_	9	det
+9	help	help	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	few	few	JJ	_	13	amod
+13	sheep	sheep	NN	_	10	pobj
+14	.	.	.	_	2	punct
+

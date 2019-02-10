@@ -1,0 +1,16 @@
+1	In	in	IN	_	11	prep
+2	recent	recent	JJ	_	3	amod
+3	years	year	NNS	_	1	pobj
+4	,	,	,	_	11	punct
+5	opinions	opinion	NNS	_	11	nsubj
+6	on	on	IN	_	5	prep
+7	classical	classical	JJ	_	9	amod
+8	drive	drive	NN	_	9	nn
+9	theory	theory	NN	_	6	pobj
+10	have	have	VBP	_	11	aux
+11	fallen	fall	VBN	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	contending	contend	VBG	_	14	amod
+14	groups	group	NNS	_	12	pobj
+15	.	.	.	_	11	punct
+

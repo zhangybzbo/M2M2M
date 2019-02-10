@@ -1,0 +1,7 @@
+1	The	the	DT	_	2	det
+2	dose	dose	NN	_	3	nsubj
+3	makes	make	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	poison	poison	NN	_	3	dobj
+6	.	.	.	_	3	punct
+

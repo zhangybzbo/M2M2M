@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	full	full	JJ	_	3	amod
+3	amount	amount	NN	_	21	nsubjpass
+4	paid	pay	VBN	_	3	vmod
+5	to	to	TO	_	4	prep
+6	Aardman	Aardman	NNP	_	5	pobj
+7	for	for	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	blaze	blaze	NN	_	7	pobj
+10	,	,	,	_	9	punct
+11	which	which	WDT	_	13	nsubjpass
+12	was	be	VBD	_	13	auxpass
+13	triggered	trigger	VBN	_	9	rcmod
+14	by	by	IN	_	13	prep
+15	an	a	DT	_	17	det
+16	electrical	electrical	JJ	_	17	amod
+17	fault	fault	NN	_	14	pobj
+18	,	,	,	_	9	punct
+19	was	be	VBD	_	21	auxpass
+20	not	not	RB	_	21	neg
+21	disclosed	disclose	VBN	_	0	ROOT
+22	.	.	.	_	21	punct
+

@@ -1,0 +1,17 @@
+1	Another	another	DT	_	2	det
+2	period	period	NN	_	6	nsubjpass
+3	of	of	IN	_	2	prep
+4	silence	silence	NN	_	3	pobj
+5	was	be	VBD	_	6	auxpass
+6	broken	break	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	one	one	CD	_	7	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	men	man	NNS	_	9	pobj
+12	who	who	WP	_	13	nsubj
+13	told	tell	VBD	_	11	rcmod
+14	a	a	DT	_	15	det
+15	joke	joke	NN	_	13	dobj
+16	.	.	.	_	6	punct
+

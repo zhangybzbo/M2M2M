@@ -1,0 +1,16 @@
+1	In	in	IN	_	8	prep
+2	recent	recent	JJ	_	3	amod
+3	years	year	NNS	_	1	pobj
+4	much	much	JJ	_	5	amod
+5	work	work	NN	_	8	nsubjpass
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	invested	invest	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	new	new	JJ	_	12	amod
+12	model	model	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	computers	computer	NNS	_	13	pobj
+15	.	.	.	_	8	punct
+

@@ -1,0 +1,17 @@
+1	Edmund	Edmund	NNP	_	2	nsubj
+2	produced	produce	VBD	_	0	ROOT
+3	a	a	DT	_	8	det
+4	small	small	JJ	_	8	amod
+5	,	,	,	_	8	punct
+6	green	green	JJ	_	8	amod
+7	spiral	spiral	NN	_	8	nn
+8	notebook	notebook	NN	_	2	dobj
+9	from	from	IN	_	2	prep
+10	the	the	DT	_	12	det
+11	back	back	JJ	_	12	amod
+12	pocket	pocket	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	his	he	PRP$	_	15	poss
+15	jeans	jeans	NNS	_	13	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,24 @@
+1	You	you	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	bottle	bottle	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	enough	enough	JJ	_	7	amod
+7	marbles	marble	NNS	_	5	pobj
+8	in	in	IN	_	7	prep
+9	it	it	PRP	_	8	pobj
+10	to	to	TO	_	11	aux
+11	make	make	VB	_	4	vmod
+12	one	one	CD	_	13	num
+13	row	row	NN	_	11	dobj
+14	across	across	IN	_	11	prep
+15	the	the	DT	_	16	det
+16	bottom	bottom	NN	_	14	pobj
+17	as	as	IN	_	19	mark
+18	it	it	PRP	_	19	nsubj
+19	rolls	roll	VBZ	_	2	advcl
+20	down	down	RP	_	19	prt
+21	the	the	DT	_	22	det
+22	track	track	NN	_	19	dobj
+23	.	.	.	_	2	punct
+

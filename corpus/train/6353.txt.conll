@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	website	website	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	concerned	concern	VBN	_	0	ROOT
+5	with	with	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	dissemination	dissemination	NN	_	5	pobj
+8	and	and	CC	_	7	cc
+9	exchange	exchange	NN	_	7	conj
+10	of	of	IN	_	7	prep
+11	information	information	NN	_	10	pobj
+12	about	about	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	EnCoRe	encore	NN	_	15	nn
+15	project	project	NN	_	12	pobj
+16	.	.	.	_	4	punct
+

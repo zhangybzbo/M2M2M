@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	Code	Code	NNP	_	3	nsubj
+3	applies	apply	VBZ	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	all	all	DT	_	6	det
+6	sponsorship	sponsorship	NN	_	4	pobj
+7	related	related	JJ	_	6	amod
+8	to	to	TO	_	7	prep
+9	corporate	corporate	JJ	_	10	amod
+10	image	image	NN	_	8	pobj
+11	,	,	,	_	10	punct
+12	brands	brand	NNS	_	10	conj
+13	,	,	,	_	10	punct
+14	products	product	NNS	_	10	conj
+15	,	,	,	_	10	punct
+16	services	service	NNS	_	17	nn
+17	activities	activity	NNS	_	10	conj
+18	or	or	CC	_	10	cc
+19	events	event	NNS	_	10	conj
+20	of	of	IN	_	19	prep
+21	any	any	DT	_	22	det
+22	kind	kind	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

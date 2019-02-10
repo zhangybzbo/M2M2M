@@ -1,0 +1,22 @@
+1	Surely	surely	RB	_	4	advmod
+2	the	the	DT	_	3	det
+3	answer	answer	NN	_	4	nsubj
+4	grows	grow	VBZ	_	0	ROOT
+5	partly	partly	RB	_	4	advmod
+6	from	from	IN	_	4	prep
+7	the	the	DT	_	9	det
+8	20th	20th	JJ	_	9	amod
+9	century	century	NN	_	13	poss
+10	's	's	POS	_	9	possessive
+11	long	long	JJ	_	13	amod
+12	strange	strange	JJ	_	13	amod
+13	trend	trend	NN	_	6	pobj
+14	toward	toward	IN	_	13	prep
+15	treating	treat	VBG	_	14	pcomp
+16	children	child	NNS	_	15	dobj
+17	as	as	IN	_	15	prep
+18	a	a	DT	_	20	det
+19	separate	separate	JJ	_	20	amod
+20	species	species	NNS	_	17	pobj
+21	.	.	.	_	4	punct
+

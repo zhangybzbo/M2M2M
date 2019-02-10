@@ -1,0 +1,16 @@
+1	My	my	PRP$	_	3	poss
+2	last	last	JJ	_	3	amod
+3	post	post	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	driven	drive	VBN	_	0	ROOT
+6	some	some	DT	_	8	det
+7	great	great	JJ	_	8	amod
+8	discussion	discussion	NN	_	5	dobj
+9	around	around	IN	_	8	prep
+10	what	what	WP	_	14	det
+11	an	a	DT	_	14	det
+12	open	open	JJ	_	14	amod
+13	standard	standard	JJ	_	14	amod
+14	means	means	NNS	_	9	pobj
+15	.	.	.	_	5	punct
+

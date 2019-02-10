@@ -1,0 +1,19 @@
+1	Nectar	Nectar	NNP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	the	the	DT	_	5	det
+4	sweet	sweet	JJ	_	5	amod
+5	flower	flower	NN	_	0	ROOT
+6	sap	sap	VBP	_	5	vmod
+7	that	that	IN	_	9	mark
+8	bees	bee	NNS	_	9	nsubj
+9	make	make	VBP	_	6	ccomp
+10	into	into	IN	_	9	prep
+11	honey	honey	NN	_	10	pobj
+12	by	by	IN	_	9	prep
+13	evaporating	evaporate	VBG	_	12	pcomp
+14	off	off	RP	_	13	prt
+15	the	the	DT	_	17	det
+16	excess	excess	JJ	_	17	amod
+17	water	water	NN	_	13	dobj
+18	.	.	.	_	5	punct
+

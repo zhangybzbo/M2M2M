@@ -1,0 +1,19 @@
+1	Caryn	Caryn	NNP	_	2	nn
+2	James	James	NNP	_	15	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	6	det
+5	film	film	NN	_	6	nn
+6	critic	critic	NN	_	2	appos
+7	for	for	IN	_	6	prep
+8	The	the	DT	_	11	det
+9	New	New	NNP	_	11	nn
+10	York	York	NNP	_	11	nn
+11	Times	Times	NNP	_	7	pobj
+12	,	,	,	_	2	punct
+13	has	have	VBZ	_	15	aux
+14	just	just	RB	_	15	advmod
+15	completed	complete	VBN	_	0	ROOT
+16	a	a	DT	_	17	det
+17	novel	novel	NN	_	15	dobj
+18	.	.	.	_	15	punct
+

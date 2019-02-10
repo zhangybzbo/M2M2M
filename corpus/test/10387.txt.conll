@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	disease	disease	NN	_	5	nsubj
+3	most	most	RBS	_	4	advmod
+4	often	often	RB	_	5	advmod
+5	starts	start	VBZ	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	palm	palm	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	hand	hand	NN	_	9	pobj
+12	at	at	IN	_	5	prep
+13	the	the	DT	_	14	det
+14	base	base	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	ring	ring	NN	_	15	pobj
+18	or	or	CC	_	17	cc
+19	small	small	JJ	_	20	amod
+20	fingers	finger	NNS	_	17	conj
+21	.	.	.	_	5	punct
+

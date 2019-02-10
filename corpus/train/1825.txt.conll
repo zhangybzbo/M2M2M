@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	artists	artist	NNS	_	3	nsubj
+3	carve	carve	VBP	_	0	ROOT
+4	away	away	RB	_	3	advmod
+5	the	the	DT	_	6	det
+6	surface	surface	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	9	det
+9	chisel	chisel	VBP	_	7	pobj
+10	.	.	.	_	3	punct
+

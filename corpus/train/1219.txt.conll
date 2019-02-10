@@ -1,0 +1,20 @@
+1	Almost	almost	RB	_	2	advmod
+2	all	all	DT	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	today	today	NN	_	6	poss
+5	's	's	POS	_	4	possessive
+6	automobiles	automobile	NNS	_	3	pobj
+7	have	have	VBP	_	8	aux
+8	painted	paint	VBN	_	0	ROOT
+9	plastic	plastic	JJ	_	10	amod
+10	bumpers	bumper	NNS	_	8	dobj
+11	because	because	IN	_	15	mark
+12	they	they	PRP	_	15	nsubjpass
+13	are	be	VBP	_	15	auxpass
+14	easily	easily	RB	_	15	advmod
+15	damaged	damage	VBN	_	8	advcl
+16	during	during	IN	_	15	prep
+17	parking	parking	NN	_	18	nn
+18	maneuvers	maneuver	NNS	_	16	pobj
+19	.	.	.	_	8	punct
+

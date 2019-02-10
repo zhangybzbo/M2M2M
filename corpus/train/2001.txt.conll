@@ -1,0 +1,23 @@
+1	It	it	PRP	_	3	nsubj
+2	's	be	VBZ	_	3	cop
+3	hell	hell	NN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	hospitals	hospital	NNS	_	4	pobj
+7	where	where	WRB	_	11	advmod
+8	the	the	DT	_	9	det
+9	amputees	amputee	NNS	_	11	nsubj
+10	's	's	POS	_	9	possessive
+11	screaming	scream	VBG	_	6	rcmod
+12	after	after	IN	_	18	mark
+13	the	the	DT	_	14	det
+14	lapse	lapse	NN	_	18	nsubjpass
+15	of	of	IN	_	14	prep
+16	morphine	morphine	NN	_	15	pobj
+17	is	be	VBZ	_	18	auxpass
+18	heard	hear	VBN	_	11	advcl
+19	all	all	PDT	_	21	predet
+20	the	the	DT	_	21	det
+21	time	time	NN	_	18	tmod
+22	.	.	.	_	3	punct
+

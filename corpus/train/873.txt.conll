@@ -1,0 +1,20 @@
+1	In	in	IN	_	12	prep
+2	the	the	DT	_	3	det
+3	process	process	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	engagement	engagement	NN	_	4	pobj
+6	the	the	DT	_	8	det
+7	two	two	CD	_	8	num
+8	blades	blade	NNS	_	12	nsubj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	scissors	scissors	NNS	_	9	pobj
+12	engage	engage	VBP	_	0	ROOT
+13	a	a	DT	_	14	det
+14	piece	piece	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	tissue	tissue	NN	_	15	pobj
+17	to	to	TO	_	18	aux
+18	cut	cut	VB	_	14	vmod
+19	.	.	.	_	12	punct
+

@@ -1,0 +1,10 @@
+0	48	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="Sinusitis" pos="NNP" nsubj="t3"
+10	13	tok id="t1" base="and" pos="CC" cc="t0"
+14	22	tok id="t2" base="tinnitus" pos="NN" conj="t0"
+23	28	tok id="t3" base="cause" pos="VBP" ROOT="ROOT"
+29	35	tok id="t4" base="stress" pos="NN" dobj="t3"
+36	38	tok id="t5" base="or" pos="CC" cc="t4"
+39	46	tok id="t6" base="anxiety" pos="NN" conj="t4"
+47	48	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

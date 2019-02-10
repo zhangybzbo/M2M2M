@@ -1,0 +1,12 @@
+1	Illinois	Illinois	NNP	_	2	nn
+2	race	race	NN	_	6	nsubj
+3	for	for	IN	_	2	prep
+4	lieutenant	lieutenant	NN	_	5	nn
+5	governor	governor	NN	_	3	pobj
+6	attracts	attract	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	crowd	crowd	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	candidates	candidate	NNS	_	9	pobj
+11	.	.	.	_	6	punct
+

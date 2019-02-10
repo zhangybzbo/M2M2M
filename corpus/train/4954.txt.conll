@@ -1,0 +1,22 @@
+1	As	as	IN	_	3	mark
+2	delegates	delegate	NNS	_	3	nsubj
+3	gather	gather	VBP	_	15	advcl
+4	in	in	IN	_	3	prep
+5	Copenhagen	Copenhagen	NNP	_	4	pobj
+6	for	for	IN	_	3	prep
+7	the	the	DT	_	10	det
+8	UN	UN	NNP	_	10	nn
+9	climate	climate	NN	_	10	nn
+10	summit	summit	NN	_	6	pobj
+11	,	,	,	_	15	punct
+12	a	a	DT	_	14	det
+13	new	new	JJ	_	14	amod
+14	poll	poll	NN	_	15	nsubj
+15	shows	show	VBZ	_	0	ROOT
+16	growing	grow	VBG	_	17	amod
+17	concern	concern	NN	_	15	dobj
+18	for	for	IN	_	17	prep
+19	climate	climate	NN	_	20	nn
+20	change	change	NN	_	18	pobj
+21	.	.	.	_	15	punct
+

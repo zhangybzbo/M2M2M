@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	reports	report	NNS	_	8	nsubjpass
+3	regarding	regard	VBG	_	2	vmod
+4	the	the	DT	_	5	det
+5	casualties	casualty	NNS	_	3	dobj
+6	has	have	VBZ	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	announced	announce	VBN	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	loss	loss	NN	_	21	nsubjpass
+12	that	that	WDT	_	15	nsubjpass
+13	has	have	VBZ	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	caused	cause	VBN	_	11	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	quake	quake	NN	_	16	pobj
+19	is	be	VBZ	_	21	aux
+20	being	be	VBG	_	21	auxpass
+21	estimated	estimate	VBN	_	8	conj
+22	.	.	.	_	8	punct
+

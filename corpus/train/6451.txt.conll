@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	animal	animal	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	lowered	lower	VBN	_	0	ROOT
+5	until	until	IN	_	9	mark
+6	its	its	PRP$	_	8	poss
+7	pelvic	pelvic	JJ	_	8	amod
+8	limbs	limb	NNS	_	9	nsubj
+9	touch	touch	VBP	_	4	advcl
+10	the	the	DT	_	11	det
+11	floor	floor	NN	_	9	dobj
+12	or	or	CC	_	11	cc
+13	a	a	DT	_	16	det
+14	solid	solid	JJ	_	16	amod
+15	supporting	support	VBG	_	16	amod
+16	surface	surface	NN	_	11	conj
+17	.	.	.	_	4	punct
+

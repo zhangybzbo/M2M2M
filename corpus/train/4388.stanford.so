@@ -1,0 +1,9 @@
+0	37	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="house" pos="NN" nsubj="t3"
+10	12	tok id="t2" base="be" pos="VBZ" aux="t3"
+13	18	tok id="t3" base="go" pos="VBG" ROOT="ROOT"
+19	23	tok id="t4" base="into" pos="IN" prep="t3"
+24	35	tok id="t5" base="foreclosure" pos="NN" pobj="t4"
+36	37	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

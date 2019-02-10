@@ -1,0 +1,14 @@
+1	Plants	plant	NNS	_	8	nsubjpass
+2	from	from	IN	_	1	prep
+3	the	the	DT	_	6	det
+4	tissue	tissue	NN	_	6	nn
+5	culture	culture	NN	_	6	nn
+6	laboratory	laboratory	NN	_	2	pobj
+7	were	be	VBD	_	8	auxpass
+8	brought	bring	VBN	_	0	ROOT
+9	into	into	IN	_	8	prep
+10	plant	plant	NN	_	12	nn
+11	growth	growth	NN	_	12	nn
+12	rooms	room	NNS	_	9	pobj
+13	.	.	.	_	8	punct
+

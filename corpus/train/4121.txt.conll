@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	best	best	JJS	_	3	amod
+3	cheeses	cheese	NNS	_	4	nsubj
+4	use	use	VBP	_	0	ROOT
+5	a	a	DT	_	6	det
+6	rennet	rennet	NN	_	4	dobj
+7	naturally	naturally	RB	_	8	advmod
+8	produced	produce	VBN	_	6	vmod
+9	by	by	IN	_	8	prep
+10	animals	animal	NNS	_	9	pobj
+11	and	and	CC	_	10	cc
+12	unpasteurised	unpasteurised	JJ	_	13	amod
+13	milk	milk	NN	_	10	conj
+14	from	from	IN	_	8	prep
+15	the	the	DT	_	17	det
+16	neighbourhood	neighbourhood	NN	_	17	nn
+17	farm	farm	NN	_	14	pobj
+18	with	with	IN	_	17	prep
+19	its	its	PRP$	_	20	poss
+20	bacteria	bacterium	NNS	_	18	pobj
+21	and	and	CC	_	20	cc
+22	nutrients	nutrient	NNS	_	20	conj
+23	intact	intact	JJ	_	22	amod
+24	.	.	.	_	4	punct
+

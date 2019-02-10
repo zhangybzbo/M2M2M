@@ -1,0 +1,25 @@
+1	As	as	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	Gondorians	Gondorians	NNP	_	4	nsubj
+4	moved	move	VBD	_	0	ROOT
+5	forward	forward	RB	_	4	advmod
+6	the	the	DT	_	8	det
+7	evil	evil	JJ	_	8	amod
+8	force	force	NN	_	9	nsubj
+9	started	start	VBD	_	4	ccomp
+10	to	to	TO	_	11	aux
+11	withdraw	withdraw	VB	_	9	xcomp
+12	,	,	,	_	11	punct
+13	unleashing	unleash	VBG	_	11	xcomp
+14	a	a	DT	_	15	det
+15	rain	rain	NN	_	13	dobj
+16	of	of	IN	_	15	prep
+17	deadly	deadly	JJ	_	18	amod
+18	arrows	arrow	NNS	_	16	pobj
+19	into	into	IN	_	13	prep
+20	the	the	DT	_	23	det
+21	heavily	heavily	RB	_	22	advmod
+22	armoured	armoured	JJ	_	23	amod
+23	Gondorians	Gondorians	NNP	_	19	pobj
+24	.	.	.	_	4	punct
+

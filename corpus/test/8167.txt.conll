@@ -1,0 +1,18 @@
+1	Formation	formation	NN	_	9	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	corps	corps	NN	_	2	pobj
+5	of	of	IN	_	4	prep
+6	medical	medical	JJ	_	7	amod
+7	cadets	cadet	NNS	_	5	pobj
+8	was	be	VBD	_	9	auxpass
+9	approved	approve	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	Congress	Congress	NNP	_	10	pobj
+12	on	on	IN	_	9	prep
+13	August	August	NNP	_	12	pobj
+14	3	3	CD	_	13	num
+15	,	,	,	_	13	punct
+16	1861	1861	CD	_	13	num
+17	.	.	.	_	9	punct
+

@@ -1,0 +1,26 @@
+1	On	on	IN	_	8	prep
+2	a	a	DT	_	3	det
+3	friend	friend	NN	_	5	poss
+4	's	's	POS	_	3	possessive
+5	advice	advice	NN	_	1	pobj
+6	,	,	,	_	8	punct
+7	I	I	PRP	_	8	nsubj
+8	purchased	purchase	VBD	_	0	ROOT
+9	a	a	DT	_	10	det
+10	sauerkraut	sauerkraut	NN	_	8	dobj
+11	and	and	CC	_	10	cc
+12	kimchi	kimchus	NN	_	13	nn
+13	maker	maker	NN	_	10	conj
+14	here	here	RB	_	8	advmod
+15	and	and	CC	_	8	cc
+16	it	it	PRP	_	19	nsubj
+17	is	be	VBZ	_	19	cop
+18	just	just	RB	_	19	advmod
+19	fabulous	fabulous	JJ	_	8	conj
+20	-LRB-	-lrb-	-LRB-	_	22	punct
+21	and	and	CC	_	22	cc
+22	cheap	cheap	JJ	_	19	dep
+23	too	too	RB	_	22	advmod
+24	-RRB-	-rrb-	-RRB-	_	22	punct
+25	.	.	.	_	8	punct
+

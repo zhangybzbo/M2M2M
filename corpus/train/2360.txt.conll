@@ -1,0 +1,27 @@
+1	Thermocerin	Thermocerin	NNP	_	6	nsubj
+2	is	be	VBZ	_	6	cop
+3	a	a	DT	_	6	det
+4	powerful	powerful	JJ	_	6	amod
+5	fat	fat	JJ	_	6	amod
+6	burner	burner	NN	_	0	ROOT
+7	that	that	WDT	_	8	nsubj
+8	works	work	VBZ	_	6	rcmod
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	combination	combination	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	natural	natural	JJ	_	14	amod
+14	herbs	herb	NNS	_	12	pobj
+15	such	such	JJ	_	16	mwe
+16	as	as	IN	_	14	prep
+17	White	White	NNP	_	16	pobj
+18	and	and	CC	_	17	cc
+19	Green	Green	NNP	_	20	nn
+20	Tea	Tea	NNP	_	17	conj
+21	,	,	,	_	17	punct
+22	Capsaicin	Capsaicin	NNP	_	17	conj
+23	,	,	,	_	17	punct
+24	and	and	CC	_	17	cc
+25	Caffeine	Caffeine	NNP	_	17	conj
+26	.	.	.	_	6	punct
+

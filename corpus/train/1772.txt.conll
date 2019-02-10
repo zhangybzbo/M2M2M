@@ -1,0 +1,26 @@
+1	For	for	IN	_	10	prep
+2	me	I	PRP	_	1	pobj
+3	,	,	,	_	10	punct
+4	the	the	DT	_	7	det
+5	most	most	RBS	_	6	advmod
+6	interesting	interesting	JJ	_	7	amod
+7	thing	thing	NN	_	10	nsubj
+8	was	be	VBD	_	10	cop
+9	some	some	DT	_	10	det
+10	pottery	pottery	NN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	people	people	NNS	_	11	pobj
+13	who	who	WP	_	17	nsubjpass
+14	are	be	VBP	_	17	auxpass
+15	so	so	RB	_	16	advmod
+16	well	well	RB	_	17	advmod
+17	known	know	VBN	_	12	rcmod
+18	for	for	IN	_	17	prep
+19	their	they	PRP$	_	20	poss
+20	pottery	pottery	NN	_	18	pobj
+21	like	like	IN	_	20	prep
+22	Picasso	Picasso	NNP	_	21	pobj
+23	or	or	CC	_	22	cc
+24	Miro	Miro	NNP	_	22	conj
+25	.	.	.	_	10	punct
+

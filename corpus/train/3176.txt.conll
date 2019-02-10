@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	det
+2	week	week	NN	_	5	tmod
+3	the	the	DT	_	4	det
+4	organist	organist	NN	_	5	nsubj
+5	was	be	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	nearby	nearby	JJ	_	10	amod
+8	Trinity	Trinity	NNP	_	10	nn
+9	Episcopal	Episcopal	NNP	_	10	nn
+10	church	church	NN	_	6	pobj
+11	,	,	,	_	5	punct
+12	and	and	CC	_	5	cc
+13	he	he	PRP	_	14	nsubj
+14	did	do	VBD	_	5	conj
+15	a	a	DT	_	17	det
+16	wonderful	wonderful	JJ	_	17	amod
+17	job	job	NN	_	14	dobj
+18	.	.	.	_	5	punct
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	world	world	NN	_	6	poss
+3	's	's	POS	_	2	possessive
+4	largest	largest	JJS	_	6	amod
+5	aid	aid	NN	_	6	nn
+6	organisation	organisation	NN	_	11	nsubj
+7	founded	found	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	woman	woman	NN	_	8	pobj
+11	celebrates	celebrate	VBZ	_	0	ROOT
+12	90th	90th	JJ	_	13	amod
+13	anniversary	anniversary	NN	_	11	dobj
+14	.	.	.	_	11	punct
+

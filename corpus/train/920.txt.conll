@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	reaction	reaction	NN	_	3	nsubj
+3	starts	start	VBZ	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	a	a	DT	_	8	det
+6	rather	rather	RB	_	7	advmod
+7	low	low	JJ	_	8	amod
+8	temperature	temperature	NN	_	4	pobj
+9	-LRB-	-lrb-	-LRB-	_	11	punct
+10	+	+	CC	_	11	cc
+11	5C	5c	NN	_	3	dep
+12	-RRB-	-rrb-	-RRB-	_	11	punct
+13	,	,	,	_	3	punct
+14	and	and	CC	_	3	cc
+15	the	the	DT	_	16	det
+16	calorimeter	calorimeter	NN	_	18	nsubjpass
+17	is	be	VBZ	_	18	auxpass
+18	run	run	VBN	_	3	conj
+19	from	from	IN	_	18	prep
+20	40	40	CD	_	19	pobj
+21	to	to	TO	_	19	prep
+22	130C	130c	CD	_	21	pobj
+23	.	.	.	_	3	punct
+

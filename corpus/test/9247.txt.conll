@@ -1,0 +1,9 @@
+1	Seven	seven	CD	_	2	num
+2	tears	tear	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	flown	fly	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	river	river	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

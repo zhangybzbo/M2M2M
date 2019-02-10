@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	temperature	temperature	NN	_	3	nn
+3	distributions	distribution	NNS	_	15	nsubjpass
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	vial	vial	NN	_	4	pobj
+7	during	during	IN	_	3	prep
+8	freeze-drying	freeze-drying	NN	_	7	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	skim	skim	NN	_	13	nn
+12	milk	milk	NN	_	13	nn
+13	solution	solution	NN	_	9	pobj
+14	were	be	VBD	_	15	auxpass
+15	determined	determine	VBN	_	0	ROOT
+16	experimentally	experimentally	RB	_	15	advmod
+17	.	.	.	_	15	punct
+

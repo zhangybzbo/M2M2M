@@ -1,0 +1,27 @@
+1	However	however	RB	_	17	advmod
+2	,	,	,	_	17	punct
+3	the	the	DT	_	4	det
+4	fact	fact	NN	_	17	nsubj
+5	that	that	IN	_	9	mark
+6	the	the	DT	_	8	det
+7	guinea	guinea	NN	_	8	nn
+8	pigs	pig	NNS	_	9	nsubj
+9	appeared	appear	VBD	_	4	ccomp
+10	to	to	TO	_	11	aux
+11	function	function	VB	_	9	xcomp
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	16	det
+14	normal	normal	JJ	_	16	amod
+15	physiological	physiological	JJ	_	16	amod
+16	manner	manner	NN	_	12	pobj
+17	indicates	indicate	VBZ	_	0	ROOT
+18	that	that	IN	_	21	mark
+19	the	the	DT	_	20	det
+20	diets	diet	NNS	_	21	nsubj
+21	contained	contain	VBD	_	17	ccomp
+22	the	the	DT	_	25	det
+23	necessary	necessary	JJ	_	25	amod
+24	energy	energy	NN	_	25	nn
+25	density	density	NN	_	21	dobj
+26	.	.	.	_	17	punct
+

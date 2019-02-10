@@ -1,0 +1,24 @@
+1	We	we	PRP	_	2	nsubj
+2	think	think	VBP	_	0	ROOT
+3	that	that	DT	_	6	nsubj
+4	's	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	case	case	NN	_	2	ccomp
+7	where	where	WRB	_	11	advmod
+8	the	the	DT	_	9	det
+9	builder	builder	NN	_	11	nsubj
+10	has	have	VBZ	_	11	aux
+11	targeted	target	VBN	_	6	rcmod
+12	the	the	DT	_	13	det
+13	market	market	NN	_	11	dobj
+14	with	with	IN	_	11	prep
+15	the	the	DT	_	17	det
+16	right	right	JJ	_	17	amod
+17	product	product	NN	_	14	pobj
+18	and	and	CC	_	11	cc
+19	has	have	VBZ	_	20	aux
+20	priced	price	VBN	_	11	conj
+21	it	it	PRP	_	20	dobj
+22	well	well	RB	_	20	advmod
+23	.	.	.	_	2	punct
+

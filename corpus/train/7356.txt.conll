@@ -1,0 +1,27 @@
+1	Their	they	PRP$	_	3	poss
+2	chemical	chemical	NN	_	3	nn
+3	activation	activation	NN	_	15	nsubj
+4	by	by	IN	_	3	prep
+5	light	light	NN	_	4	pobj
+6	-LRB-	-lrb-	-LRB-	_	7	punct
+7	halogen	halogen	NN	_	5	appos
+8	,	,	,	_	7	punct
+9	plasma	plasma	NN	_	7	conj
+10	,	,	,	_	7	punct
+11	lasers	laser	NNS	_	7	conj
+12	,	,	,	_	7	punct
+13	etc.	etc.	FW	_	7	dep
+14	-RRB-	-rrb-	-RRB-	_	7	punct
+15	enhances	enhance	VBZ	_	0	ROOT
+16	their	they	PRP$	_	17	poss
+17	efficiency	efficiency	NN	_	15	dobj
+18	by	by	IN	_	15	prep
+19	reducing	reduce	VBG	_	18	pcomp
+20	exposure	exposure	NN	_	21	nn
+21	time	time	NN	_	19	dobj
+22	and	and	CC	_	19	cc
+23	number	number	NN	_	19	conj
+24	of	of	IN	_	23	prep
+25	appointments	appointment	NNS	_	24	pobj
+26	.	.	.	_	15	punct
+

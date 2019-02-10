@@ -1,0 +1,12 @@
+0	47	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	7	tok id="t1" base="two" pos="CD" num="t2"
+8	11	tok id="t2" base="man" pos="NNS" nsubj="t3"
+12	17	tok id="t3" base="move" pos="VBD" ROOT="ROOT"
+18	21	tok id="t4" base="the" pos="DT" det="t5"
+22	31	tok id="t5" base="furniture" pos="NN" dobj="t3"
+32	36	tok id="t6" base="into" pos="IN" prep="t3"
+37	40	tok id="t7" base="the" pos="DT" det="t8"
+41	45	tok id="t8" base="room" pos="NN" pobj="t6"
+46	47	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

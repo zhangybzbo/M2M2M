@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	V8	v8	NN	_	3	nn
+3	engine	engine	NN	_	0	ROOT
+4	mated	mate	VBN	_	3	vmod
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	manual	manual	JJ	_	9	amod
+8	transmission	transmission	NN	_	9	nn
+9	powers	power	NNS	_	5	pobj
+10	the	the	DT	_	12	det
+11	convertible	convertible	JJ	_	12	amod
+12	concept	concept	NN	_	9	dep
+13	.	.	.	_	3	punct
+

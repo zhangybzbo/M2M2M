@@ -1,0 +1,15 @@
+1	A	a	DT	_	4	det
+2	small	small	JJ	_	4	amod
+3	steel	steel	NN	_	4	nn
+4	cube	cube	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	found	find	VBN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	block	block	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	coal	coal	NN	_	10	pobj
+12	in	in	IN	_	9	prep
+13	Austria	Austria	NNP	_	12	pobj
+14	.	.	.	_	6	punct
+

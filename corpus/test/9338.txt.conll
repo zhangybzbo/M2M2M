@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	preview	preview	NN	_	10	nsubjpass
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	7	det
+5	new	new	JJ	_	7	amod
+6	Dell	Dell	NNP	_	7	nn
+7	laptop	laptop	NN	_	3	pobj
+8	has	have	VBZ	_	10	aux
+9	been	be	VBN	_	10	auxpass
+10	leaked	leak	VBN	_	0	ROOT
+11	to	to	TO	_	10	prep
+12	this	this	DT	_	13	det
+13	blog	blog	NN	_	11	pobj
+14	.	.	.	_	10	punct
+

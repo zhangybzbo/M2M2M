@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	mighty	mighty	JJ	_	3	amod
+3	chaos	chaos	NN	_	5	nsubj
+4	warships	warship	NNS	_	3	dep
+5	let	let	VBP	_	0	ROOT
+6	down	down	RP	_	5	prt
+7	a	a	DT	_	8	det
+8	hailstorm	hailstorm	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	gunships	gunship	NNS	_	9	pobj
+11	and	and	CC	_	8	cc
+12	drop	drop	VB	_	8	conj
+13	pods	pod	NNS	_	12	dobj
+14	,	,	,	_	5	punct
+15	flooding	flood	VBG	_	5	vmod
+16	the	the	DT	_	17	det
+17	planet	planet	NN	_	15	dobj
+18	with	with	IN	_	15	prep
+19	vile	vile	JJ	_	18	pobj
+20	and	and	CC	_	19	cc
+21	corrupted	corrupted	JJ	_	19	conj
+22	plague	plague	VB	_	19	dep
+23	marines	marine	NNS	_	22	dobj
+24	.	.	.	_	5	punct
+

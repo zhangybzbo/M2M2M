@@ -1,0 +1,17 @@
+1	A	a	DT	_	3	det
+2	witness	witness	NN	_	3	nn
+3	statement	statement	NN	_	4	nsubj
+4	contains	contain	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	witness	witness	NN	_	9	poss
+7	's	's	POS	_	6	possessive
+8	factual	factual	JJ	_	9	amod
+9	account	account	NN	_	4	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	circumstances	circumstance	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	dispute	dispute	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

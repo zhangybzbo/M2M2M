@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	viewing	view	VBG	_	3	amod
+3	line	line	NN	_	4	nsubj
+4	starts	start	VBZ	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	magic	magic	JJ	_	9	amod
+8	trick	trick	NN	_	9	nn
+9	aisle	aisle	NN	_	5	pobj
+10	.	.	.	_	4	punct
+

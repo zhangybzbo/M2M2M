@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	hidden	hide	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	body	body	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	turk	turk	NN	_	8	pobj
+11	itself	itself	PRP	_	10	npadvmod
+12	.	.	.	_	4	punct
+

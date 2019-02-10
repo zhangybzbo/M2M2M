@@ -1,0 +1,16 @@
+1	Nails	Nails	NNPS	_	2	nsubj
+2	grow	grow	VBP	_	0	ROOT
+3	out	out	IN	_	2	prep
+4	of	of	IN	_	3	pcomp
+5	deep	deep	JJ	_	4	pobj
+6	folds	fold	VBZ	_	2	dep
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	skin	skin	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	fingers	finger	NNS	_	10	pobj
+13	and	and	CC	_	12	cc
+14	toes	toe	NNS	_	12	conj
+15	.	.	.	_	2	punct
+

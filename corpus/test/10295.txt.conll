@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	life	life	NN	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	kathoey	kathoey	NN	_	7	nn
+6	kick	kick	NN	_	7	nn
+7	boxer	boxer	NN	_	3	pobj
+8	is	be	VBZ	_	9	auxpass
+9	related	relate	VBN	_	0	ROOT
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	15	det
+12	2003	2003	CD	_	15	num
+13	movie	movie	NN	_	15	nn
+14	Beautiful	Beautiful	NNP	_	15	nn
+15	Boxer	Boxer	NNP	_	10	pobj
+16	.	.	.	_	9	punct
+

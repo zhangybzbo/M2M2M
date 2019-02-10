@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj
+2	managed	manage	VBD	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	squeeze	squeeze	VB	_	2	xcomp
+5	decent	decent	JJ	_	6	amod
+6	photos	photo	NNS	_	4	dobj
+7	out	out	IN	_	4	prep
+8	of	of	IN	_	7	pcomp
+9	an	a	DT	_	10	det
+10	iPhone	iPhone	NNP	_	8	pobj
+11	.	.	.	_	2	punct
+

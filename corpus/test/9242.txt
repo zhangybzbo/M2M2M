@@ -1,0 +1,1 @@
+Intuitively stack is visualized as indeed a stack of objects .

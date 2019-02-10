@@ -1,0 +1,19 @@
+1	This	this	DT	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	made	make	VBN	_	0	ROOT
+4	possible	possible	JJ	_	3	acomp
+5	by	by	IN	_	3	prep
+6	unscrewing	unscrew	VBG	_	5	pcomp
+7	the	the	DT	_	8	det
+8	three	three	CD	_	11	num
+9	or	or	CC	_	8	cc
+10	four	four	CD	_	8	conj
+11	screws	screw	NNS	_	6	dobj
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	button	button	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	mouse	mouse	NN	_	15	pobj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,25 @@
+1	In	in	IN	_	12	prep
+2	accordance	accordance	NN	_	1	pobj
+3	with	with	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	provisions	provision	NNS	_	3	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Interim	Interim	NNP	_	9	nn
+9	Agreement	Agreement	NNP	_	6	pobj
+10	both	both	CC	_	11	preconj
+11	parties	party	NNS	_	12	nsubj
+12	agreed	agree	VBD	_	0	ROOT
+13	on	on	IN	_	12	prep
+14	this	this	DT	_	15	det
+15	protocol	protocol	NN	_	13	pobj
+16	for	for	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	implementation	implementation	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	redeployment	redeployment	NN	_	19	pobj
+22	in	in	IN	_	21	prep
+23	Hebron	Hebron	NNP	_	22	pobj
+24	.	.	.	_	12	punct
+

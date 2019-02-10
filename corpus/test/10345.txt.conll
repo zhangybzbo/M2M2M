@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	study	study	NN	_	3	nsubj
+3	assessed	assess	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	effectiveness	effectiveness	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	world	world	NN	_	12	poss
+9	's	's	POS	_	8	possessive
+10	fisheries	fishery	NNS	_	12	nn
+11	management	management	NN	_	12	nn
+12	regimes	regime	NNS	_	6	pobj
+13	using	use	VBG	_	3	xcomp
+14	evaluations	evaluation	NNS	_	13	dobj
+15	by	by	IN	_	13	prep
+16	nearly	nearly	RB	_	17	quantmod
+17	1200	1200	CD	_	19	num
+18	fisheries	fishery	NNS	_	19	nn
+19	experts	expert	NNS	_	15	pobj
+20	.	.	.	_	3	punct
+

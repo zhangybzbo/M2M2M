@@ -1,0 +1,3 @@
+T1	Term 30 37	railing
+T2	Term 45 52	balcony
+R1	Component-Whole Arg1:T1 Arg2:T2

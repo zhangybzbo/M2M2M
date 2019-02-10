@@ -1,0 +1,19 @@
+1	He	he	PRP	_	2	nsubj
+2	spent	spend	VBD	_	0	ROOT
+3	that	that	IN	_	2	prep
+4	time	time	NN	_	3	pobj
+5	slaughtering	slaughter	VBG	_	4	vmod
+6	a	a	DT	_	8	det
+7	young	young	JJ	_	8	amod
+8	pig	pig	NN	_	5	dobj
+9	and	and	CC	_	4	cc
+10	carefully	carefully	RB	_	11	advmod
+11	catching	catch	VBG	_	4	conj
+12	all	all	DT	_	14	predet
+13	its	its	PRP$	_	14	poss
+14	blood	blood	NN	_	11	dobj
+15	in	in	IN	_	11	prep
+16	a	a	DT	_	17	det
+17	ewer	ewer	NN	_	15	pobj
+18	.	.	.	_	2	punct
+

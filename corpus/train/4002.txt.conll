@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	molotov	molotov	NN	_	3	nn
+3	cocktail	cocktail	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	bottle	bottle	NN	_	0	ROOT
+7	with	with	IN	_	6	prep
+8	gasoline	gasoline	NN	_	7	pobj
+9	in	in	IN	_	6	prep
+10	it	it	PRP	_	9	pobj
+11	that	that	WDT	_	12	nsubj
+12	has	have	VBZ	_	6	rcmod
+13	a	a	DT	_	15	det
+14	damp	damp	JJ	_	15	amod
+15	cloth	cloth	NN	_	12	dobj
+16	in	in	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	top	top	NN	_	16	pobj
+19	that	that	WDT	_	20	nsubj
+20	acts	act	VBZ	_	18	rcmod
+21	as	as	IN	_	20	prep
+22	a	a	DT	_	23	det
+23	wick	wick	NN	_	21	pobj
+24	.	.	.	_	6	punct
+

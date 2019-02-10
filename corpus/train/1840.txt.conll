@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	cutting	cut	VBG	_	3	amod
+3	machine	machine	NN	_	4	nsubj
+4	contains	contain	VBZ	_	0	ROOT
+5	13	13	CD	_	7	num
+6	circular	circular	JJ	_	7	amod
+7	blades	blade	NNS	_	4	dobj
+8	mounted	mount	VBN	_	7	vmod
+9	on	on	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	cutting	cut	VBG	_	12	amod
+12	axis	axis	NN	_	9	pobj
+13	.	.	.	_	4	punct
+

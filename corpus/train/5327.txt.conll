@@ -1,0 +1,16 @@
+1	American	american	JJ	_	2	amod
+2	scientists	scientist	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	discovered	discover	VBN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	way	way	NN	_	4	dobj
+7	of	of	IN	_	6	prep
+8	creating	create	VBG	_	7	pcomp
+9	new	new	JJ	_	11	amod
+10	brain	brain	NN	_	11	nn
+11	cells	cell	NNS	_	8	dobj
+12	in	in	IN	_	8	prep
+13	a	a	DT	_	14	det
+14	dish	dish	NN	_	12	pobj
+15	.	.	.	_	4	punct
+

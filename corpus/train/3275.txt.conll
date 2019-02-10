@@ -1,0 +1,19 @@
+1	So	so	RB	_	2	advmod
+2	far	far	RB	_	9	advmod
+3	this	this	DT	_	4	det
+4	year	year	NN	_	9	tmod
+5	,	,	,	_	9	punct
+6	the	the	DT	_	7	det
+7	city	city	NN	_	9	nsubj
+8	has	have	VBZ	_	9	aux
+9	dumped	dump	VBN	_	0	ROOT
+10	sewage	sewage	NN	_	9	dobj
+11	into	into	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	river	river	NN	_	11	pobj
+14	more	more	RBR	_	15	advmod
+15	than	than	IN	_	10	prep
+16	500	500	CD	_	17	num
+17	times	time	NNS	_	15	pobj
+18	.	.	.	_	9	punct
+

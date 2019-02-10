@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	opening	open	VBG	_	3	amod
+3	issues	issue	NNS	_	16	nsubj
+4	,	,	,	_	3	punct
+5	mostly	mostly	RB	_	6	advmod
+6	written	write	VBN	_	3	vmod
+7	and	and	CC	_	6	cc
+8	guest-edited	guest-edit	VBN	_	6	conj
+9	by	by	IN	_	6	prep
+10	the	the	DT	_	11	det
+11	coterie	coterie	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	contributing	contribute	VBG	_	14	amod
+14	editors	editor	NNS	_	12	pobj
+15	,	,	,	_	3	punct
+16	seem	seem	VBP	_	0	ROOT
+17	infused	infuse	VBN	_	16	acomp
+18	with	with	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	same	same	JJ	_	21	amod
+21	spirit	spirit	NN	_	18	pobj
+22	.	.	.	_	16	punct
+

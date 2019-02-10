@@ -1,0 +1,16 @@
+1	It	it	PRP	_	2	nsubj
+2	seems	seem	VBZ	_	0	ROOT
+3	like	like	IN	_	8	mark
+4	the	the	DT	_	6	det
+5	fever	fever	NN	_	6	nn
+6	heat	heat	NN	_	8	nsubjpass
+7	got	get	VBD	_	8	auxpass
+8	pushed	push	VBN	_	2	advcl
+9	out	out	RP	_	8	prt
+10	from	from	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	body	body	NN	_	10	pobj
+13	as	as	IN	_	8	prep
+14	rashes	rash	NNS	_	13	pobj
+15	.	.	.	_	2	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	act	act	NN	_	3	nsubj
+3	promotes	promote	VBZ	_	0	ROOT
+4	efficiency	efficiency	NN	_	3	dobj
+5	through	through	IN	_	3	prep
+6	limitation	limitation	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	copyright	copyright	NN	_	10	nn
+10	owner	owner	NN	_	14	poss
+11	's	's	POS	_	10	possessive
+12	available	available	JJ	_	14	amod
+13	monetary	monetary	JJ	_	14	amod
+14	damages	damages	NNS	_	7	pobj
+15	.	.	.	_	3	punct
+

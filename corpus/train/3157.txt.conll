@@ -1,0 +1,27 @@
+1	Part	part	NN	_	6	nsubj
+2	of	of	IN	_	1	prep
+3	New	New	NNP	_	5	nn
+4	York	York	NNP	_	5	nn
+5	City	City	NNP	_	2	pobj
+6	became	become	VBD	_	0	ROOT
+7	an	a	DT	_	10	det
+8	``	``	``	_	10	punct
+9	urban	urban	JJ	_	10	amod
+10	jungle	jungle	NN	_	6	dobj
+11	''	''	''	_	10	punct
+12	--	--	:	_	13	punct
+13	as	as	IN	_	18	mark
+14	a	a	DT	_	15	det
+15	swarm	swarm	NN	_	18	nsubj
+16	of	of	IN	_	15	prep
+17	bees	bee	NNS	_	16	pobj
+18	descended	descend	VBD	_	10	rcmod
+19	on	on	IN	_	18	prep
+20	the	the	DT	_	25	det
+21	busy	busy	JJ	_	25	amod
+22	Union	Union	NNP	_	25	nn
+23	Square	Square	NNP	_	25	nn
+24	Park	Park	NNP	_	25	nn
+25	area	area	NN	_	19	pobj
+26	.	.	.	_	6	punct
+

@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj
+2	dunno	dunno	VBP	_	7	ccomp
+3	,	,	,	_	7	punct
+4	I	I	PRP	_	7	nsubj
+5	'm	be	VBP	_	7	aux
+6	kinda	kinda	NN	_	7	nsubj
+7	leaning	lean	VBG	_	0	ROOT
+8	towards	towards	IN	_	7	prep
+9	some	some	DT	_	10	det
+10	props	prop	NNS	_	8	pobj
+11	for	for	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	person	person	NN	_	11	pobj
+14	that	that	WDT	_	15	nsubj
+15	came	come	VBD	_	13	rcmod
+16	up	up	RP	_	15	prt
+17	with	with	IN	_	15	prep
+18	brakes	brake	NNS	_	17	pobj
+19	.	.	.	_	7	punct
+

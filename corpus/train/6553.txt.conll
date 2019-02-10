@@ -1,0 +1,19 @@
+1	One	one	CD	_	3	num
+2	pottery	pottery	NN	_	3	nn
+3	vessel	vessel	NN	_	4	nsubj
+4	lay	lay	VBD	_	0	ROOT
+5	on	on	IN	_	4	prep
+6	her	she	PRP$	_	7	poss
+7	breast	breast	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	and	and	CC	_	4	cc
+10	the	the	DT	_	11	det
+11	body	body	NN	_	13	nsubjpass
+12	was	be	VBD	_	13	auxpass
+13	enclosed	enclose	VBN	_	4	conj
+14	in	in	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	reed	reed	NN	_	17	nn
+17	mat	mat	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

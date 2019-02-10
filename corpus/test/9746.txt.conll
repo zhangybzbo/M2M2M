@@ -1,0 +1,24 @@
+1	One	one	CD	_	12	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	5	det
+4	few	few	JJ	_	5	amod
+5	landmarks	landmark	NNS	_	2	pobj
+6	to	to	TO	_	7	aux
+7	guide	guide	VB	_	1	vmod
+8	the	the	DT	_	9	det
+9	charge	charge	NN	_	7	dobj
+10	was	be	VBD	_	12	cop
+11	a	a	DT	_	12	det
+12	copse	copse	NN	_	0	ROOT
+13	of	of	IN	_	12	prep
+14	oak	oak	NN	_	15	nn
+15	trees	tree	NNS	_	13	pobj
+16	near	near	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	center	center	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	Union	Union	NNP	_	22	nn
+22	line	line	NN	_	19	pobj
+23	.	.	.	_	12	punct
+

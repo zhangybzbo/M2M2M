@@ -1,0 +1,24 @@
+1	They	they	PRP	_	2	nsubj
+2	shared	share	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	love	love	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	Richard	Richard	NNP	_	7	nn
+7	Wagner	Wagner	NNP	_	5	pobj
+8	and	and	CC	_	2	cc
+9	were	be	VBD	_	10	cop
+10	regulars	regular	NNS	_	2	conj
+11	at	at	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	annual	annual	JJ	_	15	amod
+14	Bayreuth	Bayreuth	NNP	_	15	nn
+15	festival	festival	NN	_	11	pobj
+16	held	hold	VBD	_	10	vmod
+17	to	to	TO	_	18	aux
+18	celebrate	celebrate	VB	_	16	xcomp
+19	the	the	DT	_	20	det
+20	composer	composer	NN	_	22	poss
+21	's	's	POS	_	20	possessive
+22	works	work	NNS	_	18	dobj
+23	.	.	.	_	2	punct
+

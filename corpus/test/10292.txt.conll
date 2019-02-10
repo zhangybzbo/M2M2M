@@ -1,0 +1,16 @@
+1	Contemporary	Contemporary	NNP	_	2	nn
+2	criticism	criticism	NN	_	3	nsubj
+3	commented	comment	VBD	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	weaknesses	weakness	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	opera	opera	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	characters	character	NNS	_	7	pobj
+12	and	and	CC	_	11	cc
+13	the	the	DT	_	14	det
+14	storyline	storyline	NN	_	11	conj
+15	.	.	.	_	3	punct
+

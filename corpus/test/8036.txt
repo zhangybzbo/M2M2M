@@ -1,0 +1,1 @@
+Still further , the circuit comprises a digital adder and an analog-to-digital converter with an analog input connected to the output of the operational amplifier and a digital output connected to a first input of the digital adder .

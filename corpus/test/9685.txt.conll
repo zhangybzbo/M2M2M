@@ -1,0 +1,16 @@
+1	Insert	insert	VB	_	0	ROOT
+2	the	the	DT	_	4	det
+3	oyster	oyster	NN	_	4	nn
+4	knife	knife	NN	_	1	dobj
+5	in	in	IN	_	1	prep
+6	the	the	DT	_	7	det
+7	hinge	hinge	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	oyster	oyster	NN	_	8	pobj
+11	-LRB-	-lrb-	-LRB-	_	12	punct
+12	Figure	figure	NN	_	10	appos
+13	1	1	CD	_	12	num
+14	-RRB-	-rrb-	-RRB-	_	12	punct
+15	.	.	.	_	1	punct
+

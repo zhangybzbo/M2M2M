@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	recipe	recipe	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	our	we	PRP$	_	6	poss
+6	friends	friend	NNS	_	4	pobj
+7	at	at	IN	_	6	prep
+8	Evil	Evil	NNP	_	11	nn
+9	Mad	Mad	NNP	_	11	nn
+10	Scientist	Scientist	NNP	_	11	nn
+11	Laboratories	Laboratories	NNPS	_	7	pobj
+12	.	.	.	_	3	punct
+

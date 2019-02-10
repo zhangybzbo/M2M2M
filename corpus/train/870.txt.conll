@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	oven	oven	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	meat	meat	NN	_	6	nn
+6	probe	probe	NN	_	3	dobj
+7	so	so	IN	_	9	mark
+8	I	I	PRP	_	9	nsubj
+9	tried	try	VBD	_	3	advcl
+10	it	it	PRP	_	9	dobj
+11	in	in	IN	_	9	prep
+12	the	the	DT	_	13	det
+13	lasagna	lasagna	NN	_	11	pobj
+14	at	at	IN	_	9	prep
+15	a	a	DT	_	17	det
+16	set	set	VBN	_	17	amod
+17	temperature	temperature	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	165	165	CD	_	20	num
+20	degrees	degree	NNS	_	18	pobj
+21	.	.	.	_	3	punct
+

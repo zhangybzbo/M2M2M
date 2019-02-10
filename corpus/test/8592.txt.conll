@@ -1,0 +1,8 @@
+1	Noise	noise	NN	_	2	nn
+2	regulations	regulation	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	come	come	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	force	force	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

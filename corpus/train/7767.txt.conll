@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	third	third	JJ	_	3	amod
+3	observation	observation	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	made	make	VBN	_	0	ROOT
+6	with	with	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Echellette	Echellette	NNP	_	9	nn
+9	spectrograph	spectrograph	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

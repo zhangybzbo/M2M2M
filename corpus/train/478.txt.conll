@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	reasons	reason	NNS	_	9	nsubj
+5	for	for	IN	_	4	prep
+6	creating	create	VBG	_	5	pcomp
+7	a	a	DT	_	8	det
+8	work	work	NN	_	6	dobj
+9	differ	differ	VBP	_	0	ROOT
+10	remarkably	remarkably	RB	_	9	advmod
+11	from	from	IN	_	9	prep
+12	his	he	PRP$	_	13	poss
+13	incentive	incentive	NN	_	11	pobj
+14	to	to	TO	_	16	aux
+15	publicly	publicly	RB	_	16	advmod
+16	distribute	distribute	VB	_	13	vmod
+17	the	the	DT	_	18	det
+18	work	work	NN	_	16	dobj
+19	.	.	.	_	9	punct
+

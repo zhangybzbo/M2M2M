@@ -1,0 +1,13 @@
+1	We	we	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	pulp	pulp	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	tupperware	tupperware	NN	_	8	nn
+8	tub	tub	NN	_	5	pobj
+9	filled	fill	VBN	_	8	vmod
+10	with	with	IN	_	9	prep
+11	water	water	NN	_	10	pobj
+12	.	.	.	_	2	punct
+

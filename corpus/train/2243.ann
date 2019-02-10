@@ -1,0 +1,3 @@
+T1	Term 80 87	striker
+T2	Term 95 99	team
+R1	Member-Collection Arg1:T1 Arg2:T2

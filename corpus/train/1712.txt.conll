@@ -1,0 +1,26 @@
+1	We	we	PRP	_	2	nsubj
+2	derive	derive	VBP	_	0	ROOT
+3	a	a	DT	_	4	det
+4	pair	pair	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	optimal	optimal	JJ	_	7	amod
+7	weights	weight	NNS	_	5	pobj
+8	on	on	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	dollar	dollar	NN	_	8	pobj
+11	in	in	IN	_	4	prep
+12	a	a	DT	_	14	det
+13	currency	currency	NN	_	14	nn
+14	basket	basket	NN	_	11	pobj
+15	to	to	TO	_	16	aux
+16	stabilize	stabilize	VB	_	2	xcomp
+17	their	they	PRP$	_	19	poss
+18	trade	trade	NN	_	19	nn
+19	balances	balance	NNS	_	16	dobj
+20	for	for	IN	_	19	prep
+21	both	both	DT	_	20	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	countries	country	NNS	_	22	pobj
+25	.	.	.	_	2	punct
+

@@ -1,0 +1,19 @@
+1	Stone	Stone	NNP	_	0	ROOT
+2	grinding	grind	VBG	_	1	vmod
+3	flattens	flatten	NNS	_	2	dobj
+4	the	the	DT	_	6	det
+5	ski	ski	NN	_	6	nn
+6	base	base	NN	_	3	dep
+7	,	,	,	_	6	punct
+8	removes	remove	VBZ	_	6	conj
+9	burnt	burnt	JJ	_	13	amod
+10	and	and	CC	_	9	cc
+11	damaged	damaged	JJ	_	9	conj
+12	base	base	NN	_	13	nn
+13	material	material	NN	_	8	dobj
+14	and	and	CC	_	6	cc
+15	provides	provide	VBZ	_	6	conj
+16	important	important	JJ	_	17	amod
+17	micro-structure	micro-structure	NN	_	15	dobj
+18	.	.	.	_	1	punct
+

@@ -1,0 +1,17 @@
+1	Her	she	PRP$	_	5	poss
+2	naked	naked	JJ	_	5	amod
+3	and	and	CC	_	2	cc
+4	decomposing	decomposing	JJ	_	2	conj
+5	body	body	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	discovered	discover	VBN	_	0	ROOT
+8	inside	inside	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	locked	lock	VBN	_	11	amod
+11	cupboard	cupboard	NN	_	8	pobj
+12	in	in	IN	_	7	prep
+13	an	a	DT	_	15	det
+14	Auckland	Auckland	NNP	_	15	nn
+15	building	building	NN	_	12	pobj
+16	.	.	.	_	7	punct
+

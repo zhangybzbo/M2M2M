@@ -1,0 +1,12 @@
+1	Allegations	allegation	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	made	make	VBN	_	0	ROOT
+4	about	about	IN	_	3	prep
+5	Galloway	Galloway	NNP	_	10	poss
+6	's	's	POS	_	5	possessive
+7	personal	personal	JJ	_	10	amod
+8	and	and	CC	_	7	cc
+9	financial	financial	JJ	_	7	conj
+10	behaviour	behaviour	NN	_	4	pobj
+11	.	.	.	_	3	punct
+

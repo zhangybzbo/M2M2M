@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	demonstrators	demonstrator	NNS	_	3	nsubj
+3	descended	descend	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	vehicles	vehicle	NNS	_	4	pobj
+7	and	and	CC	_	3	cc
+8	marched	march	VBD	_	3	conj
+9	five	five	CD	_	10	num
+10	kilometers	kilometer	NNS	_	8	dobj
+11	.	.	.	_	3	punct
+

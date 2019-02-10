@@ -1,0 +1,21 @@
+1	Every	every	DT	_	2	det
+2	morning	morning	NN	_	6	dep
+3	/	/	:	_	6	punct
+4	night	night	NN	_	6	tmod
+5	we	we	PRP	_	6	nsubj
+6	have	have	VBP	_	0	ROOT
+7	a	a	DT	_	8	det
+8	psittacosis	psittacosis	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	green	green	JJ	_	11	amod
+11	parrots	parrot	NNS	_	9	pobj
+12	doing	do	VBG	_	11	vmod
+13	a	a	DT	_	14	det
+14	couple	couple	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	loops	loop	NNS	_	15	pobj
+17	around	around	IN	_	16	prep
+18	our	we	PRP$	_	19	poss
+19	house	house	NN	_	17	pobj
+20	.	.	.	_	6	punct
+

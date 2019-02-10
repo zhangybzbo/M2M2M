@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	assassination	assassination	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	extensive	extensive	JJ	_	6	amod
+6	arrests	arrest	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	governmental	governmental	JJ	_	14	amod
+9	,	,	,	_	8	punct
+10	security	security	NN	_	8	conj
+11	,	,	,	_	8	punct
+12	and	and	CC	_	8	cc
+13	criminal	criminal	JJ	_	8	conj
+14	figures	figure	NNS	_	7	pobj
+15	.	.	.	_	3	punct
+

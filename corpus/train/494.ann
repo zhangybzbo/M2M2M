@@ -1,0 +1,3 @@
+T1	Term 4 9	sugar
+T2	Term 10 17	factory
+R1	Product-Producer Arg1:T1 Arg2:T2

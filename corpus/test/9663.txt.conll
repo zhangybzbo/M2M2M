@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	software	software	NN	_	3	nn
+3	products	product	NNS	_	15	nsubj
+4	governed	govern	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	this	this	DT	_	7	det
+7	agreement	agreement	NN	_	5	pobj
+8	are	be	VBP	_	15	cop
+9	the	the	DT	_	15	det
+10	Viewpoint	viewpoint	NN	_	15	nn
+11	Media	Media	NNP	_	15	nn
+12	Playerand	Playerand	NNP	_	15	nn
+13	the	the	DT	_	15	det
+14	Viewpoint	viewpoint	NN	_	15	nn
+15	Manager	manager	NN	_	0	ROOT
+16	.	.	.	_	15	punct
+

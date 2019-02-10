@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	director	director	NN	_	3	nsubj
+3	shot	shoot	VBD	_	0	ROOT
+4	some	some	DT	_	6	det
+5	additional	additional	JJ	_	6	amod
+6	footage	footage	NN	_	3	dobj
+7	.	.	.	_	3	punct
+

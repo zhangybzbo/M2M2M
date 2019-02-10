@@ -1,0 +1,12 @@
+1	Now	now	RB	_	0	ROOT
+2	a	a	DT	_	7	det
+3	faint	faint	JJ	_	7	amod
+4	and	and	CC	_	3	cc
+5	lonely	lonely	JJ	_	3	conj
+6	flame	flame	NN	_	7	nn
+7	uprises	uprise	NNS	_	1	dep
+8	from	from	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	pyre	pyre	NN	_	8	pobj
+11	.	.	.	_	1	punct
+

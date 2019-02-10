@@ -1,0 +1,20 @@
+1	``	``	``	_	8	punct
+2	Hakani	hakani	FW	_	8	nn
+3	''	''	''	_	8	punct
+4	is	be	VBZ	_	8	cop
+5	a	a	DT	_	8	det
+6	30	30	CD	_	8	num
+7	minute	minute	NN	_	8	nn
+8	movie	movie	NN	_	0	ROOT
+9	alleging	allege	VBG	_	8	vmod
+10	the	the	DT	_	11	det
+11	occurrence	occurrence	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	infanticide	infanticide	NN	_	12	pobj
+14	in	in	IN	_	11	prep
+15	tribal	tribal	JJ	_	16	amod
+16	communities	community	NNS	_	14	pobj
+17	in	in	IN	_	16	prep
+18	Brazil	Brazil	NNP	_	17	pobj
+19	.	.	.	_	8	punct
+

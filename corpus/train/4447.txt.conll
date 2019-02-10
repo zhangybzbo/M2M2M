@@ -1,0 +1,9 @@
+1	A	a	DT	_	2	det
+2	nation	nation	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	group	group	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	people	people	NNS	_	6	pobj
+8	.	.	.	_	5	punct
+

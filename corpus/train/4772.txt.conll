@@ -1,0 +1,7 @@
+1	Rainwater	Rainwater	NNP	_	2	nsubj
+2	falls	fall	VBZ	_	0	ROOT
+3	into	into	IN	_	2	prep
+4	special	special	JJ	_	5	amod
+5	use	use	NN	_	3	pobj
+6	.	.	.	_	2	punct
+

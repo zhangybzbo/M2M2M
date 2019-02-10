@@ -1,0 +1,27 @@
+1	Despite	despite	IN	_	10	prep
+2	being	be	VBG	_	4	cop
+3	a	a	DT	_	4	det
+4	fan	fan	NN	_	1	pcomp
+5	of	of	IN	_	4	prep
+6	1860	1860	CD	_	7	num
+7	Munich	Munich	NNP	_	5	pobj
+8	,	,	,	_	10	punct
+9	he	he	PRP	_	10	nsubj
+10	ended	end	VBD	_	0	ROOT
+11	up	up	RP	_	10	prt
+12	playing	play	VBG	_	10	xcomp
+13	for	for	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	youth	youth	NN	_	16	nn
+16	squad	squad	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	their	they	PRP$	_	19	poss
+19	rivals	rival	NNS	_	17	pobj
+20	,	,	,	_	19	punct
+21	Bayern	Bayern	NNP	_	22	nn
+22	Munich	Munich	NNP	_	19	appos
+23	,	,	,	_	19	punct
+24	in	in	IN	_	16	prep
+25	1959	1959	CD	_	24	pobj
+26	.	.	.	_	10	punct
+

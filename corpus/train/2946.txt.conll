@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	3	nsubj
+3	graduated	graduate	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	8	det
+6	Ivy	Ivy	NNP	_	8	nn
+7	League	League	NNP	_	8	nn
+8	college	college	NN	_	4	pobj
+9	in	in	IN	_	3	prep
+10	1991	1991	CD	_	9	pobj
+11	and	and	CC	_	3	cc
+12	then	then	RB	_	13	advmod
+13	spent	spend	VBD	_	3	conj
+14	a	a	DT	_	16	det
+15	short	short	JJ	_	16	amod
+16	time	time	NN	_	13	dobj
+17	working	work	VBG	_	16	vmod
+18	as	as	IN	_	17	prep
+19	an	a	DT	_	20	det
+20	investigator	investigator	NN	_	18	pobj
+21	.	.	.	_	3	punct
+

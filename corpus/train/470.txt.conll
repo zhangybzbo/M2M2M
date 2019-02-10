@@ -1,0 +1,16 @@
+1	Sometimes	sometimes	RB	_	6	advmod
+2	the	the	DT	_	4	det
+3	best	best	JJS	_	4	amod
+4	blogging	blogging	NN	_	6	nsubj
+5	is	be	VBZ	_	6	aux
+6	going	go	VBG	_	0	ROOT
+7	on	on	RB	_	9	advmod
+8	well	well	RB	_	9	advmod
+9	away	away	RB	_	6	advmod
+10	from	from	IN	_	6	prep
+11	the	the	DT	_	14	det
+12	most	most	RBS	_	13	advmod
+13	visible	visible	JJ	_	14	amod
+14	places	place	NNS	_	10	pobj
+15	.	.	.	_	6	punct
+

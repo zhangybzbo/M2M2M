@@ -1,0 +1,19 @@
+1	Corn	corn	NN	_	2	nn
+2	whiskey	whiskey	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	an	a	DT	_	6	det
+5	American	american	JJ	_	6	amod
+6	liquor	liquor	NN	_	0	ROOT
+7	made	make	VBN	_	6	vmod
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	mash	mash	NN	_	8	pobj
+11	made	make	VBN	_	10	vmod
+12	of	of	IN	_	11	prep
+13	at	at	IN	_	15	quantmod
+14	least	least	JJS	_	13	mwe
+15	80	80	CD	_	17	num
+16	percent	percent	JJ	_	17	amod
+17	corn	corn	NN	_	12	pobj
+18	.	.	.	_	6	punct
+

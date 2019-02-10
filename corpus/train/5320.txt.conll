@@ -1,0 +1,10 @@
+1	You	you	PRP	_	2	nsubj
+2	saw	see	VBD	_	0	ROOT
+3	professional	professional	JJ	_	4	amod
+4	chefs	chef	NNS	_	2	dobj
+5	using	use	VBG	_	2	xcomp
+6	a	a	DT	_	8	det
+7	garlic	garlic	JJ	_	8	amod
+8	press	press	NN	_	5	dobj
+9	.	.	.	_	2	punct
+

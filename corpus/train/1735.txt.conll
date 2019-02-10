@@ -1,0 +1,24 @@
+1	Compassion	Compassion	NNP	_	4	nsubj
+2	was	be	VBD	_	4	cop
+3	originally	originally	RB	_	4	advmod
+4	from	from	IN	_	0	ROOT
+5	a	a	DT	_	6	det
+6	people	people	NNS	_	4	pobj
+7	known	know	VBN	_	6	vmod
+8	as	as	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	Remote	Remote	NNP	_	8	pobj
+11	,	,	,	_	10	punct
+12	a	a	DT	_	14	det
+13	splinter	splinter	NN	_	14	nn
+14	group	group	NN	_	10	appos
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	time	time	NN	_	15	pobj
+18	travelling	travel	VBG	_	17	vmod
+19	voodoo	voodoo	NN	_	22	nn
+20	cult	cult	NN	_	22	nn
+21	Faction	Faction	NNP	_	22	nn
+22	Paradox	Paradox	NNP	_	18	dobj
+23	.	.	.	_	4	punct
+

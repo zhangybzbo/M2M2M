@@ -1,0 +1,1 @@
+The developed mechanism is composed of a dual coaxial high-precision goniometer , which has theta-in and theta-out axes with 0.0025 '' resolution , and two crystal mounts connected to the rotation axes -LRB- Fig. 1 -RRB- .

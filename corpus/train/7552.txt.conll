@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	neutrons	neutron	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	produced	produce	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	bombarding	bombard	VBG	_	5	pcomp
+7	a	a	DT	_	9	det
+8	tritium	tritium	NN	_	9	nn
+9	target	target	NN	_	6	dobj
+10	with	with	IN	_	9	prep
+11	deuterium	deuterium	NN	_	10	pobj
+12	.	.	.	_	4	punct
+

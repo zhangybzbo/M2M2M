@@ -1,0 +1,13 @@
+1	Construction	construction	NN	_	2	nn
+2	work	work	NN	_	6	nsubj
+3	at	at	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	facility	facility	NN	_	3	pobj
+6	started	start	VBD	_	0	ROOT
+7	at	at	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	end	end	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	1980	1980	CD	_	10	pobj
+12	.	.	.	_	6	punct
+

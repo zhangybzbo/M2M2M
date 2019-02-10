@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	1983	1983	CD	_	3	num
+3	movie	movie	NN	_	0	ROOT
+4	``	``	``	_	7	punct
+5	A	a	DT	_	7	det
+6	Christmas	Christmas	NNP	_	7	nn
+7	Story	Story	NNP	_	3	dep
+8	''	''	''	_	7	punct
+9	captured	capture	VBN	_	7	vmod
+10	the	the	DT	_	11	det
+11	nation	nation	NN	_	13	poss
+12	's	's	POS	_	11	possessive
+13	heart	heart	NN	_	9	dobj
+14	with	with	IN	_	9	prep
+15	a	a	DT	_	16	det
+16	story	story	NN	_	14	pobj
+17	about	about	IN	_	18	quantmod
+18	1950s	1950s	CD	_	21	num
+19	Middle	Middle	NNP	_	21	nn
+20	American	American	NNP	_	21	nn
+21	celebrations	celebration	NNS	_	16	dep
+22	during	during	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	Christmas	Christmas	NNP	_	25	nn
+25	season	season	NN	_	22	pobj
+26	.	.	.	_	3	punct
+

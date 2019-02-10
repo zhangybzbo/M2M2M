@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	issue	issue	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	covered	cover	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	greater	greater	JJR	_	8	amod
+8	detail	detail	NN	_	6	pobj
+9	in	in	IN	_	5	prep
+10	many	many	JJ	_	12	amod
+11	other	other	JJ	_	12	amod
+12	documents	document	NNS	_	9	pobj
+13	about	about	IN	_	12	prep
+14	network	network	NN	_	15	nn
+15	abuse	abuse	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

@@ -1,0 +1,14 @@
+1	BMW	BMW	NNP	_	9	nsubj
+2	or	or	CC	_	1	cc
+3	Bavarian	bavarian	JJ	_	5	amod
+4	Motor	Motor	NNP	_	5	nn
+5	Works	Works	NNP	_	1	conj
+6	is	be	VBZ	_	9	cop
+7	a	a	DT	_	9	det
+8	German	german	JJ	_	9	amod
+9	car	car	NN	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	motorcycle	motorcycle	NN	_	12	nn
+12	manufacturer	manufacturer	NN	_	9	conj
+13	.	.	.	_	9	punct
+

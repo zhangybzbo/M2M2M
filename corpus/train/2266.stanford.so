@@ -1,0 +1,12 @@
+0	66	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="they" pos="PRP$" poss="t1"
+6	11	tok id="t1" base="text" pos="NNS" nsubj="t2"
+12	16	tok id="t2" base="make" pos="VBD" ROOT="ROOT"
+17	26	tok id="t3" base="reference" pos="NN" dobj="t2"
+27	29	tok id="t4" base="to" pos="TO" prep="t3"
+30	37	tok id="t5" base="ancient" pos="JJ" amod="t6"
+38	50	tok id="t6" base="civilisation" pos="NN" pobj="t4"
+51	55	tok id="t7" base="like" pos="IN" prep="t6"
+56	64	tok id="t8" base="Atlantis" pos="NNP" pobj="t7"
+65	66	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

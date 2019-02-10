@@ -1,0 +1,10 @@
+1	Wealth	wealth	NN	_	3	nsubj
+2	is	be	VBZ	_	3	aux
+3	migrating	migrate	VBG	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	communities	community	NNS	_	4	pobj
+6	in	in	IN	_	5	prep
+7	Verde	Verde	NNP	_	8	nn
+8	Valley/Sedona	Valley/Sedona	NNP	_	6	pobj
+9	.	.	.	_	3	punct
+

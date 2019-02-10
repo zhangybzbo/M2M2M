@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	wallet	wallet	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	a	a	DT	_	8	det
+5	special	special	JJ	_	8	amod
+6	BK	bk	NN	_	8	nn
+7	dollar	dollar	NN	_	8	nn
+8	bill	bill	NN	_	3	dobj
+9	-LRB-	-lrb-	-LRB-	_	11	punct
+10	legal	legal	JJ	_	11	amod
+11	tender	tender	NN	_	8	appos
+12	-RRB-	-rrb-	-RRB-	_	11	punct
+13	,	,	,	_	8	punct
+14	a	a	DT	_	19	det
+15	$	$	$	_	19	amod
+16	5	5	CD	_	15	number
+17	BK	bk	NN	_	19	nn
+18	gift	gift	NN	_	19	nn
+19	card	card	NN	_	8	appos
+20	and	and	CC	_	19	cc
+21	other	other	JJ	_	24	amod
+22	random	random	JJ	_	24	amod
+23	BK	bk	NN	_	24	nn
+24	stuff	stuff	NN	_	19	conj
+25	.	.	.	_	3	punct
+

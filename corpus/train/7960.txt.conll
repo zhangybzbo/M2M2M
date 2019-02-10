@@ -1,0 +1,15 @@
+1	When	when	WRB	_	3	advmod
+2	deliberations	deliberation	NNS	_	3	nsubj
+3	began	begin	VBD	_	12	advcl
+4	,	,	,	_	12	punct
+5	the	the	DT	_	6	det
+6	crowd	crowd	NN	_	12	nsubj
+7	of	of	IN	_	6	prep
+8	people	people	NNS	_	7	pobj
+9	jamming	jam	VBG	_	8	vmod
+10	the	the	DT	_	11	det
+11	hallways	hallway	NNS	_	9	dobj
+12	radiated	radiate	VBD	_	0	ROOT
+13	optimism	optimism	NN	_	12	dobj
+14	.	.	.	_	12	punct
+

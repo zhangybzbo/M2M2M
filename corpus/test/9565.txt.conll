@@ -1,0 +1,22 @@
+1	A	a	DT	_	3	det
+2	careless	careless	JJ	_	3	amod
+3	attendant	attendant	NN	_	5	nsubj
+4	had	have	VBD	_	5	aux
+5	hooked	hook	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	padlock	padlock	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	monkey	monkey	NN	_	11	nn
+11	cage	cage	NN	_	8	pobj
+12	in	in	IN	_	5	prep
+13	the	the	DT	_	14	det
+14	staple	staple	NN	_	12	pobj
+15	,	,	,	_	5	punct
+16	but	but	CC	_	5	cc
+17	had	have	VBD	_	19	aux
+18	not	not	RB	_	19	neg
+19	locked	lock	VBN	_	5	conj
+20	it	it	PRP	_	19	dobj
+21	.	.	.	_	5	punct
+

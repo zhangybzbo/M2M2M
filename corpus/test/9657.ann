@@ -1,0 +1,3 @@
+T1	Term 42 47	serum
+T2	Term 69 76	cheeses
+R1	Entity-Origin Arg1:T1 Arg2:T2

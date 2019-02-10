@@ -1,0 +1,15 @@
+1	Yogurt	Yogurt	NNP	_	2	nn
+2	soup	soup	NN	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	popular	popular	JJ	_	7	amod
+6	comfort	comfort	NN	_	7	nn
+7	dish	dish	NN	_	0	ROOT
+8	both	both	CC	_	9	preconj
+9	in	in	IN	_	7	prep
+10	Turkey	Turkey	NNP	_	9	pobj
+11	and	and	CC	_	10	cc
+12	Central	Central	NNP	_	13	nn
+13	Asia	Asia	NNP	_	10	conj
+14	.	.	.	_	7	punct
+

@@ -1,0 +1,9 @@
+0	38	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="Accident" pos="NNP" nsubj="t1"
+9	15	tok id="t1" base="cause" pos="VBZ" ROOT="ROOT"
+16	22	tok id="t2" base="delay" pos="NNS" dobj="t1"
+23	25	tok id="t3" base="on" pos="IN" prep="t2"
+26	28	tok id="t4" base="bw" pos="NN" nn="t5"
+29	36	tok id="t5" base="Parkway" pos="NNP" pobj="t3"
+37	38	tok id="t6" base="-PERIOD-" pos="." punct="t1"
+

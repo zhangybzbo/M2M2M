@@ -1,0 +1,8 @@
+1	My	my	PRP$	_	2	poss
+2	cockatiel	cockatiel	NN	_	3	nsubj
+3	threw	throw	VBD	_	0	ROOT
+4	up	up	RP	_	3	prt
+5	this	this	DT	_	6	det
+6	morning	morning	NN	_	3	tmod
+7	.	.	.	_	3	punct
+

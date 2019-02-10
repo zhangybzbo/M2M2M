@@ -1,0 +1,18 @@
+1	During	during	IN	_	6	prep
+2	his	he	PRP$	_	3	poss
+3	speech	speech	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	Kennedy	Kennedy	NNP	_	6	nsubj
+6	focused	focus	VBD	_	0	ROOT
+7	on	on	IN	_	6	prep
+8	domestic	domestic	JJ	_	9	amod
+9	issues	issue	NNS	_	7	pobj
+10	,	,	,	_	6	punct
+11	the	the	DT	_	13	det
+12	Vietnam	Vietnam	NNP	_	13	nn
+13	War	War	NNP	_	6	dobj
+14	,	,	,	_	13	punct
+15	and	and	CC	_	13	cc
+16	racism	racism	NN	_	13	conj
+17	.	.	.	_	6	punct
+

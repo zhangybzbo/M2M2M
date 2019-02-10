@@ -1,0 +1,21 @@
+1	One	one	CD	_	2	num
+2	drug	drug	NN	_	3	nsubj
+3	blocks	block	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	protein	protein	NN	_	3	dobj
+6	inside	inside	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	cell	cell	NN	_	6	pobj
+9	and	and	CC	_	3	cc
+10	the	the	DT	_	11	det
+11	other	other	JJ	_	3	conj
+12	does	do	VBZ	_	11	dep
+13	the	the	DT	_	14	det
+14	same	same	JJ	_	12	dobj
+15	on	on	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	cell	cell	NN	_	19	poss
+18	's	's	POS	_	17	possessive
+19	surface	surface	NN	_	15	pobj
+20	.	.	.	_	3	punct
+

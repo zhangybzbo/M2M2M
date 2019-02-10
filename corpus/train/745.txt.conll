@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	helicopter	helicopter	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	landing	land	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	high	high	JJ	_	8	amod
+8	grass	grass	NN	_	5	pobj
+9	during	during	IN	_	4	prep
+10	the	the	DT	_	13	det
+11	combat	combat	NN	_	13	nn
+12	SAR	sar	NN	_	13	nn
+13	demo	demo	NN	_	9	pobj
+14	with	with	IN	_	4	prep
+15	soldiers	soldier	NNS	_	14	pobj
+16	on	on	IN	_	4	prep
+17	board	board	NN	_	16	pobj
+18	.	.	.	_	4	punct
+

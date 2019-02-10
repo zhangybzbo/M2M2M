@@ -1,0 +1,3 @@
+T1	Term 24 34	activation
+T2	Term 42 51	footsteps
+R1	Cause-Effect Arg1:T2 Arg2:T1

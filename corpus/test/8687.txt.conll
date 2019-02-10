@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	city	city	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	Chicago	Chicago	NNP	_	3	pobj
+5	lost	lose	VBD	_	0	ROOT
+6	725000	725000	CD	_	7	num
+7	residents	resident	NNS	_	5	dobj
+8	between	between	IN	_	5	prep
+9	1950	1950	CD	_	8	pobj
+10	and	and	CC	_	9	cc
+11	2000	2000	CD	_	9	conj
+12	,	,	,	_	5	punct
+13	yet	yet	RB	_	15	advmod
+14	82	82	CD	_	15	num
+15	percent	percent	NN	_	5	dobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	suburban	suburban	JJ	_	19	amod
+19	growth	growth	NN	_	16	pobj
+20	was	be	VBD	_	21	cop
+21	from	from	IN	_	15	vmod
+22	outside	outside	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	metropolitan	metropolitan	JJ	_	25	amod
+25	area	area	NN	_	22	pobj
+26	.	.	.	_	5	punct
+

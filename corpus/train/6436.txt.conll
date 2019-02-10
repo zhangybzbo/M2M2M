@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	encroaching	encroach	VBG	_	3	amod
+3	darkness	darkness	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	twin	twin	JJ	_	10	amod
+10	horrors	horror	NNS	_	7	pobj
+11	of	of	IN	_	10	prep
+12	war	war	NN	_	11	pobj
+13	and	and	CC	_	12	cc
+14	a	a	DT	_	15	det
+15	mysterious	mysterious	JJ	_	12	conj
+16	plague	plague	VBP	_	6	dep
+17	.	.	.	_	6	punct
+

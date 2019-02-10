@@ -1,0 +1,26 @@
+1	In	in	IN	_	17	prep
+2	a	a	DT	_	3	det
+3	person	person	NN	_	1	pobj
+4	who	who	WP	_	6	nsubj
+5	already	already	RB	_	6	advmod
+6	has	have	VBZ	_	3	rcmod
+7	some	some	DT	_	9	det
+8	neck	neck	NN	_	9	nn
+9	tension	tension	NN	_	6	dobj
+10	from	from	IN	_	9	prep
+11	stress	stress	NN	_	10	pobj
+12	,	,	,	_	17	punct
+13	such	such	PDT	_	15	predet
+14	an	a	DT	_	15	det
+15	event	event	NN	_	17	nsubj
+16	can	can	MD	_	17	aux
+17	lead	lead	VB	_	0	ROOT
+18	to	to	TO	_	17	prep
+19	a	a	DT	_	21	det
+20	long-term	long-term	JJ	_	21	amod
+21	increase	increase	NN	_	18	pobj
+22	of	of	IN	_	21	prep
+23	neck	neck	NN	_	24	nn
+24	tension	tension	NN	_	22	pobj
+25	.	.	.	_	17	punct
+

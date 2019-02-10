@@ -1,0 +1,21 @@
+1	So	so	IN	_	7	advmod
+2	President	President	NNP	_	3	nn
+3	Obama	Obama	NNP	_	5	poss
+4	's	's	POS	_	3	possessive
+5	administration	administration	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	ushered	usher	VBN	_	0	ROOT
+8	in	in	RP	_	7	prt
+9	with	with	IN	_	7	prep
+10	a	a	DT	_	14	det
+11	new	new	JJ	_	14	amod
+12	chamber	chamber	NN	_	14	nn
+13	music	music	NN	_	14	nn
+14	work	work	NN	_	9	pobj
+15	by	by	IN	_	7	prep
+16	a	a	DT	_	19	det
+17	living	live	VBG	_	19	amod
+18	American	american	JJ	_	19	amod
+19	composer	composer	NN	_	15	pobj
+20	.	.	.	_	7	punct
+

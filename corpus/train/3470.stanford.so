@@ -1,0 +1,9 @@
+0	32	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="real" pos="JJ" amod="t1"
+5	11	tok id="t1" base="gamer" pos="NNS" nsubj="t2"
+12	15	tok id="t2" base="use" pos="VBP" ROOT="ROOT"
+16	20	tok id="t3" base="key" pos="NNS" nn="t5"
+21	25	tok id="t4" base="neck" pos="NN" nn="t5"
+26	30	tok id="t5" base="tie" pos="NNS" dobj="t2"
+31	32	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

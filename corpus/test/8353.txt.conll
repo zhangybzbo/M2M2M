@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	question	question	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	raised	raise	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	regard	regard	NN	_	5	pobj
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	10	det
+9	public	public	JJ	_	10	amod
+10	announcement	announcement	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	names	name	NNS	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	three	three	CD	_	17	num
+17	finalists	finalist	NNS	_	14	pobj
+18	.	.	.	_	4	punct
+

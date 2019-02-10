@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	air	air	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	pressed	press	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	his	he	PRP$	_	7	poss
+7	lungs	lung	NNS	_	5	pobj
+8	;	;	:	_	4	punct
+9	it	it	PRP	_	10	nsubj
+10	felt	feel	VBD	_	4	parataxis
+11	like	like	IN	_	10	prep
+12	millions	million	NNS	_	11	pobj
+13	of	of	IN	_	12	prep
+14	electrodes	electrode	NNS	_	13	pobj
+15	were	be	VBD	_	16	auxpass
+16	attached	attach	VBN	_	10	dep
+17	to	to	TO	_	16	prep
+18	his	he	PRP$	_	20	poss
+19	neural	neural	JJ	_	20	amod
+20	system	system	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

@@ -1,0 +1,11 @@
+0	41	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t3"
+3	13	tok id="t1" base="accidental" pos="JJ" amod="t3"
+14	17	tok id="t2" base="put" pos="JJ" amod="t3"
+18	21	tok id="t3" base="oil" pos="NN" ROOT="ROOT"
+22	26	tok id="t4" base="into" pos="IN" prep="t3"
+27	30	tok id="t5" base="the" pos="DT" det="t7"
+31	34	tok id="t6" base="gas" pos="NN" nn="t7"
+35	39	tok id="t7" base="tank" pos="NN" pobj="t4"
+40	41	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

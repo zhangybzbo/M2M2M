@@ -1,0 +1,16 @@
+1	Much	much	JJ	_	7	nsubj
+2	of	of	IN	_	1	prep
+3	his	he	PRP$	_	6	poss
+4	early	early	JJ	_	6	amod
+5	teaching	teaching	NN	_	6	nn
+6	experience	experience	NN	_	2	pobj
+7	involves	involve	VBZ	_	0	ROOT
+8	telling	tell	VBG	_	7	xcomp
+9	anecdotes	anecdote	NNS	_	8	dobj
+10	about	about	IN	_	8	prep
+11	his	he	PRP$	_	12	poss
+12	childhood	childhood	NN	_	10	pobj
+13	in	in	IN	_	12	prep
+14	Ireland	Ireland	NNP	_	13	pobj
+15	.	.	.	_	7	punct
+

@@ -1,0 +1,18 @@
+1	At	at	IN	_	8	prep
+2	first	first	JJ	_	3	amod
+3	instance	instance	NN	_	1	pobj
+4	,	,	,	_	8	punct
+5	this	this	DT	_	6	det
+6	convention	convention	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	concerned	concern	VBN	_	0	ROOT
+9	with	with	IN	_	8	prep
+10	prevention	prevention	NN	_	9	pobj
+11	,	,	,	_	10	punct
+12	reduction	reduction	NN	_	10	conj
+13	and	and	CC	_	10	cc
+14	control	control	NN	_	10	conj
+15	of	of	IN	_	14	prep
+16	pollution	pollution	NN	_	15	pobj
+17	.	.	.	_	8	punct
+

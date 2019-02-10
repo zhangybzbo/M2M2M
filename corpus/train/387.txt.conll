@@ -1,0 +1,17 @@
+1	NUS	nus	NN	_	3	nsubj
+2	today	today	NN	_	3	tmod
+3	responded	respond	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	Government	Government	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	announcement	announcement	NN	_	4	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	long-awaited	long-awaited	JJ	_	12	amod
+12	review	review	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	university	university	NN	_	15	nn
+15	funding	funding	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

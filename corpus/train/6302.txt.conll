@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	car	car	NN	_	3	nn
+3	kit	kit	NN	_	4	nsubj
+4	has	have	VBZ	_	12	csubj
+5	a	a	DT	_	7	det
+6	GPS	gp	NN	_	7	nn
+7	receiver	receiver	NN	_	4	dobj
+8	built	build	VBN	_	7	vmod
+9	in	in	IN	_	8	prep
+10	that	that	DT	_	9	pobj
+11	is	be	VBZ	_	12	cop
+12	better	better	JJR	_	0	ROOT
+13	than	than	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	iPhone	iPhone	NNP	_	13	pobj
+16	's	's	POS	_	15	possessive
+17	.	.	.	_	12	punct
+

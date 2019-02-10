@@ -1,0 +1,24 @@
+1	Questions	question	NNS	_	13	nsubj
+2	about	about	IN	_	1	prep
+3	Pullman	Pullman	NNP	_	5	poss
+4	's	's	POS	_	3	possessive
+5	plans	plan	NNS	_	2	pobj
+6	for	for	IN	_	5	prep
+7	new	new	JJ	_	12	amod
+8	His	he	PRP$	_	10	poss
+9	Dark	dark	JJ	_	10	amod
+10	Materials	Materials	NNPS	_	12	poss
+11	'	'	POS	_	10	possessive
+12	books	book	NNS	_	6	pobj
+13	reveal	reveal	VBP	_	0	ROOT
+14	that	that	IN	_	19	mark
+15	the	the	DT	_	16	det
+16	author	author	NN	_	19	nsubj
+17	has	have	VBZ	_	19	aux
+18	just	just	RB	_	19	advmod
+19	finished	finish	VBN	_	13	ccomp
+20	a	a	DT	_	22	det
+21	short	short	JJ	_	22	amod
+22	book	book	NN	_	19	dobj
+23	.	.	.	_	13	punct
+

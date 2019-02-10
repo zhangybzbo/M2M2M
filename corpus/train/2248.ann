@@ -1,0 +1,3 @@
+T1	Term 35 40	screw
+T2	Term 60 65	chuck
+R1	Other Arg1:T1 Arg2:T2

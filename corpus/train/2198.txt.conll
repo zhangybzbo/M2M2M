@@ -1,0 +1,26 @@
+1	Excluding	exclude	VBG	_	21	prep
+2	the	the	DT	_	4	det
+3	current	current	JJ	_	4	amod
+4	outbreaks	outbreak	NNS	_	1	pobj
+5	caused	cause	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	H5N1	h5n1	NN	_	9	nn
+9	virus	virus	NN	_	6	pobj
+10	,	,	,	_	21	punct
+11	only	only	RB	_	12	quantmod
+12	24	24	CD	_	13	num
+13	outbreaks	outbreak	NNS	_	21	nsubjpass
+14	of	of	IN	_	13	prep
+15	highly	highly	RB	_	18	advmod
+16	pathogenic	pathogenic	JJ	_	18	amod
+17	avian	avian	JJ	_	18	amod
+18	influenza	influenza	NN	_	14	pobj
+19	have	have	VBP	_	21	aux
+20	been	be	VBN	_	21	auxpass
+21	recorded	record	VBN	_	0	ROOT
+22	worldwide	worldwide	JJ	_	21	advmod
+23	since	since	IN	_	22	prep
+24	1959	1959	CD	_	23	pobj
+25	.	.	.	_	21	punct
+

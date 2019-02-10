@@ -1,0 +1,10 @@
+0	60	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="they" pos="PRP" nsubj="t1"
+5	17	tok id="t1" base="incorporate" pos="VBD" ROOT="ROOT"
+18	21	tok id="t2" base="the" pos="DT" det="t4"
+22	31	tok id="t3" base="immigrant" pos="JJ" amod="t4"
+32	37	tok id="t4" base="flow" pos="NNS" dobj="t1"
+38	42	tok id="t5" base="into" pos="IN" prep="t1"
+43	58	tok id="t6" base="microsimulation" pos="NN" pobj="t5"
+59	60	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

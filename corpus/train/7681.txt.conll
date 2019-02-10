@@ -1,0 +1,20 @@
+1	A	a	DT	_	3	det
+2	city	city	NN	_	3	nn
+3	nightclub	nightclub	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	had	have	VBN	_	0	ROOT
+6	an	a	DT	_	9	det
+7	ambitious	ambitious	JJ	_	9	amod
+8	expansion	expansion	NN	_	9	nn
+9	plan	plan	NN	_	10	nsubj
+10	blocked	block	VBD	_	5	ccomp
+11	over	over	IN	_	10	prep
+12	concerns	concern	NNS	_	11	pobj
+13	about	about	IN	_	12	prep
+14	unruly	unruly	JJ	_	15	amod
+15	behaviour	behaviour	NN	_	13	pobj
+16	from	from	IN	_	15	prep
+17	drunken	drunken	JJ	_	18	amod
+18	revellers	reveller	NNS	_	16	pobj
+19	.	.	.	_	5	punct
+

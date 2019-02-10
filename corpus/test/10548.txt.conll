@@ -1,0 +1,19 @@
+1	My	my	PRP$	_	3	poss
+2	second	second	JJ	_	3	amod
+3	question	question	NN	_	4	nsubj
+4	is	be	VBZ	_	0	ROOT
+5	regarding	regard	VBG	_	4	prep
+6	the	the	DT	_	7	det
+7	sale	sale	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	bones	bone	NNS	_	8	pobj
+10	and	and	CC	_	4	cc
+11	hide	hide	VB	_	4	conj
+12	of	of	IN	_	11	prep
+13	tigers	tiger	NNS	_	14	nsubj
+14	going	go	VBG	_	12	pcomp
+15	on	on	IN	_	14	prep
+16	in	in	IN	_	15	pcomp
+17	Delhi	Delhi	NNP	_	16	pobj
+18	.	.	.	_	4	punct
+

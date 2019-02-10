@@ -1,0 +1,26 @@
+1	After	after	IN	_	17	prep
+2	arriving	arrive	VBG	_	1	pcomp
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	bottom	bottom	NN	_	3	pobj
+6	at	at	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	wreck	wreck	NN	_	9	nn
+9	site	site	NN	_	6	pobj
+10	,	,	,	_	17	punct
+11	the	the	DT	_	13	det
+12	first	first	JJ	_	13	amod
+13	team	team	NN	_	17	nsubj
+14	of	of	IN	_	13	prep
+15	divers	diver	NNS	_	14	pobj
+16	must	must	MD	_	17	aux
+17	check	check	VB	_	0	ROOT
+18	the	the	DT	_	19	det
+19	anchor	anchor	NN	_	17	dobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	boat	boat	NN	_	20	pobj
+23	for	for	IN	_	22	prep
+24	security	security	NN	_	23	pobj
+25	.	.	.	_	17	punct
+

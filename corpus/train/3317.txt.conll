@@ -1,0 +1,20 @@
+1	Over	over	IN	_	12	prep
+2	much	much	JJ	_	1	pobj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	past	past	JJ	_	6	amod
+6	decade	decade	NN	_	3	pobj
+7	,	,	,	_	12	punct
+8	the	the	DT	_	9	det
+9	leader	leader	NN	_	12	nsubj
+10	has	have	VBZ	_	12	aux
+11	methodically	methodically	RB	_	12	advmod
+12	fashioned	fashion	VBN	_	0	ROOT
+13	the	the	DT	_	14	det
+14	party	party	NN	_	12	dobj
+15	into	into	IN	_	12	prep
+16	a	a	DT	_	18	det
+17	re-election	re-election	NN	_	18	nn
+18	machine	machine	NN	_	15	pobj
+19	.	.	.	_	12	punct
+

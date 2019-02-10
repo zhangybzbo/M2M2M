@@ -1,0 +1,3 @@
+T1	Term 56 72	digital channels
+T2	Term 93 100	weather
+R1	Message-Topic Arg1:T1 Arg2:T2

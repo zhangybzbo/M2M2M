@@ -1,0 +1,18 @@
+1	Acne	acne	NN	_	5	nsubjpass
+2	or	or	CC	_	1	cc
+3	pimples	pimple	NNS	_	1	conj
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	hormonal	hormonal	JJ	_	8	amod
+8	changes	change	NNS	_	6	pobj
+9	,	,	,	_	5	punct
+10	wrong	wrong	JJ	_	12	amod
+11	food	food	NN	_	12	nn
+12	habits	habit	NNS	_	5	dobj
+13	and	and	CC	_	12	cc
+14	improper	improper	JJ	_	16	amod
+15	skin	skin	NN	_	16	nn
+16	care	care	NN	_	12	conj
+17	.	.	.	_	5	punct
+

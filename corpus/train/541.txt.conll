@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	authors	author	NNS	_	3	nsubj
+3	assessed	assess	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	reliability	reliability	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	basic	basic	JJ	_	10	amod
+9	diagnostic	diagnostic	JJ	_	10	amod
+10	methods	method	NNS	_	6	pobj
+11	in	in	IN	_	5	prep
+12	series	series	NN	_	11	pobj
+13	of	of	IN	_	12	prep
+14	181	181	CD	_	15	num
+15	patients	patient	NNS	_	13	pobj
+16	with	with	IN	_	15	prep
+17	bladder	bladder	NN	_	18	nn
+18	tumoursas	tumoursa	NNS	_	16	pobj
+19	compared	compare	VBN	_	3	prep
+20	with	with	IN	_	19	pcomp
+21	operative	operative	JJ	_	22	amod
+22	findings	finding	NNS	_	20	pobj
+23	.	.	.	_	3	punct
+

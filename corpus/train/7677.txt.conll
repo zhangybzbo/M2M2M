@@ -1,0 +1,13 @@
+1	Principals	principal	NNS	_	2	nsubj
+2	respond	respond	VBP	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	a	a	DT	_	5	det
+5	decrease	decrease	NN	_	3	pobj
+6	in	in	IN	_	5	prep
+7	uncertainty	uncertainty	NN	_	6	pobj
+8	with	with	IN	_	7	prep
+9	more	more	RBR	_	10	advmod
+10	aggressive	aggressive	JJ	_	11	amod
+11	strategies	strategy	NNS	_	8	pobj
+12	.	.	.	_	2	punct
+

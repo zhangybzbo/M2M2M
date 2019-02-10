@@ -1,0 +1,18 @@
+1	Eighty	eighty	CD	_	2	num
+2	percent	percent	NN	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	mortgage	mortgage	NN	_	6	nn
+6	fraud	fraud	NN	_	3	pobj
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	caused	cause	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	banks	bank	NNS	_	10	pobj
+13	and	and	CC	_	12	cc
+14	the	the	DT	_	16	det
+15	lending	lending	NN	_	16	nn
+16	institutions	institution	NNS	_	12	conj
+17	.	.	.	_	9	punct
+

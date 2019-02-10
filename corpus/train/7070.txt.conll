@@ -1,0 +1,24 @@
+1	Before	before	IN	_	0	ROOT
+2	attacking	attack	VBG	_	1	pcomp
+3	the	the	DT	_	5	det
+4	Walthers	Walthers	NNP	_	5	nn
+5	kit	kit	NN	_	2	dobj
+6	with	with	IN	_	2	prep
+7	a	a	DT	_	9	det
+8	razor	razor	NN	_	9	nn
+9	saw	saw	NN	_	6	pobj
+10	,	,	,	_	1	punct
+11	however	however	RB	_	10	ccomp
+12	,	,	,	_	13	punct
+13	let	let	VB	_	11	dep
+14	's	's	POS	_	15	nsubj
+15	take	take	VB	_	13	ccomp
+16	care	care	NN	_	15	dobj
+17	of	of	IN	_	15	prep
+18	some	some	DT	_	22	det
+19	other	other	JJ	_	22	amod
+20	important	important	JJ	_	22	amod
+21	layout	layout	NN	_	22	nn
+22	details	detail	NNS	_	17	pobj
+23	.	.	.	_	13	punct
+

@@ -1,0 +1,7 @@
+1	Researchers	Researchers	NNP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	bio-energetics	bio-energetic	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	bio-magnification	bio-magnification	NN	_	4	pobj
+6	.	.	.	_	2	punct
+

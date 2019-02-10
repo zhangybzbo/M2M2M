@@ -1,0 +1,1 @@
+In tele-operation , a human operator manipulates a control stick to generate a command signal so that a robot performs a specified task .

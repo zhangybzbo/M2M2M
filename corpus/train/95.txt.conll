@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det
+2	ambitious	ambitious	JJ	_	4	amod
+3	Eurasia	Eurasia	NNP	_	4	nn
+4	exhibition	exhibition	NN	_	5	nsubj
+5	arose	arise	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	an	a	DT	_	8	det
+8	idea	idea	NN	_	6	pobj
+9	by	by	IN	_	8	prep
+10	Achille	Achille	NNP	_	12	nn
+11	Bonito	Bonito	NNP	_	12	nn
+12	Oliva	Oliva	NNP	_	9	pobj
+13	.	.	.	_	5	punct
+

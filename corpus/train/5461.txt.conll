@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	water	water	NN	_	3	nsubj
+3	starts	start	VBZ	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	underground	underground	JJ	_	7	amod
+7	lake	lake	NN	_	4	pobj
+8	a	a	DT	_	9	det
+9	mile	mile	NN	_	10	npadvmod
+10	away	away	RB	_	7	advmod
+11	,	,	,	_	3	punct
+12	arrives	arrive	VBZ	_	3	conj
+13	in	in	IN	_	12	prep
+14	an	a	DT	_	17	det
+15	intricately-ptterned	intricately-ptterned	JJ	_	17	amod
+16	moss	moss	NN	_	17	nn
+17	pool	pool	NN	_	13	pobj
+18	and	and	CC	_	3	cc
+19	falls	fall	VBZ	_	3	conj
+20	over	over	IN	_	19	prep
+21	a	a	DT	_	24	det
+22	small	small	JJ	_	24	amod
+23	cliff	cliff	NN	_	24	nn
+24	face	face	NN	_	20	pobj
+25	.	.	.	_	3	punct
+

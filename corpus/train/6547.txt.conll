@@ -1,0 +1,18 @@
+1	He	he	PRP	_	3	nsubj
+2	had	have	VBD	_	3	aux
+3	visited	visit	VBN	_	0	ROOT
+4	Myer	Myer	NNP	_	3	dobj
+5	's	's	POS	_	4	possessive
+6	during	during	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	afternoon	afternoon	NN	_	6	pobj
+9	and	and	CC	_	3	cc
+10	bought	buy	VBD	_	3	conj
+11	a	a	DT	_	13	det
+12	gold	gold	NN	_	13	nn
+13	bracelet	bracelet	NN	_	10	dobj
+14	for	for	IN	_	10	prep
+15	$	$	$	_	14	pobj
+16	300	300	CD	_	15	num
+17	.	.	.	_	3	punct
+

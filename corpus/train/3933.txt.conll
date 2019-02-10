@@ -1,0 +1,18 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	several	several	JJ	_	4	amod
+4	scripts	script	NNS	_	2	nsubj
+5	to	to	TO	_	6	aux
+6	shut	shut	VB	_	4	vmod
+7	down	down	RP	_	6	prt
+8	Windows	Windows	NNP	_	6	dobj
+9	,	,	,	_	2	punct
+10	hibernate	hibernate	VBP	_	2	dep
+11	or	or	CC	_	10	cc
+12	put	put	VBP	_	10	conj
+13	the	the	DT	_	14	det
+14	computer	computer	NN	_	10	dobj
+15	to	to	TO	_	16	aux
+16	sleep	sleep	VB	_	14	vmod
+17	.	.	.	_	2	punct
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	position	position	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	Catholic	Catholic	NNP	_	6	nn
+6	Church	Church	NNP	_	3	pobj
+7	on	on	IN	_	2	prep
+8	the	the	DT	_	9	det
+9	matter	matter	NN	_	7	pobj
+10	is	be	VBZ	_	11	auxpass
+11	defined	define	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	canon	canon	NN	_	14	nn
+14	law	law	NN	_	12	pobj
+15	.	.	.	_	11	punct
+

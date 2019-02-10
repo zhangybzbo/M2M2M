@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj
+2	hear	hear	VBP	_	0	ROOT
+3	it	it	PRP	_	2	dobj
+4	,	,	,	_	3	punct
+5	too	too	RB	_	4	poss
+6	,	,	,	_	5	punct
+7	in	in	IN	_	6	dep
+8	the	the	DT	_	10	det
+9	lovely	lovely	JJ	_	10	amod
+10	expansiveness	expansiveness	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	his	he	PRP$	_	13	poss
+13	work	work	NN	_	11	pobj
+14	as	as	IN	_	7	prep
+15	a	a	DT	_	17	det
+16	chamber	chamber	NN	_	17	nn
+17	musician	musician	NN	_	14	pobj
+18	.	.	.	_	7	punct
+

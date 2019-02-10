@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det
+2	covey	covey	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	partridges	partridge	NNS	_	3	pobj
+5	nested	nested	JJ	_	4	amod
+6	in	in	IN	_	5	prep
+7	my	my	PRP$	_	9	poss
+8	pear	pear	NN	_	9	nn
+9	grove	grove	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	commission	commission	NN	_	4	nsubj
+3	merely	merely	RB	_	4	advmod
+4	implements	implement	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	contracts	contract	NNS	_	4	dobj
+7	,	,	,	_	4	punct
+8	shielding	shield	VBG	_	4	vmod
+9	the	the	DT	_	12	det
+10	major	major	JJ	_	12	amod
+11	party	party	NN	_	12	nn
+12	candidates	candidate	NNS	_	8	dobj
+13	from	from	IN	_	8	prep
+14	public	public	JJ	_	15	amod
+15	criticism	criticism	NN	_	13	pobj
+16	.	.	.	_	4	punct
+

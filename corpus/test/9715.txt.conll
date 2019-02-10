@@ -1,0 +1,24 @@
+1	Sensitive	sensitive	JJ	_	8	ccomp
+2	and	and	CC	_	1	cc
+3	robust	robust	JJ	_	1	conj
+4	,	,	,	_	8	punct
+5	this	this	DT	_	7	det
+6	active	active	JJ	_	7	amod
+7	stethoscope	stethoscope	NN	_	8	nsubj
+8	features	feature	VBZ	_	0	ROOT
+9	a	a	DT	_	11	det
+10	small	small	JJ	_	11	amod
+11	metal	metal	NN	_	8	dobj
+12	and	and	CC	_	11	cc
+13	rubber	rubber	NN	_	15	nn
+14	button	button	NN	_	15	nn
+15	head	head	NN	_	11	conj
+16	with	with	IN	_	11	prep
+17	a	a	DT	_	21	det
+18	preamped	preamped	JJ	_	21	amod
+19	PVDF	pvdf	NN	_	21	nn
+20	film	film	NN	_	21	nn
+21	sensor	sensor	NN	_	16	pobj
+22	inside	inside	IN	_	21	advmod
+23	.	.	.	_	8	punct
+

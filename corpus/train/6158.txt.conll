@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	key	key	JJ	_	0	ROOT
+3	to	to	TO	_	2	prep
+4	drinking	drink	VBG	_	3	pcomp
+5	ginger	ginger	NN	_	6	nn
+6	ale	ale	NN	_	4	dobj
+7	for	for	IN	_	4	prep
+8	an	a	DT	_	10	det
+9	upset	upset	JJ	_	10	amod
+10	stomach	stomach	NN	_	7	pobj
+11	is	be	VBZ	_	2	dep
+12	to	to	TO	_	13	aux
+13	make	make	VB	_	11	xcomp
+14	sure	sure	JJ	_	13	acomp
+15	it	it	PRP	_	17	nsubj
+16	actually	actually	RB	_	17	advmod
+17	HAS	have	VBZ	_	14	ccomp
+18	ginger	ginger	NN	_	17	dobj
+19	in	in	IN	_	17	prep
+20	it	it	PRP	_	19	pobj
+21	.	.	.	_	2	punct
+

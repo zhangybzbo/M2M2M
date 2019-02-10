@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	remaining	remain	VBG	_	3	amod
+3	contents	contents	NNS	_	7	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	package	package	NN	_	4	pobj
+7	included	include	VBD	_	0	ROOT
+8	four	four	CD	_	9	num
+9	ounces	ounce	NNS	_	7	dobj
+10	of	of	IN	_	9	prep
+11	plastique	plastique	NN	_	10	pobj
+12	filled	fill	VBN	_	11	vmod
+13	with	with	IN	_	12	prep
+14	tiny	tiny	JJ	_	16	amod
+15	metallic	metallic	JJ	_	16	amod
+16	slivers	sliver	NNS	_	13	pobj
+17	.	.	.	_	7	punct
+

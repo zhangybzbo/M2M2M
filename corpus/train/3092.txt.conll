@@ -1,0 +1,11 @@
+1	Billions	billion	NNS	_	5	nsubjpass
+2	of	of	IN	_	1	prep
+3	euro	euro	NN	_	2	pobj
+4	are	be	VBP	_	5	auxpass
+5	invested	invest	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	nanotechnology	nanotechnology	NN	_	6	pobj
+8	in	in	IN	_	5	prep
+9	Europe	Europe	NNP	_	8	pobj
+10	.	.	.	_	5	punct
+

@@ -1,0 +1,16 @@
+1	Cornelius	Cornelius	NNP	_	2	nn
+2	Gingerich	Gingerich	NNP	_	3	nsubj
+3	sold	sell	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	span	span	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	mules	mule	NNS	_	6	pobj
+8	to	to	TO	_	3	prep
+9	Jake	Jake	NNP	_	10	nn
+10	Ayers	Ayers	NNP	_	8	pobj
+11	of	of	IN	_	10	prep
+12	Wellman	Wellman	NNP	_	11	pobj
+13	last	last	JJ	_	14	amod
+14	week	week	NN	_	3	tmod
+15	.	.	.	_	3	punct
+

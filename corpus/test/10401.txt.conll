@@ -1,0 +1,14 @@
+1	Today	today	NN	_	5	tmod
+2	Miguel	Miguel	NNP	_	3	nn
+3	Cotto	Cotto	NNP	_	5	nsubj
+4	is	be	VBZ	_	5	aux
+5	receiving	receive	VBG	_	0	ROOT
+6	a	a	DT	_	7	det
+7	rain	rain	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	offers	offer	NNS	_	8	pobj
+10	to	to	TO	_	11	aux
+11	keep	keep	VB	_	9	vmod
+12	fighting	fighting	NN	_	11	dobj
+13	.	.	.	_	5	punct
+

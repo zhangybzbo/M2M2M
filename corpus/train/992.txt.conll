@@ -1,0 +1,12 @@
+1	My	my	PRP$	_	3	poss
+2	two	two	CD	_	3	num
+3	friends	friend	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	moved	move	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	my	my	PRP$	_	8	poss
+8	apartment	apartment	NN	_	6	pobj
+9	last	last	JJ	_	10	amod
+10	weekend	weekend	NN	_	5	tmod
+11	.	.	.	_	5	punct
+

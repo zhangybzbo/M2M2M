@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	roaring	roar	VBG	_	4	amod
+3	chainsword	chainsword	NN	_	4	nn
+4	bit	bit	NN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	haft	haft	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	axe	axe	NN	_	8	pobj
+11	,	,	,	_	4	punct
+12	just	just	RB	_	13	advmod
+13	below	below	IN	_	4	prep
+14	the	the	DT	_	16	det
+15	massive	massive	JJ	_	16	amod
+16	blade	blade	NN	_	13	pobj
+17	.	.	.	_	4	punct
+

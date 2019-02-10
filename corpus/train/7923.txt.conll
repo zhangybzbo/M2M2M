@@ -1,0 +1,14 @@
+1	Beauty	beauty	NN	_	4	nsubj
+2	had	have	VBD	_	4	aux
+3	scarcely	scarcely	RB	_	4	advmod
+4	uttered	utter	VBN	_	0	ROOT
+5	these	these	DT	_	6	det
+6	words	word	NNS	_	4	dobj
+7	when	when	WRB	_	4	dep
+8	the	the	DT	_	9	det
+9	castle	castle	NN	_	7	dep
+10	radiated	radiate	VBN	_	9	vmod
+11	with	with	IN	_	10	prep
+12	light	light	NN	_	11	pobj
+13	.	.	.	_	4	punct
+

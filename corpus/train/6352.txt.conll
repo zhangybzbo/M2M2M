@@ -1,0 +1,11 @@
+1	I	I	PRP	_	3	nsubj
+2	am	be	VBP	_	3	aux
+3	putting	put	VBG	_	0	ROOT
+4	the	the	DT	_	5	det
+5	results	result	NNS	_	3	dobj
+6	into	into	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	MySQL	mysql	NN	_	9	nn
+9	database	database	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

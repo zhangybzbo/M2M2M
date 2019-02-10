@@ -1,0 +1,3 @@
+T1	Term 136 141	flour
+T2	Term 155 160	sacks
+R1	Entity-Destination Arg1:T1 Arg2:T2

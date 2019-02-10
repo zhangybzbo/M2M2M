@@ -1,0 +1,23 @@
+1	Botulism	botulism	NN	_	8	nsubj
+2	is	be	VBZ	_	8	cop
+3	a	a	DT	_	8	det
+4	rare	rare	JJ	_	8	amod
+5	but	but	CC	_	4	cc
+6	serious	serious	JJ	_	4	conj
+7	paralytic	paralytic	JJ	_	8	amod
+8	illness	illness	NN	_	0	ROOT
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	a	a	DT	_	13	det
+12	nerve	nerve	NN	_	13	nn
+13	toxin	toxin	NN	_	10	pobj
+14	that	that	WDT	_	16	nsubjpass
+15	is	be	VBZ	_	16	auxpass
+16	produced	produce	VBN	_	13	rcmod
+17	by	by	IN	_	16	prep
+18	the	the	DT	_	21	det
+19	bacterium	bacterium	NN	_	21	nn
+20	Clostridium	clostridium	NN	_	21	nn
+21	botulinum	botulinum	NN	_	17	pobj
+22	.	.	.	_	8	punct
+

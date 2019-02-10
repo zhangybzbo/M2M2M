@@ -1,0 +1,22 @@
+1	A	a	DT	_	2	det
+2	model	model	NN	_	15	nsubjpass
+3	for	for	IN	_	2	prep
+4	a	a	DT	_	6	det
+5	summer	summer	NN	_	6	nn
+6	house	house	NN	_	3	pobj
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	carpenter	carpenter	NN	_	7	pobj
+10	and	and	CC	_	9	cc
+11	architect	architect	NN	_	13	nn
+12	William	William	NNP	_	13	nn
+13	Thornton	Thornton	NNP	_	9	conj
+14	was	be	VBD	_	15	auxpass
+15	approved	approve	VBN	_	0	ROOT
+16	by	by	IN	_	15	prep
+17	Sir	Sir	NNP	_	18	nn
+18	Abstrupus	Abstrupus	NNP	_	16	pobj
+19	in	in	IN	_	15	prep
+20	1700	1700	CD	_	19	pobj
+21	.	.	.	_	15	punct
+

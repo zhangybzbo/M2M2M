@@ -1,0 +1,21 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	3	det
+3	layers	layer	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	separated	separate	VBN	_	10	advcl
+6	,	,	,	_	10	punct
+7	the	the	DT	_	9	det
+8	lower	lower	JJR	_	9	amod
+9	layer	layer	NN	_	10	nsubj
+10	drained	drain	VBD	_	0	ROOT
+11	into	into	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	beaker	beaker	NN	_	11	pobj
+14	;	;	:	_	10	punct
+15	this	this	DT	_	16	det
+16	phase	phase	NN	_	18	nsubjpass
+17	is	be	VBZ	_	18	auxpass
+18	thrown	throw	VBN	_	10	parataxis
+19	away	away	RB	_	18	advmod
+20	.	.	.	_	10	punct
+

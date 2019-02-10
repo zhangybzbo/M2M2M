@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det
+2	quartz	quartz	NN	_	4	nn
+3	sample	sample	NN	_	4	nn
+4	tube	tube	NN	_	9	nsubjpass
+5	with	with	IN	_	4	prep
+6	polyradical	polyradical	JJ	_	7	amod
+7	residue	residue	NN	_	5	pobj
+8	was	be	VBD	_	9	auxpass
+9	cut	cut	VBN	_	0	ROOT
+10	with	with	IN	_	9	prep
+11	diamond	diamond	NN	_	12	nn
+12	knife	knife	NN	_	10	pobj
+13	to	to	TO	_	9	prep
+14	the	the	DT	_	15	det
+15	size	size	NN	_	13	pobj
+16	that	that	WDT	_	17	nsubj
+17	fit	fit	VBP	_	15	rcmod
+18	into	into	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	Teflon	teflon	NN	_	22	nn
+21	digestion	digestion	NN	_	22	nn
+22	vessel	vessel	NN	_	18	pobj
+23	.	.	.	_	9	punct
+

@@ -1,0 +1,3 @@
+T1	Term 32 36	pile
+T2	Term 40 45	rocks
+R1	Member-Collection Arg1:T2 Arg2:T1

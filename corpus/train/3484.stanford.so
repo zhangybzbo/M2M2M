@@ -1,0 +1,13 @@
+0	74	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t2"
+3	7	tok id="t1" base="also" pos="RB" advmod="t2"
+8	16	tok id="t2" base="release" pos="VBD" ROOT="ROOT"
+17	18	tok id="t3" base="a" pos="DT" det="t5"
+19	26	tok id="t4" base="similar" pos="JJ" amod="t5"
+27	35	tok id="t5" base="document" pos="NN" dobj="t2"
+36	49	tok id="t6" base="investigate" pos="VBG" vmod="t5"
+50	58	tok id="t7" base="violence" pos="NN" dobj="t6"
+59	66	tok id="t8" base="against" pos="IN" prep="t7"
+67	72	tok id="t9" base="woman" pos="NNS" pobj="t8"
+73	74	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

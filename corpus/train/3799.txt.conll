@@ -1,0 +1,22 @@
+1	At	at	IN	_	7	prep
+2	the	the	DT	_	3	det
+3	entrance	entrance	NN	_	1	pobj
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	farm	farm	NN	_	4	pobj
+7	is	be	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	gardenhouse	gardenhouse	NN	_	7	nsubj
+10	,	,	,	_	9	punct
+11	the	the	DT	_	12	det
+12	heart	heart	NN	_	9	appos
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	community	community	NN	_	13	pobj
+16	Supported	support	VBN	_	17	amod
+17	garden	garden	NN	_	15	dep
+18	at	at	IN	_	17	prep
+19	Genesis	Genesis	NNP	_	20	nn
+20	Farm	Farm	NNP	_	18	pobj
+21	.	.	.	_	7	punct
+

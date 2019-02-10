@@ -1,0 +1,18 @@
+1	Initially	initially	RB	_	4	advmod
+2	the	the	DT	_	3	det
+3	user	user	NN	_	4	nsubj
+4	calibrates	calibrate	VBZ	_	0	ROOT
+5	the	the	DT	_	6	det
+6	microscope	microscope	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	7	pobj
+9	fluorescence	fluorescence	NN	_	8	dep
+10	lifetime	lifetime	NN	_	9	dep
+11	standard	standard	JJ	_	10	amod
+12	positioned	positioned	JJ	_	11	dep
+13	at	at	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	sample	sample	NN	_	16	nn
+16	plane	plane	NN	_	13	pobj
+17	.	.	.	_	4	punct
+

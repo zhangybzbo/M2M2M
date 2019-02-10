@@ -1,0 +1,17 @@
+1	And	and	CC	_	4	cc
+2	those	those	DT	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	guys	guy	NNS	_	0	ROOT
+5	running	run	VBG	_	4	vmod
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	exact	exact	JJ	_	10	amod
+9	same	same	JJ	_	10	amod
+10	legs	leg	NNS	_	6	pobj
+11	made	make	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	same	same	JJ	_	15	amod
+15	company	company	NN	_	12	pobj
+16	.	.	.	_	4	punct
+

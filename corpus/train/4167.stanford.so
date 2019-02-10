@@ -1,0 +1,11 @@
+0	49	sentence id="s0" parse_status="success"
+0	9	tok id="t0" base="addiction" pos="NN" nsubj="t3"
+10	13	tok id="t1" base="and" pos="CC" cc="t0"
+14	21	tok id="t2" base="poverty" pos="NN" conj="t0"
+22	26	tok id="t3" base="lead" pos="VBP" ROOT="ROOT"
+27	29	tok id="t4" base="to" pos="TO" prep="t3"
+30	37	tok id="t5" base="neglect" pos="NN" pobj="t4"
+38	41	tok id="t6" base="and" pos="CC" cc="t5"
+42	47	tok id="t7" base="abuse" pos="NN" conj="t5"
+48	49	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

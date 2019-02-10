@@ -1,0 +1,25 @@
+1	Part	part	NN	_	12	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	task	task	NN	_	2	pobj
+5	which	which	WDT	_	8	dobj
+6	the	the	DT	_	7	det
+7	authors	author	NNS	_	8	nsubj
+8	set	set	VBP	_	4	rcmod
+9	themselves	themselves	PRP	_	8	dobj
+10	is	be	VBZ	_	12	cop
+11	the	the	DT	_	12	det
+12	delineation	delineation	NN	_	0	ROOT
+13	and	and	CC	_	12	cc
+14	validation	validation	NN	_	12	conj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	idea	idea	NN	_	15	pobj
+18	that	that	IN	_	23	mark
+19	a	a	DT	_	20	det
+20	subculture	subculture	NN	_	23	nsubj
+21	of	of	IN	_	20	prep
+22	violence	violence	NN	_	21	pobj
+23	exists	exist	VBZ	_	17	ccomp
+24	.	.	.	_	12	punct
+

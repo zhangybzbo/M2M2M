@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	puts	put	VBZ	_	0	ROOT
+3	a	a	DT	_	5	det
+4	driver	driver	NN	_	5	nn
+5	bit	bit	NN	_	2	dobj
+6	that	that	WDT	_	7	nsubj
+7	fits	fit	VBZ	_	5	rcmod
+8	the	the	DT	_	9	det
+9	screw	screw	NN	_	7	dobj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	14	det
+12	drill	drill	NN	_	14	nn
+13	press	press	NN	_	14	nn
+14	chuck	chuck	NN	_	10	pobj
+15	.	.	.	_	2	punct
+

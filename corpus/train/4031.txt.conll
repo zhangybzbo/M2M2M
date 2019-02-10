@@ -1,0 +1,15 @@
+1	CENT	cent	NN	_	6	poss
+2	's	's	POS	_	1	possessive
+3	hotly	hotly	RB	_	4	advmod
+4	anticipated	anticipate	VBN	_	6	amod
+5	new	new	JJ	_	6	amod
+6	album	album	NN	_	9	nsubjpass
+7	has	have	VBZ	_	9	aux
+8	been	be	VBN	_	9	auxpass
+9	leaked	leak	VBN	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	to	to	TO	_	10	pcomp
+12	the	the	DT	_	13	det
+13	public	public	NN	_	11	pobj
+14	.	.	.	_	9	punct
+

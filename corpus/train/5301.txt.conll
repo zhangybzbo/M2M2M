@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	abdominal	abdominal	JJ	_	3	amod
+3	distention	distention	NN	_	10	nsubj
+4	caused	cause	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	worms	worm	NNS	_	5	pobj
+8	was	be	VBD	_	10	cop
+9	slightly	slightly	RB	_	10	advmod
+10	asymmetrical	asymmetrical	JJ	_	0	ROOT
+11	when	when	WRB	_	12	advmod
+12	compared	compare	VBN	_	10	advcl
+13	with	with	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	normal	normal	JJ	_	16	amod
+16	fright-induced	fright-induced	JJ	_	17	nsubj
+17	swelling	swell	VBG	_	13	pcomp
+18	.	.	.	_	10	punct
+

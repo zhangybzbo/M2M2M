@@ -1,0 +1,11 @@
+1	Taylor	Taylor	NNP	_	2	nsubj
+2	reflected	reflect	VBD	_	0	ROOT
+3	on	on	IN	_	2	prep
+4	his	he	PRP$	_	5	poss
+5	actions	action	NNS	_	3	pobj
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	2003	2003	CD	_	9	num
+9	interview	interview	NN	_	6	pobj
+10	.	.	.	_	2	punct
+

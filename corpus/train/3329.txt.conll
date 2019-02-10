@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	scientists	scientist	NNS	_	3	nsubj
+3	poured	pour	VBD	_	0	ROOT
+4	money	money	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	pint	pint	NN	_	8	nn
+7	cancer	cancer	NN	_	8	nn
+8	research	research	NN	_	5	pobj
+9	.	.	.	_	3	punct
+

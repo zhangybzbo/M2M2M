@@ -1,0 +1,9 @@
+1	Past	past	JJ	_	2	amod
+2	consciousness	consciousness	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	travelling	travel	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	future	future	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

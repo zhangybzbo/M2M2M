@@ -1,0 +1,25 @@
+1	Bevan	Bevan	NNP	_	2	nsubj
+2	opens	open	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	case	case	NN	_	2	dobj
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	other	other	JJ	_	8	amod
+8	side	side	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	room	room	NN	_	9	pobj
+12	and	and	CC	_	2	cc
+13	pulls	pull	VBZ	_	2	conj
+14	out	out	RP	_	13	prt
+15	a	a	DT	_	16	det
+16	flask	flask	NN	_	13	dobj
+17	that	that	WDT	_	18	nsubj
+18	contains	contain	VBZ	_	16	rcmod
+19	ale	ale	NN	_	18	dobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	best	best	JJS	_	23	amod
+23	sort	sort	NN	_	20	pobj
+24	.	.	.	_	2	punct
+

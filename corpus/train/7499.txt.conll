@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	crypt	crypt	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	tomb	tomb	NN	_	3	dobj
+6	of	of	IN	_	5	prep
+7	St	St	NNP	_	8	nn
+8	Paul	Paul	NNP	_	6	pobj
+9	but	but	CC	_	5	cc
+10	the	the	DT	_	11	det
+11	altar	altar	NN	_	5	conj
+12	had	have	VBD	_	13	aux
+13	hidden	hide	VBN	_	3	dep
+14	it	it	PRP	_	13	dobj
+15	.	.	.	_	3	punct
+

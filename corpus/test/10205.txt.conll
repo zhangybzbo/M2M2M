@@ -1,0 +1,20 @@
+1	A	a	DT	_	3	det
+2	computer	computer	NN	_	3	nn
+3	program	program	NN	_	8	nsubj
+4	called	call	VBN	_	8	dep
+5	Trakl	Trakl	NNP	_	8	dep
+6	`	`	``	_	8	punct
+7	Bigi	Bigi	NNP	_	8	nsubj
+8	generates	generate	VBZ	_	0	ROOT
+9	poems	poem	NNS	_	8	dobj
+10	in	in	IN	_	8	prep
+11	the	the	DT	_	12	det
+12	style	style	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	18	det
+15	expressionist	expressionist	NN	_	18	nn
+16	poet	poet	NN	_	18	nn
+17	Georg	Georg	NNP	_	18	nn
+18	Trakl	Trakl	NNP	_	13	pobj
+19	.	.	.	_	8	punct
+

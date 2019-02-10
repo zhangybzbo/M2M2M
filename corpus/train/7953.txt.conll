@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	rower	rower	NN	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	one	one	CD	_	5	num
+5	oar	oar	NN	_	3	dobj
+6	in	in	IN	_	5	prep
+7	sweep	sweep	NN	_	8	nn
+8	rowing	rowing	NN	_	6	pobj
+9	,	,	,	_	8	punct
+10	an	a	DT	_	11	det
+11	oar	oar	NN	_	8	appos
+12	in	in	IN	_	11	prep
+13	each	each	DT	_	14	det
+14	hand	hand	NN	_	12	pobj
+15	in	in	IN	_	11	prep
+16	sculling	sculling	NN	_	15	pobj
+17	.	.	.	_	3	punct
+

@@ -1,0 +1,9 @@
+1	Frequent	frequent	JJ	_	2	amod
+2	agitations	agitation	NNS	_	3	nsubj
+3	throw	throw	VBP	_	0	ROOT
+4	academic	academic	JJ	_	5	amod
+5	life	life	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	disarray	disarray	NN	_	6	pobj
+8	.	.	.	_	3	punct
+

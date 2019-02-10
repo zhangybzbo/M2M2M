@@ -1,0 +1,19 @@
+1	Finally	finally	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	they	they	PRP	_	4	nsubj
+4	found	find	VBD	_	0	ROOT
+5	out	out	RP	_	4	prt
+6	that	that	IN	_	9	mark
+7	the	the	DT	_	8	det
+8	letter	letter	NN	_	9	nsubj
+9	was	be	VBD	_	4	ccomp
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	trunk	trunk	NN	_	10	pobj
+13	in	in	IN	_	12	prep
+14	her	she	PRP$	_	15	poss
+15	mother	mother	NN	_	17	poss
+16	's	's	POS	_	15	possessive
+17	attic	attic	NN	_	13	pobj
+18	.	.	.	_	4	punct
+

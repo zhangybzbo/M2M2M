@@ -1,0 +1,26 @@
+1	Vinegar	Vinegar	NNP	_	2	nn
+2	flies	fly	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	capable	capable	JJ	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	living	live	VBG	_	5	pcomp
+7	off	off	RP	_	6	prt
+8	alcohol	alcohol	NN	_	9	nsubj
+9	fumes	fume	VBZ	_	6	ccomp
+10	,	,	,	_	4	punct
+11	alas	alas	UH	_	4	discourse
+12	,	,	,	_	4	punct
+13	so	so	IN	_	16	mark
+14	it	it	PRP	_	16	nsubj
+15	is	be	VBZ	_	16	cop
+16	enough	enough	JJ	_	4	advcl
+17	toput	toput	NN	_	16	dep
+18	out	out	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	bottle	bottle	NN	_	18	pobj
+21	with	with	IN	_	17	prep
+22	attractant	attractant	NN	_	21	pobj
+23	in	in	IN	_	17	prep
+24	it	it	PRP	_	23	pobj
+25	.	.	.	_	4	punct
+

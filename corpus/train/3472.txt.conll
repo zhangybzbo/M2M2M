@@ -1,0 +1,13 @@
+1	Chin	Chin	NNP	_	2	nsubj
+2	creates	create	VBZ	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	work	work	NN	_	2	dobj
+5	based	base	VBN	_	2	prep
+6	on	on	IN	_	5	pcomp
+7	his	he	PRP$	_	9	poss
+8	life	life	NN	_	9	nn
+9	experiences	experience	NNS	_	6	pobj
+10	and	and	CC	_	9	cc
+11	observations	observation	NNS	_	9	conj
+12	.	.	.	_	2	punct
+

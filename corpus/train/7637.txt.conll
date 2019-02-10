@@ -1,0 +1,22 @@
+1	Then	then	RB	_	10	advmod
+2	,	,	,	_	10	punct
+3	in	in	IN	_	10	prep
+4	May	May	NNP	_	3	pobj
+5	,	,	,	_	4	punct
+6	2005	2005	CD	_	4	num
+7	,	,	,	_	10	punct
+8	the	the	DT	_	9	det
+9	government	government	NN	_	10	nsubj
+10	produced	produce	VBD	_	0	ROOT
+11	the	the	DT	_	13	det
+12	factual	factual	JJ	_	13	amod
+13	return	return	NN	_	10	dobj
+14	,	,	,	_	10	punct
+15	as	as	IN	_	16	mark
+16	ordered	order	VBN	_	10	advcl
+17	by	by	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	District	District	NNP	_	20	nn
+20	Court	Court	NNP	_	17	pobj
+21	.	.	.	_	10	punct
+

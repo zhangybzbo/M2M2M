@@ -1,0 +1,22 @@
+1	Twisters	twister	NNS	_	3	nsubj
+2	generally	generally	RB	_	3	advmod
+3	fill	fill	VBP	_	0	ROOT
+4	their	they	PRP$	_	5	poss
+5	creations	creation	NNS	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	gas	gas	NN	_	6	pobj
+9	other	other	JJ	_	8	amod
+10	than	than	IN	_	9	prep
+11	helium	helium	NNP	_	10	pobj
+12	,	,	,	_	3	punct
+13	as	as	IN	_	19	mark
+14	these	these	DT	_	15	det
+15	designs	design	NNS	_	19	nsubj
+16	will	will	MD	_	19	aux
+17	not	not	RB	_	19	neg
+18	usually	usually	RB	_	19	advmod
+19	float	float	VB	_	3	advcl
+20	anyway	anyway	RB	_	19	advmod
+21	.	.	.	_	3	punct
+

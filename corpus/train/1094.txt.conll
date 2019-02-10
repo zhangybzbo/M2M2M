@@ -1,0 +1,16 @@
+1	Vietnam	Vietnam	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	response	response	NN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	toll	toll	NN	_	4	pobj
+7	caused	cause	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	earthquake	earthquake	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	Sichuan	Sichuan	NNP	_	11	pobj
+13	,	,	,	_	12	punct
+14	China	China	NNP	_	12	appos
+15	.	.	.	_	3	punct
+

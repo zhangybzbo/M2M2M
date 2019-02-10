@@ -1,0 +1,20 @@
+1	These	these	DT	_	7	nsubj
+2	tough	tough	JJ	_	7	advmod
+3	,	,	,	_	7	punct
+4	stainless	stainless	JJ	_	6	amod
+5	steel	steel	NN	_	6	nn
+6	bolts	bolt	NNS	_	7	nsubj
+7	have	have	VBP	_	0	ROOT
+8	a	a	DT	_	10	det
+9	pentagonal	pentagonal	JJ	_	10	amod
+10	head	head	NN	_	7	dobj
+11	designed	design	VBN	_	10	vmod
+12	for	for	IN	_	11	prep
+13	fastening	fasten	VBG	_	12	pcomp
+14	a	a	DT	_	16	det
+15	manhole	manhole	NN	_	16	nn
+16	cover	cover	NN	_	13	dobj
+17	in	in	IN	_	16	prep
+18	place	place	NN	_	17	pobj
+19	.	.	.	_	7	punct
+

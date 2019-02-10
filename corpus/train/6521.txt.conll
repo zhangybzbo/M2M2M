@@ -1,0 +1,11 @@
+1	Space	space	NN	_	2	nn
+2	beer	beer	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	barley	barley	NN	_	5	pobj
+7	grown	grow	VBN	_	6	vmod
+8	in	in	IN	_	7	prep
+9	space	space	NN	_	8	pobj
+10	.	.	.	_	4	punct
+

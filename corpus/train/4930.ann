@@ -1,0 +1,3 @@
+T1	Term 21 27	drawer
+T2	Term 68 75	cabinet
+R1	Component-Whole Arg1:T1 Arg2:T2

@@ -1,0 +1,1 @@
+This represents a house that contains a light bulb and an airconditioner .

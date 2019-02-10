@@ -1,0 +1,11 @@
+0	67	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="clinician" pos="NNS" nsubj="t1"
+11	18	tok id="t1" base="enter" pos="VBD" ROOT="ROOT"
+19	22	tok id="t2" base="the" pos="DT" det="t3"
+23	31	tok id="t3" base="patient" pos="NNS" dobj="t1"
+32	36	tok id="t4" base="into" pos="IN" prep="t1"
+37	47	tok id="t5" base="randomised" pos="JJ" amod="t7"
+48	58	tok id="t6" base="controlled" pos="JJ" amod="t7"
+59	65	tok id="t7" base="trial" pos="NNS" pobj="t4"
+66	67	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

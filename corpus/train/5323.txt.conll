@@ -1,0 +1,26 @@
+1	The	the	DT	_	4	det
+2	thriving	thrive	VBG	_	4	amod
+3	wool	wool	NN	_	4	nn
+4	industry	industry	NN	_	5	nsubj
+5	led	lead	VBD	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	8	det
+8	development	development	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	Tregaron	Tregaron	NNP	_	9	pobj
+11	of	of	IN	_	10	prep
+12	one	one	CD	_	11	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	17	det
+15	first	first	JJ	_	17	amod
+16	Welsh	Welsh	NNP	_	17	nn
+17	banks	bank	NNS	_	13	pobj
+18	,	,	,	_	5	punct
+19	the	the	DT	_	20	det
+20	Bank	Bank	NNP	_	18	dep
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	24	det
+23	Black	black	JJ	_	24	amod
+24	Sheep	Sheep	NNP	_	21	pobj
+25	.	.	.	_	20	punct
+

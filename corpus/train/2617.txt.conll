@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	2	poss
+2	husband	husband	NN	_	4	nsubj
+3	actually	actually	RB	_	4	advmod
+4	made	make	VBD	_	0	ROOT
+5	me	I	PRP	_	8	nsubj
+6	a	a	DT	_	8	det
+7	teddy	teddy	NN	_	8	nn
+8	bear	bear	NN	_	4	xcomp
+9	when	when	WRB	_	12	advmod
+10	we	we	PRP	_	12	nsubjpass
+11	got	get	VBD	_	12	auxpass
+12	married	marry	VBN	_	4	advcl
+13	.	.	.	_	4	punct
+

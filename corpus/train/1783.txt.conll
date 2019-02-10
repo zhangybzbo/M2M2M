@@ -1,0 +1,14 @@
+1	In	in	IN	_	9	prep
+2	exclusive	exclusive	JJ	_	3	amod
+3	buildings	building	NNS	_	1	pobj
+4	,	,	,	_	9	punct
+5	a	a	DT	_	7	det
+6	private	private	JJ	_	7	amod
+7	restaurant	restaurant	NN	_	9	nsubj
+8	is	be	VBZ	_	9	cop
+9	part	part	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	package	package	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

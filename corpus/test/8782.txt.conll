@@ -1,0 +1,22 @@
+1	Once	once	RB	_	5	advmod
+2	the	the	DT	_	3	det
+3	data	datum	NNS	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	collected	collect	VBN	_	11	advcl
+6	,	,	,	_	11	punct
+7	an	a	DT	_	9	det
+8	emissions	emission	NNS	_	9	nn
+9	inventory	inventory	NN	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	completed	complete	VBN	_	0	ROOT
+12	by	by	IN	_	11	prep
+13	staff	staff	NN	_	12	pobj
+14	using	use	VBG	_	11	xcomp
+15	calculation	calculation	NN	_	16	nn
+16	tools	tool	NNS	_	14	dobj
+17	from	from	IN	_	14	prep
+18	the	the	DT	_	20	det
+19	GHG	GHG	NNP	_	20	nn
+20	Protocol	Protocol	NNP	_	17	pobj
+21	.	.	.	_	11	punct
+

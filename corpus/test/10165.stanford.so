@@ -1,0 +1,11 @@
+0	59	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="original" pos="JJ" amod="t2"
+9	20	tok id="t1" base="mammography" pos="NN" nn="t2"
+21	26	tok id="t2" base="film" pos="NNS" nsubjpass="t5"
+27	30	tok id="t3" base="be" pos="VBP" aux="t5"
+31	36	tok id="t4" base="be" pos="VBG" auxpass="t5"
+37	46	tok id="t5" base="deliver" pos="VBN" ROOT="ROOT"
+47	49	tok id="t6" base="to" pos="TO" prep="t5"
+50	57	tok id="t7" base="viewer" pos="NNS" pobj="t6"
+58	59	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,8 @@
+1	Eventually	eventually	RB	_	4	advmod
+2	the	the	DT	_	3	det
+3	company	company	NN	_	4	nsubj
+4	manufactured	manufacture	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	machines	machine	NNS	_	4	dobj
+7	.	.	.	_	4	punct
+

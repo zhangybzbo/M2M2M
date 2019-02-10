@@ -1,0 +1,24 @@
+1	A	a	DT	_	5	det
+2	multiple	multiple	JJ	_	5	amod
+3	goal	goal	NN	_	5	nn
+4	model	model	NN	_	5	nn
+5	structure	structure	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	formulated	formulate	VBN	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	a	a	DT	_	11	det
+10	garment	garment	NN	_	11	nn
+11	factory	factory	NN	_	8	pobj
+12	based	base	VBN	_	11	vmod
+13	on	on	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	objectives	objective	NNS	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	company	company	NN	_	16	pobj
+19	including	include	VBG	_	18	prep
+20	minimisation	minimisation	NN	_	19	pobj
+21	of	of	IN	_	20	prep
+22	lateness	lateness	NN	_	21	pobj
+23	.	.	.	_	7	punct
+

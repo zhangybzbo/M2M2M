@@ -1,0 +1,21 @@
+1	In	in	IN	_	5	prep
+2	zen	zen	NN	_	1	pobj
+3	,	,	,	_	5	punct
+4	there	there	EX	_	5	expl
+5	is	be	VBZ	_	0	ROOT
+6	a	a	DT	_	8	det
+7	strong	strong	JJ	_	8	amod
+8	relationship	relationship	NN	_	17	nsubj
+9	between	between	IN	_	8	prep
+10	work	work	NN	_	9	pobj
+11	and	and	CC	_	10	cc
+12	food	food	NN	_	10	conj
+13	,	,	,	_	8	punct
+14	for	for	IN	_	8	prep
+15	the	the	DT	_	16	det
+16	former	former	JJ	_	14	pobj
+17	begets	beget	VBZ	_	5	ccomp
+18	the	the	DT	_	19	det
+19	latter	latter	JJ	_	17	dobj
+20	.	.	.	_	5	punct
+

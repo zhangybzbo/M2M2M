@@ -1,0 +1,17 @@
+1	Construction	construction	NN	_	2	nn
+2	workers	worker	NNS	_	3	nsubj
+3	utilized	utilize	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	crane	crane	NN	_	3	dobj
+6	to	to	TO	_	7	aux
+7	assist	assist	VB	_	3	xcomp
+8	in	in	IN	_	7	prep
+9	bringing	bring	VBG	_	8	pcomp
+10	roofing	roofing	NN	_	11	nn
+11	materials	material	NNS	_	9	dobj
+12	up	up	IN	_	9	prep
+13	to	to	TO	_	12	pcomp
+14	the	the	DT	_	15	det
+15	top	top	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

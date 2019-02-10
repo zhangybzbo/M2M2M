@@ -1,0 +1,12 @@
+1	A	a	DT	_	2	det
+2	witch	witch	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	able	able	JJ	_	0	ROOT
+5	to	to	TO	_	6	aux
+6	change	change	VB	_	4	xcomp
+7	events	event	NNS	_	6	dobj
+8	by	by	IN	_	6	prep
+9	using	use	VBG	_	8	pcomp
+10	magic	magic	NN	_	9	dobj
+11	.	.	.	_	4	punct
+

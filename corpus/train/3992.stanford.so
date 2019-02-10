@@ -1,0 +1,12 @@
+0	53	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t3"
+4	7	tok id="t1" base="CFA" pos="NNP" nn="t3"
+8	15	tok id="t2" base="program" pos="NN" nn="t3"
+16	26	tok id="t3" base="curriculum" pos="NN" nsubjpass="t5"
+27	29	tok id="t4" base="be" pos="VBZ" auxpass="t5"
+30	37	tok id="t5" base="ship" pos="VBN" ROOT="ROOT"
+38	40	tok id="t6" base="to" pos="TO" prep="t5"
+41	44	tok id="t7" base="the" pos="DT" det="t8"
+45	51	tok id="t8" base="people" pos="NNS" pobj="t6"
+52	53	tok id="t9" base="-PERIOD-" pos="." punct="t5"
+

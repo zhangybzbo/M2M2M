@@ -1,0 +1,17 @@
+1	Maybe	maybe	RB	_	8	advmod
+2	a	a	DT	_	4	det
+3	few	few	JJ	_	4	amod
+4	times	time	NNS	_	8	dep
+5	my	my	PRP$	_	6	poss
+6	boobs	boob	NNS	_	8	nsubj
+7	have	have	VBP	_	8	aux
+8	popped	pop	VBN	_	0	ROOT
+9	out	out	IN	_	8	prep
+10	of	of	IN	_	9	pcomp
+11	an	a	DT	_	12	det
+12	outfit	outfit	NN	_	10	pobj
+13	but	but	CC	_	8	cc
+14	that	that	IN	_	15	nsubj
+15	happens	happen	VBZ	_	8	conj
+16	.	.	.	_	8	punct
+

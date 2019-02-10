@@ -1,0 +1,12 @@
+0	55	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="squeeze" pos="VBN" amod="t1"
+9	16	tok id="t1" base="grower" pos="NNS" nsubj="t3"
+17	21	tok id="t2" base="have" pos="VBP" aux="t3"
+22	25	tok id="t3" base="put" pos="VBN" ROOT="ROOT"
+26	32	tok id="t4" base="plight" pos="NN" dobj="t3"
+33	35	tok id="t5" base="to" pos="TO" prep="t3"
+36	39	tok id="t6" base="the" pos="DT" det="t8"
+40	44	tok id="t7" base="city" pos="NN" nn="t8"
+45	53	tok id="t8" base="dweller" pos="NNS" pobj="t5"
+54	55	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

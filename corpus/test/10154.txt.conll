@@ -1,0 +1,23 @@
+1	Friends	Friends	NNPS	_	15	nsubj
+2	and	and	CC	_	1	cc
+3	family	family	NN	_	1	conj
+4	of	of	IN	_	1	prep
+5	inpatients	inpatient	NNS	_	4	pobj
+6	at	at	IN	_	1	prep
+7	various	various	JJ	_	8	amod
+8	hospitals	hospital	NNS	_	6	pobj
+9	and	and	CC	_	8	cc
+10	health	health	NN	_	12	nn
+11	care	care	NN	_	12	nn
+12	facilities	facility	NNS	_	8	conj
+13	are	be	VBP	_	15	cop
+14	now	now	RB	_	15	advmod
+15	able	able	JJ	_	0	ROOT
+16	to	to	TO	_	17	aux
+17	send	send	VB	_	15	xcomp
+18	well	well	RB	_	17	advmod
+19	wishes	wish	VBZ	_	17	dep
+20	via	via	IN	_	19	prep
+21	email	email	NN	_	20	pobj
+22	.	.	.	_	15	punct
+

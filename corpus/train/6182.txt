@@ -1,0 +1,1 @@
+The insurance cost has been added into the shipping price .

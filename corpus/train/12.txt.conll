@@ -1,0 +1,8 @@
+1	Their	they	PRP$	_	2	poss
+2	composer	composer	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	sunk	sink	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	oblivion	oblivion	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

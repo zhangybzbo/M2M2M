@@ -1,0 +1,24 @@
+1	In	in	IN	_	7	prep
+2	this	this	DT	_	3	det
+3	study	study	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	flakeboard	flakeboard	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	produced	produce	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	decommissioned	decommission	VBN	_	11	amod
+10	guardrail	guardrail	NN	_	11	nn
+11	posts	post	NNS	_	8	pobj
+12	that	that	WDT	_	15	nsubjpass
+13	had	have	VBD	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	treated	treat	VBN	_	11	rcmod
+16	with	with	IN	_	15	prep
+17	chromated	chromate	VBN	_	19	amod
+18	copper	copper	NN	_	19	nn
+19	arsenate	arsenate	NN	_	16	pobj
+20	-LRB-	-lrb-	-LRB-	_	21	punct
+21	CCA	cca	NN	_	19	appos
+22	-RRB-	-rrb-	-RRB-	_	21	punct
+23	.	.	.	_	7	punct
+

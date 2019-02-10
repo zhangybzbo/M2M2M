@@ -1,0 +1,8 @@
+0	30	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="nurse" pos="NN" nsubj="t2"
+10	16	tok id="t2" base="wield" pos="VBZ" ROOT="ROOT"
+17	20	tok id="t3" base="the" pos="DT" det="t4"
+21	28	tok id="t4" base="scalpel" pos="NN" dobj="t2"
+29	30	tok id="t5" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,23 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	4	det
+3	taxi	taxi	NN	_	4	nn
+4	driver	driver	NN	_	5	nsubj
+5	stopped	stop	VBD	_	15	advcl
+6	his	he	PRP$	_	7	poss
+7	car	car	NN	_	5	dobj
+8	and	and	CC	_	5	cc
+9	got	get	VBD	_	5	conj
+10	out	out	RP	_	9	prt
+11	,	,	,	_	15	punct
+12	the	the	DT	_	14	det
+13	two	two	CD	_	14	num
+14	people	people	NNS	_	15	nsubj
+15	ran	run	VBD	_	0	ROOT
+16	up	up	RP	_	15	prt
+17	the	the	DT	_	18	det
+18	street	street	NN	_	15	dobj
+19	toward	toward	IN	_	15	prep
+20	downtown	downtown	NN	_	21	nn
+21	Potsdam	Potsdam	NNP	_	19	pobj
+22	.	.	.	_	15	punct
+

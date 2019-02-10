@@ -1,0 +1,8 @@
+1	These	these	DT	_	2	det
+2	implants	implant	NNS	_	4	nsubjpass
+3	were	be	VBD	_	4	auxpass
+4	placed	place	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	function	function	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

@@ -1,0 +1,16 @@
+1	Scabies	Scabies	NNP	_	2	nn
+2	mites	mite	NNS	_	3	nsubj
+3	construct	construct	VBP	_	0	ROOT
+4	their	they	PRP$	_	5	poss
+5	burrows	burrow	NNS	_	3	dobj
+6	in	in	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	skin	skin	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	infested	infested	JJ	_	12	amod
+12	animal	animal	NN	_	9	pobj
+13	or	or	CC	_	12	cc
+14	human	human	JJ	_	12	conj
+15	.	.	.	_	3	punct
+

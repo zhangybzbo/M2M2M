@@ -1,0 +1,13 @@
+0	66	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="bread" pos="NN" nn="t1"
+6	15	tok id="t1" base="shortage" pos="NNS" ROOT="ROOT"
+16	19	tok id="t2" base="and" pos="CC" cc="t1"
+20	28	tok id="t3" base="mount" pos="VBG" amod="t6"
+29	36	tok id="t4" base="poverty" pos="NN" nn="t6"
+37	42	tok id="t5" base="cause" pos="NN" nn="t6"
+43	48	tok id="t6" base="riot" pos="NNS" conj="t1"
+49	51	tok id="t7" base="in" pos="IN" prep="t1"
+52	58	tok id="t8" base="nearby" pos="JJ" amod="t9"
+59	64	tok id="t9" base="Paris" pos="NNP" pobj="t7"
+65	66	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

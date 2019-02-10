@@ -1,0 +1,19 @@
+1	Asthma	asthma	NN	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	disease	disease	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	respiratory	respiratory	JJ	_	8	amod
+8	system	system	NN	_	5	pobj
+9	,	,	,	_	4	punct
+10	which	which	WDT	_	11	nsubj
+11	causes	cause	VBZ	_	4	rcmod
+12	swelling	swell	VBG	_	11	dobj
+13	and	and	CC	_	12	cc
+14	narrowing	narrow	VBG	_	12	conj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	airways	airway	NNS	_	15	pobj
+18	.	.	.	_	4	punct
+

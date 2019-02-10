@@ -1,0 +1,17 @@
+1	Also	also	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	we	we	PRP	_	4	nsubj
+4	note	note	VBP	_	0	ROOT
+5	the	the	DT	_	6	det
+6	convergence	convergence	NN	_	4	dobj
+7	over	over	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	lakes	lake	NN	_	7	pobj
+10	caused	cause	VBN	_	6	vmod
+11	by	by	IN	_	10	prep
+12	the	the	DT	_	15	det
+13	land	land	NN	_	15	nn
+14	breeze	breeze	NN	_	15	nn
+15	circulation	circulation	NN	_	11	pobj
+16	.	.	.	_	4	punct
+

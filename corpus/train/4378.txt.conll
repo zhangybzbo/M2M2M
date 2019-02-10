@@ -1,0 +1,12 @@
+1	Cancer	cancer	NN	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	spread	spread	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	lymph	lymph	NN	_	6	nn
+6	nodes	node	NNS	_	4	pobj
+7	close	close	RB	_	6	amod
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	tumour	tumour	NN	_	8	pobj
+11	.	.	.	_	3	punct
+

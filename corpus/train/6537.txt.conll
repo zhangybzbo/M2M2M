@@ -1,0 +1,18 @@
+1	It	it	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	the	the	DT	_	5	det
+4	whole	whole	JJ	_	5	amod
+5	world	world	NN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	a	a	DT	_	9	det
+8	sun	sun	NN	_	9	nn
+9	boy	boy	NN	_	6	pobj
+10	who	who	WP	_	12	nsubjpass
+11	was	be	VBD	_	12	auxpass
+12	born	bear	VBN	_	9	rcmod
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	refugee	refugee	NN	_	16	nn
+16	camp	camp	NN	_	13	pobj
+17	.	.	.	_	5	punct
+

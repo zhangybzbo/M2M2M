@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	person	person	NN	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	release	release	NN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	their	they	PRP$	_	7	poss
+7	vehicle	vehicle	NN	_	5	pobj
+8	before	before	IN	_	11	mark
+9	emergency	emergency	NN	_	10	nn
+10	services	service	NNS	_	11	nsubj
+11	arrived	arrive	VBD	_	4	advcl
+12	just	just	RB	_	13	advmod
+13	after	after	IN	_	11	prep
+14	9am	9am	CD	_	13	pobj
+15	this	this	DT	_	16	det
+16	morning	morning	NN	_	14	tmod
+17	.	.	.	_	4	punct
+

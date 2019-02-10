@@ -1,0 +1,22 @@
+1	Freedman	Freedman	NNP	_	2	nsubj
+2	makes	make	VBZ	_	0	ROOT
+3	a	a	DT	_	5	det
+4	thorough	thorough	JJ	_	5	amod
+5	appraisal	appraisal	NN	_	2	dobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	statistical	statistical	JJ	_	9	amod
+9	methods	method	NNS	_	6	pobj
+10	in	in	IN	_	9	prep
+11	these	these	DT	_	12	det
+12	papers	papers	NNS	_	10	pobj
+13	,	,	,	_	2	punct
+14	and	and	CC	_	2	cc
+15	in	in	IN	_	2	conj
+16	a	a	DT	_	17	det
+17	variety	variety	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	other	other	JJ	_	20	amod
+20	examples	example	NNS	_	18	pobj
+21	.	.	.	_	2	punct
+

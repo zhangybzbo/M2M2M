@@ -1,0 +1,22 @@
+1	Critics	critic	NNS	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	industry	industry	NN	_	2	pobj
+5	maintain	maintain	VBP	_	0	ROOT
+6	that	that	IN	_	13	mark
+7	private	private	JJ	_	8	amod
+8	military	military	JJ	_	11	amod
+9	and	and	CC	_	8	cc
+10	security	security	NN	_	8	conj
+11	companies	company	NNS	_	13	nsubjpass
+12	are	be	VBP	_	13	auxpass
+13	used	use	VBN	_	5	ccomp
+14	by	by	IN	_	13	prep
+15	governments	government	NNS	_	14	pobj
+16	in	in	IN	_	19	mark
+17	order	order	NN	_	19	dep
+18	to	to	TO	_	19	aux
+19	circumvent	circumvent	VB	_	13	advcl
+20	attention	attention	NN	_	19	dobj
+21	.	.	.	_	5	punct
+

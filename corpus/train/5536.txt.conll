@@ -1,0 +1,25 @@
+1	The	the	DT	_	5	det
+2	upper	upper	JJ	_	5	amod
+3	and	and	CC	_	2	cc
+4	lower	lower	JJR	_	2	conj
+5	steps	step	NNS	_	14	nsubj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	stairs	stair	NNS	_	6	pobj
+9	inside	inside	IN	_	8	prep
+10	university	university	NN	_	11	nn
+11	buildings	building	NNS	_	9	pobj
+12	are	be	VBP	_	14	cop
+13	clearly	clearly	RB	_	14	advmod
+14	marked	marked	JJ	_	0	ROOT
+15	and	and	CC	_	14	cc
+16	are	be	VBP	_	14	conj
+17	all	all	DT	_	16	nsubj
+18	equipped	equip	VBN	_	17	vmod
+19	with	with	IN	_	18	prep
+20	at	at	IN	_	22	quantmod
+21	least	least	JJS	_	20	mwe
+22	one	one	CD	_	23	num
+23	handrail	handrail	NN	_	19	pobj
+24	.	.	.	_	14	punct
+

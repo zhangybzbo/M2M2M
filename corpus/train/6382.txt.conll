@@ -1,0 +1,13 @@
+1	An	a	DT	_	3	det
+2	Israeli	israeli	JJ	_	3	amod
+3	minister	minister	NN	_	4	nsubj
+4	sent	send	VBD	_	0	ROOT
+5	troops	troops	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	schools	school	NNS	_	6	pobj
+9	to	to	TO	_	10	aux
+10	boost	boost	VB	_	4	vmod
+11	conscription	conscription	NN	_	10	dobj
+12	.	.	.	_	4	punct
+

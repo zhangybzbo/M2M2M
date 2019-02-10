@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	Commission	Commission	NNP	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	published	publish	VBN	_	0	ROOT
+5	an	a	DT	_	7	det
+6	annual	annual	JJ	_	7	amod
+7	report	report	NN	_	4	dobj
+8	giving	give	VBG	_	7	vmod
+9	a	a	DT	_	10	det
+10	summary	summary	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	committee	committee	NN	_	13	nn
+13	activities	activity	NNS	_	11	pobj
+14	during	during	IN	_	8	prep
+15	the	the	DT	_	17	det
+16	previous	previous	JJ	_	17	amod
+17	year	year	NN	_	14	pobj
+18	.	.	.	_	4	punct
+

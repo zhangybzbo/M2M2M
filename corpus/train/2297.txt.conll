@@ -1,0 +1,25 @@
+1	This	this	DT	_	4	nsubjpass
+2	is	be	VBZ	_	4	auxpass
+3	usually	usually	RB	_	4	advmod
+4	accomplished	accomplish	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	placing	place	VBG	_	5	pcomp
+7	the	the	DT	_	8	det
+8	ball	ball	NN	_	6	dobj
+9	in	in	IN	_	6	prep
+10	a	a	DT	_	12	det
+11	wire	wire	NN	_	12	nn
+12	basket	basket	NN	_	9	pobj
+13	or	or	CC	_	12	cc
+14	container	container	NN	_	12	conj
+15	that	that	WDT	_	17	nsubj
+16	substantially	substantially	RB	_	17	advmod
+17	conforms	conform	VBZ	_	12	rcmod
+18	to	to	TO	_	17	prep
+19	the	the	DT	_	20	det
+20	shape	shape	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	ball	ball	NN	_	21	pobj
+24	.	.	.	_	4	punct
+

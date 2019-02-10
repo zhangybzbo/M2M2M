@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	tea	tea	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	cup	cup	NN	_	4	pobj
+7	and	and	CC	_	4	cc
+8	not	not	RB	_	9	neg
+9	as	as	IN	_	12	mark
+10	the	the	DT	_	11	det
+11	menu	menu	NN	_	12	nsubj
+12	suggested	suggest	VBD	_	4	conj
+13	in	in	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	pot	pot	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

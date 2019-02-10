@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	stethoscope	stethoscope	NN	_	3	nsubj
+3	gives	give	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	doctor	doctor	NN	_	6	nn
+6	clues	clue	NNS	_	3	dobj
+7	as	as	IN	_	3	prep
+8	to	to	TO	_	7	pcomp
+9	the	the	DT	_	10	det
+10	presence	presence	NN	_	8	pobj
+11	or	or	CC	_	10	cc
+12	absence	absence	NN	_	10	conj
+13	of	of	IN	_	10	prep
+14	pathology	pathology	NN	_	13	pobj
+15	.	.	.	_	3	punct
+

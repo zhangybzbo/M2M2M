@@ -1,0 +1,24 @@
+1	Primary	primary	JJ	_	3	amod
+2	wholesale	wholesale	JJ	_	3	amod
+3	markets	market	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	held	hold	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	9	det
+8	fixed	fix	VBN	_	9	amod
+9	place	place	NN	_	6	pobj
+10	and	and	CC	_	5	cc
+11	transact	transact	VB	_	5	conj
+12	daily	daily	RB	_	11	advmod
+13	a	a	DT	_	15	det
+14	large	large	JJ	_	15	amod
+15	volume	volume	NN	_	11	dobj
+16	of	of	IN	_	15	prep
+17	business	business	NN	_	16	pobj
+18	emanated	emanate	VBD	_	11	dep
+19	from	from	IN	_	18	prep
+20	the	the	DT	_	22	det
+21	village	village	NN	_	22	nn
+22	markets	market	NNS	_	19	pobj
+23	.	.	.	_	5	punct
+

@@ -1,0 +1,18 @@
+1	Another	another	DT	_	4	det
+2	important	important	JJ	_	4	amod
+3	data	datum	NNS	_	4	nn
+4	structure	structure	NN	_	0	ROOT
+5	-	-	:	_	4	punct
+6	the	the	DT	_	7	det
+7	heap	heap	NN	_	12	nsubjpass
+8	-	-	:	_	7	punct
+9	has	have	VBZ	_	12	aux
+10	already	already	RB	_	12	advmod
+11	been	be	VBN	_	12	auxpass
+12	introduced	introduce	VBN	_	4	dep
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	previous	previous	JJ	_	16	amod
+16	chapter	chapter	NN	_	13	pobj
+17	.	.	.	_	4	punct
+

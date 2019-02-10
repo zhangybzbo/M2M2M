@@ -1,0 +1,27 @@
+1	One	one	CD	_	2	num
+2	year	year	NN	_	3	npadvmod
+3	later	later	RB	_	9	advmod
+4	,	,	,	_	9	punct
+5	a	a	DT	_	7	det
+6	follow-up	follow-up	JJ	_	7	amod
+7	workshop	workshop	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	held	hold	VBN	_	0	ROOT
+10	to	to	TO	_	11	aux
+11	provide	provide	VB	_	9	xcomp
+12	a	a	DT	_	14	det
+13	focused	focused	JJ	_	14	amod
+14	discussion	discussion	NN	_	11	dobj
+15	on	on	IN	_	14	prep
+16	these	these	DT	_	17	det
+17	issues	issue	NNS	_	15	pobj
+18	from	from	IN	_	14	prep
+19	a	a	DT	_	20	det
+20	research	research	NN	_	18	pobj
+21	,	,	,	_	20	punct
+22	practice	practice	NN	_	20	conj
+23	and	and	CC	_	20	cc
+24	policy	policy	NN	_	25	nn
+25	perspective	perspective	NN	_	20	conj
+26	.	.	.	_	9	punct
+

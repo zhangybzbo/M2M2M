@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	dotted	dot	VBN	_	3	amod
+3	line	line	NN	_	4	nsubj
+4	refers	refer	VBZ	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	experimental	experimental	JJ	_	9	amod
+7	and	and	CC	_	6	cc
+8	simulated	simulated	JJ	_	6	conj
+9	data	datum	NNS	_	5	pobj
+10	.	.	.	_	4	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	building	building	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	laboratory	laboratory	NN	_	5	nn
+5	facilities	facility	NNS	_	3	dobj
+6	for	for	IN	_	5	prep
+7	conducting	conduct	VBG	_	6	pcomp
+8	spectrochemical	spectrochemical	NN	_	7	dobj
+9	,	,	,	_	8	punct
+10	chemical	chemical	NN	_	8	conj
+11	,	,	,	_	8	punct
+12	and	and	CC	_	8	cc
+13	mass	mass	NN	_	15	nn
+14	spectrometric	spectrometric	JJ	_	15	amod
+15	analyses	analysis	NNS	_	8	conj
+16	.	.	.	_	3	punct
+

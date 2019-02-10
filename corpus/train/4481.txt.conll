@@ -1,0 +1,24 @@
+1	Jennifer	Jennifer	NNP	_	2	nn
+2	Holt	Holt	NNP	_	14	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	6	det
+5	former	former	JJ	_	6	amod
+6	actress	actress	NN	_	2	appos
+7	from	from	IN	_	6	prep
+8	Western	western	JJ	_	9	amod
+9	movies	movie	NNS	_	7	pobj
+10	,	,	,	_	2	punct
+11	was	be	VBD	_	14	cop
+12	``	``	``	_	14	punct
+13	Aunt	Aunt	NNP	_	14	nn
+14	Judy	Judy	NNP	_	0	ROOT
+15	,	,	,	_	14	punct
+16	''	''	''	_	14	punct
+17	the	the	DT	_	19	det
+18	only	only	JJ	_	19	amod
+19	human	human	JJ	_	14	dep
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	cast	cast	NN	_	20	pobj
+23	.	.	.	_	14	punct
+

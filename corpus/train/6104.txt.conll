@@ -1,0 +1,14 @@
+1	They	they	PRP	_	4	nsubj
+2	are	be	VBP	_	4	cop
+3	navigational	navigational	JJ	_	4	amod
+4	maps	map	NNS	_	0	ROOT
+5	based	base	VBN	_	4	prep
+6	on	on	IN	_	5	pcomp
+7	realistic	realistic	JJ	_	8	amod
+8	descriptions	description	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	harbours	harbour	NNS	_	9	pobj
+11	and	and	CC	_	10	cc
+12	coasts	coast	NNS	_	10	conj
+13	.	.	.	_	4	punct
+

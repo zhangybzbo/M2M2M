@@ -1,0 +1,12 @@
+1	It	it	PRP	_	2	nsubj
+2	contains	contain	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	chapter	chapter	NN	_	2	dobj
+5	giving	give	VBG	_	4	vmod
+6	an	a	DT	_	7	det
+7	introduction	introduction	NN	_	5	dobj
+8	to	to	TO	_	7	prep
+9	compression	compression	NN	_	10	nn
+10	algorithms	algorithm	NNS	_	8	pobj
+11	.	.	.	_	2	punct
+

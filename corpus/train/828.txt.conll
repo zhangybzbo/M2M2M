@@ -1,0 +1,23 @@
+1	We	we	PRP	_	2	nsubj
+2	have	have	VBP	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	take	take	VB	_	2	xcomp
+5	into	into	IN	_	4	prep
+6	account	account	NN	_	5	pobj
+7	the	the	DT	_	8	det
+8	reality	reality	NN	_	4	dobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	damage	damage	NN	_	9	pobj
+12	that	that	WDT	_	15	nsubjpass
+13	has	have	VBZ	_	15	aux
+14	been	be	VBN	_	15	auxpass
+15	caused	cause	VBN	_	11	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	deregulation	deregulation	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	nutritional	nutritional	JJ	_	21	amod
+21	supplements	supplement	NNS	_	19	pobj
+22	.	.	.	_	2	punct
+

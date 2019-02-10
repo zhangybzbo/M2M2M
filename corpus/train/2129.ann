@@ -1,0 +1,3 @@
+T1	Term 0 11	Citizenship
+T2	Term 39 48	immigrant
+R1	Entity-Destination Arg1:T1 Arg2:T2

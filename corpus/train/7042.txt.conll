@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	eight-part	eight-part	JJ	_	3	amod
+3	serial	serial	NN	_	7	nsubj
+4	was	be	VBD	_	7	cop
+5	a	a	DT	_	7	det
+6	historical	historical	JJ	_	7	amod
+7	drama	drama	NN	_	0	ROOT
+8	set	set	VBN	_	7	vmod
+9	in	in	IN	_	8	prep
+10	ancient	ancient	JJ	_	11	amod
+11	Egypt	Egypt	NNP	_	9	pobj
+12	and	and	CC	_	7	cc
+13	charted	chart	VBD	_	7	conj
+14	the	the	DT	_	16	det
+15	ruling	ruling	NN	_	16	nn
+16	dynasty	dynasty	NN	_	13	dobj
+17	of	of	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	Cleopatras	Cleopatras	NNP	_	17	pobj
+20	.	.	.	_	7	punct
+

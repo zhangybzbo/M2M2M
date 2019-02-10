@@ -1,0 +1,3 @@
+T1	Term 9 17	chemical
+T2	Term 55 60	gland
+R1	Product-Producer Arg1:T1 Arg2:T2

@@ -1,0 +1,22 @@
+1	Given	give	VBN	_	7	prep
+2	the	the	DT	_	3	det
+3	choice	choice	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	I	I	PRP	_	7	nsubj
+6	much	much	RB	_	7	advmod
+7	prefer	prefer	VBP	_	0	ROOT
+8	to	to	TO	_	9	aux
+9	have	have	VB	_	7	xcomp
+10	products	product	NNS	_	9	dobj
+11	with	with	IN	_	10	prep
+12	natural	natural	JJ	_	13	amod
+13	ingredient	ingredient	NN	_	11	pobj
+14	than	than	IN	_	15	mark
+15	have	have	VB	_	9	advcl
+16	a	a	DT	_	17	det
+17	bottle	bottle	NN	_	15	dobj
+18	full	full	JJ	_	17	amod
+19	of	of	IN	_	18	prep
+20	chemicals	chemical	NNS	_	19	pobj
+21	.	.	.	_	7	punct
+

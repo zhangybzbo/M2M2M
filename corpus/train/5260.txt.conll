@@ -1,0 +1,17 @@
+1	They	they	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	rats	rat	NNS	_	2	dobj
+5	in	in	IN	_	2	prep
+6	a	a	DT	_	7	det
+7	chamber	chamber	NN	_	5	pobj
+8	which	which	WDT	_	10	nsubj
+9	would	would	MD	_	10	aux
+10	give	give	VB	_	7	rcmod
+11	their	they	PRP$	_	12	poss
+12	feet	foot	NNS	_	10	iobj
+13	an	a	DT	_	15	det
+14	electrical	electrical	JJ	_	15	amod
+15	shock	shock	NN	_	10	dobj
+16	.	.	.	_	2	punct
+

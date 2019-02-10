@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	number	number	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	papers	papers	NNS	_	3	pobj
+5	have	have	VBP	_	6	aux
+6	emanated	emanate	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	this	this	DT	_	9	det
+9	laboratory	laboratory	NN	_	7	pobj
+10	on	on	IN	_	6	prep
+11	the	the	DT	_	12	det
+12	chemistry	chemistry	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	dl-pinonic	dl-pinonic	JJ	_	15	amod
+15	acid	acid	NN	_	13	pobj
+16	-LRB-	-lrb-	-LRB-	_	17	punct
+17	I	I	PRP	_	6	dep
+18	,	,	,	_	17	punct
+19	-RRB-	-rrb-	-RRB-	_	17	punct
+20	and	and	CC	_	17	cc
+21	dl-pinolic	dl-pinolic	JJ	_	22	amod
+22	acid	acid	NN	_	17	conj
+23	-LRB-	-lrb-	-LRB-	_	24	punct
+24	II.A	ii.a	NN	_	22	appos
+25	-RRB-	-rrb-	-RRB-	_	24	punct
+26	.	.	.	_	6	punct
+

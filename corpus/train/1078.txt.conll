@@ -1,0 +1,11 @@
+1	Disposed	disposed	JJ	_	3	amod
+2	perchlorate-based	perchlorate-based	JJ	_	3	amod
+3	products	product	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	released	release	VBN	_	0	ROOT
+6	perchlorate	perchlorate	NN	_	5	dobj
+7	into	into	IN	_	5	prep
+8	the	the	DT	_	9	det
+9	soil	soil	NN	_	7	pobj
+10	.	.	.	_	5	punct
+

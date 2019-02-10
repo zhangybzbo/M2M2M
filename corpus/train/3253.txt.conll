@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	police	police	NN	_	3	nsubj
+3	told	tell	VBD	_	0	ROOT
+4	an	a	DT	_	7	det
+5	open	open	JJ	_	7	amod
+6	government	government	NN	_	7	nn
+7	surveyor	surveyor	NN	_	3	dobj
+8	it	it	PRP	_	12	nsubj
+9	``	``	``	_	12	punct
+10	does	do	VBZ	_	12	aux
+11	n't	not	RB	_	12	neg
+12	give	give	VB	_	3	dep
+13	out	out	RP	_	12	prt
+14	the	the	DT	_	15	det
+15	records	record	NNS	_	12	dobj
+16	''	''	''	_	12	punct
+17	.	.	.	_	3	punct
+

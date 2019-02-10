@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	world	world	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	created	create	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	long	long	JJ	_	8	amod
+8	process	process	NN	_	5	pobj
+9	beginning	begin	VBG	_	8	vmod
+10	with	with	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	collapse	collapse	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	17	det
+15	huge	huge	JJ	_	17	amod
+16	molecular	molecular	JJ	_	17	amod
+17	cloud	cloud	NN	_	13	pobj
+18	.	.	.	_	4	punct
+

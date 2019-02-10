@@ -1,0 +1,16 @@
+1	Nasal	nasal	JJ	_	2	amod
+2	dryness	dryness	NN	_	3	nsubj
+3	causes	cause	VBZ	_	0	ROOT
+4	nosebleeds	nosebleed	NNS	_	3	dobj
+5	,	,	,	_	4	punct
+6	coughing	cough	VBG	_	4	vmod
+7	,	,	,	_	6	punct
+8	wheezing	wheeze	VBG	_	6	conj
+9	,	,	,	_	6	punct
+10	and	and	CC	_	6	cc
+11	other	other	JJ	_	14	amod
+12	short-term	short-term	JJ	_	14	amod
+13	respiratory	respiratory	JJ	_	14	amod
+14	problems	problem	NNS	_	6	conj
+15	.	.	.	_	3	punct
+

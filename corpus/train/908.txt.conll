@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det
+2	tonneau	tonneau	NN	_	3	nn
+3	cover	cover	NN	_	4	nsubj
+4	retracts	retract	VBZ	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	canister	canister	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

@@ -1,0 +1,18 @@
+1	A	a	DT	_	3	det
+2	German	german	JJ	_	3	amod
+3	company	company	NN	_	4	nsubj
+4	dug	dig	VBD	_	0	ROOT
+5	a	a	DT	_	6	det
+6	pool	pool	NN	_	4	dobj
+7	on	on	IN	_	4	prep
+8	an	a	DT	_	11	det
+9	outdoor	outdoor	JJ	_	11	amod
+10	running	run	VBG	_	11	amod
+11	track	track	NN	_	7	pobj
+12	and	and	CC	_	4	cc
+13	then	then	RB	_	14	advmod
+14	covered	cover	VBD	_	4	conj
+15	it	it	PRP	_	14	dobj
+16	up	up	RP	_	14	prt
+17	.	.	.	_	4	punct
+

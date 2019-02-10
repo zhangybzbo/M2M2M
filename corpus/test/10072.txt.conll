@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	letter	letter	NN	_	3	nsubj
+3	contains	contain	VBZ	_	0	ROOT
+4	instructions	instruction	NNS	_	3	dobj
+5	for	for	IN	_	4	prep
+6	completion	completion	NN	_	5	pobj
+7	,	,	,	_	3	punct
+8	and	and	CC	_	3	cc
+9	encloses	enclose	VBZ	_	3	conj
+10	a	a	DT	_	12	det
+11	blank	blank	JJ	_	12	amod
+12	copy	copy	NN	_	9	dobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	Assurance	Assurance	NNP	_	13	pobj
+16	of	of	IN	_	15	prep
+17	Compliance	Compliance	NNP	_	16	pobj
+18	.	.	.	_	3	punct
+

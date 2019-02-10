@@ -1,0 +1,26 @@
+1	A	a	DT	_	3	det
+2	baby	baby	NN	_	3	nn
+3	girl	girl	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	murdered	murder	VBN	_	0	ROOT
+6	and	and	CC	_	5	cc
+7	her	she	PRP$	_	8	poss
+8	body	body	NN	_	9	nsubj
+9	stuffed	stuff	VBD	_	5	conj
+10	in	in	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	sack	sack	NN	_	10	pobj
+13	and	and	CC	_	5	cc
+14	dumped	dump	VBN	_	5	conj
+15	in	in	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	water	water	NN	_	18	nn
+18	body	body	NN	_	15	pobj
+19	in	in	IN	_	14	prep
+20	the	the	DT	_	21	det
+21	capital	capital	NN	_	24	poss
+22	's	's	POS	_	21	possessive
+23	Pallabi	Pallabi	NNP	_	24	nn
+24	area	area	NN	_	19	pobj
+25	.	.	.	_	5	punct
+

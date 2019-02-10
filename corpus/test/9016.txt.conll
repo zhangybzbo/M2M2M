@@ -1,0 +1,9 @@
+1	Extending	extend	VBG	_	2	amod
+2	Ninject	ninject	NN	_	3	nsubj
+3	injects	inject	VBZ	_	0	ROOT
+4	dependencies	dependency	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	action	action	NN	_	7	nn
+7	filters	filter	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

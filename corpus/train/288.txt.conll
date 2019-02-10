@@ -1,0 +1,22 @@
+1	In	in	IN	_	8	prep
+2	the	the	DT	_	4	det
+3	2006	2006	CD	_	4	num
+4	campaign	campaign	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	governor	governor	NN	_	8	nsubj
+8	won	win	VBD	_	0	ROOT
+9	the	the	DT	_	11	det
+10	Hispanic	hispanic	JJ	_	11	amod
+11	vote	vote	NN	_	8	dobj
+12	with	with	IN	_	11	prep
+13	appearances	appearance	NNS	_	12	pobj
+14	such	such	JJ	_	15	mwe
+15	as	as	IN	_	13	prep
+16	one	one	CD	_	15	pobj
+17	at	at	IN	_	16	prep
+18	Casa	Casa	NNP	_	20	nn
+19	de	de	IN	_	20	amod
+20	Maryland	Maryland	NNP	_	17	pobj
+21	.	.	.	_	8	punct
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	flames	flame	NNS	_	5	nsubj
+3	did	do	VBD	_	5	aux
+4	not	not	RB	_	5	neg
+5	harm	harm	VB	_	0	ROOT
+6	her	she	PRP	_	5	dobj
+7	,	,	,	_	5	punct
+8	so	so	RB	_	5	advmod
+9	her	she	PRP$	_	10	poss
+10	executioners	executioner	NNS	_	11	nsubj
+11	killed	kill	VBD	_	5	parataxis
+12	her	she	PRP	_	11	dobj
+13	with	with	IN	_	11	prep
+14	a	a	DT	_	15	det
+15	sword	sword	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

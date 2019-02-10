@@ -1,0 +1,22 @@
+1	Koak	Koak	NNP	_	5	nsubj
+2	et	et	FW	_	3	nn
+3	al	al	FW	_	5	advmod
+4	14	14	CD	_	5	nsubj
+5	reported	report	VBD	_	0	ROOT
+6	a	a	DT	_	7	det
+7	case	case	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	such	such	JJ	_	10	amod
+10	transformation	transformation	NN	_	8	pobj
+11	in	in	IN	_	10	prep
+12	an	a	DT	_	13	det
+13	enchondroma	enchondroma	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	distal	distal	JJ	_	17	amod
+17	phalanx	phalanx	NN	_	14	pobj
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	toe	toe	NN	_	18	pobj
+21	.	.	.	_	5	punct
+

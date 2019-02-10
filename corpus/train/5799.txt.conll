@@ -1,0 +1,16 @@
+1	Common	common	JJ	_	2	amod
+2	ravens	raven	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	only	only	RB	_	9	advmod
+7	a	a	DT	_	9	det
+8	few	few	JJ	_	9	amod
+9	species	species	NNS	_	5	pobj
+10	who	who	WP	_	11	nsubj
+11	make	make	VBP	_	9	rcmod
+12	their	they	PRP$	_	14	poss
+13	own	own	JJ	_	14	amod
+14	toys	toy	NNS	_	11	dobj
+15	.	.	.	_	4	punct
+

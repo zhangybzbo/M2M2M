@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	taste	taste	NN	_	7	nsubj
+3	,	,	,	_	7	punct
+4	however	however	RB	_	7	advmod
+5	,	,	,	_	7	punct
+6	is	be	VBZ	_	7	cop
+7	mild	mild	JJ	_	0	ROOT
+8	,	,	,	_	7	punct
+9	and	and	CC	_	7	cc
+10	like	like	IN	_	13	mark
+11	rice	rice	NN	_	12	nn
+12	liquor	liquor	NN	_	13	nsubj
+13	gone	go	VBN	_	7	conj
+14	right	right	RB	_	13	advmod
+15	.	.	.	_	7	punct
+

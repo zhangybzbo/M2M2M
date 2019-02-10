@@ -1,0 +1,10 @@
+0	38	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Lemon" pos="NNP" nn="t1"
+6	10	tok id="t1" base="cake" pos="NN" ROOT="ROOT"
+11	13	tok id="t2" base="be" pos="VBZ" dep="t1"
+14	16	tok id="t3" base="my" pos="PRP$" poss="t4"
+17	24	tok id="t4" base="husband" pos="NN" nsubj="t2"
+25	27	tok id="t5" base="'s" pos="POS" possessive="t4"
+28	36	tok id="t6" base="favorite" pos="JJ" amod="t4"
+37	38	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

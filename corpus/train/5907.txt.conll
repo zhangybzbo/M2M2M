@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	tea	tea	NN	_	3	nn
+3	bag	bag	NN	_	4	nsubj
+4	was	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	mug	mug	NN	_	5	pobj
+8	,	,	,	_	7	punct
+9	which	which	WDT	_	10	nsubj
+10	made	make	VBD	_	7	rcmod
+11	the	the	DT	_	13	det
+12	whole	whole	JJ	_	13	amod
+13	process	process	NN	_	10	dobj
+14	more	more	RBR	_	15	advmod
+15	straightforward	straightforward	JJ	_	10	advmod
+16	.	.	.	_	4	punct
+

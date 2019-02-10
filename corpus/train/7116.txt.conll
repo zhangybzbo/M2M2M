@@ -1,0 +1,15 @@
+1	His	he	PRP$	_	3	poss
+2	lung	lung	NN	_	3	nn
+3	function	function	NN	_	4	nsubj
+4	remained	remain	VBD	_	0	ROOT
+5	stable	stable	JJ	_	4	acomp
+6	after	after	IN	_	4	prep
+7	complete	complete	JJ	_	8	amod
+8	removal	removal	NN	_	6	pobj
+9	from	from	IN	_	8	prep
+10	exposure	exposure	NN	_	9	pobj
+11	to	to	TO	_	10	prep
+12	metalworking	metalwork	VBG	_	13	amod
+13	fluids	fluid	NNS	_	11	pobj
+14	.	.	.	_	4	punct
+

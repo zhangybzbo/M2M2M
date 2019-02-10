@@ -1,0 +1,3 @@
+T1	Term 72 82	components
+T2	Term 96 103	workers
+R1	Product-Producer Arg1:T1 Arg2:T2

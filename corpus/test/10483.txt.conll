@@ -1,0 +1,17 @@
+1	I	I	PRP	_	3	nsubj
+2	'm	be	VBP	_	3	cop
+3	5ft10	5ft10	JJ	_	0	ROOT
+4	and	and	CC	_	3	cc
+5	the	the	DT	_	6	det
+6	jacket	jacket	NN	_	7	nsubj
+7	reaches	reach	VBZ	_	3	conj
+8	about	about	IN	_	7	prep
+9	halfway	halfway	RB	_	10	advmod
+10	down	down	IN	_	8	pcomp
+11	the	the	DT	_	12	det
+12	fly	fly	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	my	my	PRP$	_	15	poss
+15	jeans	jeans	NNS	_	13	pobj
+16	.	.	.	_	3	punct
+

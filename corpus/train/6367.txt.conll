@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	jar	jar	NN	_	7	nsubj
+3	from	from	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	fall	fall	NN	_	3	pobj
+6	had	have	VBD	_	7	aux
+7	caused	cause	VBN	_	0	ROOT
+8	a	a	DT	_	10	det
+9	subdural	subdural	JJ	_	10	amod
+10	hematoma	hematoma	NN	_	7	dobj
+11	on	on	IN	_	7	prep
+12	the	the	DT	_	15	det
+13	right	right	JJ	_	15	amod
+14	front	front	JJ	_	15	amod
+15	side	side	NN	_	11	pobj
+16	of	of	IN	_	15	prep
+17	my	my	PRP$	_	18	poss
+18	brain	brain	NN	_	16	pobj
+19	that	that	IN	_	20	nsubj
+20	shows	show	VBZ	_	7	ccomp
+21	up	up	RP	_	20	prt
+22	in	in	IN	_	20	prep
+23	the	the	DT	_	24	det
+24	CT.	CT.	NNP	_	22	pobj
+25	.	.	.	_	7	punct
+

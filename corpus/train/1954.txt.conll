@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	critical	critical	JJ	_	3	amod
+3	habitat	habitat	NN	_	13	nsubjpass
+4	for	for	IN	_	3	prep
+5	beluga	beluga	NN	_	6	nn
+6	whales	whale	NNS	_	4	pobj
+7	in	in	IN	_	6	prep
+8	upper	upper	JJ	_	10	amod
+9	Cook	Cook	NNP	_	10	nn
+10	Inlet	Inlet	NNP	_	7	pobj
+11	has	have	VBZ	_	13	aux
+12	been	be	VBN	_	13	auxpass
+13	created	create	VBN	_	0	ROOT
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	federal	federal	JJ	_	17	amod
+17	government	government	NN	_	14	pobj
+18	.	.	.	_	13	punct
+

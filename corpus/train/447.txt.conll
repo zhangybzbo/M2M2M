@@ -1,0 +1,18 @@
+1	Much	much	JJ	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	impetus	impetus	NN	_	2	pobj
+5	behind	behind	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	formation	formation	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	fund	fund	NN	_	8	pobj
+11	came	come	VBD	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	a	a	DT	_	16	det
+14	wounded	wound	VBN	_	16	amod
+15	Vietnam	Vietnam	NNP	_	16	nn
+16	veteran	veteran	NN	_	12	pobj
+17	.	.	.	_	11	punct
+

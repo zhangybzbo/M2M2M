@@ -1,0 +1,23 @@
+1	News	News	NNP	_	2	nn
+2	programs	program	NNS	_	3	nsubj
+3	commented	comment	VBD	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	violence	violence	NN	_	4	pobj
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	game	game	NN	_	7	pobj
+10	and	and	CC	_	3	cc
+11	expressed	express	VBD	_	3	conj
+12	worries	worry	NNS	_	11	dobj
+13	on	on	IN	_	11	prep
+14	how	how	WRB	_	17	advmod
+15	it	it	PRP	_	17	nsubj
+16	would	would	MD	_	17	aux
+17	affect	affect	VB	_	13	pcomp
+18	the	the	DT	_	19	det
+19	players	player	NNS	_	21	poss
+20	'	'	POS	_	19	possessive
+21	personalities	personality	NNS	_	17	dobj
+22	.	.	.	_	3	punct
+

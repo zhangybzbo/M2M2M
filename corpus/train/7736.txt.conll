@@ -1,0 +1,27 @@
+1	Among	among	IN	_	8	prep
+2	the	the	DT	_	4	det
+3	additional	additional	JJ	_	4	amod
+4	contents	contents	NNS	_	1	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	box	box	NN	_	5	pobj
+8	were	be	VBD	_	0	ROOT
+9	a	a	DT	_	10	det
+10	controller	controller	NN	_	8	nsubj
+11	,	,	,	_	10	punct
+12	an	a	DT	_	14	det
+13	audio/video	audio/video	NN	_	14	nn
+14	connector	connector	NN	_	10	appos
+15	,	,	,	_	10	punct
+16	a	a	DT	_	17	det
+17	plug	plug	NN	_	10	appos
+18	,	,	,	_	10	punct
+19	and	and	CC	_	10	cc
+20	quite	quite	RB	_	23	advmod
+21	a	a	DT	_	23	det
+22	few	few	JJ	_	23	amod
+23	manuals	manual	NNS	_	10	conj
+24	and	and	CC	_	10	cc
+25	booklets	booklet	NNS	_	10	conj
+26	.	.	.	_	8	punct
+

@@ -1,0 +1,14 @@
+1	Within	within	IN	_	8	prep
+2	each	each	DT	_	4	det
+3	fuel	fuel	NN	_	4	nn
+4	tank	tank	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	fuel	fuel	NN	_	8	nsubj
+8	was	be	VBD	_	0	ROOT
+9	inside	inside	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	teflon	teflon	NN	_	12	nn
+12	bladder	bladder	NN	_	9	pobj
+13	.	.	.	_	8	punct
+

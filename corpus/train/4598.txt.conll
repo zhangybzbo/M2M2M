@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj
+2	caught	catch	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	dose	dose	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	crabs	crab	NNS	_	5	pobj
+7	in	in	IN	_	2	prep
+8	Phuket	Phuket	NNP	_	7	pobj
+9	once	once	RB	_	2	advmod
+10	.	.	.	_	2	punct
+

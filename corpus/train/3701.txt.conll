@@ -1,0 +1,23 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	great	great	JJ	_	4	amod
+4	diversity	diversity	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	collective	collective	JJ	_	7	amod
+7	nouns	noun	NNS	_	5	pobj
+8	associated	associate	VBN	_	7	vmod
+9	with	with	IN	_	8	prep
+10	animals	animal	NNS	_	9	pobj
+11	,	,	,	_	2	punct
+12	from	from	IN	_	2	prep
+13	a	a	DT	_	14	det
+14	sleuth	sleuth	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	bears	bear	NNS	_	15	pobj
+17	to	to	TO	_	12	prep
+18	a	a	DT	_	19	det
+19	murder	murder	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	crows	crow	NNS	_	20	pobj
+22	.	.	.	_	2	punct
+

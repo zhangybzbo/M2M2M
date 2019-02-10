@@ -1,0 +1,21 @@
+1	This	this	DT	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	supplemented	supplement	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	columns	column	NNS	_	4	pobj
+6	and	and	CC	_	5	cc
+7	articles	article	NNS	_	5	conj
+8	reflecting	reflect	VBG	_	3	xcomp
+9	on	on	IN	_	8	prep
+10	fantasy	fantasy	NN	_	11	nn
+11	literature	literature	NN	_	13	poss
+12	's	's	POS	_	11	possessive
+13	past	past	NN	_	9	pobj
+14	as	as	RB	_	15	advmod
+15	well	well	RB	_	8	cc
+16	as	as	IN	_	15	mwe
+17	the	the	DT	_	19	det
+18	occasional	occasional	JJ	_	19	amod
+19	interview	interview	NN	_	8	conj
+20	.	.	.	_	3	punct
+

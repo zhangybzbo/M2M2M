@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	birthmarks	birthmark	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	expansions	expansion	NNS	_	5	pobj
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	dilations	dilation	NNS	_	6	appos
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	in	in	IN	_	6	prep
+11	tiny	tiny	JJ	_	13	amod
+12	blood	blood	NN	_	13	nn
+13	vessels	vessel	NNS	_	10	pobj
+14	called	call	VBN	_	13	vmod
+15	capillaries	capillary	NNS	_	14	dep
+16	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	All	all	DT	_	2	det
+2	staff	staff	NN	_	18	nsubj
+3	,	,	,	_	2	punct
+4	from	from	IN	_	2	prep
+5	the	the	DT	_	6	det
+6	chairman	chairman	NN	_	4	pobj
+7	,	,	,	_	6	punct
+8	Charlie	Charlie	NNP	_	9	nn
+9	Mayfield	Mayfield	NNP	_	6	appos
+10	,	,	,	_	6	punct
+11	to	to	TO	_	2	prep
+12	part-time	part-time	JJ	_	14	amod
+13	shelf	shelf	NN	_	14	nn
+14	stackers	stacker	NNS	_	11	pobj
+15	in	in	IN	_	14	prep
+16	Waitrose	Waitrose	NNP	_	15	pobj
+17	,	,	,	_	2	punct
+18	get	get	VB	_	0	ROOT
+19	the	the	DT	_	22	det
+20	same	same	JJ	_	22	amod
+21	percentage	percentage	NN	_	22	nn
+22	payout	payout	NN	_	18	dobj
+23	.	.	.	_	18	punct
+

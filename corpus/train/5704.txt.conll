@@ -1,0 +1,20 @@
+1	Usually	usually	RB	_	5	advmod
+2	only	only	RB	_	5	advmod
+3	the	the	DT	_	5	det
+4	bottom	bottom	JJ	_	5	amod
+5	lid	lid	NN	_	10	nsubjpass
+6	of	of	IN	_	5	prep
+7	one	one	CD	_	8	num
+8	eye	eye	NN	_	6	pobj
+9	is	be	VBZ	_	10	auxpass
+10	involved	involve	VBN	_	0	ROOT
+11	,	,	,	_	10	punct
+12	but	but	CC	_	10	cc
+13	the	the	DT	_	15	det
+14	top	top	JJ	_	15	amod
+15	eyelid	eyelid	NN	_	18	nsubj
+16	also	also	RB	_	18	advmod
+17	can	can	MD	_	18	aux
+18	twitch	twitch	VB	_	10	conj
+19	.	.	.	_	10	punct
+

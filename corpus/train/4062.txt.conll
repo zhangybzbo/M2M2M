@@ -1,0 +1,21 @@
+1	Osteoporosis	osteoporosis	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	sharp	sharp	JJ	_	7	amod
+7	decrease	decrease	NN	_	4	pobj
+8	in	in	IN	_	7	prep
+9	estrogen	estrogen	NN	_	10	nn
+10	levels	level	NNS	_	8	pobj
+11	that	that	WDT	_	12	nsubj
+12	leads	lead	VBZ	_	7	rcmod
+13	to	to	TO	_	12	prep
+14	an	a	DT	_	16	det
+15	increased	increase	VBN	_	16	amod
+16	rate	rate	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	bone	bone	NN	_	19	nn
+19	remodeling	remodeling	NN	_	17	pobj
+20	.	.	.	_	3	punct
+

@@ -1,0 +1,9 @@
+1	Investments	Investments	NNPS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	gone	go	VBN	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	light	light	JJ	_	7	amod
+7	rail	rail	NN	_	4	pobj
+8	.	.	.	_	3	punct
+

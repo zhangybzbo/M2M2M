@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="outbreak" pos="NN" nsubj="t2"
+13	21	tok id="t2" base="result" pos="VBD" ROOT="ROOT"
+22	24	tok id="t3" base="in" pos="IN" prep="t2"
+25	28	tok id="t4" base="256" pos="CD" num="t5"
+29	35	tok id="t5" base="death" pos="NNS" pobj="t3"
+36	39	tok id="t6" base="and" pos="CC" cc="t5"
+40	45	tok id="t7" base="3-COMMA-402" pos="CD" num="t8"
+46	54	tok id="t8" base="injury" pos="NNS" conj="t5"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

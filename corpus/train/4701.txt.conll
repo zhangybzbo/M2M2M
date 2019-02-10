@@ -1,0 +1,17 @@
+1	Bollywood	Bollywood	NNP	_	4	nn
+2	stunner	stunner	NN	_	4	nn
+3	Koena	Koena	NNP	_	4	nn
+4	Mitra	Mitra	NNP	_	5	nsubj
+5	sashayed	sashay	VBD	_	0	ROOT
+6	down	down	RP	_	5	prt
+7	the	the	DT	_	8	det
+8	ramp	ramp	NN	_	5	dobj
+9	in	in	IN	_	5	prep
+10	a	a	DT	_	12	det
+11	stunning	stunning	JJ	_	12	amod
+12	creation	creation	NN	_	9	pobj
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	designer	designer	NN	_	13	pobj
+16	.	.	.	_	5	punct
+

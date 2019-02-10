@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	team	team	NN	_	3	nsubj
+3	captured	capture	VBN	_	18	ccomp
+4	the	the	DT	_	6	det
+5	provincial	provincial	JJ	_	6	amod
+6	title	title	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	11	det
+9	convincing	convincing	JJ	_	11	amod
+10	6-1	6-1	CD	_	11	num
+11	victory	victory	NN	_	7	pobj
+12	over	over	IN	_	11	prep
+13	their	they	PRP$	_	14	poss
+14	adversaries	adversary	NNS	_	12	pobj
+15	,	,	,	_	18	punct
+16	the	the	DT	_	18	det
+17	Pas	Pas	NNP	_	18	nn
+18	Huskies	Huskies	NNPS	_	0	ROOT
+19	.	.	.	_	18	punct
+

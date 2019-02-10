@@ -1,0 +1,16 @@
+1	He	he	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	on	on	RP	_	2	prt
+4	a	a	DT	_	5	det
+5	gold	gold	NN	_	6	nsubj
+6	pointed	point	VBD	_	2	ccomp
+7	hat	hat	NN	_	6	dobj
+8	and	and	CC	_	6	cc
+9	read	read	VB	_	6	conj
+10	out	out	RP	_	9	prt
+11	jokes	joke	NNS	_	9	dobj
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	crackers	cracker	NNS	_	12	pobj
+15	.	.	.	_	2	punct
+

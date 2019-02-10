@@ -1,0 +1,19 @@
+1	I	I	PRP	_	6	nsubj
+2	'm	be	VBP	_	6	cop
+3	not	not	RB	_	6	neg
+4	a	a	DT	_	6	det
+5	violent	violent	JJ	_	6	amod
+6	person	person	NN	_	0	ROOT
+7	and	and	CC	_	6	cc
+8	the	the	DT	_	9	det
+9	gun	gun	NN	_	11	nsubjpass
+10	was	be	VBD	_	11	auxpass
+11	locked	lock	VBN	_	6	conj
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	safe	safe	JJ	_	15	amod
+15	away	away	RB	_	12	pobj
+16	from	from	IN	_	15	prep
+17	anyone	anyone	NN	_	16	pobj
+18	.	.	.	_	6	punct
+

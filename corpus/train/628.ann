@@ -1,0 +1,3 @@
+T1	Term 90 99	assistant
+T2	Term 133 136	rug
+R1	Product-Producer Arg1:T2 Arg2:T1

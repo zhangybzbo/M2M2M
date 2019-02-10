@@ -1,0 +1,12 @@
+1	Car	car	NN	_	2	nn
+2	makers	maker	NNS	_	3	nsubj
+3	moved	move	VBD	_	0	ROOT
+4	production	production	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	another	another	DT	_	7	det
+7	country	country	NN	_	5	pobj
+8	for	for	IN	_	3	prep
+9	cheap	cheap	JJ	_	10	amod
+10	labors	labor	NNS	_	8	pobj
+11	.	.	.	_	3	punct
+

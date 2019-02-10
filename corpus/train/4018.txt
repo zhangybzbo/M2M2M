@@ -1,0 +1,1 @@
+It 's coming along really well ; I 've got a base version with diffing in it released in less than a couple of weeks .

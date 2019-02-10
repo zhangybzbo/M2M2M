@@ -1,0 +1,25 @@
+1	Controversy	controversy	NN	_	14	nsubj
+2	and	and	CC	_	1	cc
+3	even	even	RB	_	4	advmod
+4	heated	heated	JJ	_	5	amod
+5	debate	debate	NN	_	1	conj
+6	with	with	IN	_	1	prep
+7	respect	respect	NN	_	6	pobj
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	11	det
+10	ethical	ethical	JJ	_	11	amod
+11	issues	issue	NNS	_	8	pobj
+12	involved	involve	VBN	_	11	vmod
+13	has	have	VBZ	_	14	aux
+14	broken	break	VBN	_	0	ROOT
+15	out	out	RP	_	14	prt
+16	in	in	IN	_	14	prep
+17	Germany	Germany	NNP	_	16	pobj
+18	and	and	CC	_	17	cc
+19	other	other	JJ	_	20	amod
+20	parts	part	NNS	_	17	conj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	23	det
+23	world	world	NN	_	21	pobj
+24	.	.	.	_	14	punct
+

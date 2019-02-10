@@ -1,0 +1,10 @@
+1	Conference	conference	NN	_	2	nn
+2	deals	deal	NNS	_	0	ROOT
+3	with	with	IN	_	2	prep
+4	nuclear	nuclear	JJ	_	5	amod
+5	safety	safety	NN	_	3	pobj
+6	,	,	,	_	5	punct
+7	environmental	environmental	JJ	_	8	amod
+8	issues	issue	NNS	_	5	appos
+9	.	.	.	_	2	punct
+

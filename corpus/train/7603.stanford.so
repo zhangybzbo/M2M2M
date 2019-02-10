@@ -1,0 +1,11 @@
+0	44	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="trench" pos="NN" nsubj="t2"
+11	14	tok id="t2" base="be" pos="VBD" ROOT="ROOT"
+15	21	tok id="t3" base="inside" pos="IN" prep="t2"
+22	25	tok id="t4" base="the" pos="DT" det="t7"
+26	32	tok id="t5" base="fence" pos="VBN" amod="t7"
+33	37	tok id="t6" base="back" pos="RB" advmod="t7"
+38	42	tok id="t7" base="yard" pos="NN" pobj="t3"
+43	44	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

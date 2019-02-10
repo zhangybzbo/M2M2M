@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	minister	minister	NN	_	3	nsubj
+3	attributed	attribute	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	slow	slow	JJ	_	6	amod
+6	production	production	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	materials	material	NNS	_	7	pobj
+10	by	by	IN	_	3	prep
+11	the	the	DT	_	13	det
+12	local	local	JJ	_	13	amod
+13	industries	industry	NNS	_	10	pobj
+14	to	to	TO	_	3	prep
+15	their	they	PRP$	_	17	poss
+16	limited	limited	JJ	_	17	amod
+17	capacities	capacity	NNS	_	14	pobj
+18	.	.	.	_	3	punct
+

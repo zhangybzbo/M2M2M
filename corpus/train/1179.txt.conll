@@ -1,0 +1,23 @@
+1	Near	near	IN	_	9	prep
+2	Bailli	Bailli	NNP	_	1	pobj
+3	,	,	,	_	9	punct
+4	a	a	DT	_	5	det
+5	division	division	NN	_	9	nsubj
+6	of	of	IN	_	5	prep
+7	veteran	veteran	NN	_	8	nn
+8	swordsmen	swordsman	NNS	_	6	pobj
+9	proved	prove	VBD	_	0	ROOT
+10	its	its	PRP$	_	11	poss
+11	valor	valor	NN	_	9	dobj
+12	and	and	CC	_	9	cc
+13	killed	kill	VBD	_	9	conj
+14	a	a	DT	_	15	det
+15	division	division	NN	_	13	dobj
+16	of	of	IN	_	15	prep
+17	medieval	medieval	JJ	_	18	amod
+18	infantry	infantry	NN	_	16	pobj
+19	with	with	IN	_	13	prep
+20	minimal	minimal	JJ	_	21	amod
+21	losses	loss	NNS	_	19	pobj
+22	.	.	.	_	9	punct
+

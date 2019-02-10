@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	drug	drug	NN	_	3	nn
+3	release	release	NN	_	9	nsubjpass
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	microcapsules	microcapsule	NNS	_	4	pobj
+7	was	be	VBD	_	9	auxpass
+8	diffusion	diffusion	JJ	_	9	dep
+9	controlled	control	VBN	_	0	ROOT
+10	.	.	.	_	9	punct
+

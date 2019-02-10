@@ -1,0 +1,19 @@
+1	They	they	PRP	_	2	nsubj
+2	packed	pack	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	sketch	sketch	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	a	a	DT	_	10	det
+7	thick	thick	JJ	_	10	amod
+8	stiff	stiff	JJ	_	10	amod
+9	cardboard	cardboard	NN	_	10	nn
+10	sleeve	sleeve	NN	_	5	pobj
+11	so	so	IN	_	16	mark
+12	that	that	IN	_	16	mark
+13	it	it	PRP	_	16	nsubj
+14	would	would	MD	_	16	aux
+15	n't	not	RB	_	16	neg
+16	get	get	VB	_	2	advcl
+17	bent	bent	JJ	_	16	acomp
+18	.	.	.	_	2	punct
+

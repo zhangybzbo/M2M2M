@@ -1,0 +1,11 @@
+1	Such	such	JJ	_	2	amod
+2	formulations	formulation	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	auxpass
+4	already	already	RB	_	5	advmod
+5	found	find	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	apostolic	apostolic	JJ	_	9	amod
+9	writings	writings	NNS	_	6	pobj
+10	.	.	.	_	5	punct
+

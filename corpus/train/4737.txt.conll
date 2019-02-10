@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	woods	wood	NNS	_	0	ROOT
+3	that	that	WDT	_	4	nsubj
+4	furnish	furnish	VBP	_	2	rcmod
+5	the	the	DT	_	7	det
+6	best	best	JJS	_	7	amod
+7	charcoal	charcoal	NN	_	4	dobj
+8	for	for	IN	_	7	prep
+9	painters	painter	NNS	_	8	pobj
+10	are	be	VBP	_	2	dep
+11	the	the	DT	_	10	dep
+12	beech	beech	NN	_	11	dep
+13	and	and	CC	_	12	cc
+14	vine	vine	NN	_	12	conj
+15	.	.	.	_	2	punct
+

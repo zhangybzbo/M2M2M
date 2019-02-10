@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	suffering	suffering	NN	_	7	nsubj
+3	caused	cause	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	bleeding	bleeding	NN	_	4	pobj
+7	depends	depend	VBZ	_	0	ROOT
+8	on	on	IN	_	7	prep
+9	where	where	WRB	_	14	advmod
+10	the	the	DT	_	12	det
+11	arteriovenous	arteriovenous	JJ	_	12	amod
+12	malformation	malformation	NN	_	14	nsubj
+13	is	be	VBZ	_	14	cop
+14	located	located	JJ	_	8	pcomp
+15	.	.	.	_	7	punct
+

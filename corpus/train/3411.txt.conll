@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	pins	pin	NNS	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	socket	socket	NN	_	3	pobj
+6	are	be	VBP	_	2	dep
+7	as	as	IN	_	6	prep
+8	thick	thick	JJ	_	7	pobj
+9	as	as	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	pins	pin	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	an	a	DT	_	14	det
+14	IC	ic	NN	_	12	pobj
+15	.	.	.	_	2	punct
+

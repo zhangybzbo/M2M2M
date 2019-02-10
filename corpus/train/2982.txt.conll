@@ -1,0 +1,15 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	aids	aid	NNS	_	2	nsubj
+4	designed	design	VBN	_	3	vmod
+5	to	to	TO	_	6	aux
+6	help	help	VB	_	4	xcomp
+7	people	people	NNS	_	8	nn
+8	grip	grip	NN	_	6	dobj
+9	and	and	CC	_	6	cc
+10	turn	turn	VB	_	6	conj
+11	a	a	DT	_	13	det
+12	door	door	NN	_	13	nn
+13	knob	knob	NN	_	10	dobj
+14	.	.	.	_	2	punct
+

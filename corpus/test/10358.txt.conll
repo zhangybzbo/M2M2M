@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	pillars	pillar	NNS	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	ruins	ruin	NNS	_	3	pobj
+6	of	of	IN	_	5	prep
+7	Persepolis	Persepolis	NNP	_	6	pobj
+8	are	be	VBP	_	9	cop
+9	famous	famous	JJ	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	an	a	DT	_	12	det
+12	example	example	NN	_	9	conj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	glories	glory	NNS	_	13	pobj
+16	of	of	IN	_	15	prep
+17	Iran	Iran	NNP	_	16	pobj
+18	during	during	IN	_	12	prep
+19	the	the	DT	_	20	det
+20	reign	reign	NN	_	18	pobj
+21	of	of	IN	_	20	prep
+22	the	the	DT	_	24	det
+23	Darius	Darius	NNP	_	24	nn
+24	emperors	emperor	NNS	_	21	pobj
+25	.	.	.	_	9	punct
+

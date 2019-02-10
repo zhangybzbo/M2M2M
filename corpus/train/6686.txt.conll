@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	money	money	NN	_	3	nsubj
+3	getting	get	VBG	_	12	csubjpass
+4	through	through	IN	_	3	prep
+5	from	from	IN	_	4	pcomp
+6	our	we	PRP$	_	10	poss
+7	own	own	JJ	_	10	amod
+8	third-world	third-world	JJ	_	10	amod
+9	bankrupt	bankrupt	JJ	_	10	amod
+10	economy	economy	NN	_	5	pobj
+11	is	be	VBZ	_	12	auxpass
+12	drained	drain	VBN	_	0	ROOT
+13	into	into	IN	_	12	prep
+14	corrupt	corrupt	JJ	_	15	amod
+15	dictators	dictator	NNS	_	17	poss
+16	'	'	POS	_	15	possessive
+17	accounts	account	NNS	_	13	pobj
+18	.	.	.	_	12	punct
+

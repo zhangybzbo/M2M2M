@@ -1,0 +1,20 @@
+1	I	I	PRP	_	3	nsubj
+2	just	just	RB	_	3	advmod
+3	looked	look	VBD	_	0	ROOT
+4	at	at	IN	_	3	prep
+5	how	how	WRB	_	9	advmod
+6	people	people	NNS	_	9	nsubj
+7	in	in	IN	_	6	prep
+8	fact	fact	NN	_	7	pobj
+9	protected	protect	VBD	_	4	pcomp
+10	even	even	RB	_	12	advmod
+11	the	the	DT	_	12	det
+12	thugs	thug	NNS	_	9	dobj
+13	from	from	IN	_	9	prep
+14	mob	mob	NN	_	15	nn
+15	behaviour	behaviour	NN	_	13	pobj
+16	today	today	NN	_	9	tmod
+17	in	in	IN	_	9	prep
+18	Tehran	Tehran	NNP	_	17	pobj
+19	.	.	.	_	3	punct
+

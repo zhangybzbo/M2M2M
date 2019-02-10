@@ -1,0 +1,25 @@
+1	Methadone	Methadone	NNP	_	2	nsubj
+2	gives	give	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	buzz	buzz	NN	_	2	dobj
+5	too	too	RB	_	2	advmod
+6	,	,	,	_	2	punct
+7	but	but	CC	_	2	cc
+8	it	it	PRP	_	13	nsubj
+9	's	be	VBZ	_	13	cop
+10	the	the	DT	_	13	det
+11	most	most	RBS	_	12	advmod
+12	effective	effective	JJ	_	13	amod
+13	way	way	NN	_	2	conj
+14	to	to	TO	_	13	prep
+15	reel	reel	NN	_	14	pobj
+16	in	in	IN	_	13	prep
+17	heroin	heroin	NN	_	18	nn
+18	addicts	addict	NNS	_	16	pobj
+19	into	into	IN	_	13	prep
+20	treatment	treatment	NN	_	19	pobj
+21	and	and	CC	_	20	cc
+22	real	real	JJ	_	23	amod
+23	life	life	NN	_	20	conj
+24	.	.	.	_	2	punct
+

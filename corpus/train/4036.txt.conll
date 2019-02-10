@@ -1,0 +1,11 @@
+1	Condoleezza	Condoleezza	NNP	_	2	nn
+2	Rice	Rice	NNP	_	3	nsubj
+3	speaks	speak	VBZ	_	0	ROOT
+4	amid	amid	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	crowd	crowd	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	torture	torture	VB	_	7	pcomp
+9	protesters	protester	NNS	_	8	dobj
+10	.	.	.	_	3	punct
+

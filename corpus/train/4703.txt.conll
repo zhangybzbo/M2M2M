@@ -1,0 +1,15 @@
+1	A	a	DT	_	3	det
+2	reasonable	reasonable	JJ	_	3	amod
+3	approach	approach	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	distilled	distil	VBN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	initial	initial	JJ	_	9	amod
+9	shock	shock	NN	_	6	pobj
+10	at	at	IN	_	5	prep
+11	the	the	DT	_	13	det
+12	conflicting	conflicting	JJ	_	13	amod
+13	data	datum	NNS	_	10	pobj
+14	.	.	.	_	5	punct
+

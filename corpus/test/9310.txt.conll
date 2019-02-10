@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det
+2	newest	newest	JJS	_	3	amod
+3	moons	moon	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	discovered	discover	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	an	a	DT	_	9	det
+8	international	international	JJ	_	9	amod
+9	collaboration	collaboration	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	astronomers	astronomer	NNS	_	10	pobj
+12	,	,	,	_	5	punct
+13	working	work	VBG	_	5	xcomp
+14	in	in	IN	_	13	prep
+15	July	July	NNP	_	14	pobj
+16	at	at	IN	_	13	prep
+17	the	the	DT	_	19	det
+18	Canada-France-Hawaii	Canada-France-Hawaii	NNP	_	19	nn
+19	Telescope	Telescope	NNP	_	16	pobj
+20	-LRB-	-lrb-	-LRB-	_	21	punct
+21	CFHT	CFHT	NNP	_	19	appos
+22	-RRB-	-rrb-	-RRB-	_	21	punct
+23	.	.	.	_	5	punct
+

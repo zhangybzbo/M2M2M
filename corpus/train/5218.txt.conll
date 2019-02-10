@@ -1,0 +1,20 @@
+1	Democrats	democrat	NNS	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	running	run	VBG	_	0	ROOT
+4	into	into	IN	_	3	prep
+5	one	one	CD	_	6	num
+6	problem	problem	NN	_	4	pobj
+7	after	after	IN	_	3	prep
+8	another	another	DT	_	7	pobj
+9	trying	try	VBG	_	8	vmod
+10	to	to	TO	_	11	aux
+11	pass	pass	VB	_	9	xcomp
+12	the	the	DT	_	15	det
+13	health	health	NN	_	15	nn
+14	care	care	NN	_	15	nn
+15	bill	bill	NN	_	11	dobj
+16	in	in	IN	_	11	prep
+17	the	the	DT	_	18	det
+18	Senate	Senate	NNP	_	16	pobj
+19	.	.	.	_	3	punct
+

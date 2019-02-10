@@ -1,0 +1,12 @@
+0	65	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	16	tok id="t1" base="construction" pos="NN" nn="t2"
+17	24	tok id="t2" base="worker" pos="NNS" nsubj="t3"
+25	34	tok id="t3" base="deliver" pos="VBD" ROOT="ROOT"
+35	38	tok id="t4" base="the" pos="DT" det="t5"
+39	47	tok id="t5" base="petition" pos="NN" dobj="t3"
+48	50	tok id="t6" base="to" pos="TO" prep="t3"
+51	54	tok id="t7" base="the" pos="DT" det="t8"
+55	63	tok id="t8" base="governor" pos="NN" pobj="t6"
+64	65	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

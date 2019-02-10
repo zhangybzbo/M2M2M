@@ -1,0 +1,13 @@
+1	Furthermore	furthermore	RB	_	0	ROOT
+2	,	,	,	_	4	punct
+3	many	many	JJ	_	4	amod
+4	journals	journal	NNS	_	1	dep
+5	publishing	publish	VBG	_	4	vmod
+6	biomedical	biomedical	JJ	_	8	amod
+7	research	research	NN	_	8	nn
+8	demand	demand	NN	_	11	nn
+9	formal	formal	JJ	_	11	amod
+10	ethical	ethical	JJ	_	11	amod
+11	clearance	clearance	NN	_	5	dobj
+12	.	.	.	_	4	punct
+

@@ -1,0 +1,24 @@
+1	Father	father	NN	_	3	nsubj
+2	was	be	VBD	_	3	cop
+3	member	member	NN	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	9	det
+6	USSR	USSR	NNP	_	9	nn
+7	Olympic	Olympic	NNP	_	9	nn
+8	Rowing	Rowing	NNP	_	9	nn
+9	team	team	NN	_	4	pobj
+10	from	from	IN	_	3	prep
+11	1986-92	1986-92	CD	_	10	pobj
+12	and	and	CC	_	3	cc
+13	her	she	PRP$	_	14	poss
+14	mother	mother	NN	_	17	nsubj
+15	was	be	VBD	_	17	cop
+16	a	a	DT	_	17	det
+17	member	member	NN	_	3	conj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	team	team	NN	_	18	pobj
+21	from	from	IN	_	17	prep
+22	1986-88	1986-88	CD	_	21	pobj
+23	.	.	.	_	3	punct
+

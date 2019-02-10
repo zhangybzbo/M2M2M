@@ -1,0 +1,17 @@
+1	Because	because	IN	_	3	mark
+2	we	we	PRP	_	3	nsubj
+3	made	make	VBD	_	7	advcl
+4	observations	observation	NNS	_	3	dobj
+5	,	,	,	_	7	punct
+6	we	we	PRP	_	7	nsubj
+7	know	know	VBP	_	0	ROOT
+8	the	the	DT	_	9	det
+9	fate	fate	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	cat	cat	NN	_	10	pobj
+13	in	in	IN	_	9	prep
+14	the	the	DT	_	15	det
+15	box	box	NN	_	13	pobj
+16	.	.	.	_	7	punct
+

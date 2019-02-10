@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	vascular	vascular	JJ	_	3	amod
+3	dilatation	dilatation	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	the	the	DT	_	6	pobj
+8	sympathetic	sympathetic	JJ	_	7	amod
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	course	course	NN	_	8	conj
+12	of	of	IN	_	8	prep
+13	vaso-motor	vaso-motor	JJ	_	14	amod
+14	nerves	nerve	NNS	_	12	pobj
+15	.	.	.	_	5	punct
+

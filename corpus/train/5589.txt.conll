@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	instructor	instructor	NN	_	3	nsubj
+3	gave	give	VBD	_	0	ROOT
+4	extra	extra	JJ	_	5	amod
+5	credit	credit	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	an	a	DT	_	9	det
+8	outstanding	outstanding	JJ	_	9	amod
+9	student	student	NN	_	6	pobj
+10	.	.	.	_	3	punct
+

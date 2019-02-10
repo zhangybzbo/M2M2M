@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	idea	idea	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	the	the	DT	_	5	det
+5	heatsink	heatsink	NN	_	6	nsubj
+6	removes	remove	VBZ	_	0	ROOT
+7	the	the	DT	_	8	det
+8	heat	heat	NN	_	6	dobj
+9	from	from	IN	_	6	prep
+10	the	the	DT	_	11	det
+11	CPU	CPU	NNP	_	9	pobj
+12	and	and	CC	_	11	cc
+13	the	the	DT	_	15	det
+14	fan	fan	NN	_	15	nn
+15	blasts	blast	NNS	_	11	conj
+16	the	the	DT	_	17	det
+17	heatsink	heatsink	NN	_	15	dep
+18	with	with	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	surrounding	surround	VBG	_	22	amod
+21	air	air	NN	_	22	nn
+22	cooling	cooling	NN	_	18	pobj
+23	it	it	PRP	_	22	dep
+24	down	down	RB	_	23	advmod
+25	.	.	.	_	6	punct
+

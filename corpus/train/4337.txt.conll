@@ -1,0 +1,12 @@
+1	Editor	Editor	NNP	_	2	nsubj
+2	resigns	resign	VBZ	_	0	ROOT
+3	from	from	IN	_	2	prep
+4	student	student	NN	_	5	nn
+5	newspaper	newspaper	NN	_	3	pobj
+6	after	after	IN	_	2	prep
+7	publication	publication	NN	_	6	pobj
+8	of	of	IN	_	7	prep
+9	controversial	controversial	JJ	_	10	amod
+10	cartoon	cartoon	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

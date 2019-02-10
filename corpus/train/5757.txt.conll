@@ -1,0 +1,7 @@
+1	Fish	fish	NN	_	2	nn
+2	gills	gill	NNS	_	5	nsubj
+3	are	be	VBP	_	5	cop
+4	multifunctional	multifunctional	JJ	_	5	amod
+5	organs	organ	NNS	_	0	ROOT
+6	.	.	.	_	5	punct
+

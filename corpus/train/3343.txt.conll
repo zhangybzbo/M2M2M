@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det
+2	dissolution	dissolution	NN	_	3	nn
+3	plan	plan	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	presented	present	VBN	_	0	ROOT
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	special	special	JJ	_	11	amod
+10	study	study	NN	_	11	nn
+11	committee	committee	NN	_	7	pobj
+12	that	that	WDT	_	14	nsubj
+13	was	be	VBD	_	14	cop
+14	responsible	responsible	JJ	_	11	rcmod
+15	for	for	IN	_	14	prep
+16	producing	produce	VBG	_	15	pcomp
+17	it	it	PRP	_	16	dobj
+18	.	.	.	_	6	punct
+

@@ -1,0 +1,1 @@
+The connector device comprises a plurality of host computer system expansion slots for coupling to the CPU bus of the host computer system .

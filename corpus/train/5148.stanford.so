@@ -1,0 +1,11 @@
+0	45	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="it" pos="PRP" nsubj="t7"
+3	5	tok id="t1" base="be" pos="VBZ" cop="t7"
+6	15	tok id="t2" base="currently" pos="RB" advmod="t7"
+16	17	tok id="t3" base="a" pos="DT" det="t5"
+18	25	tok id="t4" base="cabinet" pos="NN" nn="t5"
+26	31	tok id="t5" base="maker" pos="NN" poss="t7"
+32	34	tok id="t6" base="'s" pos="POS" possessive="t5"
+35	43	tok id="t7" base="workshop" pos="NN" ROOT="ROOT"
+44	45	tok id="t8" base="-PERIOD-" pos="." punct="t7"
+

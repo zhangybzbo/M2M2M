@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	report	report	NN	_	0	ROOT
+3	is	be	VBZ	_	2	dep
+4	about	about	IN	_	3	prep
+5	the	the	DT	_	8	det
+6	regular	regular	JJ	_	8	amod
+7	road	road	NN	_	8	nn
+8	user	user	NN	_	4	pobj
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	law	law	NN	_	8	conj
+12	.	.	.	_	2	punct
+

@@ -1,0 +1,25 @@
+1	Another	another	DT	_	2	det
+2	celebrity	celebrity	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	bailed	bail	VBN	_	0	ROOT
+5	out	out	IN	_	4	prep
+6	of	of	IN	_	5	pcomp
+7	the	the	DT	_	11	det
+8	Costa	costa	JJ	_	9	amod
+9	Rican	rican	JJ	_	11	amod
+10	jungle	jungle	NN	_	11	nn
+11	set	set	NN	_	6	pobj
+12	of	of	IN	_	11	prep
+13	``	``	``	_	17	punct
+14	I	I	PRP	_	17	nsubj
+15	'm	be	VBP	_	17	cop
+16	a	a	DT	_	17	det
+17	Celebrity	Celebrity	NNP	_	12	pobj
+18	...	...	:	_	4	punct
+19	Get	get	VB	_	4	parataxis
+20	Me	I	PRP	_	19	dobj
+21	Out	out	IN	_	19	prep
+22	of	of	IN	_	21	pcomp
+23	Here	here	RB	_	22	pobj
+24	!	!	.	_	4	punct
+

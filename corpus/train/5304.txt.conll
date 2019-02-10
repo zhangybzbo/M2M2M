@@ -1,0 +1,22 @@
+1	I	I	PRP	_	3	nsubj
+2	've	have	VBP	_	3	aux
+3	sold	sell	VBN	_	0	ROOT
+4	a	a	DT	_	6	det
+5	diamond	diamond	NN	_	6	nn
+6	ring	ring	NN	_	3	dobj
+7	that	that	IN	_	9	dobj
+8	I	I	PRP	_	9	nsubj
+9	bought	buy	VBD	_	6	rcmod
+10	at	at	IN	_	9	prep
+11	Zales	Zales	NNP	_	10	pobj
+12	for	for	IN	_	9	prep
+13	about	about	RB	_	14	quantmod
+14	$	$	$	_	12	pobj
+15	500	500	CD	_	14	num
+16	for	for	IN	_	14	prep
+17	$	$	$	_	16	pobj
+18	200	200	CD	_	17	num
+19	on	on	IN	_	14	prep
+20	craigslist	craigslist	NN	_	19	pobj
+21	.	.	.	_	3	punct
+

@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	longest	longest	JJS	_	3	amod
+3	hairs	hair	NNS	_	0	ROOT
+4	that	that	WDT	_	5	nsubj
+5	make	make	VBP	_	3	rcmod
+6	the	the	DT	_	7	det
+7	tip	tip	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	brush	brush	NN	_	8	pobj
+11	all	all	DT	_	12	nsubj
+12	have	have	VBP	_	3	rcmod
+13	the	the	DT	_	15	det
+14	same	same	JJ	_	15	amod
+15	length	length	NN	_	12	dobj
+16	and	and	CC	_	12	cc
+17	stay	stay	VB	_	12	conj
+18	evenly	evenly	RB	_	17	advmod
+19	together	together	RB	_	17	advmod
+20	.	.	.	_	3	punct
+

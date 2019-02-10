@@ -1,0 +1,19 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	enough	enough	RB	_	4	advmod
+4	gills	gill	NNS	_	2	nsubj
+5	there	there	RB	_	4	advmod
+6	to	to	TO	_	7	aux
+7	serve	serve	VB	_	4	vmod
+8	the	the	DT	_	10	det
+9	oxygen	oxygen	NN	_	10	nn
+10	demands	demand	NNS	_	7	dobj
+11	of	of	IN	_	10	prep
+12	an	a	DT	_	13	det
+13	entire	entire	JJ	_	11	pobj
+14	shiver	shiver	VB	_	13	dep
+15	of	of	IN	_	14	prep
+16	whale	whale	NN	_	17	nn
+17	sharks	shark	NNS	_	15	pobj
+18	.	.	.	_	2	punct
+

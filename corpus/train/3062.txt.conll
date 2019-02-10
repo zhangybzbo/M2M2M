@@ -1,0 +1,7 @@
+1	The	the	DT	_	2	det
+2	viewer	viewer	NN	_	3	nsubj
+3	wields	wield	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	remote	remote	JJ	_	3	dobj
+6	.	.	.	_	3	punct
+

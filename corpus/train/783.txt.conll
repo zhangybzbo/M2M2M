@@ -1,0 +1,14 @@
+1	In	in	IN	_	5	prep
+2	the	the	DT	_	3	det
+3	interview	interview	NN	_	1	pobj
+4	Josie	Josie	NNP	_	5	nsubj
+5	speaks	speak	VBZ	_	0	ROOT
+6	about	about	IN	_	5	prep
+7	her	she	PRP$	_	8	poss
+8	childhood	childhood	NN	_	6	pobj
+9	and	and	CC	_	8	cc
+10	family	family	NN	_	8	conj
+11	in	in	IN	_	8	prep
+12	Dudley	Dudley	NNP	_	11	pobj
+13	.	.	.	_	5	punct
+

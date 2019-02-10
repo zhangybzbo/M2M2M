@@ -1,0 +1,17 @@
+1	Until	until	IN	_	9	prep
+2	last	last	JJ	_	3	amod
+3	year	year	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	Afghanistan	Afghanistan	NNP	_	9	nsubj
+6	was	be	VBD	_	9	cop
+7	an	a	DT	_	9	det
+8	opium	opium	NN	_	9	nn
+9	exporter	exporter	NN	_	0	ROOT
+10	,	,	,	_	9	punct
+11	not	not	RB	_	15	neg
+12	a	a	DT	_	15	det
+13	major	major	JJ	_	15	amod
+14	heroin	heroin	NN	_	15	nn
+15	producer	producer	NN	_	9	appos
+16	.	.	.	_	9	punct
+

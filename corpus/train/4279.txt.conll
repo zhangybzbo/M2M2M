@@ -1,0 +1,23 @@
+1	In	in	IN	_	9	prep
+2	one	one	CD	_	3	num
+3	e-mail	e-mail	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	climate	climate	NN	_	8	nn
+6	scientist	scientist	NN	_	8	nn
+7	Benjamin	Benjamin	NNP	_	8	nn
+8	Santer	Santer	NNP	_	9	nsubj
+9	commented	comment	VBD	_	0	ROOT
+10	on	on	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	request	request	NN	_	10	pobj
+13	for	for	IN	_	12	prep
+14	data	datum	NNS	_	13	pobj
+15	and	and	CC	_	14	cc
+16	correspondence	correspondence	NN	_	14	conj
+17	from	from	IN	_	14	prep
+18	science	science	NN	_	21	nn
+19	blogger	blogger	NN	_	21	nn
+20	Stephen	Stephen	NNP	_	21	nn
+21	McIntyre	McIntyre	NNP	_	17	pobj
+22	.	.	.	_	9	punct
+

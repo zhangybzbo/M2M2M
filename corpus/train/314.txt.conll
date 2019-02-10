@@ -1,0 +1,20 @@
+1	Five	five	CD	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	launched	launch	VBN	_	0	ROOT
+4	a	a	DT	_	5	det
+5	website	website	NN	_	3	dobj
+6	,	,	,	_	3	punct
+7	Holy	holy	JJ	_	8	amod
+8	Soap	Soap	NNP	_	3	dobj
+9	,	,	,	_	8	punct
+10	dedicated	dedicate	VBN	_	8	vmod
+11	to	to	TO	_	10	prep
+12	popular	popular	JJ	_	15	amod
+13	television	television	NN	_	15	nn
+14	soap	soap	NN	_	15	nn
+15	operas	opera	NNS	_	11	pobj
+16	across	across	IN	_	15	prep
+17	all	all	DT	_	18	det
+18	channels	channel	NNS	_	16	pobj
+19	.	.	.	_	3	punct
+

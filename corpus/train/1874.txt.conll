@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	president	president	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	this	this	DT	_	5	det
+5	society	society	NN	_	3	pobj
+6	is	be	VBZ	_	7	cop
+7	responsible	responsible	JJ	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	presiding	preside	VBG	_	8	pcomp
+10	over	over	IN	_	9	prep
+11	all	all	DT	_	12	det
+12	meetings	meeting	NNS	_	10	pobj
+13	-LRB-	-lrb-	-LRB-	_	12	punct
+14	both	both	CC	_	15	preconj
+15	general	general	JJ	_	13	ccomp
+16	and	and	CC	_	15	cc
+17	executive	executive	NN	_	15	conj
+18	-RRB-	-rrb-	-RRB-	_	15	punct
+19	.	.	.	_	15	punct
+

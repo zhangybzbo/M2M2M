@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	website	website	NN	_	3	nsubj
+3	cited	cite	VBD	_	0	ROOT
+4	notes	note	NNS	_	3	dobj
+5	made	make	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	an	a	DT	_	8	det
+8	investigator	investigator	NN	_	6	pobj
+9	from	from	IN	_	8	prep
+10	the	the	DT	_	14	det
+11	Los	Los	NNP	_	14	nn
+12	Angeles	Angeles	NNP	_	14	nn
+13	County	County	NNP	_	14	nn
+14	Coroner	Coroner	NNP	_	16	poss
+15	's	's	POS	_	14	possessive
+16	office	office	NN	_	9	pobj
+17	as	as	IN	_	5	prep
+18	the	the	DT	_	19	det
+19	source	source	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	information	information	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

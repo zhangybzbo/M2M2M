@@ -1,0 +1,20 @@
+1	Old	old	JJ	_	2	amod
+2	scars	scar	NNS	_	18	nsubj
+3	from	from	IN	_	2	prep
+4	stitches	stitch	NNS	_	3	pobj
+5	that	that	WDT	_	8	nsubjpass
+6	were	be	VBD	_	8	auxpass
+7	successfully	successfully	RB	_	8	advmod
+8	put	put	VBN	_	4	rcmod
+9	in	in	IN	_	8	prep
+10	but	but	CC	_	8	cc
+11	ripped	rip	VBD	_	8	conj
+12	out	out	RP	_	11	prt
+13	by	by	IN	_	11	prep
+14	the	the	DT	_	15	det
+15	individual	individual	NN	_	13	pobj
+16	are	be	VBP	_	18	cop
+17	also	also	RB	_	18	advmod
+18	common	common	JJ	_	0	ROOT
+19	.	.	.	_	18	punct
+

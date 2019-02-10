@@ -1,0 +1,22 @@
+1	TV	tv	NN	_	2	nn
+2	total	total	NN	_	3	nsubj
+3	started	start	VBD	_	0	ROOT
+4	as	as	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	comedy	comedy	NN	_	7	nn
+7	format	format	NN	_	4	pobj
+8	mainly	mainly	RB	_	3	advmod
+9	showing	show	VBG	_	3	xcomp
+10	and	and	CC	_	9	cc
+11	commenting	comment	VBG	_	9	conj
+12	on	on	IN	_	9	prep
+13	funny	funny	JJ	_	16	amod
+14	and	and	CC	_	13	cc
+15	embarrassing	embarrassing	JJ	_	13	conj
+16	sequences	sequence	NNS	_	12	pobj
+17	from	from	IN	_	16	prep
+18	other	other	JJ	_	20	amod
+19	TV	tv	NN	_	20	nn
+20	programs	program	NNS	_	17	pobj
+21	.	.	.	_	3	punct
+

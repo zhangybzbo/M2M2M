@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	substrate	substrate	NN	_	13	nsubj
+3	treating	treat	VBG	_	2	vmod
+4	apparatus	apparatus	NN	_	3	dobj
+5	for	for	IN	_	3	prep
+6	treatment	treatment	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	substrates	substrate	NNS	_	7	pobj
+9	with	with	IN	_	6	prep
+10	a	a	DT	_	12	det
+11	treating	treat	VBG	_	12	amod
+12	liquid	liquid	NN	_	9	pobj
+13	includes	include	VBZ	_	0	ROOT
+14	a	a	DT	_	16	det
+15	treating	treat	VBG	_	16	amod
+16	tank	tank	NN	_	13	dobj
+17	having	have	VBG	_	16	vmod
+18	an	a	DT	_	20	det
+19	inner	inner	NN	_	20	nn
+20	tank	tank	NN	_	17	dobj
+21	for	for	IN	_	17	prep
+22	storing	store	VBG	_	21	pcomp
+23	the	the	DT	_	25	det
+24	treating	treat	VBG	_	25	amod
+25	liquid	liquid	NN	_	22	dobj
+26	.	.	.	_	13	punct
+

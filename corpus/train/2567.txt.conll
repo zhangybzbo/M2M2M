@@ -1,0 +1,21 @@
+1	I	I	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	have	have	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	full	full	JJ	_	6	amod
+6	unit	unit	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	blighted	blighted	JJ	_	9	amod
+9	swordsmen	swordsman	NNS	_	7	pobj
+10	and	and	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	blessing	blessing	NN	_	9	conj
+13	of	of	IN	_	12	prep
+14	vengeance	vengeance	NN	_	13	pobj
+15	on	on	IN	_	3	prep
+16	my	my	PRP$	_	15	pobj
+17	to	to	TO	_	18	aux
+18	seal	seal	VB	_	16	vmod
+19	shelf	shelf	NN	_	18	dobj
+20	.	.	.	_	3	punct
+

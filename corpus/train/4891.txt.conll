@@ -1,0 +1,21 @@
+1	When	when	WRB	_	5	advmod
+2	the	the	DT	_	3	det
+3	merchant	merchant	NN	_	5	nsubj
+4	was	be	VBD	_	5	cop
+5	ready	ready	JJ	_	12	advcl
+6	to	to	TO	_	7	aux
+7	come	come	VB	_	5	xcomp
+8	home	home	NN	_	7	advmod
+9	,	,	,	_	12	punct
+10	he	he	PRP	_	12	nsubj
+11	had	have	VBD	_	12	aux
+12	bought	buy	VBN	_	0	ROOT
+13	a	a	DT	_	15	det
+14	diamond	diamond	NN	_	15	nn
+15	necklace	necklace	NN	_	12	dobj
+16	for	for	IN	_	12	prep
+17	his	he	PRP$	_	19	poss
+18	first	first	JJ	_	19	amod
+19	daughter	daughter	NN	_	16	pobj
+20	.	.	.	_	12	punct
+

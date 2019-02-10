@@ -1,0 +1,26 @@
+1	Engineers	engineer	NNS	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	computers	computer	NNS	_	2	dobj
+4	to	to	TO	_	5	aux
+5	solve	solve	VB	_	2	vmod
+6	a	a	DT	_	7	det
+7	variety	variety	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	problems	problem	NNS	_	8	pobj
+10	ranging	range	VBG	_	9	vmod
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	evaluation	evaluation	NN	_	11	pobj
+14	of	of	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	simple	simple	JJ	_	17	amod
+17	function	function	NN	_	14	pobj
+18	to	to	TO	_	10	prep
+19	solving	solve	VBG	_	18	pcomp
+20	a	a	DT	_	21	det
+21	system	system	NN	_	19	dobj
+22	of	of	IN	_	21	prep
+23	nonlinear	nonlinear	JJ	_	24	amod
+24	equations	equation	NNS	_	22	pobj
+25	.	.	.	_	2	punct
+

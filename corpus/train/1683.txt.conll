@@ -1,0 +1,14 @@
+1	A	a	DT	_	3	det
+2	warehouse	warehouse	NN	_	3	nn
+3	user	user	NN	_	9	nsubj
+4	with	with	IN	_	3	prep
+5	limited	limited	JJ	_	6	amod
+6	authority	authority	NN	_	4	pobj
+7	can	can	MD	_	9	aux
+8	not	not	RB	_	9	neg
+9	crate	crate	VB	_	0	ROOT
+10	the	the	DT	_	12	det
+11	required	require	VBN	_	12	amod
+12	bufferpool	bufferpool	NN	_	9	dobj
+13	.	.	.	_	9	punct
+

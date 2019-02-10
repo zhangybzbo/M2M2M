@@ -1,0 +1,21 @@
+1	Special	special	JJ	_	2	amod
+2	construction	construction	NN	_	7	nsubj
+3	and	and	CC	_	2	cc
+4	a	a	DT	_	6	det
+5	rubberized	rubberized	JJ	_	6	amod
+6	trim	trim	JJ	_	2	conj
+7	helps	help	VBZ	_	0	ROOT
+8	the	the	DT	_	9	det
+9	handset	handset	NN	_	10	nsubj
+10	stand	stand	VB	_	7	ccomp
+11	up	up	RP	_	10	prt
+12	to	to	TO	_	10	prep
+13	everyday	everyday	JJ	_	14	amod
+14	wear-and-tear	wear-and-tear	JJ	_	12	pobj
+15	,	,	,	_	7	punct
+16	and	and	CC	_	7	cc
+17	even	even	RB	_	18	advmod
+18	occasional	occasional	JJ	_	7	conj
+19	dropping	drop	VBG	_	18	amod
+20	.	.	.	_	7	punct
+

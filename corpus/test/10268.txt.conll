@@ -1,0 +1,23 @@
+1	In	in	IN	_	5	prep
+2	this	this	DT	_	3	det
+3	way	way	NN	_	1	pobj
+4	he	he	PRP	_	5	nsubj
+5	gathered	gather	VBD	_	0	ROOT
+6	materials	material	NNS	_	5	dobj
+7	for	for	IN	_	6	prep
+8	weekly	weekly	JJ	_	9	amod
+9	epistles	epistle	NNS	_	7	pobj
+10	destined	destine	VBN	_	9	vmod
+11	to	to	TO	_	12	aux
+12	enlighten	enlighten	VB	_	10	xcomp
+13	some	some	DT	_	15	det
+14	county	county	NN	_	15	nn
+15	town	town	NN	_	12	dobj
+16	or	or	CC	_	15	cc
+17	some	some	DT	_	18	det
+18	bench	bench	NN	_	15	conj
+19	of	of	IN	_	18	prep
+20	rustic	rustic	JJ	_	21	amod
+21	magistrates	magistrate	NNS	_	19	pobj
+22	.	.	.	_	5	punct
+

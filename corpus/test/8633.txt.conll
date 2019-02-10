@@ -1,0 +1,11 @@
+1	Air	Air	NNP	_	2	nn
+2	pollution	pollution	NN	_	3	nsubj
+3	causes	cause	VBZ	_	0	ROOT
+4	smog	smog	NN	_	3	dobj
+5	and	and	CC	_	4	cc
+6	respiratory	respiratory	JJ	_	7	amod
+7	problems	problem	NNS	_	4	conj
+8	when	when	WRB	_	9	advmod
+9	breathed	breathe	VBN	_	3	advcl
+10	.	.	.	_	3	punct
+

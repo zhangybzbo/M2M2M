@@ -1,0 +1,20 @@
+1	In	in	IN	_	14	prep
+2	fact	fact	NN	_	1	pobj
+3	,	,	,	_	14	punct
+4	the	the	DT	_	6	det
+5	only	only	JJ	_	6	amod
+6	clothes	clothes	NNS	_	14	nsubj
+7	she	she	PRP	_	9	nsubj
+8	could	could	MD	_	9	aux
+9	fit	fit	VB	_	6	rcmod
+10	into	into	IN	_	9	prep
+11	were	be	VBD	_	14	cop
+12	her	she	PRP$	_	14	poss
+13	maternity	maternity	NN	_	14	nn
+14	dresses	dress	NNS	_	0	ROOT
+15	from	from	IN	_	14	prep
+16	twenty-five	twenty-five	CD	_	17	num
+17	years	year	NNS	_	18	npadvmod
+18	ago	ago	RB	_	15	pcomp
+19	.	.	.	_	14	punct
+

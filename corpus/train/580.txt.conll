@@ -1,0 +1,18 @@
+1	Physiotherapy	physiotherapy	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	focused	focus	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	admission	admission	NN	_	6	nn
+6	avoidance	avoidance	NN	_	4	pobj
+7	,	,	,	_	6	punct
+8	prevention	prevention	NN	_	6	conj
+9	of	of	IN	_	8	prep
+10	deterioration	deterioration	NN	_	9	pobj
+11	after	after	IN	_	8	prep
+12	admission	admission	NN	_	11	pobj
+13	and	and	CC	_	6	cc
+14	facilitating	facilitate	VBG	_	6	conj
+15	early	early	JJ	_	16	amod
+16	discharge	discharge	NN	_	14	dobj
+17	.	.	.	_	3	punct
+

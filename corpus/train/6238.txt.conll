@@ -1,0 +1,11 @@
+1	His	he	PRP$	_	2	poss
+2	friend	friend	NN	_	4	nsubj
+3	accidently	accidently	RB	_	4	advmod
+4	poured	pour	VBD	_	0	ROOT
+5	water	water	NN	_	4	dobj
+6	into	into	IN	_	4	prep
+7	the	the	DT	_	9	det
+8	gas	gas	NN	_	9	nn
+9	tank	tank	NN	_	6	pobj
+10	.	.	.	_	4	punct
+

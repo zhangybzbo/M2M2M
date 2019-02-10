@@ -1,0 +1,27 @@
+1	In	in	IN	_	13	mark
+2	the	the	DT	_	3	det
+3	episode	episode	NN	_	13	dep
+4	``	``	``	_	13	punct
+5	My	my	PRP$	_	7	poss
+6	Future	future	JJ	_	7	amod
+7	Self	self	NN	_	13	nsubj
+8	'n'	'n'	CC	_	13	cc
+9	Me	I	PRP	_	13	dep
+10	''	''	''	_	13	punct
+11	the	the	DT	_	12	det
+12	boys	boy	NNS	_	13	nsubj
+13	discover	discover	VBP	_	0	ROOT
+14	a	a	DT	_	18	det
+15	joint	joint	JJ	_	18	amod
+16	and	and	CC	_	15	cc
+17	rolling	rolling	JJ	_	15	conj
+18	papers	papers	NNS	_	13	dobj
+19	on	on	IN	_	18	prep
+20	a	a	DT	_	22	det
+21	tree	tree	NN	_	22	nn
+22	stump	stump	NN	_	19	pobj
+23	in	in	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	woods	wood	NNS	_	23	pobj
+26	.	.	.	_	13	punct
+

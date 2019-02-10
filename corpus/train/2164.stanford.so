@@ -1,0 +1,11 @@
+0	55	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="another" pos="DT" det="t1"
+8	14	tok id="t1" base="deputy" pos="NN" nsubj="t5"
+15	19	tok id="t2" base="from" pos="IN" prep="t1"
+20	29	tok id="t3" base="coalition" pos="NN" nn="t4"
+30	35	tok id="t4" base="party" pos="NN" pobj="t2"
+36	43	tok id="t5" base="resign" pos="VBZ" ROOT="ROOT"
+44	46	tok id="t6" base="in" pos="IN" prep="t5"
+47	53	tok id="t7" base="Turkey" pos="NNP" pobj="t6"
+54	55	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

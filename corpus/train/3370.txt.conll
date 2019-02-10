@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	mechanism	mechanism	NN	_	0	ROOT
+3	transported	transport	VBN	_	4	amod
+4	dust	dust	NN	_	2	dep
+5	into	into	IN	_	4	prep
+6	shadowed	shadowed	JJ	_	7	amod
+7	regions	region	NNS	_	5	pobj
+8	.	.	.	_	2	punct
+

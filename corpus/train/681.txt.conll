@@ -1,0 +1,9 @@
+1	The	the	DT	_	4	det
+2	longest	longest	JJS	_	4	amod
+3	serving	serve	VBG	_	4	amod
+4	spacecraft	spacecraft	NN	_	5	nsubj
+5	goes	go	VBZ	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	retirement	retirement	NN	_	6	pobj
+8	.	.	.	_	5	punct
+

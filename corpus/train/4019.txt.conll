@@ -1,0 +1,12 @@
+1	Insulin	insulin	NN	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	simple	simple	JJ	_	5	amod
+5	protein	protein	NN	_	0	ROOT
+6	normally	normally	RB	_	7	advmod
+7	produced	produce	VBN	_	5	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	pancreas	pancreas	NN	_	8	pobj
+11	.	.	.	_	5	punct
+

@@ -1,0 +1,26 @@
+1	In	in	IN	_	12	prep
+2	many	many	JJ	_	3	amod
+3	patients	patient	NNS	_	1	pobj
+4	,	,	,	_	12	punct
+5	the	the	DT	_	6	det
+6	disease	disease	NN	_	12	nsubj
+7	caused	cause	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	H5N1	h5n1	NN	_	11	nn
+11	virus	virus	NN	_	8	pobj
+12	follows	follow	VBZ	_	0	ROOT
+13	an	a	DT	_	17	det
+14	unusually	unusually	RB	_	15	advmod
+15	aggressive	aggressive	JJ	_	17	amod
+16	clinical	clinical	JJ	_	17	amod
+17	course	course	NN	_	12	dobj
+18	,	,	,	_	12	punct
+19	with	with	IN	_	12	prep
+20	rapid	rapid	JJ	_	21	amod
+21	deterioration	deterioration	NN	_	19	pobj
+22	and	and	CC	_	21	cc
+23	high	high	JJ	_	24	amod
+24	fatality	fatality	NN	_	21	conj
+25	.	.	.	_	12	punct
+

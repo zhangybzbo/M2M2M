@@ -1,0 +1,17 @@
+1	Jeanne	Jeanne	NNP	_	2	nn
+2	Carley	Carley	NNP	_	6	nsubj
+3	has	have	VBZ	_	6	aux
+4	once	once	RB	_	5	advmod
+5	again	again	RB	_	6	advmod
+6	created	create	VBN	_	0	ROOT
+7	a	a	DT	_	9	det
+8	fun	fun	NN	_	9	nn
+9	calendar	calendar	NN	_	6	dobj
+10	with	with	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	cast	cast	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	adorable	adorable	JJ	_	15	amod
+15	ferrets	ferret	NNS	_	13	pobj
+16	.	.	.	_	6	punct
+

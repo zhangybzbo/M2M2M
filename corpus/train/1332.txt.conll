@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	fad	fad	NN	_	3	nsubj
+3	started	start	VBD	_	0	ROOT
+4	when	when	WRB	_	15	advmod
+5	a	a	DT	_	7	det
+6	certain	certain	JJ	_	7	amod
+7	brand	brand	NN	_	15	nsubj
+8	of	of	IN	_	7	prep
+9	socks	sock	NNS	_	8	pobj
+10	manufactured	manufacture	VBN	_	9	vmod
+11	by	by	IN	_	10	prep
+12	an	a	DT	_	14	det
+13	American	american	JJ	_	14	amod
+14	company	company	NN	_	11	pobj
+15	became	become	VBD	_	3	advcl
+16	popular	popular	JJ	_	15	acomp
+17	among	among	IN	_	15	prep
+18	Japanese	japanese	JJ	_	19	amod
+19	schoolgirls	schoolgirl	NNS	_	17	pobj
+20	.	.	.	_	3	punct
+

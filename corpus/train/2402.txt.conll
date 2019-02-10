@@ -1,0 +1,23 @@
+1	When	when	WRB	_	2	advmod
+2	leaving	leave	VBG	_	9	advcl
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	walk	walk	NN	_	3	pobj
+6	,	,	,	_	9	punct
+7	our	we	PRP$	_	8	poss
+8	guide	guide	NN	_	9	nsubj
+9	gave	give	VBD	_	0	ROOT
+10	one	one	CD	_	9	dobj
+11	of	of	IN	_	10	prep
+12	our	we	PRP$	_	13	poss
+13	group	group	NN	_	11	pobj
+14	a	a	DT	_	15	det
+15	bottle	bottle	NN	_	10	dep
+16	with	with	IN	_	15	prep
+17	twenty	twenty	CD	_	19	num
+18	re-hydration	re-hydration	NN	_	19	nn
+19	tablets	tablet	NNS	_	16	pobj
+20	in	in	IN	_	15	prep
+21	it	it	PRP	_	20	pobj
+22	.	.	.	_	9	punct
+

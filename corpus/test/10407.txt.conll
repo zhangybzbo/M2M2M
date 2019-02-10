@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det
+2	catfish	catfish	NN	_	17	nsubj
+3	,	,	,	_	2	punct
+4	some	some	DT	_	5	det
+5	fish	fish	NN	_	2	appos
+6	that	that	WDT	_	8	nsubj
+7	have	have	VBP	_	8	aux
+8	spawned	spawn	VBN	_	5	rcmod
+9	eggs	egg	NNS	_	8	dobj
+10	and	and	CC	_	9	cc
+11	an	a	DT	_	12	det
+12	anglerfish	anglerfish	NN	_	9	conj
+13	is	be	VBZ	_	17	cop
+14	all	all	DT	_	17	dobj
+15	I	I	PRP	_	17	nsubj
+16	can	can	MD	_	17	aux
+17	remember	remember	VB	_	0	ROOT
+18	.	.	.	_	17	punct
+

@@ -1,0 +1,18 @@
+1	And	and	CC	_	5	cc
+2	so	so	RB	_	4	advmod
+3	this	this	DT	_	4	det
+4	book	book	NN	_	5	nsubj
+5	involves	involve	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	reader	reader	NN	_	5	dobj
+8	in	in	IN	_	5	prep
+9	a	a	DT	_	12	det
+10	true	true	JJ	_	12	amod
+11	educational	educational	JJ	_	12	amod
+12	process	process	NN	_	8	pobj
+13	which	which	WDT	_	16	nsubj
+14	is	be	VBZ	_	16	cop
+15	also	also	RB	_	16	advmod
+16	fun	fun	NN	_	12	rcmod
+17	.	.	.	_	5	punct
+

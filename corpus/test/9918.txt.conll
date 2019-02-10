@@ -1,0 +1,16 @@
+1	In	in	IN	_	10	prep
+2	many	many	JJ	_	3	amod
+3	countries	country	NNS	_	1	pobj
+4	,	,	,	_	10	punct
+5	the	the	DT	_	7	det
+6	national	national	JJ	_	7	amod
+7	association	association	NN	_	10	nsubj
+8	is	be	VBZ	_	10	cop
+9	a	a	DT	_	10	det
+10	federation	federation	NN	_	0	ROOT
+11	of	of	IN	_	10	prep
+12	various	various	JJ	_	14	amod
+13	Scout	scout	NN	_	14	nn
+14	associations	association	NNS	_	11	pobj
+15	.	.	.	_	10	punct
+

@@ -1,0 +1,8 @@
+1	New	New	NNP	_	2	nn
+2	experiences	experience	NNS	_	3	nsubj
+3	throw	throw	VBP	_	0	ROOT
+4	neurons	neuron	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	reverse	reverse	NN	_	5	pobj
+7	.	.	.	_	3	punct
+

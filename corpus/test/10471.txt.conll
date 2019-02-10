@@ -1,0 +1,24 @@
+1	At	at	IN	_	11	prep
+2	one	one	CD	_	3	num
+3	time	time	NN	_	1	pobj
+4	,	,	,	_	11	punct
+5	most	most	JJS	_	11	nsubjpass
+6	of	of	IN	_	5	prep
+7	Europe	Europe	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	ammonia	ammonia	NN	_	6	pobj
+10	was	be	VBD	_	11	auxpass
+11	produced	produce	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	15	det
+14	Hydro	Hydro	NNP	_	15	nn
+15	plant	plant	NN	_	12	pobj
+16	at	at	IN	_	11	prep
+17	Vemork	Vemork	NNP	_	16	pobj
+18	,	,	,	_	11	punct
+19	via	via	IN	_	11	prep
+20	the	the	DT	_	22	det
+21	electrolysis	electrolysis	NN	_	22	nn
+22	route	route	NN	_	19	pobj
+23	.	.	.	_	11	punct
+

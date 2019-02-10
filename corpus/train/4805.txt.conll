@@ -1,0 +1,23 @@
+1	Furthermore	furthermore	RB	_	21	advmod
+2	,	,	,	_	21	punct
+3	the	the	DT	_	6	det
+4	substrate	substrate	NN	_	6	nn
+5	doping	doping	NN	_	6	nn
+6	density	density	NN	_	21	nsubjpass
+7	at	at	IN	_	11	prep
+8	which	which	WDT	_	7	pobj
+9	impact	impact	NN	_	10	nn
+10	ionization	ionization	NN	_	11	nsubj
+11	causes	cause	VBZ	_	6	rcmod
+12	avalanche	avalanche	NN	_	13	nn
+13	breakdown	breakdown	NN	_	11	dobj
+14	at	at	IN	_	11	prep
+15	the	the	DT	_	18	det
+16	trench	trench	NN	_	18	nn
+17	capacitor	capacitor	NN	_	18	nn
+18	junction	junction	NN	_	14	pobj
+19	has	have	VBZ	_	21	aux
+20	been	be	VBN	_	21	auxpass
+21	estimated	estimate	VBN	_	0	ROOT
+22	.	.	.	_	21	punct
+

@@ -1,0 +1,20 @@
+1	Looked	look	VBN	_	9	vmod
+2	at	at	IN	_	1	prep
+3	from	from	IN	_	2	pcomp
+4	one	one	CD	_	5	num
+5	side	side	NN	_	3	pobj
+6	,	,	,	_	9	punct
+7	the	the	DT	_	8	det
+8	wall	wall	NN	_	9	nsubj
+9	enclosed	enclose	VBD	_	0	ROOT
+10	a	a	DT	_	13	det
+11	barren	barren	JJ	_	13	amod
+12	sixty-acre	sixty-acre	JJ	_	13	amod
+13	field	field	NN	_	9	dobj
+14	called	call	VBD	_	13	vmod
+15	the	the	DT	_	16	det
+16	Port	Port	NNP	_	14	dobj
+17	of	of	IN	_	16	prep
+18	Anarres	Anarres	NNPS	_	17	pobj
+19	.	.	.	_	9	punct
+

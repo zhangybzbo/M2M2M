@@ -1,0 +1,23 @@
+1	In	in	IN	_	5	prep
+2	this	this	DT	_	3	det
+3	paper	paper	NN	_	1	pobj
+4	we	we	PRP	_	5	nsubj
+5	describe	describe	VBP	_	0	ROOT
+6	the	the	DT	_	7	det
+7	derivation	derivation	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	blastocyst	blastocyst	NN	_	8	pobj
+11	following	follow	VBG	_	7	prep
+12	heterologous	heterologous	JJ	_	14	amod
+13	nuclear	nuclear	JJ	_	14	amod
+14	transfer	transfer	NN	_	11	pobj
+15	-LRB-	-lrb-	-LRB-	_	16	punct
+16	NT	nt	NN	_	14	appos
+17	-RRB-	-rrb-	-RRB-	_	16	punct
+18	into	into	IN	_	14	prep
+19	a	a	DT	_	21	det
+20	human	human	JJ	_	21	amod
+21	oocyte	oocyte	NN	_	18	pobj
+22	.	.	.	_	5	punct
+

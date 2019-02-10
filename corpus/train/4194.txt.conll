@@ -1,0 +1,19 @@
+1	Rama	Rama	NNP	_	2	nn
+2	Revealed	Revealed	NNP	_	10	nsubj
+3	-LRB-	-lrb-	-LRB-	_	4	punct
+4	1993	1993	CD	_	2	appos
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	is	be	VBZ	_	10	cop
+7	a	a	DT	_	10	det
+8	science	science	NN	_	10	nn
+9	fiction	fiction	NN	_	10	nn
+10	novel	novel	NN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	Arthur	Arthur	NNP	_	14	nn
+13	C.	C.	NNP	_	14	nn
+14	Clarke	Clarke	NNP	_	11	pobj
+15	and	and	CC	_	14	cc
+16	Gentry	Gentry	NNP	_	17	nn
+17	Lee	Lee	NNP	_	14	conj
+18	.	.	.	_	10	punct
+

@@ -1,0 +1,23 @@
+1	Close	close	VB	_	0	ROOT
+2	the	the	DT	_	3	det
+3	lid	lid	NN	_	1	dobj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	portable	portable	JJ	_	7	amod
+7	computer	computer	NN	_	4	pobj
+8	,	,	,	_	1	punct
+9	disconnect	disconnect	VB	_	1	conj
+10	the	the	DT	_	11	det
+11	computer	computer	NN	_	9	dobj
+12	from	from	IN	_	9	prep
+13	the	the	DT	_	15	det
+14	power	power	NN	_	15	nn
+15	source	source	NN	_	12	pobj
+16	,	,	,	_	1	punct
+17	and	and	CC	_	1	cc
+18	then	then	RB	_	19	advmod
+19	reopen	reopen	VB	_	1	conj
+20	the	the	DT	_	21	det
+21	lid	lid	NN	_	19	dobj
+22	.	.	.	_	1	punct
+

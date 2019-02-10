@@ -1,0 +1,20 @@
+1	These	these	DT	_	2	det
+2	maps	map	NNS	_	3	nsubj
+3	are	be	VBP	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	6	det
+6	atlas	atla	NN	_	4	pobj
+7	made	make	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	French	french	JJ	_	11	amod
+11	mapmaker	mapmaker	NN	_	8	pobj
+12	,	,	,	_	11	punct
+13	Guillaume	Guillaume	NNP	_	15	nn
+14	De	De	NNP	_	15	nn
+15	L'Isle	L'Isle	NNP	_	11	appos
+16	in	in	IN	_	15	prep
+17	about	about	RB	_	18	quantmod
+18	1740	1740	CD	_	16	pobj
+19	.	.	.	_	3	punct
+

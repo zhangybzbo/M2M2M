@@ -1,0 +1,3 @@
+T1	Term 37 46	paralysis
+T2	Term 71 76	toxin
+R1	Cause-Effect Arg1:T2 Arg2:T1

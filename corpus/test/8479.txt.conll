@@ -1,0 +1,14 @@
+1	We	we	PRP	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	newspaper	newspaper	NN	_	4	nn
+4	advertising	advertising	NN	_	2	dobj
+5	primarily	primarily	RB	_	2	advmod
+6	to	to	TO	_	7	aux
+7	inform	inform	VB	_	2	vmod
+8	customers	customer	NNS	_	7	dobj
+9	about	about	IN	_	7	prep
+10	new	new	JJ	_	11	amod
+11	selections	selection	NNS	_	9	pobj
+12	available	available	JJ	_	11	amod
+13	.	.	.	_	2	punct
+

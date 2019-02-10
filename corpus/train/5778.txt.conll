@@ -1,0 +1,16 @@
+1	Laws	law	NNS	_	3	nsubj
+2	often	often	RB	_	3	advmod
+3	refer	refer	VBP	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	blade	blade	VB	_	4	pcomp
+6	lengths	length	NNS	_	5	dobj
+7	and	and	CC	_	6	cc
+8	styles	style	NNS	_	6	conj
+9	to	to	TO	_	10	aux
+10	define	define	VB	_	5	vmod
+11	tools	tool	NNS	_	10	dobj
+12	with	with	IN	_	11	prep
+13	useful	useful	JJ	_	14	amod
+14	purposes	purpose	NNS	_	12	pobj
+15	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	An	a	DT	_	3	det
+2	oil	oil	NN	_	3	nn
+3	spill	spill	NN	_	14	nsubj
+4	caused	cause	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	collision	collision	NN	_	5	pobj
+8	between	between	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	ship	ship	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	a	a	DT	_	13	det
+13	barge	barge	NN	_	10	conj
+14	closed	close	VBD	_	0	ROOT
+15	the	the	DT	_	17	det
+16	ship	ship	NN	_	17	nn
+17	channel	channel	NN	_	14	dobj
+18	servicing	service	VBG	_	17	vmod
+19	the	the	DT	_	20	det
+20	nation	nation	NN	_	24	poss
+21	's	's	POS	_	20	possessive
+22	second	second	JJ	_	24	amod
+23	largest	largest	JJS	_	24	amod
+24	port	port	NN	_	18	dobj
+25	.	.	.	_	14	punct
+

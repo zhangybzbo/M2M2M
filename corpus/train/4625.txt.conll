@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	car	car	NN	_	5	nsubjpass
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	delivered	deliver	VBN	_	0	ROOT
+6	to	to	TO	_	5	prep
+7	the	the	DT	_	9	det
+8	upholstery	upholstery	NN	_	9	nn
+9	shop	shop	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

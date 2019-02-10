@@ -1,0 +1,10 @@
+1	2	2	CD	_	2	num
+2	deposits	deposit	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	put	put	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	my	my	PRP$	_	8	poss
+8	account	account	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

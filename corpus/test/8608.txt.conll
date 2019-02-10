@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj
+2	get	get	VBP	_	14	nsubj
+3	tons	ton	NNS	_	2	dobj
+4	of	of	IN	_	3	prep
+5	satisfaction	satisfaction	NN	_	4	pobj
+6	and	and	CC	_	5	cc
+7	joy	joy	NN	_	5	conj
+8	from	from	IN	_	2	prep
+9	watching	watch	VBG	_	8	pcomp
+10	the	the	DT	_	13	det
+11	little	little	JJ	_	13	amod
+12	fur	fur	NN	_	13	nn
+13	ball	ball	NN	_	9	dobj
+14	become	become	VBP	_	0	ROOT
+15	the	the	DT	_	16	det
+16	hunter	hunter	NN	_	14	xcomp
+17	it	it	PRP	_	19	nsubjpass
+18	was	be	VBD	_	19	auxpass
+19	bred	breed	VBN	_	16	rcmod
+20	to	to	TO	_	21	aux
+21	be	be	VB	_	19	xcomp
+22	.	.	.	_	14	punct
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det
+2	White	White	NNP	_	3	nn
+3	Paper	Paper	NNP	_	11	nsubj
+4	Full	full	JJ	_	5	amod
+5	Employment	Employment	NNP	_	3	dep
+6	in	in	IN	_	5	prep
+7	Australia	Australia	NNP	_	6	pobj
+8	was	be	VBD	_	11	cop
+9	the	the	DT	_	11	det
+10	defining	define	VBG	_	11	amod
+11	document	document	NN	_	0	ROOT
+12	of	of	IN	_	11	prep
+13	economic	economic	JJ	_	14	amod
+14	policy	policy	NN	_	12	pobj
+15	in	in	IN	_	11	prep
+16	Australia	Australia	NNP	_	15	pobj
+17	for	for	IN	_	11	prep
+18	the	the	DT	_	20	det
+19	30	30	CD	_	20	num
+20	years	year	NNS	_	17	pobj
+21	between	between	IN	_	20	prep
+22	1945	1945	CD	_	21	pobj
+23	and	and	CC	_	22	cc
+24	1975	1975	CD	_	22	conj
+25	.	.	.	_	11	punct
+

@@ -1,0 +1,17 @@
+1	We	we	PRP	_	2	nsubj
+2	owe	owe	VBP	_	0	ROOT
+3	it	it	PRP	_	2	dobj
+4	to	to	TO	_	2	prep
+5	ourselves	ourselves	PRP	_	4	pobj
+6	to	to	TO	_	7	aux
+7	separate	separate	VB	_	2	vmod
+8	the	the	DT	_	9	det
+9	riffraff	riffraff	NN	_	7	dobj
+10	from	from	IN	_	7	prep
+11	riffraff	riffraff	NN	_	10	pobj
+12	of	of	IN	_	11	prep
+13	less	less	JJR	_	15	amod
+14	unsavory	unsavory	JJ	_	15	amod
+15	characteristics	characteristic	NNS	_	12	pobj
+16	.	.	.	_	2	punct
+

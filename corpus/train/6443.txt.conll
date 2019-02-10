@@ -1,0 +1,23 @@
+1	In	in	IN	_	8	prep
+2	the	the	DT	_	4	det
+3	second	second	JJ	_	4	amod
+4	section	section	NN	_	1	pobj
+5	,	,	,	_	8	punct
+6	the	the	DT	_	7	det
+7	authors	author	NNS	_	8	nsubj
+8	explore	explore	VBP	_	0	ROOT
+9	factors	factor	NNS	_	8	dobj
+10	that	that	WDT	_	13	nsubj
+11	are	be	VBP	_	13	cop
+12	ostensibly	ostensibly	RB	_	13	advmod
+13	unrelated	unrelated	JJ	_	9	rcmod
+14	to	to	TO	_	13	prep
+15	race	race	NN	_	14	pobj
+16	but	but	CC	_	13	cc
+17	nonetheless	nonetheless	RB	_	18	advmod
+18	contribute	contribute	VBP	_	13	conj
+19	to	to	TO	_	18	prep
+20	racial	racial	JJ	_	21	amod
+21	inequality	inequality	NN	_	19	pobj
+22	.	.	.	_	8	punct
+

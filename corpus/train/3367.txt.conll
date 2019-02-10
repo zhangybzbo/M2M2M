@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	small	small	JJ	_	3	amod
+3	spring	spring	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	percussion	percussion	NN	_	7	nn
+7	hammer	hammer	NN	_	4	pobj
+8	then	then	RB	_	9	advmod
+9	forces	force	VBZ	_	0	ROOT
+10	the	the	DT	_	12	det
+11	latter	latter	JJ	_	12	amod
+12	downward	downward	JJ	_	9	dobj
+13	into	into	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	head	head	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	striker	striker	NN	_	16	pobj
+19	,	,	,	_	12	punct
+20	thus	thus	RB	_	21	advmod
+21	firing	firing	NN	_	12	dep
+22	the	the	DT	_	23	det
+23	mine	mine	NN	_	21	dobj
+24	.	.	.	_	9	punct
+

@@ -1,0 +1,18 @@
+1	Most	most	JJS	_	2	amod
+2	business	business	NN	_	0	ROOT
+3	that	that	WDT	_	4	nsubj
+4	think	think	VBP	_	2	rcmod
+5	they	they	PRP	_	6	nsubj
+6	have	have	VBP	_	4	ccomp
+7	teams	team	NNS	_	9	nsubj
+8	really	really	RB	_	9	advmod
+9	have	have	VBP	_	6	ccomp
+10	a	a	DT	_	11	det
+11	horde	horde	NN	_	9	dobj
+12	of	of	IN	_	11	prep
+13	heroes	hero	NNS	_	12	pobj
+14	looking	look	VBG	_	11	vmod
+15	for	for	IN	_	14	prep
+16	plunder	plunder	NN	_	15	pobj
+17	.	.	.	_	2	punct
+

@@ -1,0 +1,3 @@
+T1	Term 76 82	tissue
+T2	Term 88 95	capsule
+R1	Entity-Destination Arg1:T1 Arg2:T2

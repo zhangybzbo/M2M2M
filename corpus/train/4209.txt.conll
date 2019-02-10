@@ -1,0 +1,13 @@
+1	This	this	DT	_	2	nsubj
+2	reflects	reflect	VBZ	_	0	ROOT
+3	much	much	RB	_	7	advmod
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	light	light	NN	_	4	pobj
+7	back	back	RB	_	2	advmod
+8	towards	towards	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	lamp	lamp	NN	_	11	nn
+11	fitting	fitting	NN	_	8	pobj
+12	.	.	.	_	2	punct
+

@@ -1,0 +1,11 @@
+1	Blood	blood	NN	_	2	nsubj
+2	looks	look	VBZ	_	0	ROOT
+3	very	very	RB	_	4	advmod
+4	red	red	JJ	_	2	acomp
+5	on	on	IN	_	2	prep
+6	the	the	DT	_	9	det
+7	colour	colour	NN	_	9	nn
+8	television	television	NN	_	9	nn
+9	screen	screen	NN	_	5	pobj
+10	.	.	.	_	2	punct
+

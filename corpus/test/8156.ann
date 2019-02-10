@@ -1,0 +1,3 @@
+T1	Term 24 35	punchcutter
+T2	Term 45 52	imprint
+R1	Product-Producer Arg1:T2 Arg2:T1

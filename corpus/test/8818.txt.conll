@@ -1,0 +1,20 @@
+1	Complementing	complement	VBG	_	8	csubj
+2	the	the	DT	_	4	det
+3	unique	unique	JJ	_	4	amod
+4	arsenal	arsenal	NN	_	1	dobj
+5	is	be	VBZ	_	8	cop
+6	a	a	DT	_	8	det
+7	vibrant	vibrant	JJ	_	8	amod
+8	world	world	NN	_	0	ROOT
+9	that	that	WDT	_	10	nsubj
+10	employs	employ	VBZ	_	8	rcmod
+11	a	a	DT	_	14	det
+12	cel-shaded	cel-shaded	JJ	_	14	amod
+13	animation	animation	NN	_	14	nn
+14	reminiscent	reminiscent	NN	_	10	dobj
+15	of	of	IN	_	14	prep
+16	a	a	DT	_	18	det
+17	comic	comic	JJ	_	18	amod
+18	book	book	NN	_	15	pobj
+19	.	.	.	_	8	punct
+

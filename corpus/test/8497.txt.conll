@@ -1,0 +1,11 @@
+1	He	he	PRP	_	2	nsubj
+2	removed	remove	VBD	_	0	ROOT
+3	the	the	DT	_	6	det
+4	recurring	recur	VBG	_	6	amod
+5	acid	acid	NN	_	6	nn
+6	reflux	reflux	NN	_	2	dobj
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	mouth	mouth	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

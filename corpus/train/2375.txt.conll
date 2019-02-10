@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	exhibition	exhibition	NN	_	3	nsubj
+3	explores	explore	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	ideas	idea	NNS	_	3	dobj
+6	and	and	CC	_	5	cc
+7	beliefs	belief	NNS	_	5	conj
+8	of	of	IN	_	5	prep
+9	people	people	NNS	_	8	pobj
+10	in	in	IN	_	5	prep
+11	the	the	DT	_	13	det
+12	Middle	Middle	NNP	_	13	nn
+13	Ages	Ages	NNPS	_	10	pobj
+14	.	.	.	_	3	punct
+

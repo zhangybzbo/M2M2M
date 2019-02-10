@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	production	production	NN	_	3	nn
+3	assistant	assistant	NN	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	basically	basically	RB	_	7	advmod
+6	the	the	DT	_	7	det
+7	guy	guy	NN	_	0	ROOT
+8	who	who	WP	_	9	nsubj
+9	makes	make	VBZ	_	7	rcmod
+10	coffee	coffee	NN	_	9	dobj
+11	and	and	CC	_	9	cc
+12	goes	go	VBZ	_	9	conj
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	16	det
+15	post	post	NN	_	16	nn
+16	office	office	NN	_	13	pobj
+17	.	.	.	_	7	punct
+

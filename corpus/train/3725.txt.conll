@@ -1,0 +1,17 @@
+1	A	a	DT	_	3	det
+2	car	car	NN	_	3	nn
+3	dealer	dealer	NN	_	4	nsubj
+4	attaches	attach	VBZ	_	0	ROOT
+5	a	a	DT	_	7	det
+6	license	license	NN	_	7	nn
+7	plate	plate	NN	_	4	dobj
+8	to	to	TO	_	4	prep
+9	a	a	DT	_	10	det
+10	minivan	minivan	NN	_	8	pobj
+11	sold	sell	VBN	_	10	vmod
+12	at	at	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	Eugene	Eugene	NNP	_	15	nn
+15	dealership	dealership	NN	_	12	pobj
+16	.	.	.	_	4	punct
+

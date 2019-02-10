@@ -1,0 +1,11 @@
+1	Management	Management	NNP	_	3	nn
+2	Unit	Unit	NNP	_	3	nn
+3	personnel	personnel	NNS	_	0	ROOT
+4	marked	marked	JJ	_	6	amod
+5	private	private	JJ	_	6	amod
+6	lines	line	NNS	_	3	dep
+7	with	with	IN	_	6	prep
+8	blue	blue	JJ	_	9	amod
+9	paint	paint	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	One	one	CD	_	2	nsubj
+2	win	win	VB	_	0	ROOT
+3	and	and	CC	_	2	cc
+4	we	we	PRP	_	7	nsubj
+5	've	have	VBP	_	7	aux
+6	suddenly	suddenly	RB	_	7	advmod
+7	got	get	VBN	_	2	conj
+8	a	a	DT	_	9	det
+9	squad	squad	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	world	world	NN	_	12	nn
+12	beaters	beater	NNS	_	10	pobj
+13	.	.	.	_	2	punct
+

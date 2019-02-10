@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	paper	paper	NN	_	3	nsubj
+3	presents	present	VBZ	_	0	ROOT
+4	a	a	DT	_	7	det
+5	chemical	chemical	NN	_	7	nn
+6	composition	composition	NN	_	7	nn
+7	analysis	analysis	NN	_	3	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	gases	gas	NNS	_	8	pobj
+11	emanated	emanate	VBD	_	3	dep
+12	from	from	IN	_	11	prep
+13	geothermal	geothermal	JJ	_	14	amod
+14	sources	source	NNS	_	12	pobj
+15	in	in	IN	_	14	prep
+16	the	the	DT	_	19	det
+17	Herculane	Herculane	NNP	_	19	nn
+18	Spa	Spa	NNP	_	19	nn
+19	area	area	NN	_	15	pobj
+20	-LRB-	-lrb-	-LRB-	_	21	punct
+21	Romania	Romania	NNP	_	19	appos
+22	-RRB-	-rrb-	-RRB-	_	21	punct
+23	.	.	.	_	3	punct
+

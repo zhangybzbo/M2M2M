@@ -1,0 +1,8 @@
+1	His	he	PRP$	_	2	poss
+2	paper	paper	NN	_	3	nsubj
+3	narrated	narrate	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	discovery	discovery	NN	_	3	dobj
+6	chronologically	chronologically	RB	_	5	advmod
+7	.	.	.	_	3	punct
+

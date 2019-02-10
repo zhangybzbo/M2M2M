@@ -1,0 +1,22 @@
+1	In	in	IN	_	0	ROOT
+2	other	other	JJ	_	3	amod
+3	words	word	NNS	_	1	pobj
+4	,	,	,	_	1	punct
+5	the	the	DT	_	6	det
+6	bow	bow	NN	_	4	dep
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	vessel	vessel	NN	_	10	nn
+10	points	point	NNS	_	7	pobj
+11	at	at	IN	_	6	prep
+12	the	the	DT	_	17	det
+13	`	`	``	_	17	punct
+14	windy	windy	JJ	_	17	amod
+15	'	'	''	_	17	punct
+16	extended	extended	JJ	_	17	amod
+17	edge	edge	NN	_	11	pobj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	table	table	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

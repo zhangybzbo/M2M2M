@@ -1,0 +1,17 @@
+1	My	my	PRP$	_	3	poss
+2	baby	baby	NN	_	3	nn
+3	sister	sister	NN	_	5	nsubj
+4	was	be	VBD	_	5	aux
+5	lying	lie	VBG	_	0	ROOT
+6	asleep	asleep	RB	_	5	advmod
+7	in	in	IN	_	5	prep
+8	a	a	DT	_	9	det
+9	cradle	cradle	NN	_	7	pobj
+10	next	next	JJ	_	9	amod
+11	to	to	TO	_	10	prep
+12	my	my	PRP$	_	13	poss
+13	mom	mom	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	bed	bed	NN	_	11	pobj
+16	.	.	.	_	5	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	inequality	inequality	NN	_	5	nsubj
+3	and	and	CC	_	2	cc
+4	poverty	poverty	NN	_	2	conj
+5	caused	cause	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	riots	riot	NNS	_	5	dobj
+8	in	in	IN	_	5	prep
+9	2001	2001	CD	_	8	pobj
+10	.	.	.	_	5	punct
+

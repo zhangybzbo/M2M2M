@@ -1,0 +1,10 @@
+1	The	the	DT	_	5	det
+2	archaeological	archaeological	JJ	_	5	amod
+3	site	site	NN	_	5	nn
+4	yields	yield	NNS	_	5	nn
+5	relics	relic	NNS	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	long-forgotten	long-forgotten	JJ	_	8	amod
+8	culture	culture	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

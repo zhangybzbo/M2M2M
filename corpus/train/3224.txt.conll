@@ -1,0 +1,21 @@
+1	As	as	IN	_	4	mark
+2	he	he	PRP	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	mulling	mull	VBG	_	15	advcl
+5	over	over	IN	_	4	prep
+6	his	he	PRP$	_	7	poss
+7	options	option	NNS	_	5	pobj
+8	,	,	,	_	15	punct
+9	the	the	DT	_	11	det
+10	front	front	JJ	_	11	amod
+11	door	door	NN	_	15	nsubj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	cottage	cottage	NN	_	12	pobj
+15	opened	open	VBD	_	0	ROOT
+16	and	and	CC	_	15	cc
+17	someone	someone	NN	_	18	nsubj
+18	stepped	step	VBD	_	15	conj
+19	out	out	RP	_	18	prt
+20	.	.	.	_	15	punct
+

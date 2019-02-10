@@ -1,0 +1,13 @@
+1	He	he	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	finds	find	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	bottle	bottle	NN	_	3	dobj
+6	with	with	IN	_	5	prep
+7	Joe	Joe	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	appendix	appendix	NN	_	6	pobj
+10	in	in	IN	_	3	prep
+11	it	it	PRP	_	10	pobj
+12	.	.	.	_	3	punct
+

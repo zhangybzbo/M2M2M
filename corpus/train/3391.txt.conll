@@ -1,0 +1,24 @@
+1	Also	also	RB	_	13	advmod
+2	,	,	,	_	13	punct
+3	every	every	DT	_	4	det
+4	employee	employee	NN	_	13	nsubj
+5	who	who	WP	_	8	nsubj
+6	is	be	VBZ	_	8	cop
+7	a	a	DT	_	8	det
+8	participant	participant	NN	_	4	rcmod
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	trust	trust	NN	_	9	pobj
+12	automatically	automatically	RB	_	13	advmod
+13	has	have	VBZ	_	0	ROOT
+14	a	a	DT	_	16	det
+15	beneficial	beneficial	JJ	_	16	amod
+16	interest	interest	NN	_	13	dobj
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	19	det
+19	ownership	ownership	NN	_	17	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	agency	agency	NN	_	20	pobj
+23	.	.	.	_	13	punct
+

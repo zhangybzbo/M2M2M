@@ -1,0 +1,27 @@
+1	Speculations	speculation	NNS	_	0	ROOT
+2	on	on	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	causes	cause	NNS	_	2	pobj
+5	behind	behind	IN	_	4	prep
+6	the	the	DT	_	19	nsubj
+7	below	below	IN	_	6	prep
+8	capacity	capacity	NN	_	9	nn
+9	production	production	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	ethanol	ethanol	NN	_	10	pobj
+12	by	by	IN	_	6	prep
+13	the	the	DT	_	15	det
+14	sugar	sugar	NN	_	15	nn
+15	factories	factory	NNS	_	12	pobj
+16	in	in	IN	_	6	prep
+17	the	the	DT	_	18	det
+18	state	state	NN	_	16	pobj
+19	figured	figure	VBD	_	5	pcomp
+20	in	in	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	Legislative	legislative	JJ	_	23	amod
+23	Council	council	NN	_	20	pobj
+24	on	on	IN	_	19	prep
+25	Tuesday	Tuesday	NNP	_	24	pobj
+26	.	.	.	_	1	punct
+

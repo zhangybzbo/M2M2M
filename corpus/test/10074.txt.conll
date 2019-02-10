@@ -1,0 +1,15 @@
+1	A	a	DT	_	2	det
+2	nunt	nunt	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	pastry	pastry	NN	_	0	ROOT
+6	originating	originate	VBG	_	5	vmod
+7	from	from	IN	_	6	prep
+8	Jewish	jewish	JJ	_	9	amod
+9	cuisine	cuisine	NN	_	7	pobj
+10	and	and	CC	_	5	cc
+11	vaguely	vaguely	RB	_	12	advmod
+12	resembles	resemble	VBZ	_	5	conj
+13	nougat	nougat	NN	_	12	xcomp
+14	.	.	.	_	5	punct
+

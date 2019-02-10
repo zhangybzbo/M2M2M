@@ -1,0 +1,11 @@
+1	Munitions	munitions	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	stored	store	VBN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	hold	hold	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	vessel	vessel	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

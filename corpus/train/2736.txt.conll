@@ -1,0 +1,27 @@
+1	On	on	IN	_	14	prep
+2	the	the	DT	_	3	det
+3	morning	morning	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	May	May	NNP	_	4	pobj
+6	25	25	CD	_	5	num
+7	,	,	,	_	14	punct
+8	many	many	JJ	_	9	amod
+9	schools	school	NNS	_	14	nsubjpass
+10	in	in	IN	_	9	prep
+11	northeast	northeast	JJ	_	12	amod
+12	China	China	NNP	_	10	pobj
+13	were	be	VBD	_	14	auxpass
+14	evacuated	evacuate	VBN	_	0	ROOT
+15	because	because	IN	_	16	mwe
+16	of	of	IN	_	14	prep
+17	the	the	DT	_	18	det
+18	earthquake	earthquake	NN	_	16	pobj
+19	caused	cause	VBN	_	18	vmod
+20	by	by	IN	_	25	mark
+21	the	the	DT	_	23	det
+22	North	North	NNP	_	23	nn
+23	Korea	Korea	NNP	_	25	nsubj
+24	nuclear	nuclear	JJ	_	25	amod
+25	test	test	NN	_	19	advcl
+26	.	.	.	_	14	punct
+

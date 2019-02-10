@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	tides	tide	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	gravitational	gravitational	JJ	_	8	amod
+8	force	force	NN	_	5	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	Moon	Moon	NNP	_	9	pobj
+12	.	.	.	_	4	punct
+

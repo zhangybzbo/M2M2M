@@ -1,0 +1,12 @@
+1	God	God	NNP	_	5	dep
+2	,	,	,	_	5	punct
+3	I	I	PRP	_	5	nsubj
+4	'm	be	VBP	_	5	cop
+5	glad	glad	JJ	_	0	ROOT
+6	that	that	IN	_	8	mark
+7	car	car	NN	_	8	nsubj
+8	had	have	VBD	_	5	ccomp
+9	seat	seat	NN	_	10	nn
+10	belts	belt	NNS	_	8	dobj
+11	.	.	.	_	5	punct
+

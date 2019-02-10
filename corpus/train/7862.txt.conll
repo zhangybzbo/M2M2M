@@ -1,0 +1,22 @@
+1	Not	not	RB	_	2	neg
+2	sure	sure	JJ	_	0	ROOT
+3	what	what	WP	_	4	det
+4	brand	brand	NN	_	8	dobj
+5	of	of	IN	_	4	prep
+6	model	model	NN	_	5	pobj
+7	it	it	PRP	_	8	nsubj
+8	came	come	VBD	_	2	ccomp
+9	from	from	IN	_	8	prep
+10	but	but	CC	_	9	cc
+11	the	the	DT	_	12	det
+12	wings	wing	NNS	_	13	nsubj
+13	are	be	VBP	_	9	conj
+14	from	from	IN	_	13	prep
+15	a	a	DT	_	17	det
+16	trashed	trash	VBN	_	17	amod
+17	plane	plane	NN	_	14	pobj
+18	my	my	PRP$	_	19	poss
+19	buddy	buddy	NN	_	20	nsubj
+20	had	have	VBD	_	13	ccomp
+21	.	.	.	_	2	punct
+

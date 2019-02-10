@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	two	two	CD	_	3	num
+3	countries	country	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	related	relate	VBN	_	0	ROOT
+6	through	through	IN	_	5	prep
+7	an	a	DT	_	10	det
+8	unbroken	unbroken	JJ	_	10	amod
+9	common	common	JJ	_	10	amod
+10	history	history	NN	_	6	pobj
+11	spanning	span	VBG	_	10	vmod
+12	three-hundred	three-hundred	JJ	_	15	amod
+13	and	and	CC	_	12	cc
+14	thirty-nine	thirty-nine	CD	_	12	conj
+15	years	year	NNS	_	11	dobj
+16	.	.	.	_	5	punct
+

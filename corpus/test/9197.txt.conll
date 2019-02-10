@@ -1,0 +1,9 @@
+1	Dioxide	dioxide	NN	_	4	nsubjpass
+2	has	have	VBZ	_	4	aux
+3	been	be	VBN	_	4	auxpass
+4	released	release	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	atmosphere	atmosphere	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

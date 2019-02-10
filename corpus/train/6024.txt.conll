@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	taxpayers	taxpayer	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	dumped	dump	VBN	_	0	ROOT
+5	billions	billion	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	this	this	DT	_	9	det
+8	bankrupt	bankrupt	JJ	_	9	amod
+9	company	company	NN	_	6	pobj
+10	without	without	IN	_	4	prep
+11	noticing	notice	VBG	_	10	pcomp
+12	it	it	PRP	_	11	dobj
+13	.	.	.	_	4	punct
+

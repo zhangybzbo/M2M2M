@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	spring	spring	NN	_	5	nn
+3	and	and	CC	_	2	cc
+4	damper	damper	NN	_	2	conj
+5	components	component	NNS	_	11	nsubjpass
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	absorber	absorber	NN	_	9	nn
+9	system	system	NN	_	6	pobj
+10	are	be	VBP	_	11	auxpass
+11	provided	provide	VBN	_	0	ROOT
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	plate	plate	NN	_	12	pobj
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	absorber	absorber	NN	_	15	pobj
+18	,	,	,	_	17	punct
+19	which	which	WDT	_	24	nsubj
+20	is	be	VBZ	_	24	cop
+21	a	a	DT	_	24	det
+22	continuous	continuous	JJ	_	24	amod
+23	mechanical	mechanical	JJ	_	24	amod
+24	system	system	NN	_	17	rcmod
+25	.	.	.	_	11	punct
+

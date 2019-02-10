@@ -1,0 +1,16 @@
+1	Be	be	VB	_	2	cop
+2	sure	sure	JJ	_	0	ROOT
+3	to	to	TO	_	4	aux
+4	drink	drink	VB	_	2	xcomp
+5	plenty	plenty	NN	_	4	dobj
+6	of	of	IN	_	5	prep
+7	water	water	NN	_	6	pobj
+8	to	to	TO	_	9	aux
+9	prevent	prevent	VB	_	4	vmod
+10	running	run	VBG	_	9	xcomp
+11	a	a	DT	_	12	det
+12	fever	fever	NN	_	10	dobj
+13	from	from	IN	_	10	prep
+14	dehydration	dehydration	NN	_	13	pobj
+15	.	.	.	_	2	punct
+

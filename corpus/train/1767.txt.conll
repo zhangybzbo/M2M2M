@@ -1,0 +1,20 @@
+1	Other	other	JJ	_	3	amod
+2	ritual	ritual	NN	_	3	nn
+3	practices	practice	NNS	_	7	nsubj
+4	attributed	attribute	VBN	_	3	vmod
+5	to	to	TO	_	4	prep
+6	berserks	berserk	NNS	_	5	pobj
+7	represent	represent	VBP	_	0	ROOT
+8	the	the	DT	_	9	det
+9	initiation	initiation	NN	_	7	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	young	young	JJ	_	13	amod
+13	warrior	warrior	NN	_	10	pobj
+14	into	into	IN	_	9	prep
+15	a	a	DT	_	16	det
+16	band	band	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	berserkers	berserker	NNS	_	17	pobj
+19	.	.	.	_	7	punct
+

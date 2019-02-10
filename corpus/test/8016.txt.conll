@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	male	male	JJ	_	3	nsubj
+3	took	take	VBD	_	0	ROOT
+4	over	over	RP	_	3	prt
+5	the	the	DT	_	7	det
+6	entire	entire	JJ	_	7	amod
+7	care	care	NN	_	3	dobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	young	young	JJ	_	8	pobj
+11	that	that	DT	_	13	nsubj
+12	had	have	VBD	_	13	aux
+13	left	leave	VBN	_	10	rcmod
+14	the	the	DT	_	15	det
+15	nest	nest	NN	_	13	dobj
+16	.	.	.	_	3	punct
+

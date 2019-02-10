@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	crash	crash	NN	_	3	nsubj
+3	caused	cause	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	gash	gash	NN	_	3	dobj
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	west	west	JJ	_	9	amod
+9	side	side	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	Pentagon	Pentagon	NNP	_	10	pobj
+13	measuring	measure	VBG	_	9	vmod
+14	30	30	CD	_	15	num
+15	yards	yard	NNS	_	13	dobj
+16	wide	wide	JJ	_	15	amod
+17	and	and	CC	_	16	cc
+18	10	10	CD	_	19	num
+19	yards	yard	NNS	_	16	conj
+20	deep	deep	RB	_	16	advmod
+21	.	.	.	_	3	punct
+

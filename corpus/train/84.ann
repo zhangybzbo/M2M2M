@@ -1,0 +1,3 @@
+T1	Term 18 26	ensemble
+T2	Term 30 36	ladies
+R1	Member-Collection Arg1:T2 Arg2:T1

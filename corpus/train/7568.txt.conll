@@ -1,0 +1,10 @@
+1	Craig	Craig	NNP	_	2	nsubj
+2	expressed	express	VBD	_	0	ROOT
+3	his	he	PRP$	_	4	poss
+4	frustration	frustration	NN	_	2	dobj
+5	after	after	IN	_	2	prep
+6	Monday	Monday	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	meeting	meeting	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

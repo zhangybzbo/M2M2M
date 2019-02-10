@@ -1,0 +1,20 @@
+1	Profit	profit	NN	_	2	nn
+2	centres	centre	NNS	_	4	nsubj
+3	are	be	VBP	_	4	cop
+4	points	point	NNS	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	structure	structure	NN	_	5	pobj
+8	where	where	WRB	_	11	advmod
+9	the	the	DT	_	10	det
+10	manager	manager	NN	_	11	nsubj
+11	uses	use	VBZ	_	7	rcmod
+12	resources	resource	NNS	_	11	dobj
+13	in	in	IN	_	16	mark
+14	order	order	NN	_	16	dep
+15	to	to	TO	_	16	aux
+16	achieve	achieve	VB	_	11	advcl
+17	profitability	profitability	NN	_	18	nn
+18	targets	target	NNS	_	16	dobj
+19	.	.	.	_	4	punct
+

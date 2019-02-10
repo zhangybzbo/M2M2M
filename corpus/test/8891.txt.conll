@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	two-year-old	two-year-old	JJ	_	4	poss
+3	's	's	POS	_	2	possessive
+4	body	body	NN	_	5	nsubj
+5	was	be	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	suitcase	suitcase	NN	_	6	pobj
+9	found	find	VBD	_	5	ccomp
+10	floating	float	VBG	_	9	xcomp
+11	in	in	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	pond	pond	NN	_	11	pobj
+14	by	by	IN	_	13	prep
+15	local	local	JJ	_	16	amod
+16	children	child	NNS	_	14	pobj
+17	.	.	.	_	5	punct
+

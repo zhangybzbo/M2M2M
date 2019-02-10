@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det
+2	largest	largest	JJS	_	3	amod
+3	landslide	landslide	NN	_	9	nsubj
+4	triggered	trigger	VBN	_	3	vmod
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	earthquake	earthquake	NN	_	5	pobj
+8	is	be	VBZ	_	9	cop
+9	located	located	JJ	_	0	ROOT
+10	approximately	approximately	RB	_	11	quantmod
+11	32	32	CD	_	12	num
+12	kilometers	kilometer	NNS	_	9	npadvmod
+13	southeast	southeast	NN	_	12	dep
+14	of	of	IN	_	13	prep
+15	Muzafarrabad	Muzafarrabad	NNP	_	14	pobj
+16	in	in	IN	_	12	prep
+17	a	a	DT	_	19	det
+18	tributary	tributary	JJ	_	19	amod
+19	valley	valley	NN	_	16	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	23	det
+22	Jhelum	Jhelum	NNP	_	23	nn
+23	River	River	NNP	_	20	pobj
+24	.	.	.	_	9	punct
+

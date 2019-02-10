@@ -1,0 +1,22 @@
+1	The	the	DT	_	4	det
+2	Federal	Federal	NNP	_	4	nn
+3	Aviation	Aviation	NNP	_	4	nn
+4	Administration	Administration	NNP	_	6	nsubj
+5	is	be	VBZ	_	6	aux
+6	investigating	investigate	VBG	_	0	ROOT
+7	the	the	DT	_	10	det
+8	two	two	CD	_	10	num
+9	latest	latest	JJS	_	10	amod
+10	cases	case	NNS	_	6	dobj
+11	under	under	IN	_	6	prep
+12	the	the	DT	_	13	det
+13	theory	theory	NN	_	11	pobj
+14	that	that	IN	_	17	mark
+15	the	the	DT	_	16	det
+16	ice	ice	NN	_	17	nsubj
+17	fell	fall	VBD	_	13	ccomp
+18	from	from	IN	_	17	prep
+19	an	a	DT	_	20	det
+20	aircraft	aircraft	NN	_	18	pobj
+21	.	.	.	_	6	punct
+

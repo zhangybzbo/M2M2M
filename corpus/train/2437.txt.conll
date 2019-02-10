@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	achievements	achievement	NNS	_	9	nsubj
+3	of	of	IN	_	2	prep
+4	Michael	Michael	NNP	_	5	nn
+5	Phelps	Phelps	NNP	_	3	pobj
+6	in	in	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	pool	pool	NN	_	6	pobj
+9	proved	prove	VBD	_	0	ROOT
+10	to	to	TO	_	15	aux
+11	be	be	VB	_	15	cop
+12	a	a	DT	_	15	det
+13	major	major	JJ	_	15	amod
+14	talking	talking	NN	_	15	nn
+15	point	point	NN	_	9	xcomp
+16	for	for	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	riders	rider	NNS	_	16	pobj
+19	.	.	.	_	9	punct
+

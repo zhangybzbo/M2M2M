@@ -1,0 +1,3 @@
+T1	Term 17 22	sound
+T2	Term 43 56	announcements
+R1	Entity-Destination Arg1:T1 Arg2:T2

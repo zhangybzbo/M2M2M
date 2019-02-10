@@ -1,0 +1,24 @@
+1	My	my	PRP$	_	3	poss
+2	little	little	JJ	_	3	amod
+3	brother	brother	NN	_	5	poss
+4	's	's	POS	_	3	possessive
+5	tooth	tooth	NN	_	6	nsubj
+6	was	be	VBD	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	cup	cup	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	water	water	NN	_	10	pobj
+12	the	the	DT	_	14	det
+13	other	other	JJ	_	14	amod
+14	day	day	NN	_	6	tmod
+15	and	and	CC	_	14	cc
+16	I	I	PRP	_	18	nsubj
+17	nearly	nearly	RB	_	18	advmod
+18	fainted	faint	VBD	_	14	conj
+19	when	when	WRB	_	21	advmod
+20	I	I	PRP	_	21	nsubj
+21	saw	see	VBD	_	18	advcl
+22	it	it	PRP	_	21	dobj
+23	.	.	.	_	6	punct
+

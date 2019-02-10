@@ -1,0 +1,15 @@
+1	They	they	PRP	_	2	nsubj
+2	came	come	VBD	_	0	ROOT
+3	flocking	flock	VBG	_	2	xcomp
+4	and	and	CC	_	3	cc
+5	honking	honk	VBG	_	3	conj
+6	into	into	IN	_	3	prep
+7	England	England	NNP	_	6	pobj
+8	like	like	IN	_	3	prep
+9	a	a	DT	_	10	det
+10	sord	sord	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	hungry	hungry	JJ	_	13	amod
+13	mallards	mallard	NNS	_	11	pobj
+14	.	.	.	_	2	punct
+

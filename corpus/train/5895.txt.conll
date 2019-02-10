@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	foreign	foreign	JJ	_	3	amod
+3	company	company	NN	_	5	nsubj
+4	has	have	VBZ	_	5	aux
+5	entered	enter	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	insurance	insurance	NN	_	9	nn
+9	market	market	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	China	China	NNP	_	10	pobj
+12	.	.	.	_	5	punct
+

@@ -1,0 +1,20 @@
+1	And	and	CC	_	11	cc
+2	the	the	DT	_	3	det
+3	chorus	chorus	NN	_	11	nsubj
+4	of	of	IN	_	3	prep
+5	teenage	teenage	JJ	_	6	amod
+6	boys	boy	NNS	_	4	pobj
+7	and	and	CC	_	6	cc
+8	girls	girl	NNS	_	6	conj
+9	were	be	VBD	_	11	cop
+10	a	a	DT	_	11	det
+11	pleasure	pleasure	NN	_	0	ROOT
+12	to	to	TO	_	13	aux
+13	watch	watch	VB	_	11	vmod
+14	as	as	IN	_	16	mark
+15	they	they	PRP	_	16	nsubj
+16	sang	sing	VBD	_	13	advcl
+17	and	and	CC	_	16	cc
+18	danced	dance	VBD	_	16	conj
+19	.	.	.	_	11	punct
+

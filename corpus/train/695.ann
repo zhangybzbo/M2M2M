@@ -1,0 +1,3 @@
+T1	Term 20 25	rules
+T2	Term 36 45	transfers
+R1	Message-Topic Arg1:T1 Arg2:T2

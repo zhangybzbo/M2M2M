@@ -1,0 +1,14 @@
+1	He	he	PRP	_	2	nsubj
+2	put	put	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	rebound	rebound	NN	_	2	dobj
+5	into	into	IN	_	2	prep
+6	an	a	DT	_	8	det
+7	open	open	JJ	_	8	amod
+8	net	net	NN	_	5	pobj
+9	for	for	IN	_	2	prep
+10	his	he	PRP$	_	12	poss
+11	eighth	eighth	JJ	_	12	amod
+12	goal	goal	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

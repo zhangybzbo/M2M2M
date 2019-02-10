@@ -1,0 +1,17 @@
+1	Historical	historical	JJ	_	2	amod
+2	view	view	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	damage	damage	NN	_	3	pobj
+6	caused	cause	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	11	det
+9	1693	1693	CD	_	11	num
+10	Catania	Catania	NNP	_	11	nn
+11	earthquake	earthquake	NN	_	7	pobj
+12	and	and	CC	_	11	cc
+13	the	the	DT	_	15	det
+14	reconstruction	reconstruction	NN	_	15	nn
+15	activities	activity	NNS	_	11	conj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det
+2	word	word	NN	_	4	nn
+3	`	`	``	_	4	punct
+4	Donjon	Donjon	NNP	_	7	nsubjpass
+5	'	'	''	_	4	punct
+6	was	be	VBD	_	7	auxpass
+7	derived	derive	VBN	_	0	ROOT
+8	from	from	IN	_	7	prep
+9	a	a	DT	_	12	det
+10	Latin	latin	JJ	_	12	amod
+11	word	word	NN	_	12	nn
+12	meaning	meaning	NN	_	8	pobj
+13	`	`	``	_	12	punct
+14	Dominating	dominate	VBG	_	15	amod
+15	Point	point	NN	_	12	dep
+16	'	'	''	_	15	punct
+17	.	.	.	_	7	punct
+

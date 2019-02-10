@@ -1,0 +1,11 @@
+1	Time	Time	NNP	_	2	nn
+2	travel	travel	NN	_	6	nsubj
+3	is	be	VBZ	_	6	cop
+4	a	a	DT	_	6	det
+5	common	common	JJ	_	6	amod
+6	theme	theme	NN	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	science	science	NN	_	9	nn
+9	fiction	fiction	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

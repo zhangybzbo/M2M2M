@@ -1,0 +1,13 @@
+1	We	we	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	mixed	mixed	JJ	_	5	amod
+5	seasoning	seasoning	NN	_	2	dobj
+6	into	into	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	sauce	sauce	NN	_	6	pobj
+9	on	on	IN	_	2	prep
+10	the	the	DT	_	11	det
+11	stove	stove	NN	_	9	pobj
+12	.	.	.	_	2	punct
+

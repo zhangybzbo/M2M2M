@@ -1,0 +1,16 @@
+1	Most	most	JJS	_	3	amod
+2	recent	recent	JJ	_	3	amod
+3	books	book	NNS	_	10	nsubj
+4	on	on	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	topic	topic	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	traditional	traditional	JJ	_	9	amod
+9	knitting	knitting	JJ	_	7	pobj
+10	contain	contain	VBP	_	0	ROOT
+11	information	information	NN	_	10	dobj
+12	on	on	IN	_	11	prep
+13	Sanquhar	sanquhar	JJ	_	14	amod
+14	knitting	knitting	NN	_	12	pobj
+15	.	.	.	_	10	punct
+

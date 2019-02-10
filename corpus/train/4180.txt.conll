@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	celebrity	celebrity	NN	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	crash	crash	VB	_	3	xcomp
+6	the	the	DT	_	7	det
+7	party	party	NN	_	5	dobj
+8	.	.	.	_	3	punct
+

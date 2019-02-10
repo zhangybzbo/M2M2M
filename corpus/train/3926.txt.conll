@@ -1,0 +1,16 @@
+1	A	a	DT	_	2	det
+2	router	router	NN	_	3	nsubj
+3	manipulates	manipulate	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	packet	packet	NN	_	8	poss
+6	's	's	POS	_	5	possessive
+7	header	header	NN	_	8	nn
+8	information	information	NN	_	3	dobj
+9	to	to	TO	_	10	aux
+10	influence	influence	VB	_	3	xcomp
+11	the	the	DT	_	12	det
+12	packet	packet	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	direction	direction	NN	_	10	dobj
+15	.	.	.	_	3	punct
+

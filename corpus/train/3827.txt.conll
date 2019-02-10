@@ -1,0 +1,25 @@
+1	My	my	PRP$	_	2	poss
+2	concern	concern	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	that	that	IN	_	20	mark
+5	the	the	DT	_	6	det
+6	skin	skin	NN	_	20	nsubjpass
+7	around	around	IN	_	6	prep
+8	my	my	PRP$	_	9	poss
+9	eyes	eye	NNS	_	7	pobj
+10	extending	extend	VBG	_	6	vmod
+11	to	to	TO	_	10	prep
+12	my	my	PRP$	_	14	poss
+13	cheek	cheek	NN	_	14	nn
+14	bone	bone	NN	_	11	pobj
+15	and	and	CC	_	6	cc
+16	on	on	IN	_	6	conj
+17	the	the	DT	_	18	det
+18	lids	lid	NNS	_	16	pobj
+19	are	be	VBP	_	20	auxpass
+20	wrinkled	wrinkle	VBN	_	3	ccomp
+21	-	-	:	_	20	punct
+22	profoundly	profoundly	RB	_	23	advmod
+23	so	so	RB	_	20	dep
+24	.	.	.	_	3	punct
+

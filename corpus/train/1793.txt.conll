@@ -1,0 +1,22 @@
+1	In	in	IN	_	10	prep
+2	these	these	DT	_	5	det
+3	last	last	JJ	_	5	amod
+4	three	three	CD	_	5	num
+5	paragraphs	paragraph	NNS	_	1	pobj
+6	,	,	,	_	10	punct
+7	then	then	RB	_	10	advmod
+8	,	,	,	_	10	punct
+9	Wordsworth	Wordsworth	NNP	_	10	nsubj
+10	began	begin	VBD	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	first	first	RB	_	11	pobj
+13	of	of	IN	_	12	prep
+14	all	all	DT	_	13	pobj
+15	considering	consider	VBG	_	14	vmod
+16	his	he	PRP$	_	17	poss
+17	omissions	omission	NNS	_	15	dobj
+18	from	from	IN	_	17	prep
+19	previous	previous	JJ	_	20	amod
+20	books	book	NNS	_	18	pobj
+21	.	.	.	_	10	punct
+

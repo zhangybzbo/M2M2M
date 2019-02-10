@@ -1,0 +1,16 @@
+1	As	as	IN	_	0	ROOT
+2	many	many	JJ	_	3	advmod
+3	as	as	IN	_	9	mark
+4	18	18	CD	_	5	num
+5	products	product	NNS	_	9	nsubj
+6	in	in	IN	_	5	prep
+7	your	you	PRP$	_	8	poss
+8	home	home	NN	_	6	pobj
+9	come	come	VBN	_	1	pcomp
+10	from	from	IN	_	9	prep
+11	this	this	DT	_	12	det
+12	guy	guy	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	company	company	NN	_	10	pobj
+15	.	.	.	_	1	punct
+

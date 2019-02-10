@@ -1,0 +1,27 @@
+1	As	as	IN	_	3	mark
+2	it	it	PRP	_	3	nsubj
+3	did	do	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	2004	2004	CD	_	4	pobj
+6	,	,	,	_	8	punct
+7	the	the	DT	_	8	det
+8	event	event	NN	_	3	parataxis
+9	combined	combine	VBN	_	8	vmod
+10	the	the	DT	_	14	det
+11	annual	annual	JJ	_	14	amod
+12	neural	neural	JJ	_	14	amod
+13	prosthesis	prosthesis	NN	_	14	nn
+14	workshop	workshop	NN	_	9	dobj
+15	-	-	:	_	14	punct
+16	now	now	RB	_	14	advmod
+17	in	in	IN	_	14	prep
+18	its	its	PRP$	_	20	poss
+19	36th	36th	JJ	_	20	amod
+20	year	year	NN	_	17	pobj
+21	-	-	:	_	14	punct
+22	and	and	CC	_	14	cc
+23	the	the	DT	_	25	det
+24	DBS	DBS	NNP	_	25	nn
+25	consortium	consortium	NN	_	14	conj
+26	.	.	.	_	8	punct
+

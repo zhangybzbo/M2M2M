@@ -1,0 +1,15 @@
+1	After	after	IN	_	11	prep
+2	facing	face	VBG	_	1	pcomp
+3	the	the	DT	_	4	det
+4	hopelessness	hopelessness	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	future	future	NN	_	5	pobj
+8	,	,	,	_	11	punct
+9	the	the	DT	_	10	det
+10	poet	poet	NN	_	11	nsubj
+11	sank	sink	VBD	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	despair	despair	NN	_	12	pobj
+14	.	.	.	_	11	punct
+

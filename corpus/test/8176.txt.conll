@@ -1,0 +1,15 @@
+1	When	when	WRB	_	3	advmod
+2	viewers	viewer	NNS	_	3	nsubj
+3	ignore	ignore	VBP	_	11	advcl
+4	negative	negative	JJ	_	5	amod
+5	posts	post	NNS	_	3	dobj
+6	,	,	,	_	11	punct
+7	the	the	DT	_	9	det
+8	offending	offend	VBG	_	9	amod
+9	writer	writer	NN	_	11	nsubj
+10	often	often	RB	_	11	advmod
+11	leaves	leave	VBZ	_	0	ROOT
+12	the	the	DT	_	13	det
+13	site	site	NN	_	11	dobj
+14	.	.	.	_	11	punct
+

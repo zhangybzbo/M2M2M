@@ -1,0 +1,11 @@
+1	Researchers	Researchers	NNP	_	2	nsubj
+2	formed	form	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	mold	mold	NN	_	2	dobj
+5	using	use	VBG	_	2	xcomp
+6	a	a	DT	_	9	det
+7	silicon	silicon	NN	_	9	nn
+8	coating	coating	NN	_	9	nn
+9	process	process	NN	_	5	dobj
+10	.	.	.	_	2	punct
+

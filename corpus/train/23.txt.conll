@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	singer	singer	NN	_	13	nsubj
+3	,	,	,	_	2	punct
+4	who	who	WP	_	5	nsubj
+5	performed	perform	VBD	_	2	rcmod
+6	three	three	CD	_	5	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	nominated	nominate	VBN	_	10	amod
+10	songs	song	NNS	_	7	pobj
+11	,	,	,	_	2	punct
+12	also	also	RB	_	13	advmod
+13	caused	cause	VBD	_	0	ROOT
+14	a	a	DT	_	15	det
+15	commotion	commotion	NN	_	13	dobj
+16	on	on	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	red	red	JJ	_	19	amod
+19	carpet	carpet	NN	_	16	pobj
+20	.	.	.	_	13	punct
+

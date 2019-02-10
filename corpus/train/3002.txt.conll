@@ -1,0 +1,12 @@
+1	First	first	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	we	we	PRP	_	4	nsubj
+4	fetched	fetch	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	cursor	cursor	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	10	det
+9	target	target	NN	_	10	nn
+10	variables	variable	NNS	_	7	pobj
+11	.	.	.	_	4	punct
+

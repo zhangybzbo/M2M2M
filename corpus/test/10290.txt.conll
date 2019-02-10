@@ -1,0 +1,25 @@
+1	After	after	IN	_	4	prep
+2	that	that	DT	_	1	pobj
+3	I	I	PRP	_	4	nsubj
+4	mentioned	mention	VBD	_	0	ROOT
+5	that	that	IN	_	8	mark
+6	the	the	DT	_	7	det
+7	reagent	reagent	NN	_	8	nsubj
+8	was	be	VBD	_	4	ccomp
+9	in	in	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	bottle	bottle	NN	_	9	pobj
+12	packed	pack	VBN	_	11	vmod
+13	with	with	IN	_	12	prep
+14	vermiculite	vermiculite	NN	_	13	pobj
+15	as	as	IN	_	12	prep
+16	a	a	DT	_	17	det
+17	filler	filler	NN	_	15	pobj
+18	between	between	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	carton	carton	NN	_	18	pobj
+21	&	&	CC	_	20	cc
+22	the	the	DT	_	23	det
+23	bottle	bottle	NN	_	20	conj
+24	.	.	.	_	4	punct
+

@@ -1,0 +1,3 @@
+T1	Term 17 26	statement
+T2	Term 41 50	president
+R1	Product-Producer Arg1:T1 Arg2:T2

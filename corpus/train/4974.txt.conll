@@ -1,0 +1,9 @@
+1	Recently	recently	RB	_	0	ROOT
+2	,	,	,	_	4	punct
+3	marketing	marketing	NN	_	4	nn
+4	spending	spending	NN	_	1	dep
+5	translated	translate	VBN	_	4	vmod
+6	into	into	IN	_	5	prep
+7	revenue	revenue	NN	_	6	pobj
+8	.	.	.	_	4	punct
+

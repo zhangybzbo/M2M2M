@@ -1,0 +1,8 @@
+1	Billions	billion	NNS	_	2	nsubj
+2	flow	flow	VBP	_	0	ROOT
+3	into	into	IN	_	2	prep
+4	unit	unit	NN	_	6	nn
+5	trust-linked	trust-linked	JJ	_	6	amod
+6	products	product	NNS	_	3	pobj
+7	.	.	.	_	2	punct
+

@@ -1,0 +1,11 @@
+0	46	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	15	tok id="t1" base="perpetrator" pos="NN" nsubj="t2"
+16	22	tok id="t2" base="kill" pos="VBD" ROOT="ROOT"
+23	26	tok id="t3" base="the" pos="DT" det="t4"
+27	33	tok id="t4" base="victim" pos="NN" dobj="t2"
+34	38	tok id="t5" base="with" pos="IN" prep="t2"
+39	40	tok id="t6" base="a" pos="DT" det="t7"
+41	44	tok id="t7" base="gun" pos="NN" pobj="t5"
+45	46	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

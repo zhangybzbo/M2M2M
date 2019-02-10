@@ -1,0 +1,25 @@
+1	Rodrigues	Rodrigues	NNP	_	12	nsubjpass
+2	,	,	,	_	1	punct
+3	who	who	WP	_	7	nsubj
+4	is	be	VBZ	_	7	cop
+5	also	also	RB	_	7	advmod
+6	the	the	DT	_	7	det
+7	governor	governor	NN	_	1	rcmod
+8	of	of	IN	_	7	prep
+9	Punjab	Punjab	NNP	_	8	pobj
+10	has	have	VBZ	_	12	aux
+11	been	be	VBN	_	12	auxpass
+12	accused	accuse	VBN	_	0	ROOT
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	congress	congress	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	various	various	JJ	_	19	amod
+18	murky	murky	JJ	_	19	amod
+19	deals	deal	NNS	_	16	pobj
+20	worth	worth	JJ	_	19	amod
+21	billions	billion	NNS	_	20	dep
+22	of	of	IN	_	21	prep
+23	rupees	rupee	NNS	_	22	pobj
+24	.	.	.	_	12	punct
+

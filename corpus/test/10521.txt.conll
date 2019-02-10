@@ -1,0 +1,25 @@
+1	Eco-Friendly	eco-friendly	JJ	_	2	amod
+2	tomatoes	tomato	NNS	_	9	nsubjpass
+3	grown	grow	VBN	_	2	vmod
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	portable	portable	JJ	_	7	amod
+7	pail	pail	NN	_	4	pobj
+8	are	be	VBP	_	9	auxpass
+9	moved	move	VBN	_	0	ROOT
+10	inside	inside	RB	_	9	advmod
+11	and	and	CC	_	9	cc
+12	continue	continue	VB	_	9	conj
+13	to	to	TO	_	14	aux
+14	produce	produce	VB	_	12	xcomp
+15	delicious	delicious	JJ	_	16	amod
+16	tomatoes	tomato	NNS	_	14	dobj
+17	even	even	RB	_	23	advmod
+18	when	when	WRB	_	23	advmod
+19	summer	summer	NN	_	23	nsubj
+20	is	be	VBZ	_	23	cop
+21	just	just	RB	_	23	advmod
+22	a	a	DT	_	23	det
+23	hearth-side	hearth-side	NN	_	14	advcl
+24	.	.	.	_	9	punct
+

@@ -1,0 +1,20 @@
+1	Peanut	peanut	NN	_	2	nn
+2	Blossoms	blossom	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	putting	put	VBG	_	5	pcomp
+7	a	a	DT	_	9	det
+8	chocolate	chocolate	NN	_	9	nn
+9	kiss	kiss	NN	_	6	dobj
+10	into	into	IN	_	6	prep
+11	a	a	DT	_	14	det
+12	peanut	peanut	NN	_	14	nn
+13	butter	butter	NN	_	14	nn
+14	cookie	cookie	NN	_	10	pobj
+15	just	just	RB	_	16	advmod
+16	from	from	IN	_	6	prep
+17	the	the	DT	_	18	det
+18	oven	oven	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

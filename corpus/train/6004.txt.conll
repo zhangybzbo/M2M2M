@@ -1,0 +1,20 @@
+1	Traditionally	traditionally	RB	_	10	advmod
+2	the	the	DT	_	4	det
+3	national	national	JJ	_	4	amod
+4	dish	dish	NN	_	10	nsubj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	island	island	NN	_	5	pobj
+8	is	be	VBZ	_	10	cop
+9	`	`	``	_	10	punct
+10	Spuds	spud	NNS	_	0	ROOT
+11	and	and	CC	_	10	cc
+12	Herrin	herrin	NN	_	10	conj
+13	'	'	''	_	12	punct
+14	,	,	,	_	10	punct
+15	boiled	boil	VBN	_	16	amod
+16	potatoes	potato	NNS	_	10	conj
+17	and	and	CC	_	10	cc
+18	herring	herr	VBG	_	10	conj
+19	.	.	.	_	10	punct
+

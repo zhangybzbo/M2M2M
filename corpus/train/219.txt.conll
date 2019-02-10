@@ -1,0 +1,18 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	monthly	monthly	JJ	_	5	amod
+5	report	report	NN	_	0	ROOT
+6	providing	provide	VBG	_	5	vmod
+7	opinion	opinion	NN	_	6	dobj
+8	and	and	CC	_	7	cc
+9	advice	advice	NN	_	7	conj
+10	on	on	IN	_	7	prep
+11	current	current	JJ	_	16	amod
+12	United	United	NNP	_	16	nn
+13	States	States	NNPS	_	16	nn
+14	government	government	NN	_	16	nn
+15	contract	contract	NN	_	16	nn
+16	issues	issue	NNS	_	10	pobj
+17	.	.	.	_	5	punct
+

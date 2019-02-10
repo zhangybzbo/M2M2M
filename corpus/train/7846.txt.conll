@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	said	say	VBD	_	0	ROOT
+3	whistle	whistle	VBP	_	2	dep
+4	produced	produce	VBN	_	3	dep
+5	the	the	DT	_	8	det
+6	2600	2600	CD	_	8	num
+7	Hz	Hz	NNP	_	8	nn
+8	tone	tone	NN	_	4	dobj
+9	necessary	necessary	JJ	_	8	amod
+10	to	to	TO	_	11	aux
+11	authorize	authorize	VB	_	9	xcomp
+12	calls	call	NNS	_	11	dobj
+13	.	.	.	_	2	punct
+

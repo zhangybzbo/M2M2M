@@ -1,0 +1,23 @@
+1	It	it	PRP	_	6	nsubj
+2	was	be	VBD	_	6	cop
+3	a	a	DT	_	6	det
+4	whole	whole	JJ	_	6	amod
+5	flying	fly	VBG	_	6	amod
+6	wedge	wedge	NN	_	0	ROOT
+7	of	of	IN	_	6	prep
+8	white	white	JJ	_	9	amod
+9	swans	swan	NNS	_	7	pobj
+10	flying	fly	VBG	_	9	vmod
+11	over	over	IN	_	10	prep
+12	Wall	Wall	NNP	_	13	nn
+13	Street	Street	NNP	_	11	pobj
+14	marking	mark	VBG	_	10	xcomp
+15	the	the	DT	_	16	det
+16	market	market	NN	_	14	dobj
+17	in	in	IN	_	16	prep
+18	their	they	PRP$	_	21	poss
+19	own	own	JJ	_	21	amod
+20	charming	charming	JJ	_	21	amod
+21	way	way	NN	_	17	pobj
+22	.	.	.	_	6	punct
+

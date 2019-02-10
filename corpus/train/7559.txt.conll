@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	students	student	NNS	_	3	nsubj
+3	designed	design	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	home	home	NN	_	8	poss
+6	's	's	POS	_	5	possessive
+7	living	living	NN	_	8	nn
+8	areas	area	NNS	_	3	dobj
+9	with	with	IN	_	8	prep
+10	an	a	DT	_	11	det
+11	eye	eye	NN	_	9	pobj
+12	toward	toward	IN	_	3	prep
+13	making	make	VBG	_	12	pcomp
+14	a	a	DT	_	16	det
+15	small	small	JJ	_	16	amod
+16	house	house	NN	_	13	dobj
+17	feel	feel	VBP	_	3	dep
+18	spacious	spacious	JJ	_	17	acomp
+19	.	.	.	_	3	punct
+

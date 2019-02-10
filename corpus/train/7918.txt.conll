@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det
+2	residents	resident	NNS	_	5	nsubj
+3	and	and	CC	_	2	cc
+4	scientists	scientist	NNS	_	2	conj
+5	learned	learn	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	Krakatau	Krakatau	NNP	_	9	nn
+9	explosion	explosion	NN	_	6	pobj
+10	.	.	.	_	5	punct
+

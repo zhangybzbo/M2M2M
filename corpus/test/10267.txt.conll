@@ -1,0 +1,13 @@
+1	A	a	DT	_	3	det
+2	vehicle	vehicle	NN	_	3	nn
+3	accident	accident	NN	_	8	nsubj
+4	with	with	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	utility	utility	NN	_	7	nn
+7	pole	pole	NN	_	4	pobj
+8	cause	cause	VBP	_	0	ROOT
+9	a	a	DT	_	11	det
+10	power	power	NN	_	11	nn
+11	outage	outage	NN	_	8	dobj
+12	.	.	.	_	8	punct
+

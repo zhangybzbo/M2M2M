@@ -1,0 +1,26 @@
+1	In	in	IN	_	9	prep
+2	the	the	DT	_	3	det
+3	years	year	NNS	_	1	pobj
+4	following	follow	VBG	_	3	vmod
+5	,	,	,	_	9	punct
+6	Detroit	Detroit	NNP	_	8	poss
+7	's	's	POS	_	6	possessive
+8	population	population	NN	_	9	nsubj
+9	fell	fall	VBD	_	0	ROOT
+10	from	from	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	peak	peak	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	roughly	roughly	RB	_	16	quantmod
+15	1.8	1.8	CD	_	16	number
+16	million	million	CD	_	13	pobj
+17	in	in	IN	_	9	prep
+18	1950	1950	CD	_	17	pobj
+19	to	to	TO	_	9	prep
+20	about	about	IN	_	21	quantmod
+21	half	half	NN	_	19	pobj
+22	that	that	WDT	_	23	det
+23	number	number	NN	_	21	dep
+24	today	today	NN	_	23	tmod
+25	.	.	.	_	9	punct
+

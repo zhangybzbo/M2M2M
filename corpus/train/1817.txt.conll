@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	Bush	Bush	NNP	_	3	nn
+3	administration	administration	NN	_	4	nsubj
+4	hid	hide	VBD	_	0	ROOT
+5	the	the	DT	_	8	det
+6	true	true	JJ	_	8	amod
+7	fiscal	fiscal	JJ	_	8	amod
+8	picture	picture	NN	_	4	dobj
+9	with	with	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	plethora	plethora	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	accounting	accounting	NN	_	14	nn
+14	gimmicks	gimmick	NNS	_	12	pobj
+15	.	.	.	_	4	punct
+

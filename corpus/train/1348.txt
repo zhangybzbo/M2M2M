@@ -1,0 +1,1 @@
+The feed wire connecting the two blades of the antenna has a length of 4 mm and a radius of 0.01 mm .

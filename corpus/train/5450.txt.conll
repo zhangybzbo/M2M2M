@@ -1,0 +1,9 @@
+1	These	these	DT	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	documents	document	NNS	_	0	ROOT
+4	to	to	TO	_	5	aux
+5	do	do	VB	_	3	vmod
+6	with	with	IN	_	5	prep
+7	finance	finance	NN	_	6	pobj
+8	.	.	.	_	3	punct
+

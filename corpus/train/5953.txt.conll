@@ -1,0 +1,26 @@
+1	Here	here	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	the	the	DT	_	4	det
+4	coast	coast	NN	_	5	nsubj
+5	comprises	comprise	VBZ	_	0	ROOT
+6	coastal	coastal	JJ	_	7	amod
+7	lowlands	lowland	NNS	_	5	dobj
+8	that	that	WDT	_	9	nsubj
+9	receive	receive	VBP	_	7	rcmod
+10	the	the	DT	_	13	det
+11	many	many	JJ	_	13	amod
+12	small	small	JJ	_	13	amod
+13	rivers	river	NNS	_	9	dobj
+14	flowing	flow	VBG	_	13	vmod
+15	from	from	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	lake-studded	lake-studded	JJ	_	18	amod
+18	plains	plain	NNS	_	15	pobj
+19	of	of	IN	_	18	prep
+20	the	the	DT	_	21	det
+21	island	island	NN	_	24	poss
+22	's	's	POS	_	21	possessive
+23	western	western	JJ	_	24	amod
+24	half	half	NN	_	19	pobj
+25	.	.	.	_	5	punct
+

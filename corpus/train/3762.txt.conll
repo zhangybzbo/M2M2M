@@ -1,0 +1,27 @@
+1	In	in	IN	_	14	prep
+2	the	the	DT	_	3	det
+3	run-up	run-up	NN	_	1	pobj
+4	to	to	TO	_	3	prep
+5	this	this	DT	_	6	det
+6	match	match	NN	_	4	pobj
+7	,	,	,	_	14	punct
+8	a	a	DT	_	10	det
+9	new	new	JJ	_	10	amod
+10	war	war	NN	_	14	nsubj
+11	of	of	IN	_	10	prep
+12	words	word	NNS	_	11	pobj
+13	has	have	VBZ	_	14	aux
+14	erupted	erupt	VBN	_	0	ROOT
+15	on	on	IN	_	14	prep
+16	the	the	DT	_	17	det
+17	internet	internet	NN	_	15	pobj
+18	in	in	IN	_	14	prep
+19	yet	yet	RB	_	21	advmod
+20	another	another	DT	_	21	det
+21	twist	twist	NN	_	18	pobj
+22	to	to	TO	_	14	prep
+23	the	the	DT	_	25	det
+24	long-simmering	long-simmering	JJ	_	25	amod
+25	saga	saga	NN	_	22	pobj
+26	.	.	.	_	14	punct
+

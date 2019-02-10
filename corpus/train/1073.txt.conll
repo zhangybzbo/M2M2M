@@ -1,0 +1,15 @@
+1	A	a	DT	_	3	det
+2	news	news	NN	_	3	nn
+3	release	release	NN	_	10	nsubj
+4	from	from	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	gallery	gallery	NN	_	4	pobj
+7	,	,	,	_	10	punct
+8	however	however	RB	_	10	advmod
+9	,	,	,	_	10	punct
+10	told	tell	VBD	_	0	ROOT
+11	a	a	DT	_	13	det
+12	different	different	JJ	_	13	amod
+13	story	story	NN	_	10	dobj
+14	.	.	.	_	10	punct
+

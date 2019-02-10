@@ -1,0 +1,8 @@
+1	All-terrain	all-terrain	JJ	_	3	amod
+2	vehicle	vehicle	NN	_	3	nn
+3	sales	sale	NNS	_	4	nsubj
+4	sink	sink	VBP	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	muck	muck	NN	_	5	pobj
+7	.	.	.	_	4	punct
+

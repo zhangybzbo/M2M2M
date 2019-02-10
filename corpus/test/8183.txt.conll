@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	nurse	nurse	NN	_	3	nsubj
+3	grabs	grab	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	patient	patient	NN	_	3	dobj
+6	by	by	IN	_	3	prep
+7	the	the	DT	_	8	det
+8	arm	arm	NN	_	6	pobj
+9	and	and	CC	_	3	cc
+10	escorts	escort	VBZ	_	3	conj
+11	her	she	PRP$	_	12	poss
+12	back	back	NN	_	10	dobj
+13	to	to	TO	_	12	prep
+14	her	she	PRP$	_	15	poss
+15	bed	bed	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

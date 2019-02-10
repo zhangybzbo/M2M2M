@@ -1,0 +1,10 @@
+0	35	sentence id="s0" parse_status="success"
+0	5	tok id="t0" base="Gavin" pos="NNP" nsubj="t1"
+6	11	tok id="t1" base="wear" pos="VBZ" ROOT="ROOT"
+12	13	tok id="t2" base="a" pos="DT" det="t3"
+14	18	tok id="t3" base="kilt" pos="NN" dobj="t1"
+19	22	tok id="t4" base="for" pos="IN" prep="t1"
+23	26	tok id="t5" base="the" pos="DT" det="t6"
+27	33	tok id="t6" base="outing" pos="NN" pobj="t4"
+34	35	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

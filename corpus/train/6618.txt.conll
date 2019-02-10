@@ -1,0 +1,12 @@
+1	Spamming	spam	VBG	_	5	nsubj
+2	has	have	VBZ	_	5	aux
+3	been	be	VBN	_	5	cop
+4	the	the	DT	_	5	det
+5	subject	subject	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	legislation	legislation	NN	_	6	pobj
+8	in	in	IN	_	7	prep
+9	many	many	JJ	_	10	amod
+10	jurisdictions	jurisdiction	NNS	_	8	pobj
+11	.	.	.	_	5	punct
+

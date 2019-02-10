@@ -1,0 +1,27 @@
+1	Also	also	RB	_	7	advmod
+2	,	,	,	_	7	punct
+3	very	very	RB	_	4	advmod
+4	rarely	rarely	RB	_	7	advmod
+5	,	,	,	_	7	punct
+6	hypnotherapy	hypnotherapy	NN	_	7	nsubj
+7	leads	lead	VBZ	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	the	the	DT	_	10	det
+10	development	development	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	`	`	``	_	14	punct
+13	false	false	JJ	_	14	amod
+14	memories	memory	NNS	_	11	pobj
+15	'	'	POS	_	14	possessive
+16	fabricated	fabricate	VBN	_	14	vmod
+17	by	by	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	unconscious	unconscious	JJ	_	20	amod
+20	mind	mind	NN	_	17	pobj
+21	;	;	:	_	14	punct
+22	these	these	DT	_	24	nsubjpass
+23	are	be	VBP	_	24	auxpass
+24	called	call	VBN	_	14	parataxis
+25	confabulations	confabulation	NNS	_	24	xcomp
+26	.	.	.	_	14	punct
+

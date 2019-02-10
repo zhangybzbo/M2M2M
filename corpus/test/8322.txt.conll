@@ -1,0 +1,16 @@
+1	Eichmann	Eichmann	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	troupe	troupe	NN	_	9	nsubj
+4	of	of	IN	_	3	prep
+5	talented	talented	JJ	_	7	amod
+6	young	young	JJ	_	7	amod
+7	dancers	dancer	NNS	_	4	pobj
+8	has	have	VBZ	_	9	aux
+9	presented	present	VBN	_	0	ROOT
+10	the	the	DT	_	13	det
+11	classic	classic	JJ	_	13	amod
+12	fairy	fairy	NN	_	13	nn
+13	tale	tale	NN	_	9	dobj
+14	before	before	IN	_	9	prep
+15	.	.	.	_	9	punct
+

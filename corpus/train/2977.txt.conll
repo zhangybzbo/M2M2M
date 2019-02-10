@@ -1,0 +1,23 @@
+1	Obsessed	obsess	VBN	_	0	ROOT
+2	with	with	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	music	music	NN	_	2	pobj
+5	of	of	IN	_	4	prep
+6	JS	JS	NNP	_	7	nn
+7	Bach	Bach	NNP	_	5	pobj
+8	,	,	,	_	7	punct
+9	the	the	DT	_	10	det
+10	clown	clown	NN	_	11	nsubj
+11	tends	tend	VBZ	_	7	rcmod
+12	to	to	TO	_	13	aux
+13	find	find	VB	_	11	xcomp
+14	frequent	frequent	JJ	_	15	amod
+15	analogies	analogy	NNS	_	13	dobj
+16	with	with	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	German	german	JJ	_	19	amod
+19	composer	composer	NN	_	21	poss
+20	's	's	POS	_	19	possessive
+21	music	music	NN	_	16	pobj
+22	.	.	.	_	1	punct
+

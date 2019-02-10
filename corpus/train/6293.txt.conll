@@ -1,0 +1,25 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	provided	provide	VBN	_	0	ROOT
+4	detailed	detailed	JJ	_	5	amod
+5	instructions	instruction	NNS	_	3	dobj
+6	setting	set	VBG	_	5	vmod
+7	out	out	RP	_	6	prt
+8	each	each	DT	_	9	det
+9	step	step	NN	_	6	dobj
+10	you	you	PRP	_	11	nsubj
+11	need	need	VBP	_	9	rcmod
+12	to	to	TO	_	13	aux
+13	follow	follow	VB	_	11	xcomp
+14	in	in	IN	_	17	mark
+15	order	order	NN	_	17	dep
+16	to	to	TO	_	17	aux
+17	carry	carry	VB	_	13	advcl
+18	out	out	RP	_	17	prt
+19	your	you	PRP$	_	23	poss
+20	own	own	JJ	_	23	amod
+21	DNA	dna	NN	_	23	nn
+22	sample	sample	NN	_	23	nn
+23	collection	collection	NN	_	17	dobj
+24	.	.	.	_	3	punct
+

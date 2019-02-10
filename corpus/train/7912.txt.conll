@@ -1,0 +1,15 @@
+1	Earplugs	earplug	NNS	_	2	nsubj
+2	relieve	relieve	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	discomfort	discomfort	NN	_	2	dobj
+5	from	from	IN	_	2	prep
+6	traveling	travel	VBG	_	5	pcomp
+7	with	with	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	cold	cold	JJ	_	10	amod
+10	allergy	allergy	NN	_	7	pobj
+11	or	or	CC	_	10	cc
+12	sinus	sinus	NN	_	13	nn
+13	condition	condition	NN	_	10	conj
+14	.	.	.	_	2	punct
+

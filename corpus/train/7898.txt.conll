@@ -1,0 +1,24 @@
+1	By	by	IN	_	8	prep
+2	the	the	DT	_	4	det
+3	early	early	JJ	_	4	amod
+4	'90s	'90	NNS	_	1	pobj
+5	,	,	,	_	8	punct
+6	Indian	indian	JJ	_	7	amod
+7	entrepreneurs	entrepreneur	NNS	_	8	nsubj
+8	bought	buy	VBD	_	0	ROOT
+9	a	a	DT	_	10	det
+10	majority	majority	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	properties	property	NNS	_	11	pobj
+14	and	and	CC	_	8	cc
+15	flourished	flourish	VBD	_	8	conj
+16	with	with	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	new	new	JJ	_	19	amod
+19	immigrants	immigrant	NNS	_	16	pobj
+20	from	from	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	subcontinent	subcontinent	NN	_	20	pobj
+23	.	.	.	_	8	punct
+

@@ -1,0 +1,14 @@
+1	Tobia	Tobia	NNP	_	2	nsubj
+2	made	make	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	stunning	stunning	JJ	_	5	amod
+5	revelation	revelation	NN	_	2	dobj
+6	in	in	IN	_	2	prep
+7	a	a	DT	_	9	det
+8	phone	phone	NN	_	9	nn
+9	call	call	NN	_	6	pobj
+10	in	in	IN	_	9	prep
+11	September	September	NNP	_	10	pobj
+12	2002	2002	CD	_	11	num
+13	.	.	.	_	2	punct
+

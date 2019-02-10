@@ -1,0 +1,1 @@
+Specifying a command once , consumers execute it by using input parameters .

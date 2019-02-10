@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det
+2	poor	poor	JJ	_	3	amod
+3	family	family	NN	_	4	nsubj
+4	went	go	VBD	_	0	ROOT
+5	away	away	RB	_	4	advmod
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	village	village	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

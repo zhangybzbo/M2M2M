@@ -1,0 +1,3 @@
+T1	Term 39 48	syndicate
+T2	Term 60 71	capitalists
+R1	Member-Collection Arg1:T2 Arg2:T1

@@ -1,0 +1,16 @@
+1	Researchers	researcher	NNS	_	6	nsubj
+2	at	at	IN	_	1	prep
+3	Durham	Durham	NNP	_	4	nn
+4	University	University	NNP	_	2	pobj
+5	have	have	VBP	_	6	aux
+6	turned	turn	VBN	_	0	ROOT
+7	a	a	DT	_	9	det
+8	video	video	NN	_	9	nn
+9	game	game	NN	_	6	dobj
+10	into	into	IN	_	6	prep
+11	a	a	DT	_	14	det
+12	fire	fire	NN	_	14	nn
+13	drill	drill	NN	_	14	nn
+14	simulator	simulator	NN	_	10	pobj
+15	.	.	.	_	6	punct
+

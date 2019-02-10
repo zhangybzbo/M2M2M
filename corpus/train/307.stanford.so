@@ -1,0 +1,12 @@
+0	58	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	15	tok id="t1" base="temperature" pos="NN" nsubjpass="t7"
+16	18	tok id="t2" base="at" pos="IN" prep="t1"
+19	24	tok id="t3" base="which" pos="WDT" det="t5"
+25	31	tok id="t4" base="flower" pos="NN" nn="t5"
+32	36	tok id="t5" base="bud" pos="NNS" pobj="t2"
+37	40	tok id="t6" base="be" pos="VBP" auxpass="t7"
+41	48	tok id="t7" base="injure" pos="VBN" ROOT="ROOT"
+49	56	tok id="t8" base="depend" pos="VBZ" dep="t7"
+57	58	tok id="t9" base="-PERIOD-" pos="." punct="t7"
+

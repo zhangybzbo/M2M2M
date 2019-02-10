@@ -1,0 +1,3 @@
+T1	Term 56 65	filmmaker
+T2	Term 81 87	cinema
+R1	Product-Producer Arg1:T2 Arg2:T1

@@ -1,0 +1,22 @@
+1	Overcome	overcome	VB	_	7	vmod
+2	with	with	IN	_	1	prep
+3	hunger	hunger	NN	_	2	pobj
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	fox	fox	NN	_	7	nsubj
+7	tore	tear	VBD	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	carcass	carcass	NN	_	8	pobj
+11	with	with	IN	_	7	prep
+12	a	a	DT	_	13	det
+13	fury	fury	NN	_	11	pobj
+14	,	,	,	_	7	punct
+15	sending	send	VBG	_	7	vmod
+16	feathers	feather	NNS	_	15	dobj
+17	scattering	scatter	VBG	_	16	vmod
+18	every	every	DT	_	20	det
+19	which	which	WDT	_	20	det
+20	way	way	NN	_	17	dobj
+21	.	.	.	_	7	punct
+

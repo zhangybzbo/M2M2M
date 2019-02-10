@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	design	design	NN	_	3	nsubj
+3	unveiled	unveil	VBD	_	0	ROOT
+4	yesterday	yesterday	NN	_	3	tmod
+5	by	by	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	architects	architect	NNS	_	5	pobj
+8	is	be	VBZ	_	3	dep
+9	on	on	IN	_	8	prep
+10	a	a	DT	_	13	det
+11	more	more	RBR	_	12	advmod
+12	human	human	JJ	_	13	amod
+13	scale	scale	NN	_	9	pobj
+14	than	than	IN	_	8	prep
+15	the	the	DT	_	19	det
+16	American	american	JJ	_	19	amod
+17	and	and	CC	_	16	cc
+18	Spanish	spanish	JJ	_	16	conj
+19	projects	project	NNS	_	14	pobj
+20	.	.	.	_	3	punct
+

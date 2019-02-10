@@ -1,0 +1,10 @@
+1	A	a	DT	_	2	det
+2	daughter	daughter	NN	_	3	nsubj
+3	donated	donate	VBD	_	0	ROOT
+4	her	she	PRP$	_	5	poss
+5	kidney	kidney	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	her	she	PRP$	_	8	poss
+8	father	father	NN	_	6	pobj
+9	.	.	.	_	3	punct
+

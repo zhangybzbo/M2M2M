@@ -1,0 +1,20 @@
+1	In	in	IN	_	15	prep
+2	contrast	contrast	NN	_	1	pobj
+3	,	,	,	_	15	punct
+4	the	the	DT	_	5	det
+5	rotors	rotor	NNS	_	15	nsubj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	screw	screw	NN	_	9	nn
+9	compressor	compressor	NN	_	6	pobj
+10	and	and	CC	_	5	cc
+11	quite	quite	RB	_	14	advmod
+12	a	a	DT	_	14	det
+13	few	few	JJ	_	14	amod
+14	others	other	NNS	_	5	conj
+15	rotate	rotate	VBP	_	0	ROOT
+16	in	in	IN	_	15	prep
+17	opposite	opposite	JJ	_	18	amod
+18	directions	direction	NNS	_	16	pobj
+19	.	.	.	_	15	punct
+

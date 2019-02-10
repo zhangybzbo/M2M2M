@@ -1,0 +1,11 @@
+0	48	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	12	tok id="t1" base="clinical" pos="JJ" amod="t2"
+13	21	tok id="t2" base="evidence" pos="NN" nsubj="t3"
+22	26	tok id="t3" base="come" pos="VBD" ROOT="ROOT"
+27	31	tok id="t4" base="from" pos="IN" prep="t3"
+32	33	tok id="t5" base="a" pos="DT" det="t7"
+34	40	tok id="t6" base="cohort" pos="NN" nn="t7"
+41	46	tok id="t7" base="study" pos="NN" pobj="t4"
+47	48	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

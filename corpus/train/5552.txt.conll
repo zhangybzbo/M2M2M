@@ -1,0 +1,21 @@
+1	The	the	DT	_	4	det
+2	wastewater	wastewater	NN	_	4	nn
+3	treatment	treatment	NN	_	4	nn
+4	plant	plant	NN	_	5	nsubj
+5	processes	process	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	influent	influent	NN	_	5	dobj
+8	using	use	VBG	_	5	vmod
+9	a	a	DT	_	12	det
+10	ultra-violet	ultra-violet	JJ	_	12	amod
+11	light	light	JJ	_	12	amod
+12	system	system	NN	_	8	dobj
+13	to	to	TO	_	14	aux
+14	kill	kill	VB	_	8	vmod
+15	the	the	DT	_	16	det
+16	bacteria	bacterium	NNS	_	14	dobj
+17	prior	prior	RB	_	18	advmod
+18	to	to	TO	_	14	prep
+19	outflow	outflow	NN	_	18	pobj
+20	.	.	.	_	5	punct
+

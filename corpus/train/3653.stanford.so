@@ -1,0 +1,13 @@
+0	48	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="he" pos="PRP" nsubj="t1"
+3	8	tok id="t1" base="drag" pos="VBZ" ROOT="ROOT"
+9	12	tok id="t2" base="and" pos="CC" cc="t1"
+13	18	tok id="t3" base="drop" pos="VBZ" conj="t1"
+19	22	tok id="t4" base="the" pos="DT" det="t6"
+23	27	tok id="t5" base="file" pos="NN" nn="t6"
+28	32	tok id="t6" base="icon" pos="NN" dobj="t1"
+33	37	tok id="t7" base="into" pos="IN" prep="t1"
+38	39	tok id="t8" base="a" pos="DT" det="t9"
+40	46	tok id="t9" base="folder" pos="NN" pobj="t7"
+47	48	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

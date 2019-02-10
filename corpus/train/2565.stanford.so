@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	11	tok id="t1" base="carrier" pos="NN" nn="t2"
+12	20	tok id="t2" base="polymer" pos="NNS" nsubj="t4"
+21	24	tok id="t3" base="be" pos="VBP" aux="t4"
+25	34	tok id="t4" base="migrate" pos="VBG" ROOT="ROOT"
+35	39	tok id="t5" base="into" pos="IN" prep="t4"
+40	43	tok id="t6" base="the" pos="DT" det="t8"
+44	50	tok id="t7" base="target" pos="NN" nn="t8"
+51	57	tok id="t8" base="organ" pos="NNS" pobj="t5"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

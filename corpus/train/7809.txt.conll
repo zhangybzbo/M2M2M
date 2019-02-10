@@ -1,0 +1,27 @@
+1	Some	some	DT	_	6	nsubjpass
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	land	land	NN	_	2	pobj
+5	was	be	VBD	_	6	auxpass
+6	farmed	farm	VBN	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	coffee	coffee	NN	_	7	pobj
+9	in	in	IN	_	6	prep
+10	the	the	DT	_	11	det
+11	past	past	NN	_	9	pobj
+12	,	,	,	_	6	punct
+13	but	but	CC	_	6	cc
+14	it	it	PRP	_	19	nsubj
+15	is	be	VBZ	_	19	cop
+16	now	now	RB	_	19	advmod
+17	mostly	mostly	RB	_	18	advmod
+18	native	native	JJ	_	19	amod
+19	vegetation	vegetation	NN	_	6	conj
+20	-LRB-	-lrb-	-LRB-	_	21	punct
+21	with	with	IN	_	19	prep
+22	some	some	DT	_	24	det
+23	emergent	emergent	JJ	_	24	amod
+24	trees	tree	NNS	_	21	pobj
+25	-RRB-	-rrb-	-RRB-	_	21	punct
+26	.	.	.	_	6	punct
+

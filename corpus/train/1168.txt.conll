@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det
+2	yellow	yellow	JJ	_	3	amod
+3	discolouration	discolouration	NN	_	6	nsubjpass
+4	has	have	VBZ	_	6	aux
+5	been	be	VBN	_	6	auxpass
+6	caused	cause	VBN	_	0	ROOT
+7	by	by	IN	_	16	mark
+8	the	the	DT	_	11	det
+9	damaging	damaging	JJ	_	11	amod
+10	acidic	acidic	JJ	_	11	amod
+11	properties	property	NNS	_	16	nsubjpass
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	low-grade	low-grade	JJ	_	12	pobj
+15	mount	mount	VBP	_	16	auxpass
+16	used	use	VBN	_	6	advcl
+17	in	in	IN	_	16	prep
+18	the	the	DT	_	20	det
+19	original	original	JJ	_	20	amod
+20	frame	frame	NN	_	17	pobj
+21	.	.	.	_	6	punct
+

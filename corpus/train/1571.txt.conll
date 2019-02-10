@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det
+2	smile	smile	NN	_	14	nsubj
+3	,	,	,	_	2	punct
+4	a	a	DT	_	6	det
+5	true	true	JJ	_	6	amod
+6	reflection	reflection	NN	_	2	appos
+7	of	of	IN	_	6	prep
+8	God	God	NNP	_	10	poss
+9	's	's	POS	_	8	possessive
+10	tenderness	tenderness	NN	_	7	pobj
+11	,	,	,	_	2	punct
+12	is	be	VBZ	_	14	cop
+13	the	the	DT	_	14	det
+14	source	source	NN	_	0	ROOT
+15	of	of	IN	_	14	prep
+16	an	a	DT	_	18	det
+17	invincible	invincible	JJ	_	18	amod
+18	hope	hope	NN	_	15	pobj
+19	.	.	.	_	14	punct
+

@@ -1,0 +1,27 @@
+1	We	we	PRP	_	2	nsubj
+2	assessed	assess	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	efficacy	efficacy	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	recombinant	recombinant	JJ	_	8	amod
+8	vaccine	vaccine	NN	_	5	pobj
+9	consisting	consist	VBG	_	8	vmod
+10	of	of	IN	_	9	prep
+11	outer-surface	outer-surface	JJ	_	13	amod
+12	protein	protein	NN	_	13	nn
+13	A	a	NN	_	10	pobj
+14	-LRB-	-lrb-	-LRB-	_	15	punct
+15	OspA	ospa	NN	_	13	appos
+16	-RRB-	-rrb-	-RRB-	_	15	punct
+17	without	without	IN	_	9	prep
+18	adjuvant	adjuvant	JJ	_	17	pobj
+19	in	in	IN	_	18	prep
+20	subjects	subject	NNS	_	19	pobj
+21	at	at	IN	_	18	prep
+22	risk	risk	NN	_	21	pobj
+23	for	for	IN	_	22	prep
+24	Lyme	lyme	NN	_	25	nn
+25	disease	disease	NN	_	23	pobj
+26	.	.	.	_	2	punct
+

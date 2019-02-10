@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	det
+2	data	datum	NN	_	5	nsubj
+3	has	have	VBZ	_	5	aux
+4	been	be	VBN	_	5	aux
+5	concerning	concern	VBG	_	0	ROOT
+6	primarily	primarily	RB	_	8	advmod
+7	assembly	assembly	NN	_	8	nn
+8	operations	operation	NNS	_	5	dobj
+9	.	.	.	_	5	punct
+

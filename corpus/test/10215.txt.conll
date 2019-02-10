@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det
+2	word	word	NN	_	4	nn
+3	`	`	``	_	4	punct
+4	Latin	Latin	NNP	_	6	nsubj
+5	'	'	''	_	4	punct
+6	originates	originate	VBZ	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	an	a	DT	_	10	det
+9	ancient	ancient	JJ	_	10	amod
+10	race	race	NN	_	7	pobj
+11	called	call	VBD	_	10	vmod
+12	the	the	DT	_	13	det
+13	Lats	Lats	NNP	_	11	dobj
+14	.	.	.	_	6	punct
+

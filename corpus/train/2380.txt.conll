@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	following	follow	VBG	_	3	amod
+3	discussion	discussion	NN	_	0	ROOT
+4	centered	center	VBN	_	3	vmod
+5	mainly	mainly	RB	_	6	advmod
+6	around	around	IN	_	4	prep
+7	the	the	DT	_	8	det
+8	issue	issue	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	photographing	photograph	VBG	_	9	pcomp
+11	children	child	NNS	_	10	dobj
+12	.	.	.	_	3	punct
+

@@ -1,0 +1,9 @@
+1	We	we	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	poured	pour	VBN	_	0	ROOT
+4	billions	billion	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	airline	airline	NN	_	7	nn
+7	safety	safety	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	German	german	JJ	_	3	amod
+2	chocolate	chocolate	NN	_	3	nn
+3	cake	cake	NN	_	5	nsubj
+4	is	be	VBZ	_	5	cop
+5	one	one	CD	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	my	my	PRP$	_	11	poss
+8	all	all	DT	_	11	det
+9	time	time	NN	_	11	nn
+10	favorite	favorite	JJ	_	11	amod
+11	cakes	cake	NNS	_	6	pobj
+12	and	and	CC	_	5	cc
+13	with	with	IN	_	5	conj
+14	our	we	PRP$	_	15	poss
+15	step	step	NN	_	13	pobj
+16	by	by	IN	_	15	prep
+17	step	step	NN	_	18	nn
+18	instructions	instruction	NNS	_	16	pobj
+19	you	you	PRP	_	23	nsubj
+20	simply	simply	RB	_	23	advmod
+21	can	can	MD	_	23	aux
+22	not	not	RB	_	23	neg
+23	go	go	VB	_	15	rcmod
+24	wrong	wrong	JJ	_	23	acomp
+25	.	.	.	_	5	punct
+

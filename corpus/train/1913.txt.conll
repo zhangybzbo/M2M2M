@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det
+2	neonatal	neonatal	JJ	_	3	amod
+3	heel	heel	NN	_	8	nsubj
+4	prick	prick	NN	_	3	dep
+5	is	be	VBZ	_	8	cop
+6	a	a	DT	_	8	det
+7	common	common	JJ	_	8	amod
+8	procedure	procedure	NN	_	0	ROOT
+9	for	for	IN	_	8	prep
+10	taking	take	VBG	_	9	pcomp
+11	a	a	DT	_	13	det
+12	blood	blood	NN	_	13	nn
+13	sample	sample	NN	_	10	dobj
+14	from	from	IN	_	10	prep
+15	the	the	DT	_	16	det
+16	heel	heel	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	newborn	newborn	JJ	_	19	amod
+19	infants	infant	NNS	_	17	pobj
+20	.	.	.	_	8	punct
+

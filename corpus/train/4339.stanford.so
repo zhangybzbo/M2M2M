@@ -1,0 +1,7 @@
+0	31	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="real" pos="JJ" amod="t1"
+5	14	tok id="t1" base="shepherd" pos="NNS" nsubj="t2"
+15	18	tok id="t2" base="use" pos="VBP" ROOT="ROOT"
+19	29	tok id="t3" base="trebuchet" pos="NNS" dobj="t2"
+30	31	tok id="t4" base="-PERIOD-" pos="." punct="t2"
+

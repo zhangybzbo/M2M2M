@@ -1,0 +1,3 @@
+T1	Term 25 33	theories
+T2	Term 50 67	birth certificate
+R1	Message-Topic Arg1:T1 Arg2:T2

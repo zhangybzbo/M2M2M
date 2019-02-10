@@ -1,0 +1,11 @@
+1	Another	another	DT	_	2	det
+2	manuscript	manuscript	NN	_	3	nsubj
+3	introduced	introduce	VBD	_	0	ROOT
+4	justice	justice	NN	_	3	dobj
+5	in	in	IN	_	3	prep
+6	terms	term	NNS	_	5	pobj
+7	of	of	IN	_	6	prep
+8	contractual	contractual	JJ	_	9	amod
+9	justice	justice	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

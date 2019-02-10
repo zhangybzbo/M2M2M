@@ -1,0 +1,17 @@
+1	Strangely	strangely	RB	_	11	advmod
+2	,	,	,	_	11	punct
+3	today	today	NN	_	5	poss
+4	's	's	POS	_	3	possessive
+5	help	help	NN	_	11	nsubj
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	crown-jewels	crown-jewel	NNS	_	9	nn
+9	enthusiasts	enthusiast	NNS	_	6	pobj
+10	has	have	VBZ	_	11	aux
+11	arrived	arrive	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	an	a	DT	_	15	det
+14	unexpected	unexpected	JJ	_	15	amod
+15	quarter	quarter	NN	_	12	pobj
+16	.	.	.	_	11	punct
+

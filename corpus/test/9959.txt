@@ -1,0 +1,1 @@
+The display receives the output through a 15 pin D connector cable .

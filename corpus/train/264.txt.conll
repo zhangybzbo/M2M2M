@@ -1,0 +1,19 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	the	the	DT	_	5	det
+4	document	document	NN	_	5	nn
+5	repository	repository	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	extremely	extremely	RB	_	8	advmod
+8	valuable	valuable	JJ	_	10	amod
+9	archival	archival	JJ	_	10	amod
+10	documents	document	NNS	_	6	pobj
+11	illustrating	illustrate	VBG	_	10	vmod
+12	the	the	DT	_	13	det
+13	history	history	NN	_	11	dobj
+14	of	of	IN	_	13	prep
+15	the	the	DT	_	17	det
+16	Spanish	spanish	JJ	_	17	amod
+17	Empire	empire	NN	_	14	pobj
+18	.	.	.	_	5	punct
+

@@ -1,0 +1,14 @@
+1	Researchers	researcher	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	turned	turn	VBN	_	0	ROOT
+4	a	a	DT	_	5	det
+5	mouse	mouse	NN	_	3	dobj
+6	into	into	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	factory	factory	NN	_	6	pobj
+9	for	for	IN	_	8	prep
+10	human	human	JJ	_	12	amod
+11	liver	liver	NN	_	12	nn
+12	cells	cell	NNS	_	9	pobj
+13	.	.	.	_	3	punct
+

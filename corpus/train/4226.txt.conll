@@ -1,0 +1,27 @@
+1	We	we	PRP	_	4	nsubj
+2	were	be	VBD	_	4	cop
+3	a	a	DT	_	4	det
+4	congregation	congregation	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	young	young	JJ	_	7	amod
+7	people	people	NNS	_	5	pobj
+8	concerned	concern	VBN	_	7	vmod
+9	about	about	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	religious	religious	JJ	_	12	amod
+12	education	education	NN	_	9	pobj
+13	of	of	IN	_	12	prep
+14	our	we	PRP$	_	15	poss
+15	children	child	NNS	_	13	pobj
+16	as	as	RB	_	17	advmod
+17	well	well	RB	_	4	cc
+18	as	as	IN	_	17	mwe
+19	creating	create	VBG	_	4	conj
+20	a	a	DT	_	22	det
+21	good	good	JJ	_	22	amod
+22	life	life	NN	_	19	dobj
+23	in	in	IN	_	22	prep
+24	our	we	PRP$	_	25	poss
+25	community	community	NN	_	23	pobj
+26	.	.	.	_	4	punct
+

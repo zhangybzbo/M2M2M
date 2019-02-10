@@ -1,0 +1,14 @@
+1	Concerns	concern	NNS	_	7	nsubjpass
+2	regarding	regard	VBG	_	1	prep
+3	data	datum	NNS	_	4	nn
+4	protection	protection	NN	_	2	pobj
+5	had	have	VBD	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	raised	raise	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	number	number	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	authorities	authority	NNS	_	11	pobj
+13	.	.	.	_	7	punct
+

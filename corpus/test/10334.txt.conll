@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det
+2	students	student	NNS	_	3	nsubj
+3	enforced	enforce	VBD	_	0	ROOT
+4	it	it	PRP	_	3	dobj
+5	with	with	IN	_	3	prep
+6	violence	violence	NN	_	5	pobj
+7	.	.	.	_	3	punct
+

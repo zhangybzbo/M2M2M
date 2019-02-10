@@ -1,0 +1,25 @@
+1	As	as	IN	_	0	ROOT
+2	must	must	MD	_	1	pcomp
+3	Concerto	Concerto	NNP	_	4	nn
+4	PH	PH	NNP	_	2	dep
+5	,	,	,	_	4	punct
+6	a	a	DT	_	7	det
+7	piece	piece	NN	_	4	appos
+8	this	this	DT	_	9	det
+9	modernist	modernist	JJ	_	7	amod
+10	composed	compose	VBN	_	9	ccomp
+11	for	for	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	Brussels	Brussels	NNP	_	14	nn
+14	Fair	Fair	NNP	_	11	pobj
+15	using	use	VBG	_	10	xcomp
+16	amplified	amplify	VBN	_	15	dep
+17	burning	burn	VBG	_	16	xcomp
+18	charcoal	charcoal	NN	_	17	dobj
+19	as	as	IN	_	17	prep
+20	his	he	PRP$	_	23	poss
+21	single	single	JJ	_	23	amod
+22	sound	sound	NN	_	23	nn
+23	source	source	NN	_	19	pobj
+24	.	.	.	_	1	punct
+

@@ -1,0 +1,1 @@
+Like normal ` Simon ' games , it starts with a one digit sequence , and then increases indefinitely until the caller makes a mistake .

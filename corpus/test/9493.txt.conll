@@ -1,0 +1,13 @@
+1	Above	above	IN	_	11	prep
+2	all	all	DT	_	1	pobj
+3	,	,	,	_	11	punct
+4	the	the	DT	_	6	det
+5	prime	prime	JJ	_	6	amod
+6	ingredient	ingredient	NN	_	11	nsubj
+7	in	in	IN	_	6	prep
+8	chicken	chicken	NN	_	9	nn
+9	soup	soup	NN	_	7	pobj
+10	is	be	VBZ	_	11	cop
+11	love	love	NN	_	0	ROOT
+12	.	.	.	_	11	punct
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	det
+2	cold	cold	JJ	_	4	amod
+3	temperature	temperature	NN	_	4	nn
+4	waves	wave	NNS	_	6	nsubj
+5	are	be	VBP	_	6	aux
+6	flowing	flow	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	desert	desert	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

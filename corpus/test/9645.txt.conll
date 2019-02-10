@@ -1,0 +1,23 @@
+1	His	he	PRP$	_	2	poss
+2	head	head	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	jar	jar	NN	_	4	pobj
+7	,	,	,	_	3	punct
+8	but	but	CC	_	3	cc
+9	most	most	JJS	_	18	nsubjpass
+10	of	of	IN	_	9	prep
+11	his	he	PRP$	_	13	poss
+12	brain	brain	NN	_	13	nn
+13	stem	stem	NN	_	10	pobj
+14	and	and	CC	_	13	cc
+15	one	one	CD	_	16	num
+16	ear	ear	NN	_	13	conj
+17	was	be	VBD	_	18	auxpass
+18	left	leave	VBN	_	3	conj
+19	on	on	IN	_	18	prep
+20	his	he	PRP$	_	21	poss
+21	body	body	NN	_	19	pobj
+22	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	I	I	PRP	_	3	nsubj
+2	first	first	RB	_	3	advmod
+3	tried	try	VBD	_	0	ROOT
+4	this	this	DT	_	3	dobj
+5	comforting	comforting	JJ	_	4	amod
+6	,	,	,	_	8	punct
+7	pork	pork	NN	_	8	nn
+8	stew	stew	NN	_	5	dep
+9	a	a	DT	_	10	det
+10	year	year	NN	_	11	npadvmod
+11	ago	ago	RB	_	8	advmod
+12	and	and	CC	_	8	cc
+13	it	it	PRP	_	16	nsubj
+14	is	be	VBZ	_	16	cop
+15	unbelievably	unbelievably	RB	_	16	advmod
+16	good	good	JJ	_	8	conj
+17	.	.	.	_	8	punct
+

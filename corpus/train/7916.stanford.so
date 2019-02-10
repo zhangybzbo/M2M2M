@@ -1,0 +1,12 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="she" pos="PRP" nsubj="t1"
+4	12	tok id="t1" base="prepare" pos="VBD" ROOT="ROOT"
+13	17	tok id="t2" base="some" pos="DT" det="t4"
+18	22	tok id="t3" base="beef" pos="NN" nn="t4"
+23	31	tok id="t4" base="bouillon" pos="NN" dobj="t1"
+32	35	tok id="t5" base="and" pos="CC" cc="t1"
+36	39	tok id="t6" base="let" pos="VB" conj="t1"
+40	42	tok id="t7" base="it" pos="PRP" nsubj="t8"
+43	47	tok id="t8" base="cool" pos="VB" ccomp="t6"
+48	49	tok id="t9" base="-PERIOD-" pos="." punct="t1"
+

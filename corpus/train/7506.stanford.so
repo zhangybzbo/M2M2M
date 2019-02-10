@@ -1,0 +1,10 @@
+0	42	sentence id="s0" parse_status="success"
+0	7	tok id="t0" base="hit" pos="VBG" csubj="t6"
+8	11	tok id="t1" base="out" pos="IN" prep="t0"
+12	14	tok id="t2" base="of" pos="IN" pcomp="t1"
+15	20	tok id="t3" base="anger" pos="NN" pobj="t2"
+21	23	tok id="t4" base="be" pos="VBZ" cop="t6"
+24	34	tok id="t5" base="absolutely" pos="RB" advmod="t6"
+35	40	tok id="t6" base="wrong" pos="JJ" ROOT="ROOT"
+41	42	tok id="t7" base="-PERIOD-" pos="." punct="t6"
+

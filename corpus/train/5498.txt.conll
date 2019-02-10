@@ -1,0 +1,15 @@
+1	Earthquakes	earthquake	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	movement	movement	NN	_	4	pobj
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	earth	earth	NN	_	10	poss
+9	's	's	POS	_	8	possessive
+10	crust	crust	NN	_	6	pobj
+11	along	along	IN	_	5	prep
+12	this	this	DT	_	13	det
+13	fault	fault	NN	_	11	pobj
+14	.	.	.	_	3	punct
+

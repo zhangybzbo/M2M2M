@@ -1,0 +1,20 @@
+1	Scientists	scientist	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	revealed	reveal	VBN	_	0	ROOT
+4	how	how	WRB	_	3	dep
+5	environmental	environmental	JJ	_	6	amod
+6	irritants	irritant	NNS	_	4	dep
+7	such	such	JJ	_	8	mwe
+8	as	as	IN	_	6	prep
+9	air	air	NN	_	10	nn
+10	pollution	pollution	NN	_	8	pobj
+11	and	and	CC	_	10	cc
+12	cigarette	cigarette	NN	_	13	nn
+13	smoke	smoke	NN	_	10	conj
+14	which	which	WDT	_	15	nsubj
+15	cause	cause	VBP	_	10	rcmod
+16	coughing	cough	VBG	_	15	xcomp
+17	in	in	IN	_	16	prep
+18	people	people	NNS	_	17	pobj
+19	.	.	.	_	3	punct
+

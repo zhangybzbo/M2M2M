@@ -1,0 +1,13 @@
+1	Ultimately	ultimately	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	a	a	DT	_	4	det
+4	soldier	soldier	NN	_	5	nsubj
+5	joins	join	VBZ	_	0	ROOT
+6	the	the	DT	_	7	det
+7	army	army	NN	_	5	dobj
+8	and	and	CC	_	7	cc
+9	trains	train	NNS	_	7	conj
+10	to	to	TO	_	11	aux
+11	fight	fight	VB	_	5	xcomp
+12	.	.	.	_	5	punct
+

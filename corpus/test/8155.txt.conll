@@ -1,0 +1,15 @@
+1	These	these	DT	_	3	det
+2	new	new	JJ	_	3	amod
+3	documents	document	NNS	_	4	nsubj
+4	point	point	VBP	_	0	ROOT
+5	out	out	RP	_	4	prt
+6	a	a	DT	_	7	det
+7	number	number	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	troubling	troubling	JJ	_	10	amod
+10	strategies	strategy	NNS	_	8	pobj
+11	utilized	utilize	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	Enron	Enron	NNP	_	12	pobj
+14	.	.	.	_	4	punct
+

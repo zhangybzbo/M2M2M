@@ -1,0 +1,18 @@
+1	Discovery	Discovery	NNP	_	2	nsubj
+2	consists	consist	VBZ	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	seeing	see	VBG	_	3	pcomp
+5	what	what	WP	_	9	dobj
+6	everybody	everybody	NN	_	9	nsubj
+7	else	else	RB	_	6	advmod
+8	has	have	VBZ	_	9	aux
+9	seen	see	VBN	_	4	ccomp
+10	and	and	CC	_	9	cc
+11	thinking	think	VBG	_	9	conj
+12	what	what	WP	_	16	dobj
+13	nobody	nobody	NN	_	16	nsubj
+14	else	else	RB	_	16	advmod
+15	has	have	VBZ	_	16	aux
+16	thought	think	VBN	_	11	ccomp
+17	.	.	.	_	2	punct
+

@@ -1,0 +1,13 @@
+1	Pipe	Pipe	NNP	_	2	nn
+2	bombs	bomb	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	thrown	throw	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	two	two	CD	_	9	num
+8	parked	park	VBN	_	9	amod
+9	cars	car	NNS	_	6	pobj
+10	in	in	IN	_	9	prep
+11	Londonderry	Londonderry	NNP	_	10	pobj
+12	.	.	.	_	5	punct
+

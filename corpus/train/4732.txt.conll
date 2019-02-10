@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	technitians	technitian	NNS	_	3	nsubj
+3	discussed	discuss	VBD	_	0	ROOT
+4	how	how	WRB	_	6	advmod
+5	to	to	TO	_	6	aux
+6	clean	clean	VB	_	3	xcomp
+7	the	the	DT	_	9	det
+8	throttle	throttle	NN	_	9	nn
+9	cable	cable	NN	_	6	dobj
+10	on	on	IN	_	6	prep
+11	a	a	DT	_	13	det
+12	gas	gas	NN	_	13	nn
+13	scooter	scooter	NN	_	10	pobj
+14	.	.	.	_	3	punct
+

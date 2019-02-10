@@ -1,0 +1,13 @@
+1	Peters	Peters	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	pain	pain	NN	_	7	nsubjpass
+4	and	and	CC	_	3	cc
+5	symptoms	symptom	NNS	_	3	conj
+6	were	be	VBD	_	7	auxpass
+7	caused	cause	VBN	_	0	ROOT
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	automobile	automobile	NN	_	11	nn
+11	accident	accident	NN	_	8	pobj
+12	.	.	.	_	7	punct
+

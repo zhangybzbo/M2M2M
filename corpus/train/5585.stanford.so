@@ -1,0 +1,10 @@
+0	47	sentence id="s0" parse_status="success"
+0	8	tok id="t0" base="student" pos="NNS" nsubj="t1"
+9	14	tok id="t1" base="write" pos="VBD" ROOT="ROOT"
+15	22	tok id="t2" base="script" pos="NNS" dobj="t1"
+23	25	tok id="t3" base="to" pos="TO" aux="t4"
+26	33	tok id="t4" base="narrate" pos="VB" vmod="t1"
+34	39	tok id="t5" base="they" pos="PRP$" poss="t6"
+40	45	tok id="t6" base="story" pos="NN" dobj="t4"
+46	47	tok id="t7" base="-PERIOD-" pos="." punct="t1"
+

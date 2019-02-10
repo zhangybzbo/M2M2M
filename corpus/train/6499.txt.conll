@@ -1,0 +1,17 @@
+1	Additionally	additionally	RB	_	11	advmod
+2	,	,	,	_	11	punct
+3	his	he	PRP$	_	4	poss
+4	record	record	NN	_	11	nsubjpass
+5	as	as	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	Vietnam	Vietnam	NNP	_	8	nn
+8	veteran	veteran	NN	_	5	pobj
+9	has	have	VBZ	_	11	aux
+10	been	be	VBN	_	11	auxpass
+11	documented	document	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	recent	recent	JJ	_	15	amod
+15	book	book	NN	_	12	pobj
+16	.	.	.	_	11	punct
+

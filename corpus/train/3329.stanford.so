@@ -1,0 +1,11 @@
+0	55	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	14	tok id="t1" base="scientist" pos="NNS" nsubj="t2"
+15	21	tok id="t2" base="pour" pos="VBD" ROOT="ROOT"
+22	27	tok id="t3" base="money" pos="NN" dobj="t2"
+28	32	tok id="t4" base="into" pos="IN" prep="t2"
+33	37	tok id="t5" base="pint" pos="NN" nn="t7"
+38	44	tok id="t6" base="cancer" pos="NN" nn="t7"
+45	53	tok id="t7" base="research" pos="NN" pobj="t4"
+54	55	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

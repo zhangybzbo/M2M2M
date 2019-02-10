@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	book	book	NN	_	4	poss
+3	's	's	POS	_	2	possessive
+4	author	author	NN	_	8	nsubj
+5	is	be	VBZ	_	8	cop
+6	so	so	RB	_	7	advmod
+7	historically	historically	RB	_	8	advmod
+8	significant	significant	JJ	_	0	ROOT
+9	that	that	IN	_	19	mark
+10	any	any	DT	_	19	nsubjpass
+11	of	of	IN	_	10	prep
+12	his	he	PRP$	_	16	poss
+13	or	or	CC	_	12	cc
+14	her	she	PRP$	_	12	conj
+15	written	written	JJ	_	16	amod
+16	works	work	NNS	_	11	pobj
+17	may	may	MD	_	19	aux
+18	be	be	VB	_	19	auxpass
+19	considered	consider	VBN	_	8	ccomp
+20	notable	notable	JJ	_	19	xcomp
+21	.	.	.	_	8	punct
+

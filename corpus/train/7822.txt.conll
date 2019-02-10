@@ -1,0 +1,17 @@
+1	Tapestries	tapestry	NNS	_	5	nsubj
+2	of	of	IN	_	1	prep
+3	rocky	rocky	JJ	_	4	amod
+4	coastlines	coastline	NNS	_	2	pobj
+5	share	share	VBP	_	0	ROOT
+6	wall	wall	NN	_	7	nn
+7	space	space	NN	_	5	dobj
+8	with	with	IN	_	5	prep
+9	a	a	DT	_	10	det
+10	clock	clock	NN	_	8	pobj
+11	inside	inside	IN	_	10	prep
+12	a	a	DT	_	13	det
+13	ship	ship	NN	_	15	poss
+14	's	's	POS	_	13	possessive
+15	wheel	wheel	NN	_	11	pobj
+16	.	.	.	_	5	punct
+

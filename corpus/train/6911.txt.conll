@@ -1,0 +1,22 @@
+1	By	by	IN	_	0	ROOT
+2	avoiding	avoid	VBG	_	1	pcomp
+3	or	or	CC	_	2	cc
+4	limiting	limit	VBG	_	2	conj
+5	contact	contact	NN	_	2	dobj
+6	with	with	IN	_	5	prep
+7	trash	trash	NN	_	6	pobj
+8	the	the	DT	_	9	det
+9	chance	chance	NN	_	20	nsubjpass
+10	of	of	IN	_	9	prep
+11	contracting	contracting	NN	_	12	nn
+12	germs	germ	NNS	_	10	pobj
+13	that	that	WDT	_	14	nsubj
+14	lead	lead	VBP	_	12	rcmod
+15	to	to	TO	_	14	prep
+16	sickness	sickness	NN	_	15	pobj
+17	or	or	CC	_	16	cc
+18	disease	disease	NN	_	16	conj
+19	is	be	VBZ	_	20	auxpass
+20	decreased	decrease	VBN	_	5	rcmod
+21	.	.	.	_	1	punct
+

@@ -1,0 +1,18 @@
+1	It	it	PRP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	dark	dark	JJ	_	5	amod
+5	song	song	NN	_	0	ROOT
+6	reflecting	reflect	VBG	_	5	vmod
+7	on	on	IN	_	6	prep
+8	potential	potential	JJ	_	9	amod
+9	love	love	NN	_	7	pobj
+10	with	with	IN	_	9	prep
+11	deep	deep	JJ	_	13	amod
+12	electronic	electronic	JJ	_	13	amod
+13	tones	tone	NNS	_	10	pobj
+14	and	and	CC	_	13	cc
+15	soft	soft	JJ	_	16	amod
+16	beats	beat	NNS	_	13	conj
+17	.	.	.	_	5	punct
+

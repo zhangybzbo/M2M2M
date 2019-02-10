@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det
+2	market	market	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	rooted	root	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	structure	structure	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	Zanzibar	Zanzibar	NNP	_	11	nn
+10	household	household	NN	_	11	nn
+11	economies	economy	NNS	_	8	pobj
+12	,	,	,	_	4	punct
+13	and	and	CC	_	4	cc
+14	therefore	therefore	RB	_	15	advmod
+15	proides	proide	VBZ	_	4	conj
+16	an	a	DT	_	18	det
+17	indispensible	indispensible	JJ	_	18	amod
+18	function	function	NN	_	15	dobj
+19	in	in	IN	_	15	prep
+20	daily	daily	JJ	_	21	amod
+21	life	life	NN	_	19	pobj
+22	.	.	.	_	4	punct
+

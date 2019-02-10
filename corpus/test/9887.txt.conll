@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	Elector	elector	NN	_	5	nsubj
+3	of	of	IN	_	2	prep
+4	Saxony	Saxony	NNP	_	3	pobj
+5	made	make	VBD	_	0	ROOT
+6	up	up	RP	_	5	prt
+7	the	the	DT	_	8	det
+8	battalion	battalion	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	120	120	CD	_	11	num
+11	pikemen	pikeman	NNS	_	9	pobj
+12	,	,	,	_	11	punct
+13	or	or	CC	_	11	cc
+14	so-called	so-called	JJ	_	15	amod
+15	men	man	NNS	_	11	conj
+16	of	of	IN	_	15	prep
+17	double	double	JJ	_	18	amod
+18	pay	pay	NN	_	16	pobj
+19	,	,	,	_	5	punct
+20	and	and	CC	_	5	cc
+21	180	180	CD	_	22	num
+22	musketeers	musketeer	NNS	_	5	conj
+23	.	.	.	_	5	punct
+

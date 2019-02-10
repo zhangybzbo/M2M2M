@@ -1,0 +1,3 @@
+T1	Term 68 75	handgun
+T2	Term 97 101	safe
+R1	Content-Container Arg1:T1 Arg2:T2

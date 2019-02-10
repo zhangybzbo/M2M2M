@@ -1,0 +1,27 @@
+1	There	there	EX	_	3	expl
+2	he	he	PRP	_	3	nsubj
+3	received	receive	VBD	_	0	ROOT
+4	food	food	NN	_	3	dobj
+5	,	,	,	_	3	punct
+6	lodging	lodging	NN	_	3	dep
+7	-LRB-	-lrb-	-LRB-	_	9	punct
+8	often	often	RB	_	9	advmod
+9	sleeping	sleep	VBG	_	6	dep
+10	under	under	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	counter	counter	NN	_	10	pobj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	shop	shop	NN	_	13	pobj
+16	itself	itself	PRP	_	15	npadvmod
+17	-RRB-	-rrb-	-RRB-	_	9	punct
+18	,	,	,	_	6	punct
+19	clothes	clothes	NNS	_	6	conj
+20	,	,	,	_	6	punct
+21	and	and	CC	_	6	cc
+22	instruction	instruction	NN	_	6	conj
+23	in	in	IN	_	6	prep
+24	the	the	DT	_	25	det
+25	craft	craft	NN	_	23	pobj
+26	.	.	.	_	3	punct
+

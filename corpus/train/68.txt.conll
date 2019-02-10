@@ -1,0 +1,13 @@
+1	Cieply	Cieply	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	story	story	NN	_	4	nsubj
+4	makes	make	VBZ	_	0	ROOT
+5	a	a	DT	_	7	det
+6	compelling	compelling	JJ	_	7	amod
+7	point	point	NN	_	4	dobj
+8	about	about	IN	_	7	prep
+9	modern-day	modern-day	JJ	_	11	amod
+10	studio	studio	NN	_	11	nn
+11	economics	economics	NNS	_	8	pobj
+12	.	.	.	_	4	punct
+

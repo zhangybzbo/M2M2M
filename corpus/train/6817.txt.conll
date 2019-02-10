@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	bike	bike	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	crate	crate	NN	_	4	pobj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	back	back	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	a	a	DT	_	12	det
+12	truck	truck	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	kitchen	kitchen	NN	_	3	nsubj
+3	holds	hold	VBZ	_	0	ROOT
+4	patient	patient	NN	_	5	nn
+5	drinks	drink	NNS	_	3	dobj
+6	and	and	CC	_	5	cc
+7	snacks	snack	NNS	_	5	conj
+8	.	.	.	_	3	punct
+

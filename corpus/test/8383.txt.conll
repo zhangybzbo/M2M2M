@@ -1,0 +1,9 @@
+1	My	my	PRP$	_	2	poss
+2	feet	foot	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	sunk	sink	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	floor	floor	NN	_	5	pobj
+8	.	.	.	_	4	punct
+

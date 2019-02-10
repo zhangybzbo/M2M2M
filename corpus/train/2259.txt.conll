@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det
+2	tray	tray	NN	_	5	nsubjpass
+3	is	be	VBZ	_	5	auxpass
+4	also	also	RB	_	5	advmod
+5	used	use	VBN	_	0	ROOT
+6	to	to	TO	_	7	aux
+7	hold	hold	VB	_	5	xcomp
+8	the	the	DT	_	9	det
+9	cutlery	cutlery	NN	_	7	dobj
+10	in	in	IN	_	7	prep
+11	a	a	DT	_	13	det
+12	kitchen	kitchen	NN	_	13	nn
+13	drawer	drawer	NN	_	10	pobj
+14	.	.	.	_	5	punct
+

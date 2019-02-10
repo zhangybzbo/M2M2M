@@ -1,0 +1,17 @@
+1	Cabaret	Cabaret	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	form	form	NN	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	entertainment	entertainment	NN	_	5	pobj
+7	featuring	feature	VBG	_	6	vmod
+8	comedy	comedy	NN	_	7	dobj
+9	,	,	,	_	8	punct
+10	song	song	NN	_	8	conj
+11	,	,	,	_	8	punct
+12	dance	dance	NN	_	8	conj
+13	,	,	,	_	8	punct
+14	and	and	CC	_	8	cc
+15	theatre	theatre	NN	_	8	conj
+16	.	.	.	_	4	punct
+

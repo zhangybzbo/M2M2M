@@ -1,0 +1,24 @@
+1	His	he	PRP$	_	3	poss
+2	literary	literary	JJ	_	3	amod
+3	debut	debut	NN	_	4	nsubj
+4	occured	occur	VBD	_	22	ccomp
+5	in	in	IN	_	4	prep
+6	1919	1919	CD	_	5	pobj
+7	,	,	,	_	4	punct
+8	when	when	WRB	_	10	advmod
+9	he	he	PRP	_	10	nsubj
+10	joined	join	VBD	_	4	advcl
+11	Esenin	Esenin	NNP	_	14	poss
+12	's	's	POS	_	11	possessive
+13	small	small	JJ	_	14	amod
+14	circle	circle	NN	_	10	dobj
+15	of	of	IN	_	14	prep
+16	``	``	``	_	15	punct
+17	literary	literary	JJ	_	18	amod
+18	hooligans	hooligan	NNS	_	15	pobj
+19	,	,	,	_	22	punct
+20	''	''	''	_	22	punct
+21	the	the	DT	_	22	det
+22	Imaginists	Imaginists	NNPS	_	0	ROOT
+23	.	.	.	_	22	punct
+

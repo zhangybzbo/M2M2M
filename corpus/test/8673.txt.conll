@@ -1,0 +1,21 @@
+1	Already	already	RB	_	2	advmod
+2	by	by	IN	_	14	prep
+3	the	the	DT	_	4	det
+4	middle	middle	NN	_	2	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	eighteenth	eighteenth	JJ	_	8	amod
+8	century	century	NN	_	5	pobj
+9	,	,	,	_	14	punct
+10	several	several	JJ	_	13	amod
+11	small	small	JJ	_	13	amod
+12	clockmaking	clockmaking	NN	_	13	nn
+13	shops	shop	NNS	_	14	nsubj
+14	produced	produce	VBD	_	0	ROOT
+15	cuckoo	cuckoo	NN	_	16	nn
+16	clocks	clock	NNS	_	14	dobj
+17	with	with	IN	_	16	prep
+18	wooden	wooden	JJ	_	19	amod
+19	gears	gear	NNS	_	17	pobj
+20	.	.	.	_	14	punct
+

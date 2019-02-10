@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj
+2	saw	see	VBD	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	the	the	DT	_	5	det
+5	antenna	antenna	NN	_	7	nsubjpass
+6	was	be	VBD	_	7	auxpass
+7	placed	place	VBN	_	2	ccomp
+8	inside	inside	IN	_	7	prep
+9	the	the	DT	_	13	det
+10	two-dimensional	two-dimensional	JJ	_	13	amod
+11	labyrinth-based	labyrinth-based	JJ	_	13	amod
+12	left-handed	left-handed	JJ	_	13	amod
+13	medium	medium	NN	_	8	pobj
+14	.	.	.	_	2	punct
+

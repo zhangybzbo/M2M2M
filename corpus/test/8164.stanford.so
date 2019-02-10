@@ -1,0 +1,8 @@
+0	47	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="researcher" pos="NNS" ROOT="ROOT"
+12	23	tok id="t1" base="synthesize" pos="VBN" vmod="t0"
+24	27	tok id="t2" base="the" pos="DT" det="t4"
+28	33	tok id="t3" base="basic" pos="JJ" amod="t4"
+34	45	tok id="t4" base="ingredient" pos="NNS" dobj="t1"
+46	47	tok id="t5" base="-PERIOD-" pos="." punct="t0"
+

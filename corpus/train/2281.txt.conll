@@ -1,0 +1,16 @@
+1	By	by	IN	_	7	prep
+2	now	now	RB	_	1	pobj
+3	,	,	,	_	7	punct
+4	my	my	PRP$	_	5	poss
+5	friends	friend	NNS	_	7	nsubj
+6	are	be	VBP	_	7	cop
+7	familiar	familiar	JJ	_	0	ROOT
+8	with	with	IN	_	7	prep
+9	my	my	PRP$	_	12	poss
+10	almost	almost	RB	_	11	advmod
+11	english	english	JJ	_	12	amod
+12	obsession	obsession	NN	_	8	pobj
+13	with	with	IN	_	12	prep
+14	toast	toast	NN	_	13	pobj
+15	.	.	.	_	7	punct
+

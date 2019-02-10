@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	newsletter	newsletter	NN	_	3	nsubj
+3	tells	tell	VBZ	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	practical	practical	JJ	_	6	amod
+6	projects	project	NNS	_	4	pobj
+7	developed	develop	VBD	_	3	dobj
+8	to	to	TO	_	9	aux
+9	help	help	VB	_	7	xcomp
+10	those	those	DT	_	9	dobj
+11	affected	affect	VBN	_	10	vmod
+12	by	by	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	pandemic	pandemic	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

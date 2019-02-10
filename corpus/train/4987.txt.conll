@@ -1,0 +1,17 @@
+1	Philip	Philip	NNP	_	2	nn
+2	Collins	Collins	NNP	_	3	nsubj
+3	discusses	discuss	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	apparent	apparent	JJ	_	6	amod
+6	decline	decline	NN	_	3	dobj
+7	in	in	IN	_	6	prep
+8	rhetoric	rhetoric	NN	_	7	pobj
+9	in	in	IN	_	6	prep
+10	a	a	DT	_	11	det
+11	speech	speech	NN	_	9	pobj
+12	given	give	VBN	_	11	vmod
+13	at	at	IN	_	12	prep
+14	Radio	Radio	NNP	_	13	pobj
+15	3	3	CD	_	14	num
+16	.	.	.	_	3	punct
+

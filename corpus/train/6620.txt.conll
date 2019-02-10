@@ -1,0 +1,15 @@
+1	Marketing	Marketing	NNP	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	focused	focus	VBN	_	0	ROOT
+4	on	on	IN	_	3	prep
+5	stimulating	stimulate	VBG	_	4	pcomp
+6	existing	exist	VBG	_	7	amod
+7	subscribers	subscriber	NNS	_	5	dobj
+8	to	to	TO	_	9	aux
+9	use	use	VB	_	7	vmod
+10	the	the	DT	_	11	det
+11	telephone	telephone	NN	_	9	dobj
+12	more	more	RBR	_	13	advmod
+13	often	often	RB	_	9	advmod
+14	.	.	.	_	3	punct
+

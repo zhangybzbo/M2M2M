@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	set	set	NN	_	6	nsubj
+3	of	of	IN	_	2	prep
+4	hyperreal	hyperreal	JJ	_	5	amod
+5	numbers	number	NNS	_	3	pobj
+6	satisfies	satisfy	VBZ	_	0	ROOT
+7	the	the	DT	_	11	det
+8	same	same	JJ	_	11	amod
+9	first	first	JJ	_	11	amod
+10	order	order	NN	_	11	nn
+11	sentences	sentence	NNS	_	6	dobj
+12	as	as	IN	_	11	prep
+13	R.	R.	NNP	_	12	pobj
+

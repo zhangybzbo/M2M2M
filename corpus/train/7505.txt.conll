@@ -1,0 +1,15 @@
+1	I	I	PRP	_	3	nsubj
+2	'm	be	VBP	_	3	aux
+3	running	run	VBG	_	0	ROOT
+4	a	a	DT	_	5	det
+5	charity	charity	NN	_	3	dobj
+6	that	that	WDT	_	7	nsubj
+7	helps	help	VBZ	_	5	rcmod
+8	the	the	DT	_	11	det
+9	poorest	poorest	JJS	_	11	amod
+10	school	school	NN	_	11	nn
+11	libraries	library	NNS	_	7	dobj
+12	in	in	IN	_	7	prep
+13	the	the	DT	_	14	det
+14	U.S.	U.S.	NNP	_	12	pobj
+

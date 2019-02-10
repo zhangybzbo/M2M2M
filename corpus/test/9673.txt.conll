@@ -1,0 +1,14 @@
+1	Acne	acne	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	irritants	irritant	NNS	_	4	pobj
+6	like	like	IN	_	5	prep
+7	fabrics	fabric	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	hair	hair	NN	_	10	nn
+10	gels	gel	NNS	_	7	conj
+11	and	and	CC	_	7	cc
+12	makeup	makeup	NN	_	7	conj
+13	.	.	.	_	3	punct
+

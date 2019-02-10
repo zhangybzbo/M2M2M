@@ -1,0 +1,15 @@
+1	Ancient	ancient	JJ	_	3	amod
+2	pagan	pagan	NN	_	3	nn
+3	traditions	tradition	NNS	_	0	ROOT
+4	used	use	VBN	_	5	amod
+5	famine	famine	NN	_	3	dep
+6	following	follow	VBG	_	5	prep
+7	feast	feast	NN	_	6	pobj
+8	as	as	IN	_	5	prep
+9	a	a	DT	_	10	det
+10	way	way	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	revealing	reveal	VBG	_	11	pcomp
+13	truth	truth	NN	_	12	dobj
+14	.	.	.	_	3	punct
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	77-year-old	77-year-old	JJ	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	suffering	suffer	VBG	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	exhaustion	exhaustion	NN	_	5	pobj
+7	and	and	CC	_	4	cc
+8	he	he	PRP	_	10	nsubj
+9	will	will	MD	_	10	aux
+10	undergo	undergo	VB	_	4	conj
+11	medical	medical	JJ	_	12	amod
+12	tests	test	NNS	_	10	dobj
+13	.	.	.	_	4	punct
+

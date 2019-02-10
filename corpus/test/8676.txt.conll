@@ -1,0 +1,19 @@
+1	General	General	NNP	_	4	nn
+2	contract	contract	NN	_	4	nn
+3	law	law	NN	_	4	nn
+4	issues	issue	NNS	_	6	nsubjpass
+5	are	be	VBP	_	6	auxpass
+6	examined	examine	VBN	_	0	ROOT
+7	,	,	,	_	6	punct
+8	as	as	IN	_	6	prep
+9	is	be	VBZ	_	8	pcomp
+10	the	the	DT	_	11	det
+11	law	law	NN	_	9	nsubj
+12	covering	cover	VBG	_	11	vmod
+13	the	the	DT	_	14	det
+14	registration	registration	NN	_	12	dobj
+15	of	of	IN	_	14	prep
+16	hotel	hotel	NN	_	17	nn
+17	guests	guest	NNS	_	15	pobj
+18	.	.	.	_	6	punct
+

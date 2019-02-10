@@ -1,0 +1,15 @@
+1	Suddenly	suddenly	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	they	they	PRP	_	4	nsubj
+4	were	be	VBD	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	Oxford	Oxford	NNP	_	7	nn
+7	Street	Street	NNP	_	5	pobj
+8	,	,	,	_	4	punct
+9	amid	amid	IN	_	4	prep
+10	a	a	DT	_	11	det
+11	throng	throng	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	shoppers	shopper	NNS	_	12	pobj
+14	.	.	.	_	4	punct
+

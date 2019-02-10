@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj
+2	found	find	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	bottle	bottle	NN	_	2	dobj
+5	with	with	IN	_	2	prep
+6	5	5	CD	_	7	num
+7	fentermine	fentermine	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	it	it	PRP	_	8	pobj
+10	yesterday	yesterday	NN	_	2	tmod
+11	.	.	.	_	2	punct
+

@@ -1,0 +1,12 @@
+1	Fish	fish	NN	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	their	they	PRP$	_	4	poss
+4	muscles	muscle	NNS	_	2	dobj
+5	to	to	TO	_	6	aux
+6	move	move	VB	_	2	vmod
+7	their	they	PRP$	_	8	poss
+8	bodies	body	NNS	_	6	dobj
+9	and	and	CC	_	8	cc
+10	fins	fin	NNS	_	8	conj
+11	.	.	.	_	2	punct
+

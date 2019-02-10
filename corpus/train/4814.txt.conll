@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det
+2	Billboard	Billboard	NNP	_	3	nn
+3	charts	chart	NNS	_	4	nsubj
+4	tabulate	tabulate	VBP	_	0	ROOT
+5	the	the	DT	_	8	det
+6	relative	relative	JJ	_	8	amod
+7	weekly	weekly	JJ	_	8	amod
+8	popularity	popularity	NN	_	4	dobj
+9	of	of	IN	_	8	prep
+10	songs	song	NNS	_	9	pobj
+11	or	or	CC	_	10	cc
+12	albums	album	NNS	_	10	conj
+13	in	in	IN	_	8	prep
+14	the	the	DT	_	16	det
+15	United	United	NNP	_	16	nn
+16	States	States	NNPS	_	13	pobj
+17	.	.	.	_	4	punct
+

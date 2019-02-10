@@ -1,0 +1,14 @@
+1	This	this	DT	_	3	nsubj
+2	is	be	VBZ	_	3	aux
+3	assuming	assume	VBG	_	0	ROOT
+4	that	that	IN	_	8	mark
+5	the	the	DT	_	6	det
+6	dividend	dividend	NN	_	8	nsubjpass
+7	is	be	VBZ	_	8	auxpass
+8	received	receive	VBN	_	3	ccomp
+9	from	from	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	treaty	treaty	NN	_	12	nn
+12	country	country	NN	_	9	pobj
+13	.	.	.	_	3	punct
+

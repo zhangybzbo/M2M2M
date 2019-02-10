@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj
+2	welcome	welcome	VBP	_	0	ROOT
+3	the	the	DT	_	4	det
+4	news	news	NN	_	2	dobj
+5	that	that	IN	_	14	mark
+6	a	a	DT	_	8	det
+7	comprehensive	comprehensive	JJ	_	8	amod
+8	agreement	agreement	NN	_	14	nsubjpass
+9	on	on	IN	_	8	prep
+10	bananas	banana	NNS	_	9	pobj
+11	has	have	VBZ	_	14	aux
+12	now	now	RB	_	14	advmod
+13	been	be	VBN	_	14	auxpass
+14	reached	reach	VBN	_	4	ccomp
+15	.	.	.	_	2	punct
+

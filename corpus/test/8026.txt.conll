@@ -1,0 +1,12 @@
+1	Mileson	Mileson	NNP	_	3	nsubj
+2	has	have	VBZ	_	3	aux
+3	sold	sell	VBN	_	0	ROOT
+4	his	he	PRP$	_	6	poss
+5	humble	humble	JJ	_	6	amod
+6	abode	abode	NN	_	3	dobj
+7	to	to	TO	_	3	prep
+8	a	a	DT	_	10	det
+9	housing	housing	NN	_	10	nn
+10	developer	developer	NN	_	7	pobj
+11	.	.	.	_	3	punct
+

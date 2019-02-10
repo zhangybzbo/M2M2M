@@ -1,0 +1,27 @@
+1	Painful	painful	JJ	_	3	amod
+2	digestive	digestive	JJ	_	3	amod
+3	problems	problem	NNS	_	5	nsubj
+4	can	can	MD	_	5	aux
+5	trigger	trigger	VB	_	0	ROOT
+6	problem	problem	NN	_	7	nn
+7	behaviour	behaviour	NN	_	5	dobj
+8	in	in	IN	_	7	prep
+9	children	child	NNS	_	8	pobj
+10	with	with	IN	_	9	prep
+11	autism	autism	NN	_	10	pobj
+12	and	and	CC	_	5	cc
+13	should	should	MD	_	15	aux
+14	be	be	VB	_	15	auxpass
+15	treated	treat	VBN	_	5	conj
+16	medically	medically	RB	_	15	advmod
+17	,	,	,	_	5	punct
+18	according	accord	VBG	_	5	prep
+19	to	to	TO	_	18	pcomp
+20	the	the	DT	_	21	det
+21	panel	panel	NN	_	23	poss
+22	's	's	POS	_	21	possessive
+23	report	report	NN	_	19	pobj
+24	published	publish	VBN	_	23	vmod
+25	today	today	NN	_	24	tmod
+26	.	.	.	_	5	punct
+

@@ -1,0 +1,21 @@
+1	On	on	IN	_	8	prep
+2	Saturday	Saturday	NNP	_	1	pobj
+3	in	in	IN	_	2	prep
+4	California	California	NNP	_	3	pobj
+5	a	a	DT	_	6	det
+6	suitcase	suitcase	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	discovered	discover	VBN	_	0	ROOT
+9	inside	inside	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	trash	trash	NN	_	12	nn
+12	receptacle	receptacle	NN	_	9	pobj
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	corpse	corpse	NN	_	13	pobj
+16	stuffed	stuff	VBD	_	8	dep
+17	inside	inside	IN	_	16	prep
+18	of	of	IN	_	17	pcomp
+19	it	it	PRP	_	18	pobj
+20	.	.	.	_	8	punct
+

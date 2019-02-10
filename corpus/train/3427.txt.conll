@@ -1,0 +1,14 @@
+1	A	a	DT	_	4	det
+2	few	few	JJ	_	4	amod
+3	space	space	NN	_	4	nn
+4	probes	probe	NNS	_	7	nsubjpass
+5	have	have	VBP	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	placed	place	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	orbit	orbit	NN	_	8	pobj
+10	around	around	IN	_	9	prep
+11	other	other	JJ	_	12	amod
+12	bodies	body	NNS	_	10	pobj
+13	.	.	.	_	7	punct
+

@@ -1,0 +1,15 @@
+1	Parental	parental	JJ	_	4	amod
+2	influenza	influenza	NN	_	4	nn
+3	virion	virion	NN	_	4	nn
+4	nucleocapsids	nucleocapsid	NNS	_	7	nsubjpass
+5	were	be	VBD	_	7	auxpass
+6	efficiently	efficiently	RB	_	7	advmod
+7	transported	transport	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	nuclei	nucleus	NNS	_	8	pobj
+11	of	of	IN	_	10	prep
+12	murine	murine	JJ	_	13	amod
+13	cells	cell	NNS	_	11	pobj
+14	.	.	.	_	7	punct
+

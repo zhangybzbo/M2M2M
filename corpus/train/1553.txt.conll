@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	contortions	contortion	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	gravitational	gravitational	JJ	_	7	amod
+7	interactions	interaction	NNS	_	5	pobj
+8	with	with	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	small	small	JJ	_	11	amod
+11	satellites	satellite	NNS	_	8	pobj
+12	Prometheus	Prometheus	NNP	_	11	dep
+13	and	and	CC	_	12	cc
+14	Pandora	Pandora	NNP	_	12	conj
+15	.	.	.	_	4	punct
+

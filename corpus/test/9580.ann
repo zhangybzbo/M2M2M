@@ -1,0 +1,3 @@
+T1	Term 14 25	locomotives
+T2	Term 53 60	engines
+R1	Component-Whole Arg1:T2 Arg2:T1

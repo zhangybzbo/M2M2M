@@ -1,0 +1,10 @@
+0	48	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	18	tok id="t1" base="hypermenorrhea" pos="NN" nsubjpass="t3"
+19	22	tok id="t2" base="be" pos="VBD" auxpass="t3"
+23	27	tok id="t3" base="make" pos="VBN" ROOT="ROOT"
+28	33	tok id="t4" base="worse" pos="JJR" acomp="t3"
+34	36	tok id="t5" base="by" pos="IN" prep="t4"
+37	46	tok id="t6" base="treatment" pos="NN" pobj="t5"
+47	48	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

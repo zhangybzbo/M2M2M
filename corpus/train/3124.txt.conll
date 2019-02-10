@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	advertising	advertising	NN	_	3	nn
+3	campaign	campaign	NN	_	8	nsubj
+4	for	for	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	film	film	NN	_	4	pobj
+7	also	also	RB	_	8	advmod
+8	emphasized	emphasize	VBD	_	0	ROOT
+9	the	the	DT	_	12	det
+10	supposed	suppose	VBN	_	12	amod
+11	historical	historical	JJ	_	12	amod
+12	accuracy	accuracy	NN	_	8	dobj
+13	.	.	.	_	8	punct
+

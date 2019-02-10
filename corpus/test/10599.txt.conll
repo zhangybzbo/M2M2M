@@ -1,0 +1,25 @@
+1	Plaintiffs	plaintiff	NNS	_	2	nsubj
+2	seek	seek	VBP	_	0	ROOT
+3	compensatory	compensatory	JJ	_	4	amod
+4	damages	damages	NNS	_	2	dobj
+5	for	for	IN	_	4	prep
+6	personal	personal	JJ	_	7	amod
+7	injuries	injury	NNS	_	5	pobj
+8	,	,	,	_	10	punct
+9	property	property	NN	_	10	nn
+10	damage	damage	NN	_	2	dep
+11	,	,	,	_	10	punct
+12	emotional	emotional	JJ	_	13	amod
+13	distress	distress	NN	_	10	conj
+14	,	,	,	_	10	punct
+15	and	and	CC	_	10	cc
+16	expenses	expense	NNS	_	10	conj
+17	resulting	result	VBG	_	16	vmod
+18	from	from	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	evacuation	evacuation	NN	_	18	pobj
+21	after	after	IN	_	10	prep
+22	the	the	DT	_	23	det
+23	explosion	explosion	NN	_	21	pobj
+24	.	.	.	_	10	punct
+

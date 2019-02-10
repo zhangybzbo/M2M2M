@@ -1,0 +1,9 @@
+1	All	all	DT	_	2	det
+2	houses	house	NNS	_	5	nsubjpass
+3	are	be	VBP	_	5	auxpass
+4	now	now	RB	_	5	advmod
+5	built	build	VBN	_	0	ROOT
+6	this	this	DT	_	7	det
+7	way	way	NN	_	5	dobj
+8	.	.	.	_	5	punct
+

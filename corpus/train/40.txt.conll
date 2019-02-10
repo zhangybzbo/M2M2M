@@ -1,0 +1,14 @@
+1	Newspapers	newspaper	NNS	_	2	nsubj
+2	swap	swap	VBP	_	0	ROOT
+3	content	content	NN	_	2	dobj
+4	via	via	IN	_	2	prep
+5	widgets	widget	NNS	_	4	pobj
+6	with	with	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	help	help	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	12	det
+11	newsgator	newsgator	NN	_	12	nn
+12	service	service	NN	_	9	pobj
+13	.	.	.	_	2	punct
+

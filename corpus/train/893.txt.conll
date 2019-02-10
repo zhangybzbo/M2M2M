@@ -1,0 +1,20 @@
+1	My	my	PRP$	_	2	poss
+2	point	point	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	coming	come	VBG	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	welding	welding	NN	_	8	nn
+8	background	background	NN	_	5	pobj
+9	that	that	WDT	_	16	dobj
+10	good	good	JJ	_	11	amod
+11	goggles	goggles	NNS	_	16	nsubj
+12	are	be	VBP	_	16	cop
+13	most	most	RBS	_	14	advmod
+14	definitely	definitely	RB	_	16	advmod
+15	not	not	RB	_	16	neg
+16	hard	hard	JJ	_	8	rcmod
+17	to	to	TO	_	18	aux
+18	find	find	VB	_	16	xcomp
+19	.	.	.	_	4	punct
+

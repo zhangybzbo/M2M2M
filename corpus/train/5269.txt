@@ -1,0 +1,1 @@
+The second example was about memory allocation functions .

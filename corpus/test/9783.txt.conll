@@ -1,0 +1,22 @@
+1	With	with	IN	_	0	ROOT
+2	a	a	DT	_	3	det
+3	blow	blow	NN	_	1	pobj
+4	of	of	IN	_	10	mark
+5	the	the	DT	_	10	nsubj
+6	whistle	whistle	VBP	_	10	ccomp
+7	,	,	,	_	10	punct
+8	the	the	DT	_	9	det
+9	locomotive	locomotive	NN	_	10	nsubj
+10	departs	depart	VBZ	_	3	rcmod
+11	from	from	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	station	station	NN	_	14	nn
+14	platform	platform	NN	_	11	pobj
+15	pushing	push	VBG	_	14	vmod
+16	four	four	CD	_	17	num
+17	carriages	carriage	NNS	_	15	dobj
+18	ahead	ahead	RB	_	15	advmod
+19	of	of	IN	_	18	prep
+20	it	it	PRP	_	19	pobj
+21	.	.	.	_	1	punct
+

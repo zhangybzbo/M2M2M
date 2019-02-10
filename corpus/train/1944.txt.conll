@@ -1,0 +1,9 @@
+1	Google	Google	NNP	_	2	nn
+2	groups	group	NNS	_	4	nsubj
+3	were	be	VBD	_	4	aux
+4	sending	send	VBG	_	0	ROOT
+5	commands	command	NNS	_	4	dobj
+6	to	to	TO	_	7	aux
+7	malware	malware	VB	_	4	vmod
+8	.	.	.	_	4	punct
+

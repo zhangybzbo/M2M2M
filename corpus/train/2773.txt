@@ -1,0 +1,1 @@
+The state machine contains six states , seven inputs , and five outputs .

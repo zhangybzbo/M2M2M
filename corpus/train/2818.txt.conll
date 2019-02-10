@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	calls	call	NNS	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	his	he	PRP$	_	6	poss
+5	caged	caged	JJ	_	6	amod
+6	decoy-birds	decoy-bird	NNS	_	3	pobj
+7	have	have	VBP	_	8	aux
+8	announced	announce	VBN	_	0	ROOT
+9	the	the	DT	_	10	det
+10	arrival	arrival	NN	_	8	dobj
+11	and	and	CC	_	8	cc
+12	passing	pass	VBG	_	8	conj
+13	over	over	IN	_	12	prep
+14	of	of	IN	_	13	pcomp
+15	a	a	DT	_	16	det
+16	parcel	parcel	NN	_	14	pobj
+17	of	of	IN	_	16	prep
+18	linnets	linnet	NNS	_	17	pobj
+19	.	.	.	_	8	punct
+

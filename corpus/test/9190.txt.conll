@@ -1,0 +1,15 @@
+1	A	a	DT	_	2	det
+2	controversy	controversy	NN	_	3	nsubj
+3	arose	arise	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	an	a	DT	_	7	det
+6	equivocal	equivocal	JJ	_	7	amod
+7	assignment	assignment	NN	_	4	pobj
+8	of	of	IN	_	7	prep
+9	the	the	DT	_	13	det
+10	metastable	metastable	JJ	_	13	amod
+11	150-meV	150-mev	NN	_	13	nn
+12	vibrational	vibrational	JJ	_	13	amod
+13	peak	peak	NN	_	8	pobj
+14	.	.	.	_	3	punct
+

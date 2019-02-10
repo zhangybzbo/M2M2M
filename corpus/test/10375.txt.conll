@@ -1,0 +1,27 @@
+1	Rachael	Rachael	NNP	_	6	nsubj
+2	,	,	,	_	1	punct
+3	Katie	Katie	NNP	_	1	conj
+4	and	and	CC	_	1	cc
+5	Chloe	Chloe	NNP	_	1	conj
+6	enjoy	enjoy	VBP	_	0	ROOT
+7	the	the	DT	_	8	det
+8	wriggle	wriggle	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	worms	worm	NNS	_	9	pobj
+11	from	from	IN	_	8	prep
+12	the	the	DT	_	14	det
+13	worm	worm	NN	_	14	nn
+14	farms	farm	NNS	_	11	pobj
+15	they	they	PRP	_	16	nsubj
+16	built	build	VBD	_	14	rcmod
+17	on	on	IN	_	16	prep
+18	an	a	DT	_	19	det
+19	excursion	excursion	NN	_	17	pobj
+20	to	to	TO	_	19	prep
+21	Jells	Jells	NNP	_	22	nn
+22	Park	Park	NNP	_	20	pobj
+23	in	in	IN	_	22	prep
+24	Glen	Glen	NNP	_	25	nn
+25	Waverley	Waverley	NNP	_	23	pobj
+26	.	.	.	_	6	punct
+

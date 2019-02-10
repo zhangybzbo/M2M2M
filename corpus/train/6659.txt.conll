@@ -1,0 +1,20 @@
+1	They	they	PRP	_	3	nsubj
+2	really	really	RB	_	3	advmod
+3	saw	see	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	architect	architect	NN	_	3	dobj
+6	's	's	POS	_	5	possessive
+7	expensively	expensively	RB	_	8	advmod
+8	produced	produce	VBN	_	5	vmod
+9	Dongtan	Dongtan	NNP	_	10	nn
+10	masterplan	masterplan	NN	_	8	dobj
+11	as	as	IN	_	8	prep
+12	a	a	DT	_	13	det
+13	blueprint	blueprint	NN	_	11	pobj
+14	for	for	IN	_	13	prep
+15	a	a	DT	_	18	det
+16	more	more	RBR	_	17	advmod
+17	sustainable	sustainable	JJ	_	18	amod
+18	future	future	NN	_	14	pobj
+19	.	.	.	_	3	punct
+

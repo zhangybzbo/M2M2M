@@ -1,0 +1,11 @@
+1	Factory	factory	NN	_	2	nn
+2	class	class	NN	_	0	ROOT
+3	that	that	WDT	_	4	nsubj
+4	manufactures	manufacture	VBZ	_	2	rcmod
+5	component	component	NN	_	6	nn
+6	objects	object	NNS	_	4	dobj
+7	for	for	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	farmyard	farmyard	NN	_	7	pobj
+10	.	.	.	_	2	punct
+

@@ -1,0 +1,18 @@
+1	At	at	IN	_	12	prep
+2	the	the	DT	_	3	det
+3	turn	turn	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	each	each	DT	_	6	det
+6	hour	hour	NN	_	4	pobj
+7	the	the	DT	_	8	det
+8	pin	pin	NN	_	12	nsubj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	wheel	wheel	NN	_	9	pobj
+12	raises	raise	VBZ	_	0	ROOT
+13	the	the	DT	_	16	det
+14	hour	hour	NN	_	16	nn
+15	wheel	wheel	NN	_	16	nn
+16	lever	lever	NN	_	12	dobj
+17	.	.	.	_	12	punct
+

@@ -1,0 +1,20 @@
+1	He	he	PRP	_	2	nsubj
+2	placed	place	VBD	_	0	ROOT
+3	his	he	PRP$	_	5	poss
+4	index	index	NN	_	5	nn
+5	finger	finger	NN	_	2	dobj
+6	on	on	IN	_	2	prep
+7	the	the	DT	_	9	det
+8	knife	knife	NN	_	9	nn
+9	blade	blade	NN	_	6	pobj
+10	and	and	CC	_	9	cc
+11	his	he	PRP$	_	14	poss
+12	three	three	CD	_	14	num
+13	remaining	remain	VBG	_	14	amod
+14	fingers	finger	NNS	_	9	conj
+15	on	on	IN	_	2	prep
+16	the	the	DT	_	17	det
+17	knife	knife	NN	_	15	pobj
+18	handle	handle	VB	_	2	dep
+19	.	.	.	_	2	punct
+

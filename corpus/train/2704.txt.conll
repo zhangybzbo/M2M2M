@@ -1,0 +1,22 @@
+1	Protected	protect	VBN	_	13	vmod
+2	by	by	IN	_	1	prep
+3	tribes	tribe	NNS	_	2	pobj
+4	who	who	WP	_	6	nsubj
+5	were	be	VBD	_	6	cop
+6	wary	wary	JJ	_	3	rcmod
+7	of	of	IN	_	6	prep
+8	government	government	NN	_	9	nn
+9	interference	interference	NN	_	7	pobj
+10	,	,	,	_	13	punct
+11	the	the	DT	_	12	det
+12	group	group	NN	_	13	nsubj
+13	established	establish	VBD	_	0	ROOT
+14	bases	basis	NNS	_	13	dobj
+15	from	from	IN	_	18	prep
+16	which	which	WDT	_	15	pobj
+17	to	to	TO	_	18	aux
+18	launch	launch	VB	_	14	rcmod
+19	fresh	fresh	JJ	_	20	amod
+20	attacks	attack	NNS	_	18	dobj
+21	.	.	.	_	13	punct
+

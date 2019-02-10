@@ -1,0 +1,17 @@
+1	Leah	Leah	NNP	_	2	nn
+2	Day	Day	NNP	_	3	nsubj
+3	attached	attach	VBD	_	0	ROOT
+4	quilt	quilt	NN	_	5	nn
+5	binding	binding	NN	_	3	dobj
+6	to	to	TO	_	3	prep
+7	the	the	DT	_	8	det
+8	back	back	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	a	a	DT	_	11	det
+11	quilt	quilt	NN	_	9	pobj
+12	using	use	VBG	_	3	dep
+13	a	a	DT	_	15	det
+14	sewing	sew	VBG	_	15	amod
+15	machine	machine	NN	_	12	dobj
+16	.	.	.	_	3	punct
+

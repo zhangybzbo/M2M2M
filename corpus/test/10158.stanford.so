@@ -1,0 +1,12 @@
+0	49	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="all" pos="DT" det="t1"
+4	9	tok id="t1" base="item" pos="NNS" nsubjpass="t4"
+10	14	tok id="t2" base="have" pos="VBP" aux="t4"
+15	19	tok id="t3" base="be" pos="VBN" auxpass="t4"
+20	27	tok id="t4" base="ship" pos="VBN" ROOT="ROOT"
+28	31	tok id="t5" base="out" pos="RP" prt="t4"
+32	34	tok id="t6" base="to" pos="TO" prep="t4"
+35	38	tok id="t7" base="the" pos="DT" det="t8"
+39	47	tok id="t8" base="customer" pos="NN" pobj="t6"
+48	49	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

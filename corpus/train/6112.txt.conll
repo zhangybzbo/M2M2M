@@ -1,0 +1,25 @@
+1	Congenital	congenital	JJ	_	3	amod
+2	renal	renal	JJ	_	3	amod
+3	disease	disease	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	detected	detect	VBN	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	flock	flock	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	sheep	sheep	NN	_	9	pobj
+11	in	in	IN	_	8	prep
+12	the	the	DT	_	14	det
+13	English	English	NNP	_	14	nn
+14	Midlands	Midlands	NNPS	_	11	pobj
+15	over	over	IN	_	5	prep
+16	2	2	CD	_	18	num
+17	successive	successive	JJ	_	18	amod
+18	years	year	NNS	_	15	pobj
+19	-LRB-	-lrb-	-LRB-	_	20	punct
+20	1982	1982	CD	_	18	dep
+21	and	and	CC	_	20	cc
+22	1983	1983	CD	_	20	conj
+23	-RRB-	-rrb-	-RRB-	_	20	punct
+24	.	.	.	_	5	punct
+

@@ -1,0 +1,3 @@
+T1	Term 30 35	parts
+T2	Term 69 81	local issues
+R1	Message-Topic Arg1:T1 Arg2:T2

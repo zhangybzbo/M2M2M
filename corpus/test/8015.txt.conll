@@ -1,0 +1,23 @@
+1	As	as	IN	_	4	mark
+2	I	I	PRP	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	contemplating	contemplate	VBG	_	17	advcl
+5	if	if	IN	_	7	mark
+6	I	I	PRP	_	7	nsubj
+7	had	have	VBD	_	4	advcl
+8	a	a	DT	_	9	det
+9	favorite	favorite	JJ	_	7	dobj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	pink	pink	JJ	_	13	amod
+13	category	category	NN	_	10	pobj
+14	,	,	,	_	17	punct
+15	a	a	DT	_	16	det
+16	gift	gift	NN	_	17	nsubj
+17	arrived	arrive	VBD	_	0	ROOT
+18	from	from	IN	_	17	prep
+19	a	a	DT	_	21	det
+20	sweet	sweet	JJ	_	21	amod
+21	friend	friend	NN	_	18	pobj
+22	.	.	.	_	17	punct
+

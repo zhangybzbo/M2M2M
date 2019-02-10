@@ -1,0 +1,1 @@
+A preamble explains the document 's purpose and underlying philosophy .

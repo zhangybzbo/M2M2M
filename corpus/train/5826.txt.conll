@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	structure	structure	NN	_	18	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	benthic	benthic	JJ	_	7	amod
+6	boundary	boundary	NN	_	7	nn
+7	layer	layer	NN	_	3	pobj
+8	over	over	IN	_	2	prep
+9	a	a	DT	_	10	det
+10	bed	bed	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	mussels	mussel	NNS	_	11	pobj
+13	-LRB-	-lrb-	-LRB-	_	15	punct
+14	Mytilus	mytilus	JJ	_	15	amod
+15	edulis	eduli	NN	_	12	appos
+16	-RRB-	-rrb-	-RRB-	_	15	punct
+17	was	be	VBD	_	18	auxpass
+18	investigated	investigate	VBN	_	0	ROOT
+19	in	in	IN	_	18	prep
+20	a	a	DT	_	23	det
+21	large	large	JJ	_	23	amod
+22	racetrack	racetrack	NN	_	23	nn
+23	flume	flume	NN	_	19	pobj
+24	.	.	.	_	18	punct
+

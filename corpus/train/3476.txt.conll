@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det
+2	meeting	meeting	NN	_	8	nsubj
+3	of	of	IN	_	2	prep
+4	devoted	devoted	JJ	_	5	amod
+5	friends	friend	NNS	_	3	pobj
+6	and	and	CC	_	5	cc
+7	lovers	lover	NNS	_	5	conj
+8	served	serve	VBD	_	0	ROOT
+9	as	as	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	foundation	foundation	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	18	det
+14	NAMES	NAMES	NNP	_	18	nn
+15	Project	Project	NNP	_	18	nn
+16	AIDS	AIDS	NNP	_	18	nn
+17	Memorial	Memorial	NNP	_	18	nn
+18	Quilt	Quilt	NNP	_	12	pobj
+19	.	.	.	_	8	punct
+

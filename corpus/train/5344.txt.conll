@@ -1,0 +1,18 @@
+1	He	he	PRP	_	2	nsubj
+2	removed	remove	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	glass	glass	NN	_	5	nn
+5	slide	slide	NN	_	2	dobj
+6	precleaned	preclean	VBN	_	5	vmod
+7	in	in	IN	_	6	prep
+8	piranha	piranha	NN	_	9	nn
+9	solution	solution	NN	_	7	pobj
+10	that	that	WDT	_	12	nsubjpass
+11	was	be	VBD	_	12	auxpass
+12	placed	place	VBN	_	9	rcmod
+13	upright	upright	NN	_	12	dobj
+14	in	in	IN	_	12	prep
+15	a	a	DT	_	16	det
+16	beaker	beaker	NN	_	14	pobj
+17	.	.	.	_	2	punct
+

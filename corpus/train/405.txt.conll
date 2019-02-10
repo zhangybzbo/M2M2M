@@ -1,0 +1,22 @@
+1	Her	she	PRP$	_	3	poss
+2	shallow	shallow	JJ	_	3	amod
+3	waters	water	NNS	_	4	nsubj
+4	seethe	seethe	VBP	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	times	time	NNS	_	5	pobj
+7	,	,	,	_	4	punct
+8	standing	stand	VBG	_	4	dep
+9	tall	tall	JJ	_	8	acomp
+10	and	and	CC	_	8	cc
+11	swaying	sway	VBG	_	8	conj
+12	back	back	RB	_	11	advmod
+13	and	and	CC	_	8	cc
+14	forth	forth	RB	_	15	advmod
+15	like	like	IN	_	8	conj
+16	a	a	DT	_	17	det
+17	quiver	quiver	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	king	king	NN	_	20	nn
+20	cobras	cobra	NNS	_	18	pobj
+21	.	.	.	_	4	punct
+

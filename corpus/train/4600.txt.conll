@@ -1,0 +1,24 @@
+1	About	about	IN	_	2	quantmod
+2	3	3	CD	_	3	num
+3	%	%	NN	_	8	nsubj
+4	of	of	IN	_	3	prep
+5	2-4	2-4	CD	_	7	num
+6	year	year	NN	_	7	nn
+7	olds	old	NNS	_	4	pobj
+8	show	show	VBP	_	0	ROOT
+9	marked	marked	JJ	_	11	amod
+10	dental	dental	JJ	_	11	amod
+11	decay	decay	NN	_	8	dobj
+12	due	due	JJ	_	11	amod
+13	to	to	TO	_	12	prep
+14	sleeping	sleep	VBG	_	13	pcomp
+15	with	with	IN	_	14	prep
+16	a	a	DT	_	17	det
+17	bottle	bottle	NN	_	15	pobj
+18	full	full	JJ	_	17	amod
+19	of	of	IN	_	18	prep
+20	juice	juice	NN	_	19	pobj
+21	or	or	CC	_	20	cc
+22	milk	milk	NN	_	20	conj
+23	.	.	.	_	8	punct
+

@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det
+2	region	region	NN	_	3	nsubj
+3	boasts	boast	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	treasure	treasure	NN	_	6	nn
+6	trove	trove	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	concerts	concert	NNS	_	7	pobj
+9	,	,	,	_	6	punct
+10	museums	museum	NNS	_	6	conj
+11	,	,	,	_	6	punct
+12	and	and	CC	_	6	cc
+13	other	other	JJ	_	15	amod
+14	cultural	cultural	JJ	_	15	amod
+15	offerings	offering	NNS	_	6	conj
+16	.	.	.	_	3	punct
+

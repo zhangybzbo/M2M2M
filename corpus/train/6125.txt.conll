@@ -1,0 +1,11 @@
+1	When	when	WRB	_	3	advmod
+2	they	they	PRP	_	3	nsubj
+3	became	become	VBD	_	0	ROOT
+4	adults	adult	NNS	_	3	dobj
+5	the	the	DT	_	6	det
+6	twins	twin	NNS	_	7	nsubj
+7	established	establish	VBD	_	4	rcmod
+8	a	a	DT	_	9	det
+9	city	city	NN	_	7	dobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,20 @@
+1	An	a	DT	_	3	det
+2	application	application	NN	_	3	nn
+3	developer	developer	NN	_	6	nsubj
+4	with	with	IN	_	3	prep
+5	Adobe	Adobe	NNP	_	4	pobj
+6	said	say	VBD	_	0	ROOT
+7	in	in	IN	_	6	prep
+8	a	a	DT	_	9	det
+9	blog	blog	NN	_	7	pobj
+10	posting	post	VBG	_	9	vmod
+11	that	that	IN	_	14	mark
+12	Adobe	Adobe	NNP	_	14	nsubj
+13	is	be	VBZ	_	14	aux
+14	working	work	VBG	_	10	ccomp
+15	on	on	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	security	security	NN	_	18	nn
+18	flaw	flaw	NN	_	15	pobj
+19	.	.	.	_	6	punct
+

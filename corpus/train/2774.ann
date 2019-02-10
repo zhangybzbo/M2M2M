@@ -1,0 +1,3 @@
+T1	Term 93 102	chemicals
+T2	Term 147 156	roughness
+R1	Cause-Effect Arg1:T1 Arg2:T2

@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det
+2	most	most	RBS	_	3	advmod
+3	famous	famous	JJ	_	4	amod
+4	unkindness	unkindness	NN	_	14	nsubj
+5	of	of	IN	_	4	prep
+6	six	six	CD	_	7	num
+7	ravens	raven	NNS	_	5	pobj
+8	at	at	IN	_	4	prep
+9	the	the	DT	_	10	det
+10	Tower	tower	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	London	London	NNP	_	11	pobj
+13	are	be	VBP	_	14	cop
+14	employees	employee	NNS	_	0	ROOT
+15	,	,	,	_	14	punct
+16	kept	keep	VBD	_	14	vmod
+17	on	on	IN	_	16	prep
+18	staff	staff	NN	_	17	pobj
+19	at	at	IN	_	16	prep
+20	the	the	DT	_	21	det
+21	expense	expense	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	the	the	DT	_	25	det
+24	British	british	JJ	_	25	amod
+25	government	government	NN	_	22	pobj
+26	.	.	.	_	14	punct
+

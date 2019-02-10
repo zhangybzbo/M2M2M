@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	information	information	NN	_	5	nsubj
+3	presented	present	VBN	_	2	vmod
+4	here	here	RB	_	3	advmod
+5	comes	come	VBZ	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	series	series	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	seasonal	seasonal	JJ	_	12	amod
+11	telephone	telephone	NN	_	12	nn
+12	surveys	survey	NNS	_	9	pobj
+13	.	.	.	_	5	punct
+

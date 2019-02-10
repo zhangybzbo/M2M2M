@@ -1,0 +1,20 @@
+1	Comedy	comedy	NN	_	3	nsubjpass
+2	was	be	VBD	_	3	auxpass
+3	employed	employ	VBN	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	cathartic	cathartic	JJ	_	7	amod
+7	role	role	NN	_	4	pobj
+8	against	against	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	tension	tension	NN	_	8	pobj
+11	,	,	,	_	10	punct
+12	fear	fear	NN	_	10	conj
+13	and	and	CC	_	10	cc
+14	grief	grief	NN	_	10	conj
+15	caused	cause	VBN	_	10	vmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	fighting	fighting	NN	_	16	pobj
+19	.	.	.	_	3	punct
+

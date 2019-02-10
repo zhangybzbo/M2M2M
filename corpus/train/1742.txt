@@ -1,0 +1,1 @@
+Comments are parts of the source code disregarded by the compiler .

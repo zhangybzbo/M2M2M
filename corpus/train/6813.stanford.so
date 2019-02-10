@@ -1,0 +1,13 @@
+0	62	sentence id="s0" parse_status="success"
+0	12	tok id="t0" base="hairdress" pos="VBG" csubj="t4"
+13	17	tok id="t1" base="with" pos="IN" prep="t0"
+18	23	tok id="t2" base="color" pos="NN" pobj="t1"
+24	27	tok id="t3" base="have" pos="VBZ" aux="t4"
+28	34	tok id="t4" base="become" pos="VBN" ROOT="ROOT"
+35	36	tok id="t5" base="a" pos="DT" det="t7"
+37	43	tok id="t6" base="common" pos="JJ" amod="t7"
+44	49	tok id="t7" base="trend" pos="NN" xcomp="t4"
+50	55	tok id="t8" base="these" pos="DT" det="t9"
+56	60	tok id="t9" base="day" pos="NNS" tmod="t4"
+61	62	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

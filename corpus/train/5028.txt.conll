@@ -1,0 +1,16 @@
+1	Joints	joint	NNS	_	3	nsubj
+2	are	be	VBP	_	3	cop
+3	parts	part	NNS	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	body	body	NN	_	4	pobj
+7	where	where	WRB	_	9	advmod
+8	bones	bone	NNS	_	9	nsubj
+9	meet	meet	VBP	_	6	rcmod
+10	,	,	,	_	3	punct
+11	such	such	JJ	_	12	mwe
+12	as	as	IN	_	3	prep
+13	your	you	PRP$	_	14	poss
+14	knee	knee	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

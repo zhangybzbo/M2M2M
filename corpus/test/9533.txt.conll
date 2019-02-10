@@ -1,0 +1,14 @@
+1	Just	just	RB	_	2	advmod
+2	before	before	IN	_	9	prep
+3	serving	serve	VBG	_	2	pcomp
+4	,	,	,	_	9	punct
+5	the	the	DT	_	7	det
+6	olive	olive	JJ	_	7	amod
+7	oil	oil	NN	_	9	nsubjpass
+8	was	be	VBD	_	9	auxpass
+9	poured	pour	VBN	_	0	ROOT
+10	into	into	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	salad	salad	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

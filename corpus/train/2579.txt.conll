@@ -1,0 +1,20 @@
+1	And	and	CC	_	5	cc
+2	look	look	NN	_	5	dep
+3	,	,	,	_	5	punct
+4	there	there	EX	_	5	expl
+5	goes	go	VBZ	_	0	ROOT
+6	a	a	DT	_	8	det
+7	good	good	JJ	_	8	amod
+8	stand	stand	NN	_	5	dobj
+9	of	of	IN	_	8	prep
+10	golden	golden	JJ	_	11	amod
+11	plovers	plover	NNS	_	9	pobj
+12	,	,	,	_	8	punct
+13	right	right	JJ	_	14	amod
+14	clean	clean	JJ	_	8	amod
+15	away	away	RB	_	14	advmod
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	foreshores	foreshore	NNS	_	16	pobj
+19	.	.	.	_	5	punct
+

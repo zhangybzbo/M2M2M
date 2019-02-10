@@ -1,0 +1,24 @@
+1	For	for	IN	_	16	prep
+2	the	the	DT	_	4	det
+3	first	first	JJ	_	4	amod
+4	time	time	NN	_	1	pobj
+5	in	in	IN	_	4	prep
+6	more	more	JJR	_	7	mwe
+7	than	than	IN	_	8	quantmod
+8	25	25	CD	_	9	num
+9	years	year	NNS	_	5	pobj
+10	,	,	,	_	16	punct
+11	captive-bred	captive-bred	JJ	_	13	amod
+12	black	black	JJ	_	13	amod
+13	rhinos	rhino	NNS	_	16	nsubjpass
+14	have	have	VBP	_	16	aux
+15	been	be	VBN	_	16	auxpass
+16	released	release	VBN	_	0	ROOT
+17	back	back	RB	_	16	advmod
+18	into	into	IN	_	16	prep
+19	the	the	DT	_	20	det
+20	wild	wild	JJ	_	18	pobj
+21	in	in	IN	_	20	prep
+22	Kenya	Kenya	NNP	_	21	pobj
+23	.	.	.	_	16	punct
+

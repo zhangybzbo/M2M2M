@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	continent	continent	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	sunk	sink	VBN	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	deep	deep	JJ	_	8	amod
+7	economic	economic	JJ	_	8	amod
+8	abyss	abyss	NN	_	5	pobj
+9	.	.	.	_	4	punct
+

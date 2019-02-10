@@ -1,0 +1,12 @@
+1	Nuclear	nuclear	JJ	_	2	amod
+2	material	material	NN	_	7	nsubjpass
+3	of	of	IN	_	2	prep
+4	Trypanosoma	trypanosoma	NN	_	5	nn
+5	brucei	bruceus	NN	_	3	pobj
+6	is	be	VBZ	_	7	auxpass
+7	imported	import	VBN	_	0	ROOT
+8	into	into	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	mitochondria	mitochondrium	NN	_	8	pobj
+11	.	.	.	_	7	punct
+

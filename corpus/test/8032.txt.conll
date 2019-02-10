@@ -1,0 +1,16 @@
+1	Many	many	JJ	_	6	nsubj
+2	of	of	IN	_	1	prep
+3	his	he	PRP$	_	5	poss
+4	literary	literary	JJ	_	5	amod
+5	pieces	piece	NNS	_	2	pobj
+6	narrate	narrate	VB	_	0	ROOT
+7	and	and	CC	_	6	cc
+8	mention	mention	VB	_	6	conj
+9	stories	story	NNS	_	6	dobj
+10	that	that	WDT	_	11	nsubj
+11	took	take	VBD	_	9	rcmod
+12	place	place	NN	_	11	dobj
+13	in	in	IN	_	11	prep
+14	Lipa	Lipa	NNP	_	13	pobj
+15	.	.	.	_	6	punct
+

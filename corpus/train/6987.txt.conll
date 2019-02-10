@@ -1,0 +1,24 @@
+1	GolTV	GolTV	NNP	_	5	poss
+2	's	's	POS	_	1	possessive
+3	unique	unique	JJ	_	5	amod
+4	offering	offering	NN	_	5	nn
+5	positions	position	NNS	_	0	ROOT
+6	it	it	PRP	_	5	dep
+7	in	in	IN	_	6	prep
+8	the	the	DT	_	13	det
+9	highly	highly	RB	_	10	advmod
+10	competitive	competitive	JJ	_	13	amod
+11	US	US	NNP	_	13	nn
+12	media	media	NNS	_	13	nn
+13	market	market	NN	_	7	pobj
+14	as	as	IN	_	6	prep
+15	the	the	DT	_	18	det
+16	only	only	JJ	_	18	amod
+17	TV	tv	NN	_	18	nn
+18	channel	channel	NN	_	14	pobj
+19	devoted	devoted	JJ	_	18	amod
+20	exclusively	exclusively	RB	_	21	advmod
+21	to	to	TO	_	19	prep
+22	soccer	soccer	NN	_	21	pobj
+23	.	.	.	_	5	punct
+

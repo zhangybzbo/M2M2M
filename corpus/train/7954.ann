@@ -1,0 +1,3 @@
+T1	Term 53 58	light
+T2	Term 63 67	lamp
+R1	Cause-Effect Arg1:T2 Arg2:T1

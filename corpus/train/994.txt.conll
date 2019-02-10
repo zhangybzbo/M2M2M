@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	Commission	Commission	NNP	_	3	nsubj
+3	submitted	submit	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	Council	Council	NNP	_	4	pobj
+7	and	and	CC	_	6	cc
+8	the	the	DT	_	10	det
+9	European	European	NNP	_	10	nn
+10	Parliament	Parliament	NNP	_	6	conj
+11	a	a	DT	_	12	det
+12	report	report	NN	_	3	dobj
+13	on	on	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	application	application	NN	_	13	pobj
+16	and	and	CC	_	15	cc
+17	conditions	condition	NNS	_	15	conj
+18	of	of	IN	_	15	prep
+19	implementation	implementation	NN	_	18	pobj
+20	of	of	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	Agreement	agreement	NN	_	20	pobj
+23	.	.	.	_	3	punct
+

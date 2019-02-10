@@ -1,0 +1,22 @@
+1	Down	down	IN	_	18	prep
+2	the	the	DT	_	4	det
+3	winding	wind	VBG	_	4	amod
+4	path	path	NN	_	1	pobj
+5	which	which	WDT	_	6	nsubj
+6	curved	curve	VBD	_	4	rcmod
+7	among	among	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	rocks	rock	NNS	_	7	pobj
+10	the	the	DT	_	12	det
+11	little	little	JJ	_	12	amod
+12	train	train	NN	_	6	dobj
+13	of	of	IN	_	12	prep
+14	baggage	baggage	NN	_	15	nn
+15	camels	camel	NNS	_	13	pobj
+16	was	be	VBD	_	18	aux
+17	daintily	daintily	RB	_	18	advmod
+18	picking	pick	VBG	_	0	ROOT
+19	its	its	PRP$	_	20	poss
+20	way	way	NN	_	18	dobj
+21	.	.	.	_	18	punct
+

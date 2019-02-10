@@ -1,0 +1,21 @@
+1	Stirring	stir	VBG	_	0	ROOT
+2	the	the	DT	_	4	det
+3	hot	hot	JJ	_	4	amod
+4	popcorn	popcorn	NN	_	1	dobj
+5	around	around	IN	_	1	prep
+6	in	in	IN	_	5	pcomp
+7	a	a	DT	_	8	det
+8	kettle	kettle	NN	_	6	pobj
+9	drizzled	drizzle	VBN	_	8	vmod
+10	with	with	IN	_	9	prep
+11	sugar	sugar	NN	_	17	nn
+12	,	,	,	_	11	punct
+13	salt	salt	NN	_	11	conj
+14	and	and	CC	_	11	cc
+15	oil	oil	NN	_	11	conj
+16	evenly	evenly	RB	_	17	advmod
+17	coats	coat	NNS	_	10	pobj
+18	the	the	DT	_	19	det
+19	popcorn	popcorn	NN	_	17	dep
+20	.	.	.	_	1	punct
+

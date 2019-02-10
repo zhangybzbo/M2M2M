@@ -1,0 +1,19 @@
+1	This	this	DT	_	4	det
+2	grand	grand	JJ	_	4	amod
+3	cru	cru	NN	_	4	nn
+4	wine	wine	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	made	make	VBN	_	0	ROOT
+7	from	from	IN	_	6	prep
+8	Pinot	Pinot	NNP	_	10	nn
+9	Noir	Noir	NNP	_	10	nn
+10	grapes	grape	NNS	_	7	pobj
+11	and	and	CC	_	6	cc
+12	is	be	VBZ	_	13	cop
+13	medium	medium	NN	_	6	conj
+14	to	to	TO	_	13	prep
+15	full-bodied	full-bodied	JJ	_	14	pobj
+16	in	in	IN	_	13	prep
+17	style	style	NN	_	16	pobj
+18	.	.	.	_	6	punct
+

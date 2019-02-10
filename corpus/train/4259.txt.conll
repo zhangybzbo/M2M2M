@@ -1,0 +1,22 @@
+1	Harry	Harry	NNP	_	2	nn
+2	Loper	Loper	NNP	_	4	nsubj
+3	had	have	VBD	_	4	aux
+4	provided	provide	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	automobile	automobile	NN	_	4	dobj
+7	that	that	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	sheriff	sheriff	NN	_	7	pobj
+10	used	use	VBN	_	9	vmod
+11	to	to	TO	_	12	aux
+12	get	get	VB	_	10	xcomp
+13	the	the	DT	_	15	det
+14	two	two	CD	_	15	num
+15	men	man	NNS	_	12	dobj
+16	out	out	IN	_	12	prep
+17	of	of	IN	_	16	pcomp
+18	harm	harm	NN	_	20	poss
+19	's	's	POS	_	18	possessive
+20	way	way	NN	_	17	pobj
+21	.	.	.	_	4	punct
+

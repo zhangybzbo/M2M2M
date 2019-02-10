@@ -1,0 +1,15 @@
+1	We	we	PRP	_	3	nsubj
+2	even	even	RB	_	3	advmod
+3	heard	hear	VBD	_	0	ROOT
+4	from	from	IN	_	3	prep
+5	descendants	descendant	NNS	_	4	pobj
+6	of	of	IN	_	5	prep
+7	Gustav	Gustav	NNP	_	8	nn
+8	Schoenike	Schoenike	NNP	_	6	pobj
+9	who	who	WP	_	13	nsubj
+10	was	be	VBD	_	13	cop
+11	the	the	DT	_	13	det
+12	violin	violin	NN	_	13	nn
+13	maker	maker	NN	_	8	rcmod
+14	.	.	.	_	3	punct
+

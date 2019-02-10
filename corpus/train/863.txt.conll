@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	government	government	NN	_	4	nsubj
+3	has	have	VBZ	_	4	aux
+4	poured	pour	VBN	_	0	ROOT
+5	billions	billion	NNS	_	4	dobj
+6	into	into	IN	_	4	prep
+7	education	education	NN	_	8	nn
+8	reforms	reform	NNS	_	6	pobj
+9	.	.	.	_	4	punct
+

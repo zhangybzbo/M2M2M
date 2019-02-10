@@ -1,0 +1,3 @@
+T1	Term 77 82	round
+T2	Term 95 101	drinks
+R1	Member-Collection Arg1:T2 Arg2:T1

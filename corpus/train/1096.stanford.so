@@ -1,0 +1,11 @@
+0	60	sentence id="s0" parse_status="success"
+0	13	tok id="t0" base="Semiconductor" pos="NNP" nn="t1"
+14	18	tok id="t1" base="tech" pos="NN" nsubj="t2"
+19	28	tok id="t2" base="diagnose" pos="VBZ" ROOT="ROOT"
+29	32	tok id="t3" base="eye" pos="NN" nn="t4"
+33	40	tok id="t4" base="disease" pos="NN" dobj="t2"
+41	45	tok id="t5" base="over" pos="IN" prep="t2"
+46	49	tok id="t6" base="the" pos="DT" det="t7"
+50	58	tok id="t7" base="internet" pos="NN" pobj="t5"
+59	60	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

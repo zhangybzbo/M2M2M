@@ -1,0 +1,21 @@
+1	Causing	cause	VBG	_	14	vmod
+2	many	many	JJ	_	4	amod
+3	night-glowing	night-glowing	JJ	_	4	amod
+4	rubies	ruby	NNS	_	1	dobj
+5	to	to	TO	_	7	aux
+6	be	be	VB	_	7	auxpass
+7	strung	string	VBN	_	1	vmod
+8	on	on	IN	_	7	prep
+9	red	red	JJ	_	11	amod
+10	silken	silken	JJ	_	11	amod
+11	thread	thread	NN	_	8	pobj
+12	,	,	,	_	14	punct
+13	he	he	PRP	_	14	nsubj
+14	put	put	VBD	_	0	ROOT
+15	the	the	DT	_	16	det
+16	necklaces	necklace	NNS	_	14	dobj
+17	in	in	IN	_	14	prep
+18	the	the	DT	_	19	det
+19	cradle	cradle	NN	_	17	pobj
+20	.	.	.	_	14	punct
+

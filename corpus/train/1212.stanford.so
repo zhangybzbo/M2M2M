@@ -1,0 +1,9 @@
+0	29	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="party" pos="NN" nsubj="t2"
+10	16	tok id="t2" base="start" pos="VBZ" ROOT="ROOT"
+17	19	tok id="t3" base="in" pos="IN" prep="t2"
+20	22	tok id="t4" base="a" pos="DT" det="t5"
+23	27	tok id="t5" base="hour" pos="NN" pobj="t3"
+28	29	tok id="t6" base="-PERIOD-" pos="." punct="t2"
+

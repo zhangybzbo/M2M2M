@@ -1,0 +1,13 @@
+0	59	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="Mado" pos="NNP" nsubj="t1"
+5	12	tok id="t1" base="manage" pos="VBZ" ROOT="ROOT"
+13	15	tok id="t2" base="to" pos="TO" aux="t3"
+16	22	tok id="t3" base="escape" pos="VB" xcomp="t1"
+23	26	tok id="t4" base="and" pos="CC" cc="t1"
+27	34	tok id="t5" base="kidnap" pos="VBZ" conj="t1"
+35	38	tok id="t6" base="the" pos="DT" det="t7"
+39	48	tok id="t7" base="scientist" pos="NN" poss="t9"
+49	51	tok id="t8" base="'s" pos="POS" possessive="t7"
+52	57	tok id="t9" base="niece" pos="NN" dobj="t5"
+58	59	tok id="t10" base="-PERIOD-" pos="." punct="t1"
+

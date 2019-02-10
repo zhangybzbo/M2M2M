@@ -1,0 +1,23 @@
+1	Within	within	IN	_	4	prep
+2	it	it	PRP	_	1	pobj
+3	I	I	PRP	_	4	nsubj
+4	found	find	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	large	large	JJ	_	7	amod
+7	quantity	quantity	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	small	small	JJ	_	10	amod
+10	smelts	smelt	NNS	_	8	pobj
+11	,	,	,	_	4	punct
+12	besides	besides	IN	_	4	prep
+13	prawns	prawn	NNS	_	12	pobj
+14	,	,	,	_	13	punct
+15	shrimps	shrimp	NNS	_	13	conj
+16	,	,	,	_	13	punct
+17	and	and	CC	_	13	cc
+18	a	a	DT	_	21	det
+19	few	few	JJ	_	21	amod
+20	small	small	JJ	_	21	amod
+21	crabs	crab	NNS	_	13	conj
+22	.	.	.	_	4	punct
+

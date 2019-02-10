@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det
+2	influence	influence	NN	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	hole	hole	NN	_	5	nn
+5	shape	shape	NN	_	3	pobj
+6	on	on	IN	_	2	prep
+7	extraordinary	extraordinary	JJ	_	9	amod
+8	optical	optical	JJ	_	9	amod
+9	transmission	transmission	NN	_	6	pobj
+10	was	be	VBD	_	11	auxpass
+11	investigated	investigate	VBN	_	0	ROOT
+12	using	use	VBG	_	11	xcomp
+13	hole	hole	NN	_	14	nn
+14	arrays	array	NNS	_	12	dobj
+15	consisting	consist	VBG	_	14	vmod
+16	of	of	IN	_	15	prep
+17	rectangular	rectangular	JJ	_	18	amod
+18	holes	hole	NNS	_	16	pobj
+19	with	with	IN	_	15	prep
+20	different	different	JJ	_	22	amod
+21	aspect	aspect	NN	_	22	nn
+22	ratios	ratio	NNS	_	19	pobj
+23	.	.	.	_	11	punct
+

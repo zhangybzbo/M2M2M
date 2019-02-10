@@ -1,0 +1,13 @@
+0	66	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="most" pos="JJS" amod="t1"
+5	11	tok id="t1" base="death" pos="NNS" nsubjpass="t6"
+12	16	tok id="t2" base="from" pos="IN" prep="t1"
+17	20	tok id="t3" base="the" pos="DT" det="t4"
+21	29	tok id="t4" base="accident" pos="NN" pobj="t2"
+30	34	tok id="t5" base="be" pos="VBD" auxpass="t6"
+35	41	tok id="t6" base="cause" pos="VBN" ROOT="ROOT"
+42	44	tok id="t7" base="by" pos="IN" prep="t6"
+45	54	tok id="t8" base="radiation" pos="NN" nn="t9"
+55	64	tok id="t9" base="poisoning" pos="NN" pobj="t7"
+65	66	tok id="t10" base="-PERIOD-" pos="." punct="t6"
+

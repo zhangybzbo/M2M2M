@@ -1,0 +1,20 @@
+1	Enrichment	enrichment	NN	_	9	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	soil	soil	NN	_	2	pobj
+5	with	with	IN	_	1	prep
+6	liquid	liquid	JJ	_	8	amod
+7	seaweed	seaweed	NN	_	8	nn
+8	extract	extract	NN	_	5	pobj
+9	has	have	VBZ	_	0	ROOT
+10	just	just	RB	_	11	advmod
+11	enough	enough	RB	_	9	advmod
+12	of	of	IN	_	11	prep
+13	an	a	DT	_	15	det
+14	alkaline	alkaline	NN	_	15	nn
+15	effect	effect	NN	_	12	pobj
+16	that	that	WDT	_	17	nsubj
+17	slugs	slug	VBZ	_	15	rcmod
+18	hate	hate	NN	_	17	dobj
+19	.	.	.	_	9	punct
+

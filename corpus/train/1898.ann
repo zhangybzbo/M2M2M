@@ -1,0 +1,3 @@
+T1	Term 29 38	residents
+T2	Term 68 77	countries
+R1	Entity-Origin Arg1:T1 Arg2:T2

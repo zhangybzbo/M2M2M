@@ -1,0 +1,25 @@
+1	In	in	IN	_	8	prep
+2	praise	praise	NN	_	1	pobj
+3	of	of	IN	_	2	prep
+4	these	these	DT	_	6	det
+5	beautiful	beautiful	JJ	_	6	amod
+6	classics	classic	NNS	_	3	pobj
+7	we	we	PRP	_	8	nsubj
+8	organized	organize	VBD	_	0	ROOT
+9	`	`	``	_	11	punct
+10	mekko	mekko	JJ	_	11	amod
+11	exhibition	exhibition	NN	_	8	dobj
+12	'	'	''	_	11	punct
+13	out	out	IN	_	11	prep
+14	of	of	IN	_	13	pcomp
+15	DIY	DIY	NNP	_	16	nn
+16	fashion	fashion	NN	_	14	pobj
+17	shoots	shoot	VBZ	_	8	dep
+18	and	and	CC	_	17	cc
+19	nostalgic	nostalgic	JJ	_	17	conj
+20	photos	photo	NNS	_	17	dobj
+21	from	from	IN	_	20	prep
+22	family	family	NN	_	23	nn
+23	albums	album	NNS	_	21	pobj
+24	.	.	.	_	8	punct
+

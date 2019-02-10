@@ -1,0 +1,12 @@
+1	Paternally	paternally	RB	_	4	advmod
+2	derived	derive	VBN	_	4	amod
+3	genetic	genetic	JJ	_	4	amod
+4	material	material	NN	_	6	nsubjpass
+5	is	be	VBZ	_	6	auxpass
+6	inherited	inherit	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	10	det
+9	next	next	JJ	_	10	amod
+10	generation	generation	NN	_	7	pobj
+11	.	.	.	_	6	punct
+

@@ -1,0 +1,20 @@
+1	Well	well	UH	_	2	discourse
+2	rested	rest	VBD	_	12	advcl
+3	from	from	IN	_	2	prep
+4	our	we	PRP$	_	8	poss
+5	relaxing	relaxing	JJ	_	8	amod
+6	day	day	NN	_	8	nn
+7	pool	pool	NN	_	8	nn
+8	side	side	NN	_	3	pobj
+9	,	,	,	_	12	punct
+10	the	the	DT	_	11	det
+11	tourists	tourist	NNS	_	12	nsubj
+12	had	have	VBD	_	0	ROOT
+13	an	a	DT	_	15	det
+14	early	early	JJ	_	15	amod
+15	departure	departure	NN	_	12	dobj
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	hotel	hotel	NN	_	16	pobj
+19	.	.	.	_	12	punct
+

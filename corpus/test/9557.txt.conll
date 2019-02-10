@@ -1,0 +1,11 @@
+1	Xiehouyu	Xiehouyu	NNP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	Chinese	chinese	JJ	_	5	amod
+5	proverb	proverb	NN	_	0	ROOT
+6	consisting	consist	VBG	_	5	vmod
+7	of	of	IN	_	6	prep
+8	two	two	CD	_	9	num
+9	parts	part	NNS	_	7	pobj
+10	.	.	.	_	5	punct
+

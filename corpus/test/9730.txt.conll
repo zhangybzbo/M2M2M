@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	letter	letter	NN	_	3	nsubj
+3	contained	contain	VBD	_	0	ROOT
+4	details	detail	NNS	_	3	dobj
+5	on	on	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	dispute	dispute	NN	_	5	pobj
+8	.	.	.	_	3	punct
+

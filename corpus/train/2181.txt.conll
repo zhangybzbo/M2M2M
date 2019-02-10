@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	weapon	weapon	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	hidden	hide	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	what	what	WP	_	7	nsubj
+7	appears	appear	VBZ	_	5	pcomp
+8	to	to	TO	_	12	aux
+9	be	be	VB	_	12	cop
+10	a	a	DT	_	12	det
+11	mobile	mobile	JJ	_	12	amod
+12	phone	phone	NN	_	7	xcomp
+13	.	.	.	_	4	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	compromise	compromise	NN	_	3	nsubj
+3	resolved	resolve	VBN	_	0	ROOT
+4	the	the	DT	_	5	det
+5	crisis	crisis	NN	_	3	dobj
+6	through	through	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	series	series	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	secret	secret	JJ	_	11	amod
+11	negotiations	negotiation	NNS	_	9	pobj
+12	involving	involve	VBG	_	11	vmod
+13	Republican	republican	JJ	_	16	amod
+14	and	and	CC	_	13	cc
+15	Democratic	democratic	JJ	_	13	conj
+16	politicians	politician	NNS	_	12	dobj
+17	and	and	CC	_	16	cc
+18	various	various	JJ	_	20	amod
+19	interest	interest	NN	_	20	nn
+20	groups	group	NNS	_	16	conj
+21	.	.	.	_	3	punct
+

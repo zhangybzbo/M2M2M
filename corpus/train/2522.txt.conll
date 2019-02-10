@@ -1,0 +1,25 @@
+1	The	the	DT	_	4	det
+2	Tafawa	Tafawa	NNP	_	4	nn
+3	Balewa	Balewa	NNP	_	4	nn
+4	Square	Square	NNP	_	10	nsubj
+5	-LRB-	-lrb-	-LRB-	_	6	punct
+6	TBS	TBS	NNP	_	4	appos
+7	-RRB-	-rrb-	-RRB-	_	6	punct
+8	in	in	IN	_	4	prep
+9	Lagos	Lagos	NNP	_	8	pobj
+10	hosted	host	VBD	_	0	ROOT
+11	a	a	DT	_	12	det
+12	galaxy	galaxy	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	events	event	NNS	_	13	pobj
+15	with	with	IN	_	14	prep
+16	tourism	tourism	NN	_	19	nn
+17	and	and	CC	_	16	cc
+18	culture	culture	NN	_	16	conj
+19	activities	activity	NNS	_	15	pobj
+20	as	as	IN	_	19	prep
+21	center	center	NN	_	20	pobj
+22	of	of	IN	_	21	prep
+23	attraction	attraction	NN	_	22	pobj
+24	.	.	.	_	10	punct
+

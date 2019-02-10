@@ -1,0 +1,13 @@
+1	Politicians	politician	NNS	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	discovering	discover	VBG	_	0	ROOT
+4	Sufi	sufi	JJ	_	5	amod
+5	teachings	teaching	NNS	_	3	dobj
+6	as	as	IN	_	3	prep
+7	a	a	DT	_	8	det
+8	means	means	NN	_	6	pobj
+9	against	against	IN	_	8	prep
+10	religious	religious	JJ	_	11	amod
+11	extremism	extremism	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

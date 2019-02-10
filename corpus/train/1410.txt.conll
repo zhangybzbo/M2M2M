@@ -1,0 +1,14 @@
+1	Even	even	RB	_	4	advmod
+2	the	the	DT	_	4	det
+3	fan	fan	NN	_	4	nn
+4	blades	blade	NNS	_	9	nsubjpass
+5	inside	inside	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	engine	engine	NN	_	5	pobj
+8	are	be	VBP	_	9	auxpass
+9	designed	design	VBN	_	0	ROOT
+10	to	to	TO	_	12	aux
+11	be	be	VB	_	12	cop
+12	quieter	quieter	JJR	_	9	xcomp
+13	.	.	.	_	9	punct
+

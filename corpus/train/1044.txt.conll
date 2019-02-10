@@ -1,0 +1,22 @@
+1	An	a	DT	_	2	det
+2	association	association	NN	_	17	nsubj
+3	between	between	IN	_	2	prep
+4	increased	increase	VBN	_	5	amod
+5	egg	egg	NN	_	3	pobj
+6	laying	lay	VBG	_	5	vmod
+7	by	by	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	leaf	leaf	NN	_	10	nn
+10	miner	miner	NN	_	7	pobj
+11	and	and	CC	_	2	cc
+12	increased	increase	VBD	_	2	conj
+13	caffeine	caffeine	NN	_	14	nn
+14	levels	level	NNS	_	12	dobj
+15	in	in	IN	_	14	prep
+16	coffee	coffee	NN	_	15	pobj
+17	leaves	leave	VBZ	_	0	ROOT
+18	was	be	VBD	_	20	auxpass
+19	recently	recently	RB	_	20	advmod
+20	recognized	recognize	VBN	_	17	dep
+21	.	.	.	_	17	punct
+

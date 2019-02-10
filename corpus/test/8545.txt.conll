@@ -1,0 +1,17 @@
+1	Rather	rather	RB	_	3	advmod
+2	than	than	IN	_	3	mark
+3	call	call	VB	_	10	advcl
+4	a	a	DT	_	6	det
+5	mobile	mobile	JJ	_	6	amod
+6	mechanic	mechanic	NN	_	3	dobj
+7	,	,	,	_	10	punct
+8	the	the	DT	_	9	det
+9	drivers	driver	NNS	_	10	nsubj
+10	fixed	fix	VBN	_	0	ROOT
+11	the	the	DT	_	12	det
+12	hole	hole	NN	_	10	dobj
+13	with	with	IN	_	10	prep
+14	a	a	DT	_	15	det
+15	toothpick	toothpick	NN	_	13	pobj
+16	.	.	.	_	10	punct
+

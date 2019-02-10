@@ -1,0 +1,13 @@
+0	77	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	14	tok id="t1" base="windshield" pos="NN" nsubj="t2"
+15	23	tok id="t2" base="enclose" pos="VBZ" ROOT="ROOT"
+24	25	tok id="t3" base="a" pos="DT" det="t5"
+26	35	tok id="t4" base="parachute" pos="NN" nn="t5"
+36	43	tok id="t5" base="housing" pos="NN" dobj="t2"
+44	54	tok id="t6" base="contain" pos="VBG" vmod="t5"
+55	56	tok id="t7" base="a" pos="DT" det="t9"
+57	66	tok id="t8" base="parachute" pos="NN" nn="t9"
+67	75	tok id="t9" base="assembly" pos="NN" dobj="t6"
+76	77	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

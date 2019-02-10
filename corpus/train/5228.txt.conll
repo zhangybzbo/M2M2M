@@ -1,0 +1,17 @@
+1	Marketing	Marketing	NNP	_	3	nn
+2	communications	communication	NNS	_	3	nn
+3	resources	resource	NNS	_	5	nsubjpass
+4	are	be	VBP	_	5	auxpass
+5	used	use	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	organisations	organisation	NNS	_	6	pobj
+8	in	in	IN	_	11	mark
+9	order	order	NN	_	11	dep
+10	to	to	TO	_	11	aux
+11	communicate	communicate	VB	_	5	advcl
+12	with	with	IN	_	11	prep
+13	their	they	PRP$	_	15	poss
+14	target	target	NN	_	15	nn
+15	audiences	audience	NNS	_	12	pobj
+16	.	.	.	_	5	punct
+

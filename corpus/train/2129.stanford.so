@@ -1,0 +1,10 @@
+0	50	sentence id="s0" parse_status="success"
+0	11	tok id="t0" base="citizenship" pos="NN" nsubjpass="t3"
+12	15	tok id="t1" base="be" pos="VBD" auxpass="t3"
+16	23	tok id="t2" base="finally" pos="RB" advmod="t3"
+24	31	tok id="t3" base="award" pos="VBN" ROOT="ROOT"
+32	34	tok id="t4" base="to" pos="TO" prep="t3"
+35	38	tok id="t5" base="the" pos="DT" det="t6"
+39	48	tok id="t6" base="immigrant" pos="JJ" pobj="t4"
+49	50	tok id="t7" base="-PERIOD-" pos="." punct="t3"
+

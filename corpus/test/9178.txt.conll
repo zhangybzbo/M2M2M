@@ -1,0 +1,20 @@
+1	She	she	PRP	_	2	nsubj
+2	pulled	pull	VBD	_	0	ROOT
+3	out	out	RP	_	2	prt
+4	an	a	DT	_	5	det
+5	atlas	atla	NN	_	2	dobj
+6	from	from	IN	_	2	prep
+7	the	the	DT	_	8	det
+8	cabinet	cabinet	NN	_	6	pobj
+9	by	by	IN	_	2	prep
+10	the	the	DT	_	11	det
+11	couch	couch	NN	_	9	pobj
+12	and	and	CC	_	2	cc
+13	opened	open	VBD	_	2	conj
+14	it	it	PRP	_	13	dobj
+15	to	to	TO	_	13	prep
+16	a	a	DT	_	18	det
+17	world	world	NN	_	18	nn
+18	map	map	NN	_	15	pobj
+19	.	.	.	_	2	punct
+

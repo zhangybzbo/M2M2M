@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	bombing	bombing	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	deaths	death	NNS	_	4	pobj
+7	of	of	IN	_	6	prep
+8	1318	1318	CD	_	7	pobj
+9	in	in	IN	_	6	prep
+10	Hanoi	Hanoi	NNP	_	9	pobj
+11	.	.	.	_	3	punct
+

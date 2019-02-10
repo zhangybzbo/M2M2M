@@ -1,0 +1,16 @@
+1	The	the	DT	_	4	det
+2	ancient	ancient	JJ	_	4	amod
+3	astronaut	astronaut	NN	_	4	nn
+4	theory	theory	NN	_	7	nsubjpass
+5	has	have	VBZ	_	7	aux
+6	been	be	VBN	_	7	auxpass
+7	addressed	address	VBN	_	0	ROOT
+8	frequently	frequently	RB	_	7	advmod
+9	in	in	IN	_	7	prep
+10	science	science	NN	_	11	nn
+11	fiction	fiction	NN	_	9	pobj
+12	and	and	CC	_	11	cc
+13	horror	horror	NN	_	14	nn
+14	fiction	fiction	NN	_	11	conj
+15	.	.	.	_	7	punct
+

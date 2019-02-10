@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj
+2	like	like	VBP	_	0	ROOT
+3	how	how	WRB	_	7	advmod
+4	the	the	DT	_	5	det
+5	device	device	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	crammed	cram	VBN	_	2	ccomp
+8	into	into	IN	_	7	prep
+9	a	a	DT	_	10	det
+10	beaker	beaker	NN	_	8	pobj
+11	;	;	:	_	2	punct
+12	I	I	PRP	_	13	nsubj
+13	view	view	VBP	_	2	parataxis
+14	this	this	DT	_	15	det
+15	gizmo	gizmo	NN	_	13	dobj
+16	as	as	IN	_	13	prep
+17	a	a	DT	_	18	det
+18	metaphor	metaphor	NN	_	16	pobj
+19	for	for	IN	_	18	prep
+20	a	a	DT	_	22	det
+21	mad	mad	JJ	_	22	amod
+22	scientist	scientist	NN	_	24	poss
+23	's	's	POS	_	22	possessive
+24	brain	brain	NN	_	19	pobj
+25	.	.	.	_	2	punct
+

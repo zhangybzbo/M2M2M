@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	violence	violence	NN	_	3	nsubj
+3	resulted	result	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	death	death	NN	_	4	pobj
+7	of	of	IN	_	6	prep
+8	police	police	NN	_	13	nn
+9	``	``	``	_	13	punct
+10	capo	capo	FW	_	13	nn
+11	''	''	''	_	13	punct
+12	Filippo	Filippo	NNP	_	13	nn
+13	Raciti	Raciti	NNP	_	7	pobj
+14	,	,	,	_	13	punct
+15	which	which	WDT	_	16	nsubj
+16	caused	cause	VBD	_	13	rcmod
+17	widespread	widespread	JJ	_	18	amod
+18	soul-searching	soul-searching	NN	_	16	dobj
+19	and	and	CC	_	18	cc
+20	a	a	DT	_	22	det
+21	week-long	week-long	JJ	_	22	amod
+22	suspension	suspension	NN	_	18	conj
+23	of	of	IN	_	22	prep
+24	Italian	italian	JJ	_	25	amod
+25	football	football	NN	_	23	pobj
+26	.	.	.	_	3	punct
+

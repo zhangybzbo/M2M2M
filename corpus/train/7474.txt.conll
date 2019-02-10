@@ -1,0 +1,20 @@
+1	A	a	DT	_	2	det
+2	letterbox	letterbox	NN	_	8	nsubj
+3	is	be	VBZ	_	8	cop
+4	a	a	DT	_	8	det
+5	plastic	plastic	NN	_	8	nn
+6	,	,	,	_	8	punct
+7	screw-top	screw-top	JJ	_	8	amod
+8	bottle	bottle	NN	_	0	ROOT
+9	that	that	WDT	_	10	nsubj
+10	contains	contain	VBZ	_	8	rcmod
+11	a	a	DT	_	13	det
+12	small	small	JJ	_	13	amod
+13	notebook	notebook	NN	_	10	dobj
+14	and	and	CC	_	13	cc
+15	a	a	DT	_	18	det
+16	unique	unique	JJ	_	18	amod
+17	rubber	rubber	NN	_	18	nn
+18	stamp	stamp	NN	_	13	conj
+19	.	.	.	_	8	punct
+

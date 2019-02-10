@@ -1,0 +1,3 @@
+T1	Term 37 45	regiment
+T2	Term 49 56	hunters
+R1	Member-Collection Arg1:T2 Arg2:T1

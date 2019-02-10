@@ -1,0 +1,23 @@
+1	It	it	PRP	_	5	nsubj
+2	was	be	VBD	_	5	cop
+3	a	a	DT	_	5	det
+4	beautiful	beautiful	JJ	_	5	amod
+5	example	example	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	community	community	NN	_	6	pobj
+8	forming	form	VBG	_	7	vmod
+9	-	-	:	_	8	punct
+10	a	a	DT	_	11	det
+11	circle	circle	NN	_	8	dobj
+12	of	of	IN	_	11	prep
+13	kindred	kindred	NN	_	14	nn
+14	souls	soul	NNS	_	12	pobj
+15	who	who	WP	_	16	nsubj
+16	shared	share	VBD	_	11	rcmod
+17	a	a	DT	_	18	det
+18	vision	vision	NN	_	16	dobj
+19	and	and	CC	_	18	cc
+20	a	a	DT	_	21	det
+21	dream	dream	NN	_	18	conj
+22	.	.	.	_	5	punct
+

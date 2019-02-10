@@ -1,0 +1,17 @@
+1	Acne	acne	NN	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	clogging	clog	VBG	_	4	pcomp
+6	of	of	IN	_	5	prep
+7	sebaceous	sebaceous	JJ	_	12	amod
+8	-LRB-	-lrb-	-LRB-	_	10	punct
+9	oil	oil	NN	_	10	nn
+10	producing	producing	NN	_	7	dep
+11	-RRB-	-rrb-	-RRB-	_	10	punct
+12	glands	gland	NNS	_	6	pobj
+13	on	on	IN	_	5	prep
+14	the	the	DT	_	15	det
+15	skin	skin	NN	_	13	pobj
+16	.	.	.	_	3	punct
+

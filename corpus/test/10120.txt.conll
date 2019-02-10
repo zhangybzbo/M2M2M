@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	method	method	NN	_	3	nsubj
+3	comprises	comprise	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	steps	step	NNS	_	3	dobj
+6	of	of	IN	_	5	prep
+7	heating	heat	VBG	_	6	pcomp
+8	a	a	DT	_	10	det
+9	laminated	laminated	JJ	_	10	amod
+10	sheet	sheet	NN	_	7	dobj
+11	,	,	,	_	3	punct
+12	and	and	CC	_	3	cc
+13	vacuum	vacuum	NN	_	3	conj
+14	forming	form	VBG	_	13	vmod
+15	the	the	DT	_	17	det
+16	heated	heat	VBN	_	17	amod
+17	sheet	sheet	NN	_	14	dobj
+18	in	in	IN	_	14	prep
+19	the	the	DT	_	23	det
+20	first	first	JJ	_	23	amod
+21	vacuum	vacuum	NN	_	23	nn
+22	mould	mould	NN	_	23	nn
+23	component	component	NN	_	18	pobj
+24	.	.	.	_	3	punct
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	bakeries	bakery	NNS	_	8	nsubj
+3	in	in	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	supermarket	supermarket	NN	_	6	nn
+6	area	area	NN	_	3	pobj
+7	also	also	RB	_	8	advmod
+8	reduce	reduce	VB	_	0	ROOT
+9	the	the	DT	_	10	det
+10	prices	price	NNS	_	8	dobj
+11	on	on	IN	_	10	prep
+12	their	they	PRP$	_	13	poss
+13	goods	goods	NNS	_	11	pobj
+14	as	as	IN	_	8	prep
+15	closing	close	VBG	_	17	amod
+16	time	time	NN	_	17	nn
+17	approaches	approach	NNS	_	14	pobj
+18	.	.	.	_	8	punct
+

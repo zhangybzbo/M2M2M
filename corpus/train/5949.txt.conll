@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det
+2	machine	machine	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	in	in	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	suitcase	suitcase	NN	_	4	pobj
+7	that	that	WDT	_	10	nsubj
+8	was	be	VBD	_	10	cop
+9	the	the	DT	_	10	det
+10	size	size	NN	_	6	rcmod
+11	of	of	IN	_	10	prep
+12	a	a	DT	_	14	det
+13	carry-on	carry-on	JJ	_	14	amod
+14	bag	bag	NN	_	11	pobj
+15	and	and	CC	_	10	cc
+16	weighed	weigh	VBD	_	10	conj
+17	less	less	JJR	_	18	mwe
+18	than	than	IN	_	19	quantmod
+19	10	10	CD	_	20	num
+20	pounds	pound	NNS	_	16	dobj
+21	.	.	.	_	3	punct
+

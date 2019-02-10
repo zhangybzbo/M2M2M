@@ -1,0 +1,11 @@
+1	His	he	PRP$	_	2	poss
+2	site	site	NN	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	some	some	DT	_	5	det
+5	pottery	pottery	NN	_	3	dobj
+6	by	by	IN	_	5	prep
+7	well	well	RB	_	8	advmod
+8	known	know	VBN	_	9	amod
+9	potters	potter	NNS	_	6	pobj
+10	.	.	.	_	3	punct
+

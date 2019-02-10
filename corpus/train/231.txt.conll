@@ -1,0 +1,20 @@
+1	A	a	DT	_	3	det
+2	conical	conical	JJ	_	3	amod
+3	cover	cover	NN	_	0	ROOT
+4	preserved	preserve	VBN	_	3	vmod
+5	in	in	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	ewer	ewer	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	Athens	Athens	NNP	_	10	nn
+10	accords	accord	NNS	_	8	pobj
+11	extremely	extremely	RB	_	12	advmod
+12	well	well	RB	_	13	advmod
+13	with	with	IN	_	3	prep
+14	the	the	DT	_	15	det
+15	form	form	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	these	these	DT	_	18	det
+18	vessels	vessel	NNS	_	16	pobj
+19	.	.	.	_	3	punct
+

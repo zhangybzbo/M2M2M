@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	bridge	bridge	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	moved	move	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	its	its	PRP$	_	8	poss
+7	original	original	JJ	_	8	amod
+8	location	location	NN	_	5	pobj
+9	in	in	IN	_	8	prep
+10	an	a	DT	_	11	det
+11	effort	effort	NN	_	9	pobj
+12	to	to	TO	_	13	aux
+13	save	save	VB	_	11	vmod
+14	it	it	PRP	_	13	dobj
+15	.	.	.	_	4	punct
+

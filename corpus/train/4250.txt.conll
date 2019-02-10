@@ -1,0 +1,10 @@
+1	I	I	PRP	_	2	nsubj
+2	found	find	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	lover	lover	NN	_	2	dobj
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	slow	slow	JJ	_	8	amod
+8	hand	hand	NN	_	5	pobj
+9	.	.	.	_	2	punct
+

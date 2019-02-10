@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	Archbishop	Archbishop	NNP	_	10	nsubj
+3	of	of	IN	_	2	prep
+4	York	York	NNP	_	3	pobj
+5	,	,	,	_	2	punct
+6	Dr	Dr	NNP	_	8	nn
+7	John	John	NNP	_	8	nn
+8	Sentamu	Sentamu	NNP	_	2	appos
+9	,	,	,	_	2	punct
+10	visited	visit	VBD	_	0	ROOT
+11	the	the	DT	_	12	det
+12	stoneyard	stoneyard	NN	_	10	dobj
+13	to	to	TO	_	14	aux
+14	survey	survey	VB	_	10	xcomp
+15	the	the	DT	_	16	det
+16	damage	damage	NN	_	14	dobj
+17	caused	cause	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	fire	fire	NN	_	18	pobj
+21	.	.	.	_	10	punct
+

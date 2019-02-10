@@ -1,0 +1,26 @@
+1	Police	Police	NNP	_	14	nsubj
+2	investigating	investigate	VBG	_	1	vmod
+3	the	the	DT	_	4	det
+4	discovery	discovery	NN	_	2	dobj
+5	of	of	IN	_	4	prep
+6	a	a	DT	_	8	det
+7	severed	sever	VBN	_	8	amod
+8	head	head	NN	_	5	pobj
+9	on	on	IN	_	8	prep
+10	a	a	DT	_	12	det
+11	British	british	JJ	_	12	amod
+12	beach	beach	NN	_	9	pobj
+13	have	have	VBP	_	14	aux
+14	found	find	VBN	_	0	ROOT
+15	a	a	DT	_	16	det
+16	suitcase	suitcase	NN	_	14	dobj
+17	full	full	JJ	_	16	amod
+18	of	of	IN	_	17	prep
+19	body	body	NN	_	20	nn
+20	parts	part	NNS	_	18	pobj
+21	in	in	IN	_	17	prep
+22	a	a	DT	_	24	det
+23	nearby	nearby	JJ	_	24	amod
+24	harbour	harbour	NN	_	21	pobj
+25	.	.	.	_	14	punct
+

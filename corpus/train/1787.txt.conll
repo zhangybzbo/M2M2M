@@ -1,0 +1,26 @@
+1	A	a	DT	_	2	det
+2	deputy	deputy	NN	_	14	nsubj
+3	from	from	IN	_	2	prep
+4	Sarkozy	Sarkozy	NNP	_	8	poss
+5	's	's	POS	_	4	possessive
+6	ruling	ruling	NN	_	8	nn
+7	UMP	ump	NN	_	8	nn
+8	party	party	NN	_	3	pobj
+9	,	,	,	_	2	punct
+10	Etienne	Etienne	NNP	_	11	nn
+11	Pinte	Pinte	NNP	_	2	appos
+12	,	,	,	_	2	punct
+13	also	also	RB	_	14	advmod
+14	said	say	VBD	_	0	ROOT
+15	he	he	PRP	_	19	nsubj
+16	was	be	VBD	_	19	cop
+17	``	``	``	_	19	punct
+18	very	very	RB	_	19	advmod
+19	shocked	shocked	JJ	_	14	ccomp
+20	''	''	''	_	19	punct
+21	by	by	IN	_	19	prep
+22	the	the	DT	_	24	det
+23	charter	charter	NN	_	24	nn
+24	flight	flight	NN	_	21	pobj
+25	.	.	.	_	14	punct
+

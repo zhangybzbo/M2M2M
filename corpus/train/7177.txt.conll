@@ -1,0 +1,20 @@
+1	Normally	normally	RB	_	6	advmod
+2	,	,	,	_	6	punct
+3	the	the	DT	_	5	det
+4	bone	bone	NN	_	5	nn
+5	marrow	marrow	NN	_	6	nsubj
+6	produces	produce	VBZ	_	0	ROOT
+7	stem	stem	NN	_	8	nn
+8	cells	cell	NNS	_	6	dobj
+9	-LRB-	-lrb-	-LRB-	_	11	punct
+10	immature	immature	JJ	_	11	amod
+11	cells	cell	NNS	_	8	appos
+12	-RRB-	-rrb-	-RRB-	_	11	punct
+13	that	that	WDT	_	14	nsubj
+14	develop	develop	VBP	_	8	rcmod
+15	into	into	IN	_	14	prep
+16	mature	mature	JJ	_	18	amod
+17	blood	blood	NN	_	18	nn
+18	cells	cell	NNS	_	15	pobj
+19	.	.	.	_	6	punct
+

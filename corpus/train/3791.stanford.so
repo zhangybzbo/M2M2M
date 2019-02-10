@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	16	tok id="t1" base="pseudolesion" pos="NN" nsubjpass="t3"
+17	20	tok id="t2" base="be" pos="VBD" auxpass="t3"
+21	27	tok id="t3" base="cause" pos="VBN" ROOT="ROOT"
+28	30	tok id="t4" base="by" pos="IN" prep="t3"
+31	39	tok id="t5" base="drainage" pos="NN" pobj="t4"
+40	42	tok id="t6" base="of" pos="IN" prep="t5"
+43	46	tok id="t7" base="the" pos="DT" det="t9"
+47	60	tok id="t8" base="paraumbilical" pos="JJ" amod="t9"
+61	65	tok id="t9" base="vein" pos="NN" pobj="t6"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

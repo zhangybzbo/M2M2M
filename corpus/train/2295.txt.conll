@@ -1,0 +1,23 @@
+1	World	World	NNP	_	2	nn
+2	practices	practice	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	shown	show	VBN	_	0	ROOT
+5	that	that	IN	_	10	mark
+6	often	often	RB	_	8	advmod
+7	local	local	JJ	_	8	amod
+8	authorities	authority	NNS	_	10	nsubj
+9	are	be	VBP	_	10	cop
+10	quicker	quicker	JJR	_	4	ccomp
+11	to	to	TO	_	12	aux
+12	respond	respond	VB	_	10	xcomp
+13	to	to	TO	_	12	prep
+14	the	the	DT	_	16	det
+15	natural	natural	JJ	_	16	amod
+16	disasters	disaster	NNS	_	13	pobj
+17	caused	cause	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	21	det
+20	climate	climate	NN	_	21	nn
+21	change	change	NN	_	18	pobj
+22	.	.	.	_	4	punct
+

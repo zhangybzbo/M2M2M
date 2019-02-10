@@ -1,0 +1,26 @@
+1	``	``	``	_	9	punct
+2	Just	just	RB	_	3	advmod
+3	like	like	IN	_	9	prep
+4	real	real	JJ	_	5	amod
+5	baseball	baseball	NN	_	3	pobj
+6	,	,	,	_	9	punct
+7	''	''	''	_	9	punct
+8	he	he	PRP	_	9	nsubj
+9	told	tell	VBD	_	0	ROOT
+10	the	the	DT	_	12	det
+11	card	card	NN	_	12	nn
+12	manufacturer	manufacturer	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	reps	rep	NNS	_	9	dobj
+15	as	as	IN	_	17	mark
+16	he	he	PRP	_	17	nsubj
+17	tried	try	VBD	_	9	advcl
+18	to	to	TO	_	19	aux
+19	flog	flog	VB	_	17	xcomp
+20	the	the	DT	_	21	det
+21	game	game	NN	_	19	dobj
+22	at	at	IN	_	19	prep
+23	toy	toy	NN	_	24	nn
+24	fairs	fair	NNS	_	22	pobj
+25	.	.	.	_	9	punct
+

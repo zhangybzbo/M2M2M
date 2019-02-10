@@ -1,0 +1,24 @@
+1	It	it	PRP	_	2	nsubj
+2	spilled	spill	VBD	_	0	ROOT
+3	more	more	JJR	_	4	mwe
+4	than	than	IN	_	5	quantmod
+5	53000	53000	CD	_	6	num
+6	gallons	gallon	NNS	_	2	dobj
+7	of	of	IN	_	6	prep
+8	crude	crude	JJ	_	9	amod
+9	oil	oil	NN	_	7	pobj
+10	into	into	IN	_	2	prep
+11	the	the	DT	_	13	det
+12	surrounding	surround	VBG	_	13	amod
+13	marshes	marsh	NNS	_	10	pobj
+14	one	one	CD	_	13	dep
+15	of	of	IN	_	14	prep
+16	the	the	DT	_	18	det
+17	bigger	bigger	JJR	_	18	amod
+18	spills	spill	NNS	_	15	pobj
+19	caused	cause	VBN	_	18	vmod
+20	by	by	IN	_	19	prep
+21	the	the	DT	_	22	det
+22	hurricane	hurricane	NN	_	20	pobj
+23	.	.	.	_	2	punct
+

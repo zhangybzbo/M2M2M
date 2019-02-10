@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	court	court	NN	_	3	nsubj
+3	sent	send	VBD	_	0	ROOT
+4	the	the	DT	_	6	det
+5	drug	drug	NN	_	6	nn
+6	addict	addict	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	hibernation	hibernation	NN	_	7	pobj
+9	.	.	.	_	3	punct
+

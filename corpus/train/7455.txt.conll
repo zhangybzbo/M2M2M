@@ -1,0 +1,24 @@
+1	In	in	IN	_	11	prep
+2	the	the	DT	_	3	det
+3	case	case	NN	_	1	pobj
+4	of	of	IN	_	3	prep
+5	aerodynamic	aerodynamic	JJ	_	6	amod
+6	lift	lift	NN	_	4	pobj
+7	,	,	,	_	11	punct
+8	the	the	DT	_	9	det
+9	aircraft	aircraft	NN	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	kept	keep	VBN	_	0	ROOT
+12	in	in	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	air	air	NN	_	12	pobj
+15	by	by	IN	_	11	prep
+16	wings	wing	NNS	_	15	pobj
+17	or	or	CC	_	16	cc
+18	rotors	rotor	NNS	_	16	conj
+19	-LRB-	-lrb-	-LRB-	_	20	punct
+20	see	see	VB	_	11	parataxis
+21	aerodynamics	aerodynamics	NNS	_	20	dobj
+22	-RRB-	-rrb-	-RRB-	_	20	punct
+23	.	.	.	_	11	punct
+

@@ -1,0 +1,14 @@
+1	St	St	NNP	_	2	nn
+2	John	John	NNP	_	4	poss
+3	's	's	POS	_	2	possessive
+4	wort	wort	NN	_	5	nsubj
+5	reduced	reduce	VBD	_	0	ROOT
+6	the	the	DT	_	7	det
+7	severity	severity	NN	_	5	dobj
+8	of	of	IN	_	7	prep
+9	depression	depression	NN	_	8	pobj
+10	after	after	IN	_	5	prep
+11	six	six	CD	_	12	num
+12	weeks	week	NNS	_	10	pobj
+13	.	.	.	_	5	punct
+

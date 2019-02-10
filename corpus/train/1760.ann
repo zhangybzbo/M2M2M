@@ -1,0 +1,3 @@
+T1	Term 38 43	purse
+T2	Term 49 54	money
+R1	Content-Container Arg1:T2 Arg2:T1

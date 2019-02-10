@@ -1,0 +1,3 @@
+T1	Term 87 90	pin
+T2	Term 98 107	connector
+R1	Component-Whole Arg1:T1 Arg2:T2

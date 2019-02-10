@@ -1,0 +1,22 @@
+1	I	I	PRP	_	3	nsubj
+2	once	once	RB	_	3	advmod
+3	had	have	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	mixed	mixed	JJ	_	6	amod
+6	orchard	orchard	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	plums	plum	NNS	_	7	pobj
+9	,	,	,	_	3	punct
+10	sweet	sweet	JJ	_	11	amod
+11	cherries	cherry	NNS	_	3	dobj
+12	,	,	,	_	11	punct
+13	apricots	apricot	NNS	_	11	conj
+14	,	,	,	_	11	punct
+15	tart	tart	JJ	_	16	amod
+16	cherries	cherry	NNS	_	11	conj
+17	,	,	,	_	11	punct
+18	peaches	peach	NNS	_	11	conj
+19	and	and	CC	_	11	cc
+20	apples	apple	NNS	_	11	conj
+21	.	.	.	_	3	punct
+

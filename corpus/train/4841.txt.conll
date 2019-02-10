@@ -1,0 +1,20 @@
+1	They	they	PRP	_	2	nsubj
+2	respond	respond	VBP	_	0	ROOT
+3	directly	directly	RB	_	2	advmod
+4	to	to	TO	_	2	prep
+5	these	these	DT	_	7	det
+6	current	current	JJ	_	7	amod
+7	vacancies	vacancy	NNS	_	4	pobj
+8	mentioning	mention	VBG	_	7	vmod
+9	the	the	DT	_	12	det
+10	job	job	NN	_	12	nn
+11	code	code	NN	_	12	nn
+12	reference	reference	NN	_	8	dobj
+13	on	on	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	subject	subject	NN	_	13	pobj
+16	of	of	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	mail	mail	NN	_	16	pobj
+19	.	.	.	_	2	punct
+

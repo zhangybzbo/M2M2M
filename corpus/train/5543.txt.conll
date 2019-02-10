@@ -1,0 +1,21 @@
+1	On	on	IN	_	11	prep
+2	this	this	DT	_	3	det
+3	day	day	NN	_	1	pobj
+4	in	in	IN	_	11	prep
+5	1897	1897	CD	_	4	pobj
+6	,	,	,	_	11	punct
+7	writer	writer	NN	_	9	nn
+8	Oscar	Oscar	NNP	_	9	nn
+9	Wilde	Wilde	NNP	_	11	nsubjpass
+10	is	be	VBZ	_	11	auxpass
+11	released	release	VBN	_	0	ROOT
+12	from	from	IN	_	11	prep
+13	jail	jail	NN	_	12	pobj
+14	after	after	IN	_	11	prep
+15	two	two	CD	_	16	num
+16	years	year	NNS	_	14	pobj
+17	of	of	IN	_	16	prep
+18	hard	hard	JJ	_	19	amod
+19	labor	labor	NN	_	17	pobj
+20	.	.	.	_	11	punct
+

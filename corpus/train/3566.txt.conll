@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	boy	boy	NN	_	3	nsubj
+3	sculpts	sculpt	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	pony	pony	NN	_	3	dobj
+6	out	out	IN	_	3	prep
+7	of	of	IN	_	6	pcomp
+8	mud	mud	NN	_	7	pobj
+9	and	and	CC	_	3	cc
+10	takes	take	VBZ	_	3	conj
+11	care	care	NN	_	10	dobj
+12	of	of	IN	_	11	prep
+13	it	it	PRP	_	12	pobj
+14	as	as	IN	_	10	prep
+15	if	if	IN	_	18	mark
+16	it	it	PRP	_	18	nsubj
+17	were	be	VBD	_	18	cop
+18	real	real	JJ	_	14	pcomp
+19	.	.	.	_	3	punct
+

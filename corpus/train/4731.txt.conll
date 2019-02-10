@@ -1,0 +1,11 @@
+1	I	I	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	put	put	VBN	_	0	ROOT
+4	an	a	DT	_	6	det
+5	empty	empty	JJ	_	6	amod
+6	line	line	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	an	a	DT	_	9	det
+9	article	article	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

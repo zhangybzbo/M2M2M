@@ -1,0 +1,3 @@
+T1	Term 55 60	horde
+T2	Term 64 70	heroes
+R1	Member-Collection Arg1:T2 Arg2:T1

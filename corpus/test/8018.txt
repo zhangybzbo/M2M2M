@@ -1,0 +1,1 @@
+An FTP server is an inexpensive and relatively simple to operate tool that works great for filesharing over the internet .

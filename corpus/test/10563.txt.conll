@@ -1,0 +1,13 @@
+1	Yesterday	yesterday	NN	_	0	ROOT
+2	the	the	DT	_	3	det
+3	team	team	NN	_	1	dep
+4	recycled	recycled	JJ	_	5	amod
+5	200kg	200kg	NN	_	3	dep
+6	of	of	IN	_	5	prep
+7	unwanted	unwanted	JJ	_	9	amod
+8	knitting	knitting	NN	_	9	nn
+9	wool	wool	NN	_	6	pobj
+10	into	into	IN	_	5	prep
+11	insulation	insulation	NN	_	10	pobj
+12	.	.	.	_	1	punct
+

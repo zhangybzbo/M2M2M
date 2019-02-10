@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det
+2	internal	internal	JJ	_	3	amod
+3	memo	memo	NN	_	4	nsubj
+4	gives	give	VBZ	_	0	ROOT
+5	details	detail	NNS	_	4	dobj
+6	of	of	IN	_	5	prep
+7	Morgan	Morgan	NNP	_	8	nn
+8	Stanley	Stanley	NNP	_	12	poss
+9	's	's	POS	_	8	possessive
+10	new	new	JJ	_	12	amod
+11	management	management	NN	_	12	nn
+12	lineup	lineup	NN	_	6	pobj
+13	.	.	.	_	4	punct
+

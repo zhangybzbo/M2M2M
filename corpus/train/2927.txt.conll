@@ -1,0 +1,13 @@
+1	They	they	PRP	_	2	nsubj
+2	packed	pack	VBD	_	0	ROOT
+3	the	the	DT	_	4	det
+4	players	player	NNS	_	2	dobj
+5	into	into	IN	_	2	prep
+6	the	the	DT	_	8	det
+7	penalty	penalty	NN	_	8	nn
+8	boxes	box	NNS	_	5	pobj
+9	like	like	IN	_	2	prep
+10	sardines	sardine	NNS	_	9	pobj
+11	tonight	tonight	RB	_	2	advmod
+12	.	.	.	_	2	punct
+

@@ -1,0 +1,3 @@
+T1	Term 99 106	luggage
+T2	Term 126 133	vehicle
+R1	Entity-Destination Arg1:T1 Arg2:T2

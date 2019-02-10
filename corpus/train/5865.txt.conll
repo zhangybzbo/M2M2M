@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	author	author	NN	_	3	nsubj
+3	wrote	write	VBD	_	0	ROOT
+4	a	a	DT	_	5	det
+5	book	book	NN	_	3	dobj
+6	,	,	,	_	5	punct
+7	Moneyball	Moneyball	NNP	_	5	appos
+8	,	,	,	_	5	punct
+9	that	that	WDT	_	10	nsubj
+10	drove	drive	VBD	_	5	rcmod
+11	baseball	baseball	NN	_	14	poss
+12	's	's	POS	_	11	possessive
+13	clubby	clubby	JJ	_	14	amod
+14	traditionalists	traditionalist	NNS	_	10	dobj
+15	crazy	crazy	JJ	_	14	amod
+16	.	.	.	_	3	punct
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	wainwright	wainwright	NN	_	0	ROOT
+3	worked	work	VBN	_	2	vmod
+4	by	by	IN	_	3	prep
+5	whittling	whittle	VBG	_	4	pcomp
+6	or	or	CC	_	5	cc
+7	lathing	lathe	VBG	_	5	conj
+8	pieces	piece	NNS	_	5	dobj
+9	of	of	IN	_	8	prep
+10	wood	wood	NN	_	9	pobj
+11	into	into	IN	_	5	prep
+12	shapes	shape	NNS	_	11	pobj
+13	necessary	necessary	JJ	_	12	amod
+14	for	for	IN	_	13	prep
+15	end	end	NN	_	16	nn
+16	products	product	NNS	_	14	pobj
+17	,	,	,	_	16	punct
+18	notably	notably	RB	_	20	advmod
+19	wagon	wagon	NN	_	20	nn
+20	wheels	wheel	NNS	_	16	appos
+21	.	.	.	_	2	punct
+

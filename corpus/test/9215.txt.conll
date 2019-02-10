@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	bootlegger	bootlegger	NN	_	3	nsubj
+3	bought	buy	VBD	_	0	ROOT
+4	his	he	PRP$	_	5	poss
+5	staples	staple	NNS	_	3	dobj
+6	there	there	RB	_	3	advmod
+7	,	,	,	_	3	punct
+8	as	as	RB	_	9	advmod
+9	well	well	RB	_	3	cc
+10	as	as	IN	_	9	mwe
+11	apples	apple	NNS	_	3	conj
+12	for	for	IN	_	11	prep
+13	his	he	PRP$	_	14	poss
+14	mash	mash	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

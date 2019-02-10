@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det
+2	committee	committee	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	approaching	approach	VBG	_	0	ROOT
+5	the	the	DT	_	7	det
+6	final	final	JJ	_	7	amod
+7	decision	decision	NN	_	4	dobj
+8	.	.	.	_	4	punct
+

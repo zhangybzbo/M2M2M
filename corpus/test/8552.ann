@@ -1,0 +1,3 @@
+T1	Term 17 25	medicine
+T2	Term 35 39	food
+R1	Entity-Destination Arg1:T1 Arg2:T2

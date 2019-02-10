@@ -1,0 +1,13 @@
+0	71	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="dollar" pos="NN" nsubj="t2"
+11	15	tok id="t2" base="fall" pos="VBD" ROOT="ROOT"
+16	20	tok id="t3" base="from" pos="IN" prep="t2"
+21	29	tok id="t4" base="six-week" pos="JJ" amod="t5"
+30	35	tok id="t5" base="peak" pos="NNS" pobj="t3"
+36	43	tok id="t6" base="against" pos="IN" prep="t2"
+44	49	tok id="t7" base="major" pos="JJ" amod="t9"
+50	58	tok id="t8" base="european" pos="JJ" amod="t9"
+59	69	tok id="t9" base="currency" pos="NNS" pobj="t6"
+70	71	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

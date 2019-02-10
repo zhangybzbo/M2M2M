@@ -1,0 +1,15 @@
+1	Rice	Rice	NNP	_	2	nn
+2	beer	beer	NN	_	9	nsubj
+3	is	be	VBZ	_	9	cop
+4	a	a	DT	_	7	det
+5	famous	famous	JJ	_	7	amod
+6	Asian	asian	JJ	_	7	amod
+7	country	country	NN	_	9	poss
+8	's	's	POS	_	7	possessive
+9	drink	drink	NN	_	0	ROOT
+10	,	,	,	_	9	punct
+11	especially	especially	RB	_	12	advmod
+12	in	in	IN	_	9	prep
+13	Japan	Japan	NNP	_	12	pobj
+14	.	.	.	_	9	punct
+

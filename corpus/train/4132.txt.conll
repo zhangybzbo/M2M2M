@@ -1,0 +1,24 @@
+1	Michael	Michael	NNP	_	2	nn
+2	Barry	Barry	NNP	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	one	one	CD	_	0	ROOT
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	9	det
+7	most	most	RBS	_	8	advmod
+8	respected	respected	JJ	_	9	amod
+9	riders	rider	NNS	_	5	pobj
+10	in	in	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	peloton	peloton	NN	_	10	pobj
+13	and	and	CC	_	9	cc
+14	the	the	DT	_	15	det
+15	author	author	NN	_	9	conj
+16	of	of	IN	_	15	prep
+17	two	two	CD	_	18	num
+18	books	book	NNS	_	16	pobj
+19	and	and	CC	_	18	cc
+20	many	many	JJ	_	22	amod
+21	fascinating	fascinating	JJ	_	22	amod
+22	articles	article	NNS	_	18	conj
+23	.	.	.	_	4	punct
+

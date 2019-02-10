@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	album	album	NN	_	3	nsubj
+3	comes	come	VBZ	_	0	ROOT
+4	with	with	IN	_	3	prep
+5	rambling	rambling	JJ	_	6	amod
+6	notes	note	NNS	_	4	pobj
+7	from	from	IN	_	6	prep
+8	Wolf	Wolf	NNP	_	7	pobj
+9	detailing	detail	VBG	_	8	vmod
+10	the	the	DT	_	11	det
+11	ideas	idea	NNS	_	9	dobj
+12	behind	behind	IN	_	11	prep
+13	each	each	DT	_	14	det
+14	song	song	NN	_	12	pobj
+15	.	.	.	_	3	punct
+

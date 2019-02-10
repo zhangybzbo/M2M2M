@@ -1,0 +1,21 @@
+1	Surveys	survey	NNS	_	3	nsubjpass
+2	were	be	VBD	_	3	auxpass
+3	completed	complete	VBN	_	15	ccomp
+4	by	by	IN	_	3	prep
+5	respondents	respondent	NNS	_	4	pobj
+6	using	use	VBG	_	3	xcomp
+7	a	a	DT	_	8	det
+8	variety	variety	NN	_	6	dobj
+9	of	of	IN	_	8	prep
+10	browser	browser	NN	_	12	nn
+11	software	software	NN	_	12	nn
+12	programs	program	NNS	_	9	pobj
+13	,	,	,	_	15	punct
+14	each	each	DT	_	15	nsubj
+15	configured	configure	VBD	_	0	ROOT
+16	differently	differently	RB	_	15	advmod
+17	with	with	IN	_	15	prep
+18	different	different	JJ	_	19	amod
+19	displays	display	NNS	_	17	pobj
+20	.	.	.	_	15	punct
+

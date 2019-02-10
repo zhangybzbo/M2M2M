@@ -1,0 +1,11 @@
+1	Collapsing	collapse	VBG	_	3	amod
+2	commodity	commodity	NN	_	3	nn
+3	prices	price	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	pushed	push	VBN	_	0	ROOT
+6	the	the	DT	_	7	det
+7	farmer	farmer	NN	_	5	dobj
+8	into	into	IN	_	5	prep
+9	poverty	poverty	NN	_	8	pobj
+10	.	.	.	_	5	punct
+

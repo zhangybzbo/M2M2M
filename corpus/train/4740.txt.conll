@@ -1,0 +1,23 @@
+1	She	she	PRP	_	2	nsubj
+2	made	make	VBD	_	0	ROOT
+3	a	a	DT	_	4	det
+4	face	face	NN	_	2	dobj
+5	at	at	IN	_	2	prep
+6	him	he	PRP	_	5	pobj
+7	and	and	CC	_	2	cc
+8	slowly	slowly	RB	_	9	advmod
+9	sipped	sip	VBD	_	2	conj
+10	her	she	PRP$	_	12	poss
+11	guava	guava	NN	_	12	nn
+12	nectar	nectar	NN	_	9	dobj
+13	,	,	,	_	2	punct
+14	watching	watch	VBG	_	2	vmod
+15	him	he	PRP	_	14	dobj
+16	over	over	IN	_	14	prep
+17	the	the	DT	_	18	det
+18	rim	rim	NN	_	16	pobj
+19	of	of	IN	_	18	prep
+20	her	she	PRP$	_	21	poss
+21	glass	glass	NN	_	19	pobj
+22	.	.	.	_	2	punct
+

@@ -1,0 +1,24 @@
+1	Air	Air	NNP	_	2	nn
+2	pollution	pollution	NN	_	8	nsubj
+3	from	from	IN	_	2	prep
+4	coal-fired	coal-fired	JJ	_	6	amod
+5	power	power	NN	_	6	nn
+6	plants	plant	NNS	_	3	pobj
+7	is	be	VBZ	_	8	cop
+8	large	large	JJ	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	varied	varied	JJ	_	8	conj
+11	and	and	CC	_	8	cc
+12	contributes	contribute	VBZ	_	8	conj
+13	to	to	TO	_	12	prep
+14	a	a	DT	_	16	det
+15	significant	significant	JJ	_	16	amod
+16	number	number	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	negative	negative	JJ	_	22	amod
+19	environmental	environmental	JJ	_	22	amod
+20	and	and	CC	_	19	cc
+21	health	health	NN	_	19	conj
+22	problems	problem	NNS	_	17	pobj
+23	.	.	.	_	8	punct
+

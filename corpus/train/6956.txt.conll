@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	spotter	spotter	NN	_	3	nsubj
+3	sweeps	sweep	VBZ	_	0	ROOT
+4	the	the	DT	_	6	det
+5	surrounding	surround	VBG	_	6	amod
+6	countryside	countryside	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	11	det
+9	powerful	powerful	JJ	_	11	amod
+10	hand-held	hand-held	JJ	_	11	amod
+11	lamp	lamp	NN	_	7	pobj
+12	with	with	IN	_	3	prep
+13	a	a	DT	_	16	det
+14	tightly	tightly	RB	_	15	advmod
+15	focused	focus	VBN	_	16	amod
+16	beam	beam	NN	_	12	pobj
+17	.	.	.	_	3	punct
+

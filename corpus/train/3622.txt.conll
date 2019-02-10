@@ -1,0 +1,17 @@
+1	Behind	behind	IN	_	0	ROOT
+2	him	he	PRP	_	1	pobj
+3	crouch	crouch	NN	_	4	nn
+4	canaille	canaille	NN	_	1	dep
+5	of	of	IN	_	4	prep
+6	minor	minor	JJ	_	8	amod
+7	letters	letter	NNS	_	8	nn
+8	sins	sin	NNS	_	5	pobj
+9	,	,	,	_	4	punct
+10	venial	venial	JJ	_	12	amod
+11	sycophantic	sycophantic	JJ	_	12	amod
+12	hacks	hack	NNS	_	4	appos
+13	with	with	IN	_	12	prep
+14	shady	shady	JJ	_	15	amod
+15	past	past	NN	_	13	pobj
+16	.	.	.	_	1	punct
+

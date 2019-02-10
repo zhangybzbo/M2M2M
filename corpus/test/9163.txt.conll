@@ -1,0 +1,17 @@
+1	Rain	rain	NN	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	wind	wind	NN	_	1	conj
+4	cause	cause	VBP	_	0	ROOT
+5	power	power	NN	_	6	nn
+6	outage	outage	NN	_	4	dobj
+7	in	in	IN	_	6	prep
+8	Los	Los	NNP	_	9	nn
+9	Angeles	Angeles	NNP	_	7	pobj
+10	11:24	11:24	CD	_	9	num
+11	,	,	,	_	9	punct
+12	October	October	NNP	_	9	appos
+13	15	15	CD	_	12	num
+14	,	,	,	_	12	punct
+15	2009	2009	CD	_	12	num
+16	.	.	.	_	4	punct
+

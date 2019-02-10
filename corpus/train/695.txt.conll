@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	nsubj
+2	includes	include	VBZ	_	0	ROOT
+3	those	those	DT	_	4	det
+4	rules	rule	NNS	_	2	dobj
+5	governing	govern	VBG	_	4	vmod
+6	transfers	transfer	NNS	_	5	dobj
+7	,	,	,	_	6	punct
+8	academic	academic	JJ	_	9	amod
+9	eligibility	eligibility	NN	_	6	conj
+10	,	,	,	_	6	punct
+11	age	age	NN	_	12	nn
+12	requirements	requirement	NNS	_	6	conj
+13	,	,	,	_	6	punct
+14	and	and	CC	_	6	cc
+15	the	the	DT	_	16	det
+16	number	number	NN	_	6	conj
+17	of	of	IN	_	16	prep
+18	consecutive	consecutive	JJ	_	19	amod
+19	seasons	season	NNS	_	17	pobj
+20	of	of	IN	_	19	prep
+21	athletic	athletic	JJ	_	22	amod
+22	eligibility	eligibility	NN	_	20	pobj
+23	beyond	beyond	IN	_	16	prep
+24	grade	grade	NN	_	23	pobj
+25	eight	eight	CD	_	24	num
+26	.	.	.	_	2	punct
+

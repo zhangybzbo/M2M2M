@@ -1,0 +1,9 @@
+0	50	sentence id="s0" parse_status="success"
+0	10	tok id="t0" base="eventually" pos="RB" advmod="t3"
+11	14	tok id="t1" base="the" pos="DT" det="t2"
+15	22	tok id="t2" base="company" pos="NN" nsubj="t3"
+23	35	tok id="t3" base="manufacture" pos="VBD" ROOT="ROOT"
+36	39	tok id="t4" base="the" pos="DT" det="t5"
+40	48	tok id="t5" base="machine" pos="NNS" dobj="t3"
+49	50	tok id="t6" base="-PERIOD-" pos="." punct="t3"
+

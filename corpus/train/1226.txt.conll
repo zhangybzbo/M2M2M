@@ -1,0 +1,10 @@
+1	There	there	EX	_	2	expl
+2	are	be	VBP	_	0	ROOT
+3	allegations	allegation	NNS	_	2	nsubj
+4	that	that	IN	_	8	mark
+5	the	the	DT	_	6	det
+6	massacre	massacre	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	organized	organize	VBN	_	3	ccomp
+9	.	.	.	_	2	punct
+

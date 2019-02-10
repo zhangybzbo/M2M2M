@@ -1,0 +1,3 @@
+T1	Term 45 49	guns
+T2	Term 53 59	school
+R1	Entity-Destination Arg1:T1 Arg2:T2

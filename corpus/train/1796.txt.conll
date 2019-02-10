@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	county	county	NN	_	3	nn
+3	fair	fair	JJ	_	4	nsubj
+4	drew	draw	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	large	large	JJ	_	7	amod
+7	crowd	crowd	NN	_	4	dobj
+8	of	of	IN	_	7	prep
+9	USDA	USDA	NNP	_	10	nn
+10	employees	employee	NNS	_	8	pobj
+11	.	.	.	_	4	punct
+

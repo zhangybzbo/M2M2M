@@ -1,0 +1,13 @@
+0	67	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	8	tok id="t1" base="cell" pos="NN" nn="t2"
+9	13	tok id="t2" base="line" pos="NN" nsubjpass="t4"
+14	17	tok id="t3" base="be" pos="VBD" auxpass="t4"
+18	25	tok id="t4" base="derive" pos="VBN" ROOT="ROOT"
+26	30	tok id="t5" base="from" pos="IN" prep="t4"
+31	32	tok id="t6" base="a" pos="DT" det="t9"
+33	52	tok id="t7" base="macrophage-enriched" pos="JJ" amod="t9"
+53	57	tok id="t8" base="cell" pos="NN" nn="t9"
+58	65	tok id="t9" base="culture" pos="NN" pobj="t5"
+66	67	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

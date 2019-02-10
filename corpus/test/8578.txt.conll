@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	cast	cast	NN	_	4	nsubj
+3	is	be	VBZ	_	4	aux
+4	appealing	appeal	VBG	_	0	ROOT
+5	because	because	IN	_	7	mark
+6	they	they	PRP	_	7	nsubj
+7	connect	connect	VBP	_	4	advcl
+8	with	with	IN	_	7	prep
+9	the	the	DT	_	10	det
+10	audience	audience	NN	_	8	pobj
+11	of	of	IN	_	10	prep
+12	young	young	JJ	_	13	amod
+13	kids	kid	NNS	_	11	pobj
+14	and	and	CC	_	13	cc
+15	their	they	PRP$	_	16	poss
+16	parents	parent	NNS	_	13	conj
+17	.	.	.	_	4	punct
+

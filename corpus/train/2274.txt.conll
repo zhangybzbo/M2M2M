@@ -1,0 +1,10 @@
+1	Authors	author	NNS	_	2	nsubj
+2	use	use	VBP	_	0	ROOT
+3	a	a	DT	_	5	det
+4	RadioButtonGroup	radiobuttongroup	NN	_	5	nn
+5	control	control	NN	_	2	dobj
+6	for	for	IN	_	2	prep
+7	this	this	DT	_	8	det
+8	purpose	purpose	NN	_	6	pobj
+9	.	.	.	_	2	punct
+

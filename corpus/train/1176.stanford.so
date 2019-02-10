@@ -1,0 +1,13 @@
+0	46	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	5	tok id="t1" base="man" pos="NN" nsubj="t2"
+6	10	tok id="t2" base="use" pos="VBZ" ROOT="ROOT"
+11	12	tok id="t3" base="a" pos="DT" det="t4"
+13	23	tok id="t4" base="microphone" pos="NN" dobj="t2"
+24	26	tok id="t5" base="as" pos="IN" mark="t7"
+27	29	tok id="t6" base="he" pos="PRP" nsubj="t7"
+30	35	tok id="t7" base="give" pos="VBZ" advcl="t2"
+36	37	tok id="t8" base="a" pos="DT" det="t9"
+38	44	tok id="t9" base="speech" pos="NN" dobj="t7"
+45	46	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

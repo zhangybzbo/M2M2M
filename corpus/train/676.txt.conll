@@ -1,0 +1,24 @@
+1	Still	still	RB	_	5	advmod
+2	,	,	,	_	5	punct
+3	we	we	PRP	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	surprised	surprise	VBN	_	0	ROOT
+6	yesterday	yesterday	NN	_	5	tmod
+7	by	by	IN	_	5	prep
+8	a	a	DT	_	9	det
+9	wake	wake	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	buzzards	buzzard	NNS	_	10	pobj
+12	perched	perch	VBN	_	11	vmod
+13	on	on	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	dead	dead	JJ	_	16	amod
+16	copse	copse	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	trees	tree	NNS	_	17	pobj
+19	and	and	CC	_	9	cc
+20	haunting	haunt	VBG	_	9	conj
+21	Wellfleet	Wellfleet	NNP	_	22	nn
+22	Harbor	Harbor	NNP	_	20	dobj
+23	.	.	.	_	5	punct
+

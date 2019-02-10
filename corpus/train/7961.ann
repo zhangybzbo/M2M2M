@@ -1,0 +1,3 @@
+T1	Term 60 64	sink
+T2	Term 71 78	kitchen
+R1	Component-Whole Arg1:T1 Arg2:T2

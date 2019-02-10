@@ -1,0 +1,19 @@
+1	Warning	warning	NN	_	2	nn
+2	labels	label	NNS	_	8	nsubj
+3	on	on	IN	_	2	prep
+4	cigarette	cigarette	NN	_	5	nn
+5	packs	pack	NNS	_	3	pobj
+6	and	and	CC	_	2	cc
+7	ads	ad	NNS	_	2	conj
+8	inform	inform	VBP	_	0	ROOT
+9	about	about	IN	_	8	prep
+10	dangers	danger	NNS	_	9	pobj
+11	and	and	CC	_	8	cc
+12	,	,	,	_	8	punct
+13	implicitly	implicitly	RB	_	16	advmod
+14	,	,	,	_	16	punct
+15	to	to	TO	_	16	aux
+16	discourage	discourage	VB	_	8	conj
+17	use	use	NN	_	16	dobj
+18	.	.	.	_	8	punct
+

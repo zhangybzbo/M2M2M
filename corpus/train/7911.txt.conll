@@ -1,0 +1,6 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	0	ROOT
+3	radiated	radiate	VBN	_	4	amod
+4	jolliness	jolliness	NN	_	2	dep
+5	.	.	.	_	2	punct
+

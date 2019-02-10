@@ -1,0 +1,22 @@
+1	Fuller	Fuller	NNP	_	5	nsubj
+2	's	's	POS	_	1	possessive
+3	is	be	VBZ	_	5	cop
+4	a	a	DT	_	5	det
+5	brewer	brewer	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	distinguished	distinguish	VBN	_	11	amod
+8	,	,	,	_	11	punct
+9	prize-winning	prize-winning	JJ	_	11	amod
+10	British	british	JJ	_	11	amod
+11	ales	ale	NNS	_	6	pobj
+12	crafted	craft	VBN	_	11	vmod
+13	with	with	IN	_	12	prep
+14	over	over	IN	_	15	quantmod
+15	150	150	CD	_	16	num
+16	years	year	NNS	_	13	pobj
+17	of	of	IN	_	16	prep
+18	pride	pride	NN	_	17	pobj
+19	and	and	CC	_	18	cc
+20	tradition	tradition	NN	_	18	conj
+21	.	.	.	_	5	punct
+

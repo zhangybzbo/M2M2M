@@ -1,0 +1,23 @@
+1	His	he	PRP$	_	2	poss
+2	sport	sport	NN	_	4	nsubj
+3	was	be	VBD	_	4	cop
+4	indifferent	indifferent	JJ	_	0	ROOT
+5	,	,	,	_	4	punct
+6	for	for	IN	_	8	mark
+7	he	he	PRP	_	8	nsubj
+8	brought	bring	VBD	_	4	advcl
+9	down	down	RP	_	8	prt
+10	only	only	RB	_	12	advmod
+11	a	a	DT	_	12	det
+12	leash	leash	NN	_	8	dobj
+13	of	of	IN	_	12	prep
+14	red	red	JJ	_	15	amod
+15	deer	deer	NNS	_	13	pobj
+16	,	,	,	_	8	punct
+17	and	and	CC	_	8	cc
+18	a	a	DT	_	19	det
+19	couple	couple	NN	_	8	conj
+20	of	of	IN	_	19	prep
+21	wolves	wolf	NNS	_	20	pobj
+22	.	.	.	_	4	punct
+

@@ -1,0 +1,16 @@
+1	Spain	Spain	NNP	_	6	nsubj
+2	,	,	,	_	1	punct
+3	Portugal	Portugal	NNP	_	1	conj
+4	and	and	CC	_	1	cc
+5	Greece	Greece	NNP	_	1	conj
+6	invested	invest	VBD	_	0	ROOT
+7	the	the	DT	_	9	det
+8	EU	EU	NNP	_	9	nn
+9	funds	fund	NNS	_	6	dobj
+10	into	into	IN	_	6	prep
+11	massive	massive	JJ	_	14	amod
+12	road	road	NN	_	14	nn
+13	construction	construction	NN	_	14	nn
+14	projects	project	NNS	_	10	pobj
+15	.	.	.	_	6	punct
+

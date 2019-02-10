@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	company	company	NN	_	3	nsubj
+3	developed	develop	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	negatives	negative	NNS	_	3	dobj
+6	and	and	CC	_	3	cc
+7	returned	return	VBD	_	3	conj
+8	the	the	DT	_	9	det
+9	camera	camera	NN	_	7	dobj
+10	with	with	IN	_	7	prep
+11	a	a	DT	_	13	det
+12	fresh	fresh	JJ	_	13	amod
+13	roll	roll	NN	_	10	pobj
+14	of	of	IN	_	13	prep
+15	film	film	NN	_	14	pobj
+16	.	.	.	_	3	punct
+

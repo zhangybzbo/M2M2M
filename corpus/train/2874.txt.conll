@@ -1,0 +1,11 @@
+1	Pulmonary	pulmonary	JJ	_	5	amod
+2	Arterial	arterial	JJ	_	5	amod
+3	Hypertension	hypertension	NN	_	5	nn
+4	clinical	clinical	JJ	_	5	amod
+5	community	community	NN	_	6	nsubj
+6	builds	build	VBZ	_	0	ROOT
+7	order	order	NN	_	6	dobj
+8	from	from	IN	_	7	prep
+9	chaos	chaos	NN	_	8	pobj
+10	.	.	.	_	6	punct
+

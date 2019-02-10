@@ -1,0 +1,3 @@
+T1	Term 20 26	damage
+T2	Term 69 82	hallucinogens
+R1	Cause-Effect Arg1:T2 Arg2:T1

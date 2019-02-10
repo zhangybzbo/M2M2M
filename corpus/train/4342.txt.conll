@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	elevator	elevator	NN	_	3	nn
+3	operator	operator	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	meditation	meditation	NN	_	0	ROOT
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	simultaneous	simultaneous	JJ	_	10	amod
+10	power	power	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	futility	futility	NN	_	10	conj
+13	of	of	IN	_	10	prep
+14	hope	hope	NN	_	13	pobj
+15	.	.	.	_	6	punct
+

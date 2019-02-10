@@ -1,0 +1,21 @@
+1	In	in	IN	_	4	mark
+2	order	order	NN	_	4	dep
+3	to	to	TO	_	4	aux
+4	evaluate	evaluate	VB	_	9	advcl
+5	MonoTouch	MonoTouch	NNP	_	4	dobj
+6	,	,	,	_	9	punct
+7	I	I	PRP	_	9	nsubj
+8	've	have	VBP	_	9	aux
+9	got	get	VBD	_	0	ROOT
+10	an	a	DT	_	12	det
+11	evaluation	evaluation	NN	_	12	nn
+12	copy	copy	NN	_	9	dobj
+13	with	with	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	debugger	debugger	NN	_	13	pobj
+16	from	from	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	evaluation	evaluation	NN	_	19	nn
+19	page	page	NN	_	16	pobj
+20	.	.	.	_	9	punct
+

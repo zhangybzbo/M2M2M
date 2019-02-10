@@ -1,0 +1,1 @@
+A lamp 's lumen output expresses the total amount of light the lamp emits in all directions per unit time .

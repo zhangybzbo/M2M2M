@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	man	man	NN	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	travelling	travel	VBG	_	0	ROOT
+5	into	into	IN	_	4	prep
+6	neighboring	neighbor	VBG	_	7	amod
+7	countries	country	NNS	_	5	pobj
+8	without	without	IN	_	4	prep
+9	a	a	DT	_	10	det
+10	permission	permission	NN	_	8	pobj
+11	.	.	.	_	4	punct
+

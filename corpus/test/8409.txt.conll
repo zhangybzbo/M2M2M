@@ -1,0 +1,27 @@
+1	In	in	IN	_	6	prep
+2	this	this	DT	_	3	det
+3	paper	paper	NN	_	1	pobj
+4	,	,	,	_	6	punct
+5	we	we	PRP	_	6	nsubj
+6	propose	propose	VBP	_	0	ROOT
+7	a	a	DT	_	9	det
+8	web-based	web-based	JJ	_	9	amod
+9	system	system	NN	_	6	dobj
+10	for	for	IN	_	9	prep
+11	prevention	prevention	NN	_	10	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	16	det
+14	confidential	confidential	JJ	_	16	amod
+15	information	information	NN	_	16	nn
+16	leakage	leakage	NN	_	12	pobj
+17	caused	cause	VBN	_	16	vmod
+18	by	by	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	person	person	NN	_	18	pobj
+21	who	who	WP	_	23	nsubjpass
+22	is	be	VBZ	_	23	auxpass
+23	authorized	authorize	VBN	_	20	rcmod
+24	to	to	TO	_	23	prep
+25	access	access	NN	_	24	pobj
+26	.	.	.	_	6	punct
+

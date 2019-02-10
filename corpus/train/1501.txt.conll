@@ -1,0 +1,12 @@
+1	She	she	PRP	_	2	nsubj
+2	poured	pour	VBD	_	0	ROOT
+3	flour	flour	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	a	a	DT	_	7	det
+6	pretend	pretend	JJ	_	7	amod
+7	dragon	dragon	NN	_	4	pobj
+8	with	with	IN	_	2	prep
+9	a	a	DT	_	10	det
+10	tube	tube	NN	_	8	pobj
+11	.	.	.	_	2	punct
+

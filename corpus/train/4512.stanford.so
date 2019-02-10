@@ -1,0 +1,12 @@
+0	59	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t2"
+4	14	tok id="t1" base="government" pos="NN" nn="t2"
+15	21	tok id="t2" base="cheese" pos="NN" nsubj="t4"
+22	24	tok id="t3" base="be" pos="VBZ" aux="t4"
+25	32	tok id="t4" base="flow" pos="VBG" ROOT="ROOT"
+33	37	tok id="t5" base="into" pos="IN" prep="t4"
+38	46	tok id="t6" base="Missouri" pos="NNP" nn="t8"
+47	51	tok id="t7" base="food" pos="NN" nn="t8"
+52	57	tok id="t8" base="bank" pos="NNS" pobj="t5"
+58	59	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

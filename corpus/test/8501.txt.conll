@@ -1,0 +1,13 @@
+1	Three	three	CD	_	2	num
+2	types	type	NNS	_	8	nsubjpass
+3	of	of	IN	_	2	prep
+4	gesture	gesture	NN	_	5	nn
+5	features	feature	NNS	_	3	pobj
+6	have	have	VBP	_	8	aux
+7	been	be	VBN	_	8	auxpass
+8	introduced	introduce	VBN	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	previous	previous	JJ	_	11	amod
+11	sections	section	NNS	_	9	pobj
+12	.	.	.	_	8	punct
+

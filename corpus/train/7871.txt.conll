@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj
+2	struggle	struggle	VBP	_	0	ROOT
+3	for	for	IN	_	2	prep
+4	my	my	PRP$	_	5	poss
+5	dream	dream	NN	_	3	pobj
+6	of	of	IN	_	5	prep
+7	painless	painless	JJ	_	8	amod
+8	perfection	perfection	NN	_	6	pobj
+9	but	but	CC	_	5	cc
+10	a	a	DT	_	11	det
+11	snowdrift	snowdrift	NN	_	12	nsubj
+12	keeps	keep	VBZ	_	5	conj
+13	the	the	DT	_	14	det
+14	door	door	NN	_	12	dobj
+15	from	from	IN	_	12	prep
+16	opening	opening	NN	_	15	pobj
+17	.	.	.	_	2	punct
+

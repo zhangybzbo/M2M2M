@@ -1,0 +1,25 @@
+1	However	however	RB	_	11	advmod
+2	,	,	,	_	11	punct
+3	in	in	IN	_	11	prep
+4	1819	1819	CD	_	3	pobj
+5	the	the	DT	_	7	det
+6	United	United	NNP	_	7	nn
+7	States	States	NNPS	_	11	nsubj
+8	had	have	VBD	_	11	aux
+9	by	by	IN	_	8	prep
+10	statute	statute	NN	_	9	pobj
+11	declared	declare	VBD	_	0	ROOT
+12	the	the	DT	_	14	det
+13	slave	slave	NN	_	14	nn
+14	trade	trade	NN	_	11	dobj
+15	to	to	TO	_	17	aux
+16	be	be	VB	_	17	cop
+17	piracy	piracy	NN	_	14	dep
+18	and	and	CC	_	17	cc
+19	subject	subject	NN	_	17	conj
+20	to	to	TO	_	19	prep
+21	the	the	DT	_	23	det
+22	death	death	NN	_	23	nn
+23	penalty	penalty	NN	_	20	pobj
+24	.	.	.	_	11	punct
+

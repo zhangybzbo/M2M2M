@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	folks	folk	NNS	_	8	nsubj
+3	at	at	IN	_	2	prep
+4	the	the	DT	_	6	det
+5	Lilly	Lilly	NNP	_	6	nn
+6	Endowment	endowment	NN	_	3	pobj
+7	were	be	VBD	_	8	cop
+8	interested	interested	JJ	_	0	ROOT
+9	in	in	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	study	study	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	philanthropy	philanthropy	NN	_	12	pobj
+14	through	through	IN	_	8	prep
+15	a	a	DT	_	17	det
+16	biographical	biographical	JJ	_	17	amod
+17	lens	lens	NN	_	14	pobj
+18	.	.	.	_	8	punct
+

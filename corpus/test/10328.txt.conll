@@ -1,0 +1,19 @@
+1	It	it	PRP	_	3	nsubj
+2	is	be	VBZ	_	3	cop
+3	unfortunate	unfortunate	JJ	_	0	ROOT
+4	that	that	IN	_	8	mark
+5	the	the	DT	_	6	det
+6	constitution	constitution	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	prepared	prepare	VBN	_	3	ccomp
+9	by	by	IN	_	8	prep
+10	leaders	leader	NNS	_	9	pobj
+11	of	of	IN	_	10	prep
+12	political	political	JJ	_	13	amod
+13	parties	party	NNS	_	11	pobj
+14	and	and	CC	_	9	cc
+15	not	not	RB	_	17	neg
+16	legal	legal	JJ	_	17	amod
+17	experts	expert	NNS	_	9	conj
+18	.	.	.	_	3	punct
+

@@ -1,0 +1,26 @@
+1	Brief	brief	JJ	_	2	amod
+2	guides	guide	NNS	_	5	nsubjpass
+3	have	have	VBP	_	5	aux
+4	been	be	VBN	_	5	auxpass
+5	prepared	prepare	VBN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	maps	map	NNS	_	6	pobj
+8	,	,	,	_	5	punct
+9	school	school	NN	_	10	nn
+10	histories	history	NNS	_	5	dobj
+11	,	,	,	_	10	punct
+12	electoral	electoral	JJ	_	13	amod
+13	rolls	roll	NNS	_	10	conj
+14	,	,	,	_	10	punct
+15	land	land	NN	_	16	nn
+16	tenure	tenure	NN	_	10	conj
+17	,	,	,	_	10	punct
+18	government	government	NN	_	19	nn
+19	buildings	building	NNS	_	10	conj
+20	,	,	,	_	10	punct
+21	railways	railway	NNS	_	10	conj
+22	and	and	CC	_	10	cc
+23	hotel	hotel	NN	_	24	nn
+24	licensing	licensing	NN	_	10	conj
+25	.	.	.	_	5	punct
+

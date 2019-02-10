@@ -1,0 +1,13 @@
+0	57	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t2"
+2	6	tok id="t1" base="file" pos="NN" nn="t2"
+7	12	tok id="t2" base="photo" pos="NN" nsubj="t3"
+13	18	tok id="t3" base="show" pos="VBZ" ROOT="ROOT"
+19	20	tok id="t4" base="a" pos="DT" det="t6"
+21	31	tok id="t5" base="microlight" pos="NN" nn="t6"
+32	37	tok id="t6" base="pilot" pos="NN" dobj="t3"
+38	44	tok id="t7" base="fly" pos="VBG" vmod="t6"
+45	49	tok id="t8" base="with" pos="IN" prep="t7"
+50	55	tok id="t9" base="goose" pos="NNS" pobj="t8"
+56	57	tok id="t10" base="-PERIOD-" pos="." punct="t3"
+

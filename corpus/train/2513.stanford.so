@@ -1,0 +1,12 @@
+0	73	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	11	tok id="t1" base="surgeon" pos="NN" nsubj="t2"
+12	20	tok id="t2" base="perform" pos="VBZ" ROOT="ROOT"
+21	22	tok id="t3" base="a" pos="DT" det="t4"
+23	41	tok id="t4" base="vasoepididymostomy" pos="NN" dobj="t2"
+42	47	tok id="t5" base="use" pos="VBG" vmod="t4"
+48	50	tok id="t6" base="a" pos="DT" det="t8"
+51	60	tok id="t7" base="operating" pos="NN" nn="t8"
+61	71	tok id="t8" base="microscope" pos="NN" dobj="t5"
+72	73	tok id="t9" base="-PERIOD-" pos="." punct="t2"
+

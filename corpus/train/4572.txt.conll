@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	addition	addition	NN	_	11	nsubj
+3	of	of	IN	_	2	prep
+4	a	a	DT	_	5	det
+5	velocity	velocity	NN	_	3	pobj
+6	stack	stack	VB	_	5	vmod
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	carb	carb	NN	_	10	nn
+10	inlet	inlet	NN	_	7	pobj
+11	helps	help	VBZ	_	0	ROOT
+12	stop	stop	VB	_	11	ccomp
+13	some	some	DT	_	15	det
+14	fuel	fuel	NN	_	15	nn
+15	spray	spray	NN	_	16	nsubj
+16	coming	come	VBG	_	12	ccomp
+17	out	out	RP	_	16	prt
+18	the	the	DT	_	19	det
+19	carb	carb	NN	_	16	dobj
+20	when	when	WRB	_	24	advmod
+21	the	the	DT	_	22	det
+22	engine	engine	NN	_	24	nsubj
+23	is	be	VBZ	_	24	aux
+24	running	run	VBG	_	19	rcmod
+25	.	.	.	_	11	punct
+

@@ -1,0 +1,18 @@
+1	Some	some	DT	_	8	nsubjpass
+2	of	of	IN	_	1	prep
+3	my	my	PRP$	_	6	poss
+4	most	most	RBS	_	5	advmod
+5	recent	recent	JJ	_	6	amod
+6	blogs	blog	NNS	_	2	pobj
+7	were	be	VBD	_	8	auxpass
+8	concerned	concern	VBN	_	0	ROOT
+9	with	with	IN	_	8	prep
+10	life	life	NN	_	9	pobj
+11	on	on	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	croft	croft	NN	_	11	pobj
+14	in	in	IN	_	13	prep
+15	various	various	JJ	_	16	amod
+16	seasons	season	NNS	_	14	pobj
+17	.	.	.	_	8	punct
+

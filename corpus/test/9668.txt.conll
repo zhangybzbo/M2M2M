@@ -1,0 +1,22 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	6	det
+4	red	red	JJ	_	6	amod
+5	indicator	indicator	NN	_	6	nn
+6	button	button	NN	_	2	nsubj
+7	on	on	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	dash	dash	NN	_	7	pobj
+10	to	to	TO	_	6	prep
+11	the	the	DT	_	12	det
+12	left	left	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	steering	steer	VBG	_	16	amod
+16	wheel	wheel	NN	_	13	pobj
+17	and	and	CC	_	2	cc
+18	it	it	PRP	_	20	nsubj
+19	is	be	VBZ	_	20	cop
+20	stationary	stationary	JJ	_	2	conj
+21	.	.	.	_	2	punct
+

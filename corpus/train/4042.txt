@@ -1,0 +1,1 @@
+A two zone alarm means the alarm has two seperate ` detection ' circuits and can identify which circuit was triggered .

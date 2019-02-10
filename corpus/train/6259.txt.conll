@@ -1,0 +1,15 @@
+1	Fog	fog	NN	_	0	ROOT
+2	,	,	,	_	1	punct
+3	rain	rain	NN	_	1	conj
+4	,	,	,	_	1	punct
+5	darkness	darkness	NN	_	1	conj
+6	,	,	,	_	1	punct
+7	and	and	CC	_	1	cc
+8	or	or	CC	_	1	cc
+9	blowing	blow	VBG	_	1	conj
+10	snow	snow	NN	_	11	nn
+11	lead	lead	NN	_	9	dobj
+12	to	to	TO	_	9	prep
+13	disorientation	disorientation	NN	_	12	pobj
+14	.	.	.	_	1	punct
+

@@ -1,0 +1,17 @@
+1	One	one	CD	_	2	num
+2	bottle	bottle	NN	_	0	ROOT
+3	of	of	IN	_	2	prep
+4	red	red	JJ	_	5	amod
+5	wine	wine	NN	_	3	pobj
+6	in	in	IN	_	2	prep
+7	a	a	DT	_	10	det
+8	carton	carton	NN	_	10	nn
+9	box	box	NN	_	10	nn
+10	costs	cost	NNS	_	6	pobj
+11	6	6	CD	_	12	num
+12	euro	euro	NN	_	10	dep
+13	per	per	IN	_	12	prep
+14	order	order	NN	_	15	nn
+15	unit	unit	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

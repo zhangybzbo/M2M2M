@@ -1,0 +1,9 @@
+1	He	he	PRP	_	2	nsubj
+2	added	add	VBD	_	0	ROOT
+3	ethanol	ethanol	NN	_	2	dobj
+4	into	into	IN	_	2	prep
+5	the	the	DT	_	7	det
+6	wash	wash	NN	_	7	nn
+7	buffer	buffer	NN	_	4	pobj
+8	.	.	.	_	2	punct
+

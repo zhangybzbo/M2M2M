@@ -1,0 +1,15 @@
+1	Defra	defra	NN	_	2	nsubj
+2	identified	identify	VBD	_	0	ROOT
+3	the	the	DT	_	5	det
+4	different	different	JJ	_	5	amod
+5	noises	noise	NNS	_	2	dobj
+6	made	make	VBN	_	5	vmod
+7	by	by	IN	_	6	prep
+8	dogs	dog	NNS	_	7	pobj
+9	and	and	CC	_	8	cc
+10	the	the	DT	_	11	det
+11	meanings	meaning	NNS	_	8	conj
+12	behind	behind	IN	_	11	prep
+13	them	they	PRP	_	12	pobj
+14	.	.	.	_	2	punct
+

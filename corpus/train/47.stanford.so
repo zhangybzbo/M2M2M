@@ -1,0 +1,11 @@
+0	78	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	13	tok id="t1" base="councilor" pos="NN" nsubj="t2"
+14	22	tok id="t2" base="propose" pos="VBD" ROOT="ROOT"
+23	32	tok id="t3" base="assess" pos="VBG" csubj="t5"
+33	44	tok id="t4" base="infinitival" pos="NN" dobj="t3"
+45	56	tok id="t5" base="complement" pos="VBZ" ccomp="t2"
+57	64	tok id="t6" base="through" pos="IN" prep="t5"
+65	76	tok id="t7" base="elicitation" pos="NN" pobj="t6"
+77	78	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

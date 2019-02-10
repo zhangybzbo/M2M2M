@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	group	group	NN	_	3	nsubj
+3	tried	try	VBD	_	0	ROOT
+4	assessment	assessment	NN	_	3	dobj
+5	of	of	IN	_	4	prep
+6	vigilance	vigilance	NN	_	5	pobj
+7	through	through	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	brief	brief	JJ	_	10	amod
+10	pencil	pencil	NN	_	7	pobj
+11	and	and	CC	_	10	cc
+12	paper	paper	NN	_	15	nn
+13	letter	letter	NN	_	15	nn
+14	cancellation	cancellation	NN	_	15	nn
+15	task	task	NN	_	10	conj
+16	.	.	.	_	3	punct
+

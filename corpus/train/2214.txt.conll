@@ -1,0 +1,23 @@
+1	Although	although	IN	_	4	mark
+2	the	the	DT	_	3	det
+3	guards	guard	NNS	_	4	nsubj
+4	searched	search	VBD	_	0	ROOT
+5	his	he	PRP$	_	6	poss
+6	car	car	NN	_	4	dobj
+7	and	and	CC	_	4	cc
+8	opened	open	VBD	_	4	conj
+9	a	a	DT	_	10	det
+10	suitcase	suitcase	NN	_	8	dobj
+11	with	with	IN	_	8	prep
+12	tracts	tract	NNS	_	11	pobj
+13	in	in	IN	_	8	prep
+14	it	it	PRP	_	13	pobj
+15	they	they	PRP	_	18	nsubj
+16	did	do	VBD	_	18	aux
+17	not	not	RB	_	18	neg
+18	notice	notice	VB	_	4	ccomp
+19	the	the	DT	_	21	det
+20	illegal	illegal	JJ	_	21	amod
+21	materials	material	NNS	_	18	dobj
+22	.	.	.	_	4	punct
+

@@ -1,0 +1,20 @@
+1	Shortly	shortly	RB	_	2	advmod
+2	after	after	IN	_	10	prep
+3	takeoff	takeoff	NN	_	2	pobj
+4	,	,	,	_	10	punct
+5	an	a	DT	_	8	det
+6	apparent	apparent	JJ	_	8	amod
+7	systems	system	NNS	_	8	nn
+8	malfunction	malfunction	NN	_	10	nsubj
+9	has	have	VBZ	_	10	aux
+10	caused	cause	VBN	_	0	ROOT
+11	the	the	DT	_	13	det
+12	inadvertent	inadvertent	JJ	_	13	amod
+13	launch	launch	NN	_	10	dobj
+14	of	of	IN	_	13	prep
+15	an	a	DT	_	18	det
+16	AIM-9	aim-9	NN	_	18	nn
+17	Sidewinder	Sidewinder	NNP	_	18	nn
+18	missile	missile	NN	_	14	pobj
+19	.	.	.	_	10	punct
+

@@ -1,0 +1,22 @@
+1	A	a	DT	_	5	det
+2	sensible	sensible	JJ	_	5	amod
+3	,	,	,	_	5	punct
+4	rational	rational	JJ	_	5	amod
+5	person	person	NN	_	6	nsubj
+6	reads	read	VBZ	_	0	ROOT
+7	a	a	DT	_	8	det
+8	book	book	NN	_	6	dobj
+9	written	write	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	a	a	DT	_	14	det
+12	show-offy	show-offy	JJ	_	14	amod
+13	irrational	irrational	JJ	_	14	amod
+14	intellectual	intellectual	JJ	_	10	pobj
+15	and	and	CC	_	6	cc
+16	does	do	VBZ	_	18	aux
+17	n't	not	RB	_	18	neg
+18	like	like	VB	_	6	conj
+19	the	the	DT	_	20	det
+20	book	book	NN	_	18	dobj
+21	.	.	.	_	6	punct
+

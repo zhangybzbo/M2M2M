@@ -1,0 +1,18 @@
+1	A	a	DT	_	2	det
+2	man	man	NN	_	13	nsubjpass
+3	from	from	IN	_	2	prep
+4	Oxford	Oxford	NNP	_	3	pobj
+5	with	with	IN	_	2	prep
+6	leprosy	leprosy	NNP	_	5	pobj
+7	for	for	IN	_	2	prep
+8	more	more	JJR	_	9	mwe
+9	than	than	IN	_	10	quantmod
+10	20	20	CD	_	11	num
+11	years	year	NNS	_	7	pobj
+12	was	be	VBD	_	13	auxpass
+13	cured	cure	VBN	_	0	ROOT
+14	by	by	IN	_	13	prep
+15	the	the	DT	_	16	det
+16	water	water	NN	_	14	pobj
+17	.	.	.	_	13	punct
+

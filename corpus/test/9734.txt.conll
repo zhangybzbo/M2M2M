@@ -1,0 +1,15 @@
+1	Copy	copy	VB	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	all	all	DT	_	4	det
+4	documents	document	NNS	_	2	pobj
+5	being	be	VBG	_	6	auxpass
+6	discussed	discuss	VBN	_	4	vmod
+7	at	at	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	meeting	meeting	NN	_	7	pobj
+10	were	be	VBD	_	11	cop
+11	available	available	JJ	_	0	ROOT
+12	for	for	IN	_	11	prep
+13	inspection	inspection	NN	_	12	pobj
+14	.	.	.	_	11	punct
+

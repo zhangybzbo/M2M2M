@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det
+2	goal	goal	NN	_	3	nsubj
+3	is	be	VBZ	_	0	ROOT
+4	like	like	IN	_	3	prep
+5	a	a	DT	_	7	det
+6	mountain	mountain	NN	_	7	nn
+7	outcropping	outcropping	NN	_	4	pobj
+8	to	to	TO	_	12	prep
+9	which	which	WDT	_	8	pobj
+10	a	a	DT	_	11	det
+11	climber	climber	NN	_	12	nsubj
+12	throws	throw	VBZ	_	7	rcmod
+13	a	a	DT	_	15	det
+14	grappling	grappling	JJ	_	15	amod
+15	hook	hook	NN	_	12	dobj
+16	and	and	CC	_	12	cc
+17	pulls	pull	VBZ	_	12	conj
+18	themselves	themselves	PRP	_	17	dobj
+19	up	up	RP	_	17	prt
+20	.	.	.	_	3	punct
+

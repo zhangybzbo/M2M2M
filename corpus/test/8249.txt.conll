@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	article	article	NN	_	3	nsubj
+3	does	do	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	great	great	JJ	_	6	amod
+6	job	job	NN	_	3	dobj
+7	of	of	IN	_	6	prep
+8	tying	tie	VBG	_	7	pcomp
+9	the	the	DT	_	12	det
+10	three	three	CD	_	12	num
+11	procedural	procedural	JJ	_	12	amod
+12	cases	case	NNS	_	8	dobj
+13	from	from	IN	_	8	prep
+14	last	last	JJ	_	15	amod
+15	term	term	NN	_	13	pobj
+16	with	with	IN	_	8	prep
+17	larger	larger	JJR	_	20	amod
+18	complex	complex	NN	_	20	nn
+19	litigation	litigation	NN	_	20	nn
+20	issues	issue	NNS	_	16	pobj
+21	.	.	.	_	3	punct
+

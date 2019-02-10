@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	solute	solute	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	placed	place	VBN	_	15	csubjpass
+5	inside	inside	IN	_	4	prep
+6	a	a	DT	_	7	det
+7	beaker	beaker	NN	_	5	pobj
+8	and	and	CC	_	7	cc
+9	5	5	CD	_	10	num
+10	mL	ml	NN	_	7	conj
+11	of	of	IN	_	7	prep
+12	the	the	DT	_	13	det
+13	solvent	solvent	JJ	_	11	pobj
+14	was	be	VBD	_	15	auxpass
+15	pipetted	pipet	VBN	_	0	ROOT
+16	into	into	IN	_	15	prep
+17	a	a	DT	_	21	det
+18	25	25	CD	_	21	num
+19	mL	ml	NN	_	21	nn
+20	glass	glass	NN	_	21	nn
+21	flask	flask	NN	_	16	pobj
+22	for	for	IN	_	21	prep
+23	each	each	DT	_	24	det
+24	trial	trial	NN	_	22	pobj
+25	.	.	.	_	15	punct
+

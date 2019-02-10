@@ -1,0 +1,11 @@
+0	47	sentence id="s0" parse_status="success"
+0	2	tok id="t0" base="my" pos="PRP$" poss="t3"
+3	9	tok id="t1" base="credit" pos="NN" nn="t3"
+10	14	tok id="t2" base="card" pos="NN" nn="t3"
+15	19	tok id="t3" base="bill" pos="NN" nsubj="t5"
+20	22	tok id="t4" base="be" pos="VBZ" aux="t5"
+23	34	tok id="t5" base="approach" pos="VBG" ROOT="ROOT"
+35	38	tok id="t6" base="its" pos="PRP$" poss="t7"
+39	45	tok id="t7" base="limit" pos="NNS" dobj="t5"
+46	47	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det
+2	fleeing	flee	VBG	_	3	amod
+3	convicts	convict	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	picked	pick	VBN	_	0	ROOT
+6	out	out	IN	_	5	prep
+7	of	of	IN	_	6	pcomp
+8	the	the	DT	_	9	det
+9	darkness	darkness	NN	_	7	pobj
+10	by	by	IN	_	5	prep
+11	the	the	DT	_	14	det
+12	watchful	watchful	JJ	_	14	amod
+13	prison	prison	NN	_	14	nn
+14	guards	guard	NNS	_	10	pobj
+15	.	.	.	_	5	punct
+

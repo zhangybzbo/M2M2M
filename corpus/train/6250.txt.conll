@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det
+2	piper	piper	NN	_	3	nsubj
+3	made	make	VBD	_	0	ROOT
+4	many	many	JJ	_	5	amod
+5	recordings	recording	NNS	_	3	dobj
+6	,	,	,	_	5	punct
+7	including	include	VBG	_	5	prep
+8	an	a	DT	_	9	det
+9	album	album	NN	_	7	pobj
+10	called	call	VBN	_	9	vmod
+11	The	the	DT	_	12	det
+12	King	king	NN	_	10	dep
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	Highland	Highland	NNP	_	16	nn
+16	Pipers	Pipers	NNPS	_	13	pobj
+17	.	.	.	_	3	punct
+

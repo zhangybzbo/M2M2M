@@ -1,0 +1,14 @@
+1	Diabetic	Diabetic	NNP	_	5	nn
+2	peanut	peanut	NN	_	5	nn
+3	butter	butter	NN	_	5	nn
+4	cookies	cookie	NNS	_	5	nn
+5	recipe	recipe	NN	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	10	det
+8	diabetic	diabetic	JJ	_	10	amod
+9	recipe	recipe	NN	_	10	nn
+10	collection	collection	NN	_	6	pobj
+11	at	at	IN	_	5	prep
+12	InformationAboutDiabetes.com	InformationAboutDiabetes.com	NNP	_	11	pobj
+13	.	.	.	_	5	punct
+

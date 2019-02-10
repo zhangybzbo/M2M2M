@@ -1,0 +1,1 @@
+An initial Phase 1 packet arrived from an unrecognized peer gateway .

@@ -1,0 +1,19 @@
+1	Heating	heating	NN	_	2	nn
+2	oil	oil	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	similar	similar	JJ	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	diesel	diesel	JJ	_	7	amod
+7	oil	oil	NN	_	5	pobj
+8	,	,	,	_	4	punct
+9	and	and	CC	_	4	cc
+10	the	the	DT	_	11	det
+11	process	process	NN	_	4	conj
+12	of	of	IN	_	11	prep
+13	refining	refining	NN	_	12	pobj
+14	it	it	PRP	_	17	nsubj
+15	is	be	VBZ	_	17	cop
+16	very	very	RB	_	17	advmod
+17	similar	similar	JJ	_	11	rcmod
+18	.	.	.	_	4	punct
+

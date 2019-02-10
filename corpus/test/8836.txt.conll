@@ -1,0 +1,27 @@
+1	Line	Line	NNP	_	6	nsubj
+2	3	3	CD	_	1	num
+3	-LRB-	-lrb-	-LRB-	_	4	punct
+4	blue	blue	NN	_	1	appos
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	completed	complete	VBD	_	0	ROOT
+7	part	part	NN	_	6	dobj
+8	:	:	:	_	6	punct
+9	from	from	IN	_	6	prep
+10	Egaleo	Egaleo	NNP	_	9	pobj
+11	to	to	TO	_	9	prep
+12	Doukissis	Doukissis	NNP	_	13	nn
+13	Plakendias	Plakendias	NNP	_	11	pobj
+14	,	,	,	_	13	punct
+15	where	where	WRB	_	17	advmod
+16	it	it	PRP	_	17	nsubj
+17	connects	connect	VBZ	_	13	rcmod
+18	with	with	IN	_	17	prep
+19	the	the	DT	_	22	det
+20	new	new	JJ	_	22	amod
+21	Suburban	suburban	JJ	_	22	amod
+22	train	train	NN	_	18	pobj
+23	from	from	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	airport	airport	NN	_	23	pobj
+26	.	.	.	_	6	punct
+

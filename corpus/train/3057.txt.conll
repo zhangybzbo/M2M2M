@@ -1,0 +1,18 @@
+1	There	there	EX	_	2	expl
+2	was	be	VBD	_	0	ROOT
+3	a	a	DT	_	5	det
+4	serious	serious	JJ	_	5	amod
+5	increase	increase	NN	_	2	nsubj
+6	in	in	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	acidity	acidity	NN	_	6	pobj
+9	of	of	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	seas	sea	NNS	_	9	pobj
+12	caused	cause	VBN	_	8	vmod
+13	by	by	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	acid	acid	NN	_	16	nn
+16	rains	rain	NNS	_	13	pobj
+17	.	.	.	_	2	punct
+

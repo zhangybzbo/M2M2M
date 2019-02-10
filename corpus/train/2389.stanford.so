@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="lately" pos="RB" advmod="t4"
+7	8	tok id="t1" base="-COMMA-" pos="," punct="t4"
+9	13	tok id="t2" base="even" pos="RB" advmod="t3"
+14	19	tok id="t3" base="woman" pos="NNS" nsubj="t4"
+20	26	tok id="t4" base="inject" pos="VBP" ROOT="ROOT"
+27	35	tok id="t5" base="steroid" pos="NNS" dobj="t4"
+36	40	tok id="t6" base="into" pos="IN" prep="t4"
+41	46	tok id="t7" base="they" pos="PRP$" poss="t8"
+47	54	tok id="t8" base="muscle" pos="NNS" pobj="t6"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

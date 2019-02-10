@@ -1,0 +1,17 @@
+1	Quasi-static	quasi-static	JJ	_	3	amod
+2	tensile	tensile	NN	_	3	nn
+3	tests	test	NNS	_	5	nsubjpass
+4	were	be	VBD	_	5	auxpass
+5	performed	perform	VBN	_	0	ROOT
+6	on	on	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	specimens	specimen	NNS	_	6	pobj
+9	using	use	VBG	_	5	xcomp
+10	a	a	DT	_	11	det
+11	screw	screw	NN	_	15	nsubj
+12	driven	drive	VBN	_	15	amod
+13	Instron	Instron	NNP	_	15	nn
+14	load	load	NN	_	15	nn
+15	frame	frame	NN	_	9	ccomp
+16	.	.	.	_	5	punct
+

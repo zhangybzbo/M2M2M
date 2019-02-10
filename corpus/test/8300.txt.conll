@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss
+2	grandfather	grandfather	NN	_	3	nsubj
+3	reveals	reveal	VBZ	_	0	ROOT
+4	some	some	DT	_	3	dobj
+5	of	of	IN	_	4	prep
+6	his	he	PRP$	_	7	poss
+7	ancestors	ancestor	NNS	_	5	pobj
+8	by	by	IN	_	3	prep
+9	telling	tell	VBG	_	8	pcomp
+10	a	a	DT	_	13	det
+11	humorous	humorous	JJ	_	13	amod
+12	family	family	NN	_	13	nn
+13	story	story	NN	_	9	dobj
+14	.	.	.	_	3	punct
+

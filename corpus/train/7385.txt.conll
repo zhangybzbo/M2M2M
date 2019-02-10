@@ -1,0 +1,18 @@
+1	Chicken	chicken	NN	_	2	nn
+2	bouillon	bouillon	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	obtained	obtain	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	three	three	CD	_	8	num
+7	different	different	JJ	_	8	amod
+8	forms	form	NNS	_	5	pobj
+9	,	,	,	_	4	punct
+10	either	either	CC	_	11	preconj
+11	liquid	liquid	NN	_	4	dep
+12	,	,	,	_	11	punct
+13	powder	powder	NN	_	11	conj
+14	or	or	CC	_	11	cc
+15	in	in	IN	_	11	conj
+16	cubes	cube	NNS	_	15	pobj
+17	.	.	.	_	4	punct
+

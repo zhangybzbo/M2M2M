@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det
+2	little	little	JJ	_	3	amod
+3	sparrows	sparrow	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	flown	fly	VBN	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	wall	wall	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

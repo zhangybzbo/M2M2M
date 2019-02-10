@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det
+2	agency	agency	NN	_	4	nsubj
+3	also	also	RB	_	4	advmod
+4	provides	provide	VBZ	_	0	ROOT
+5	a	a	DT	_	6	det
+6	third	third	JJ	_	4	dobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	region	region	NN	_	12	poss
+10	's	's	POS	_	9	possessive
+11	power	power	NN	_	12	nn
+12	supply	supply	NN	_	7	pobj
+13	,	,	,	_	6	punct
+14	drawn	draw	VBN	_	6	vmod
+15	mostly	mostly	RB	_	16	advmod
+16	from	from	IN	_	14	prep
+17	generators	generator	NNS	_	16	pobj
+18	inside	inside	IN	_	17	prep
+19	big	big	JJ	_	20	amod
+20	dams	dam	NNS	_	18	pobj
+21	.	.	.	_	4	punct
+

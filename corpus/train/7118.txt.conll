@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	patient	patient	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	kept	keep	VBN	_	0	ROOT
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	hospital	hospital	NN	_	5	pobj
+8	one	one	CD	_	9	num
+9	night	night	NN	_	4	tmod
+10	for	for	IN	_	9	prep
+11	observation	observation	NN	_	10	pobj
+12	.	.	.	_	4	punct
+

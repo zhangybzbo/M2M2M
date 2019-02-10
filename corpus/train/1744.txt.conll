@@ -1,0 +1,23 @@
+1	The	the	DT	_	5	det
+2	Baha'u	Baha'u	NNP	_	5	nn
+3	`	`	``	_	5	punct
+4	llah	llah	JJ	_	5	amod
+5	religion	religion	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	liberated	liberate	VBN	_	0	ROOT
+8	human	human	JJ	_	9	amod
+9	minds	mind	NNS	_	7	dobj
+10	by	by	IN	_	7	prep
+11	a	a	DT	_	12	det
+12	prohibition	prohibition	NN	_	10	pobj
+13	within	within	IN	_	12	prep
+14	His	he	PRP$	_	15	poss
+15	Faith	faith	NN	_	13	pobj
+16	against	against	IN	_	12	prep
+17	any	any	DT	_	18	det
+18	caste	caste	NN	_	16	pobj
+19	with	with	IN	_	18	prep
+20	ecclesiastical	ecclesiastical	JJ	_	21	amod
+21	prerogatives	prerogative	NNS	_	19	pobj
+22	.	.	.	_	7	punct
+

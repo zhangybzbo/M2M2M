@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det
+2	agency	agency	NN	_	3	nsubj
+3	spent	spend	VBD	_	0	ROOT
+4	this	this	DT	_	5	det
+5	week	week	NN	_	3	tmod
+6	auctioning	auction	VBG	_	3	xcomp
+7	off	off	RP	_	6	prt
+8	a	a	DT	_	9	det
+9	12-pack	12-pack	NN	_	6	dobj
+10	of	of	IN	_	9	prep
+11	beer-commercial	beer-commercial	JJ	_	12	amod
+12	scripts	script	NNS	_	10	pobj
+13	on	on	IN	_	9	prep
+14	eBay	eBay	NNP	_	13	pobj
+15	.	.	.	_	3	punct
+

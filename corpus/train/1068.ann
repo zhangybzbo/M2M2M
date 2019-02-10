@@ -1,0 +1,3 @@
+T1	Term 11 20	committee
+T2	Term 39 44	chair
+R1	Member-Collection Arg1:T2 Arg2:T1

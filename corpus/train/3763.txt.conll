@@ -1,0 +1,16 @@
+1	Senior	senior	JJ	_	2	amod
+2	bondholders	bondholder	NNS	_	12	nsubj
+3	who	who	WP	_	4	nsubj
+4	drafted	draft	VBD	_	2	rcmod
+5	the	the	DT	_	7	det
+6	reorganization	reorganization	NN	_	7	nn
+7	plan	plan	NN	_	4	dobj
+8	for	for	IN	_	7	prep
+9	bankrupt	bankrupt	JJ	_	11	amod
+10	Six	six	CD	_	11	num
+11	Flags	flag	NNS	_	8	pobj
+12	revealed	reveal	VBD	_	0	ROOT
+13	their	they	PRP$	_	14	poss
+14	investments	investment	NNS	_	12	dobj
+15	.	.	.	_	12	punct
+

@@ -1,0 +1,10 @@
+1	Cooperation	cooperation	NN	_	5	nsubj
+2	through	through	IN	_	1	prep
+3	physical	physical	JJ	_	4	amod
+4	activity	activity	NN	_	2	pobj
+5	promotes	promote	VBZ	_	0	ROOT
+6	important	important	JJ	_	8	amod
+7	life	life	NN	_	8	nn
+8	skills	skill	NNS	_	5	dobj
+9	.	.	.	_	5	punct
+

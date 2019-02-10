@@ -1,0 +1,16 @@
+1	Whenever	Whenever	NNP	_	3	tmod
+2	we	we	PRP	_	3	nsubj
+3	try	try	VBP	_	0	ROOT
+4	a	a	DT	_	6	det
+5	new	new	JJ	_	6	amod
+6	butcher	butcher	NN	_	3	dobj
+7	we	we	PRP	_	9	nsubj
+8	always	always	RB	_	9	advmod
+9	buy	buy	VBP	_	6	rcmod
+10	the	the	DT	_	11	det
+11	butcher	butcher	NN	_	13	poss
+12	's	's	POS	_	11	possessive
+13	sausage	sausage	NN	_	9	dobj
+14	first	first	RB	_	9	advmod
+15	.	.	.	_	3	punct
+

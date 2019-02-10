@@ -1,0 +1,15 @@
+1	So	so	IN	_	4	mark
+2	I	I	PRP	_	4	nsubj
+3	was	be	VBD	_	4	aux
+4	looking	look	VBG	_	0	ROOT
+5	at	at	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	ceiling	ceiling	NN	_	5	pobj
+8	in	in	IN	_	7	prep
+9	my	my	PRP$	_	10	poss
+10	kitchen	kitchen	NN	_	8	pobj
+11	yelling	yell	VBG	_	4	xcomp
+12	at	at	IN	_	11	prep
+13	God	God	NNP	_	12	pobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,18 @@
+1	Kevin	Kevin	NNP	_	2	nn
+2	Kim	Kim	NNP	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	surprised	surprise	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	arrival	arrival	NN	_	5	pobj
+8	of	of	IN	_	7	prep
+9	an	a	DT	_	12	det
+10	ancient	ancient	JJ	_	12	amod
+11	Korean	korean	JJ	_	12	amod
+12	archer	archer	NN	_	8	pobj
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	1st	1st	JJ	_	16	amod
+16	century	century	NN	_	13	pobj
+17	.	.	.	_	4	punct
+

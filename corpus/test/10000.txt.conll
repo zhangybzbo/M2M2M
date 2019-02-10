@@ -1,0 +1,19 @@
+1	Scientists	scientist	NNS	_	3	nsubj
+2	are	be	VBP	_	3	aux
+3	turning	turn	VBG	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	music	music	NN	_	4	pobj
+6	to	to	TO	_	7	aux
+7	put	put	VB	_	3	xcomp
+8	across	across	RP	_	7	prt
+9	their	they	PRP$	_	10	poss
+10	messages	message	NNS	_	7	dobj
+11	:	:	:	_	3	punct
+12	whether	whether	IN	_	13	mark
+13	informing	inform	VBG	_	3	dep
+14	the	the	DT	_	13	dobj
+15	public	public	JJ	_	14	amod
+16	or	or	CC	_	15	cc
+17	campaigning	campaigning	NN	_	15	conj
+18	.	.	.	_	3	punct
+

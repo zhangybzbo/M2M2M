@@ -1,0 +1,18 @@
+1	Conscripts	conscript	NNS	_	0	ROOT
+2	on	on	IN	_	1	prep
+3	Spanish	spanish	JJ	_	4	amod
+4	galleons	galleon	NNS	_	2	pobj
+5	escaped	escape	VBN	_	4	vmod
+6	by	by	IN	_	5	prep
+7	jumping	jump	VBG	_	8	amod
+8	ship	ship	NN	_	6	pobj
+9	in	in	IN	_	8	prep
+10	New	New	NNP	_	11	nn
+11	Orleans	Orleans	NNP	_	9	pobj
+12	and	and	CC	_	1	cc
+13	in	in	IN	_	1	conj
+14	Acapulco	Acapulco	NNP	_	13	pobj
+15	,	,	,	_	14	punct
+16	Mexico	Mexico	NNP	_	14	appos
+17	.	.	.	_	1	punct
+

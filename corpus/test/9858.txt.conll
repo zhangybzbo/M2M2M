@@ -1,0 +1,26 @@
+1	She	she	PRP	_	2	nsubj
+2	met	meet	VBD	_	0	ROOT
+3	her	she	PRP$	_	5	poss
+4	British	british	JJ	_	5	amod
+5	husband	husband	NN	_	2	dobj
+6	,	,	,	_	5	punct
+7	Martin	Martin	NNP	_	8	nn
+8	Stamp	Stamp	NNP	_	5	appos
+9	,	,	,	_	5	punct
+10	a	a	DT	_	12	det
+11	software	software	NN	_	12	nn
+12	developer	developer	NN	_	5	appos
+13	,	,	,	_	5	punct
+14	in	in	IN	_	2	prep
+15	1983	1983	CD	_	14	pobj
+16	,	,	,	_	2	punct
+17	and	and	CC	_	2	cc
+18	with	with	IN	_	20	prep
+19	him	he	PRP	_	18	pobj
+20	felt	feel	VBD	_	2	conj
+21	that	that	IN	_	24	mark
+22	she	she	PRP	_	24	nsubj
+23	finally	finally	RB	_	24	advmod
+24	belonged	belong	VBD	_	20	ccomp
+25	.	.	.	_	2	punct
+

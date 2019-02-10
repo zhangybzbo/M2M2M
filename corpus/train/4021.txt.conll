@@ -1,0 +1,14 @@
+1	Libertarianism	Libertarianism	NNP	_	9	nsubj
+2	as	as	IN	_	3	mark
+3	discussed	discuss	VBN	_	1	dep
+4	in	in	IN	_	3	prep
+5	this	this	DT	_	6	det
+6	essay	essay	NN	_	4	pobj
+7	is	be	VBZ	_	9	cop
+8	a	a	DT	_	9	det
+9	theory	theory	NN	_	0	ROOT
+10	of	of	IN	_	9	prep
+11	political	political	JJ	_	12	amod
+12	justice	justice	NN	_	10	pobj
+13	.	.	.	_	9	punct
+

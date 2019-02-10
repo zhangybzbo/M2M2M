@@ -1,0 +1,9 @@
+1	We	we	PRP	_	7	nsubj
+2	are	be	VBP	_	7	cop
+3	a	a	DT	_	7	det
+4	petroleum	petroleum	NN	_	7	nn
+5	and	and	CC	_	4	cc
+6	petrochemical	petrochemical	NN	_	4	conj
+7	company	company	NN	_	0	ROOT
+8	.	.	.	_	7	punct
+

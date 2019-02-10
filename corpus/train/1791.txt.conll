@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det
+2	vagina	vagina	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	sutured	suture	VBN	_	0	ROOT
+5	behind	behind	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	neourethra	neourethra	NN	_	5	pobj
+8	;	;	:	_	4	punct
+9	the	the	DT	_	10	det
+10	vagina	vagina	NN	_	11	nsubj
+11	accommodated	accommodate	VBD	_	4	parataxis
+12	a	a	DT	_	15	det
+13	size	size	NN	_	15	nn
+14	12	12	CD	_	15	num
+15	dilator	dilator	NN	_	11	dobj
+16	.	.	.	_	4	punct
+

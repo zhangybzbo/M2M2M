@@ -1,0 +1,11 @@
+1	Rudders	rudder	NNS	_	4	nsubj
+2	and	and	CC	_	1	cc
+3	skegs	skeg	NNS	_	1	conj
+4	improve	improve	VBP	_	0	ROOT
+5	the	the	DT	_	6	det
+6	control	control	NN	_	4	dobj
+7	over	over	IN	_	6	prep
+8	your	you	PRP$	_	9	poss
+9	kayak	kayak	NN	_	7	pobj
+10	.	.	.	_	4	punct
+

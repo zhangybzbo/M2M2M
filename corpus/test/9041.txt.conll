@@ -1,0 +1,22 @@
+1	Kosher	Kosher	NNP	_	2	nsubj
+2	indicates	indicate	VBZ	_	0	ROOT
+3	that	that	IN	_	7	mark
+4	the	the	DT	_	5	det
+5	gelatin	gelatin	NN	_	7	nsubjpass
+6	is	be	VBZ	_	7	auxpass
+7	derived	derive	VBN	_	2	ccomp
+8	from	from	IN	_	7	prep
+9	an	a	DT	_	10	det
+10	animal	animal	NN	_	8	pobj
+11	that	that	WDT	_	14	nsubjpass
+12	is	be	VBZ	_	14	auxpass
+13	mercifully	mercifully	RB	_	14	advmod
+14	slaughtered	slaughter	VBN	_	10	rcmod
+15	according	accord	VBG	_	14	prep
+16	to	to	TO	_	15	pcomp
+17	the	the	DT	_	18	det
+18	laws	law	NNS	_	16	pobj
+19	of	of	IN	_	18	prep
+20	kashruth	kashruth	NN	_	19	pobj
+21	.	.	.	_	2	punct
+

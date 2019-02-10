@@ -1,0 +1,10 @@
+1	He	he	PRP	_	2	nsubj
+2	learnt	learn	VBD	_	0	ROOT
+3	about	about	IN	_	2	prep
+4	their	they	PRP$	_	5	poss
+5	divorce	divorce	NN	_	3	pobj
+6	from	from	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	newspaper	newspaper	NN	_	6	pobj
+9	.	.	.	_	2	punct
+

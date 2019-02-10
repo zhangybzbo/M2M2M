@@ -1,0 +1,15 @@
+1	Swine	swine	NN	_	0	ROOT
+2	Flu	flu	SYM	_	1	dep
+3	-	-	:	_	1	punct
+4	Popular	Popular	NNP	_	5	nn
+5	name	name	NN	_	1	dep
+6	for	for	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	illness	illness	NN	_	6	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	H1N1	h1n1	NN	_	13	nn
+13	virus	virus	NN	_	10	pobj
+14	.	.	.	_	1	punct
+

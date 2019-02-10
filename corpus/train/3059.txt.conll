@@ -1,0 +1,19 @@
+1	On	on	IN	_	7	prep
+2	eastern	eastern	JJ	_	3	amod
+3	side	side	NN	_	1	pobj
+4	the	the	DT	_	5	det
+5	company	company	NN	_	7	nsubj
+6	has	have	VBZ	_	7	aux
+7	carved	carve	VBN	_	0	ROOT
+8	out	out	RP	_	7	prt
+9	30-foot	30-foot	JJ	_	10	amod
+10	benches	bench	NNS	_	7	dobj
+11	,	,	,	_	10	punct
+12	known	know	VBN	_	10	vmod
+13	as	as	IN	_	12	prep
+14	``	``	``	_	13	punct
+15	Mayan	mayan	JJ	_	16	amod
+16	steps	step	NNS	_	13	pobj
+17	.	.	.	_	7	punct
+18	''	''	''	_	7	punct
+

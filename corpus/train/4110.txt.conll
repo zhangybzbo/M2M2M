@@ -1,0 +1,14 @@
+1	Then	then	RB	_	4	advmod
+2	,	,	,	_	4	punct
+3	we	we	PRP	_	4	nsubj
+4	placed	place	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	bread	bread	NN	_	7	nn
+7	slice	slice	NN	_	4	dobj
+8	into	into	IN	_	4	prep
+9	the	the	DT	_	12	det
+10	heatproof	heatproof	JJ	_	12	amod
+11	baking	baking	JJ	_	12	amod
+12	dish	dish	NN	_	8	pobj
+13	.	.	.	_	4	punct
+

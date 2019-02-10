@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det
+2	leeward	leeward	NN	_	3	nn
+3	barchan	barchan	NN	_	4	nsubj
+4	runs	run	VBZ	_	0	ROOT
+5	away	away	RB	_	4	advmod
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	windward	windward	NN	_	9	nn
+9	barchan	barchan	NN	_	6	pobj
+10	because	because	IN	_	11	mwe
+11	of	of	IN	_	4	prep
+12	the	the	DT	_	14	det
+13	inverse	inverse	JJ	_	14	amod
+14	relationship	relationship	NN	_	11	pobj
+15	between	between	IN	_	14	prep
+16	velocity	velocity	NN	_	15	pobj
+17	and	and	CC	_	16	cc
+18	height	height	NN	_	16	conj
+19	.	.	.	_	4	punct
+

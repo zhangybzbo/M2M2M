@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	data	datum	NNS	_	3	nsubj
+3	provided	provide	VBD	_	0	ROOT
+4	powerful	powerful	JJ	_	5	amod
+5	evidence	evidence	NN	_	3	dobj
+6	that	that	IN	_	12	mark
+7	the	the	DT	_	9	det
+8	unusual	unusual	JJ	_	9	amod
+9	meteorite	meteorite	NN	_	12	nsubj
+10	was	be	VBD	_	12	cop
+11	the	the	DT	_	12	det
+12	result	result	NN	_	5	ccomp
+13	of	of	IN	_	12	prep
+14	a	a	DT	_	16	det
+15	long-lasting	long-lasting	JJ	_	16	amod
+16	rain	rain	NN	_	13	pobj
+17	of	of	IN	_	16	prep
+18	meteorites	meteorite	NNS	_	17	pobj
+19	following	follow	VBG	_	12	prep
+20	the	the	DT	_	21	det
+21	destruction	destruction	NN	_	19	pobj
+22	of	of	IN	_	21	prep
+23	an	a	DT	_	24	det
+24	asteroid	asteroid	NN	_	22	pobj
+25	.	.	.	_	3	punct
+

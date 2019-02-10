@@ -1,0 +1,24 @@
+1	Of	of	IN	_	0	ROOT
+2	course	course	NN	_	1	pobj
+3	,	,	,	_	6	punct
+4	the	the	DT	_	6	det
+5	biggest	biggest	JJS	_	6	amod
+6	clues	clue	NNS	_	1	dep
+7	leaked	leak	VBN	_	6	vmod
+8	from	from	IN	_	7	prep
+9	former	former	JJ	_	11	amod
+10	Blizzard	Blizzard	NNP	_	11	nn
+11	employees	employee	NNS	_	8	pobj
+12	in	in	IN	_	11	prep
+13	Korea	Korea	NNP	_	12	pobj
+14	who	who	WP	_	15	nsubj
+15	hinted	hint	VBD	_	6	rcmod
+16	that	that	IN	_	20	mark
+17	the	the	DT	_	18	det
+18	game	game	NN	_	20	nsubj
+19	was	be	VBD	_	20	aux
+20	going	go	VBG	_	15	ccomp
+21	totally	totally	RB	_	22	advmod
+22	3D	3d	FW	_	20	dobj
+23	.	.	.	_	6	punct
+

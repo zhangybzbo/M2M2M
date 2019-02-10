@@ -1,0 +1,3 @@
+T1	Term 36 44	accident
+T2	Term 63 69	impact
+R1	Cause-Effect Arg1:T1 Arg2:T2

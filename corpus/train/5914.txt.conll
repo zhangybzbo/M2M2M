@@ -1,0 +1,22 @@
+1	Note	note	VB	_	0	ROOT
+2	that	that	IN	_	12	mark
+3	the	the	DT	_	6	det
+4	relevant	relevant	JJ	_	6	amod
+5	superannuation	superannuation	NN	_	6	nn
+6	fund	fund	NN	_	12	nsubjpass
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	s	s	NNS	_	6	appos
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	must	must	MD	_	12	aux
+11	be	be	VB	_	12	auxpass
+12	notified	notify	VBN	_	1	ccomp
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	employee	employee	NN	_	17	poss
+16	's	's	POS	_	15	possessive
+17	departure	departure	NN	_	13	pobj
+18	from	from	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	company	company	NN	_	18	pobj
+21	.	.	.	_	1	punct
+

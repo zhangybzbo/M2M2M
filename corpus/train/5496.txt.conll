@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det
+2	loop	loop	NN	_	0	ROOT
+3	emiting	emit	VBG	_	5	amod
+4	short	short	JJ	_	5	amod
+5	flashes	flash	NNS	_	9	nsubjpass
+6	of	of	IN	_	5	prep
+7	light	light	NN	_	6	pobj
+8	is	be	VBZ	_	9	auxpass
+9	projected	project	VBN	_	2	rcmod
+10	onto	onto	IN	_	9	prep
+11	volunteer	volunteer	NN	_	12	nn
+12	members	member	NNS	_	10	pobj
+13	of	of	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	audience	audience	NN	_	13	pobj
+16	.	.	.	_	2	punct
+

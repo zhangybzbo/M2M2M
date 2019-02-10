@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det
+2	executive	executive	NN	_	3	nn
+3	committee	committee	NN	_	5	nsubjpass
+4	is	be	VBZ	_	5	auxpass
+5	composed	compose	VBN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	president	president	NN	_	6	pobj
+9	,	,	,	_	8	punct
+10	vice	vice	NN	_	11	nn
+11	presidents	president	NNS	_	8	appos
+12	from	from	IN	_	11	prep
+13	the	the	DT	_	16	det
+14	10	10	CD	_	16	num
+15	largest	largest	JJS	_	16	amod
+16	affiliates	affiliate	NNS	_	12	pobj
+17	,	,	,	_	8	punct
+18	and	and	CC	_	8	cc
+19	nine	nine	CD	_	22	num
+20	other	other	JJ	_	22	amod
+21	vice	vice	NN	_	22	nn
+22	presidents	president	NNS	_	8	conj
+23	chosen	choose	VBN	_	8	vmod
+24	in	in	IN	_	23	prep
+25	consultation	consultation	NN	_	24	pobj
+26	.	.	.	_	5	punct
+

@@ -1,0 +1,11 @@
+1	Takeovers	takeover	NNS	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	taken	take	VBN	_	0	ROOT
+4	Ted	Ted	NNP	_	6	poss
+5	's	's	POS	_	4	possessive
+6	portfolio	portfolio	NN	_	3	dobj
+7	into	into	IN	_	3	prep
+8	new	new	JJ	_	9	amod
+9	territory	territory	NN	_	7	pobj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	exhibition	exhibition	NN	_	3	nsubj
+3	describes	describe	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	fight	fight	NN	_	3	dobj
+6	against	against	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	forces	force	NNS	_	6	pobj
+9	of	of	IN	_	8	prep
+10	nature	nature	NN	_	9	pobj
+11	that	that	WDT	_	14	nsubj
+12	has	have	VBZ	_	14	aux
+13	been	be	VBN	_	14	cop
+14	central	central	JJ	_	8	rcmod
+15	to	to	TO	_	14	prep
+16	the	the	DT	_	17	det
+17	history	history	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	Vasa	Vasa	NNP	_	18	pobj
+20	ever	ever	RB	_	14	advmod
+21	since	since	IN	_	23	mark
+22	it	it	PRP	_	23	nsubj
+23	sunk	sink	VBD	_	14	advcl
+24	in	in	IN	_	23	prep
+25	1628	1628	CD	_	24	pobj
+26	.	.	.	_	3	punct
+

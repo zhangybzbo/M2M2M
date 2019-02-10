@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det
+2	year	year	NN	_	3	npadvmod
+3	later	later	RB	_	14	advmod
+4	,	,	,	_	14	punct
+5	in	in	IN	_	14	prep
+6	September	September	NNP	_	5	pobj
+7	1941	1941	CD	_	6	num
+8	,	,	,	_	14	punct
+9	he	he	PRP	_	14	nsubj
+10	and	and	CC	_	9	cc
+11	a	a	DT	_	13	det
+12	fellow	fellow	JJ	_	13	amod
+13	prisoner	prisoner	NN	_	9	conj
+14	dug	dig	VBD	_	0	ROOT
+15	a	a	DT	_	16	det
+16	tunnel	tunnel	NN	_	14	dobj
+17	from	from	IN	_	14	prep
+18	an	a	DT	_	19	det
+19	incinerator	incinerator	NN	_	17	pobj
+20	to	to	TO	_	14	prep
+21	a	a	DT	_	22	det
+22	point	point	NN	_	20	pobj
+23	beyond	beyond	IN	_	22	prep
+24	the	the	DT	_	25	det
+25	perimeter	perimeter	NN	_	23	pobj
+26	.	.	.	_	14	punct
+

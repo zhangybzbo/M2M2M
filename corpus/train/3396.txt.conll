@@ -1,0 +1,27 @@
+1	The	the	DT	_	5	det
+2	concept	concept	NN	_	5	nn
+3	car	car	NN	_	5	nn
+4	Acura	Acura	NNP	_	5	nn
+5	TL	TL	NNP	_	6	nsubj
+6	features	feature	VBZ	_	0	ROOT
+7	a	a	DT	_	9	det
+8	wiperless	wiperless	JJ	_	9	amod
+9	windscreen	windscreen	NN	_	6	dobj
+10	using	use	VBG	_	9	vmod
+11	a	a	DT	_	12	det
+12	series	series	NN	_	10	dobj
+13	of	of	IN	_	12	prep
+14	jet	jet	NN	_	15	nn
+15	nozzles	nozzle	NNS	_	13	pobj
+16	in	in	IN	_	12	prep
+17	the	the	DT	_	18	det
+18	cowl	cowl	NN	_	16	pobj
+19	to	to	TO	_	20	aux
+20	blow	blow	VB	_	10	vmod
+21	pressurized	pressurized	JJ	_	22	amod
+22	air	air	NN	_	20	dobj
+23	onto	onto	IN	_	20	prep
+24	the	the	DT	_	25	det
+25	windscreen	windscreen	NN	_	23	pobj
+26	.	.	.	_	6	punct
+

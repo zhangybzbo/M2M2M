@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	oil	oil	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	extracted	extract	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	Crambe	Crambe	NNP	_	10	nn
+7	abyssinica	abyssinica	NN	_	10	nn
+8	seed	seed	NN	_	10	nn
+9	cultivar	cultivar	NN	_	10	nn
+10	Belenzian	belenzian	NN	_	5	pobj
+11	cultivated	cultivate	VBN	_	10	vmod
+12	in	in	IN	_	11	prep
+13	Italy	Italy	NNP	_	12	pobj
+14	in	in	IN	_	11	prep
+15	1992	1992	CD	_	14	pobj
+16	,	,	,	_	4	punct
+17	using	use	VBG	_	4	xcomp
+18	a	a	DT	_	17	dobj
+19	new	new	JJ	_	18	amod
+20	cold	cold	JJ	_	19	dep
+21	mechanical	mechanical	JJ	_	20	dep
+22	squeezing	squeeze	VBG	_	21	xcomp
+23	process	process	NN	_	22	dobj
+24	.	.	.	_	4	punct
+

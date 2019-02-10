@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det
+2	sword	sword	NN	_	4	nsubjpass
+3	was	be	VBD	_	4	auxpass
+4	taken	take	VBN	_	0	ROOT
+5	from	from	IN	_	4	prep
+6	his	he	PRP$	_	8	poss
+7	small	small	JJ	_	8	amod
+8	hands	hand	NNS	_	5	pobj
+9	,	,	,	_	4	punct
+10	and	and	CC	_	4	cc
+11	placed	place	VBD	_	4	conj
+12	back	back	RB	_	11	advmod
+13	in	in	IN	_	11	prep
+14	its	its	PRP$	_	15	poss
+15	place	place	NN	_	13	pobj
+16	on	on	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	wall	wall	NN	_	16	pobj
+19	.	.	.	_	4	punct
+

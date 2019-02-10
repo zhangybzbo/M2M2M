@@ -1,0 +1,8 @@
+1	Anti-crime	anti-crime	JJ	_	2	amod
+2	rap	rap	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	sent	send	VBN	_	0	ROOT
+5	to	to	TO	_	4	prep
+6	mobiles	mobile	NNS	_	5	pobj
+7	.	.	.	_	4	punct
+

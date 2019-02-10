@@ -1,0 +1,16 @@
+1	A	a	DT	_	3	det
+2	family	family	NN	_	3	nn
+3	report	report	NN	_	8	nsubj
+4	on	on	IN	_	3	prep
+5	Hope	Hope	NNP	_	7	poss
+6	's	's	POS	_	5	possessive
+7	website	website	NN	_	4	pobj
+8	gave	give	VBD	_	0	ROOT
+9	details	detail	NNS	_	8	dobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	morning	morning	NN	_	14	poss
+13	's	's	POS	_	12	possessive
+14	events	event	NNS	_	10	pobj
+15	.	.	.	_	8	punct
+

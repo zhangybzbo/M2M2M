@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det
+2	remaining	remain	VBG	_	3	amod
+3	settlers	settler	NNS	_	4	nsubj
+4	dug	dig	VBD	_	0	ROOT
+5	a	a	DT	_	7	det
+6	10	10	CD	_	7	num
+7	miles	mile	NNS	_	4	dobj
+8	-LRB-	-lrb-	-LRB-	_	10	punct
+9	16	16	CD	_	10	num
+10	km	km	NN	_	7	appos
+11	-RRB-	-rrb-	-RRB-	_	10	punct
+12	ditch	ditch	NN	_	7	dep
+13	from	from	IN	_	12	prep
+14	the	the	DT	_	15	det
+15	Sevier	Sevier	NNP	_	18	poss
+16	's	's	POS	_	15	possessive
+17	east	east	JJ	_	18	amod
+18	fork	fork	NN	_	13	pobj
+19	into	into	IN	_	12	prep
+20	Tropic	Tropic	NNP	_	21	nn
+21	Valley	Valley	NNP	_	19	pobj
+22	.	.	.	_	4	punct
+

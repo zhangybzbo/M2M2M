@@ -1,0 +1,15 @@
+1	Bizarrely	bizarrely	RB	_	0	ROOT
+2	enough	enough	RB	_	6	advmod
+3	I	I	PRP	_	6	nsubj
+4	was	be	VBD	_	6	aux
+5	just	just	RB	_	6	advmod
+6	looking	look	VBG	_	1	dep
+7	at	at	IN	_	6	prep
+8	our	we	PRP$	_	9	poss
+9	homepage	homepage	NN	_	7	pobj
+10	from	from	IN	_	6	prep
+11	ten	ten	CD	_	12	num
+12	years	year	NNS	_	13	npadvmod
+13	ago	ago	RB	_	10	pcomp
+14	.	.	.	_	1	punct
+

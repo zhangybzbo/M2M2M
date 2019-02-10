@@ -1,0 +1,12 @@
+1	The	the	DT	_	3	det
+2	old	old	JJ	_	3	amod
+3	man	man	NN	_	4	nsubj
+4	fixed	fix	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	children	child	NNS	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	9	det
+9	firm	firm	NN	_	10	nsubj
+10	stare	stare	VB	_	7	pcomp
+11	.	.	.	_	4	punct
+

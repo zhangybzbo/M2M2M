@@ -1,0 +1,18 @@
+1	First	first	RB	_	8	advmod
+2	,	,	,	_	8	punct
+3	a	a	DT	_	6	det
+4	comprehensive	comprehensive	JJ	_	6	amod
+5	literature	literature	NN	_	6	nn
+6	review	review	NN	_	8	nsubjpass
+7	was	be	VBD	_	8	auxpass
+8	conducted	conduct	VBN	_	0	ROOT
+9	and	and	CC	_	8	cc
+10	results	result	NNS	_	12	nsubjpass
+11	were	be	VBD	_	12	auxpass
+12	presented	present	VBN	_	8	conj
+13	in	in	IN	_	12	prep
+14	the	the	DT	_	16	det
+15	previous	previous	JJ	_	16	amod
+16	chapter	chapter	NN	_	13	pobj
+17	.	.	.	_	8	punct
+

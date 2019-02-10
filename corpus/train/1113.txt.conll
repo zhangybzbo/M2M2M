@@ -1,0 +1,19 @@
+1	It	it	PRP	_	2	nsubj
+2	is	be	VBZ	_	0	ROOT
+3	because	because	IN	_	7	mark
+4	Schiavo	Schiavo	NNP	_	7	nsubj
+5	can	can	MD	_	7	aux
+6	not	not	RB	_	7	neg
+7	swallow	swallow	VB	_	2	advcl
+8	that	that	IN	_	13	mark
+9	a	a	DT	_	11	det
+10	feeding	feeding	NN	_	11	nn
+11	tube	tube	NN	_	13	nsubjpass
+12	was	be	VBD	_	13	auxpass
+13	inserted	insert	VBN	_	7	ccomp
+14	directly	directly	RB	_	13	advmod
+15	into	into	IN	_	13	prep
+16	her	she	PRP$	_	17	poss
+17	stomach	stomach	NN	_	15	pobj
+18	.	.	.	_	2	punct
+

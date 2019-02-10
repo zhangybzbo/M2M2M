@@ -1,0 +1,25 @@
+1	The	the	DT	_	4	det
+2	two	two	CD	_	4	num
+3	four-legged	four-legged	JJ	_	4	amod
+4	chickens	chicken	NNS	_	5	nsubj
+5	were	be	VBD	_	0	ROOT
+6	in	in	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	box	box	NN	_	6	pobj
+9	under	under	IN	_	5	prep
+10	a	a	DT	_	12	det
+11	heat	heat	NN	_	12	nn
+12	lamp	lamp	NN	_	9	pobj
+13	,	,	,	_	5	punct
+14	a	a	DT	_	16	det
+15	temporary	temporary	JJ	_	16	amod
+16	lodging	lodging	NN	_	5	dep
+17	until	until	IN	_	23	mark
+18	a	a	DT	_	21	det
+19	more	more	RBR	_	20	advmod
+20	spacious	spacious	JJ	_	21	amod
+21	cage	cage	NN	_	23	nsubj
+22	was	be	VBD	_	23	cop
+23	available	available	JJ	_	16	advcl
+24	.	.	.	_	5	punct
+

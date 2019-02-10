@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	liver	liver	NN	_	4	nsubj
+3	is	be	VBZ	_	4	cop
+4	responsible	responsible	JJ	_	0	ROOT
+5	for	for	IN	_	4	prep
+6	production	production	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	biochemicals	biochemical	NNS	_	7	pobj
+9	necessary	necessary	JJ	_	8	amod
+10	for	for	IN	_	9	prep
+11	digestion	digestion	NN	_	10	pobj
+12	.	.	.	_	4	punct
+

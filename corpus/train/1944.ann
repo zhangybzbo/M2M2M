@@ -1,0 +1,3 @@
+T1	Term 27 35	commands
+T2	Term 39 46	malware
+R1	Entity-Destination Arg1:T1 Arg2:T2

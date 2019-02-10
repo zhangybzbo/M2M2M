@@ -1,0 +1,16 @@
+1	Following	follow	VBG	_	9	prep
+2	step	step	NN	_	1	pobj
+3	2	2	CD	_	2	num
+4	in	in	IN	_	2	prep
+5	making	make	VBG	_	4	pcomp
+6	pancake	pancake	NN	_	5	dobj
+7	,	,	,	_	9	punct
+8	he	he	PRP	_	9	nsubj
+9	poured	pour	VBD	_	0	ROOT
+10	the	the	DT	_	11	det
+11	batter	batter	NN	_	9	dobj
+12	in	in	IN	_	9	prep
+13	the	the	DT	_	14	det
+14	pan	pan	NN	_	12	pobj
+15	.	.	.	_	9	punct
+

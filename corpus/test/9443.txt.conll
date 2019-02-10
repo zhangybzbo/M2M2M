@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	project	project	NN	_	3	nsubj
+3	uses	use	VBZ	_	0	ROOT
+4	art	art	NN	_	3	dobj
+5	as	as	IN	_	3	prep
+6	an	a	DT	_	7	det
+7	instrument	instrument	NN	_	5	pobj
+8	to	to	TO	_	9	aux
+9	provide	provide	VB	_	7	vmod
+10	viewers	viewer	NNS	_	12	nn
+11	different	different	JJ	_	12	amod
+12	insights	insight	NNS	_	9	dobj
+13	.	.	.	_	3	punct
+

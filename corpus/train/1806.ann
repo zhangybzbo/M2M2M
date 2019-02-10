@@ -1,0 +1,3 @@
+T1	Term 32 40	concerns
+T2	Term 50 63	public sector
+R1	Other Arg1:T1 Arg2:T2

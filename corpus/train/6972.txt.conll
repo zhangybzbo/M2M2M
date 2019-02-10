@@ -1,0 +1,9 @@
+1	They	they	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	poured	pour	VBN	_	0	ROOT
+4	millions	million	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	these	these	DT	_	7	det
+7	projects	project	NNS	_	5	pobj
+8	.	.	.	_	3	punct
+

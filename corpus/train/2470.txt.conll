@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det
+2	fluctuations	fluctuation	NNS	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	caused	cause	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	state	state	NN	_	9	nn
+7	and	and	CC	_	6	cc
+8	federal	federal	JJ	_	6	conj
+9	taxes	tax	NNS	_	5	pobj
+10	,	,	,	_	9	punct
+11	distance	distance	NN	_	9	appos
+12	from	from	IN	_	11	prep
+13	refineries	refinery	NNS	_	12	pobj
+14	to	to	TO	_	11	prep
+15	filling	fill	VBG	_	14	pcomp
+16	stations	station	NNS	_	15	dobj
+17	and	and	CC	_	16	cc
+18	environmental	environmental	JJ	_	19	amod
+19	laws	law	NNS	_	16	conj
+20	.	.	.	_	4	punct
+

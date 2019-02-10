@@ -1,0 +1,12 @@
+1	He	he	PRP	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	released	release	VBD	_	0	ROOT
+4	a	a	DT	_	6	det
+5	similar	similar	JJ	_	6	amod
+6	document	document	NN	_	3	dobj
+7	investigating	investigate	VBG	_	6	vmod
+8	violence	violence	NN	_	7	dobj
+9	against	against	IN	_	8	prep
+10	women	woman	NNS	_	9	pobj
+11	.	.	.	_	3	punct
+

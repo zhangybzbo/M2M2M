@@ -1,0 +1,14 @@
+1	TextMate	TextMate	NNP	_	3	nsubjpass
+2	is	be	VBZ	_	3	auxpass
+3	hailed	hail	VBN	_	0	ROOT
+4	as	as	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	best	best	JJS	_	7	amod
+7	editor	editor	NN	_	4	pobj
+8	for	for	IN	_	7	prep
+9	programmers	programmer	NNS	_	8	pobj
+10	by	by	IN	_	3	prep
+11	many	many	JJ	_	12	amod
+12	people	people	NNS	_	10	pobj
+13	.	.	.	_	3	punct
+

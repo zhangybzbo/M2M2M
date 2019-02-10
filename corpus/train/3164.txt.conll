@@ -1,0 +1,13 @@
+1	In	in	IN	_	7	prep
+2	an	a	DT	_	3	det
+3	experiment	experiment	NN	_	1	pobj
+4	,	,	,	_	7	punct
+5	proteins	protein	NNS	_	7	nsubj
+6	successfully	successfully	RB	_	7	advmod
+7	transported	transport	VBN	_	0	ROOT
+8	copper	copper	NN	_	7	dobj
+9	into	into	IN	_	7	prep
+10	the	the	DT	_	11	det
+11	tissue	tissue	NN	_	9	pobj
+12	.	.	.	_	7	punct
+

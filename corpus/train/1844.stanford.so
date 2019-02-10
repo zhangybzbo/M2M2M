@@ -1,0 +1,13 @@
+0	61	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	8	tok id="t1" base="book" pos="NN" nsubj="t2"
+9	16	tok id="t2" base="create" pos="VBD" ROOT="ROOT"
+17	18	tok id="t3" base="a" pos="DT" det="t4"
+19	26	tok id="t4" base="picture" pos="NN" dobj="t2"
+27	29	tok id="t5" base="of" pos="IN" prep="t4"
+30	36	tok id="t6" base="social" pos="JJ" amod="t9"
+37	40	tok id="t7" base="and" pos="CC" cc="t6"
+41	50	tok id="t8" base="religious" pos="JJ" conj="t6"
+51	59	tok id="t9" base="identity" pos="NN" pobj="t5"
+60	61	tok id="t10" base="-PERIOD-" pos="." punct="t2"
+

@@ -1,0 +1,8 @@
+1	Touch	touch	VB	_	4	nsubj
+2	sliding	slide	VBG	_	3	amod
+3	keyboard	keyboard	NN	_	1	dobj
+4	offers	offer	VBZ	_	0	ROOT
+5	keyless	keyless	JJ	_	6	amod
+6	typing	typing	NN	_	4	dobj
+7	.	.	.	_	4	punct
+

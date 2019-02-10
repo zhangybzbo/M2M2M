@@ -1,0 +1,12 @@
+0	56	sentence id="s0" parse_status="success"
+0	1	tok id="t0" base="a" pos="DT" det="t1"
+2	9	tok id="t1" base="surgeon" pos="NN" nsubj="t3"
+10	19	tok id="t2" base="carefully" pos="RB" advmod="t3"
+20	27	tok id="t3" base="apply" pos="VBZ" ROOT="ROOT"
+28	31	tok id="t4" base="the" pos="DT" det="t5"
+32	39	tok id="t5" base="splint" pos="NNS" dobj="t3"
+40	42	tok id="t6" base="to" pos="TO" prep="t5"
+43	46	tok id="t7" base="the" pos="DT" det="t8"
+47	54	tok id="t8" base="forearm" pos="NN" pobj="t6"
+55	56	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

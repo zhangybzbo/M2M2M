@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	subjects	subject	NNS	_	0	ROOT
+3	adjusted	adjust	VBN	_	2	vmod
+4	the	the	DT	_	6	det
+5	signal	signal	NN	_	6	nn
+6	level	level	NN	_	3	dobj
+7	with	with	IN	_	3	prep
+8	a	a	DT	_	10	det
+9	shop-built	shop-built	JJ	_	10	amod
+10	attenuator	attenuator	NN	_	7	pobj
+11	.	.	.	_	2	punct
+

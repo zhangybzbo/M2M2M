@@ -1,0 +1,13 @@
+1	Flashes	flash	NNS	_	3	nsubjpass
+2	are	be	VBP	_	3	auxpass
+3	caused	cause	VBN	_	0	ROOT
+4	by	by	IN	_	3	prep
+5	the	the	DT	_	7	det
+6	vitreous	vitreous	JJ	_	7	amod
+7	gel	gel	NN	_	4	pobj
+8	tugging	tug	VBG	_	7	vmod
+9	on	on	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	retina	retina	NN	_	9	pobj
+12	.	.	.	_	3	punct
+

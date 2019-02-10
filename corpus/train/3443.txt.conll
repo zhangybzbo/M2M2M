@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det
+2	slot	slot	NN	_	3	nn
+3	machine	machine	NN	_	4	nsubj
+4	contains	contain	VBZ	_	0	ROOT
+5	computer	computer	NN	_	6	nn
+6	software	software	NN	_	4	dobj
+7	known	know	VBN	_	6	vmod
+8	as	as	IN	_	7	prep
+9	random	random	JJ	_	11	amod
+10	number	number	NN	_	11	nn
+11	generator	generator	NN	_	8	pobj
+12	.	.	.	_	4	punct
+

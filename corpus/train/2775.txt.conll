@@ -1,0 +1,25 @@
+1	They	they	PRP	_	5	nsubj
+2	are	be	VBP	_	5	cop
+3	a	a	DT	_	5	det
+4	small	small	JJ	_	5	amod
+5	part	part	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	the	the	DT	_	6	pobj
+8	seized	seize	VBN	_	7	vmod
+9	by	by	IN	_	8	prep
+10	the	the	DT	_	11	det
+11	bodies	body	NNS	_	9	pobj
+12	of	of	IN	_	11	prep
+13	the	the	DT	_	14	det
+14	Ministry	Ministry	NNP	_	12	pobj
+15	of	of	IN	_	14	prep
+16	Internal	Internal	NNP	_	20	nn
+17	Affairs	Affairs	NNP	_	20	nn
+18	movable	movable	JJ	_	20	amod
+19	cultural	cultural	JJ	_	20	amod
+20	monuments	monument	NNS	_	15	pobj
+21	from	from	IN	_	8	prep
+22	different	different	JJ	_	23	amod
+23	times	time	NNS	_	21	pobj
+24	.	.	.	_	5	punct
+

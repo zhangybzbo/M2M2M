@@ -1,0 +1,11 @@
+0	55	sentence id="s0" parse_status="success"
+0	13	tok id="t0" base="self-educated" pos="JJ" amod="t2"
+14	20	tok id="t1" base="Malawi" pos="NNP" nn="t2"
+21	24	tok id="t2" base="boy" pos="NN" nsubj="t3"
+25	31	tok id="t3" base="build" pos="VBZ" ROOT="ROOT"
+32	41	tok id="t4" base="windmill" pos="NNS" dobj="t3"
+42	45	tok id="t5" base="out" pos="IN" prep="t3"
+46	48	tok id="t6" base="of" pos="IN" pcomp="t5"
+49	53	tok id="t7" base="junk" pos="NN" pobj="t6"
+54	55	tok id="t8" base="-PERIOD-" pos="." punct="t3"
+

@@ -1,0 +1,15 @@
+1	Old	Old	NNP	_	2	nn
+2	Kook	Kook	NNP	_	4	nsubj
+3	's	's	POS	_	2	possessive
+4	makes	make	VBZ	_	0	ROOT
+5	super	super	JJ	_	8	amod
+6	strong	strong	JJ	_	8	amod
+7	shoe	shoe	NN	_	8	nn
+8	laces	lace	NNS	_	4	dobj
+9	,	,	,	_	4	punct
+10	designed	design	VBN	_	4	vmod
+11	especially	especially	RB	_	12	advmod
+12	for	for	IN	_	10	prep
+13	skateboarding	skateboarding	NNP	_	12	pobj
+14	.	.	.	_	4	punct
+

@@ -1,0 +1,15 @@
+1	Sixty	sixty	CD	_	3	number
+2	five	five	CD	_	3	number
+3	million	million	CD	_	4	num
+4	years	year	NNS	_	5	npadvmod
+5	ago	ago	IN	_	0	ROOT
+6	an	a	DT	_	7	det
+7	asteroid	asteroid	NN	_	8	nsubj
+8	caused	cause	VBD	_	5	pcomp
+9	the	the	DT	_	10	det
+10	extinction	extinction	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	dinosaurs	dinosaur	NNS	_	11	pobj
+14	.	.	.	_	5	punct
+

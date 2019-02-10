@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det
+2	city	city	NN	_	3	nsubj
+3	accuses	accuse	VBZ	_	0	ROOT
+4	Wells	Wells	NNP	_	5	nn
+5	Fargo	Fargo	NNP	_	3	dobj
+6	of	of	IN	_	3	prep
+7	engaging	engage	VBG	_	6	pcomp
+8	in	in	IN	_	7	prep
+9	illegal	illegal	JJ	_	8	pobj
+10	``	``	``	_	15	punct
+11	reverse	reverse	JJ	_	15	dep
+12	redlining	redline	VBG	_	11	amod
+13	''	''	''	_	12	punct
+14	-	-	:	_	15	punct
+15	targeting	target	VBG	_	9	xcomp
+16	black	black	JJ	_	17	amod
+17	neighborhoods	neighborhood	NNS	_	15	dobj
+18	for	for	IN	_	15	prep
+19	bad	bad	JJ	_	20	amod
+20	loans	loan	NNS	_	18	pobj
+21	that	that	WDT	_	22	nsubj
+22	resulted	result	VBD	_	20	rcmod
+23	in	in	IN	_	22	prep
+24	mass	mass	NN	_	25	nn
+25	foreclosures	foreclosure	NNS	_	23	pobj
+26	.	.	.	_	3	punct
+

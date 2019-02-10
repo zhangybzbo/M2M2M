@@ -1,0 +1,17 @@
+1	Children	child	NNS	_	6	nsubj
+2	in	in	IN	_	1	prep
+3	rural	rural	JJ	_	5	amod
+4	Southern	Southern	NNP	_	5	nn
+5	areas	area	NNS	_	2	pobj
+6	fell	fall	VBD	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	poverty	poverty	NN	_	7	pobj
+9	faster	faster	RBR	_	6	advmod
+10	than	than	IN	_	9	prep
+11	those	those	DT	_	10	pobj
+12	in	in	IN	_	11	prep
+13	cities	city	NNS	_	12	pobj
+14	in	in	IN	_	11	prep
+15	2008	2008	CD	_	14	pobj
+16	.	.	.	_	6	punct
+

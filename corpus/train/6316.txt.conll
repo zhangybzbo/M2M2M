@@ -1,0 +1,25 @@
+1	An	a	DT	_	6	det
+2	elite	elite	JJ	_	6	amod
+3	U.S.	U.S.	NNP	_	6	nn
+4	Army	Army	NNP	_	6	nn
+5	study	study	NN	_	6	nn
+6	center	center	NN	_	8	nsubj
+7	has	have	VBZ	_	8	aux
+8	devised	devise	VBN	_	0	ROOT
+9	a	a	DT	_	10	det
+10	plan	plan	NN	_	8	dobj
+11	for	for	IN	_	10	prep
+12	enforcing	enforce	VBG	_	11	pcomp
+13	a	a	DT	_	17	det
+14	major	major	JJ	_	17	amod
+15	Israeli-Palestinian	israeli-palestinian	JJ	_	17	amod
+16	peace	peace	NN	_	17	nn
+17	accord	accord	NN	_	12	dobj
+18	that	that	WDT	_	19	nsubj
+19	requires	require	VBZ	_	17	rcmod
+20	about	about	IN	_	21	quantmod
+21	20000	20000	CD	_	23	num
+22	well-armed	well-armed	JJ	_	23	amod
+23	troops	troops	NNS	_	19	dobj
+24	.	.	.	_	8	punct
+

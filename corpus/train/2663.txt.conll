@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det
+2	witness	witness	NN	_	3	nn
+3	statement	statement	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	statement	statement	NN	_	0	ROOT
+7	summarising	summarise	VBG	_	6	vmod
+8	the	the	DT	_	10	det
+9	oral	oral	JJ	_	10	amod
+10	evidence	evidence	NN	_	7	dobj
+11	that	that	IN	_	15	mark
+12	a	a	DT	_	13	det
+13	witness	witness	NN	_	15	nsubj
+14	will	will	MD	_	15	aux
+15	give	give	VB	_	10	ccomp
+16	at	at	IN	_	15	prep
+17	trial	trial	NN	_	16	pobj
+18	.	.	.	_	6	punct
+

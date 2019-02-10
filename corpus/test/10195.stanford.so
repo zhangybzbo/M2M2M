@@ -1,0 +1,9 @@
+0	31	sentence id="s0" parse_status="success"
+0	6	tok id="t0" base="doctor" pos="NN" nsubj="t1"
+7	12	tok id="t1" base="save" pos="VBZ" ROOT="ROOT"
+13	16	tok id="t2" base="boy" pos="NN" dobj="t1"
+17	21	tok id="t3" base="with" pos="IN" prep="t1"
+22	23	tok id="t4" base="a" pos="DT" det="t5"
+24	29	tok id="t5" base="drill" pos="NN" pobj="t3"
+30	31	tok id="t6" base="-PERIOD-" pos="." punct="t1"
+

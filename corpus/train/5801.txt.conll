@@ -1,0 +1,23 @@
+1	GIS	gi	NN	_	2	nn
+2	analysis	analysis	NN	_	4	nsubj
+3	did	do	VBD	_	4	aux
+4	show	show	VB	_	0	ROOT
+5	a	a	DT	_	6	det
+6	relationship	relationship	NN	_	4	dobj
+7	between	between	IN	_	6	prep
+8	cracks	crack	NNS	_	7	pobj
+9	caused	cause	VBN	_	8	vmod
+10	by	by	IN	_	9	prep
+11	the	the	DT	_	12	det
+12	earthquakes	earthquake	NNS	_	10	pobj
+13	and	and	CC	_	12	cc
+14	paddy	paddy	JJ	_	15	amod
+15	fields	field	NNS	_	12	conj
+16	and	and	CC	_	12	cc
+17	ponds	pond	NNS	_	12	conj
+18	with	with	IN	_	12	prep
+19	or	or	CC	_	18	cc
+20	without	without	IN	_	18	conj
+21	water	water	NN	_	18	pobj
+22	.	.	.	_	4	punct
+

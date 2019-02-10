@@ -1,0 +1,3 @@
+T1	Term 22 27	album
+T2	Term 42 46	band
+R1	Product-Producer Arg1:T1 Arg2:T2

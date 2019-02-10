@@ -1,0 +1,18 @@
+1	It	it	PRP	_	2	nsubj
+2	allows	allow	VBZ	_	0	ROOT
+3	users	user	NNS	_	2	dobj
+4	to	to	TO	_	5	aux
+5	create	create	VB	_	2	xcomp
+6	custom	custom	NN	_	7	nn
+7	charts	chart	NNS	_	5	dobj
+8	comparing	compare	VBG	_	7	vmod
+9	fuel	fuel	NN	_	10	nn
+10	properties	property	NNS	_	8	dobj
+11	and	and	CC	_	10	cc
+12	characteristics	characteristic	NNS	_	10	conj
+13	for	for	IN	_	8	prep
+14	multiple	multiple	JJ	_	16	amod
+15	alternative	alternative	JJ	_	16	amod
+16	fuels	fuel	NNS	_	13	pobj
+17	.	.	.	_	2	punct
+

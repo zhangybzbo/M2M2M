@@ -1,0 +1,13 @@
+1	You	you	PRP	_	3	nsubj
+2	have	have	VBP	_	3	aux
+3	added	add	VBN	_	0	ROOT
+4	keys	key	NNS	_	3	dobj
+5	into	into	IN	_	3	prep
+6	the	the	DT	_	7	det
+7	memory	memory	NN	_	5	pobj
+8	on	on	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	remote	remote	JJ	_	11	amod
+11	systems	system	NNS	_	8	pobj
+12	.	.	.	_	3	punct
+

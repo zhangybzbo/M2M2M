@@ -1,0 +1,25 @@
+1	Next	next	RB	_	2	advmod
+2	up	up	RB	_	5	advmod
+3	was	be	VBD	_	5	cop
+4	the	the	DT	_	5	det
+5	climb	climb	NN	_	0	ROOT
+6	,	,	,	_	5	punct
+7	a	a	DT	_	10	det
+8	slow	slow	JJ	_	10	amod
+9	steady	steady	JJ	_	10	amod
+10	rock	rock	NN	_	5	appos
+11	strewn	strew	VBN	_	12	amod
+12	menage	menage	NN	_	10	dep
+13	of	of	IN	_	12	prep
+14	eirie	eirie	NN	_	15	nn
+15	shadows	shadow	NNS	_	13	pobj
+16	reflecting	reflect	VBG	_	12	vmod
+17	off	off	IN	_	16	advmod
+18	of	of	IN	_	17	prep
+19	tall	tall	JJ	_	20	amod
+20	trees	tree	NNS	_	18	pobj
+21	and	and	CC	_	20	cc
+22	red	red	JJ	_	23	amod
+23	rocks	rock	NNS	_	20	conj
+24	.	.	.	_	5	punct
+

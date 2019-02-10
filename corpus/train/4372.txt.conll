@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	paragraph	paragraph	NN	_	3	nsubj
+3	states	state	VBZ	_	0	ROOT
+4	that	that	IN	_	10	mark
+5	the	the	DT	_	6	det
+6	number	number	NN	_	10	nsubj
+7	of	of	IN	_	6	prep
+8	rules	rule	NNS	_	7	pobj
+9	is	be	VBZ	_	10	cop
+10	finite	finite	JJ	_	3	ccomp
+11	.	.	.	_	3	punct
+

@@ -1,0 +1,18 @@
+1	One	one	CD	_	2	num
+2	design	design	NN	_	3	nsubj
+3	shows	show	VBZ	_	0	ROOT
+4	a	a	DT	_	5	det
+5	farmer	farmer	NN	_	3	dobj
+6	with	with	IN	_	5	prep
+7	a	a	DT	_	8	det
+8	hoe	hoe	NN	_	6	pobj
+9	and	and	CC	_	3	cc
+10	reads	read	VBZ	_	3	conj
+11	``	``	``	_	15	punct
+12	Genuine	genuine	JJ	_	15	amod
+13	Dirt	dirt	NN	_	15	nn
+14	Farmer	Farmer	NNP	_	15	nn
+15	Descendant	Descendant	NNP	_	10	dep
+16	''	''	''	_	15	punct
+17	.	.	.	_	3	punct
+

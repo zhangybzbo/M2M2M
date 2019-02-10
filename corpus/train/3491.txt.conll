@@ -1,0 +1,26 @@
+1	Stings	sting	VBZ	_	5	nsubjpass
+2	or	or	CC	_	1	cc
+3	bites	bite	VBZ	_	1	conj
+4	are	be	VBP	_	5	auxpass
+5	caused	cause	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	midges	midge	NNS	_	6	pobj
+8	,	,	,	_	7	punct
+9	horseflies	horsefly	NNS	_	7	conj
+10	,	,	,	_	7	punct
+11	bees	bee	NNS	_	7	conj
+12	,	,	,	_	7	punct
+13	wasps	wasp	NNS	_	7	conj
+14	,	,	,	_	7	punct
+15	ants	ant	NNS	_	7	conj
+16	,	,	,	_	7	punct
+17	some	some	DT	_	18	det
+18	spiders	spider	NNS	_	7	conj
+19	,	,	,	_	7	punct
+20	fleas	flea	NNS	_	7	conj
+21	,	,	,	_	7	punct
+22	lice	louse	NN	_	7	conj
+23	,	,	,	_	7	punct
+24	etc.	etc.	FW	_	7	conj
+25	.	.	.	_	5	punct
+

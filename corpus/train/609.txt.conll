@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	therapist	therapist	NN	_	3	nsubj
+3	treats	treat	VBZ	_	0	ROOT
+4	the	the	DT	_	5	det
+5	patient	patient	NN	_	3	dobj
+6	with	with	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	certain	certain	JJ	_	9	amod
+9	kind	kind	NN	_	6	pobj
+10	of	of	IN	_	9	prep
+11	manual	manual	JJ	_	12	amod
+12	therapy	therapy	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

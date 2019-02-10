@@ -1,0 +1,22 @@
+1	In	in	IN	_	12	prep
+2	psychology	psychology	NN	_	1	pobj
+3	,	,	,	_	12	punct
+4	Eysenck	Eysenck	NNP	_	6	nn
+5	Personality	Personality	NNP	_	6	nn
+6	Questionnaire	Questionnaire	NNP	_	12	nsubj
+7	-LRB-	-lrb-	-LRB-	_	8	punct
+8	EPQ	EPQ	NNP	_	6	appos
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	is	be	VBZ	_	12	cop
+11	a	a	DT	_	12	det
+12	questionnaire	questionnaire	NN	_	0	ROOT
+13	to	to	TO	_	14	aux
+14	assess	assess	VB	_	12	vmod
+15	the	the	DT	_	17	det
+16	personality	personality	NN	_	17	nn
+17	traits	trait	NNS	_	14	dobj
+18	of	of	IN	_	17	prep
+19	a	a	DT	_	20	det
+20	person	person	NN	_	18	pobj
+21	.	.	.	_	12	punct
+

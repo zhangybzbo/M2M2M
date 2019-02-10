@@ -1,0 +1,22 @@
+1	Today	today	NN	_	4	poss
+2	's	's	POS	_	1	possessive
+3	curious	curious	JJ	_	4	amod
+4	thinkers	thinker	NNS	_	6	nsubj
+5	are	be	VBP	_	6	aux
+6	keeping	keep	VBG	_	0	ROOT
+7	Ben	Ben	NNP	_	9	poss
+8	's	's	POS	_	7	possessive
+9	traditions	tradition	NNS	_	6	dobj
+10	alive	alive	JJ	_	9	amod
+11	by	by	IN	_	10	prep
+12	inventing	invent	VBG	_	11	pcomp
+13	new	new	JJ	_	16	amod
+14	and	and	CC	_	13	cc
+15	improved	improved	JJ	_	13	conj
+16	ways	way	NNS	_	12	dobj
+17	to	to	TO	_	18	aux
+18	make	make	VB	_	16	vmod
+19	things	thing	NNS	_	20	nn
+20	work	work	NN	_	18	dobj
+21	.	.	.	_	6	punct
+

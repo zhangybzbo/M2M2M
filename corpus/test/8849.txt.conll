@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	guests	guest	NNS	_	3	nsubj
+3	arrived	arrive	VBD	_	0	ROOT
+4	to	to	TO	_	3	prep
+5	the	the	DT	_	6	det
+6	wedding	wedding	NN	_	4	pobj
+7	on	on	IN	_	3	prep
+8	time	time	NN	_	7	pobj
+9	.	.	.	_	3	punct
+

@@ -1,0 +1,17 @@
+1	Chenodeoxycholic	chenodeoxycholic	JJ	_	2	amod
+2	acid	acid	NN	_	4	nsubjpass
+3	is	be	VBZ	_	4	auxpass
+4	made	make	VBN	_	0	ROOT
+5	by	by	IN	_	4	prep
+6	many	many	JJ	_	7	amod
+7	species	species	NNS	_	5	pobj
+8	,	,	,	_	4	punct
+9	and	and	CC	_	4	cc
+10	is	be	VBZ	_	15	cop
+11	quite	quite	RB	_	15	advmod
+12	a	a	DT	_	15	det
+13	functional	functional	JJ	_	15	amod
+14	bile	bile	NN	_	15	nn
+15	acid	acid	NN	_	4	conj
+16	.	.	.	_	4	punct
+

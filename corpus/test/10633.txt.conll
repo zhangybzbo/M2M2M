@@ -1,0 +1,14 @@
+1	Cross-network	cross-network	NN	_	4	nn
+2	instant	instant	NN	_	4	nn
+3	messenger	messenger	NN	_	4	nn
+4	service	service	NN	_	9	nsubj
+5	,	,	,	_	4	punct
+6	Meebo	Meebo	NNP	_	4	appos
+7	,	,	,	_	4	punct
+8	has	have	VBZ	_	9	aux
+9	added	add	VBN	_	0	ROOT
+10	games	game	NNS	_	9	dobj
+11	into	into	IN	_	9	prep
+12	chatting	chat	VBG	_	11	pcomp
+13	.	.	.	_	9	punct
+

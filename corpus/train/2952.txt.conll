@@ -1,0 +1,18 @@
+1	Ordinary	ordinary	JJ	_	2	amod
+2	warts	wart	NNS	_	9	nsubjpass
+3	on	on	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	hands	hand	NNS	_	3	pobj
+6	and	and	CC	_	5	cc
+7	feet	foot	NNS	_	5	conj
+8	are	be	VBP	_	9	auxpass
+9	caused	cause	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	viruses	virus	NNS	_	10	pobj
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	15	nsubj
+14	only	only	RB	_	15	advmod
+15	affect	affect	VBP	_	11	rcmod
+16	humans	human	NNS	_	15	dobj
+17	.	.	.	_	9	punct
+

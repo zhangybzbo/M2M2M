@@ -1,0 +1,11 @@
+1	A	a	DT	_	3	det
+2	textile	textile	NN	_	3	nn
+3	mill	mill	NN	_	6	nsubj
+4	is	be	VBZ	_	6	cop
+5	a	a	DT	_	6	det
+6	factory	factory	NN	_	0	ROOT
+7	for	for	IN	_	6	prep
+8	making	make	VBG	_	7	pcomp
+9	textiles	textile	NNS	_	8	dobj
+10	.	.	.	_	6	punct
+

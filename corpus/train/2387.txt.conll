@@ -1,0 +1,13 @@
+1	Fatty	fatty	JJ	_	2	amod
+2	acid	acid	NN	_	6	nsubj
+3	and	and	CC	_	2	cc
+4	phospholipid	phospholipid	JJ	_	5	amod
+5	chlorohydrins	chlorohydrin	NNS	_	2	conj
+6	cause	cause	VBP	_	0	ROOT
+7	cell	cell	NN	_	8	nn
+8	stress	stress	NN	_	6	dobj
+9	and	and	CC	_	8	cc
+10	endothelial	endothelial	JJ	_	11	amod
+11	adhesion	adhesion	NN	_	8	conj
+12	.	.	.	_	6	punct
+

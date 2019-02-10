@@ -1,0 +1,14 @@
+1	Located	locate	VBN	_	12	nsubj
+2	inside	inside	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	cave	cave	NN	_	2	pobj
+5	was	be	VBD	_	12	cop
+6	an	a	DT	_	12	det
+7	old	old	JJ	_	12	amod
+8	,	,	,	_	12	punct
+9	broken-down	broken-down	JJ	_	12	amod
+10	army	army	NN	_	12	nn
+11	field	field	NN	_	12	nn
+12	telephone	telephone	NN	_	0	ROOT
+13	.	.	.	_	12	punct
+

@@ -1,0 +1,12 @@
+1	Profit	profit	NN	_	7	nsubj
+2	from	from	IN	_	1	prep
+3	sale	sale	NN	_	2	pobj
+4	of	of	IN	_	3	prep
+5	investments	investment	NNS	_	4	pobj
+6	is	be	VBZ	_	7	cop
+7	tax-free	tax-free	JJ	_	0	ROOT
+8	for	for	IN	_	7	prep
+9	general	general	JJ	_	10	amod
+10	insurers	insurer	NNS	_	8	pobj
+11	.	.	.	_	7	punct
+

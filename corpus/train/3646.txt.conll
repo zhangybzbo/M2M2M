@@ -1,0 +1,12 @@
+1	Taylor	Taylor	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	accomplice	accomplice	NN	_	4	nsubj
+4	killed	kill	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	victim	victim	NN	_	4	dobj
+7	with	with	IN	_	4	prep
+8	a	a	DT	_	10	det
+9	coat	coat	NN	_	10	nn
+10	hanger	hanger	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

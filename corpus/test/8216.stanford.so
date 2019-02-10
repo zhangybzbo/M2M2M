@@ -1,0 +1,11 @@
+0	42	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	12	tok id="t1" base="magician" pos="NN" nsubj="t2"
+13	18	tok id="t2" base="show" pos="VBZ" ROOT="ROOT"
+19	20	tok id="t3" base="a" pos="DT" det="t4"
+21	27	tok id="t4" base="bottle" pos="NN" dobj="t2"
+28	32	tok id="t5" base="full" pos="JJ" amod="t4"
+33	35	tok id="t6" base="of" pos="IN" prep="t5"
+36	40	tok id="t7" base="soda" pos="NN" pobj="t6"
+41	42	tok id="t8" base="-PERIOD-" pos="." punct="t2"
+

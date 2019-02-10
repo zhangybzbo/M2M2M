@@ -1,0 +1,12 @@
+1	This	this	DT	_	4	det
+2	particular	particular	JJ	_	4	amod
+3	slot	slot	NN	_	4	nn
+4	machine	machine	NN	_	5	nsubj
+5	has	have	VBZ	_	0	ROOT
+6	three	three	CD	_	7	num
+7	reels	reel	NNS	_	5	dobj
+8	and	and	CC	_	7	cc
+9	two	two	CD	_	10	num
+10	paylines	payline	NNS	_	7	conj
+11	.	.	.	_	5	punct
+

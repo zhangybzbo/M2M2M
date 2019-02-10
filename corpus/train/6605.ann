@@ -1,0 +1,3 @@
+T1	Term 101 106	knife
+T2	Term 107 112	blade
+R1	Component-Whole Arg1:T2 Arg2:T1

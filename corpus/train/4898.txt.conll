@@ -1,0 +1,15 @@
+1	They	they	PRP	_	2	nsubj
+2	ordered	order	VBD	_	0	ROOT
+3	vaccine	vaccine	NN	_	2	dobj
+4	made	make	VBN	_	3	vmod
+5	with	with	IN	_	4	prep
+6	a	a	DT	_	9	det
+7	50-year-old	50-year-old	JJ	_	9	amod
+8	egg	egg	NN	_	9	nn
+9	technology	technology	NN	_	5	pobj
+10	rather	rather	RB	_	11	advmod
+11	than	than	IN	_	9	prep
+12	experimental	experimental	JJ	_	13	amod
+13	methods	method	NNS	_	11	pobj
+14	.	.	.	_	2	punct
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det
+2	sections	section	NNS	_	11	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	book	book	NN	_	3	pobj
+6	pertaining	pertain	VBG	_	5	vmod
+7	to	to	TO	_	6	prep
+8	quantitative	quantitative	JJ	_	9	amod
+9	methods	method	NNS	_	7	pobj
+10	are	be	VBP	_	11	auxpass
+11	written	write	VBN	_	0	ROOT
+12	clearly	clearly	RB	_	11	advmod
+13	and	and	CC	_	11	cc
+14	contain	contain	VB	_	11	conj
+15	more	more	JJR	_	16	amod
+16	detail	detail	NN	_	14	dobj
+17	than	than	IN	_	20	mark
+18	usually	usually	RB	_	20	advmod
+19	is	be	VBZ	_	20	auxpass
+20	found	find	VBN	_	16	dep
+21	in	in	IN	_	20	prep
+22	similar	similar	JJ	_	23	amod
+23	books	book	NNS	_	21	pobj
+24	.	.	.	_	11	punct
+

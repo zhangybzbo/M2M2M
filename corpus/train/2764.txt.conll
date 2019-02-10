@@ -1,0 +1,25 @@
+1	I	I	PRP	_	3	nsubj
+2	especially	especially	RB	_	3	advmod
+3	enjoyed	enjoy	VBD	_	0	ROOT
+4	Matthew	Matthew	NNP	_	5	nn
+5	Wells	Wells	NNP	_	8	poss
+6	'	'	POS	_	5	possessive
+7	bare	bare	JJ	_	8	amod
+8	arms	arm	NNS	_	3	dobj
+9	waving	wave	VBG	_	8	vmod
+10	his	he	PRP$	_	12	poss
+11	hockey	hockey	NN	_	12	nn
+12	stick	stick	NN	_	9	dobj
+13	at	at	IN	_	9	prep
+14	the	the	DT	_	15	det
+15	umpire	umpire	NN	_	13	pobj
+16	in	in	IN	_	15	prep
+17	the	the	DT	_	19	det
+18	Australia-Canada	Australia-Canada	NNP	_	19	nn
+19	match	match	NN	_	16	pobj
+20	to	to	TO	_	21	aux
+21	dispute	dispute	VB	_	9	vmod
+22	a	a	DT	_	23	det
+23	decision	decision	NN	_	21	dobj
+24	.	.	.	_	3	punct
+

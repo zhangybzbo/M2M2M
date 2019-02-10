@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det
+2	Chaplain	Chaplain	NNP	_	3	nsubj
+3	noticed	notice	VBD	_	0	ROOT
+4	one	one	CD	_	5	num
+5	soldier	soldier	NN	_	3	dobj
+6	looking	look	VBG	_	5	vmod
+7	at	at	IN	_	6	prep
+8	a	a	DT	_	10	det
+9	a	a	DT	_	10	det
+10	deck	deck	NN	_	7	pobj
+11	of	of	IN	_	10	prep
+12	cards	card	NNS	_	11	pobj
+13	.	.	.	_	3	punct
+

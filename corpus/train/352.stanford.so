@@ -1,0 +1,11 @@
+0	43	sentence id="s0" parse_status="success"
+0	4	tok id="t0" base="heat" pos="NN" nsubj="t5"
+5	6	tok id="t1" base="-COMMA-" pos="," punct="t0"
+7	11	tok id="t2" base="wind" pos="NN" conj="t0"
+12	15	tok id="t3" base="and" pos="CC" cc="t0"
+16	21	tok id="t4" base="smoke" pos="NN" conj="t0"
+22	27	tok id="t5" base="cause" pos="VBP" ROOT="ROOT"
+28	34	tok id="t6" base="flight" pos="NN" nn="t7"
+35	41	tok id="t7" base="delay" pos="NNS" dobj="t5"
+42	43	tok id="t8" base="-PERIOD-" pos="." punct="t5"
+

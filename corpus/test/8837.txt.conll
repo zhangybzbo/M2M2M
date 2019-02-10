@@ -1,0 +1,13 @@
+1	They	they	PRP	_	7	nsubj
+2	-LRB-	-lrb-	-LRB-	_	4	punct
+3	the	the	DT	_	4	det
+4	aquarium	aquarium	NN	_	1	appos
+5	-RRB-	-rrb-	-RRB-	_	4	punct
+6	were	be	VBD	_	7	cop
+7	brushing	brushing	NN	_	0	ROOT
+8	the	the	DT	_	9	det
+9	shark	shark	NN	_	11	poss
+10	's	's	POS	_	9	possessive
+11	teeth	tooth	NNS	_	7	dobj
+12	.	.	.	_	7	punct
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det
+2	swelling	swell	VBG	_	9	nsubjpass
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	7	det
+5	vocal	vocal	JJ	_	7	amod
+6	fold	fold	NN	_	7	nn
+7	mucosa	mucosa	NN	_	3	pobj
+8	is	be	VBZ	_	9	auxpass
+9	caused	cause	VBN	_	0	ROOT
+10	by	by	IN	_	9	prep
+11	smoking	smoking	NN	_	10	pobj
+12	.	.	.	_	9	punct
+

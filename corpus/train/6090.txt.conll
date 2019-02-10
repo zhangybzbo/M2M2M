@@ -1,0 +1,16 @@
+1	A	a	DT	_	4	det
+2	new	new	JJ	_	4	amod
+3	student	student	NN	_	4	nn
+4	organisation	organisation	NN	_	7	nsubjpass
+5	is	be	VBZ	_	7	aux
+6	being	be	VBG	_	7	auxpass
+7	established	establish	VBN	_	0	ROOT
+8	at	at	IN	_	7	prep
+9	UWS	uw	NN	_	8	pobj
+10	from	from	IN	_	7	prep
+11	the	the	DT	_	12	det
+12	beginning	beginning	NN	_	10	pobj
+13	of	of	IN	_	12	prep
+14	2009	2009	CD	_	13	pobj
+15	.	.	.	_	7	punct
+

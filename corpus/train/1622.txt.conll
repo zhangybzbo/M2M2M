@@ -1,0 +1,17 @@
+1	Tasheki	Tasheki	NNP	_	3	nsubj
+2	was	be	VBD	_	3	aux
+3	taking	take	VBG	_	0	ROOT
+4	photographs	photograph	NNS	_	3	dobj
+5	at	at	IN	_	3	prep
+6	the	the	DT	_	8	det
+7	encounter	encounter	NN	_	8	nn
+8	site	site	NN	_	5	pobj
+9	when	when	WRB	_	12	advmod
+10	a	a	DT	_	11	det
+11	bullet	bullet	NN	_	12	nsubj
+12	hit	hit	VBD	_	3	advcl
+13	his	he	PRP$	_	15	poss
+14	jaw	jaw	NN	_	15	nn
+15	bone	bone	NN	_	12	dobj
+16	.	.	.	_	3	punct
+

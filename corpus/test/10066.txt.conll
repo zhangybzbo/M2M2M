@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det
+2	machine	machine	NN	_	5	nsubj
+3	implant	implant	VB	_	5	dep
+4	converts	convert	NNS	_	5	nsubj
+5	sounds	sound	VBZ	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	electrical	electrical	JJ	_	8	amod
+8	signals	signal	NNS	_	6	pobj
+9	.	.	.	_	5	punct
+

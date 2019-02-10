@@ -1,0 +1,19 @@
+1	In	in	IN	_	10	prep
+2	this	this	DT	_	4	det
+3	comprehensive	comprehensive	JJ	_	4	amod
+4	guide	guide	NN	_	1	pobj
+5	,	,	,	_	10	punct
+6	over	over	IN	_	7	quantmod
+7	850	850	CD	_	8	num
+8	roses	rose	NNS	_	10	nsubjpass
+9	are	be	VBP	_	10	auxpass
+10	described	describe	VBN	_	0	ROOT
+11	,	,	,	_	10	punct
+12	illustrated	illustrate	VBD	_	10	conj
+13	,	,	,	_	10	punct
+14	and	and	CC	_	10	cc
+15	arranged	arrange	VBN	_	10	conj
+16	by	by	IN	_	15	prep
+17	group	group	NN	_	16	pobj
+18	.	.	.	_	10	punct
+

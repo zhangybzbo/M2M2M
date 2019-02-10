@@ -1,0 +1,13 @@
+1	Use	Use	NNP	_	0	ROOT
+2	outdoor	outdoor	JJ	_	1	amod
+3	where	where	WRB	_	7	advmod
+4	sunlight	sunlight	NN	_	7	nsubj
+5	and	and	CC	_	4	cc
+6	glare	glare	NN	_	4	conj
+7	cause	cause	VBP	_	2	rcmod
+8	eye	eye	NN	_	9	nn
+9	strain	strain	NN	_	7	dobj
+10	and	and	CC	_	9	cc
+11	fatigue	fatigue	NN	_	9	conj
+12	.	.	.	_	1	punct
+

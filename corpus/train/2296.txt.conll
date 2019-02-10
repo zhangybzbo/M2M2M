@@ -1,0 +1,17 @@
+1	Earthly	earthly	JJ	_	2	amod
+2	Powers	Powers	NNP	_	0	ROOT
+3	is	be	VBZ	_	2	dep
+4	a	a	DT	_	3	nsubj
+5	meta-novel	meta-novel	JJ	_	4	dep
+6	,	,	,	_	5	punct
+7	then	then	RB	_	5	dep
+8	,	,	,	_	5	punct
+9	an	a	DT	_	11	det
+10	unexpected	unexpected	JJ	_	11	amod
+11	masterpiece	masterpiece	NN	_	5	dep
+12	by	by	IN	_	11	prep
+13	a	a	DT	_	15	det
+14	mediocre	mediocre	JJ	_	15	amod
+15	novelist	novelist	NN	_	12	pobj
+16	.	.	.	_	2	punct
+

@@ -1,0 +1,10 @@
+1	Only	only	RB	_	2	advmod
+2	few	few	JJ	_	4	amod
+3	selected	select	VBN	_	4	amod
+4	people	people	NNS	_	5	nsubj
+5	journeyed	journey	VBD	_	0	ROOT
+6	into	into	IN	_	5	prep
+7	outer	outer	JJ	_	8	amod
+8	space	space	NN	_	6	pobj
+9	.	.	.	_	5	punct
+

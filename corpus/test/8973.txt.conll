@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det
+2	ocean	ocean	NN	_	3	nn
+3	exploration	exploration	NN	_	6	nsubj
+4	is	be	VBZ	_	6	aux
+5	now	now	RB	_	6	advmod
+6	moving	move	VBG	_	0	ROOT
+7	into	into	IN	_	6	prep
+8	deeper	deeper	JJR	_	9	amod
+9	waters	water	NNS	_	7	pobj
+10	.	.	.	_	6	punct
+

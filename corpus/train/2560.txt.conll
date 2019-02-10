@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det
+2	ugly	ugly	JJ	_	3	amod
+3	duckling	duckling	NN	_	4	nsubj
+4	runs	run	VBZ	_	0	ROOT
+5	away	away	RB	_	4	advmod
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	8	det
+8	farm	farm	NN	_	6	pobj
+9	.	.	.	_	4	punct
+

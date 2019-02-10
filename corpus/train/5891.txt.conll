@@ -1,0 +1,12 @@
+1	Two	two	CD	_	3	num
+2	extra-time	extra-time	JJ	_	3	amod
+3	goals	goal	NNS	_	4	nsubj
+4	sent	send	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	team	team	NN	_	4	dobj
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	9	det
+9	Carling	Carling	NNP	_	7	pobj
+10	final	final	JJ	_	9	amod
+11	.	.	.	_	4	punct
+

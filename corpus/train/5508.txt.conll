@@ -1,0 +1,21 @@
+1	Crime	crime	NN	_	2	nn
+2	fiction	fiction	NN	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	the	the	DT	_	5	det
+5	genre	genre	NN	_	0	ROOT
+6	of	of	IN	_	5	prep
+7	fiction	fiction	NN	_	6	pobj
+8	that	that	WDT	_	9	nsubj
+9	deals	deal	VBZ	_	5	rcmod
+10	with	with	IN	_	9	prep
+11	crimes	crime	NNS	_	10	pobj
+12	,	,	,	_	14	punct
+13	their	they	PRP$	_	14	poss
+14	detection	detection	NN	_	5	dep
+15	,	,	,	_	14	punct
+16	criminals	criminal	NNS	_	14	conj
+17	and	and	CC	_	14	cc
+18	their	they	PRP$	_	19	poss
+19	motives	motive	NNS	_	14	conj
+20	.	.	.	_	14	punct
+

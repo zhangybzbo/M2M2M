@@ -1,0 +1,14 @@
+1	There	there	EX	_	2	expl
+2	's	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	crowd	crowd	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	reasons	reason	NNS	_	5	pobj
+7	we	we	PRP	_	8	nsubj
+8	get	get	VBP	_	2	parataxis
+9	the	the	DT	_	10	det
+10	flu	flu	NN	_	8	dobj
+11	in	in	IN	_	8	prep
+12	winter	winter	NN	_	11	pobj
+13	.	.	.	_	2	punct
+

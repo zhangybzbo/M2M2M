@@ -1,0 +1,12 @@
+0	48	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="200" pos="CD" num="t2"
+4	6	tok id="t1" base="it" pos="PRP" dep="t2"
+7	11	tok id="t2" base="job" pos="NNS" nsubj="t4"
+12	15	tok id="t3" base="be" pos="VBP" aux="t4"
+16	21	tok id="t4" base="go" pos="VBG" ROOT="ROOT"
+22	26	tok id="t5" base="into" pos="IN" prep="t4"
+27	34	tok id="t6" base="school" pos="NNS" pobj="t5"
+35	37	tok id="t7" base="in" pos="IN" prep="t6"
+38	46	tok id="t8" base="Victoria" pos="NNP" pobj="t7"
+47	48	tok id="t9" base="-PERIOD-" pos="." punct="t4"
+

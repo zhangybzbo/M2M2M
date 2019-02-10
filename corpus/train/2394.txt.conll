@@ -1,0 +1,18 @@
+1	Strora	Strora	NNP	_	2	nn
+2	Enso	Enso	NNP	_	3	nsubj
+3	has	have	VBZ	_	0	ROOT
+4	a	a	DT	_	6	det
+5	wide	wide	JJ	_	6	amod
+6	range	range	NN	_	11	nsubj
+7	of	of	IN	_	6	prep
+8	white	white	JJ	_	10	amod
+9	envelope	envelope	NN	_	10	nn
+10	papers	papers	NNS	_	7	pobj
+11	developed	develop	VBD	_	3	ccomp
+12	for	for	IN	_	11	prep
+13	excellent	excellent	JJ	_	14	amod
+14	runnability	runnability	NN	_	12	pobj
+15	and	and	CC	_	14	cc
+16	printability	printability	NN	_	14	conj
+17	.	.	.	_	3	punct
+

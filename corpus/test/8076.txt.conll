@@ -1,0 +1,26 @@
+1	Ambassador	Ambassador	NNP	_	3	nn
+2	SUN	SUN	NNP	_	3	nn
+3	Shuzhong	Shuzhong	NNP	_	4	nsubj
+4	answered	answer	VBD	_	0	ROOT
+5	the	the	DT	_	6	det
+6	questions	question	NNS	_	4	dobj
+7	from	from	IN	_	6	prep
+8	the	the	DT	_	10	det
+9	local	local	JJ	_	10	amod
+10	press	press	NN	_	7	pobj
+11	after	after	IN	_	4	prep
+12	his	he	PRP$	_	13	poss
+13	visit	visit	NN	_	11	pobj
+14	to	to	TO	_	13	prep
+15	the	the	DT	_	17	det
+16	Memorial	Memorial	NNP	_	17	nn
+17	Center	Center	NNP	_	14	pobj
+18	in	in	IN	_	13	prep
+19	Kigali	Kigali	NNP	_	18	pobj
+20	on	on	IN	_	13	prep
+21	Dec.	Dec.	NNP	_	20	pobj
+22	28	28	CD	_	21	num
+23	,	,	,	_	21	punct
+24	2007	2007	CD	_	21	num
+25	.	.	.	_	4	punct
+

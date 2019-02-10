@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	exhibitors	exhibitor	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	entered	enter	VBN	_	0	ROOT
+5	the	the	DT	_	6	det
+6	exhibits	exhibit	NNS	_	4	dobj
+7	into	into	IN	_	4	prep
+8	the	the	DT	_	10	det
+9	fall	fall	NN	_	10	nn
+10	fair	fair	NN	_	7	pobj
+11	.	.	.	_	4	punct
+

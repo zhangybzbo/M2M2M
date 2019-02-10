@@ -1,0 +1,13 @@
+1	Here	here	RB	_	3	advmod
+2	is	be	VBZ	_	3	cop
+3	one	one	CD	_	0	ROOT
+4	of	of	IN	_	3	prep
+5	the	the	DT	_	6	det
+6	craters	crater	NNS	_	4	pobj
+7	created	create	VBN	_	6	vmod
+8	by	by	IN	_	7	prep
+9	the	the	DT	_	11	det
+10	meteorite	meteorite	NN	_	11	nn
+11	Morasko	Morasko	NNP	_	8	pobj
+12	.	.	.	_	3	punct
+

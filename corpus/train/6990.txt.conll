@@ -1,0 +1,13 @@
+1	Xanax	xanax	NN	_	2	nn
+2	works	work	NNS	_	0	ROOT
+3	by	by	IN	_	2	prep
+4	changing	change	VBG	_	3	pcomp
+5	brain	brain	NN	_	6	nn
+6	chemicals	chemical	NNS	_	4	dobj
+7	that	that	WDT	_	8	nsubj
+8	cause	cause	VBP	_	6	rcmod
+9	stress	stress	NN	_	8	dobj
+10	and	and	CC	_	9	cc
+11	anxiety	anxiety	NN	_	9	conj
+12	.	.	.	_	2	punct
+

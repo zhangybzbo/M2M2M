@@ -1,0 +1,14 @@
+1	I	I	PRP	_	3	nsubj
+2	even	even	RB	_	3	advmod
+3	placed	place	VBD	_	0	ROOT
+4	the	the	DT	_	5	det
+5	dish	dish	NN	_	3	dobj
+6	in	in	IN	_	3	prep
+7	a	a	DT	_	9	det
+8	cold	cold	JJ	_	9	amod
+9	oven	oven	NN	_	6	pobj
+10	as	as	IN	_	3	prep
+11	directions	direction	NNS	_	12	nn
+12	state	state	NN	_	10	pobj
+13	.	.	.	_	3	punct
+

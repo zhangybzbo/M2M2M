@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det
+2	winds	wind	NNS	_	4	nsubj
+3	have	have	VBP	_	4	aux
+4	blown	blow	VBN	_	0	ROOT
+5	moop	moop	NN	_	4	dobj
+6	into	into	IN	_	4	prep
+7	some	some	DT	_	10	det
+8	formerly	formerly	RB	_	10	advmod
+9	moop-free	moop-free	JJ	_	10	amod
+10	areas	area	NNS	_	6	pobj
+11	.	.	.	_	4	punct
+

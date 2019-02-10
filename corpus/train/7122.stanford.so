@@ -1,0 +1,11 @@
+0	37	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	9	tok id="t1" base="bulb" pos="NNS" ROOT="ROOT"
+10	12	tok id="t2" base="in" pos="IN" prep="t1"
+13	15	tok id="t3" base="my" pos="PRP$" poss="t5"
+16	21	tok id="t4" base="house" pos="NN" nn="t5"
+22	25	tok id="t5" base="use" pos="NN" pobj="t2"
+26	29	tok id="t6" base="190" pos="CD" num="t7"
+30	35	tok id="t7" base="watt" pos="NNS" dep="t5"
+36	37	tok id="t8" base="-PERIOD-" pos="." punct="t1"
+

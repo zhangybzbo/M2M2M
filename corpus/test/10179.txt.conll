@@ -1,0 +1,19 @@
+1	In	in	IN	_	9	prep
+2	Dutch	dutch	JJ	_	4	amod
+3	camping	camping	NN	_	4	nn
+4	culture	culture	NN	_	7	nn
+5	empty	empty	JJ	_	7	amod
+6	beer	beer	NN	_	7	nn
+7	cases	case	NNS	_	1	pobj
+8	are	be	VBP	_	9	auxpass
+9	saved	save	VBN	_	0	ROOT
+10	and	and	CC	_	9	cc
+11	stacked	stack	VBN	_	9	conj
+12	up	up	RP	_	11	prt
+13	into	into	IN	_	11	prep
+14	a	a	DT	_	15	det
+15	wall	wall	NN	_	13	pobj
+16	by	by	IN	_	15	prep
+17	youths	youth	NNS	_	16	pobj
+18	.	.	.	_	9	punct
+

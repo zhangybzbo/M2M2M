@@ -1,0 +1,27 @@
+1	Lee	Lee	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	movies	movie	NNS	_	5	nsubj
+4	have	have	VBP	_	5	aux
+5	examined	examine	VBN	_	0	ROOT
+6	race	race	NN	_	7	nn
+7	relations	relation	NNS	_	5	dobj
+8	,	,	,	_	5	punct
+9	the	the	DT	_	10	det
+10	role	role	NN	_	5	dobj
+11	of	of	IN	_	10	prep
+12	media	media	NNS	_	11	pobj
+13	in	in	IN	_	10	prep
+14	contemporary	contemporary	JJ	_	15	amod
+15	life	life	NN	_	13	pobj
+16	,	,	,	_	15	punct
+17	urban	urban	JJ	_	18	amod
+18	crime	crime	NN	_	15	conj
+19	and	and	CC	_	15	cc
+20	poverty	poverty	NN	_	15	conj
+21	,	,	,	_	5	punct
+22	and	and	CC	_	5	cc
+23	other	other	JJ	_	25	amod
+24	political	political	JJ	_	25	amod
+25	issues	issue	NNS	_	5	conj
+26	.	.	.	_	5	punct
+

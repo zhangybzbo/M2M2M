@@ -1,0 +1,17 @@
+1	5	5	CD	_	2	num
+2	Gigahertz	Gigahertz	NNP	_	7	nsubj
+3	is	be	VBZ	_	7	cop
+4	a	a	DT	_	7	det
+5	radio	radio	NN	_	7	nn
+6	frequency	frequency	NN	_	7	nn
+7	band	band	NN	_	0	ROOT
+8	that	that	WDT	_	10	nsubjpass
+9	is	be	VBZ	_	10	auxpass
+10	used	use	VBN	_	7	rcmod
+11	by	by	IN	_	10	prep
+12	802.11	802.11	CD	_	15	num
+13	a/n	a/n	NN	_	15	nn
+14	Wi-Fi	wi-fus	NN	_	15	nn
+15	products	product	NNS	_	11	pobj
+16	.	.	.	_	7	punct
+

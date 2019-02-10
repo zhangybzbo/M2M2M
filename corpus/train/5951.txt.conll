@@ -1,0 +1,15 @@
+1	Judging	judge	VBG	_	13	vmod
+2	by	by	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	decorations	decoration	NNS	_	2	pobj
+5	in	in	IN	_	4	prep
+6	the	the	DT	_	8	det
+7	shop	shop	NN	_	8	nn
+8	windows	window	NNS	_	5	pobj
+9	,	,	,	_	13	punct
+10	it	it	PRP	_	13	nsubj
+11	is	be	VBZ	_	13	cop
+12	Christmas	Christmas	NNP	_	13	nn
+13	time	time	NN	_	0	ROOT
+14	.	.	.	_	13	punct
+

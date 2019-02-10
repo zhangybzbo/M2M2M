@@ -1,0 +1,16 @@
+1	As	as	IN	_	9	prep
+2	a	a	DT	_	3	det
+3	result	result	NN	_	1	pobj
+4	,	,	,	_	9	punct
+5	pollution	pollution	NN	_	9	nsubj
+6	from	from	IN	_	5	prep
+7	cars	car	NNS	_	6	pobj
+8	is	be	VBZ	_	9	aux
+9	causing	cause	VBG	_	0	ROOT
+10	serious	serious	JJ	_	12	amod
+11	health	health	NN	_	12	nn
+12	problems	problem	NNS	_	9	dobj
+13	for	for	IN	_	12	prep
+14	Americans	american	NNS	_	13	pobj
+15	.	.	.	_	9	punct
+

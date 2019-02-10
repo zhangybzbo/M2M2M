@@ -1,0 +1,1 @@
+In particular , we work on devices that take the signal that is carried in a beam of light going through an optical fiber and transfer that signal to another beam of light going through the same fiber .

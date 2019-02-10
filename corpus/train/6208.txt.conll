@@ -1,0 +1,16 @@
+1	We	we	PRP	_	7	nsubj
+2	are	be	VBP	_	7	cop
+3	a	a	DT	_	7	det
+4	small	small	JJ	_	7	amod
+5	but	but	CC	_	4	cc
+6	brave	brave	VBP	_	4	conj
+7	bevy	bevy	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	otters	otter	NNS	_	8	pobj
+10	located	locate	VBN	_	7	vmod
+11	in	in	IN	_	10	prep
+12	Eugene	Eugene	NNP	_	11	pobj
+13	,	,	,	_	12	punct
+14	Oregon	Oregon	NNP	_	12	appos
+15	.	.	.	_	7	punct
+

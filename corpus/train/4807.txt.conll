@@ -1,0 +1,24 @@
+1	While	while	IN	_	5	mark
+2	it	it	PRP	_	5	nsubj
+3	is	be	VBZ	_	5	cop
+4	very	very	RB	_	5	advmod
+5	easy	easy	JJ	_	22	advcl
+6	to	to	TO	_	7	aux
+7	tuck	tuck	VB	_	5	xcomp
+8	the	the	DT	_	9	det
+9	cash	cash	NN	_	7	dobj
+10	in	in	IN	_	7	prep
+11	a	a	DT	_	13	det
+12	desk	desk	NN	_	13	nn
+13	drawer	drawer	NN	_	10	pobj
+14	or	or	CC	_	13	cc
+15	a	a	DT	_	17	det
+16	closet	closet	NN	_	17	nn
+17	shelf	shelf	NN	_	13	conj
+18	,	,	,	_	22	punct
+19	it	it	PRP	_	22	nsubjpass
+20	is	be	VBZ	_	22	auxpass
+21	not	not	RB	_	22	neg
+22	secure	secure	VB	_	0	ROOT
+23	.	.	.	_	22	punct
+

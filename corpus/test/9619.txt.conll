@@ -1,0 +1,27 @@
+1	``	``	``	_	3	punct
+2	National	National	NNP	_	3	nn
+3	Discourse	Discourse	NNP	_	8	nsubj
+4	''	''	''	_	3	punct
+5	-LRB-	-lrb-	-LRB-	_	6	punct
+6	1780	1780	CD	_	3	appos
+7	-RRB-	-rrb-	-RRB-	_	6	punct
+8	shows	show	VBZ	_	0	ROOT
+9	a	a	DT	_	12	det
+10	stout	stout	NN	_	12	nn
+11	British	british	JJ	_	12	amod
+12	sailor	sailor	NN	_	8	dobj
+13	with	with	IN	_	12	prep
+14	a	a	DT	_	15	det
+15	cudgel	cudgel	NN	_	13	pobj
+16	staring	stare	VBG	_	15	vmod
+17	down	down	RP	_	16	prt
+18	a	a	DT	_	22	det
+19	relatively	relatively	RB	_	20	advmod
+20	effete	effete	JJ	_	22	amod
+21	French	french	JJ	_	22	amod
+22	seaman	seaman	NN	_	16	dobj
+23	with	with	IN	_	16	prep
+24	a	a	DT	_	25	det
+25	sword	sword	NN	_	23	pobj
+26	.	.	.	_	8	punct
+

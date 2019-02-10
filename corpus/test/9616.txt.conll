@@ -1,0 +1,23 @@
+1	Hotel	Hotel	NNP	_	3	nn
+2	La	La	NNP	_	3	nn
+3	Residencia	Residencia	NNP	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	used	use	VBN	_	0	ROOT
+6	by	by	IN	_	5	prep
+7	Dali	Dali	NNP	_	6	pobj
+8	frequently	frequently	RB	_	5	advmod
+9	for	for	IN	_	5	prep
+10	his	he	PRP$	_	12	poss
+11	afternoon	afternoon	NN	_	12	nn
+12	drink	drink	NN	_	9	pobj
+13	and	and	CC	_	12	cc
+14	chat	chat	NN	_	15	nn
+15	sessions	session	NNS	_	12	conj
+16	,	,	,	_	5	punct
+17	and	and	CC	_	5	cc
+18	has	have	VBZ	_	5	conj
+19	lovely	lovely	JJ	_	21	amod
+20	two-level	two-level	JJ	_	21	amod
+21	rooms	room	NNS	_	18	dobj
+22	.	.	.	_	5	punct
+

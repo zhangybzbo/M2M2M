@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det
+2	second	second	JJ	_	3	amod
+3	injury	injury	NN	_	5	nsubj
+4	also	also	RB	_	5	advmod
+5	started	start	VBD	_	0	ROOT
+6	from	from	IN	_	5	prep
+7	the	the	DT	_	9	det
+8	aforementioned	aforementioned	JJ	_	9	amod
+9	collision	collision	NN	_	6	pobj
+10	,	,	,	_	5	punct
+11	but	but	CC	_	5	cc
+12	has	have	VBZ	_	15	aux
+13	only	only	RB	_	14	advmod
+14	recently	recently	RB	_	15	advmod
+15	re-surfaced	re-surface	VBD	_	5	conj
+16	.	.	.	_	5	punct
+

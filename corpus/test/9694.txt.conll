@@ -1,0 +1,24 @@
+1	Nelson	Nelson	NNP	_	3	poss
+2	's	's	POS	_	1	possessive
+3	body	body	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	preserved	preserve	VBN	_	0	ROOT
+6	first	first	RB	_	5	advmod
+7	in	in	IN	_	5	prep
+8	a	a	DT	_	9	det
+9	cask	cask	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	brandy	brandy	NN	_	10	pobj
+12	-	-	:	_	5	punct
+13	at	at	IN	_	5	prep
+14	Gibraltar	Gibraltar	NNP	_	13	pobj
+15	,	,	,	_	5	punct
+16	this	this	DT	_	18	nsubjpass
+17	was	be	VBD	_	18	auxpass
+18	changed	change	VBN	_	5	parataxis
+19	to	to	TO	_	18	prep
+20	spirits	spirit	NNS	_	19	pobj
+21	of	of	IN	_	20	prep
+22	wine	wine	NN	_	21	pobj
+23	.	.	.	_	5	punct
+

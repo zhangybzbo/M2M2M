@@ -1,0 +1,21 @@
+1	For	for	IN	_	11	prep
+2	years	year	NNS	_	1	pobj
+3	,	,	,	_	11	punct
+4	adventurers	adventurer	NNS	_	11	nsubj
+5	from	from	IN	_	4	prep
+6	across	across	IN	_	5	pcomp
+7	the	the	DT	_	9	det
+8	Prime	Prime	NNP	_	9	nn
+9	Realms	Realms	NNPS	_	6	pobj
+10	have	have	VBP	_	11	aux
+11	journeyed	journey	VBN	_	0	ROOT
+12	into	into	IN	_	11	prep
+13	those	those	DT	_	15	det
+14	dark	dark	JJ	_	15	amod
+15	depths	depths	NNS	_	12	pobj
+16	seeking	seek	VBG	_	15	vmod
+17	glory	glory	NN	_	16	dobj
+18	and	and	CC	_	17	cc
+19	wealth	wealth	NN	_	17	conj
+20	.	.	.	_	11	punct
+

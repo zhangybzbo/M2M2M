@@ -1,0 +1,12 @@
+0	62	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="CSU" pos="NNP" nn="t2"
+4	14	tok id="t1" base="Stanislaus" pos="NNP" nn="t2"
+15	23	tok id="t2" base="student" pos="NNS" nsubj="t3"
+24	28	tok id="t3" base="take" pos="VBP" ROOT="ROOT"
+29	39	tok id="t4" base="complaint" pos="NNS" dobj="t3"
+40	42	tok id="t5" base="to" pos="TO" prep="t3"
+43	52	tok id="t6" base="President" pos="NNP" poss="t8"
+53	55	tok id="t7" base="'s" pos="POS" possessive="t6"
+56	60	tok id="t8" base="door" pos="NN" pobj="t5"
+61	62	tok id="t9" base="-PERIOD-" pos="." punct="t3"
+

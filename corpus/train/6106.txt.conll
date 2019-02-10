@@ -1,0 +1,11 @@
+1	He	he	PRP	_	3	nsubjpass
+2	's	be	VBZ	_	3	auxpass
+3	stuffed	stuff	VBN	_	0	ROOT
+4	pork	pork	NN	_	3	dobj
+5	into	into	IN	_	3	prep
+6	defense	defense	NN	_	5	pobj
+7	and	and	CC	_	6	cc
+8	homeland	homeland	NN	_	9	nn
+9	security	security	NN	_	6	conj
+10	.	.	.	_	3	punct
+

@@ -1,0 +1,20 @@
+1	There	there	EX	_	2	expl
+2	is	be	VBZ	_	0	ROOT
+3	a	a	DT	_	4	det
+4	gulp	gulp	NN	_	2	nsubj
+5	of	of	IN	_	4	prep
+6	cormorants	cormorant	NNS	_	5	pobj
+7	that	that	WDT	_	8	nsubj
+8	scavenge	scavenge	VBP	_	6	rcmod
+9	this	this	DT	_	10	det
+10	stretch	stretch	NN	_	8	dobj
+11	of	of	IN	_	10	prep
+12	the	the	DT	_	14	det
+13	Sacramento	Sacramento	NNP	_	14	nn
+14	River	River	NNP	_	11	pobj
+15	where	where	WRB	_	18	advmod
+16	I	I	PRP	_	18	nsubj
+17	usually	usually	RB	_	18	advmod
+18	kayak	kayak	VBP	_	14	rcmod
+19	.	.	.	_	2	punct
+

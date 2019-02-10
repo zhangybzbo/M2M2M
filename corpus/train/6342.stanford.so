@@ -1,0 +1,13 @@
+0	53	sentence id="s0" parse_status="success"
+0	3	tok id="t0" base="the" pos="DT" det="t1"
+4	10	tok id="t1" base="subway" pos="NN" nsubj="t4"
+11	13	tok id="t2" base="be" pos="VBZ" aux="t4"
+14	17	tok id="t3" base="now" pos="RB" advmod="t4"
+18	29	tok id="t4" base="approach" pos="VBG" ROOT="ROOT"
+30	33	tok id="t5" base="the" pos="DT" det="t6"
+34	38	tok id="t6" base="stop" pos="NN" dobj="t4"
+39	41	tok id="t7" base="at" pos="IN" prep="t6"
+42	46	tok id="t8" base="City" pos="NNP" nn="t9"
+47	51	tok id="t9" base="Hall" pos="NNP" pobj="t7"
+52	53	tok id="t10" base="-PERIOD-" pos="." punct="t4"
+

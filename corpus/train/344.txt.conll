@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det
+2	increase	increase	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	the	the	DT	_	5	det
+5	signal	signal	NN	_	3	pobj
+6	might	might	MD	_	7	aux
+7	correspond	correspond	VB	_	0	ROOT
+8	to	to	TO	_	7	prep
+9	formation	formation	NN	_	8	pobj
+10	of	of	IN	_	9	prep
+11	the	the	DT	_	13	det
+12	high-density	high-density	JJ	_	13	amod
+13	excitons	exciton	NNS	_	10	pobj
+14	,	,	,	_	7	punct
+15	while	while	IN	_	21	mark
+16	the	the	DT	_	17	det
+17	reduction	reduction	NN	_	21	nsubj
+18	of	of	IN	_	17	prep
+19	the	the	DT	_	20	det
+20	signal	signal	NN	_	18	pobj
+21	originates	originate	VBZ	_	7	advcl
+22	from	from	IN	_	21	prep
+23	the	the	DT	_	24	det
+24	relaxation	relaxation	NN	_	22	pobj
+25	.	.	.	_	7	punct
+

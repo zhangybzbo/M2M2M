@@ -1,0 +1,20 @@
+1	Parents	parent	NNS	_	3	nsubj
+2	also	also	RB	_	3	advmod
+3	experience	experience	VBP	_	0	ROOT
+4	anxiety	anxiety	NN	_	3	dobj
+5	from	from	IN	_	3	prep
+6	fear	fear	NN	_	5	pobj
+7	of	of	IN	_	6	prep
+8	the	the	DT	_	9	det
+9	suffering	suffering	NN	_	7	pobj
+10	of	of	IN	_	9	prep
+11	their	they	PRP$	_	12	poss
+12	child	child	NN	_	10	pobj
+13	and	and	CC	_	3	cc
+14	worry	worry	VB	_	3	conj
+15	about	about	IN	_	14	prep
+16	an	a	DT	_	18	det
+17	uncertain	uncertain	JJ	_	18	amod
+18	outcome	outcome	NN	_	15	pobj
+19	.	.	.	_	3	punct
+

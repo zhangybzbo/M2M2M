@@ -1,0 +1,17 @@
+1	A	a	DT	_	4	det
+2	gasoline	gasoline	NN	_	4	nn
+3	engine	engine	NN	_	4	nn
+4	powers	power	NNS	_	0	ROOT
+5	a	a	DT	_	8	det
+6	hydraulic	hydraulic	JJ	_	8	amod
+7	drive	drive	NN	_	8	nn
+8	train	train	NN	_	4	dep
+9	that	that	WDT	_	10	nsubj
+10	provides	provide	VBZ	_	8	rcmod
+11	torque	torque	NN	_	10	dobj
+12	at	at	IN	_	10	prep
+13	all	all	DT	_	15	det
+14	six	six	CD	_	15	num
+15	wheels	wheel	NNS	_	12	pobj
+16	.	.	.	_	4	punct
+

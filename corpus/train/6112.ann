@@ -1,0 +1,3 @@
+T1	Term 43 48	flock
+T2	Term 52 57	sheep
+R1	Member-Collection Arg1:T2 Arg2:T1

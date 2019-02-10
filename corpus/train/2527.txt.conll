@@ -1,0 +1,11 @@
+1	Last	last	JJ	_	2	amod
+2	night	night	NN	_	6	tmod
+3	,	,	,	_	6	punct
+4	wine	wine	NN	_	6	nsubjpass
+5	was	be	VBD	_	6	auxpass
+6	brought	bring	VBN	_	0	ROOT
+7	to	to	TO	_	6	prep
+8	the	the	DT	_	9	det
+9	restaurant	restaurant	NN	_	7	pobj
+10	.	.	.	_	6	punct
+

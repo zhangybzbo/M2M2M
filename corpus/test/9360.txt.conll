@@ -1,0 +1,7 @@
+1	They	they	PRP	_	2	nsubj
+2	misplaced	misplace	VBD	_	0	ROOT
+3	mastiffs	mastiff	NNS	_	2	dobj
+4	into	into	IN	_	2	prep
+5	homes	home	NNS	_	4	pobj
+6	.	.	.	_	2	punct
+

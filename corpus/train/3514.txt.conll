@@ -1,0 +1,18 @@
+1	In	in	IN	_	7	prep
+2	July	July	NNP	_	1	pobj
+3	2004	2004	CD	_	2	num
+4	,	,	,	_	7	punct
+5	the	the	DT	_	6	det
+6	group	group	NN	_	7	nsubj
+7	struck	strike	VBD	_	0	ROOT
+8	again	again	RB	_	7	advmod
+9	with	with	IN	_	7	prep
+10	bombs	bomb	NNS	_	9	pobj
+11	at	at	IN	_	10	prep
+12	the	the	DT	_	13	det
+13	U.S.	U.S.	NNP	_	11	pobj
+14	and	and	CC	_	13	cc
+15	Israeli	Israeli	NNP	_	16	nn
+16	Embassies	Embassies	NNPS	_	13	conj
+17	.	.	.	_	7	punct
+

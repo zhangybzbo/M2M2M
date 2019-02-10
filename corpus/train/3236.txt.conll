@@ -1,0 +1,20 @@
+1	One	one	CD	_	11	nsubj
+2	of	of	IN	_	1	prep
+3	the	the	DT	_	4	det
+4	requirements	requirement	NNS	_	2	pobj
+5	of	of	IN	_	4	prep
+6	the	the	DT	_	7	det
+7	portfolio	portfolio	NN	_	5	pobj
+8	is	be	VBZ	_	11	cop
+9	a	a	DT	_	11	det
+10	goal	goal	NN	_	11	nn
+11	sheet	sheet	NN	_	0	ROOT
+12	,	,	,	_	11	punct
+13	which	which	WDT	_	15	nsubjpass
+14	is	be	VBZ	_	15	auxpass
+15	completed	complete	VBN	_	11	rcmod
+16	by	by	IN	_	15	prep
+17	the	the	DT	_	18	det
+18	student	student	NN	_	16	pobj
+19	.	.	.	_	11	punct
+

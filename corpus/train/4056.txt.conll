@@ -1,0 +1,15 @@
+1	Myoats	Myoats	NNP	_	4	nsubj
+2	is	be	VBZ	_	4	cop
+3	a	a	DT	_	4	det
+4	community	community	NN	_	0	ROOT
+5	where	where	WRB	_	7	advmod
+6	people	people	NNS	_	7	nsubj
+7	create	create	VBP	_	4	rcmod
+8	designs	design	NNS	_	7	dobj
+9	using	use	VBG	_	7	xcomp
+10	an	a	DT	_	13	det
+11	online	online	JJ	_	13	amod
+12	drawing	drawing	NN	_	13	nn
+13	application	application	NN	_	9	dobj
+14	.	.	.	_	4	punct
+

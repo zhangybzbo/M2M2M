@@ -1,0 +1,14 @@
+1	This	this	DT	_	6	det
+2	mild	mild	JJ	_	6	amod
+3	and	and	CC	_	2	cc
+4	relatively	relatively	RB	_	5	advmod
+5	common	common	JJ	_	2	conj
+6	form	form	NN	_	10	nsubjpass
+7	of	of	IN	_	6	prep
+8	acne	acne	NN	_	7	pobj
+9	is	be	VBZ	_	10	auxpass
+10	caused	cause	VBN	_	0	ROOT
+11	by	by	IN	_	10	prep
+12	cosmetics	cosmetic	NNS	_	11	pobj
+13	.	.	.	_	10	punct
+

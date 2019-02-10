@@ -1,0 +1,17 @@
+1	His	he	PRP$	_	2	poss
+2	body	body	NN	_	3	nsubj
+3	was	be	VBD	_	0	ROOT
+4	inside	inside	IN	_	3	prep
+5	a	a	DT	_	6	det
+6	cupboard	cupboard	NN	_	4	pobj
+7	in	in	IN	_	3	prep
+8	the	the	DT	_	12	det
+9	Jumeirah	Jumeirah	NNP	_	12	nn
+10	Carlton	Carlton	NNP	_	12	nn
+11	Tower	Tower	NNP	_	12	nn
+12	Hotel	Hotel	NNP	_	7	pobj
+13	in	in	IN	_	3	prep
+14	upmarket	upmarket	NNP	_	15	nn
+15	Knightsbridge	Knightsbridge	NNP	_	13	pobj
+16	.	.	.	_	3	punct
+

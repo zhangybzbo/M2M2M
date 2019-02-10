@@ -1,0 +1,26 @@
+1	Mekong	Mekong	NNP	_	5	nsubj
+2	is	be	VBZ	_	5	cop
+3	a	a	DT	_	5	det
+4	35	35	CD	_	5	num
+5	percent	percent	NN	_	0	ROOT
+6	-LRB-	-lrb-	-LRB-	_	8	punct
+7	70	70	CD	_	8	num
+8	proof	proof	NN	_	5	dep
+9	-RRB-	-rrb-	-RRB-	_	8	punct
+10	rice	rice	NN	_	11	nn
+11	whisky	whisky	NN	_	12	nsubj
+12	famous	famous	JJ	_	8	xcomp
+13	in	in	IN	_	12	prep
+14	Thailand	Thailand	NNP	_	13	pobj
+15	as	as	IN	_	12	prep
+16	the	the	DT	_	17	det
+17	drink	drink	NN	_	15	pobj
+18	of	of	IN	_	17	prep
+19	choice	choice	NN	_	18	pobj
+20	for	for	IN	_	19	prep
+21	the	the	DT	_	24	det
+22	blue	blue	JJ	_	24	amod
+23	collar	collar	NN	_	24	nn
+24	workforce	workforce	NN	_	20	pobj
+25	.	.	.	_	5	punct
+

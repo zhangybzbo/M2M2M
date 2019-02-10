@@ -1,0 +1,21 @@
+1	In	in	IN	_	12	prep
+2	most	most	JJS	_	4	amod
+3	non-percussion	non-percussion	JJ	_	4	amod
+4	music	music	NN	_	1	pobj
+5	,	,	,	_	12	punct
+6	the	the	DT	_	8	det
+7	instrument	instrument	NN	_	8	nn
+8	sounds	sound	NNS	_	12	nsubj
+9	are	be	VBP	_	12	cop
+10	simply	simply	RB	_	12	advmod
+11	the	the	DT	_	12	det
+12	tools	tool	NNS	_	0	ROOT
+13	with	with	IN	_	17	prep
+14	which	which	WDT	_	13	pobj
+15	the	the	DT	_	16	det
+16	composer	composer	NN	_	17	nsubj
+17	creates	create	VBZ	_	12	rcmod
+18	a	a	DT	_	19	det
+19	composition	composition	NN	_	17	dobj
+20	.	.	.	_	12	punct
+

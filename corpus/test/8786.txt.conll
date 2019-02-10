@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det
+2	target	target	NN	_	7	nsubj
+3	of	of	IN	_	2	prep
+4	those	those	DT	_	5	det
+5	activities	activity	NNS	_	3	pobj
+6	is	be	VBZ	_	7	cop
+7	development	development	NN	_	0	ROOT
+8	of	of	IN	_	7	prep
+9	meta-information	meta-information	NN	_	10	nn
+10	systems	system	NNS	_	8	pobj
+11	,	,	,	_	10	punct
+12	which	which	WDT	_	13	nsubj
+13	enables	enable	VBZ	_	10	rcmod
+14	record	record	NN	_	15	nn
+15	metadata	metadatum	NN	_	13	dobj
+16	of	of	IN	_	15	prep
+17	geodata	geoda	NN	_	16	pobj
+18	.	.	.	_	7	punct
+

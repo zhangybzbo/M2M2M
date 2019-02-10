@@ -1,0 +1,18 @@
+1	Tree	tree	NN	_	2	nn
+2	bark	bark	NN	_	4	nsubjpass
+3	are	be	VBP	_	4	auxpass
+4	protected	protect	VBN	_	0	ROOT
+5	during	during	IN	_	4	prep
+6	construction	construction	NN	_	7	nn
+7	activities	activity	NNS	_	5	pobj
+8	and	and	CC	_	7	cc
+9	remodeling	remodeling	NN	_	7	conj
+10	,	,	,	_	4	punct
+11	since	since	IN	_	15	mark
+12	heavy	heavy	JJ	_	13	amod
+13	equipment	equipment	NN	_	15	nsubj
+14	can	can	MD	_	15	aux
+15	damage	damage	VB	_	4	advcl
+16	trees	tree	NNS	_	15	dobj
+17	.	.	.	_	4	punct
+

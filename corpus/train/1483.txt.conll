@@ -1,0 +1,26 @@
+1	Canned	can	VBN	_	3	amod
+2	peach	peach	NN	_	3	nn
+3	syrup	syrup	NN	_	5	nsubjpass
+4	was	be	VBD	_	5	auxpass
+5	cooked	cook	VBN	_	0	ROOT
+6	for	for	IN	_	5	prep
+7	three	three	CD	_	8	num
+8	minutes	minute	NNS	_	6	pobj
+9	with	with	IN	_	5	prep
+10	a	a	DT	_	11	det
+11	half-glass	half-glass	NN	_	9	pobj
+12	of	of	IN	_	11	prep
+13	raspberry	raspberry	NN	_	14	nn
+14	jelly	jelly	NN	_	12	pobj
+15	,	,	,	_	5	punct
+16	this	this	DT	_	5	dep
+17	for	for	IN	_	16	prep
+18	color	color	NN	_	17	pobj
+19	and	and	CC	_	16	cc
+20	to	to	TO	_	21	aux
+21	give	give	VB	_	16	conj
+22	a	a	DT	_	24	det
+23	peach-melba	peach-melba	NN	_	24	nn
+24	flavor	flavor	NN	_	21	dobj
+25	.	.	.	_	5	punct
+
