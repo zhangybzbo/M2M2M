@@ -15,6 +15,7 @@ from model import EntityDetect, RelationDetect
 random.seed(1)
 
 SAVE_DIR = 'models/snapshots/'
+LOG_FILE = 'models/val.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
@@ -213,8 +214,8 @@ def train():
 
     print('network initialized', flush=True)
 
-    LogDump = open(SAVE_DIR + 'val.csv', 'w')
-    LogWriter = csv.writer(LogDump)
+    if os.path.isdir(LOG_FILE):
+        os.rmdir(LOG_FILE)
 
     for e in range(Epoch):
         train_data.reset_epoch()
@@ -279,7 +280,10 @@ def train():
 
             for r in range(len(relations)):
                 F1[r] = 2 * TP[r] / (2 * TP[r] + FP[r] + FN[r])
-            LogWriter.writerow(F1)
+
+            with open(LOG_FILE, 'w+') as LogDump:
+                LogWriter = csv.writer(LogDump)
+                LogWriter.writerow(F1)
             total_F1 = np.average(np.array(F1))
             micro_F1 = 2 * sum(TP) / (2 * sum(TP) + sum(FP) + sum(FN))
 
@@ -290,7 +294,6 @@ def train():
             torch.save(NER.state_dict(), SAVE_DIR + 'NER_' + str(e))
             torch.save(RE.state_dict(), SAVE_DIR + 'RE_' + str(e))
 
-    LogDump.close()
 
 
 if __name__ == "__main__":
