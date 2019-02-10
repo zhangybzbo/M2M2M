@@ -262,66 +262,93 @@ class TransformerNet(nn.Module):
         return padding_mask.cuda()
 
 
-class Char_embed(nn.Module):
-    '''character level embedding'''
+class EntityDetect(nn.Module):
+    def __init__(self, pretrained_embed, word_embed_size, label_embed_size, hidden_size, out_size,
+                 hidden_lnum, dropout_ratio):
+        super(EntityDetect, self).__init__()
+        self.hidden_size = hidden_size
+        self.hidden_lnum = hidden_lnum
+        self.out_size = out_size
+        self.label_embed_size = label_embed_size
+        self.drop = nn.Dropout(p=dropout_ratio)
 
-    # TODO: unfinished
-    def __init__(self, char_embed_size, num_char):
-        super(Char_embed, self).__init__()
+        # self.wordembed = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
+        self.bi_LSTM = nn.LSTM(word_embed_size, hidden_size, num_layers=hidden_lnum, batch_first=True,
+                               bidirectional=True)
+        self.toph_prepare = nn.Linear(2 * hidden_size, hidden_size)
+        self.top_hidden = nn.LSTMCell(hidden_size + label_embed_size, hidden_size)
+        self.top2label = nn.Linear(hidden_size, out_size)
+        self.labelembed = nn.Embedding(out_size, label_embed_size)
 
-        self.char_embed_size = char_embed_size
-        self.char_embed = nn.Embedding(num_char, char_embed_size, padding_idx=0)
+    def init_state(self, batch_size, num_layer, direction, hidden_size):
+        # input size (seq, batch)
+        h0 = Variable(torch.zeros(num_layer * direction, batch_size, hidden_size), requires_grad=False)
+        c0 = Variable(torch.zeros(num_layer * direction, batch_size, hidden_size), requires_grad=False)
+        return h0.cuda(), c0.cuda()
 
-        # convolutions of filters with different sizes
-        self.convolutions = []
-        # list of tuples: (the number of filter, width)
-        self.filter_num_width = [(25, 1), (50, 2), (75, 3), (100, 4), (125, 5), (150, 6)]
-        for out_channel, filter_width in self.filter_num_width:
-            self.convolutions.append(
-                nn.Conv2d(
-                    1,  # in_channel
-                    out_channel,  # out_channel
-                    kernel_size=(char_embed_size, filter_width),  # (height, width)
-                    bias=True
-                )
-            )
+    def forward(self, inputs):
+        '''
 
-        self.highway_input_dim = sum([x for x, y in self.filter_num_width])
+        :param inputs: sequence: B x s
+        :return: top hidden layer: B x s x h
+                detect score: B x s x out
+                detect output: B
+                label embedding: B x s x Lemb
+        '''
+        # word_embed = self.wordembed(inputs)
+        word_embed = inputs
+        word_embed = self.drop(word_embed)
 
-        self.batch_norm = nn.BatchNorm1d(self.highway_input_dim, affine=False)
+        h0_bi, c0_bi = self.init_state(inputs.size(0), self.hidden_lnum, 2, self.hidden_size)
+        ctx, (ht_bi, ct_bi) = self.bi_LSTM(word_embed, (h0_bi, c0_bi))  # B x s x 2h
 
-        # highway net
-        self.highway1 = Highway(self.highway_input_dim)
-        self.highway2 = Highway(self.highway_input_dim)
+        ctx_z = self.toph_prepare(ctx)  # B x s x h
+        z = torch.zeros_like(ctx_z).cuda()  # B x s x h
+        y = torch.zeros(inputs.size(0), inputs.size(1), self.out_size).cuda()
+        y_out = torch.zeros((inputs.size(0), inputs.size(1)), dtype=torch.long)  # B x s
+        b = torch.zeros(inputs.size(0), inputs.size(1), self.label_embed_size).cuda()  # B x s x Lemb
+        ht_top, ct_top = self.init_state(inputs.size(0), 1, 1, self.hidden_size)
+        ht_top, ct_top = ht_top.squeeze(0), ct_top.squeeze(0)
+        bt = torch.zeros((inputs.size(0), self.label_embed_size)).cuda()  # B x Lemb
+        for i in range(inputs.size(1)):
+            top_input = torch.cat((ctx_z[:, i, :], bt), dim=-1)
+            top_input = self.drop(top_input)
+            ht_top, ct_top = self.top_hidden(top_input, (ht_top, ct_top))
+            yt = self.top2label(ht_top)
+            _, yt_out = torch.max(nn.Softmax(dim=-1)(yt), dim=-1)  # B
+            bt = self.labelembed(yt_out)
 
-    def conv_layers(self, x):
-        chosen_list = list()
-        for conv in self.convolutions:
-            feature_map = nn.Tanh()(conv(x))  # (batch_size, out_channel, 1, max_word_len-width+1)
-            chosen = torch.max(feature_map, 3)[0]  # (batch_size, out_channel, 1)
-            chosen = chosen.squeeze()  # (batch_size, out_channel)
-            chosen_list.append(chosen)
+            z[:, i, :] = ht_top
+            y[:, i, :] = yt
+            y_out[:, i] = yt_out.cpu()
+            b[:, i, :] = bt
 
-        return torch.cat(chosen_list, 1)  # (batch_size, total_num_filers)
+        return z, y, y_out, b
 
-    def forward(self, x):
-        # input: (batch, s, l)
-        # output: (batch, s, total_num_filters)
-        batch_size = x.size()[0]
-        seq_len = x.size()[1]
 
-        x = x.contiguous().view(-1, x.size()[2])
-        c_embed = self.char_embed(x)  # (batch * s, l, embed)
+class RelationDetect(nn.Module):
+    def __init__(self, hidden_size, label_embed_size, out_size, map_size, dropout_ratio):
+        super(RelationDetect, self).__init__()
+        self.drop = nn.Dropout(p=dropout_ratio)
+        self.W1 = nn.Linear(hidden_size + label_embed_size, map_size)
+        self.W2 = nn.Linear(hidden_size + label_embed_size, map_size)
+        self.v = nn.Linear(map_size, out_size)
 
-        c_embed = torch.transpose(c_embed.view(c_embed.size()[0], 1, c_embed.size()[1], -1), 2, 3)
-        # (batch * s, 1, embed, l)
+    def forward(self, z, b):
+        '''
 
-        conv_w = self.conv_layers(c_embed)  # (batch * s, total_num_filters)
-        conv_w = self.batch_norm(conv_w)
+        :param z: in time t z<=t: B x t x h
+        :param b: in time t b<=t: B x t x Lemb
+        :return: u: B x s x out
+        '''
+        z = self.drop(z)
+        b = self.drop(b)
 
-        y = self.highway1(conv_w)
-        y = self.highway2(y)
+        seq = torch.cat((z, b), dim=-1) # B x t x h + Lemb
+        seq_mapping = self.W1(seq)
+        token = torch.cat((z[:, -1, :], b[:, -1, :]), dim=-1).unsqueeze(1)
+        token = token.expand_as(seq) # B x t x h + Lemb
+        token_mapping = self.W2(token)
 
-        y = y.contiguous().view(batch_size, seq_len, -1)
-
-        return y
+        u = self.v(nn.Tanh()(seq_mapping + token_mapping))
+        return u
