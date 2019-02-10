@@ -14,7 +14,7 @@ from model import EntityDetect, RelationDetect
 
 random.seed(1)
 
-SAVE_DIR = 'models/'
+SAVE_DIR = 'models/snapshots/'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
