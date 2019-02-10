@@ -236,7 +236,7 @@ def train():
                 relation_teacher = torch.zeros((Batch_size, s), dtype=torch.long, requires_grad=False).cuda()
                 for i in range(Batch_size):
                     if s > seq_length[i]:
-                        relation_teacher[i, seq_length[i]:] = -1
+                        relation_teacher[i, :] = -1
                     if s - 1 in e_posi[i][1] and e_posi[i][1][0] > e_posi[i][0][0]:
                         relation_teacher[i, e_posi[i][0]] = r_label[i]
                     elif s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
