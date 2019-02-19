@@ -1,193 +1,296 @@
 import os
 import csv
-
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+import sys
 import numpy as np
 import torch
 import torch.nn as nn
 from torch import optim
-from allennlp.modules.elmo import Elmo, batch_to_ids
-from allennlp.commands.elmo import ElmoEmbedder
-# from nltk.tokenize.stanford import StanfordTokenizer
-import random
-from model import EntityDetect, RelationDetect
 
-random.seed(1)
+from model import SeqLayer, EntityDetect, RelationDetect
+from utils import dir_reader, relation_reader, tokenizer
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+epsilon = sys.float_info.epsilon
 
 SAVE_DIR = 'models/snapshots/'
 LOG_FILE = 'models/val.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
-elmo_options = 'models/elmo_2x4096_512_2048cnn_2xhighway_options.json'
-elmo_weights = 'models/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5'
 
+Relation_threshold = 0.4
+Relation_type = 10
 Max_seq_len = 100
 ELMo_size = 1024
-Label_embed = 100
+Label_embed = 25
 Hidden_size = 100
 Hidden_layer = 3
 Dropout = 0.5
+Bidirection = True
 
 Learning_rate = 0.0001
+LR_decay = 10
 Weight_decay = 0.0005
-Epoch = 100
-Batch_size = 20
-Val_every = 5
-Log_every = 5
+Epoch = 500
+Batch_size = 50
+Val_every = 20
+Log_every = 20
 
 
-# tokenizer = StanfordTokenizer(r'/playpen/home/zhangyb/M2M2M/LSTM-ER/data/common/stanford-postagger-2015-04-20/stanford-postagger.jar')
+def pretrain_NER(train_data, val_data, LSTM_layer, NER, lr, epoch):
+    NER_criterion = nn.CrossEntropyLoss(ignore_index=-1)
+    LSTM_optimizer = optim.Adam(LSTM_layer.parameters(), lr=lr, weight_decay=Weight_decay)
+    NER_optimizer = optim.Adam(NER.parameters(), lr=lr, weight_decay=Weight_decay)
 
-def dir_reader(file):
-    ls = [id.split('.')[0] for id in os.listdir(file)]
-    ls = list(set(ls))
-    ls.sort(key=lambda id: int(id))
-    return ls
+    for e in range(epoch):
+        train_data.reset_epoch()
+        LSTM_layer.train()
+        NER.train()
+        while not train_data.epoch_finish:
+            LSTM_optimizer.zero_grad()
+            NER_optimizer.zero_grad()
+            standard_emb, e_label, e_posi, _, seq_length, _, _ = train_data.get_batch(Batch_size)
+
+            ctx = LSTM_layer(standard_emb, seq_length)
+
+            y_gold = torch.zeros(Batch_size, requires_grad=False).long().cuda()
+            entity_loss = 0.
+
+            for s in range(max(seq_length)):
+                tmp_ctx = [ctx[i, s, :] for i in range(Batch_size) if s < seq_length[i]]
+                tmp_ctx = torch.stack(tmp_ctx)
+
+                _, logit, y_out = NER(tmp_ctx, y_gold)
+
+                y_gt = [e_label[i, s] for i in range(Batch_size) if s < seq_length[i]]
+                y_gt = torch.stack(y_gt)
+                entity_loss += NER_criterion(logit, y_gt)
+                if s + 1 < max(seq_length):
+                    y_gold = [e_label[i, s] for i in range(Batch_size) if s + 1 < seq_length[i]]
+                    y_gold = torch.stack(y_gold)
+
+            entity_loss.backward()
+            LSTM_optimizer.step()
+            NER_optimizer.step()
+
+        if (e + 1) % Val_every == 0:
+            val_data.reset_epoch()
+            LSTM_layer.eval()
+            NER.eval()
+            count_all = 0
+            correct_raw = 0
+            correct_acc = 0
+            while not val_data.epoch_finish:
+                standard_emb, e_label, _, _, seq_length, _, _ = val_data.get_batch(Batch_size)
+                ctx = LSTM_layer(standard_emb, seq_length)
+                y_out = torch.zeros(Batch_size, requires_grad=False).long().cuda()
+                y_all = torch.zeros((Batch_size, max(seq_length)), requires_grad=False).long().cuda()
+                for s in range(max(seq_length)):
+                    _, logit, y_out = NER(ctx[:, s, :], y_out)
+                    for i in range(Batch_size):
+                        y_all[i, s] = y_out[i].detach() if s < seq_length[i] else -1
+
+                for i in range(Batch_size):
+                    count_all += 1
+                    correct_acc += torch.all(
+                        torch.eq(y_all[i, :seq_length[i]], e_label[i, :seq_length[i]])).long().item()
+                    e1 = y_all[i, :seq_length[i]].nonzero()
+                    e2 = e_label[i, :seq_length[i]].nonzero()
+                    correct_raw += int(torch.equal(e1, e2))
+
+            print("[epoch: %d] entity detection accuracy: raw %.4f, accurate %.4f" %
+                  (e, correct_raw / float(count_all), correct_acc / float(count_all)), flush=True)
+
+        if (e + 1) % Log_every == 0:
+            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_pretrain_' + str(e))
+            torch.save(NER.state_dict(), SAVE_DIR + 'NER_pretrain_' + str(e))
 
 
-def relation_reader(filels=None, cache=None):
-    relation2index = {}
-
-    if filels:
-        i = 0
-        fw = open(cache, "w")
-        for id in filels[0]:
-            with open(filels[1] + id + '.ann') as fann:
-                lines = fann.readlines()
-                assert len(lines) == 3
-                relation_info = lines[2].strip().split('\t')[1].split(' ')
-                assert len(relation_info) == 3
-                if relation_info[0] not in relation2index:
-                    relation2index[relation_info[0]] = i
-                    i += 1
-                    fw.write(relation_info[0] + '\n')
-
-    elif cache:
-        fw = open(cache)
-        for i, re in enumerate(fw.readlines()):
-            relation2index[re.strip()] = i
-
-    return relation2index
-
-
-class tokenizer(object):
-    def __init__(self, filels, relationsls, pretrain_type=None):
-        self.data = []
-        self.pretrain = pretrain_type
-        if pretrain_type == 'elmo_repre':
-            self.pre_model = Elmo(elmo_options, elmo_weights, 2, dropout=0).cuda()
-        elif pretrain_type == 'elmo_layer':
-            self.pre_model = ElmoEmbedder(elmo_options, elmo_weights, cuda_device=0)
-
-        for id in filels[0]:
-            new_data = dict()
-
-            with open(filels[1] + id + '.txt') as ftxt:
-                line = ftxt.readlines()
-                # print(line)
-                assert len(line) == 1
-                line = line[0].strip()
-                words = line.split(' ')
-
-                new_data['sentence'] = words
-                new_data['length'] = len(words)
-                new_data['position'] = [i + 1 for i in range(len(words))]
-
-                if pretrain_type == 'elmo_repre':
-                    elmo_id = batch_to_ids([words]).cuda()
-                    pre_embed = self.pre_model(elmo_id)
-                    new_data['emb'] = pre_embed['elmo_representations'][1].squeeze(0).detach()
-                    # print(new_data['emb'].size())
-                elif pretrain_type == 'elmo_layer':
-                    pre_embed = self.pre_model.embed_sentence(words)
-                    new_data['emb'] = torch.zeros((3, len(words), 1024), requires_grad=False)
-                    for i in range(3):
-                        new_data['emb'][i, :, :] = torch.from_numpy(pre_embed[i])
-
-            with open(filels[1] + id + '.ann') as fann:
-                lines = fann.readlines()
-                # print(lines)
-                assert len(lines) == 3
-                relation_info = lines[2].strip().split('\t')[1].split(' ')
-                assert len(relation_info) == 3
-                if relation_info[1] == 'Arg1:T1' and relation_info[2] == 'Arg2:T2':
-                    t1 = lines[0].strip().split('\t')
-                    t2 = lines[1].strip().split('\t')
-                elif relation_info[1] == 'Arg1:T2' and relation_info[2] == 'Arg2:T1':
-                    t1 = lines[1].strip().split('\t')
-                    t2 = lines[0].strip().split('\t')
-                else:
-                    assert False
-                new_data['entities'] = [t1[2], t2[2]]
-                new_data['entity_posi'] = [[], []]
-                new_data['predicate'] = relationsls[relation_info[0]]
-
-                # label sequence, 0 for others, 1 for t1, 2 for t2
-                posi = 0
-                new_data['labels'] = [0] * new_data['length']
-                t1_b, t1_l = int(t1[1].split(' ')[1]), int(t1[1].split(' ')[2])
-                t2_b, t2_l = int(t2[1].split(' ')[1]), int(t2[1].split(' ')[2])
-                for i in range(new_data['length']):
-                    if posi >= t1_b and posi + len(new_data['sentence'][i]) <= t1_l:
-                        new_data['labels'][i] = 1
-                        new_data['entity_posi'][0].append(i)
-                    elif posi >= t2_b and posi + len(new_data['sentence'][i]) <= t2_l:
-                        new_data['labels'][i] = 2
-                        new_data['entity_posi'][1].append(i)
-                    posi += len(new_data['sentence'][i]) + 1
-                    if posi > t1_l and posi > t2_l:
-                        break
-                assert 1 in new_data['labels'] and 2 in new_data['labels'], (id, new_data['labels'], line, lines)
-
-            self.data.append(new_data)
-            # print(new_data)
-            # input()
-
-        self.max_length = max([l['length'] for l in self.data])
-        self.epoch_finish = False
-        self.position = 0
-
-    def reset_epoch(self):
-        self.epoch_finish = False
-        self.position = 0
-        random.shuffle(self.data)
-
-    def get_batch(self, batch_size):
-        batch = self.data[self.position:self.position + batch_size]
-        seq_length = [element['length'] for element in batch]
-        mask = []
-        posi = []
-        entity_label = []
-        entity_posi = [element['entity_posi'] for element in batch]
-        relation_label = [element['predicate'] for element in batch]
-
-        if self.pretrain == 'elmo_repre':
-            pre_model = torch.zeros((batch_size, max(seq_length), 1024), requires_grad=False).cuda()
-        elif self.pretrain == 'elmo_layer':
-            pre_model = torch.zeros((batch_size, 3, max(seq_length), 1024), requires_grad=False).cuda()
+def get_REteacher(s, length, e_posi, relation):
+    teacher = []
+    count = []
+    for i in range(Batch_size):
+        if s - 1 in e_posi[i][1] and e_posi[i][1][0] > e_posi[i][0][0]:
+            tmp = [p * Relation_type + relation[i].item() for p in e_posi[i][0]]
+        elif s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
+            tmp = [p * Relation_type + relation[i].item() for p in e_posi[i][1]]
+        elif s > length[i]:
+            tmp = [-1]
         else:
-            pre_model = None
+            tmp = [(s - 1) * Relation_type]
+        count.append(len(tmp))
+        teacher.append(tmp)
+    return teacher, count
 
-        for i, element in enumerate(batch):
-            if self.pretrain == 'elmo_repre':
-                pre_model[i, :element['length'], :] = element['emb']
-            elif self.pretrain:
-                pre_model[i, :, :element['length'], :] = element['emb']
-            posi.append(element['position'] + [0] * (max(seq_length) - element['length']))
-            mask.append([0] * element['length'] + [1] * (max(seq_length) - element['length']))
-            entity_label.append(element['labels'] + [-1] * (max(seq_length) - element['length']))
 
-        mask = torch.tensor(mask, requires_grad=False).byte().cuda()
-        posi = torch.tensor(posi, requires_grad=False).cuda()
-        entity_label = torch.tensor(entity_label, requires_grad=False).cuda()
-        relation_label = torch.tensor(relation_label, requires_grad=False).cuda()
+def end2end(train_data, val_data, LSTM_layer, NER, RE, lr, epoch):
+    NER_criterion = nn.CrossEntropyLoss(ignore_index=-1)
+    RE_criterion = nn.CrossEntropyLoss(ignore_index=-1)
+    LSTM_optimizer = optim.Adam(LSTM_layer.parameters(), lr=lr/LR_decay, weight_decay=Weight_decay)
+    NER_optimizer = optim.Adam(NER.parameters(), lr=lr/LR_decay, weight_decay=Weight_decay)
+    RE_optimizer = optim.Adam(RE.parameters(), lr=lr, weight_decay=Weight_decay)
 
-        self.position += batch_size
-        if (self.position + batch_size) > len(self.data):
-            self.epoch_finish = True
+    for e in range(epoch):
+        train_data.reset_epoch()
+        LSTM_layer.train()
+        NER.train()
+        RE.train()
+        NER_losses = []
+        RE_losses = []
+        while not train_data.epoch_finish:
+            LSTM_optimizer.zero_grad()
+            NER_optimizer.zero_grad()
+            RE_optimizer.zero_grad()
+            standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = train_data.get_batch(Batch_size)
+            #print(standard_emb.size())
+            #print(e_label)
+            #print(e_posi, r_label, seq_length)
+            #input()
 
-        return pre_model, entity_label, entity_posi, relation_label, seq_length, mask, posi
+            ctx = LSTM_layer(standard_emb, seq_length)
+            #print(ctx.size())
+            #input()
+            label_emb = torch.zeros((Batch_size, max(seq_length), Label_embed), requires_grad=False).cuda()
+
+            y_gold = torch.zeros(Batch_size, requires_grad=False).long().cuda() # gold label or whatever label,from last time step
+            entity_loss = 0.
+
+            # get entity detection and label embedding
+            for s in range(max(seq_length)):
+                v_tp, logit, y_out = NER(ctx[:, s, :], y_gold)
+                entity_loss += NER_criterion(logit, e_label[:, s]) * (max(seq_length) - s)
+
+                y_gold = torch.zeros(Batch_size, requires_grad=False).long().cuda()
+                for i in range(Batch_size):
+                    if s < seq_length[i]:
+                        y_gold[i] = e_label[i, s]
+                    if s > 0 and s <= seq_length[i]:
+                        label_emb[i, s - 1, :] = v_tp[i, :] # record embedding of label of last time step
+
+            # get label embedding of the last step
+            v_tp, _, _ = NER(torch.zeros(Batch_size, Hidden_size).cuda(), y_gold)
+            for i in range(Batch_size):
+                if seq_length[i] == max(seq_length):
+                    label_emb[i, -1, :] = v_tp[i, :]
+
+            #print(label_emb[:,:,0])
+            #input()
+
+            relation_loss = 0.
+            # relationship
+            for s in range(1, max(seq_length) + 1):  # s is the count of word number
+                u = RE(ctx[:, :s, :], label_emb[:, :s, :])
+                #print(u.size())
+                re_teacher, re_count = get_REteacher(s, seq_length, e_posi, r_label)
+                #print(re_teacher, re_count)
+                for i in range(Batch_size):
+                    for j in range(re_count[i]):
+                        teacher_ij = torch.tensor(re_teacher[i][j], dtype=torch.long, requires_grad=False).cuda()
+                        relation_loss += RE_criterion(u[i, :, :].view(1, -1), teacher_ij.view(1)) / re_count[i]
+                        #print(i,j,teacher_ij,relation_loss)
+                        #input()
+
+            total_loss = entity_loss + relation_loss
+            total_loss.backward()
+            LSTM_optimizer.step()
+            NER_optimizer.step()
+            RE_optimizer.step()
+            NER_losses.append(entity_loss.item())
+            RE_losses.append(relation_loss.item())
+
+
+        if (e + 1) % Val_every == 0:
+            val_data.reset_epoch()
+            LSTM_layer.eval()
+            NER.eval()
+            RE.eval()
+            TP = [0.] * Relation_type
+            FP = [0.] * Relation_type
+            FN = [0.] * Relation_type
+            F1 = [0.] * Relation_type
+            count_all = 0
+            correct_raw = 0
+            correct_acc = 0
+            while not val_data.epoch_finish:
+                standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = val_data.get_batch(Batch_size)
+                #print(standard_emb.size())
+                #print(e_label)
+                #print(e_posi, r_label, seq_length)
+                #input()
+                ctx = LSTM_layer(standard_emb, seq_length)
+
+                label_emb = torch.zeros((Batch_size, max(seq_length), Label_embed), requires_grad=False).cuda()
+                y_out = torch.zeros(Batch_size, requires_grad=False).long().cuda()
+                y_all = torch.zeros((Batch_size, max(seq_length)), requires_grad=False).long().cuda()
+                for s in range(max(seq_length)):
+                    v_tp, logit, y_out = NER(ctx[:, s, :], y_out)
+                    for i in range(Batch_size):
+                        y_all[i, s] = y_out[i].detach() if s < seq_length[i] else -1
+                        if s > 0 and s <= seq_length[i]:
+                            label_emb[i, s - 1, :] = v_tp[i, :].detach()  # record embedding of label of last time step
+
+                # get label embedding of the last step
+                v_tp, _, _ = NER(torch.zeros(Batch_size, Hidden_size).cuda(), y_out)
+                for i in range(Batch_size):
+                    if seq_length[i] == max(seq_length):
+                        label_emb[i, -1, :] = v_tp[i, :].detach()
+
+                #print(y_all)
+                #print(e_label)
+                #print(label_emb[:, :, 0])
+                #input()
+
+                # compute entity detection accuracy
+                for i in range(Batch_size):
+                    count_all += 1
+                    correct_acc += torch.all(
+                        torch.eq(y_all[i, :seq_length[i]], e_label[i, :seq_length[i]])).long().item()
+                    e1 = y_all[i, :seq_length[i]].nonzero()
+                    e2 = e_label[i, :seq_length[i]].nonzero()
+                    correct_raw += int(torch.equal(e1, e2))
+
+                # get relationship
+                for i in range(Batch_size):
+                    pairs = len(e_posi[i][0]) * len(e_posi[i][1])  # for multiple words in entity
+                    for e1 in e_posi[i][0]:
+                        for e2 in e_posi[i][1]:
+                            gt_posi = [e1, e2]
+                            gt_posi.sort()
+                            gt_result = gt_posi[0] * Relation_type + r_label[i]
+                            #print(gt_posi)
+                            #print(gt_result)
+                            #input()
+                            u = RE(ctx[i:i + 1, :gt_posi[1] + 1, :], label_emb[i:i + 1, :gt_posi[1] + 1, :])
+                            result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
+                            #print(result)
+                            if result[gt_result].item() > Relation_threshold:
+                                TP[r_label[i]] += 1 / pairs
+                            else:
+                                _, false_class = torch.max(u[0, gt_posi[0], :], dim=0)
+                                FN[r_label[i]] += 1 / pairs
+                                FP[false_class] += 1 / pairs
+
+            print("[epoch: %d] \nentity detection accuracy: raw %.4f, accurate %.4f" %
+                  (e, correct_raw / count_all, correct_acc / count_all), flush=True)
+
+            for r in range(Relation_type):
+                F1[r] = (2 * TP[r] + epsilon) / (2 * TP[r] + FP[r] + FN[r] + epsilon)
+
+            with open(LOG_FILE, 'a+') as LogDump:
+                LogWriter = csv.writer(LogDump)
+                LogWriter.writerow(F1)
+            total_F1 = np.average(np.array(F1))
+            micro_F1 = (2 * sum(TP) + epsilon) / (2 * sum(TP) + sum(FP) + sum(FN) + epsilon)
+
+            print('NER loss: %.4f, RE loss: %.4f, val ave F1: %.4f, val micro F1: %.4f' %
+                  (np.average(np.array(NER_losses)), np.average(np.array(RE_losses)), total_F1, micro_F1),
+                  flush=True)
+
+        if (e + 1) % Log_every == 0:
+            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_' + str(e))
+            torch.save(NER.state_dict(), SAVE_DIR + 'NER_' + str(e))
+            torch.save(RE.state_dict(), SAVE_DIR + 'RE_' + str(e))
+
 
 
 def train():
@@ -195,27 +298,38 @@ def train():
     # test_ls = dir_reader(TEST_DIR)
     relations = relation_reader(cache=RELATIONS)
     assert relations['Other'] == 0
+    assert Relation_type == len(relations)
     print(relations)
 
     train_ls, val_ls = training_ls[:len(training_ls) - 800], training_ls[len(training_ls) - 800:]
+    #train_ls, val_ls = training_ls[:2], training_ls[:10]
     train_data = tokenizer((train_ls, TRAIN_DIR), relations, pretrain_type='elmo_repre')
     val_data = tokenizer((val_ls, TRAIN_DIR), relations, pretrain_type='elmo_repre')
     # test_data = tokenizer((test_ls, TEST_DIR), relations, pretrain_type='elmo_repre')
 
     print('%d training data, %d validation data' % (len(train_data.data), len(val_data.data)), flush=True)
 
-    NER = EntityDetect(None, ELMo_size, Label_embed, Hidden_size, 3, Hidden_layer, Dropout).cuda()
-    RE = RelationDetect(Hidden_size, Label_embed, len(relations), Hidden_size, Dropout).cuda()
-
-    NER_criterion = nn.CrossEntropyLoss(ignore_index=-1)
-    RE_criterion = nn.CrossEntropyLoss(ignore_index=-1)
-    NER_optimizer = optim.Adam(NER.parameters(), lr=Learning_rate, weight_decay=Weight_decay)
-    RE_optimizer = optim.Adam(RE.parameters(), lr=Learning_rate, weight_decay=Weight_decay)
+    LSTM_layer = SeqLayer(ELMo_size, Hidden_size, Hidden_layer, Dropout, Bidirection).cuda()
+    NER = EntityDetect(Label_embed, Hidden_size, 3, Dropout).cuda()
+    RE = RelationDetect(Hidden_size, Label_embed, Relation_type, Hidden_size, Dropout).cuda()
 
     print('network initialized', flush=True)
 
+    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM_pretrain_499'))
+    NER.load_state_dict(torch.load(SAVE_DIR + 'NER_pretrain_499'))
+
+    #pretrain_NER(train_data, val_data, LSTM_layer, NER, Learning_rate, Epoch)
+
     if os.path.isdir(LOG_FILE):
         os.rmdir(LOG_FILE)
+
+    end2end(train_data, val_data, LSTM_layer, NER, RE, Learning_rate, Epoch)
+
+    '''
+    NER_criterion = nn.CrossEntropyLoss(ignore_index=-1)
+    RE_criterion = nn.CrossEntropyLoss(ignore_index=-1)
+    NER_optimizer = optim.Adam(NER.parameters(), lr=Learning_rate, weight_decay=Weight_decay)
+    RE_optimizer = optim.Adam(RE.parameters(), lr=Learning_rate, weight_decay=Weight_decay)    
 
     for e in range(Epoch):
         train_data.reset_epoch()
@@ -248,6 +362,7 @@ def train():
 
             total_loss = entity_loss + relation_loss
             total_loss.backward()
+            NER_optimizer.step()
             RE_optimizer.step()
             NER_losses.append(entity_loss.item())
             RE_losses.append(relation_loss.item())
@@ -293,6 +408,7 @@ def train():
         if (e + 1) % Log_every == 0:
             torch.save(NER.state_dict(), SAVE_DIR + 'NER_' + str(e))
             torch.save(RE.state_dict(), SAVE_DIR + 'RE_' + str(e))
+        '''
 
 
 

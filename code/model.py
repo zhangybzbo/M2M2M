@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.autograd import Variable
+from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 import numpy as np
 
 from submodel import SoftDotAttention, EncoderLayer, Highway
@@ -262,23 +263,17 @@ class TransformerNet(nn.Module):
         return padding_mask.cuda()
 
 
-class EntityDetect(nn.Module):
-    def __init__(self, pretrained_embed, word_embed_size, label_embed_size, hidden_size, out_size,
-                 hidden_lnum, dropout_ratio):
-        super(EntityDetect, self).__init__()
-        self.hidden_size = hidden_size
+class SeqLayer(nn.Module):
+    def __init__(self, word_embed_size, hidden_size, hidden_lnum, dropout_ratio, bidirection=True):
+        super(SeqLayer, self).__init__()
+        self.direction = 2 if bidirection else 1
+        self.hidden_size = hidden_size // self.direction
         self.hidden_lnum = hidden_lnum
-        self.out_size = out_size
-        self.label_embed_size = label_embed_size
         self.drop = nn.Dropout(p=dropout_ratio)
 
         # self.wordembed = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
-        self.bi_LSTM = nn.LSTM(word_embed_size, hidden_size, num_layers=hidden_lnum, batch_first=True,
-                               bidirectional=True)
-        self.toph_prepare = nn.Linear(2 * hidden_size, hidden_size)
-        self.top_hidden = nn.LSTMCell(hidden_size + label_embed_size, hidden_size)
-        self.top2label = nn.Linear(hidden_size, out_size)
-        self.labelembed = nn.Embedding(out_size, label_embed_size)
+        self.LSTM = nn.LSTM(word_embed_size, self.hidden_size, num_layers=hidden_lnum, batch_first=True,
+                            bidirectional=bidirection)
 
     def init_state(self, batch_size, num_layer, direction, hidden_size):
         # input size (seq, batch)
@@ -286,44 +281,61 @@ class EntityDetect(nn.Module):
         c0 = Variable(torch.zeros(num_layer * direction, batch_size, hidden_size), requires_grad=False)
         return h0.cuda(), c0.cuda()
 
-    def forward(self, inputs):
+    def forward(self, inputs, seq_length):
         '''
 
-        :param inputs: sequence: B x s
-        :return: top hidden layer: B x s x h
-                detect score: B x s x out
+        :param inputs: sequence embedding: B x s x e
+        :return: sequence ctx: B x s x h
+        '''
+        word_embed = self.drop(inputs)
+        h0, c0 = self.init_state(inputs.size(0), self.hidden_lnum, self.direction, self.hidden_size)
+
+        new_length, perm_idx = torch.tensor(seq_length).sort(0, True)
+        word_embed = word_embed[perm_idx]
+
+        packed_embeds = pack_padded_sequence(word_embed, new_length, batch_first=True)
+        ctx, (ht, ct) = self.LSTM(packed_embeds, (h0, c0))  # B x s x h
+        ctx, lengths = pad_packed_sequence(ctx, batch_first=True)
+
+        recover_idx = np.zeros_like(perm_idx)
+        for i, idx in enumerate(perm_idx):
+            recover_idx[idx] = i
+        ctx, new_length = ctx[recover_idx], new_length[recover_idx]
+        assert len((new_length != torch.tensor(seq_length)).nonzero()) == 0
+
+        ctx = self.drop(ctx)
+
+        return ctx
+
+
+class EntityDetect(nn.Module):
+    def __init__(self, label_embed_size, hidden_size, out_size, dropout_ratio):
+        super(EntityDetect, self).__init__()
+        self.drop = nn.Dropout(p=dropout_ratio)
+        self.sm = nn.Softmax(dim=-1)
+
+        self.hidden_1 = nn.Linear(hidden_size + label_embed_size, hidden_size)
+        self.hidden_2 = nn.Linear(hidden_size, out_size)
+        self.labelembed = nn.Embedding(out_size, label_embed_size)
+
+    '''def init_state(self, batch_size, hidden_size):
+        v0p = Variable(torch.zeros(batch_size, hidden_size), requires_grad=False)
+        return v0p.cuda()'''
+
+    def forward(self, ht, entity_p):
+        '''
+
+        :param inputs: ht from SeqLayer at t: B x h
+                        entity_p t-1 entity lable: B x 1
+        :return: detect score: B x out
                 detect output: B
-                label embedding: B x s x Lemb
         '''
-        # word_embed = self.wordembed(inputs)
-        word_embed = inputs
-        word_embed = self.drop(word_embed)
+        v_tp = self.labelembed(entity_p) # B x lemb
+        h_1 = self.hidden_1(torch.cat((ht, v_tp), dim=-1)) # B x h
+        h_2 = self.hidden_2(h_1)
+        _, y_out= torch.max(self.sm(h_2), dim=-1)  # B
 
-        h0_bi, c0_bi = self.init_state(inputs.size(0), self.hidden_lnum, 2, self.hidden_size)
-        ctx, (ht_bi, ct_bi) = self.bi_LSTM(word_embed, (h0_bi, c0_bi))  # B x s x 2h
-
-        ctx_z = self.toph_prepare(ctx)  # B x s x h
-        z = torch.zeros_like(ctx_z).cuda()  # B x s x h
-        y = torch.zeros(inputs.size(0), inputs.size(1), self.out_size).cuda()
-        y_out = torch.zeros((inputs.size(0), inputs.size(1)), dtype=torch.long)  # B x s
-        b = torch.zeros(inputs.size(0), inputs.size(1), self.label_embed_size).cuda()  # B x s x Lemb
-        ht_top, ct_top = self.init_state(inputs.size(0), 1, 1, self.hidden_size)
-        ht_top, ct_top = ht_top.squeeze(0), ct_top.squeeze(0)
-        bt = torch.zeros((inputs.size(0), self.label_embed_size)).cuda()  # B x Lemb
-        for i in range(inputs.size(1)):
-            top_input = torch.cat((ctx_z[:, i, :], bt), dim=-1)
-            top_input = self.drop(top_input)
-            ht_top, ct_top = self.top_hidden(top_input, (ht_top, ct_top))
-            yt = self.top2label(ht_top)
-            _, yt_out = torch.max(nn.Softmax(dim=-1)(yt), dim=-1)  # B
-            bt = self.labelembed(yt_out)
-
-            z[:, i, :] = ht_top
-            y[:, i, :] = yt
-            y_out[:, i] = yt_out.cpu()
-            b[:, i, :] = bt
-
-        return z, y, y_out, b
+        return v_tp, h_2, y_out
 
 
 class RelationDetect(nn.Module):
@@ -337,17 +349,17 @@ class RelationDetect(nn.Module):
     def forward(self, z, b):
         '''
 
-        :param z: in time t z<=t: B x t x h
-        :param b: in time t b<=t: B x t x Lemb
+        :param z: in time t hidden z<=t: B x t x h
+        :param b: in time t embedding b<=t: B x t x Lemb
         :return: u: B x s x out
         '''
         z = self.drop(z)
         b = self.drop(b)
 
-        seq = torch.cat((z, b), dim=-1) # B x t x h + Lemb
+        seq = torch.cat((z, b), dim=-1)  # B x t x h + Lemb
         seq_mapping = self.W1(seq)
         token = torch.cat((z[:, -1, :], b[:, -1, :]), dim=-1).unsqueeze(1)
-        token = token.expand_as(seq) # B x t x h + Lemb
+        token = token.expand_as(seq)  # B x t x h + Lemb
         token_mapping = self.W2(token)
 
         u = self.v(nn.Tanh()(seq_mapping + token_mapping))
