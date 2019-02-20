@@ -9,7 +9,7 @@ from torch import optim
 from model import SeqLayer, EntityDetect, RelationDetect
 from utils import dir_reader, relation_reader, tokenizer
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 epsilon = sys.float_info.epsilon
 
 SAVE_DIR = 'models/snapshots/'
@@ -18,7 +18,7 @@ TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
 
-Relation_threshold = 0.4
+Relation_threshold = [0.3, 0.4, 0.5]
 Relation_type = 10
 Max_seq_len = 100
 ELMo_size = 1024
@@ -102,8 +102,8 @@ def pretrain_NER(train_data, val_data, LSTM_layer, NER, lr, epoch):
                   (e, correct_raw / float(count_all), correct_acc / float(count_all)), flush=True)
 
         if (e + 1) % Log_every == 0:
-            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_pretrain_' + str(e))
-            torch.save(NER.state_dict(), SAVE_DIR + 'NER_pretrain_' + str(e))
+            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_pretrain_2_' + str(e))
+            torch.save(NER.state_dict(), SAVE_DIR + 'NER_pretrain_2_' + str(e))
 
 
 def get_REteacher(s, length, e_posi, relation):
@@ -204,10 +204,12 @@ def end2end(train_data, val_data, LSTM_layer, NER, RE, lr, epoch):
             LSTM_layer.eval()
             NER.eval()
             RE.eval()
-            TP = [0.] * Relation_type
-            FP = [0.] * Relation_type
-            FN = [0.] * Relation_type
-            F1 = [0.] * Relation_type
+            TP = [[0.] * Relation_type] * len(Relation_threshold)
+            FP = [[0.] * Relation_type] * len(Relation_threshold)
+            FN = [[0.] * Relation_type] * len(Relation_threshold)
+            F1 = [[0.] * Relation_type] * len(Relation_threshold)
+            total_F1 = [0.] * len(Relation_threshold)
+            micro_F1 = [0.] * len(Relation_threshold)
             count_all = 0
             correct_raw = 0
             correct_acc = 0
@@ -263,33 +265,34 @@ def end2end(train_data, val_data, LSTM_layer, NER, RE, lr, epoch):
                             u = RE(ctx[i:i + 1, :gt_posi[1] + 1, :], label_emb[i:i + 1, :gt_posi[1] + 1, :])
                             result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
                             #print(result)
-                            if result[gt_result].item() > Relation_threshold:
-                                TP[r_label[i]] += 1 / pairs
-                            else:
-                                _, false_class = torch.max(u[0, gt_posi[0], :], dim=0)
-                                FN[r_label[i]] += 1 / pairs
-                                FP[false_class] += 1 / pairs
+                            for i, th in enumerate(Relation_threshold):
+                                if result[gt_result].item() > th:
+                                    TP[i][r_label[i]] += 1 / pairs
+                                else:
+                                    _, false_class = torch.max(u[0, gt_posi[0], :], dim=0)
+                                    FN[i][r_label[i]] += 1 / pairs
+                                    FP[i][false_class] += 1 / pairs
 
             print("[epoch: %d] \nentity detection accuracy: raw %.4f, accurate %.4f" %
                   (e, correct_raw / count_all, correct_acc / count_all), flush=True)
+            print('NER loss: %.4f, RE loss: %.4f' % (np.average(np.array(NER_losses)), np.average(np.array(RE_losses))),
+                  flush=True)
 
-            for r in range(Relation_type):
-                F1[r] = (2 * TP[r] + epsilon) / (2 * TP[r] + FP[r] + FN[r] + epsilon)
+            for i, th in enumerate(Relation_threshold):
+                for r in range(Relation_type):
+                    F1[i][r] = (2 * TP[i][r] + epsilon) / (2 * TP[i][r] + FP[i][r] + FN[i][r] + epsilon)
+                total_F1[i] = np.average(np.array(F1[i]))
+                micro_F1[i] = (2 * sum(TP[i]) + epsilon) / (2 * sum(TP[i]) + sum(FP[i]) + sum(FN[i]) + epsilon)
+                print('(threshold %.2f) val ave F1: %.4f, val micro F1: %.4f' % (th, total_F1[i], micro_F1[i]), flush=True)
 
             with open(LOG_FILE, 'a+') as LogDump:
                 LogWriter = csv.writer(LogDump)
-                LogWriter.writerow(F1)
-            total_F1 = np.average(np.array(F1))
-            micro_F1 = (2 * sum(TP) + epsilon) / (2 * sum(TP) + sum(FP) + sum(FN) + epsilon)
-
-            print('NER loss: %.4f, RE loss: %.4f, val ave F1: %.4f, val micro F1: %.4f' %
-                  (np.average(np.array(NER_losses)), np.average(np.array(RE_losses)), total_F1, micro_F1),
-                  flush=True)
+                LogWriter.writerows(F1)
 
         if (e + 1) % Log_every == 0:
-            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_' + str(e))
-            torch.save(NER.state_dict(), SAVE_DIR + 'NER_' + str(e))
-            torch.save(RE.state_dict(), SAVE_DIR + 'RE_' + str(e))
+            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_' + str(e + 500))
+            torch.save(NER.state_dict(), SAVE_DIR + 'NER_' + str(e + 500))
+            torch.save(RE.state_dict(), SAVE_DIR + 'RE_' + str(e + 500))
 
 
 
@@ -315,13 +318,14 @@ def train():
 
     print('network initialized', flush=True)
 
-    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM_pretrain_499'))
-    NER.load_state_dict(torch.load(SAVE_DIR + 'NER_pretrain_499'))
+    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM_499'))
+    NER.load_state_dict(torch.load(SAVE_DIR + 'NER_499'))
+    RE.load_state_dict(torch.load(SAVE_DIR + 'RE_499'))
 
     #pretrain_NER(train_data, val_data, LSTM_layer, NER, Learning_rate, Epoch)
 
-    if os.path.isdir(LOG_FILE):
-        os.rmdir(LOG_FILE)
+    #if os.path.isdir(LOG_FILE):
+    #    os.rmdir(LOG_FILE)
 
     end2end(train_data, val_data, LSTM_layer, NER, RE, Learning_rate, Epoch)
 
