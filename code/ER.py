@@ -1,4 +1,5 @@
 import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import csv
 import sys
 import numpy as np
@@ -9,7 +10,6 @@ from torch import optim
 from model import SeqLayer, EntityDetect, RelationDetect
 from utils import dir_reader, relation_reader, tokenizer
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 epsilon = sys.float_info.epsilon
 
 SAVE_DIR = 'models/snapshots/'
@@ -265,25 +265,25 @@ def end2end(train_data, val_data, LSTM_layer, NER, RE, lr, epoch):
                             u = RE(ctx[i:i + 1, :gt_posi[1] + 1, :], label_emb[i:i + 1, :gt_posi[1] + 1, :])
                             result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
                             #print(result)
-                            for i, th in enumerate(Relation_threshold):
+                            for j, th in enumerate(Relation_threshold):
                                 if result[gt_result].item() > th:
-                                    TP[i][r_label[i]] += 1 / pairs
+                                    TP[j][r_label[i]] += 1 / pairs
                                 else:
                                     _, false_class = torch.max(u[0, gt_posi[0], :], dim=0)
-                                    FN[i][r_label[i]] += 1 / pairs
-                                    FP[i][false_class] += 1 / pairs
+                                    FN[j][r_label[i]] += 1 / pairs
+                                    FP[j][false_class] += 1 / pairs
 
             print("[epoch: %d] \nentity detection accuracy: raw %.4f, accurate %.4f" %
                   (e, correct_raw / count_all, correct_acc / count_all), flush=True)
             print('NER loss: %.4f, RE loss: %.4f' % (np.average(np.array(NER_losses)), np.average(np.array(RE_losses))),
                   flush=True)
 
-            for i, th in enumerate(Relation_threshold):
+            for j, th in enumerate(Relation_threshold):
                 for r in range(Relation_type):
-                    F1[i][r] = (2 * TP[i][r] + epsilon) / (2 * TP[i][r] + FP[i][r] + FN[i][r] + epsilon)
-                total_F1[i] = np.average(np.array(F1[i]))
-                micro_F1[i] = (2 * sum(TP[i]) + epsilon) / (2 * sum(TP[i]) + sum(FP[i]) + sum(FN[i]) + epsilon)
-                print('(threshold %.2f) val ave F1: %.4f, val micro F1: %.4f' % (th, total_F1[i], micro_F1[i]), flush=True)
+                    F1[j][r] = (2 * TP[j][r] + epsilon) / (2 * TP[j][r] + FP[j][r] + FN[j][r] + epsilon)
+                total_F1[j] = np.average(np.array(F1[j]))
+                micro_F1[j] = (2 * sum(TP[j]) + epsilon) / (2 * sum(TP[j]) + sum(FP[j]) + sum(FN[j]) + epsilon)
+                print('(threshold %.2f) val ave F1: %.4f, val micro F1: %.4f' % (th, total_F1[j], micro_F1[j]), flush=True)
 
             with open(LOG_FILE, 'a+') as LogDump:
                 LogWriter = csv.writer(LogDump)
