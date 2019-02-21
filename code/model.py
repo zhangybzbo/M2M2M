@@ -364,3 +364,27 @@ class RelationDetect(nn.Module):
 
         u = self.v(nn.Tanh()(seq_mapping + token_mapping))
         return u
+
+class RelationDetect_woemb(nn.Module):
+    def __init__(self, hidden_size, out_size, map_size, dropout_ratio):
+        super(RelationDetect_woemb, self).__init__()
+        self.drop = nn.Dropout(p=dropout_ratio)
+        self.W1 = nn.Linear(hidden_size, map_size)
+        self.W2 = nn.Linear(hidden_size, map_size)
+        self.v = nn.Linear(map_size, out_size)
+
+    def forward(self, z):
+        '''
+
+        :param z: in time t hidden z<=t: B x t x h
+        :return: u: B x s x out
+        '''
+        # z = self.drop(z)
+
+        seq_mapping = self.W1(z)
+        token = z[:, -1, :].unsqueeze(1)
+        token = token.expand_as(z)  # B x t x h
+        token_mapping = self.W2(token)
+
+        u = self.v(nn.Tanh()(seq_mapping + token_mapping))
+        return u
