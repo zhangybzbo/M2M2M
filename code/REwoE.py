@@ -13,7 +13,7 @@ from utils import dir_reader, relation_reader, tokenizer
 epsilon = sys.float_info.epsilon
 
 SAVE_DIR = 'models/snapshots/'
-LOG_FILE = 'models/val.csv'
+LOG_FILE = 'models/val_wo_entity.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
@@ -30,7 +30,7 @@ Bidirection = True
 Learning_rate = 0.0001
 LR_decay = 10
 Weight_decay = 0.0005
-Epoch = 500
+Epoch = 1000
 Batch_size = 50
 Val_every = 20
 Log_every = 20
@@ -135,9 +135,9 @@ def end2end(train_data, val_data, LSTM_layer, RE, lr, epoch):
                                     FN[j][r_label[i]] += 1 / pairs
                                     FP[j][false_class] += 1 / pairs
 
-            print("[epoch: %d] \n", flush=True)
+            print("[epoch: %d] \n" % e, flush=True)
 
-            for i, th in enumerate(Relation_threshold):
+            for j, th in enumerate(Relation_threshold):
                 for r in range(Relation_type):
                     F1[j][r] = (2 * TP[j][r] + epsilon) / (2 * TP[j][r] + FP[j][r] + FN[j][r] + epsilon)
                 total_F1[j] = np.average(np.array(F1[j]))
