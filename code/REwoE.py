@@ -212,6 +212,8 @@ def test():
     F1 = [[0.] * Relation_type] * len(Relation_threshold)
     total_F1 = [0.] * len(Relation_threshold)
     micro_F1 = [0.] * len(Relation_threshold)
+    total_F1_9 = [0.] * len(Relation_threshold)
+    micro_F1_9 = [0.] * len(Relation_threshold)
     while not test_data.epoch_finish:
         standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = test_data.get_batch(Batch_size)
         # print(standard_emb.size())
@@ -247,7 +249,11 @@ def test():
             F1[j][r] = (2 * TP[j][r] + epsilon) / (2 * TP[j][r] + FP[j][r] + FN[j][r] + epsilon)
         total_F1[j] = np.average(np.array(F1[j]))
         micro_F1[j] = (2 * sum(TP[j]) + epsilon) / (2 * sum(TP[j]) + sum(FP[j]) + sum(FN[j]) + epsilon)
-        print('(threshold %.2f) val ave F1: %.4f, val micro F1: %.4f' % (th, total_F1[j], micro_F1[j]), flush=True)
+        total_F1_9[j] = np.average(np.array(F1[j][1:]))
+        micro_F1_9[j] = (2 * sum(TP[j][1:]) + epsilon) / (2 * sum(TP[j][1:]) + sum(FP[j][1:]) + sum(FN[j][1:]) + epsilon)
+        print('(threshold %.2f)\n' % th, flush=True)
+        print('with other: val ave F1: %.4f, val micro F1: %.4f' % (total_F1[j], micro_F1[j]), flush=True)
+        print('without other: val ave F1: %.4f, val micro F1: %.4f' % (total_F1_9[j], micro_F1_9[j]), flush=True)
 
     with open(TEST_LOG_FILE, 'a+') as LogDump:
         LogWriter = csv.writer(LogDump)
@@ -256,4 +262,5 @@ def test():
 
 
 if __name__ == "__main__":
-    train()
+    # train()
+    test()
