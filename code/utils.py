@@ -106,12 +106,12 @@ class tokenizer(object):
                         new_data['labels'][i] = 1
                         new_data['entity_posi'][0].append(i)
                     elif posi >= t2_b and posi + len(new_data['sentence'][i]) <= t2_l:
-                        new_data['labels'][i] = 2
+                        new_data['labels'][i] = 1
                         new_data['entity_posi'][1].append(i)
                     posi += len(new_data['sentence'][i]) + 1
                     if posi > t1_l and posi > t2_l:
                         break
-                assert 1 in new_data['labels'] and 2 in new_data['labels'], (id, new_data['labels'], line, lines)
+                # assert 1 in new_data['labels'] and 2 in new_data['labels'], (id, new_data['labels'], line, lines)
 
             self.data.append(new_data)
             # print(new_data)

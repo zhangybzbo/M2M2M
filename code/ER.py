@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import csv
 import sys
 import numpy as np
@@ -31,7 +31,7 @@ Bidirection = True
 Learning_rate = 0.0001
 LR_decay = 10
 Weight_decay = 0.0005
-Epoch = 500
+Epoch = 1000
 Batch_size = 50
 Val_every = 20
 Log_every = 20
@@ -102,8 +102,8 @@ def pretrain_NER(train_data, val_data, LSTM_layer, NER, lr, epoch):
                   (e, correct_raw / float(count_all), correct_acc / float(count_all)), flush=True)
 
         if (e + 1) % Log_every == 0:
-            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_pretrain_2_' + str(e))
-            torch.save(NER.state_dict(), SAVE_DIR + 'NER_pretrain_2_' + str(e))
+            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_pretrain_2_' + str(e+1000))
+            torch.save(NER.state_dict(), SAVE_DIR + 'NER_pretrain_2_' + str(e+1000))
 
 
 def get_REteacher(s, length, e_posi, relation):
@@ -290,9 +290,9 @@ def end2end(train_data, val_data, LSTM_layer, NER, RE, lr, epoch):
                 LogWriter.writerows(F1)
 
         if (e + 1) % Log_every == 0:
-            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_' + str(e + 500))
-            torch.save(NER.state_dict(), SAVE_DIR + 'NER_' + str(e + 500))
-            torch.save(RE.state_dict(), SAVE_DIR + 'RE_' + str(e + 500))
+            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_2_' + str(e))
+            torch.save(NER.state_dict(), SAVE_DIR + 'NER_2_' + str(e))
+            torch.save(RE.state_dict(), SAVE_DIR + 'RE_2_' + str(e))
 
 
 
@@ -318,14 +318,14 @@ def train():
 
     print('network initialized', flush=True)
 
-    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM_499'))
-    NER.load_state_dict(torch.load(SAVE_DIR + 'NER_499'))
-    RE.load_state_dict(torch.load(SAVE_DIR + 'RE_499'))
+    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM_pretrain_2_1339'))
+    NER.load_state_dict(torch.load(SAVE_DIR + 'NER_pretrain_2_1339'))
+    # RE.load_state_dict(torch.load(SAVE_DIR + 'RE_499'))
 
-    #pretrain_NER(train_data, val_data, LSTM_layer, NER, Learning_rate, Epoch)
+    # pretrain_NER(train_data, val_data, LSTM_layer, NER, Learning_rate, Epoch)
 
-    #if os.path.isdir(LOG_FILE):
-    #    os.rmdir(LOG_FILE)
+    if os.path.exists(LOG_FILE):
+        os.remove(LOG_FILE)
 
     end2end(train_data, val_data, LSTM_layer, NER, RE, Learning_rate, Epoch)
 
