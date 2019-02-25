@@ -216,10 +216,10 @@ def test():
     micro_F1_9 = [0.] * len(Relation_threshold)
     while not test_data.epoch_finish:
         standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = test_data.get_batch(Batch_size)
-        print(standard_emb.size())
-        print(e_label)
-        print(e_posi, r_label, seq_length)
-        input()
+        #print(standard_emb.size())
+        #print(e_label)
+        #print(e_posi, r_label, seq_length)
+        #input()
         ctx = LSTM_layer(standard_emb, seq_length)
 
         # get relationship
@@ -230,9 +230,9 @@ def test():
                     gt_posi = [e1, e2]
                     gt_posi.sort()
                     gt_result = gt_posi[0] * Relation_type + r_label[i]
-                    print(gt_posi)
-                    print(gt_result)
-                    input()
+                    #print(gt_posi)
+                    #print(gt_result)
+                    #input()
                     u = RE(ctx[i:i + 1, :gt_posi[1] + 1, :])
                     result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
                     print(result)
@@ -240,14 +240,14 @@ def test():
                         if result[gt_result].item() > th:
                             TP[j][r_label[i]] += 1 / pairs
                         else:
-                            _, false_class = torch.max(u[0, gt_posi[0], :], dim=0)
+                            _, false_class = torch.max(u[0, :, :], dim=0)
                             FN[j][r_label[i]] += 1 / pairs
-                            FP[j][false_class] += 1 / pairs
+                            FP[j][false_class % Relation_type] += 1 / pairs
 
-            print(TP)
-            print(FN)
-            print(FP)
-            input()
+            #print(TP)
+            #print(FN)
+            #print(FP)
+            #input()
 
     for j, th in enumerate(Relation_threshold):
         for r in range(Relation_type):
