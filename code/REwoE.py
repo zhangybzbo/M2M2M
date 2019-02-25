@@ -240,7 +240,7 @@ def test():
                         if result[gt_result].item() > th:
                             TP[j][r_label[i]] += 1 / pairs
                         else:
-                            _, false_class = torch.max(u[0, :, :], dim=0)
+                            _, false_class = torch.max(u[0, :, :].view(-1), dim=-1)
                             FN[j][r_label[i]] += 1 / pairs
                             FP[j][false_class % Relation_type] += 1 / pairs
 
