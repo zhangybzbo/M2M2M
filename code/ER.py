@@ -204,10 +204,10 @@ def end2end(train_data, val_data, LSTM_layer, NER, RE, lr, epoch):
             LSTM_layer.eval()
             NER.eval()
             RE.eval()
-            TP = [[0.] * Relation_type] * len(Relation_threshold)
-            FP = [[0.] * Relation_type] * len(Relation_threshold)
-            FN = [[0.] * Relation_type] * len(Relation_threshold)
-            F1 = [[0.] * Relation_type] * len(Relation_threshold)
+            TP = [[[0.] * Relation_type] for _ in range(len(Relation_threshold))]
+            FP = [[[0.] * Relation_type] for _ in range(len(Relation_threshold))]
+            FN = [[[0.] * Relation_type] for _ in range(len(Relation_threshold))]
+            F1 = [[[0.] * Relation_type] for _ in range(len(Relation_threshold))]
             total_F1 = [0.] * len(Relation_threshold)
             micro_F1 = [0.] * len(Relation_threshold)
             count_all = 0

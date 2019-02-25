@@ -99,10 +99,10 @@ def end2end(train_data, val_data, LSTM_layer, RE, lr, epoch):
             val_data.reset_epoch()
             LSTM_layer.eval()
             RE.eval()
-            TP = [[0.] * Relation_type] * len(Relation_threshold)
-            FP = [[0.] * Relation_type] * len(Relation_threshold)
-            FN = [[0.] * Relation_type] * len(Relation_threshold)
-            F1 = [[0.] * Relation_type] * len(Relation_threshold)
+            TP = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+            FP = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+            FN = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+            F1 = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
             total_F1 = [0.] * len(Relation_threshold)
             micro_F1 = [0.] * len(Relation_threshold)
             while not val_data.epoch_finish:
@@ -206,20 +206,20 @@ def test():
     test_data.reset_epoch()
     LSTM_layer.eval()
     RE.eval()
-    TP = [[0.] * Relation_type] * len(Relation_threshold)
-    FP = [[0.] * Relation_type] * len(Relation_threshold)
-    FN = [[0.] * Relation_type] * len(Relation_threshold)
-    F1 = [[0.] * Relation_type] * len(Relation_threshold)
+    TP = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    FP = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    FN = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    F1 = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
     total_F1 = [0.] * len(Relation_threshold)
     micro_F1 = [0.] * len(Relation_threshold)
     total_F1_9 = [0.] * len(Relation_threshold)
     micro_F1_9 = [0.] * len(Relation_threshold)
     while not test_data.epoch_finish:
         standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = test_data.get_batch(Batch_size)
-        # print(standard_emb.size())
-        # print(e_label)
-        # print(e_posi, r_label, seq_length)
-        # input()
+        print(standard_emb.size())
+        print(e_label)
+        print(e_posi, r_label, seq_length)
+        input()
         ctx = LSTM_layer(standard_emb, seq_length)
 
         # get relationship
@@ -230,12 +230,12 @@ def test():
                     gt_posi = [e1, e2]
                     gt_posi.sort()
                     gt_result = gt_posi[0] * Relation_type + r_label[i]
-                    # print(gt_posi)
-                    # print(gt_result)
-                    # input()
+                    print(gt_posi)
+                    print(gt_result)
+                    input()
                     u = RE(ctx[i:i + 1, :gt_posi[1] + 1, :])
                     result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
-                    # print(result)
+                    print(result)
                     for j, th in enumerate(Relation_threshold):
                         if result[gt_result].item() > th:
                             TP[j][r_label[i]] += 1 / pairs
@@ -243,6 +243,11 @@ def test():
                             _, false_class = torch.max(u[0, gt_posi[0], :], dim=0)
                             FN[j][r_label[i]] += 1 / pairs
                             FP[j][false_class] += 1 / pairs
+
+            print(TP)
+            print(FN)
+            print(FP)
+            input()
 
     for j, th in enumerate(Relation_threshold):
         for r in range(Relation_type):
