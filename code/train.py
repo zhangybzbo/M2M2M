@@ -19,7 +19,7 @@ code_list = 'codels.txt'
 char_list = 'charls.txt'
 pretrained = 'Health_2.5mreviews.s200.w10.n5.v15.cbow.txt'
 
-Freeze_emb = True
+Freeze_emb = False
 Max_seq_len = 40 if Pretrain_type == 'bert' else 35
 HealthVec_size = 200
 Embedding_size = 200 + 768 if Pretrain_type == 'bert' else 200 + 1024
@@ -29,12 +29,12 @@ D_k = 64
 D_v = 64
 Num_layers = 6
 Num_head = 5
-Dropout = 0.2
+Dropout = 0.3
 
 Learning_rate = 0.0001
 Weight_decay = 0.0015
 LR_decay = 0.5
-Epoch = 600
+Epoch = 300
 LR_decay_epoch = 300
 Batch_size = 100
 Val_every = 20
