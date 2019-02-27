@@ -132,7 +132,7 @@ class tokenizer(object):
             self.pre_model.eval()
 
 
-        with open(datafile) as f:
+        with open(datafile, encoding='windows-1252') as f:
             '''for line in f.readlines():
                 new_data = dict()
                 #code = line.strip().split('\t')[1]

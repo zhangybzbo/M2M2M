@@ -85,6 +85,7 @@ def train():
         train_data = tokenizer(word_id, code_id, train_file, pretrain_type=Pretrain_type)
         val_data = tokenizer(word_id, code_id, val_file, pretrain_type=Pretrain_type)
 
+        print(train_data.max_length, val_data.max_length)
         print('Fold %d: %d training data, %d validation data' % (fold, len(train_data.data), len(val_data.data)),
               flush=True)
 
@@ -122,7 +123,7 @@ def train():
                     results = Net(seq, seq_pos, standard_emb)
                     _, idx = results.max(1)
                     val_correct += len((idx == label).nonzero())
-                    i += 833
+                    i += Batch_size
                 # assert i == len(val_data.data)
                 val_accuracy = float(val_correct) / float(len(val_data.data))
 
