@@ -175,12 +175,12 @@ class TransformerNet(nn.Module):
     '''transformer'''
 
     def __init__(self, pretrain_type, pretrained_embed, len_max_seq, embedding_size, inner_hid_size, output_size, d_k,
-                 d_v, dropout_ratio=0.1, num_layers=6, num_head=8):
+                 d_v, dropout_ratio=0.1, num_layers=6, num_head=8, Freeze=False):
         super(TransformerNet, self).__init__()
         self.n_position = len_max_seq + 1
         self.pretrain_type = pretrain_type
 
-        self.HealthVec = nn.Embedding.from_pretrained(pretrained_embed, freeze=True)
+        self.HealthVec = nn.Embedding.from_pretrained(pretrained_embed, freeze=Freeze)
         self.pos_encode = nn.Embedding.from_pretrained(
             self.get_sinusoid_encoding_table(self.n_position, embedding_size, padding_idx=0), freeze=True)
         if pretrain_type == 'elmo_layer':

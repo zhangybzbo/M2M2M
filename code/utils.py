@@ -44,6 +44,40 @@ def relation_reader(filels=None, cache=None):
     return relation2index
 
 
+def word_reader(filels=None, cache=None):
+    word2index = {}
+
+    if filels:
+        i = 0
+        with open(cache) as f:
+            for i, w in enumerate(f.readlines()):
+                word2index[w.strip()] = i
+        print(word2index)
+        print(i)
+        input()
+        fw = open(cache, "a+")
+        for id in filels[0]:
+            with open(filels[1] + id + '.txt') as ftxt:
+                line = ftxt.readlines()
+                assert len(line) == 1
+                line = line[0].strip()
+                words = line.split(' ')
+                for word in words:
+                    if (word.strip().lower() not in word2index) and (not word.strip() == ''):
+                        word2index[word.strip().lower()] = i
+                        i += 1
+                        fw.write(word.strip().lower() + '\n')
+        fw.close()
+        print(i)
+        input()
+    elif cache:
+        with open(cache) as fw:
+            for i, w in enumerate(fw.readlines()):
+                word2index[w.strip()] = i
+
+    return word2index
+
+
 class tokenizer(object):
     def __init__(self, filels, relationsls, pretrain_type=None):
         self.data = []
@@ -161,3 +195,15 @@ class tokenizer(object):
             self.epoch_finish = True
 
         return pre_model, entity_label, entity_posi, relation_label, seq_length, mask, posi
+
+
+if __name__ == '__main__':
+    ls = dir_reader('corpus/train/')
+    word2index = word_reader((ls, 'corpus/train/'), 'data/corpus.txt')
+    print(word2index)
+    print(len(word2index))
+    input()
+    ls = dir_reader('corpus/test/')
+    word2index = word_reader((ls, 'corpus/test/'), 'data/corpus.txt')
+    print(word2index)
+    print(len(word2index))

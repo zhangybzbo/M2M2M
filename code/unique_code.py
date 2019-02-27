@@ -9,10 +9,9 @@ import random
 
 random.seed(1)
 
-file_list = ['test_0.csv', 'test_1.csv', 'test_2.csv', 'test_3.csv', 'test_4.csv',
-             'train_0.csv', 'train_1.csv', 'train_2.csv', 'train_3.csv', 'train_4.csv']
-file_list_2 = ['train_final.txt', 'test_final.txt']
-file_dir = 'data/'
+file_list = ['AskAPatient/AskAPatient.fold-0.test.txt', 'AskAPatient/AskAPatient.fold-0.train.txt', 'AskAPatient/AskAPatient.fold-0.validation.txt']
+file_list_2 = ['TwADR-L/TwADR-L.fold-0.test.txt', 'TwADR-L/TwADR-L.fold-0.train.txt', 'TwADR-L/TwADR-L.fold-0.validation.txt']
+file_dir = 'datasets/'
 save_code = 'codels.txt'
 save_word = 'wordls.txt'
 save_char = 'charls.txt'
@@ -29,13 +28,11 @@ def read_file():
     code_list = []
     word_list = []
     for f in file_list_2:
-        with open(file_dir + f) as fr:
+        with open(file_dir + f, encoding='windows-1252') as fr:
             for line in fr.readlines():
-                '''
-                code = line.strip().split('\t')[1]
-                phrase = line.strip().split('\t')[0]
-                words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
-                '''
+                '''# code = line.strip().split('\t')[1]
+                # phrase = line.strip().split('\t')[0]
+                # words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
                 code = line.strip().split('\t')[2]
                 phrase = line.strip().split('\t')[1]
                 words = re.split(' |,|\)|\(|-|/|\.|\'|\"|\[|\]|\\\\', phrase.strip())
@@ -43,9 +40,19 @@ def read_file():
                     code_list.append(code)
                     fw.write(code + '\n')
                 for word in words:
-                    if (word.strip() not in word_list) and (not word.strip() == ''):
-                        word_list.append(word.strip())
-                        fw_2.write(word + '\n')
+                    if (word.strip().lower() not in word_list) and (not word.strip() == ''):
+                        word_list.append(word.strip().lower())
+                        fw_2.write(word.lower() + '\n')'''
+                code = line.strip().split('\t')[0]
+                if code not in code_list:
+                    code_list.append(code)
+                    fw.write(code + '\n')
+                for phrase in line.strip().split('\t')[1:]:
+                    words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
+                    for word in words:
+                        if (word.strip().lower() not in word_list) and (not word.strip() == ''):
+                            word_list.append(word.strip().lower())
+                            fw_2.write(word.lower() + '\n')
 
     fw.close()
     fw_2.close()
@@ -124,14 +131,13 @@ class tokenizer(object):
             self.pre_model = BertModel.from_pretrained('bert-base-uncased').cuda()
             self.pre_model.eval()
 
+
         with open(datafile) as f:
-            for line in f.readlines():
+            '''for line in f.readlines():
                 new_data = dict()
-                '''
-                code = line.strip().split('\t')[1]
-                phrase = line.strip().split('\t')[0]
-                words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
-                '''
+                #code = line.strip().split('\t')[1]
+                #phrase = line.strip().split('\t')[0]
+                #words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
                 code = line.strip().split('\t')[2]
                 phrase = line.strip().split('\t')[1]
                 words = re.split(' |,|\)|\(|-|/|\.|\'|\"|\[|\]|\\\\', phrase.strip())
@@ -162,7 +168,42 @@ class tokenizer(object):
                 new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
                 new_data['code'] = codels[code]
 
-                self.data.append(new_data)
+                self.data.append(new_data)'''
+
+            for line in f.readlines():
+
+                code = line.strip().split('\t')[0]
+                for phrase in line.strip().split('\t')[1:]:
+                    new_data = dict()
+                    words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
+                    words = [word.strip().lower() for word in words if not word.strip() == '']
+                    wordtok = [wordls[word] for word in words]
+
+                    new_data['phrase'] = wordtok
+                    new_data['length'] = len(wordtok)
+                    new_data['emb_length'] = len(wordtok)  # for bert when using rare word
+
+                    if pretrain_type == 'elmo_repre':
+                        elmo_id = batch_to_ids([words]).cuda()
+                        pre_embed = self.pre_model(elmo_id)
+                        new_data['emb'] = pre_embed['elmo_representations'][1].squeeze(0).detach()
+                    elif pretrain_type == 'elmo_layer':
+                        pre_embed = self.pre_model.embed_sentence(words)
+                        new_data['emb'] = torch.zeros((3, len(wordtok), 1024), requires_grad=False)
+                        for i in range(3):
+                            new_data['emb'][i, :, :] = torch.from_numpy(pre_embed[i])
+                    elif pretrain_type == 'bert':
+                        bert_text = tokenizer.tokenize(' '.join(words))
+                        bert_token = tokenizer.convert_tokens_to_ids(bert_text)
+                        bert_tensor = torch.tensor([bert_token]).cuda()
+                        new_data['emb_length'] = len(bert_token)
+                        pre_embed, _ = self.pre_model(bert_tensor)
+                        new_data['emb'] = pre_embed[11].squeeze(0).detach()
+
+                    new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
+                    new_data['code'] = codels[code]
+
+                    self.data.append(new_data)
 
         self.max_length = max([l['emb_length'] for l in self.data])
 
@@ -327,6 +368,8 @@ class SpellChecker(object):
 
 if __name__ == "__main__":
     read_file()
-    # word_vocab = read_vocab('data/wordls.txt')
-    # print(len(word_vocab))
+    word_vocab = read_vocab('datasets/wordls_2.txt')
+    print(len(word_vocab))
+    code_vocab = read_vocab('datasets/codels_2.txt')
+    print(len(code_vocab))
     # get_character(word_vocab)
