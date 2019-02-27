@@ -130,7 +130,7 @@ def train():
                       ' validation: %d correct, %.4f accuracy' %
                       (fold, e, loss.item(), train_correct, train_accuracy, val_correct, val_accuracy), flush=True)
 
-                torch.save(Net.state_dict(), SAVE_DIR + 'Net_' + str(e))
+                torch.save(Net.state_dict(), SAVE_DIR + 'Net_' + str(fold) + str(e))
 
             if (e + 1) % LR_decay_epoch == 0:
                 adjust_learning_rate(optimizer, LR_decay)
@@ -142,6 +142,44 @@ def train():
         gc.collect()
 
     print('finial validation accuracy: %.4f' % (Acc / 10))
+
+def test():
+    pretrain, code_id, word_id = source_prepare()
+    print('%d different words, %d different codes' % (len(word_id), len(code_id)), flush=True)
+
+    Acc = 0.
+    for fold in range(10):
+        Net = TransformerNet(Pretrain_type, pretrain, Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
+                             D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head, Freeze=Freeze_emb).cuda()
+        Net.load_state_dict(torch.load(SAVE_DIR + 'Net_' + str(fold) + '_299'))
+        Net.eval()
+
+        test_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.test.txt'
+        test_data = tokenizer(word_id, code_id, test_file, pretrain_type=Pretrain_type)
+
+        print('Fold %d: %d test data' % (fold, len(test_data.data)))
+        print('max length: %d' % test_data.max_length, flush=True)
+
+        test_data.reset_epoch()
+        test_correct = 0
+        i = 0
+        while not test_data.epoch_finish:
+            seq, label, seq_length, mask, seq_pos, standard_emb = test_data.get_batch(1)
+            results = Net(seq, seq_pos, standard_emb)
+            _, idx = results.max(1)
+            test_correct += len((idx == label).nonzero())
+            i += Batch_size
+        assert i == len(test_data.data)
+        test_accuracy = float(test_correct) / float(i)
+
+        print('[fold %d] test: %d correct, %.4f accuracy' % (fold, test_correct, test_accuracy), flush=True)
+
+        Acc += test_accuracy
+
+        del test_data
+        gc.collect()
+
+    print('finial validation accuracy: %.4f' % (Acc / 10), flush=True)
 
 
 if __name__ == "__main__":
