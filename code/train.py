@@ -1,7 +1,7 @@
 import os
 import gc
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import torch
 import torch.nn as nn
 from torch import optim
@@ -37,7 +37,7 @@ LR_decay = 0.5
 Epoch = 600
 LR_decay_epoch = 300
 Batch_size = 100
-Val_every = 50
+Val_every = 20
 
 torch.manual_seed(1)
 torch.cuda.manual_seed(1)
@@ -85,9 +85,8 @@ def train():
         train_data = tokenizer(word_id, code_id, train_file, pretrain_type=Pretrain_type)
         val_data = tokenizer(word_id, code_id, val_file, pretrain_type=Pretrain_type)
 
-        print(train_data.max_length, val_data.max_length)
-        print('Fold %d: %d training data, %d validation data' % (fold, len(train_data.data), len(val_data.data)),
-              flush=True)
+        print('Fold %d: %d training data, %d validation data' % (fold, len(train_data.data), len(val_data.data)))
+        print('max length: %d %d' % (train_data.max_length, val_data.max_length), flush=True)
 
         for e in range(Epoch):
             train_data.reset_epoch()
