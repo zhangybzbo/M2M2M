@@ -111,19 +111,19 @@ def train():
                     _, idx = results.max(1)
                     train_correct += len((idx == label).nonzero())
                     i += Batch_size
-                assert i == len(train_data.data)
+                # assert i == len(train_data.data)
                 train_accuracy = float(train_correct) / float(i)
 
                 val_data.reset_epoch()
                 val_correct = 0
                 i = 0
                 while not val_data.epoch_finish:
-                    seq, label, seq_length, mask, seq_pos, standard_emb = val_data.get_batch(833)
+                    seq, label, seq_length, mask, seq_pos, standard_emb = val_data.get_batch(Batch_size)
                     results = Net(seq, seq_pos, standard_emb)
                     _, idx = results.max(1)
                     val_correct += len((idx == label).nonzero())
                     i += 833
-                assert i == len(val_data.data)
+                # assert i == len(val_data.data)
                 val_accuracy = float(val_correct) / float(len(val_data.data))
 
                 print('[fold %d epoch %d] training loss: %.4f, % d correct, %.4f accuracy;'
