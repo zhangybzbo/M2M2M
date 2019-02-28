@@ -14,6 +14,7 @@ epsilon = sys.float_info.epsilon
 
 SAVE_DIR = 'models/snapshots/'
 LOG_FILE = 'models/val.csv'
+TEST_LOG_FILE = 'models/val_test.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
@@ -414,7 +415,126 @@ def train():
             torch.save(RE.state_dict(), SAVE_DIR + 'RE_' + str(e))
         '''
 
+def test():
+    test_ls = dir_reader(TEST_DIR)
+    relations = relation_reader(cache=RELATIONS)
+    assert relations['Other'] == 0
+    assert Relation_type == len(relations)
+    print(relations)
 
+    test_data = tokenizer((test_ls, TEST_DIR), relations, pretrain_type='elmo_repre')
+    print('%d test data' % len(test_data.data), flush=True)
+
+    LSTM_layer = SeqLayer(ELMo_size, Hidden_size, Hidden_layer, Dropout, Bidirection).cuda()
+    NER = EntityDetect(Label_embed, Hidden_size, 3, Dropout).cuda()
+    RE = RelationDetect(Hidden_size, Label_embed, Relation_type, Hidden_size, Dropout).cuda()
+
+    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM_2_999'))
+    NER.load_state_dict(torch.load(SAVE_DIR + 'NER_2_999'))
+    RE.load_state_dict(torch.load(SAVE_DIR + 'RE_2_999'))
+
+    print('network initialized', flush=True)
+
+    if os.path.exists(TEST_LOG_FILE):
+        os.remove(TEST_LOG_FILE)
+
+    test_data.reset_epoch()
+    LSTM_layer.eval()
+    NER.eval()
+    RE.eval()
+    TP = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    FP = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    FN = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    F1 = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    total_F1 = [0.] * len(Relation_threshold)
+    micro_F1 = [0.] * len(Relation_threshold)
+    total_F1_9 = [0.] * len(Relation_threshold)
+    micro_F1_9 = [0.] * len(Relation_threshold)
+    count_all = 0
+    correct_raw = 0
+
+    while not test_data.epoch_finish:
+        standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = test_data.get_batch(Batch_size)
+        # print(standard_emb.size())
+        # print(e_label)
+        # print(e_posi, r_label, seq_length)
+        # input()
+        ctx = LSTM_layer(standard_emb, seq_length)
+
+        label_emb = torch.zeros((Batch_size, max(seq_length), Label_embed), requires_grad=False).cuda()
+        y_out = torch.zeros(Batch_size, requires_grad=False).long().cuda()
+        y_all = torch.zeros((Batch_size, max(seq_length)), requires_grad=False).long().cuda()
+        for s in range(max(seq_length)):
+            v_tp, logit, y_out = NER(ctx[:, s, :], y_out)
+            for i in range(Batch_size):
+                y_all[i, s] = y_out[i].detach() if s < seq_length[i] else -1
+                if s > 0 and s <= seq_length[i]:
+                    label_emb[i, s - 1, :] = v_tp[i, :].detach()  # record embedding of label of last time step
+
+        # get label embedding of the last step
+        v_tp, _, _ = NER(torch.zeros(Batch_size, Hidden_size).cuda(), y_out)
+        for i in range(Batch_size):
+            if seq_length[i] == max(seq_length):
+                label_emb[i, -1, :] = v_tp[i, :].detach()
+
+        # print(y_all)
+        # print(e_label)
+        # print(label_emb[:, :, 0])
+        # input()
+
+        # compute entity detection accuracy
+        for i in range(Batch_size):
+            count_all += 1
+            e1 = y_all[i, :seq_length[i]].nonzero()
+            e2 = e_label[i, :seq_length[i]].nonzero()
+            correct_raw += int(torch.equal(e1, e2))
+
+        # get relationship
+        for i in range(Batch_size):
+            for s in range(1, seq_length[i] + 1):  # s is the count of word number
+                if s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
+                    gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][1]]
+                elif s - 1 in e_posi[i][1] and e_posi[i][1][0] > e_posi[i][0][0]:
+                    gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][0]]
+                else:
+                    gts = [(s - 1) * Relation_type]
+
+                u = RE(ctx[i:i + 1, :s, :], label_emb[i:i + 1, :s, :])
+                result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
+
+                for j, th in enumerate(Relation_threshold):
+                    candidates = (result > th).nonzero()
+                    for gt in gts:
+                        if gt in candidates and gt != (s - 1) * Relation_type:
+                            # correct find relation
+                            TP[j][r_label[i]] += 1
+                            candidates = candidates[candidates != gt]
+                        elif gt not in candidates and gt != (s - 1) * Relation_type:
+                            # not find relation
+                            FN[j][r_label[i]] += 1
+                        elif gt in candidates and gt == (s - 1) * Relation_type:
+                            # no relation and get it right
+                            candidates = candidates[candidates != gt]
+                    for candidate in candidates:
+                        # the rest are wrong class
+                        FP[j][candidate % Relation_type] += 1
+
+    for j, th in enumerate(Relation_threshold):
+        for r in range(Relation_type):
+            F1[j][r] = (2 * TP[j][r] + epsilon) / (2 * TP[j][r] + FP[j][r] + FN[j][r] + epsilon)
+        total_F1[j] = np.average(np.array(F1[j]))
+        micro_F1[j] = (2 * sum(TP[j]) + epsilon) / (2 * sum(TP[j]) + sum(FP[j]) + sum(FN[j]) + epsilon)
+        total_F1_9[j] = np.average(np.array(F1[j][1:]))
+        micro_F1_9[j] = (2 * sum(TP[j][1:]) + epsilon) / (
+                    2 * sum(TP[j][1:]) + sum(FP[j][1:]) + sum(FN[j][1:]) + epsilon)
+        print('(threshold %.2f)' % th, flush=True)
+        print('with other: val ave F1: %.4f, val micro F1: %.4f' % (total_F1[j], micro_F1[j]), flush=True)
+        print('without other: val ave F1: %.4f, val micro F1: %.4f' % (total_F1_9[j], micro_F1_9[j]), flush=True)
+
+    with open(TEST_LOG_FILE, 'a+') as LogDump:
+        LogWriter = csv.writer(LogDump)
+        LogWriter.writerows(F1)
 
 if __name__ == "__main__":
-    train()
+    #train()
+    test()
