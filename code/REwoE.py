@@ -14,7 +14,7 @@ epsilon = sys.float_info.epsilon
 
 SAVE_DIR = 'models/snapshots/'
 LOG_FILE = 'models/val_wo_entity.csv'
-TEST_LOG_FILE = 'models/val_wo_entity_test.csv'
+TEST_LOG_FILE = 'models/val_wo_entity_test_2.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
@@ -31,7 +31,7 @@ Bidirection = True
 Learning_rate = 0.0005
 Weight_decay = 0.0005
 Epoch = 1000
-Batch_size = 1
+Batch_size = 50
 Val_every = 20
 Log_every = 20
 
@@ -216,10 +216,10 @@ def test():
     micro_F1_9 = [0.] * len(Relation_threshold)
     while not test_data.epoch_finish:
         standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = test_data.get_batch(Batch_size)
-        print(standard_emb.size())
-        print(e_label)
-        print(e_posi, r_label, seq_length)
-        input()
+        #print(standard_emb.size())
+        #print(e_label)
+        #print(e_posi, r_label, seq_length)
+        #input()
         ctx = LSTM_layer(standard_emb, seq_length)
 
         # get relationship
@@ -252,17 +252,17 @@ def test():
                     gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][0]]
                 else:
                     gts = [(s - 1) * Relation_type]
-                print(gts)
+                #print(gts)
 
                 u = RE(ctx[i:i + 1, :s, :])
                 result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
-                print(result)
-                print(result.size())
-                input()
+                #print(result)
+                #print(result.size())
+                #input()
 
                 for j, th in enumerate(Relation_threshold):
                     candidates = (result > th).nonzero()
-                    print(candidates)
+                    #print(candidates)
                     for gt in gts:
                         if gt in candidates and gt != (s - 1) * Relation_type:
                             # correct find relation
@@ -277,10 +277,10 @@ def test():
                     for candidate in candidates:
                         # the rest are wrong class
                         FP[j][candidate % Relation_type] += 1
-                    print(TP[j])
-                    print(FN[j])
-                    print(FP[j])
-                    input()
+                    #print(TP[j])
+                    #print(FN[j])
+                    #print(FP[j])
+                    #input()
 
 
     for j, th in enumerate(Relation_threshold):
