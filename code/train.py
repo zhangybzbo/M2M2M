@@ -14,8 +14,8 @@ Pretrain_type = 'elmo_repre'  # bert / elmo_repre / elmo_layer
 DATA_path = 'datasets/'
 MODEL_path = 'models/'
 SAVE_DIR = 'models/Normal/'
-word_list = 'wordls.txt'
-code_list = 'codels.txt'
+word_list = 'wordls_2.txt'
+code_list = 'codels_2.txt'
 char_list = 'charls.txt'
 pretrained = 'Health_2.5mreviews.s200.w10.n5.v15.cbow.txt'
 
@@ -80,8 +80,8 @@ def train():
                              D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head, Freeze=Freeze_emb).cuda()
         optimizer = optim.Adam(Net.parameters(), lr=Learning_rate, eps=1e-08, weight_decay=Weight_decay)
 
-        train_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.train.txt'
-        val_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.validation.txt'
+        train_file = DATA_path + 'AskAPatient/TwADR-L.fold-' + str(fold) + '.train.txt'
+        val_file = DATA_path + 'AskAPatient/TwADR-L.fold-' + str(fold) + '.validation.txt'
         train_data = tokenizer(word_id, code_id, train_file, pretrain_type=Pretrain_type)
         val_data = tokenizer(word_id, code_id, val_file, pretrain_type=Pretrain_type)
 
@@ -130,7 +130,7 @@ def train():
                       ' validation: %d correct, %.4f accuracy' %
                       (fold, e, loss.item(), train_correct, train_accuracy, val_correct, val_accuracy), flush=True)
 
-                torch.save(Net.state_dict(), SAVE_DIR + 'Net_' + str(fold) + str(e))
+                torch.save(Net.state_dict(), SAVE_DIR + 'Net_' + str(fold) + '_' + str(e))
 
             if (e + 1) % LR_decay_epoch == 0:
                 adjust_learning_rate(optimizer, LR_decay)
@@ -154,7 +154,7 @@ def test():
         Net.load_state_dict(torch.load(SAVE_DIR + 'Net_' + str(fold) + '_299'))
         Net.eval()
 
-        test_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.test.txt'
+        test_file = DATA_path + 'AskAPatient/TwADR-L.fold-' + str(fold) + '.test.txt'
         test_data = tokenizer(word_id, code_id, test_file, pretrain_type=Pretrain_type)
 
         print('Fold %d: %d test data' % (fold, len(test_data.data)))
@@ -184,3 +184,4 @@ def test():
 
 if __name__ == "__main__":
     train()
+    test()
