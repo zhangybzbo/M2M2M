@@ -80,8 +80,8 @@ def train():
                              D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head, Freeze=Freeze_emb).cuda()
         optimizer = optim.Adam(Net.parameters(), lr=Learning_rate, eps=1e-08, weight_decay=Weight_decay)
 
-        train_file = DATA_path + 'AskAPatient/TwADR-L.fold-' + str(fold) + '.train.txt'
-        val_file = DATA_path + 'AskAPatient/TwADR-L.fold-' + str(fold) + '.validation.txt'
+        train_file = DATA_path + 'TwADR-L/TwADR-L.fold-' + str(fold) + '.train.txt'
+        val_file = DATA_path + 'TwADR-L/TwADR-L.fold-' + str(fold) + '.validation.txt'
         train_data = tokenizer(word_id, code_id, train_file, pretrain_type=Pretrain_type)
         val_data = tokenizer(word_id, code_id, val_file, pretrain_type=Pretrain_type)
 
@@ -154,7 +154,7 @@ def test():
         Net.load_state_dict(torch.load(SAVE_DIR + 'Net_' + str(fold) + '_299'))
         Net.eval()
 
-        test_file = DATA_path + 'AskAPatient/TwADR-L.fold-' + str(fold) + '.test.txt'
+        test_file = DATA_path + 'TwADR-L/TwADR-L.fold-' + str(fold) + '.test.txt'
         test_data = tokenizer(word_id, code_id, test_file, pretrain_type=Pretrain_type)
 
         print('Fold %d: %d test data' % (fold, len(test_data.data)))
