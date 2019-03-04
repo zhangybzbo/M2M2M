@@ -23,11 +23,11 @@ elmo_weights = 'models/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5'
 
 def read_file():
     '''get code & word list, dump into two files'''
-    fw = open(file_dir + save_code_2, "w")
-    fw_2 = open(file_dir + save_word_2, 'w')
+    fw = open(file_dir + save_code, "w")
+    fw_2 = open(file_dir + save_word, 'w')
     code_list = []
     word_list = []
-    for f in file_list_2:
+    for f in file_list:
         with open(file_dir + f, encoding='windows-1252') as fr:
             for line in fr.readlines():
                 '''# code = line.strip().split('\t')[1]
@@ -47,12 +47,12 @@ def read_file():
                 if code not in code_list:
                     code_list.append(code)
                     fw.write(code + '\n')
-                for phrase in line.strip().split('\t')[1:]:
-                    words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
-                    for word in words:
-                        if (word.strip().lower() not in word_list) and (not word.strip() == ''):
-                            word_list.append(word.strip().lower())
-                            fw_2.write(word.lower() + '\n')
+                phrase = line.strip().split('\t')[2]
+                words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
+                for word in words:
+                    if (word.strip().lower() not in word_list) and (not word.strip() == ''):
+                        word_list.append(word.strip().lower())
+                        fw_2.write(word.lower() + '\n')
 
     fw.close()
     fw_2.close()
@@ -173,37 +173,37 @@ class tokenizer(object):
             for line in f.readlines():
 
                 code = line.strip().split('\t')[0]
-                for phrase in line.strip().split('\t')[1:]:
-                    new_data = dict()
-                    words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
-                    words = [word.strip().lower() for word in words if not word.strip() == '']
-                    wordtok = [wordls[word] for word in words]
+                phrase = line.strip().split('\t')[2]
+                new_data = dict()
+                words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
+                words = [word.strip().lower() for word in words if not word.strip() == '']
+                wordtok = [wordls[word] for word in words]
 
-                    new_data['phrase'] = wordtok
-                    new_data['length'] = len(wordtok)
-                    new_data['emb_length'] = len(wordtok)  # for bert when using rare word
+                new_data['phrase'] = wordtok
+                new_data['length'] = len(wordtok)
+                new_data['emb_length'] = len(wordtok)  # for bert when using rare word
 
-                    if pretrain_type == 'elmo_repre':
-                        elmo_id = batch_to_ids([words]).cuda()
-                        pre_embed = self.pre_model(elmo_id)
-                        new_data['emb'] = pre_embed['elmo_representations'][1].squeeze(0).detach()
-                    elif pretrain_type == 'elmo_layer':
-                        pre_embed = self.pre_model.embed_sentence(words)
-                        new_data['emb'] = torch.zeros((3, len(wordtok), 1024), requires_grad=False)
-                        for i in range(3):
-                            new_data['emb'][i, :, :] = torch.from_numpy(pre_embed[i])
-                    elif pretrain_type == 'bert':
-                        bert_text = tokenizer.tokenize(' '.join(words))
-                        bert_token = tokenizer.convert_tokens_to_ids(bert_text)
-                        bert_tensor = torch.tensor([bert_token]).cuda()
-                        new_data['emb_length'] = len(bert_token)
-                        pre_embed, _ = self.pre_model(bert_tensor)
-                        new_data['emb'] = pre_embed[11].squeeze(0).detach()
+                if pretrain_type == 'elmo_repre':
+                    elmo_id = batch_to_ids([words]).cuda()
+                    pre_embed = self.pre_model(elmo_id)
+                    new_data['emb'] = pre_embed['elmo_representations'][1].squeeze(0).detach()
+                elif pretrain_type == 'elmo_layer':
+                    pre_embed = self.pre_model.embed_sentence(words)
+                    new_data['emb'] = torch.zeros((3, len(wordtok), 1024), requires_grad=False)
+                    for i in range(3):
+                        new_data['emb'][i, :, :] = torch.from_numpy(pre_embed[i])
+                elif pretrain_type == 'bert':
+                    bert_text = tokenizer.tokenize(' '.join(words))
+                    bert_token = tokenizer.convert_tokens_to_ids(bert_text)
+                    bert_tensor = torch.tensor([bert_token]).cuda()
+                    new_data['emb_length'] = len(bert_token)
+                    pre_embed, _ = self.pre_model(bert_tensor)
+                    new_data['emb'] = pre_embed[11].squeeze(0).detach()
 
-                    new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
-                    new_data['code'] = codels[code]
+                new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
+                new_data['code'] = codels[code]
 
-                    self.data.append(new_data)
+                self.data.append(new_data)
 
         self.max_length = max([l['emb_length'] for l in self.data])
 
