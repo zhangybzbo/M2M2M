@@ -9,9 +9,9 @@ from model import Network, AttnNet, HiddenNet, TransformerNet
 from unique_code import code_to_index, word_to_index, read_vocab, tokenizer, read_embed, pre_embed, get_elmo
 
 Spell_check = False  # TODO: spell check not applied right
-Pretrain_type = 'elmo_repre'  # bert / elmo_repre / elmo_layer
+Pretrain_type = 'bert'  # bert / elmo_repre / elmo_layer
 
-DATA_path = 'datasets/'
+DATA_path = 'data/'
 MODEL_path = 'models/'
 SAVE_DIR = 'models/Normal/'
 word_list = 'wordls.txt'
@@ -29,15 +29,15 @@ D_k = 64
 D_v = 64
 Num_layers = 6
 Num_head = 5
-Dropout = 0.3
+Dropout = 0.2
 
 Learning_rate = 0.0001
 Weight_decay = 0.0015
 LR_decay = 0.5
-Epoch = 300
+Epoch = 600
 LR_decay_epoch = 300
-Batch_size = 100
-Val_every = 20
+Batch_size = 128
+Val_every = 50
 
 torch.manual_seed(1)
 torch.cuda.manual_seed(1)
@@ -75,13 +75,15 @@ def train():
     criterion = nn.CrossEntropyLoss()
 
     Acc = 0.
-    for fold in range(10):
+    for fold in range(5):
         Net = TransformerNet(Pretrain_type, pretrain, Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
                              D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head, Freeze=Freeze_emb).cuda()
         optimizer = optim.Adam(Net.parameters(), lr=Learning_rate, eps=1e-08, weight_decay=Weight_decay)
 
-        train_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.train.txt'
-        val_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.validation.txt'
+        # train_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.train.txt'
+        # val_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.validation.txt'
+        train_file = DATA_path + 'trainsplit_' + str(fold) + '.csv'
+        val_file = DATA_path + 'val_' + str(fold) + '.csv'
         train_data = tokenizer(word_id, code_id, train_file, pretrain_type=Pretrain_type)
         val_data = tokenizer(word_id, code_id, val_file, pretrain_type=Pretrain_type)
 
@@ -130,7 +132,7 @@ def train():
                       ' validation: %d correct, %.4f accuracy' %
                       (fold, e, loss.item(), train_correct, train_accuracy, val_correct, val_accuracy), flush=True)
 
-                torch.save(Net.state_dict(), SAVE_DIR + 'Net_false_' + str(fold) + '_' + str(e))
+                torch.save(Net.state_dict(), SAVE_DIR + 'data1_false_' + str(fold) + '_' + str(e))
 
             if (e + 1) % LR_decay_epoch == 0:
                 adjust_learning_rate(optimizer, LR_decay)
@@ -141,7 +143,7 @@ def train():
         del train_data, val_data
         gc.collect()
 
-    print('finial validation accuracy: %.4f' % (Acc / 10))
+    print('finial validation accuracy: %.4f' % (Acc / 5))
 
 def test():
     pretrain, code_id, word_id = source_prepare()
@@ -151,10 +153,11 @@ def test():
     for fold in range(10):
         Net = TransformerNet(Pretrain_type, pretrain, Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
                              D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head, Freeze=Freeze_emb).cuda()
-        Net.load_state_dict(torch.load(SAVE_DIR + 'Net_false_' + str(fold) + '_299'))
+        Net.load_state_dict(torch.load(SAVE_DIR + 'data1_false_' + str(fold) + '_599'))
         Net.eval()
 
-        test_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.test.txt'
+        # test_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.test.txt'
+        test_file = DATA_path + 'test_' + str(fold) + '.csv'
         test_data = tokenizer(word_id, code_id, test_file, pretrain_type=Pretrain_type)
 
         print('Fold %d: %d test data' % (fold, len(test_data.data)))
@@ -179,7 +182,7 @@ def test():
         del test_data
         gc.collect()
 
-    print('finial validation accuracy: %.4f' % (Acc / 10), flush=True)
+    print('finial validation accuracy: %.4f' % (Acc / 5), flush=True)
 
 
 if __name__ == "__main__":

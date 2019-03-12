@@ -132,7 +132,8 @@ class tokenizer(object):
             self.pre_model.eval()
 
 
-        with open(datafile, encoding='windows-1252') as f:
+        #with open(datafile, encoding='windows-1252') as f:
+        with open(datafile) as f:
             '''for line in f.readlines():
                 new_data = dict()
                 #code = line.strip().split('\t')[1]
@@ -172,8 +173,8 @@ class tokenizer(object):
 
             for line in f.readlines():
 
-                code = line.strip().split('\t')[0]
-                phrase = line.strip().split('\t')[2]
+                code = line.strip().split('\t')[1]
+                phrase = line.strip().split('\t')[0]
                 new_data = dict()
                 words = re.split(' |,|\)|\(|-|/|\.|\'|\"', phrase.strip())
                 words = [word.strip().lower() for word in words if not word.strip() == '']
@@ -194,11 +195,12 @@ class tokenizer(object):
                         new_data['emb'][i, :, :] = torch.from_numpy(pre_embed[i])
                 elif pretrain_type == 'bert':
                     bert_text = tokenizer.tokenize(' '.join(words))
+                    bert_text = ['[CLS]'] + bert_text + ['[SEP]']
                     bert_token = tokenizer.convert_tokens_to_ids(bert_text)
                     bert_tensor = torch.tensor([bert_token]).cuda()
                     new_data['emb_length'] = len(bert_token)
                     pre_embed, _ = self.pre_model(bert_tensor)
-                    new_data['emb'] = pre_embed[11].squeeze(0).detach()
+                    new_data['emb'] = pre_embed[-2].squeeze(0).detach()
 
                 new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
                 new_data['code'] = codels[code]
