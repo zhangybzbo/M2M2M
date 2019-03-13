@@ -125,8 +125,6 @@ def load_vocab(vocab_file):
   with open(vocab_file) as reader:
     while True:
       token = convert_to_unicode(reader.readline().strip())
-      print(token)
-      input()
       if not token:
         break
       token = token.strip()
