@@ -210,7 +210,7 @@ class tokenizer(object):
                     bert_text = ['[CLS]']
                     for word in words:
                         bert_text.extend(tokenizer.tokenize(word))
-                    bert_text = bert_text.extend(['[SEP]'])
+                    bert_text.extend(['[SEP]'])
                     bert_token = tokenizer.convert_tokens_to_ids(bert_text)
                     bert_tensor = torch.tensor([bert_token]).cuda()
                     new_data['emb_length'] = len(bert_token)
