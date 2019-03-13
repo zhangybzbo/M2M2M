@@ -207,8 +207,10 @@ class tokenizer(object):
                     pre_embed, _ = self.pre_model(bert_tensor)
                     new_data['emb'] = pre_embed[-2].squeeze(0).detach()
                 elif pretrain_type == 'biobert':
-                    bert_text = [tokenizer.tokenize(word) for word in words]
-                    bert_text = ['[CLS]'] + bert_text + ['[SEP]']
+                    bert_text = ['[CLS]']
+                    for word in words:
+                        bert_text.extend(tokenizer.tokenize(word))
+                    bert_text = bert_text.extend(['[SEP]'])
                     bert_token = tokenizer.convert_tokens_to_ids(bert_text)
                     bert_tensor = torch.tensor([bert_token]).cuda()
                     new_data['emb_length'] = len(bert_token)
