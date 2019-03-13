@@ -211,7 +211,7 @@ class TransformerNet(nn.Module):
             standard_emb = torch.sum(standard_emb, 1)
             standard_emb = torch.mul(standard_emb, self.emb_scale)
             w_embed = torch.cat((self.HealthVec(seq), standard_emb), dim=-1)
-        elif self.pretrain_type == 'elmo_repre' or self.pretrain_type == 'bert':
+        elif self.pretrain_type == 'elmo_repre' or self.pretrain_type == 'bert' or self.pretrain_type == 'biobert':
             w_embed = torch.cat((self.HealthVec(seq), pre_emb), dim=-1)
         else:
             w_embed = self.HealthVec(seq)

@@ -9,7 +9,7 @@ from model import Network, AttnNet, HiddenNet, TransformerNet
 from unique_code import code_to_index, word_to_index, read_vocab, tokenizer, read_embed, pre_embed, get_elmo
 
 Spell_check = False  # TODO: spell check not applied right
-Pretrain_type = 'bert'  # bert / elmo_repre / elmo_layer
+Pretrain_type = 'biobert'  # biobert / bert / elmo_repre / elmo_layer
 
 DATA_path = 'data/'
 MODEL_path = 'models/'
@@ -20,9 +20,9 @@ char_list = 'charls.txt'
 pretrained = 'Health_2.5mreviews.s200.w10.n5.v15.cbow.txt'
 
 Freeze_emb = False
-Max_seq_len = 40 if Pretrain_type == 'bert' else 35
+Max_seq_len = 40 if Pretrain_type == 'bert' or Pretrain_type == 'biobert' else 35
 HealthVec_size = 200
-Embedding_size = 200 + 768 if Pretrain_type == 'bert' else 200 + 1024
+Embedding_size = 200 + 768 if Pretrain_type == 'bert'or Pretrain_type == 'biobert' else 200 + 1024
 Hidden_size = 200
 Inner_hid_size = 1024
 D_k = 64
@@ -132,7 +132,7 @@ def train():
                       ' validation: %d correct, %.4f accuracy' %
                       (fold, e, loss.item(), train_correct, train_accuracy, val_correct, val_accuracy), flush=True)
 
-                torch.save(Net.state_dict(), SAVE_DIR + 'data1_false_' + str(fold) + '_' + str(e))
+                torch.save(Net.state_dict(), SAVE_DIR + 'data1_false_biobert_' + str(fold) + '_' + str(e))
 
             if (e + 1) % LR_decay_epoch == 0:
                 adjust_learning_rate(optimizer, LR_decay)
@@ -153,7 +153,7 @@ def test():
     for fold in range(5):
         Net = TransformerNet(Pretrain_type, pretrain, Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
                              D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head, Freeze=Freeze_emb).cuda()
-        Net.load_state_dict(torch.load(SAVE_DIR + 'data1_false_' + str(fold) + '_599'))
+        Net.load_state_dict(torch.load(SAVE_DIR + 'data1_false_biobert_' + str(fold) + '_599'))
         Net.eval()
 
         # test_file = DATA_path + 'AskAPatient/AskAPatient.fold-' + str(fold) + '.test.txt'

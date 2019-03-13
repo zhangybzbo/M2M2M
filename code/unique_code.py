@@ -6,6 +6,7 @@ from allennlp.commands.elmo import ElmoEmbedder
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
 import collections
 import random
+import BioBERT_token
 
 random.seed(1)
 
@@ -130,6 +131,10 @@ class tokenizer(object):
             tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
             self.pre_model = BertModel.from_pretrained('bert-base-uncased').cuda()
             self.pre_model.eval()
+        elif pretrain_type == 'biobert':
+            tokenizer = BioBERT_token.FullTokenizer('models/pubmed_pmc_470k/vocab.txt', do_lower_case=True)
+            self.pre_model = BertModel.from_pretrained('models/pubmed_pmc_470k/').cuda()
+            self.pre_model.eval()
 
 
         #with open(datafile, encoding='windows-1252') as f:
@@ -201,6 +206,14 @@ class tokenizer(object):
                     new_data['emb_length'] = len(bert_token)
                     pre_embed, _ = self.pre_model(bert_tensor)
                     new_data['emb'] = pre_embed[-2].squeeze(0).detach()
+                elif pretrain_type == 'biobert':
+                    bert_text = [tokenizer.tokenize(word) for word in words]
+                    bert_text = ['[CLS]'] + bert_text + ['[SEP]']
+                    bert_token = tokenizer.convert_tokens_to_ids(bert_text)
+                    bert_tensor = torch.tensor([bert_token]).cuda()
+                    new_data['emb_length'] = len(bert_token)
+                    pre_embed, _ = self.pre_model(bert_tensor)
+                    new_data['emb'] = pre_embed[-2].squeeze(0).detach()
 
                 new_data['position'] = [i + 1 for i in range(new_data['emb_length'])]
                 new_data['code'] = codels[code]
@@ -228,13 +241,13 @@ class tokenizer(object):
             pre_model = torch.zeros((batch_size, max(seq_length), 1024), requires_grad=False).cuda()
         elif self.pretrain == 'elmo_layer':
             pre_model = torch.zeros((batch_size, 3, max(seq_length), 1024), requires_grad=False).cuda()
-        elif self.pretrain == 'bert':
+        elif self.pretrain == 'bert' or self.pretrain == 'biobert':
             pre_model = torch.zeros((batch_size, max(seq_length), 768), requires_grad=False).cuda()
         else:
             pre_model = None
 
         for i, element in enumerate(batch):
-            if self.pretrain == 'elmo_repre' or self.pretrain == 'bert':
+            if self.pretrain == 'elmo_repre' or self.pretrain == 'bert' or self.pretrain == 'biobert':
                 pre_model[i, :element['emb_length'], :] = element['emb']
             elif self.pretrain:
                 pre_model[i, :, :element['emb_length'], :] = element['emb']
