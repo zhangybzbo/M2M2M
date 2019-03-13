@@ -208,7 +208,7 @@ class tokenizer(object):
                     new_data['emb'] = pre_embed[-2].squeeze(0).detach()
                 elif pretrain_type == 'biobert':
                     bert_text = ['[CLS]']
-                    for word in words:
+                    for word in phrase.strip().split(' '):
                         bert_text.extend(tokenizer.tokenize(word))
                     bert_text.extend(['[SEP]'])
                     bert_token = tokenizer.convert_tokens_to_ids(bert_text)
