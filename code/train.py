@@ -150,7 +150,7 @@ def test():
     print('%d different words, %d different codes' % (len(word_id), len(code_id)), flush=True)
 
     Acc = 0.
-    for fold in range(10):
+    for fold in range(5):
         Net = TransformerNet(Pretrain_type, pretrain, Max_seq_len, Embedding_size, Inner_hid_size, len(code_id), D_k,
                              D_v, dropout_ratio=Dropout, num_layers=Num_layers, num_head=Num_head, Freeze=Freeze_emb).cuda()
         Net.load_state_dict(torch.load(SAVE_DIR + 'data1_false_' + str(fold) + '_599'))

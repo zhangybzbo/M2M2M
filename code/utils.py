@@ -52,9 +52,6 @@ def word_reader(filels=None, cache=None):
         with open(cache) as f:
             for i, w in enumerate(f.readlines()):
                 word2index[w.strip()] = i
-        print(word2index)
-        print(i)
-        input()
         fw = open(cache, "a+")
         for id in filels[0]:
             with open(filels[1] + id + '.txt') as ftxt:
@@ -68,8 +65,7 @@ def word_reader(filels=None, cache=None):
                         i += 1
                         fw.write(word.strip().lower() + '\n')
         fw.close()
-        print(i)
-        input()
+
     elif cache:
         with open(cache) as fw:
             for i, w in enumerate(fw.readlines()):
