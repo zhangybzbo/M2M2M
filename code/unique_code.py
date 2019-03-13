@@ -132,7 +132,7 @@ class tokenizer(object):
             self.pre_model = BertModel.from_pretrained('bert-base-uncased').cuda()
             self.pre_model.eval()
         elif pretrain_type == 'biobert':
-            tokenizer = BioBERT_token.FullTokenizer('models/pubmed_pmc_470k/vocab.txt', do_lower_case=True)
+            tokenizer = BioBERT_token.FullTokenizer(vocab_file='models/pubmed_pmc_470k/vocab.txt', do_lower_case=True)
             self.pre_model = BertModel.from_pretrained('models/pubmed_pmc_470k/').cuda()
             self.pre_model.eval()
 
