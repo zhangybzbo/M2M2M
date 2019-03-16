@@ -260,11 +260,11 @@ def test():
                 result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
                 #print(result)
                 #print(result.size())
-                #nput()
+                #input()
 
                 for j, th in enumerate(Relation_threshold):
                     candidates = (result > th).nonzero()
-                    print(candidates)
+                    #print(candidates)
                     for location, rtype in gts:
                         gt = location * Relation_type + rtype
                         if gt in candidates:
