@@ -214,12 +214,14 @@ def test():
     micro_F1 = [0.] * len(Relation_threshold)
     total_F1_9 = [0.] * len(Relation_threshold)
     micro_F1_9 = [0.] * len(Relation_threshold)
+    precision_9 = [0.] * len(Relation_threshold)
+    recall_9 = [0.] * len(Relation_threshold)
     while not test_data.epoch_finish:
         standard_emb, e_label, e_posi, r_label, seq_length, mask, seq_pos = test_data.get_batch(Batch_size)
-        #print(standard_emb.size())
-        #print(e_label)
-        #print(e_posi, r_label, seq_length)
-        #input()
+        print(standard_emb.size())
+        print(e_label)
+        print(e_posi, r_label, seq_length)
+        input()
         ctx = LSTM_layer(standard_emb, seq_length)
 
         # get relationship
@@ -247,40 +249,43 @@ def test():
         for i in range(Batch_size):
             for s in range(1, seq_length[i] + 1):  # s is the count of word number
                 if s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
-                    gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][1]]
+                    gts = [(posi, r_label[i]) for posi in e_posi[i][1]]
                 elif s - 1 in e_posi[i][1] and e_posi[i][1][0] > e_posi[i][0][0]:
-                    gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][0]]
+                    gts = [(posi, r_label[i]) for posi in e_posi[i][0]]
                 else:
-                    gts = [(s - 1) * Relation_type]
-                #print(gts)
+                    gts = [((s - 1), 0)]
+                print(gts)
 
                 u = RE(ctx[i:i + 1, :s, :])
                 result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
                 #print(result)
-                #print(result.size())
-                #input()
+                print(result.size())
+                input()
 
                 for j, th in enumerate(Relation_threshold):
                     candidates = (result > th).nonzero()
-                    #print(candidates)
-                    for gt in gts:
-                        if gt in candidates and gt != (s - 1) * Relation_type:
-                            # correct find relation
-                            TP[j][r_label[i]] += 1
+                    print(candidates)
+                    for location, rtype in gts:
+                        gt = location * Relation_type + rtype
+                        if gt in candidates:
+                            # correct entity correct relation
+                            TP[j][rtype] += 1
                             candidates = candidates[candidates != gt]
-                        elif gt not in candidates and gt != (s - 1) * Relation_type:
-                            # not find relation
-                            FN[j][r_label[i]] += 1
-                        elif gt in candidates and gt == (s - 1) * Relation_type:
-                            # no relation and get it right
-                            candidates = candidates[candidates != gt]
+                        elif gt not in candidates:
+                            # at least one is wrong
+                            FN[j][rtype] += 1
                     for candidate in candidates:
-                        # the rest are wrong class
-                        FP[j][candidate % Relation_type] += 1
-                    #print(TP[j])
-                    #print(FN[j])
-                    #print(FP[j])
-                    #input()
+                        gt_locations = [l for (l, rt) in gts]
+                        if candidate // Relation_type in gt_locations:
+                            # correct entity wrong relation, omit
+                            continue
+                        else:
+                            # wrong entity
+                            FP[j][candidate % Relation_type] += 1
+                    print(TP[j])
+                    print(FN[j])
+                    print(FP[j])
+                    input()
 
 
     for j, th in enumerate(Relation_threshold):
@@ -290,9 +295,12 @@ def test():
         micro_F1[j] = (2 * sum(TP[j]) + epsilon) / (2 * sum(TP[j]) + sum(FP[j]) + sum(FN[j]) + epsilon)
         total_F1_9[j] = np.average(np.array(F1[j][1:]))
         micro_F1_9[j] = (2 * sum(TP[j][1:]) + epsilon) / (2 * sum(TP[j][1:]) + sum(FP[j][1:]) + sum(FN[j][1:]) + epsilon)
+        precision_9[j] = (sum(TP[j][1:]) + epsilon) / (sum(TP[j][1:]) + sum(FP[j][1:]) + epsilon)
+        recall_9[j] = (sum(TP[j][1:]) + epsilon) / (sum(TP[j][1:]) + sum(FN[j][1:]) + epsilon)
         print('(threshold %.2f)' % th, flush=True)
         print('with other: val ave F1: %.4f, val micro F1: %.4f' % (total_F1[j], micro_F1[j]), flush=True)
-        print('without other: val ave F1: %.4f, val micro F1: %.4f' % (total_F1_9[j], micro_F1_9[j]), flush=True)
+        print('without other: val ave F1: %.4f, val micro F1: %.4f, precision: %.4f, recall: %.4f'
+              % (total_F1_9[j], micro_F1_9[j], precision_9[j], recall_9[j]), flush=True)
 
     with open(TEST_LOG_FILE, 'a+') as LogDump:
         LogWriter = csv.writer(LogDump)
