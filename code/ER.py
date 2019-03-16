@@ -490,7 +490,6 @@ def test():
             e1 = y_all[i, :seq_length[i]].nonzero()
             e2 = e_label[i, :seq_length[i]].nonzero()
             correct_raw += int(torch.equal(e1, e2))
-        print('NER raw accuracy: %.4f' % correct_raw / count_all, flush=True)
 
         # get relationship
         for i in range(Batch_size):
@@ -525,6 +524,7 @@ def test():
                             # wrong entity
                             FP[j][candidate % Relation_type] += 1
 
+    print('NER raw accuracy: %.4f' % (correct_raw / count_all), flush=True)
     for j, th in enumerate(Relation_threshold):
         for r in range(Relation_type):
             F1[j][r] = (2 * TP[j][r] + epsilon) / (2 * TP[j][r] + FP[j][r] + FN[j][r] + epsilon)
