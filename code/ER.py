@@ -495,18 +495,17 @@ def test():
         for i in range(Batch_size):
             for s in range(1, seq_length[i] + 1):  # s is the count of word number
                 if s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
-                    gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][1]]
+                    gts = [(posi, r_label[i]) for posi in e_posi[i][1]]
                 elif s - 1 in e_posi[i][1] and e_posi[i][1][0] > e_posi[i][0][0]:
-                    gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][0]]
+                    gts = [(posi, r_label[i]) for posi in e_posi[i][0]]
                 else:
-                    gts = [(s - 1) * Relation_type]
+                    gts = [((s - 1), 0)]
 
                 u = RE(ctx[i:i + 1, :s, :], label_emb[i:i + 1, :s, :])
                 result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
 
                 for j, th in enumerate(Relation_threshold):
                     candidates = (result > th).nonzero()
-                    #print(candidates)
                     for location, rtype in gts:
                         gt = location * Relation_type + rtype
                         if gt in candidates:
