@@ -291,8 +291,7 @@ def test():
                     else:
                         # at least one is wrong
                         FN[j][r_label[i]] += 1
-                        if candidate // Relation_type not in gtp:
-                            FP[j][candidate % Relation_type] += 1
+                        FP[j][candidate % Relation_type] += 1
 
 
     for j, th in enumerate(Relation_threshold):
