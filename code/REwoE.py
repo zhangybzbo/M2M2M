@@ -230,7 +230,7 @@ def test():
 
         # get relationship
         for i in range(Batch_size):
-            for s in range(1, seq_length[i] + 1):  # s is the count of word number
+            '''for s in range(1, seq_length[i] + 1):  # s is the count of word number
                 if s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
                     gts = [(posi, r_label[i]) for posi in e_posi[i][1]]
                 elif s - 1 in e_posi[i][1] and e_posi[i][1][0] > e_posi[i][0][0]:
@@ -268,7 +268,32 @@ def test():
                     #print(TP[j])
                     #print(FN[j])
                     #print(FP[j])
-                    #input()
+                    #input()'''
+            if e_posi[i][0][0] > e_posi[i][1][0]:
+                s = e_posi[i][0][0]
+                gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][1]]
+                gtp = [posi for posi in e_posi[i][1]]
+            else:
+                s = e_posi[i][1][0]
+                gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][0]]
+                gtp = [posi for posi in e_posi[i][0]]
+
+            u = RE(ctx[i:i + 1, :s + 1, :])
+            result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
+
+            for j, th in enumerate(Relation_threshold):
+                candidates = (result > th).nonzero()
+                # print(candidates)
+                for candidate in candidates:
+                    if candidate in gts:
+                        # correct entity correct relation
+                        TP[j][r_label[i]] += 1
+                    else:
+                        # at least one is wrong
+                        if candidate // Relation_type in gtp:
+                            FN[j][r_label[i]] += 1
+                        else:
+                            FP[j][candidate % Relation_type] += 1
 
 
     for j, th in enumerate(Relation_threshold):
