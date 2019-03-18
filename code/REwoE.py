@@ -13,11 +13,12 @@ from utils import dir_reader, relation_reader, tokenizer
 epsilon = sys.float_info.epsilon
 
 SAVE_DIR = 'models/snapshots/'
-LOG_FILE = 'models/val_wo_entity.csv'
-TEST_LOG_FILE = 'models/val_wo_entity_test_2.csv'
+LOG_FILE = 'models/val_wo_entity_loss.csv'
+TEST_LOG_FILE = 'models/val_wo_entity_test_loss.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
+MODEL_NAME = '_woemb_loss_'
 
 Relation_threshold = [0.3, 0.4, 0.5]
 Relation_type = 10
@@ -32,8 +33,8 @@ Learning_rate = 0.0005
 Weight_decay = 0.0005
 Epoch = 1000
 Batch_size = 50
-Val_every = 20
-Log_every = 20
+Val_every = 50
+Log_every = 50
 
 
 def get_REteacher(s, length, e_posi, relation):
@@ -85,7 +86,7 @@ def end2end(train_data, val_data, LSTM_layer, RE, lr, epoch):
                 for i in range(Batch_size):
                     for j in range(re_count[i]):
                         teacher_ij = torch.tensor(re_teacher[i][j], dtype=torch.long, requires_grad=False).cuda()
-                        relation_loss += RE_criterion(u[i, :, :].view(1, -1), teacher_ij.view(1)) / re_count[i]
+                        relation_loss += RE_criterion(u[i, :, :].view(1, -1), teacher_ij.view(1)) / re_count[i] * s
                         #print(i,j,teacher_ij,relation_loss)
                         #input()
 
@@ -149,8 +150,8 @@ def end2end(train_data, val_data, LSTM_layer, RE, lr, epoch):
                 LogWriter.writerows(F1)
 
         if (e + 1) % Log_every == 0:
-            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM_woemb_' + str(e))
-            torch.save(RE.state_dict(), SAVE_DIR + 'RE_woemb_' + str(e))
+            torch.save(LSTM_layer.state_dict(), SAVE_DIR + 'LSTM' + MODEL_NAME + str(e))
+            torch.save(RE.state_dict(), SAVE_DIR + 'RE' + MODEL_NAME + str(e))
 
 
 
@@ -195,8 +196,8 @@ def test():
     LSTM_layer = SeqLayer(ELMo_size, Hidden_size, Hidden_layer, Dropout, Bidirection).cuda()
     RE = RelationDetect_woemb(Hidden_size, Relation_type, Hidden_size, Dropout).cuda()
 
-    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM_woemb_999'))
-    RE.load_state_dict(torch.load(SAVE_DIR + 'RE_woemb_999'))
+    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM' + MODEL_NAME + '999'))
+    RE.load_state_dict(torch.load(SAVE_DIR + 'RE' + MODEL_NAME + '999'))
 
     print('network initialized', flush=True)
 
@@ -225,27 +226,6 @@ def test():
         ctx = LSTM_layer(standard_emb, seq_length)
 
         # get relationship
-        '''for i in range(Batch_size):
-            pairs = len(e_posi[i][0]) * len(e_posi[i][1])  # for multiple words in entity
-            for e1 in e_posi[i][0]:
-                for e2 in e_posi[i][1]:
-                    gt_posi = [e1, e2]
-                    gt_posi.sort()
-                    gt_result = gt_posi[0] * Relation_type + r_label[i]
-                    #print(gt_posi)
-                    #print(gt_result)
-                    #input()
-                    u = RE(ctx[i:i + 1, :gt_posi[1] + 1, :])
-                    result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
-                    #print(result)
-                    for j, th in enumerate(Relation_threshold):
-                        if result[gt_result].item() > th:
-                            TP[j][r_label[i]] += 1 / pairs
-                        else:
-                            _, false_class = torch.max(u[0, :, :].view(-1), dim=-1)
-                            FN[j][r_label[i]] += 1 / pairs
-                            FP[j][false_class % Relation_type] += 1 / pairs'''
-
         for i in range(Batch_size):
             for s in range(1, seq_length[i] + 1):  # s is the count of word number
                 if s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
@@ -309,5 +289,5 @@ def test():
 
 
 if __name__ == "__main__":
-    # train()
+    train()
     test()
