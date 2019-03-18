@@ -290,9 +290,8 @@ def test():
                         TP[j][r_label[i]] += 1
                     else:
                         # at least one is wrong
-                        if candidate // Relation_type in gtp:
-                            FN[j][r_label[i]] += 1
-                        else:
+                        FN[j][r_label[i]] += 1
+                        if candidate // Relation_type not in gtp:
                             FP[j][candidate % Relation_type] += 1
 
 
