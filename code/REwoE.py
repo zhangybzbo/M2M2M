@@ -18,9 +18,9 @@ TEST_LOG_FILE = 'models/val_wo_entity_test_loss.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
-MODEL_NAME = '_woemb_loss_'
+MODEL_NAME = '_woemb_'
 
-Relation_threshold = [0.3, 0.4, 0.5]
+Relation_threshold = [0.1, 0.2, 0.3, 0.4, 0.5]
 Relation_type = 10
 Max_seq_len = 100
 ELMo_size = 1024
@@ -211,10 +211,13 @@ def test():
     FP = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
     FN = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
     F1 = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    Precision = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
+    Recall = [[0.] * Relation_type for _ in range(len(Relation_threshold))]
     total_F1 = [0.] * len(Relation_threshold)
     micro_F1 = [0.] * len(Relation_threshold)
     total_F1_9 = [0.] * len(Relation_threshold)
     micro_F1_9 = [0.] * len(Relation_threshold)
+    macro_F1_9 = [0.] * len(Relation_threshold)
     precision_9 = [0.] * len(Relation_threshold)
     recall_9 = [0.] * len(Relation_threshold)
     while not test_data.epoch_finish:
@@ -271,16 +274,19 @@ def test():
     for j, th in enumerate(Relation_threshold):
         for r in range(Relation_type):
             F1[j][r] = (2 * TP[j][r] + epsilon) / (2 * TP[j][r] + FP[j][r] + FN[j][r] + epsilon)
+            Precision[j][r] = (TP[j][r] + epsilon) / (TP[j][r] + FP[j][r] + epsilon)
+            Recall[j][r] = (TP[j][r] + epsilon) / (TP[j][r] + FN[j][r] + epsilon)
         total_F1[j] = np.average(np.array(F1[j]))
         micro_F1[j] = (2 * sum(TP[j]) + epsilon) / (2 * sum(TP[j]) + sum(FP[j]) + sum(FN[j]) + epsilon)
         total_F1_9[j] = np.average(np.array(F1[j][1:]))
         micro_F1_9[j] = (2 * sum(TP[j][1:]) + epsilon) / (2 * sum(TP[j][1:]) + sum(FP[j][1:]) + sum(FN[j][1:]) + epsilon)
-        precision_9[j] = (sum(TP[j][1:]) + epsilon) / (sum(TP[j][1:]) + sum(FP[j][1:]) + epsilon)
-        recall_9[j] = (sum(TP[j][1:]) + epsilon) / (sum(TP[j][1:]) + sum(FN[j][1:]) + epsilon)
+        precision_9[j] = np.average(np.array(Precision[j][1:]))
+        recall_9[j] = np.average(np.array(Recall[j][1:]))
+        macro_F1_9[j] = (2 * recall_9[j] * precision_9[j] + epsilon) / (recall_9[j] + precision_9[j] + epsilon)
         print('(threshold %.2f)' % th, flush=True)
-        print('with other: val ave F1: %.4f, val micro F1: %.4f' % (total_F1[j], micro_F1[j]), flush=True)
-        print('without other: val ave F1: %.4f, val micro F1: %.4f, precision: %.4f, recall: %.4f'
-              % (total_F1_9[j], micro_F1_9[j], precision_9[j], recall_9[j]), flush=True)
+        print('with other: ave F1: %.4f, micro F1: %.4f' % (total_F1[j], micro_F1[j]), flush=True)
+        print('without other: ave F1: %.4f, micro F1: %.4f, macro F1: %.4f, ave precision: %.4f, ave recall: %.4f'
+              % (total_F1_9[j], micro_F1_9[j], macro_F1_9[j], precision_9[j], recall_9[j]), flush=True)
 
     with open(TEST_LOG_FILE, 'a+') as LogDump:
         LogWriter = csv.writer(LogDump)
@@ -289,5 +295,5 @@ def test():
 
 
 if __name__ == "__main__":
-    train()
+    # train()
     test()
