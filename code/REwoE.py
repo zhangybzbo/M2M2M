@@ -18,7 +18,7 @@ TEST_LOG_FILE = 'models/val_wo_entity_test_loss.csv'
 TRAIN_DIR = 'corpus/train/'
 TEST_DIR = 'corpus/test/'
 RELATIONS = 'data/relations.txt'
-MODEL_NAME = '_woemb_'
+MODEL_NAME = '_noNER_'
 
 Relation_threshold = [0.1, 0.2, 0.3, 0.4, 0.5]
 Relation_type = 10
@@ -45,10 +45,12 @@ def get_REteacher(s, length, e_posi, relation):
             tmp = [p * Relation_type + relation[i].item() for p in e_posi[i][0]]
         elif s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
             tmp = [p * Relation_type + relation[i].item() for p in e_posi[i][1]]
-        elif s > length[i]:
+        else:
+            tmp = [-1]  # ignore NER
+        '''elif s > length[i]:
             tmp = [-1]
         else:
-            tmp = [(s - 1) * Relation_type]
+            tmp = [(s - 1) * Relation_type]'''
         count.append(len(tmp))
         teacher.append(tmp)
     return teacher, count
@@ -86,7 +88,7 @@ def end2end(train_data, val_data, LSTM_layer, RE, lr, epoch):
                 for i in range(Batch_size):
                     for j in range(re_count[i]):
                         teacher_ij = torch.tensor(re_teacher[i][j], dtype=torch.long, requires_grad=False).cuda()
-                        relation_loss += RE_criterion(u[i, :, :].view(1, -1), teacher_ij.view(1)) / re_count[i] * s
+                        relation_loss += RE_criterion(u[i, :, :].view(1, -1), teacher_ij.view(1)) / re_count[i] #* s
                         #print(i,j,teacher_ij,relation_loss)
                         #input()
 
@@ -230,7 +232,8 @@ def test():
 
         # get relationship
         for i in range(Batch_size):
-            '''for s in range(1, seq_length[i] + 1):  # s is the count of word number
+            '''# take NER into computation
+            for s in range(1, seq_length[i] + 1):  # s is the count of word number
                 if s - 1 in e_posi[i][0] and e_posi[i][0][0] > e_posi[i][1][0]:
                     gts = [(posi, r_label[i]) for posi in e_posi[i][1]]
                 elif s - 1 in e_posi[i][1] and e_posi[i][1][0] > e_posi[i][0][0]:
@@ -254,7 +257,7 @@ def test():
                             # correct entity correct relation
                             TP[j][rtype] += 1
                             candidates = candidates[candidates != gt]
-                        elif gt not in candidates:
+                        else:
                             # at least one is wrong
                             FN[j][rtype] += 1
                     for candidate in candidates:
@@ -269,6 +272,9 @@ def test():
                     #print(FN[j])
                     #print(FP[j])
                     #input()'''
+
+
+            # ignore NER
             if e_posi[i][0][0] > e_posi[i][1][0]:
                 s = e_posi[i][0][0]
                 gts = [posi * Relation_type + r_label[i] for posi in e_posi[i][1]]
@@ -292,6 +298,7 @@ def test():
                         # at least one is wrong
                         FN[j][r_label[i]] += 1
                         FP[j][candidate % Relation_type] += 1
+
 
 
     for j, th in enumerate(Relation_threshold):
