@@ -339,7 +339,7 @@ def test_plaintxt():
 
     path = 'test.txt'
     sentence, embedding, length = token_plaintext(path, 'elmo_repre')
-    position = [13, 16]
+    position = [3, 8]
     print('sentence:', sentence)
     print('ground truth position:', position)
     print('detect result on %d [%s]:' % (max(position), sentence[max(position)]))
