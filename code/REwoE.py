@@ -342,7 +342,7 @@ def test_plaintxt():
     position = [4, 12]
     print('sentence:', sentence)
     print('ground truth position:', position)
-    print('detect result on %d %s:' % (max(position), sentence[max(position)]))
+    print('detect result on %d [%s]:' % (max(position), sentence[max(position)]))
 
     ctx = LSTM_layer(embedding, length)
     u = RE(ctx[:, :max(position) + 1, :])
@@ -352,7 +352,7 @@ def test_plaintxt():
         print('threshold %.2f:' % (th))
         for candidate in candidates:
             entity, relat = candidate.item() // Relation_type, candidate.item() % Relation_type
-            print('entity %d %s, relation %d %s' % (entity, sentence[entity], relat, relations[relat]))
+            print('entity %d [%s], relation %d' % (entity, sentence[entity], relat))
 
 
 if __name__ == "__main__":
