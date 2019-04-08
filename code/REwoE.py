@@ -351,7 +351,7 @@ def test_plaintxt():
         candidates = (result > th).nonzero()
         print('threshold %.2f:' % (th))
         for candidate in candidates:
-            entity, relat = candidate // Relation_type, candidate % Relation_type
+            entity, relat = candidate.item() // Relation_type, candidate.item() % Relation_type
             print('entity %d %s, relation %d %s' % (entity, sentence[entity], relat, relations[relat]))
 
 
