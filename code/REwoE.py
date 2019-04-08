@@ -8,7 +8,7 @@ import torch.nn as nn
 from torch import optim
 
 from model import SeqLayer, RelationDetect_woemb
-from utils import dir_reader, relation_reader, tokenizer
+from utils import dir_reader, relation_reader, tokenizer, token_plaintext
 
 epsilon = sys.float_info.epsilon
 
@@ -323,7 +323,38 @@ def test():
         LogWriter.writerows(F1)
 
 
+def test_plaintxt():
+    relations = relation_reader(cache=RELATIONS)
+    assert relations['Other'] == 0
+    assert Relation_type == len(relations)
+    print(relations)
+
+    path = 'test.txt'
+    sentence, embedding, length = token_plaintext(path, 'elmo_repre')
+    position = [4, 12]
+    print('sentence:', sentence)
+    print('ground truth position:', position)
+    print('detect result on %d %s:' % (max(position), sentence[max(position)]))
+
+    LSTM_layer = SeqLayer(ELMo_size, Hidden_size, Hidden_layer, Dropout, Bidirection).cuda()
+    RE = RelationDetect_woemb(Hidden_size, Relation_type, Hidden_size, Dropout).cuda()
+    LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM' + MODEL_NAME + '999'))
+    RE.load_state_dict(torch.load(SAVE_DIR + 'RE' + MODEL_NAME + '999'))
+    LSTM_layer.eval()
+    RE.eval()
+    print('network initialized', flush=True)
+
+    ctx = LSTM_layer(embedding, length)
+    u = RE(ctx[:, :max(position) + 1, :])
+    result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
+    for j, th in enumerate(Relation_threshold):
+        candidates = (result > th).nonzero()
+        print('threshold %.2f:' % (th))
+        entity, relat = candidates // Relation_type, candidates % Relation_type
+        print('entity %d %s, relation %d %s' % (entity, sentence[entity], relat, relations[relat]))
+
 
 if __name__ == "__main__":
-    # train()
-    test()
+    #train()
+    #test()
+    test_plaintxt()

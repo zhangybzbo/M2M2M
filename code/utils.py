@@ -192,6 +192,30 @@ class tokenizer(object):
 
         return pre_model, entity_label, entity_posi, relation_label, seq_length, mask, posi
 
+def token_plaintext(path, pretrain_type):
+    with open(path) as ftxt:
+        line = ftxt.readlines()
+        # print(line)
+        assert len(line) == 1
+        line = line[0].strip()
+        words = line.split(' ')
+
+        if pretrain_type == 'elmo_repre':
+            elmo_id = batch_to_ids([words]).cuda()
+            pre_model = Elmo(elmo_options, elmo_weights, 2, dropout=0).cuda()
+            pre_embed = pre_model(elmo_id)
+            embed = pre_embed['elmo_representations'][1].detach()
+            # print(embed)
+        elif pretrain_type == 'elmo_layer':
+            pre_model = ElmoEmbedder(elmo_options, elmo_weights, cuda_device=0)
+            pre_embed = pre_model.embed_sentence(words)
+            embed = torch.zeros((1, 3, len(words), 1024), requires_grad=False)
+            for i in range(3):
+                embed[0, i, :, :] = torch.from_numpy(pre_embed[i])
+        else:
+            raise('must provide pretrain method')
+
+    return words, embed, len(words)
 
 if __name__ == '__main__':
     ls = dir_reader('corpus/train/')
