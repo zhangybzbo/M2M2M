@@ -215,7 +215,7 @@ def token_plaintext(path, pretrain_type):
         else:
             raise('must provide pretrain method')
 
-    return words, embed, len(words)
+    return words, embed, [len(words)]
 
 if __name__ == '__main__':
     ls = dir_reader('corpus/train/')
