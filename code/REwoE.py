@@ -329,13 +329,6 @@ def test_plaintxt():
     assert Relation_type == len(relations)
     print(relations)
 
-    path = 'test.txt'
-    sentence, embedding, length = token_plaintext(path, 'elmo_repre')
-    position = [4, 12]
-    print('sentence:', sentence)
-    print('ground truth position:', position)
-    print('detect result on %d %s:' % (max(position), sentence[max(position)]))
-
     LSTM_layer = SeqLayer(ELMo_size, Hidden_size, Hidden_layer, Dropout, Bidirection).cuda()
     RE = RelationDetect_woemb(Hidden_size, Relation_type, Hidden_size, Dropout).cuda()
     LSTM_layer.load_state_dict(torch.load(SAVE_DIR + 'LSTM' + MODEL_NAME + '999'))
@@ -344,14 +337,22 @@ def test_plaintxt():
     RE.eval()
     print('network initialized', flush=True)
 
+    path = 'test.txt'
+    sentence, embedding, length = token_plaintext(path, 'elmo_repre')
+    position = [4, 12]
+    print('sentence:', sentence)
+    print('ground truth position:', position)
+    print('detect result on %d %s:' % (max(position), sentence[max(position)]))
+
     ctx = LSTM_layer(embedding, length)
     u = RE(ctx[:, :max(position) + 1, :])
     result = nn.Softmax(dim=-1)(u[0, :, :].view(-1))
     for j, th in enumerate(Relation_threshold):
         candidates = (result > th).nonzero()
         print('threshold %.2f:' % (th))
-        entity, relat = candidates // Relation_type, candidates % Relation_type
-        print('entity %d %s, relation %d %s' % (entity, sentence[entity], relat, relations[relat]))
+        for candidate in candidates:
+            entity, relat = candidate // Relation_type, candidate % Relation_type
+            print('entity %d %s, relation %d %s' % (entity, sentence[entity], relat, relations[relat]))
 
 
 if __name__ == "__main__":
