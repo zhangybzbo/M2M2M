@@ -1,4 +1,4 @@
-A ongoing pytorch version of Transformer model to medical concept mapping.
+An ongoing pytorch version of Transformer model to medical concept mapping.
 
 `bert` embedding and spell check are unfinished.
 
